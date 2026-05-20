@@ -71,7 +71,7 @@
 
   /* ── CONFIG ── */
   const MAIN_SITE = 'https://andy-bryden.github.io/andy-bryden/';
-  const GITLAB_URL = 'https://github.com/andy-bryden/';
+  const GITHUB_URL = 'https://github.com/andy-bryden/';
   const MODAL_SRC = window.OPINIONS_MODAL_SRC || (MAIN_SITE + 'opinions-modal.js');
 
   /* ── FONTS — load if not already present ── */
