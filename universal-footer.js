@@ -5,7 +5,7 @@
  * ─────────────────────────────────────────────────────────────────────────────
  *
  * WHAT IT IS:
- *   A self-contained footer injector for all Andy Bryden GitLab Pages
+ *   A self-contained footer injector for all Andy Bryden GitHub Pages
  *   sites. Appends a consistent branded footer to every page it is loaded on.
  *   Also loads the correct opinions modal script for the current repo.
  *
@@ -14,13 +14,13 @@
  *   host page's :root.
  *
  * WHERE IT LIVES:
- *   Hosted at: https://andybryden.gitlab.io/andybryden/universal-footer.js
- *   Repo:      gitlab.com/andybryden/andybryden
+ *   Hosted at: https://andy-bryden.github.io/andy-bryden/universal-footer.js
+ *   Repo:      github.com/andy-bryden/andy-bryden
  *
  * HOW TO ADD IT TO A PAGE — two steps only:
  *
  *   1. Add the script before </body>:
- *        <script src="https://andybryden.gitlab.io/andybryden/universal-footer.js"></script>
+ *        <script src="https://andy-bryden.github.io/andy-bryden/universal-footer.js"></script>
  *
  *   2. If the repo has its own colour token file, declare it BEFORE the script
  *      tag so universal-footer.js loads the correct opinions modal:
@@ -31,7 +31,7 @@
  *   A <div class="universal-footer"> appended to document.body, containing:
  *     - "Andy Bryden · All works CC0 unless noted"
  *     - "Return to the Archives" link (main site)
- *     - GitLab link
+ *     - GitHub link
  *     - Opinions? trigger (opens the opinions modal)
  *     - ↑ Top link
  *
@@ -70,8 +70,8 @@
   'use strict';
 
   /* ── CONFIG ── */
-  const MAIN_SITE = 'https://andybryden.gitlab.io/andybryden/';
-  const GITLAB_URL = 'https://gitlab.com/andybryden/';
+  const MAIN_SITE = 'https://andy-bryden.github.io/andy-bryden/';
+  const GITLAB_URL = 'https://github.com/andy-bryden/';
   const MODAL_SRC = window.OPINIONS_MODAL_SRC || (MAIN_SITE + 'opinions-modal.js');
 
   /* ── FONTS — load if not already present ── */
@@ -148,7 +148,7 @@
       <span class="universal-footer-copy">Andy Bryden &nbsp;·&nbsp; All works CC0 unless noted</span>
       <div class="universal-footer-links">
         <a href="${MAIN_SITE}" target="_blank">Return to the Archives</a>
-        <a href="${GITLAB_URL}" target="_blank">GitLab</a>
+        <a href="${GITHUB_URL}" target="_blank">GitHub</a>
         <button id="opinions-trigger-footer">Opinions?</button>
         <a href="#top">↑ Top</a>
       </div>
