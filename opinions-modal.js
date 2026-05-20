@@ -6,7 +6,7 @@
  *
  * WHAT IT IS:
  *   A self-contained, draggable floating contact form modal for all
- *   Andy Bryden GitLab Pages sites. Injects its own HTML, CSS and
+ *   Andy Bryden GitHub Pages sites. Injects its own HTML, CSS and
  *   fonts — requires no external dependencies.
  *
  *   Layout, design and fonts are identical on every page across every repo.
@@ -14,8 +14,8 @@
  *   host page's :root.
  *
  * WHERE IT LIVES:
- *   Hosted at: https://andybryden.gitlab.io/andybryden/opinions-modal.js
- *   Repo:      gitlab.com/andybryden/andybryden
+ *   Hosted at: https://andy-bryden.github.io/andy-bryden/opinions-modal.js
+ *   Repo:      github.com/andy-bryden/andy-bryden
  *
  * HOW TO ADD IT TO A PAGE:
  *   This file is loaded automatically by universal-footer.js — you do not
@@ -49,7 +49,7 @@
  *       `;
  *       document.head.appendChild(style);
  *       const script = document.createElement('script');
- *       script.src = 'https://andybryden.gitlab.io/andybryden/opinions-modal.js';
+ *       script.src = 'https://andy-bryden.github.io/andy-bryden/opinions-modal.js';
  *       document.body.appendChild(script);
  *     })();
  *
