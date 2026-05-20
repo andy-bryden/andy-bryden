@@ -5,7 +5,7 @@
  * ─────────────────────────────────────────────────────────────────────────────
  *
  * WHAT IT IS:
- *   A self-contained sticky header injector for all Andy Bryden GitLab
+ *   A self-contained sticky header injector for all Andy Bryden GitHub
  *   Pages sites. Prepends a consistent branded header to every page it is
  *   loaded on, linking back to the main site and providing an Opinions? trigger.
  *
@@ -18,18 +18,18 @@
  *   The footer is handled separately by universal-footer.js.
  *
  * WHERE IT LIVES:
- *   Hosted at: https://andybryden.gitlab.io/andybryden/universal-header.js
- *   Repo:      gitlab.com/andybryden/andybryden
+ *   Hosted at: https://andy-bryden.github.io/andy-bryden/universal-header.js
+ *   Repo:      github.com/andy-bryden/andy-bryden
  *
  * HOW TO ADD IT TO A PAGE — one step only:
  *
  *   Add the script before </body> (after any colour token declarations):
- *     <script src="https://andybryden.gitlab.io/andybryden/universal-header.js"></script>
+ *     <script src="https://andy-bryden.github.io/andy-bryden/universal-header.js"></script>
  *
  *   Typically used alongside universal-footer.js:
  *     <script>window.OPINIONS_MODAL_SRC = 'opinions-modal-yourrepo.js';</script>
- *     <script src="https://andybryden.gitlab.io/andybryden/universal-header.js"></script>
- *     <script src="https://andybryden.gitlab.io/andybryden/universal-footer.js"></script>
+ *     <script src="https://andy-bryden.github.io/andy-bryden/universal-header.js"></script>
+ *     <script src="https://andy-bryden.github.io/andy-bryden/universal-footer.js"></script>
  *
  * WHAT IT INJECTS:
  *   A <header class="universal-header"> prepended to document.body, containing:
@@ -66,7 +66,7 @@
 (function () {
   'use strict';
 
-  const MAIN_SITE = 'https://andybryden.gitlab.io/andybryden/';
+  const MAIN_SITE = 'https://andy-bryden.github.io/andy-bryden/';
 
   /* ── FONTS — load if not already present ── */
   function ensureFonts() {
