@@ -4,10 +4,13 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
-  <title>Moriarty's Maze v18.76</title>
-  <link
-    href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700;900&family=Crimson+Text:ital,wght@0,400;0,600;1,400;1,600&family=IM+Fell+English:ital@0;1&display=swap"
-    rel="stylesheet">
+  <title>Moriarty's Maze — Solo Scotland Yard in Your Browser</title>
+  <meta name="description" content="A fully playable solo version of Scotland Yard set in Victorian London, 1895. Five detectives, hidden movement, 24 moves to catch Professor Moriarty. No install, no opponent required.">
+  <meta name="author" content="ADB">
+  <meta property="og:title" content="Moriarty's Maze — Solo Scotland Yard in Your Browser">
+  <meta property="og:description" content="A fully playable solo version of Scotland Yard set in Victorian London, 1895. Five detectives, hidden movement, 24 moves to catch Professor Moriarty. No install, no opponent required.">
+  <meta property="og:type" content="website">
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700;900&family=Crimson+Text:ital,wght@0,400;0,600;1,400;1,600&family=IM+Fell+English:ital@0;1&family=Inconsolata:wght@300;400&display=swap" rel="stylesheet">
   <style>
     :root {
       --parch: #f2e4c0;
@@ -38,6 +41,13 @@
       /* Gregson purple */
       --det4: #c0a000;
       /* Wiggins yellow */
+
+      /* ── Universal script token mappings ── */
+      --paper: #0d0904;
+      --aged: #1a1208;
+      --rust: var(--crimson);
+      --faded: #9a8a6a;
+      --rule: rgba(201, 151, 58, 0.3);
     }
 
     * {
@@ -66,9 +76,9 @@
       display: flex;
       flex-direction: column;
       align-items: center;
-      justify-content: center;
       gap: 18px;
       padding: 24px;
+      overflow-y: auto;
       background: radial-gradient(ellipse at 35% 30%, #2d1f08 0%, #0d0904 65%);
       overflow-y: auto;
       touch-action: pan-y;
@@ -2551,6 +2561,7 @@
     .st-begin-wrap {
       text-align: center;
       margin-top: 40px;
+      margin-bottom: 48px;
     }
 
     .st-begin-btn {
@@ -2576,15 +2587,18 @@
 </head>
 
 <body>
-  <div id="mobile-error-box"
-    style="display:none;position:fixed;top:0;left:0;right:0;z-index:9999;background:#c00;color:#fff;font-size:13px;padding:8px 12px;white-space:pre-wrap;word-break:break-all;cursor:pointer;"
-    onclick="this.style.display='none'"></div>
+  <script>document._opinionsGetById = document.getElementById.bind(document);</script>
+  <div id="mobile-error-box" style="display:none;position:fixed;top:0;left:0;right:0;z-index:9999;background:#c00;color:#fff;font-size:13px;padding:8px 12px;white-space:pre-wrap;word-break:break-all;cursor:pointer;" onclick="this.style.display='none'"></div>
 
   <div id="story-screen">
-    <div class="st-wrap">
+    <div style="position:fixed;top:0;left:0;right:0;z-index:1001;padding:0.5rem 2.5rem;border-bottom:1px solid rgba(201,151,58,0.2);background:rgba(13,10,7,0.92);backdrop-filter:blur(4px);display:grid;grid-template-columns:1fr auto 1fr;align-items:center;">
+      <a href="index.html" style="font-family:'Inconsolata',monospace;font-size:0.72rem;letter-spacing:0.12em;text-transform:uppercase;color:#9a8a6a;text-decoration:none;opacity:0.85;transition:opacity 0.2s;">ADB</a>
+      <button id="opinions-trigger" style="grid-column:3;justify-self:end;font-family:'Inconsolata',monospace;font-size:0.72rem;letter-spacing:0.12em;text-transform:uppercase;color:#9a8a6a;background:none;border:none;padding:0;cursor:pointer;opacity:0.85;transition:opacity 0.2s;">Opinions?</button>
+    </div>
+    <div class="st-wrap" style="margin-top:2.8rem;">
 
       <div class="st-masthead">
-        <div class="st-eyebrow">London &middot; 1895</div>
+        <div class="st-eyebrow">London · 1895</div>
         <h1 class="st-h1">MORIARTY'S<br><span>MAZE</span></h1>
         <div class="st-sub">A Hidden Movement Pursuit Across Victorian London</div>
       </div>
@@ -2595,15 +2609,15 @@
         <div class="st-act-label">Act the First</div>
         <h2 class="st-h2">The Napoleon of Crime</h2>
         <p>Professor James Moriarty is not the sort of man one simply loses track of. He is a mathematician, a polymath,
-          and &mdash; beneath the respectability of his academic title &mdash; the architect of London&rsquo;s criminal
-          underworld. He has organised the city&rsquo;s most dangerous men into a disciplined force, protected them from
+          and — beneath the respectability of his academic title — the architect of London's criminal
+          underworld. He has organised the city's most dangerous men into a disciplined force, protected them from
           the law, and profited handsomely from the arrangement. Holmes has called him the Napoleon of Crime. Moriarty
           has not disputed the comparison.</p>
-        <p>Holmes has been patiently dismantling Moriarty&rsquo;s web for some time. The Professor is aware of this.
-          Their struggle has been conducted, until now, at a distance &mdash; an intellectual duel between two men who
+        <p>Holmes has been patiently dismantling Moriarty's web for some time. The Professor is aware of this.
+          Their struggle has been conducted, until now, at a distance — an intellectual duel between two men who
           have each recognised, with considerable unease, that the other is their equal.</p>
         <p>This morning, however, intelligence arrived placing Moriarty somewhere within the 199 stations of
-          London&rsquo;s transport network. He is moving. He has resources. He has tricks. And he has, at most,
+          London's transport network. He is moving. He has resources. He has tricks. And he has, at most,
           twenty-four moves before the net must close or the trail goes entirely cold.</p>
         <p>Holmes received the intelligence at 7:14 in the morning. By 7:16 he was already in motion. <br><em>The game,
             as he is known to remark on such occasions, is afoot.</em></p>
@@ -2620,35 +2634,35 @@
           <div class="st-det-card">
             <span class="st-det-emoji">🔍</span>
             <div class="st-det-name">Sherlock Holmes</div>
-            <div class="st-det-desc">The world&rsquo;s only consulting detective &mdash; a distinction he created and
+            <div class="st-det-desc">The world's only consulting detective — a distinction he created and
               remains the sole occupant of. His gift for observation and deduction is without peer. Holmes considers
               Moriarty a personal matter. He is not wrong to do so.</div>
           </div>
           <div class="st-det-card">
             <span class="st-det-emoji">💼</span>
             <div class="st-det-name">Dr Watson</div>
-            <div class="st-det-desc">Former army surgeon, veteran of the Afghan campaign, and Holmes&rsquo;s steadfast
-              companion and chronicler. Watson&rsquo;s medical eye and battlefield composure make him a more formidable
+            <div class="st-det-desc">Former army surgeon, veteran of the Afghan campaign, and Holmes's steadfast
+              companion and chronicler. Watson's medical eye and battlefield composure make him a more formidable
               ally than the popular accounts of him suggest.</div>
           </div>
           <div class="st-det-card">
             <span class="st-det-emoji">🕵️‍♂️</span>
             <div class="st-det-name">Insp. Lestrade</div>
-            <div class="st-det-desc">Scotland Yard&rsquo;s most tenacious inspector. Holmes has compared him to a
-              bulldog &mdash; an assessment Lestrade takes as a compliment, and is not entirely wrong to. He will not
+            <div class="st-det-desc">Scotland Yard's most tenacious inspector. Holmes has compared him to a
+              bulldog — an assessment Lestrade takes as a compliment, and is not entirely wrong to. He will not
               let go of a case. Not ever.</div>
           </div>
           <div class="st-det-card">
             <span class="st-det-emoji">🫆</span>
             <div class="st-det-name">Insp. Gregson</div>
             <div class="st-det-desc">Holmes once called Gregson the smartest of the Scotland Yarders, which is either
-              high praise or a carefully worded slight, depending on one&rsquo;s view of Scotland Yard. Gregson has
+              high praise or a carefully worded slight, depending on one's view of Scotland Yard. Gregson has
               chosen to interpret it as the former.</div>
           </div>
           <div class="st-det-card">
             <span class="st-det-emoji">👣</span>
             <div class="st-det-name">Wiggins</div>
-            <div class="st-det-desc">Leader of the Baker Street Irregulars &mdash; Holmes&rsquo;s unofficial
+            <div class="st-det-desc">Leader of the Baker Street Irregulars — Holmes's unofficial
               intelligence network of London street children. Where a detective is noticed, Wiggins is invisible. He
               knows the city not as a map, but as a living thing.</div>
           </div>
@@ -2660,7 +2674,7 @@
       <div class="st-act">
         <div class="st-act-label">Act the Third</div>
         <h2 class="st-h2">The City</h2>
-        <p>London&rsquo;s transport network is vast, overlapping, and &mdash; for a man who knows it well &mdash;
+        <p>London's transport network is vast, overlapping, and — for a man who knows it well —
           remarkably easy to vanish into. Moriarty knows it very well indeed. The Professor may move by any of four
           means, and the detectives must account for all of them.</p>
         <div class="st-transport-grid">
@@ -2703,7 +2717,7 @@
 
       <div class="st-act">
         <div class="st-telegram">
-          <div class="st-telegram-hdr">TELEGRAM &mdash; RECEIVED 07:14 &mdash; MOST URGENT</div>
+          <div class="st-telegram-hdr">TELEGRAM — RECEIVED 07:14 — MOST URGENT</div>
           <div class="st-telegram-body">
             FROM: MYCROFT HOLMES, WHITEHALL STOP<br>
             TO: MR SHERLOCK HOLMES, BAKER STREET STOP<br><br>
@@ -2711,7 +2725,7 @@
             YOU HAVE UNTIL NIGHTFALL STOP<br>
             DO NOT LET HIM REACH THE CONTINENT STOP
           </div>
-          <div class="st-telegram-attr">&mdash; M</div>
+          <div class="st-telegram-attr">— M</div>
         </div>
       </div>
 
@@ -2720,9 +2734,23 @@
       </div>
 
     </div>
+
+    <div style="padding:1.5rem 4vw;display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:1rem;font-family:'Inconsolata',monospace;font-size:0.72rem;letter-spacing:0.08em;color:rgba(201,151,58,0.4);border-top:1px solid rgba(201,151,58,0.2);">
+      <span>Andy Bryden  ·  All works CC0 unless noted</span>
+      <div style="display:flex;gap:1.5rem;align-items:center;">
+        <a href="index.html" style="color:rgba(201,151,58,0.4);text-decoration:none;font-family:'Inconsolata',monospace;font-size:0.72rem;letter-spacing:0.08em;transition:color 0.2s;">Home</a>
+        <a href="https://github.com/andy-bryden/" target="_blank" style="color:rgba(201,151,58,0.4);text-decoration:none;font-family:'Inconsolata',monospace;font-size:0.72rem;letter-spacing:0.08em;transition:color 0.2s;">GitHub</a>
+        <button id="opinions-trigger-footer" style="font-family:'Inconsolata',monospace;font-size:0.72rem;letter-spacing:0.08em;color:rgba(201,151,58,0.4);background:none;border:none;padding:0;cursor:pointer;transition:color 0.2s;">Opinions?</button>
+      </div>
+    </div>
   </div>
 
   <div id="title-screen">
+    <div style="position:fixed;top:0;left:0;right:0;z-index:1001;padding:0.5rem 2.5rem;border-bottom:1px solid rgba(201,151,58,0.2);background:rgba(13,10,7,0.92);backdrop-filter:blur(4px);display:grid;grid-template-columns:1fr auto 1fr;align-items:center;">
+      <a href="index.html" style="font-family:'Inconsolata',monospace;font-size:0.72rem;letter-spacing:0.12em;text-transform:uppercase;color:#9a8a6a;text-decoration:none;opacity:0.85;transition:opacity 0.2s;">ADB</a>
+      <button id="opinions-trigger-2" style="grid-column:3;justify-self:end;font-family:'Inconsolata',monospace;font-size:0.72rem;letter-spacing:0.12em;text-transform:uppercase;color:#9a8a6a;background:none;border:none;padding:0;cursor:pointer;opacity:0.85;transition:opacity 0.2s;">Opinions?</button>
+    </div>
+    <div style="height:2.8rem;flex-shrink:0;"></div>
     <div class="t-orn">London · 1895</div>
     <h1 onclick="showStory()" style="cursor:pointer">MORIARTY'S<br><span>MAZE</span></h1>
     <div class="t-sub">A Hidden Movement Pursuit Across Victorian London</div>
@@ -2749,9 +2777,18 @@
         <div class="mode-desc">Direct the pursuit; Sherlock offers guidance.</div>
       </button>
     </div>
-    <div class="mode-sim" onclick="startGame('simulator')">⚙️ &nbsp;<strong>Simulator</strong><span class="sim-sub"> —
+    <div class="mode-sim" onclick="startGame('simulator')">⚙️  <strong>Simulator</strong><span class="sim-sub"> —
         AI vs AI tactical analysis</span></div>
     <div class="t-rule"></div>
+
+    <div style="padding:1.5rem 4vw;display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:1rem;font-family:'Inconsolata',monospace;font-size:0.72rem;letter-spacing:0.08em;color:rgba(201,151,58,0.4);border-top:1px solid rgba(201,151,58,0.2);">
+      <span>Andy Bryden  ·  All works CC0 unless noted</span>
+      <div style="display:flex;gap:1.5rem;align-items:center;">
+        <a href="index.html" style="color:rgba(201,151,58,0.4);text-decoration:none;font-family:'Inconsolata',monospace;font-size:0.72rem;letter-spacing:0.08em;transition:color 0.2s;">Home</a>
+        <a href="https://github.com/andy-bryden/" target="_blank" style="color:rgba(201,151,58,0.4);text-decoration:none;font-family:'Inconsolata',monospace;font-size:0.72rem;letter-spacing:0.08em;transition:color 0.2s;">GitHub</a>
+        <button id="opinions-trigger-footer-2" style="font-family:'Inconsolata',monospace;font-size:0.72rem;letter-spacing:0.08em;color:rgba(201,151,58,0.4);background:none;border:none;padding:0;cursor:pointer;transition:color 0.2s;">Opinions?</button>
+      </div>
+    </div>
   </div>
 
   <div id="game">
@@ -2802,10 +2839,8 @@
       <div id="move-prompt">
         <div class="mp-title" id="mp-title">Your Move</div>
         <div id="special-row">
-          <button class="sp-btn" id="fog-btn" onclick="useSpecial('fog')">🌫 Fog (<span
-              id="fog-btn-n">5</span>)</button>
-          <button class="sp-btn bluff" id="bluff-btn" onclick="useSpecial('bluff')">⚡ Bluff (<span
-              id="bluff-btn-n">2</span>)</button>
+          <button class="sp-btn" id="fog-btn" onclick="useSpecial('fog')">🌫 Fog (<span id="fog-btn-n">5</span>)</button>
+          <button class="sp-btn bluff" id="bluff-btn" onclick="useSpecial('bluff')">⚡ Bluff (<span id="bluff-btn-n">2</span>)</button>
           <button class="sp-btn cancel" id="cancel-btn" onclick="cancelSpecial()">✕ Cancel</button>
         </div>
         <div class="mp-controls">
@@ -2820,8 +2855,7 @@
             <div class="mp-actions">
               <button class="mp-btn cc" id="cc-btn" onclick="coachChoice()" style="display:none">Coach</button>
               <button class="mp-btn" id="commit-btn" onclick="commitMove()" disabled>Move →</button>
-              <button class="show-all-inline" id="clear-btn" onclick="clearSelection()"
-                style="display:none">Clear</button>
+              <button class="show-all-inline" id="clear-btn" onclick="clearSelection()" style="display:none">Clear</button>
             </div>
           </div>
         </div>
@@ -6620,7 +6654,7 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
       const who = icon === '🎩' ? 'mori' : 'det';
       e.className = 'log-entry' + (isReveal ? ' reveal' : '');
       e.dataset.who = who;
-      e.innerHTML = `<div class="log-n">${mn > 0 ? 'M' + mn : '–'}</div><div class="log-i">${icon}</div><div class="log-t">${text}</div>`;
+      e.innerHTML = `<div class="log-n">${mn > 0 ? 'M' + mn : '-'}</div><div class="log-i">${icon}</div><div class="log-t">${text}</div>`;
       log.prepend(e); log.scrollTop = 0;
     }
     function setLogFilter(filter) {
@@ -7537,6 +7571,455 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
     }
     relocateNotesArea();
     window.addEventListener('resize', relocateNotesArea);
+  </script>
+
+  <script>
+    (function () {
+      'use strict';
+
+      /* ── CONFIG ── */
+      const ENDPOINT = window.OPINIONS_ENDPOINT || 'https://formspree.io/f/xkoqyzdr';
+
+      /* ── FONTS — load if not already present ── */
+      function ensureFonts() {
+        const id = 'universal-fonts';
+        if (document._opinionsGetById(id)) return;
+        const link = document.createElement('link');
+        link.id = id;
+        link.rel = 'stylesheet';
+        link.href = 'https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300;1,400&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Inconsolata:wght@300;400;500&display=swap';
+        document.head.appendChild(link);
+      }
+
+      /* ── INJECT CSS ── */
+      function injectStyles() {
+        if (document._opinionsGetById('opinions-modal-styles')) return;
+        const style = document.createElement('style');
+        style.id = 'opinions-modal-styles';
+        style.textContent = `
+      .opinions-modal {
+        position: fixed;
+        z-index: 9999;
+        background-color: var(--paper);
+        border: 1px solid var(--rule);
+        box-shadow: 4px 8px 32px rgba(26,20,16,0.25);
+        border-radius: 4px;
+        width: 360px;
+        min-width: 260px;
+        max-width: 90vw;
+        display: none;
+        flex-direction: column;
+        overflow: hidden;
+        font-family: 'Libre Baskerville', Georgia, serif;
+      }
+      .opinions-modal.open { display: flex; }
+
+      @media (max-width: 640px) {
+        .opinions-modal { width: 92vw !important; }
+      }
+
+      .modal-handle {
+        background-color: var(--aged);
+        border-bottom: 1px solid var(--rule);
+        padding: 0.55rem 0.9rem;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        cursor: grab;
+        user-select: none;
+        gap: 0.75rem;
+      }
+      .modal-handle:active { cursor: grabbing; }
+
+      .modal-grip {
+        display: flex;
+        gap: 3px;
+        align-items: center;
+        flex-shrink: 0;
+      }
+      .modal-grip span {
+        display: block;
+        width: 16px;
+        height: 2px;
+        background: var(--rule);
+        border-radius: 2px;
+        position: relative;
+      }
+      .modal-grip span::before,
+      .modal-grip span::after {
+        content: '';
+        position: absolute;
+        left: 0; right: 0;
+        height: 2px;
+        background: var(--rule);
+        border-radius: 2px;
+      }
+      .modal-grip span::before { top: -4px; }
+      .modal-grip span::after  { top:  4px; }
+
+      .modal-close {
+        background: none;
+        border: none;
+        font-size: 1rem;
+        color: var(--faded);
+        cursor: pointer;
+        padding: 0 0.2rem;
+        line-height: 1;
+        transition: color 0.2s;
+        flex-shrink: 0;
+      }
+      .modal-close:hover { color: var(--rust); }
+
+      .modal-body {
+        padding: 1.4rem 1.6rem 1.6rem;
+        overflow-y: auto;
+        flex: 1;
+      }
+
+      .modal-intro {
+        font-size: 0.82rem;
+        color: var(--faded);
+        line-height: 1.7;
+        margin-bottom: 1.4rem;
+      }
+      @media (max-width: 640px) {
+        .modal-intro { font-size: 0.75rem; }
+      }
+
+      .modal-form label {
+        display: block;
+        font-family: 'Inconsolata', monospace;
+        font-size: 0.66rem;
+        letter-spacing: 0.16em;
+        text-transform: uppercase;
+        color: var(--gold);
+        margin-bottom: 0.3rem;
+        margin-top: 0.9rem;
+      }
+      .modal-form label:first-child { margin-top: 0; }
+
+      .modal-form input,
+      .modal-form textarea {
+        width: 100%;
+        background: var(--aged);
+        border: 1px solid var(--rule);
+        border-radius: 3px;
+        padding: 0.5rem 0.7rem;
+        font-family: 'Libre Baskerville', Georgia, serif;
+        font-size: 0.84rem;
+        color: var(--ink);
+        outline: none;
+        transition: border-color 0.2s;
+        box-sizing: border-box;
+      }
+      .modal-form input:focus,
+      .modal-form textarea:focus {
+        border-color: var(--gold);
+      }
+      .modal-form textarea {
+        resize: vertical;
+        min-height: 90px;
+        line-height: 1.6;
+      }
+      @media (max-width: 640px) {
+        .modal-form input,
+        .modal-form textarea { font-size: 0.78rem; padding: 0.4rem 0.6rem; }
+        .modal-form textarea  { min-height: 80px; }
+      }
+
+      .message-label-row {
+        display: flex;
+        align-items: baseline;
+        justify-content: space-between;
+        margin-bottom: 0.3rem;
+      }
+      .message-label-row label:first-child {
+        margin-top: 0;
+        margin-bottom: 0;
+      }
+
+      .reply-check-label {
+        display: flex;
+        align-items: center;
+        gap: 0.5rem;
+        font-family: 'Inconsolata', monospace;
+        font-size: 0.62rem;
+        letter-spacing: 0.1em;
+        text-transform: uppercase;
+        color: var(--faded);
+        cursor: pointer;
+        margin-top: 0;
+      }
+      .reply-check-label input[type="checkbox"] {
+        width: auto;
+        margin: 0;
+        accent-color: var(--rust);
+        cursor: pointer;
+      }
+
+      .modal-form .field-secondary {
+        margin-top: 1rem;
+        padding-top: 0.8rem;
+        border-top: 1px solid var(--aged);
+        display: flex;
+        flex-direction: column;
+        gap: 0.5rem;
+      }
+      .modal-form .field-secondary input {
+        font-size: 0.8rem;
+        padding: 0.4rem 0.6rem;
+        background: var(--paper);
+      }
+
+      .modal-submit {
+        margin-top: 1.2rem;
+        width: 100%;
+        background: none;
+        border: 1px solid var(--rust);
+        color: var(--rust);
+        font-family: 'Inconsolata', monospace;
+        font-size: 0.72rem;
+        letter-spacing: 0.18em;
+        text-transform: uppercase;
+        padding: 0.65rem 1rem;
+        cursor: pointer;
+        border-radius: 3px;
+        transition: background 0.2s, color 0.2s;
+      }
+      .modal-submit:hover {
+        background: var(--rust);
+        color: var(--paper);
+      }
+      @media (max-width: 640px) {
+        .modal-submit { font-size: 0.66rem; padding: 0.55rem; }
+      }
+
+      .modal-thankyou {
+        display: none;
+        text-align: center;
+        padding: 2rem 0 1rem;
+      }
+      .modal-thankyou p {
+        font-family: 'Cormorant Garamond', serif;
+        font-size: 1.3rem;
+        font-weight: 300;
+        color: var(--ink);
+        margin-bottom: 0.6rem;
+      }
+      .modal-thankyou small {
+        font-family: 'Inconsolata', monospace;
+        font-size: 0.68rem;
+        letter-spacing: 0.12em;
+        color: var(--faded);
+        text-transform: uppercase;
+      }
+    `;
+        document.head.appendChild(style);
+      }
+
+      /* ── INJECT HTML ── */
+      function injectHTML() {
+        if (document._opinionsGetById('opinions-modal')) return;
+        const div = document.createElement('div');
+        div.innerHTML = `
+      <div class="opinions-modal" id="opinions-modal" role="dialog" aria-modal="true" aria-label="Share your opinions">
+        <div class="modal-handle" id="modal-handle">
+          <div class="modal-grip"><span></span></div>
+          <button class="modal-close" id="modal-close" aria-label="Close">✕</button>
+        </div>
+        <div class="modal-body">
+          <p class="modal-intro">Everyone has an opinion. What's yours? Feel free to ask a question, share a suggestion or give some constructive criticism. I wouldn't say no to a good debate, even!</p>
+          <form class="modal-form" id="opinions-form" action="${ENDPOINT}" method="POST">
+            <div class="message-label-row">
+              <label>Message</label>
+              <label class="reply-check-label">
+                <input type="checkbox" id="reply-checkbox" name="_reply_requested"> <small>I'd like a reply</small>
+              </label>
+            </div>
+            <textarea name="message" placeholder="Say what's on your mind…" required></textarea>
+            <div class="field-secondary">
+              <input type="text" name="name" placeholder="Name (optional)" autocomplete="name">
+              <div id="email-field">
+                <input type="email" name="email" id="email-input" placeholder="Email (optional)" autocomplete="email">
+              </div>
+            </div>
+            <button type="submit" class="modal-submit">Hit Me With It!</button>
+          </form>
+          <div class="modal-thankyou" id="modal-thankyou">
+            <p>Thank you — message received.</p>
+            <small>I'll be in touch if you left an email.</small>
+          </div>
+        </div>
+      </div>
+    `;
+        document.body.appendChild(div.firstElementChild);
+      }
+
+      /* ── INIT LOGIC ── */
+      function init() {
+        ensureFonts();
+        injectStyles();
+        injectHTML();
+
+        const modal = document._opinionsGetById('opinions-modal');
+        const closeBtn = document._opinionsGetById('modal-close');
+        const handle = document._opinionsGetById('modal-handle');
+        const form = document._opinionsGetById('opinions-form');
+        const thankyou = document._opinionsGetById('modal-thankyou');
+        const replyCheckbox = document._opinionsGetById('reply-checkbox');
+        const emailInput = document._opinionsGetById('email-input');
+        const triggerNav = document._opinionsGetById('opinions-trigger');
+        const triggerFooter = document._opinionsGetById('opinions-trigger-footer');
+
+        /* ── OPEN / CLOSE ── */
+        function openModal(nearX, nearY) {
+          form.style.display = '';
+          thankyou.style.display = 'none';
+          form.reset();
+          emailInput.required = false;
+          emailInput.placeholder = 'Email (optional)';
+
+          modal.style.display = 'flex';
+          modal.classList.add('open');
+
+          const mw = modal.offsetWidth || 360;
+          const mh = modal.offsetHeight || 300;
+          const vw = window.innerWidth;
+          const vh = window.innerHeight;
+          let left, top;
+
+          if (vw <= 640) {
+            left = (vw - mw) / 2;
+            top = vh * 0.12;
+          } else {
+            left = nearX + 12;
+            top = nearY + 12;
+            if (left + mw > vw - 16) left = nearX - mw - 12;
+            if (top + mh > vh - 16) top = nearY - mh - 12;
+            left = Math.max(8, left);
+            top = Math.max(8, top);
+          }
+          modal.style.left = left + 'px';
+          modal.style.top = top + 'px';
+          modal.style.right = 'auto';
+          modal.style.bottom = 'auto';
+        }
+
+        function closeModal() {
+          modal.classList.remove('open');
+          modal.style.display = 'none';
+        }
+
+        if (!closeBtn) return;
+        closeBtn.addEventListener('click', closeModal);
+
+        if (triggerNav) {
+          triggerNav.addEventListener('click', () => {
+            const r = triggerNav.getBoundingClientRect();
+            openModal(r.left, r.bottom);
+          });
+        }
+        if (triggerFooter) {
+          triggerFooter.addEventListener('click', () => {
+            const r = triggerFooter.getBoundingClientRect();
+            openModal(r.left, r.top);
+          });
+        }
+
+        /* ── DRAG ── */
+        let dragging = false, dragOffX = 0, dragOffY = 0;
+
+        handle.addEventListener('mousedown', (e) => {
+          dragging = true;
+          const rect = modal.getBoundingClientRect();
+          dragOffX = e.clientX - rect.left;
+          dragOffY = e.clientY - rect.top;
+          modal.style.right = 'auto';
+          modal.style.bottom = 'auto';
+          e.preventDefault();
+        });
+        document.addEventListener('mousemove', (e) => {
+          if (!dragging) return;
+          let l = e.clientX - dragOffX;
+          let t = e.clientY - dragOffY;
+          l = Math.max(0, Math.min(l, window.innerWidth - modal.offsetWidth));
+          t = Math.max(0, Math.min(t, window.innerHeight - modal.offsetHeight));
+          modal.style.left = l + 'px';
+          modal.style.top = t + 'px';
+        });
+        document.addEventListener('mouseup', () => { dragging = false; });
+
+        handle.addEventListener('touchstart', (e) => {
+          const t = e.touches[0];
+          dragging = true;
+          const rect = modal.getBoundingClientRect();
+          dragOffX = t.clientX - rect.left;
+          dragOffY = t.clientY - rect.top;
+          modal.style.right = 'auto';
+          modal.style.bottom = 'auto';
+        }, { passive: true });
+        document.addEventListener('touchmove', (e) => {
+          if (!dragging) return;
+          const t = e.touches[0];
+          let l = t.clientX - dragOffX;
+          let tv = t.clientY - dragOffY;
+          l = Math.max(0, Math.min(l, window.innerWidth - modal.offsetWidth));
+          tv = Math.max(0, Math.min(tv, window.innerHeight - modal.offsetHeight));
+          modal.style.left = l + 'px';
+          modal.style.top = tv + 'px';
+        }, { passive: true });
+        document.addEventListener('touchend', () => { dragging = false; });
+
+        /* ── REPLY CHECKBOX ── */
+        replyCheckbox.addEventListener('change', () => {
+          const checked = replyCheckbox.checked;
+          emailInput.required = checked;
+          emailInput.placeholder = checked ? 'Email (required)' : 'Email (optional)';
+          if (!checked) emailInput.value = '';
+        });
+
+        /* ── FORM SUBMIT ── */
+        form.addEventListener('submit', async (e) => {
+          e.preventDefault();
+          const data = new FormData(form);
+          try {
+            const res = await fetch(form.action, {
+              method: 'POST',
+              body: data,
+              headers: { 'Accept': 'application/json' }
+            });
+            if (res.ok) {
+              form.style.display = 'none';
+              thankyou.style.display = 'block';
+            } else {
+              alert('Something went wrong — please try again.');
+            }
+          } catch {
+            alert('Could not send — please check your connection.');
+          }
+        });
+      }
+
+      /* ── WAIT FOR DOM ── */
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', init);
+      } else {
+        init();
+      }
+
+    })();
+
+  </script>
+  <script>
+    /* Wire up extra Opinions? triggers */
+    ['opinions-trigger-2', 'opinions-trigger-footer', 'opinions-trigger-footer-2'].forEach(function (id) {
+      var btn = document._opinionsGetById(id);
+      if (!btn) return;
+      btn.addEventListener('click', function () {
+        var primary = document._opinionsGetById('opinions-trigger');
+        if (primary) primary.click();
+      });
+    });
   </script>
 </body>
 
