@@ -30,45 +30,32 @@
       --crimson: #8b1a1a;
       --crim-hi: #c02020;
       --ink: #1a1208;
-      /* Detective glow colours */
       --det0: #e06000;
-      /* Holmes orange */
       --det1: #1a8a30;
-      /* Watson green */
       --det2: #1050b0;
-      /* Lestrade blue */
       --det3: #7020a0;
-      /* Gregson purple */
       --det4: #c0a000;
-      /* Wiggins yellow */
-
-      /* ── Universal script token mappings ── */
       --paper: #0d0904;
       --aged: #1a1208;
       --rust: var(--crimson);
       --faded: #9a8a6a;
       --rule: rgba(201, 151, 58, 0.3);
     }
-
     * {
       box-sizing: border-box;
       margin: 0;
       padding: 0
     }
-
     html,
     body {
       height: 100%;
       overflow: hidden
     }
-
     body {
       font-family: 'Crimson Text', serif;
       background: var(--ink);
       color: var(--parch-text)
     }
-
-    /* ── TITLE ── */
     #title-screen {
       position: fixed;
       inset: 0;
@@ -83,7 +70,6 @@
       overflow-y: auto;
       touch-action: pan-y;
     }
-
     .t-orn {
       font-family: 'Cinzel', serif;
       font-size: 13px;
@@ -92,7 +78,6 @@
       color: var(--gold-hi);
       opacity: .7
     }
-
     #title-screen h1 {
       font-family: 'Cinzel', serif;
       font-weight: 900;
@@ -104,48 +89,39 @@
       text-shadow: 0 0 50px rgba(180, 120, 10, .7), 0 3px 8px rgba(0, 0, 0, .95);
       animation: flicker 7s ease-in-out infinite
     }
-
     #title-screen h1 span {
       color: var(--gold-hi)
     }
-
     @keyframes flicker {
-
       0%,
       88%,
       100% {
         opacity: 1
       }
-
       90% {
         opacity: .87
       }
-
       95% {
         opacity: .79
       }
     }
-
     .t-sub {
       font-family: 'IM Fell English', serif;
       font-size: clamp(15px, 2vw, 22px);
       color: var(--parch-dk);
       text-align: center
     }
-
     .t-rule {
       width: min(300px, 82vw);
       height: 1px;
       background: linear-gradient(to right, transparent, var(--gold-hi), transparent)
     }
-
     .mode-grid {
       display: grid;
       grid-template-columns: repeat(2, 1fr);
       gap: 12px;
       width: min(560px, 94vw)
     }
-
     .mode-sim {
       width: min(560px, 94vw);
       box-sizing: border-box;
@@ -160,17 +136,14 @@
       text-align: center;
       transition: background .18s, border-color .18s
     }
-
     .mode-sim:hover {
       background: rgba(176, 120, 8, .16);
       border-color: var(--gold-hi)
     }
-
     .sim-sub {
       color: rgba(224, 196, 100, .65);
       font-size: .9em
     }
-
     .mode-card {
       background: rgba(242, 228, 192, .07);
       border: 1px solid rgba(176, 120, 8, .35);
@@ -178,7 +151,6 @@
       text-align: center;
       cursor: pointer;
       transition: all .25s;
-      /* button reset */
       appearance: none;
       -webkit-appearance: none;
       font: inherit;
@@ -186,20 +158,17 @@
       display: block;
       border-radius: 0
     }
-
     .mode-card:hover {
       border-color: var(--gold-hi);
       transform: translateY(-3px);
       background: rgba(242, 228, 192, .13);
       box-shadow: 0 10px 32px rgba(0, 0, 0, .7), 0 0 22px rgba(180, 120, 10, .18)
     }
-
     .mode-icon {
       font-size: 28px;
       display: block;
       margin-bottom: 8px
     }
-
     .mode-title {
       font-family: 'Cinzel', serif;
       font-size: 14px;
@@ -209,13 +178,11 @@
       text-transform: uppercase;
       margin-bottom: 5px
     }
-
     .mode-desc {
       font-size: 14px;
       color: var(--parch-dk);
       line-height: 1.45
     }
-
     .t-foot {
       font-size: 11px;
       color: #6a5030;
@@ -223,20 +190,15 @@
       text-transform: uppercase;
       font-family: 'Cinzel', serif
     }
-
-    /* ── GAME SHELL ── */
     #game {
       display: none;
       position: fixed;
       inset: 0;
       flex-direction: column
     }
-
     #game.on {
       display: flex
     }
-
-    /* TOP BAR */
     #top-bar {
       flex-shrink: 0;
       height: 44px;
@@ -248,7 +210,6 @@
       border-bottom: 2px solid var(--gold);
       box-shadow: 0 2px 10px rgba(0, 0, 0, .5)
     }
-
     .tb-title {
       font-family: 'Cinzel', serif;
       font-size: 15px;
@@ -256,35 +217,29 @@
       color: var(--gold-hi);
       letter-spacing: 3px
     }
-
     .tb-title span {
       color: var(--parch);
       font-weight: 400
     }
-
     .tb-center {
       display: flex;
       align-items: center;
       gap: 14px
     }
-
     .tb-move {
       font-family: 'Cinzel', serif;
       font-size: 14px;
       color: var(--parch-dk);
       letter-spacing: 1px
     }
-
     .tb-move strong {
       color: #f0c840;
       font-size: 16px
     }
-
     .reveal-pips {
       display: flex;
       gap: 3px
     }
-
     .r-pip {
       width: 22px;
       height: 22px;
@@ -300,43 +255,35 @@
       color: var(--parch-dk);
       transition: all .3s
     }
-
     .r-pip.done {
       background: rgba(60, 50, 30, .3);
       border-color: rgba(60, 50, 30, .3);
       color: #666
     }
-
     .r-pip.next {
       background: rgba(140, 30, 30, .5);
       border-color: var(--crim-hi);
       color: #f08080;
       animation: pip-p 1.3s ease-in-out infinite
     }
-
     .r-pip.now {
       background: var(--crimson);
       border-color: var(--crim-hi);
       color: #fff
     }
-
     @keyframes pip-p {
-
       0%,
       100% {
         opacity: 1
       }
-
       50% {
         opacity: .35
       }
     }
-
     .tb-actions {
       display: flex;
       gap: 5px
     }
-
     .tb-btn {
       background: rgba(242, 228, 192, .08);
       border: 1px solid rgba(176, 120, 8, .35);
@@ -350,22 +297,17 @@
       transition: all .2s;
       border-radius: 1px
     }
-
     .tb-btn:hover {
       border-color: var(--gold-hi);
       color: var(--parch);
       background: rgba(242, 228, 192, .16)
     }
-
-    /* CONTENT ROW */
     #content {
       flex: 1;
       display: flex;
       overflow: hidden;
       min-height: 0
     }
-
-    /* ── LEFT PANEL — Ticket Strip ── */
     #left-panel {
       width: 120px;
       flex-shrink: 0;
@@ -375,20 +317,17 @@
       flex-direction: column;
       overflow: hidden
     }
-
     @media(max-width:500px) {
       #left-panel {
         width: 80px
       }
     }
-
     .lp-header {
       padding: 6px 6px 5px;
       border-bottom: 1px solid var(--parch-dk);
       background: rgba(0, 0, 0, .04);
       text-align: center
     }
-
     .lp-title {
       font-family: 'Cinzel', serif;
       font-size: 12px;
@@ -399,7 +338,6 @@
       display: block;
       margin-bottom: 4px
     }
-
     .sim-panel {
       display: flex;
       flex-direction: column;
@@ -407,7 +345,6 @@
       padding: 8px 4px;
       height: 100%
     }
-
     .sim-title {
       font-family: 'Cinzel', serif;
       font-size: 15px;
@@ -415,13 +352,11 @@
       color: var(--gold);
       text-align: center
     }
-
     .sim-field {
       display: flex;
       flex-direction: column;
       gap: 3px
     }
-
     .sim-field label {
       font-family: 'Cinzel', serif;
       font-size: 11px;
@@ -429,7 +364,6 @@
       color: var(--parchment);
       opacity: .7
     }
-
     .sim-field input {
       background: rgba(255, 255, 255, .06);
       border: 1px solid rgba(176, 120, 8, .4);
@@ -441,13 +375,11 @@
       width: 80px;
       text-align: center
     }
-
     .sim-btns {
       display: flex;
       gap: 6px;
       margin-top: 4px
     }
-
     .sim-btn {
       flex: 1;
       background: rgba(176, 120, 8, .12);
@@ -461,26 +393,21 @@
       cursor: pointer;
       transition: background .15s
     }
-
     .sim-btn:hover {
       background: rgba(176, 120, 8, .25)
     }
-
     .sim-btn:disabled {
       opacity: .25;
       cursor: default
     }
-
     .sim-btn.stop {
       border-color: rgba(180, 40, 40, .6);
       color: #e06060;
       background: rgba(180, 40, 40, .1)
     }
-
     .sim-btn.stop:hover {
       background: rgba(180, 40, 40, .2)
     }
-
     .sim-status {
       font-family: 'Crimson Text', serif;
       font-size: 14px;
@@ -489,20 +416,17 @@
       text-align: center;
       min-height: 18px
     }
-
     .sim-log-wrap {
       flex: 1;
       display: flex;
       flex-direction: column;
       gap: 4px
     }
-
     .sim-log-hdr {
       display: flex;
       align-items: center;
       justify-content: space-between
     }
-
     .sim-log-lbl {
       font-family: 'Cinzel', serif;
       font-size: 11px;
@@ -510,7 +434,6 @@
       color: var(--parchment);
       opacity: .6
     }
-
     .sim-copy-btn {
       background: none;
       border: 1px solid rgba(176, 120, 8, .4);
@@ -522,11 +445,9 @@
       border-radius: 2px;
       cursor: pointer
     }
-
     .sim-copy-btn:hover {
       background: rgba(176, 120, 8, .15)
     }
-
     .sim-gauge {
       display: none;
       flex-direction: column;
@@ -536,22 +457,18 @@
       border: 1px solid rgba(176, 120, 8, .25);
       border-radius: 4px
     }
-
     .sim-top-row {
       display: flex;
       gap: 8px;
       align-items: flex-start
     }
-
     .sim-top-row .sim-field {
       flex-shrink: 0
     }
-
     .sim-top-row .sim-gauge {
       flex: 1;
       min-width: 0
     }
-
     .sim-gauge-bar-wrap {
       height: 10px;
       background: rgba(255, 255, 255, .08);
@@ -559,11 +476,9 @@
       overflow: hidden;
       display: flex
     }
-
     .sim-gauge-seg {
       height: 100%
     }
-
     .sim-gauge-legend {
       display: flex;
       align-items: center;
@@ -572,13 +487,11 @@
       color: var(--parchment);
       opacity: .8
     }
-
     .sim-gauge-legend span {
       display: flex;
       align-items: center;
       gap: 3px
     }
-
     .sim-gauge-legend i {
       display: inline-block;
       width: 8px;
@@ -586,7 +499,6 @@
       border-radius: 2px;
       flex-shrink: 0
     }
-
     .sim-gauge-sub {
       font-family: 'Courier New', monospace;
       font-size: 10px;
@@ -594,7 +506,6 @@
       opacity: .5;
       margin-top: 1px
     }
-
     #sim-log {
       flex: 1;
       overflow-y: auto;
@@ -609,7 +520,6 @@
       min-height: 120px;
       max-height: 300px
     }
-
     .sp-mini {
       display: flex;
       align-items: center;
@@ -620,19 +530,16 @@
       font-family: 'Cinzel', serif;
       font-weight: 700
     }
-
     .sp-mini.fog {
       background: rgba(58, 80, 104, .12);
       border: 1px solid rgba(58, 80, 104, .4);
       color: var(--fog)
     }
-
     .sp-mini.bluff {
       background: rgba(176, 120, 8, .12);
       border: 1px solid rgba(176, 120, 8, .4);
       color: var(--gold)
     }
-
     #ticket-strip {
       flex: 1;
       overflow-y: auto;
@@ -643,8 +550,6 @@
       scrollbar-width: thin;
       scrollbar-color: rgba(176, 120, 8, .2) transparent
     }
-
-    /* Ticket cells */
     .tc {
       position: relative;
       min-height: 22px;
@@ -661,7 +566,6 @@
       user-select: none;
       flex-shrink: 0
     }
-
     .tc-num {
       font-family: 'Cinzel', serif;
       font-size: 13px;
@@ -672,71 +576,55 @@
       left: 3px;
       line-height: 1
     }
-
     .tc-icon {
       font-size: 14px;
       line-height: 1
     }
-
-    /* Reveal move glow */
     .tc.reveal-move {
       border-color: var(--crimson);
       box-shadow: 0 0 6px rgba(176, 30, 30, .4), inset 0 0 4px rgba(176, 30, 30, .12)
     }
-
     .tc.reveal-move .tc-num {
       color: var(--crimson)
     }
-
-    /* Filled states */
     .tc.filled-cab {
       background: var(--cab);
       border-color: rgba(0, 0, 0, .2)
     }
-
     .tc.filled-bus {
       background: var(--bus);
       border-color: rgba(0, 0, 0, .2)
     }
-
     .tc.filled-rail {
       background: var(--rail);
       border-color: rgba(0, 0, 0, .2)
     }
-
     .tc.filled-fog {
       background: var(--fog);
       border-color: rgba(0, 0, 0, .2)
     }
-
     .tc.filled-cab .tc-num,
     .tc.filled-bus .tc-num,
     .tc.filled-rail .tc-num,
     .tc.filled-fog .tc-num {
       color: rgba(255, 255, 255, .7)
     }
-
     .tc.just-filled {
       animation: tc-pop .4s ease-out
     }
-
     @keyframes tc-pop {
       0% {
         transform: scale(.8);
         opacity: .4
       }
-
       60% {
         transform: scale(1.08)
       }
-
       100% {
         transform: scale(1);
         opacity: 1
       }
     }
-
-    /* Double bluff bracket */
     .db-group {
       position: relative;
       display: flex;
@@ -749,19 +637,16 @@
       box-shadow: 0 0 9px rgba(176, 120, 8, .35);
       animation: db-appear .3s ease-out
     }
-
     @keyframes db-appear {
       from {
         opacity: 0;
         transform: scaleY(.75)
       }
-
       to {
         opacity: 1;
         transform: scaleY(1)
       }
     }
-
     .db-label {
       font-family: 'Cinzel', serif;
       font-size: 11px;
@@ -772,14 +657,12 @@
       margin-bottom: 1px;
       font-weight: 700
     }
-
     .t-legend {
       padding: 4px 6px;
       border-top: 1px solid var(--parch-dk);
       background: rgba(0, 0, 0, .03);
       flex-shrink: 0
     }
-
     .t-item {
       display: flex;
       align-items: center;
@@ -788,7 +671,6 @@
       color: var(--parch-sub);
       margin-bottom: 1px
     }
-
     .t-swatch {
       width: 8px;
       height: 8px;
@@ -799,14 +681,11 @@
       justify-content: center;
       font-size: 7px
     }
-
-    /* ── MAP ── */
     #map-area {
       flex: 1;
       position: relative;
       overflow: hidden
     }
-
     #map-canvas {
       position: absolute;
       inset: 0;
@@ -815,11 +694,9 @@
       cursor: grab;
       touch-action: none
     }
-
     #map-canvas.panning {
       cursor: grabbing
     }
-
     #tooltip {
       position: absolute;
       z-index: 60;
@@ -837,11 +714,9 @@
       max-width: 195px;
       box-shadow: 0 4px 18px rgba(0, 0, 0, .3)
     }
-
     #tooltip.on {
       opacity: 1
     }
-
     .tt-name {
       font-family: 'Cinzel', serif;
       font-size: 15px;
@@ -850,19 +725,16 @@
       margin-bottom: 2px;
       font-weight: 700
     }
-
     .tt-sub {
       font-size: 13px;
       color: var(--parch-dk);
       display: block;
       margin-bottom: 3px
     }
-
     .tt-body {
       font-size: 14px;
       color: var(--parch-sub)
     }
-
     #reveal-flash {
       position: absolute;
       top: 10px;
@@ -882,19 +754,15 @@
       box-shadow: 0 0 50px rgba(139, 26, 26, .7);
       animation: rev-p 1.8s ease-in-out infinite
     }
-
     @keyframes rev-p {
-
       0%,
       100% {
         box-shadow: 0 0 50px rgba(139, 26, 26, .7)
       }
-
       50% {
         box-shadow: 0 0 85px rgba(200, 50, 50, .95)
       }
     }
-
     #zoom-hint {
       position: absolute;
       bottom: 6px;
@@ -906,8 +774,6 @@
       letter-spacing: 1px;
       pointer-events: none
     }
-
-    /* ── RIGHT PANEL ── */
     #right-panel {
       width: 240px;
       flex-shrink: 0;
@@ -917,19 +783,16 @@
       flex-direction: column;
       overflow: hidden
     }
-
     @media(max-width:640px) {
       #right-panel {
         display: none
       }
     }
-
     .rp-sec {
       padding: 7px 10px;
       border-bottom: 1px solid var(--parch-dk);
       flex-shrink: 0
     }
-
     .rp-lbl {
       font-family: 'Cinzel', serif;
       font-size: 13px;
@@ -939,8 +802,6 @@
       font-weight: 700;
       margin-bottom: 5px
     }
-
-    /* Detective key */
     .det-row {
       display: flex;
       gap: 6px;
@@ -949,13 +810,11 @@
       border-radius: 2px;
       transition: background .15s
     }
-
     .det-row.active-det {
       background: rgba(176, 120, 8, .12);
       border-left: 3px solid var(--gold);
       padding-left: 4px
     }
-
     .det-emoji {
       font-size: 18px;
       flex-shrink: 0;
@@ -968,12 +827,10 @@
       text-align: center;
       box-sizing: border-box
     }
-
     .det-meta {
       flex: 1;
       min-width: 0
     }
-
     .det-name-sm {
       font-family: 'Cinzel', serif;
       font-size: 15px;
@@ -983,19 +840,16 @@
       overflow: hidden;
       text-overflow: ellipsis
     }
-
     .det-pos-sm {
       font-size: 15px;
       color: var(--parch-text)
     }
-
     .det-tix-sm {
       display: flex;
       gap: 2px;
       margin-top: 1px;
       flex-wrap: wrap
     }
-
     .det-tix-sm span {
       font-size: 14px;
       padding: 1px 3px;
@@ -1003,28 +857,21 @@
       font-family: 'Cinzel', serif;
       font-weight: 700
     }
-
     .det-tix-sm .t {
       background: rgba(200, 144, 16, .18);
       color: #7a4a00;
       border: 1px solid rgba(200, 144, 16, .4)
     }
-
     .det-tix-sm .b {
       background: rgba(26, 122, 48, .18);
       color: #0a5020;
       border: 1px solid rgba(26, 122, 48, .4)
     }
-
     .det-tix-sm .u {
       background: rgba(176, 24, 24, .12);
       color: #7a0a0a;
       border: 1px solid rgba(176, 24, 24, .3)
     }
-
-    /* ── NOTEPAD STYLING: move log and coach notes ── */
-    /* move-log-wrap must be a flex column so #move-log (flex:1) gets a constrained
-   height and overflow-y:auto actually scrolls (fix: log was unconstrained) */
     #move-log-wrap {
       flex: 1;
       display: flex;
@@ -1032,7 +879,6 @@
       overflow: hidden;
       min-height: 0
     }
-
     #move-log,
     #notes-coach-log {
       background:
@@ -1045,7 +891,6 @@
       line-height: 1.6em;
       box-shadow: inset 0 1px 4px rgba(0, 0, 0, .06)
     }
-
     #rp-top {
       flex: 0 0 50%;
       display: flex;
@@ -1053,7 +898,6 @@
       overflow: hidden;
       min-height: 0
     }
-
     #move-log {
       flex: 1;
       overflow-y: auto;
@@ -1061,13 +905,9 @@
       scrollbar-width: thin;
       scrollbar-color: rgba(176, 120, 8, .45) transparent
     }
-
-    /* Alternating row tint for scannability */
     .log-entry:nth-child(even) {
       background: rgba(0, 0, 0, .028)
     }
-
-    /* Log section header — flex row, label left, filter buttons right */
     .log-sec-hdr {
       font-family: 'Cinzel', serif;
       font-size: 13px;
@@ -1083,12 +923,10 @@
       justify-content: space-between;
       white-space: nowrap
     }
-
     .log-filters {
       display: flex;
       gap: 3px
     }
-
     .log-filter-btn {
       font-family: 'Cinzel', serif;
       font-size: 10px;
@@ -1101,13 +939,10 @@
       color: var(--gold);
       transition: all .15s
     }
-
     .log-filter-btn.active {
       background: rgba(176, 120, 8, .22);
       border-color: rgba(176, 120, 8, .7)
     }
-
-    /* Log entry styles */
     .log-entry {
       display: flex;
       align-items: flex-start;
@@ -1117,18 +952,15 @@
       line-height: 1.45;
       animation: fadeIn .2s ease
     }
-
     @keyframes fadeIn {
       from {
         opacity: 0;
         transform: translateY(-2px)
       }
-
       to {
         opacity: 1
       }
     }
-
     .log-n {
       font-family: 'Cinzel', serif;
       font-size: 15px;
@@ -1138,22 +970,18 @@
       min-width: 20px;
       font-weight: 700
     }
-
     .log-i {
       font-size: 15px;
       flex-shrink: 0
     }
-
     .log-t {
       color: var(--parch-text);
       font-size: 17px
     }
-
     .log-t strong {
       color: var(--parch-text);
       font-style: normal
     }
-
     .log-entry.reveal {
       background: rgba(139, 26, 26, .08);
       border-left: 3px solid var(--crim-hi);
@@ -1161,20 +989,15 @@
       margin-left: -4px;
       border-radius: 1px
     }
-
     .log-entry.reveal .log-t {
       color: var(--crimson)
     }
-
-    /* Filter hiding — CSS-driven via data attribute */
     #move-log[data-filter="mori"] .log-entry:not([data-who="mori"]) {
       display: none
     }
-
     #move-log[data-filter="reveal"] .log-entry:not(.reveal) {
       display: none
     }
-
     #notes-area {
       flex: 0 0 50%;
       display: flex;
@@ -1182,7 +1005,6 @@
       flex-direction: column;
       overflow: hidden
     }
-
     .notes-hdr {
       font-family: 'Cinzel', serif;
       font-size: 13px;
@@ -1197,7 +1019,6 @@
       justify-content: space-between;
       align-items: center
     }
-
     #notes-coach-log {
       flex: 1;
       overflow-y: auto;
@@ -1205,7 +1026,6 @@
       scrollbar-width: thin;
       scrollbar-color: rgba(26, 112, 48, .2) transparent
     }
-
     .coach-entry {
       font-family: 'Crimson Text', serif;
       font-size: 18px;
@@ -1216,9 +1036,6 @@
       padding-left: 7px;
       font-weight: 600
     }
-
-
-    /* ── BOTTOM BAR — slim status only ── */
     #bottom-bar {
       flex-shrink: 0;
       height: 36px;
@@ -1227,7 +1044,6 @@
       display: flex;
       align-items: center
     }
-
     #status-col {
       flex: 1;
       display: flex;
@@ -1236,13 +1052,11 @@
       gap: 14px;
       padding: 0 14px
     }
-
     #status-strip {
       display: flex;
       align-items: center;
       gap: 7px
     }
-
     .ph-dot {
       width: 8px;
       height: 8px;
@@ -1250,21 +1064,17 @@
       flex-shrink: 0;
       animation: ph-p 1.5s ease-in-out infinite
     }
-
     @keyframes ph-p {
-
       0%,
       100% {
         opacity: 1;
         transform: scale(1)
       }
-
       50% {
         opacity: .4;
         transform: scale(.6)
       }
     }
-
     .ph-txt {
       font-family: 'Cinzel', serif;
       font-size: 14px;
@@ -1272,7 +1082,6 @@
       letter-spacing: 1px;
       font-weight: 700
     }
-
     #ai-bar {
       display: none;
       align-items: center;
@@ -1281,11 +1090,9 @@
       font-size: 16px;
       color: var(--parch-text)
     }
-
     #ai-bar.on {
       display: flex
     }
-
     .think-dots span {
       display: inline-block;
       width: 4px;
@@ -1295,31 +1102,24 @@
       margin: 0 1px;
       animation: td 1.1s ease-in-out infinite
     }
-
     .think-dots span:nth-child(2) {
       animation-delay: .15s
     }
-
     .think-dots span:nth-child(3) {
       animation-delay: .3s
     }
-
     @keyframes td {
-
       0%,
       80%,
       100% {
         transform: scale(.5);
         opacity: .3
       }
-
       40% {
         transform: scale(1);
         opacity: 1
       }
     }
-
-    /* Move prompt — fixed overlay, bottom-left of map */
     #move-prompt {
       display: flex;
       flex-direction: column;
@@ -1332,13 +1132,11 @@
       border-top-right-radius: 4px;
       box-shadow: 4px -4px 18px rgba(0, 0, 0, .18)
     }
-
     @media(max-width:500px) {
       #move-prompt {
         width: 100%
       }
     }
-
     .mp-title {
       font-family: 'Cinzel', serif;
       font-size: 15px;
@@ -1347,8 +1145,6 @@
       color: var(--gold);
       font-weight: 700
     }
-
-    /* Special row always occupies space — visibility:hidden when not active */
     #special-row {
       display: flex;
       gap: 6px;
@@ -1357,11 +1153,9 @@
       min-height: 34px;
       align-items: center
     }
-
     #special-row.on {
       visibility: visible
     }
-
     .sp-btn {
       background: rgba(58, 80, 104, .08);
       border: 1.5px solid rgba(58, 80, 104, .4);
@@ -1376,38 +1170,31 @@
       border-radius: 2px;
       font-weight: 700
     }
-
     .sp-btn:hover {
       background: rgba(58, 80, 104, .18)
     }
-
     .sp-btn:disabled {
       opacity: .25;
       cursor: default
     }
-
     .sp-btn.bluff {
       background: rgba(176, 120, 8, .08);
       border-color: rgba(176, 120, 8, .45);
       color: var(--gold)
     }
-
     .sp-btn.bluff:hover {
       background: rgba(176, 120, 8, .18)
     }
-
     .sp-btn.bluff.active-special {
       background: rgba(176, 120, 8, .28);
       border-color: var(--gold);
       box-shadow: 0 0 10px rgba(176, 120, 8, .35)
     }
-
     .sp-btn.active-special {
       background: rgba(58, 80, 104, .22);
       border-color: rgba(100, 140, 180, .7);
       box-shadow: 0 0 10px rgba(80, 110, 150, .3)
     }
-
     .sp-btn.cancel {
       background: rgba(120, 30, 10, .06);
       border-color: rgba(180, 50, 20, .3);
@@ -1416,26 +1203,19 @@
       padding: 8px 8px;
       display: none
     }
-
     .sp-btn.cancel.on {
       display: block
     }
-
-
-
-
     .mp-controls {
       display: flex;
       flex-direction: column;
       gap: 6px
     }
-
     .mp-field {
       display: flex;
       flex-direction: column;
       gap: 3px
     }
-
     .mp-field label {
       font-family: 'Cinzel', serif;
       font-size: 11px;
@@ -1444,19 +1224,15 @@
       color: var(--parch-dk);
       font-weight: 700
     }
-
-    /* Bottom section: action buttons row, Clear small at end */
     .mp-bottom {
       margin-top: 2px
     }
-
     .mp-actions {
       display: flex;
       flex-direction: row;
       gap: 6px;
       align-items: center
     }
-
     .mp-sel {
       background: #fff;
       border: 1.5px solid var(--parch-dk);
@@ -1473,30 +1249,24 @@
       background-position: right 7px center;
       background-color: #fff
     }
-
     .mp-sel:focus {
       outline: none;
       border-color: var(--gold)
     }
-
     .mp-sel option {
       background: #fff;
       color: var(--parch-text)
     }
-
     .mp-sel:disabled {
       opacity: .35;
       cursor: default;
       background-color: var(--parch-faint)
     }
-
-    /* Transport type icon buttons — emoji + count inline, same height as action buttons */
     #type-btns {
       display: flex;
       gap: 5px;
       align-items: stretch
     }
-
     .type-btn {
       flex: 1;
       padding: 8px 4px;
@@ -1511,39 +1281,32 @@
       background: #fff;
       transition: all .18s
     }
-
     .type-btn:hover:not(:disabled) {
       border-color: var(--gold);
       background: rgba(176, 120, 8, .08)
     }
-
     .type-btn.active {
       border-color: var(--gold);
       background: rgba(176, 120, 8, .15);
       box-shadow: 0 0 8px rgba(176, 120, 8, .18)
     }
-
     .type-btn:disabled {
       opacity: .28;
       cursor: default
     }
-
     .type-btn .tbn-icon {
       font-size: 20px;
       line-height: 1
     }
-
     .type-btn .tbn-label {
       display: none
     }
-
     .type-btn .tbn-count {
       font-size: 11px;
       opacity: .75;
       font-family: 'Crimson Text', serif;
       line-height: 1
     }
-
     .show-all-inline {
       flex: none;
       padding: 8px 9px;
@@ -1560,15 +1323,12 @@
       white-space: nowrap;
       display: none
     }
-
     .show-all-inline.on {
       display: block
     }
-
     .show-all-inline:hover {
       background: rgba(176, 120, 8, .12)
     }
-
     .mp-btn {
       width: 100%;
       background: rgba(176, 120, 8, .12);
@@ -1585,28 +1345,22 @@
       font-weight: 700;
       white-space: nowrap
     }
-
     .mp-btn:hover {
       background: rgba(176, 120, 8, .24);
       box-shadow: 0 0 14px rgba(176, 120, 8, .2)
     }
-
     .mp-btn:disabled {
       opacity: .22;
       cursor: default
     }
-
     .mp-btn.cc {
       background: rgba(26, 122, 48, .09);
       border-color: rgba(26, 122, 48, .5);
       color: var(--bus)
     }
-
     .mp-btn.cc:hover {
       background: rgba(26, 122, 48, .2)
     }
-
-    /* ── RULES PANEL ── */
     #modal {
       position: fixed;
       top: 44px;
@@ -1624,11 +1378,9 @@
       display: none;
       flex-direction: column
     }
-
     #modal.on {
       display: flex
     }
-
     .modal-box {
       padding: 20px 22px 16px;
       overflow-y: auto;
@@ -1637,7 +1389,6 @@
       scrollbar-color: rgba(176, 120, 8, .2) transparent;
       -webkit-overflow-scrolling: touch
     }
-
     .modal-title {
       font-family: 'Cinzel', serif;
       font-size: 15px;
@@ -1646,14 +1397,12 @@
       margin-bottom: 10px;
       letter-spacing: 2px
     }
-
     .modal-body {
       font-size: 14px;
       color: var(--parch-sub);
       line-height: 1.7;
       margin-bottom: 0
     }
-
     .modal-acts {
       padding: 12px 22px 14px;
       border-top: 1px solid var(--parch-dk);
@@ -1661,7 +1410,6 @@
       justify-content: flex-end;
       flex-shrink: 0
     }
-
     .modal-btn {
       background: rgba(176, 120, 8, .1);
       border: 1.5px solid rgba(176, 120, 8, .45);
@@ -1676,12 +1424,9 @@
       border-radius: 2px;
       font-weight: 700
     }
-
     .modal-btn:hover {
       background: rgba(176, 120, 8, .22)
     }
-
-    /* ── OUTCOME OVERLAY ── */
     #outcome {
       display: none;
       position: fixed;
@@ -1696,19 +1441,15 @@
       overflow-y: auto;
       touch-action: pan-y
     }
-
     #outcome.on {
       display: flex
     }
-
     #outcome.out-mori-bg {
       background: radial-gradient(ellipse at 40% 35%, rgba(80, 8, 8, .97) 0%, rgba(20, 4, 4, .99) 70%)
     }
-
     #outcome.out-dets-bg {
       background: radial-gradient(ellipse at 40% 35%, rgba(6, 40, 18, .97) 0%, rgba(4, 14, 8, .99) 70%)
     }
-
     .out-ornament {
       font-family: 'Cinzel', serif;
       font-size: 13px;
@@ -1717,15 +1458,12 @@
       opacity: .5;
       margin-bottom: -8px
     }
-
     .out-mori .out-ornament {
       color: #f06050
     }
-
     .out-dets .out-ornament {
       color: #40d060
     }
-
     .out-title {
       font-family: 'Cinzel', serif;
       font-size: clamp(32px, 7vw, 72px);
@@ -1736,24 +1474,20 @@
       animation: fli .9s ease forwards;
       line-height: 1.1
     }
-
     .out-mori .out-title {
       color: #f06050;
       text-shadow: 0 0 60px rgba(240, 60, 40, .5)
     }
-
     .out-dets .out-title {
       color: #f0c840;
       text-shadow: 0 0 60px rgba(240, 200, 60, .4)
     }
-
     .out-rule {
       width: min(340px, 85vw);
       height: 1px;
       background: linear-gradient(to right, transparent, currentColor, transparent);
       opacity: .3
     }
-
     .out-sub {
       font-family: 'IM Fell English', serif;
       font-size: clamp(14px, 2.2vw, 21px);
@@ -1761,15 +1495,12 @@
       padding: 0 12px;
       max-width: 520px
     }
-
     .out-mori .out-sub {
       color: rgba(255, 200, 190, .8)
     }
-
     .out-dets .out-sub {
       color: rgba(200, 240, 210, .8)
     }
-
     .out-acts {
       display: flex;
       gap: 10px;
@@ -1777,7 +1508,6 @@
       justify-content: center;
       margin-top: 8px
     }
-
     .out-btn {
       font-family: 'Cinzel', serif;
       font-size: 14px;
@@ -1789,81 +1519,64 @@
       font-weight: 700;
       transition: all .2s
     }
-
     .out-mori .out-btn {
       background: rgba(180, 40, 20, .15);
       border: 1.5px solid rgba(220, 60, 40, .5);
       color: #f08070
     }
-
     .out-mori .out-btn:hover {
       background: rgba(180, 40, 20, .32)
     }
-
     .out-dets .out-btn {
       background: rgba(20, 140, 50, .12);
       border: 1.5px solid rgba(40, 180, 80, .45);
       color: #60d880
     }
-
     .out-dets .out-btn:hover {
       background: rgba(20, 140, 50, .28)
     }
-
-    /* Primary (filled) variant — used for the most valuable post-game action */
     .out-mori .out-btn.primary {
       background: rgba(180, 40, 20, .55);
       border-color: rgba(240, 80, 60, .8);
       color: #fff;
       box-shadow: 0 0 18px rgba(200, 50, 30, .4)
     }
-
     .out-mori .out-btn.primary:hover {
       background: rgba(180, 40, 20, .75)
     }
-
     .out-dets .out-btn.primary {
       background: rgba(20, 140, 50, .5);
       border-color: rgba(50, 200, 90, .8);
       color: #fff;
       box-shadow: 0 0 18px rgba(20, 160, 60, .35)
     }
-
     .out-dets .out-btn.primary:hover {
       background: rgba(20, 140, 50, .7)
     }
-
     @keyframes fli {
       0% {
         opacity: 0
       }
-
       80% {
         opacity: .85
       }
-
       90% {
         opacity: .6
       }
-
       100% {
         opacity: 1
       }
     }
-
-    /* Prompt box aftermath states (visible after dismissing overlay) */
     #move-prompt.end-mori {
       background: rgba(60, 12, 8, .95);
       border-color: #8b3030;
       box-shadow: 4px -4px 24px rgba(180, 40, 20, .35)
     }
-
     #move-prompt.end-dets {
       background: rgba(12, 40, 18, .95);
       border-color: #2a6b3a;
       box-shadow: 4px -4px 24px rgba(20, 140, 50, .3)
     }
-
     .end-title {
       font-family: 'Cinzel', serif;
       font-size: 16px;
@@ -1873,15 +1586,12 @@
       text-align: center;
       margin-bottom: 4px
     }
-
     .end-title.end-mori {
       color: #f06050
     }
-
     .end-title.end-dets {
       color: #40d060
     }
-
     .end-sub {
       font-family: 'IM Fell English', serif;
       font-size: 16px;
@@ -1890,13 +1600,11 @@
       color: rgba(255, 255, 255, .7);
       margin-bottom: 4px
     }
-
     .end-acts {
       display: flex;
       gap: 6px;
       margin-top: 2px
     }
-
     .end-btn {
       flex: 1;
       font-family: 'Cinzel', serif;
@@ -1909,46 +1617,36 @@
       font-weight: 700;
       transition: all .2s
     }
-
     .end-btn.mori {
       background: rgba(180, 40, 20, .15);
       border: 1.5px solid rgba(180, 40, 20, .6);
       color: #f06050
     }
-
     .end-btn.mori:hover {
       background: rgba(180, 40, 20, .3)
     }
-
     .end-btn.dets {
       background: rgba(20, 140, 50, .12);
       border: 1.5px solid rgba(20, 140, 50, .55);
       color: #40d060
     }
-
     .end-btn.dets:hover {
       background: rgba(20, 140, 50, .25)
     }
-
     ::-webkit-scrollbar {
       width: 3px
     }
-
     ::-webkit-scrollbar-track {
       background: transparent
     }
-
     ::-webkit-scrollbar-thumb {
       background: rgba(176, 120, 8, .2);
       border-radius: 2px
     }
-
-    /* ── DESKTOP (≥641px): restore prompt as absolute overlay, identical to v7 ── */
     @media(min-width:641px) {
       #content {
         position: relative
       }
-
       #move-prompt {
         position: absolute;
         bottom: 0;
@@ -1956,54 +1654,34 @@
         z-index: 50
       }
     }
-
-    /* ════════════════════════════════════════════════════════════════
-   MOBILE PORTRAIT (≤640px)
-   All changes are INSIDE this block. Desktop untouched above.
-   #game is already position:fixed;inset:0;flex-direction:column.
-   #top-bar and #bottom-bar are flex children — they pin naturally.
-   #content (flex:1) scrolls internally with touch-action:pan-y.
-   #map-area gets touch-action:none so canvas handles zoom/pan.
-════════════════════════════════════════════════════════════════ */
     @media(max-width:640px) {
-
-      /* ── TOP BAR ── */
       .reveal-pips {
         display: none
       }
-
       #top-bar {
         padding: 0 8px
       }
-
       .tb-title {
         font-size: 12px;
         letter-spacing: 1px
       }
-
       .tb-move {
         font-size: 12px
       }
-
       .tb-move strong {
         font-size: 14px
       }
-
       .tb-btn {
         font-size: 11px;
         padding: 4px 8px;
         letter-spacing: 0
       }
-
       .tb-center {
         gap: 6px
       }
-
       .tb-actions {
         gap: 3px
       }
-
-      /* ── CONTENT: internal scroll, leave room for pinned status bar ── */
       #content {
         flex-direction: column;
         overflow-y: auto;
@@ -2012,9 +1690,6 @@
         -webkit-overflow-scrolling: touch;
         padding-bottom: 32px
       }
-
-      /* ══ BOX 1: MOVEMENTS LEGEND ══
-     Single row: MOVEMENTS left, [🌫 5] [⚡2] right */
       #left-panel {
         width: 100%;
         height: auto;
@@ -2023,7 +1698,6 @@
         border-right: none;
         overflow: visible
       }
-
       .lp-header {
         width: 100%;
         flex-direction: row;
@@ -2035,26 +1709,20 @@
         background: rgba(0, 0, 0, .04);
         text-align: left
       }
-
       .lp-title {
         font-size: 11px;
         letter-spacing: 2px;
         margin-bottom: 0;
         display: block
       }
-
       .sp-mini-row {
         flex-direction: row;
         gap: 8px
       }
-
       .sp-mini {
         font-size: 12px;
         padding: 3px 8px
       }
-
-      /* ══ BOX 2: TICKET STRIP ══
-     2 rows of 12. flex-wrap fills them left-to-right. */
       #ticket-strip {
         width: 100%;
         flex-direction: row;
@@ -2065,27 +1733,20 @@
         align-content: flex-start;
         border-bottom: 2px solid var(--panel-bdr)
       }
-
-      /* 12 per row: full width minus 12px (6px padding×2) minus 33px (11 gaps×3px), divided by 12 */
       .tc {
         flex: 0 0 calc((100% - 12px - 33px) / 12);
         min-height: 28px
       }
-
       .db-group {
         flex-direction: row;
         padding: 2px 3px
       }
-
       .db-label {
         display: none
       }
-
       .t-legend {
         display: none
       }
-
-      /* ══ BOX 3: MAP ══ */
       #map-area {
         flex: none;
         width: 100%;
@@ -2093,9 +1754,6 @@
         min-height: 240px;
         touch-action: none
       }
-
-      /* ══ BOX 4: PROMPT ══
-     Fully inline — no position:absolute, no overlay */
       #move-prompt {
         position: static;
         width: 100%;
@@ -2107,46 +1765,33 @@
         border-top-right-radius: 0;
         box-shadow: none
       }
-
       .mp-title {
         font-size: 12px;
         letter-spacing: 1px
       }
-
-      /* Fog/Bluff row: zero space when hidden */
       #special-row {
         display: none;
         min-height: 0
       }
-
       #special-row.on {
         display: flex
       }
-
       .sp-btn {
         font-size: 11px;
         padding: 6px 10px;
         letter-spacing: 0.5px
       }
-
-      /* Transport buttons slightly shorter on mobile */
       .type-btn {
         padding: 8px 3px
       }
-
       .type-btn .tbn-icon {
         font-size: 18px
       }
-
-      /* Bottom grid and action buttons */
       .mp-btn {
         font-size: 11px;
         padding: 7px 6px;
         letter-spacing: 0.5px
       }
-
-      /* ══ BOX 5: DETECTIVE BUREAU ══
-     One line per detective: emoji • Name • Stn N [🐴x][🚃x][🚂x] */
       #right-panel {
         display: flex !important;
         width: 100%;
@@ -2155,23 +1800,19 @@
         border-left: none;
         border-top: 2px solid var(--panel-bdr)
       }
-
       #rp-top {
         flex: none;
         overflow: visible;
         min-height: 0
       }
-
       #rp-top .rp-sec {
         padding: 4px 10px
       }
-
       .rp-lbl {
         font-size: 11px;
         letter-spacing: 1px;
         margin-bottom: 3px
       }
-
       .det-row {
         flex-direction: row;
         align-items: center;
@@ -2179,15 +1820,12 @@
         gap: 4px;
         border-left: none !important
       }
-
       .det-emoji {
         width: 20px;
         height: 20px;
         font-size: 15px;
         flex-shrink: 0
       }
-
-      /* Name, station and tickets all on one line */
       .det-meta {
         display: flex;
         flex-direction: row;
@@ -2196,13 +1834,11 @@
         flex: 1;
         min-width: 0
       }
-
       .det-name-sm {
         font-size: 11px;
         white-space: nowrap;
         flex-shrink: 0
       }
-
       .det-tix-sm {
         display: flex;
         flex-direction: row;
@@ -2210,42 +1846,32 @@
         flex-wrap: nowrap;
         margin-top: 0
       }
-
       .det-tix-sm span {
         font-size: 10px;
         padding: 1px 3px
       }
-
-      /* ══ BOX 6: MOVE LOG ══ */
       #move-log-wrap {
         width: 100%;
         border-top: 1px solid var(--parch-dk)
       }
-
       .log-sec-hdr {
         font-size: 11px;
         padding: 3px 10px
       }
-
       #move-log {
         max-height: 180px;
         overflow-y: auto
       }
-
       .log-entry {
         font-size: 12px;
         margin-bottom: 3px
       }
-
       .log-t {
         font-size: 13px
       }
-
       .log-n {
         font-size: 12px
       }
-
-      /* ══ BOX 7: COACH NOTES (coach modes only) ══ */
       #notes-area {
         width: 100%;
         flex: none;
@@ -2253,21 +1879,16 @@
         border-top: 1px solid var(--parch-dk);
         background: var(--panel-bg)
       }
-
       .notes-hdr {
         font-size: 11px;
         padding: 3px 9px
       }
-
       #notes-coach-log {
         max-height: 150px
       }
-
       .coach-entry {
         font-size: 14px
       }
-
-      /* ── STATUS BAR: pinned to bottom ── */
       #bottom-bar {
         position: fixed;
         bottom: 0;
@@ -2281,58 +1902,43 @@
         border-top: 1px solid var(--panel-bdr);
         box-shadow: 0 -2px 8px rgba(0, 0, 0, .25)
       }
-
       .ph-dot {
         width: 6px;
         height: 6px
       }
-
       .ph-txt {
         font-size: 12px;
         letter-spacing: 0
       }
-
       #ai-bar {
         font-size: 12px
       }
-
       .think-dots span {
         width: 3px;
         height: 3px
       }
-
     }
-
-    /* ── SIMULATOR MODE — hide all non-essential UI ── */
     #game.sim .tb-move {
       display: none
     }
-
     #game.sim #left-panel {
       display: none
     }
-
     #game.sim #map-area {
       display: none
     }
-
     #game.sim #right-panel {
       display: none !important
     }
-
     #game.sim #move-log-wrap {
       display: none
     }
-
     #game.sim #notes-area {
       display: none !important
     }
-
     #game.sim #notes-coach-log {
       display: none !important
     }
-
-    /* ── STORY SCREEN ── */
     #story-screen {
       position: fixed;
       inset: 0;
@@ -2341,47 +1947,38 @@
       background: radial-gradient(ellipse at 35% 30%, #2d1f08 0%, #0d0904 65%);
       padding: 48px 20px 72px;
     }
-
     @keyframes c-drop {
       from {
         transform: translateY(-100%)
       }
-
       to {
         transform: translateY(0)
       }
     }
-
     @keyframes c-lift {
       from {
         transform: translateY(0)
       }
-
       to {
         transform: translateY(-100%)
       }
     }
-
     .c-drop {
       animation: c-drop .42s cubic-bezier(.4, 0, .2, 1) forwards
     }
-
     .c-lift {
       animation: c-lift .36s cubic-bezier(.4, 0, .2, 1) forwards
     }
-
     .st-wrap {
       max-width: 680px;
       margin: 0 auto;
       font-family: 'Crimson Text', serif;
       color: var(--parch-text);
     }
-
     .st-masthead {
       text-align: center;
       margin-bottom: 32px;
     }
-
     .st-eyebrow {
       font-family: 'Cinzel', serif;
       font-size: 12px;
@@ -2391,7 +1988,6 @@
       opacity: .7;
       margin-bottom: 14px;
     }
-
     .st-h1 {
       font-family: 'Cinzel', serif;
       font-weight: 900;
@@ -2402,27 +1998,22 @@
       line-height: 1.05;
       margin: 0 0 10px;
     }
-
     .st-h1 span {
       color: var(--gold-hi);
     }
-
     .st-sub {
       font-family: 'IM Fell English', serif;
       font-size: clamp(14px, 2vw, 19px);
       color: var(--parch-dk);
     }
-
     .st-rule {
       height: 1px;
       background: linear-gradient(to right, transparent, var(--gold-hi), transparent);
       margin: 28px 0;
     }
-
     .st-act {
       margin-bottom: 36px;
     }
-
     .st-act-label {
       font-family: 'Cinzel', serif;
       font-size: 11px;
@@ -2431,33 +2022,28 @@
       opacity: .7;
       margin-bottom: 6px;
     }
-
     .st-h2 {
       font-family: 'Cinzel', serif;
       font-size: clamp(16px, 3vw, 22px);
       color: var(--parch);
       margin: 0 0 14px;
     }
-
     .st-act p {
       font-size: clamp(15px, 2vw, 17px);
       line-height: 1.75;
       color: var(--parch-sub);
       margin: 0 0 12px;
     }
-
     .st-act p em {
       color: var(--parch);
       font-style: italic;
     }
-
     .st-det-grid {
       display: grid;
       grid-template-columns: repeat(auto-fill, minmax(190px, 1fr));
       gap: 12px;
       margin-top: 16px;
     }
-
     .st-det-card {
       background: rgba(242, 228, 192, .06);
       border: 1px solid rgba(176, 120, 8, .3);
@@ -2465,13 +2051,11 @@
       padding: 16px 14px;
       text-align: center;
     }
-
     .st-det-emoji {
       font-size: 28px;
       display: block;
       margin-bottom: 8px;
     }
-
     .st-det-name {
       font-family: 'Cinzel', serif;
       font-size: 13px;
@@ -2479,20 +2063,17 @@
       margin-bottom: 6px;
       letter-spacing: .5px;
     }
-
     .st-det-desc {
       font-size: 13px;
       color: var(--parch-sub);
       line-height: 1.55;
     }
-
     .st-transport-grid {
       display: grid;
       grid-template-columns: repeat(2, 1fr);
       gap: 10px;
       margin-top: 16px;
     }
-
     .st-transport-card {
       background: rgba(242, 228, 192, .05);
       border: 1px solid rgba(176, 120, 8, .22);
@@ -2502,13 +2083,11 @@
       align-items: flex-start;
       gap: 12px;
     }
-
     .st-transport-icon {
       font-size: 22px;
       flex-shrink: 0;
       margin-top: 2px;
     }
-
     .st-transport-name {
       font-family: 'Cinzel', serif;
       font-size: 12px;
@@ -2516,13 +2095,11 @@
       letter-spacing: .5px;
       margin-bottom: 4px;
     }
-
     .st-transport-desc {
       font-size: 13px;
       color: var(--parch-sub);
       line-height: 1.5;
     }
-
     .st-telegram {
       background: rgba(242, 228, 192, .07);
       border: 1px solid rgba(176, 120, 8, .35);
@@ -2530,7 +2107,6 @@
       padding: 22px 24px;
       margin: 8px 0 0;
     }
-
     .st-telegram-hdr {
       font-family: 'Cinzel', serif;
       font-size: 10px;
@@ -2539,7 +2115,6 @@
       opacity: .7;
       margin-bottom: 14px;
     }
-
     .st-telegram-body {
       font-family: 'Courier New', monospace;
       font-size: 14px;
@@ -2547,7 +2122,6 @@
       line-height: 1.8;
       letter-spacing: .03em;
     }
-
     .st-telegram-attr {
       font-family: 'Cinzel', serif;
       font-size: 11px;
@@ -2557,13 +2131,11 @@
       text-align: right;
       letter-spacing: 1px;
     }
-
     .st-begin-wrap {
       text-align: center;
       margin-top: 40px;
       margin-bottom: 48px;
     }
-
     .st-begin-btn {
       font-family: 'Cinzel', serif;
       font-size: 15px;
@@ -2578,7 +2150,6 @@
       transition: background .2s, transform .15s;
       box-shadow: 0 4px 18px rgba(0, 0, 0, .6);
     }
-
     .st-begin-btn:hover {
       background: #f5d060;
       transform: translateY(-2px);
@@ -2589,22 +2160,18 @@
 <body>
   <script>document._opinionsGetById = document.getElementById.bind(document);</script>
   <div id="mobile-error-box" style="display:none;position:fixed;top:0;left:0;right:0;z-index:9999;background:#c00;color:#fff;font-size:13px;padding:8px 12px;white-space:pre-wrap;word-break:break-all;cursor:pointer;" onclick="this.style.display='none'"></div>
-
   <div id="story-screen">
     <div style="position:fixed;top:0;left:0;right:0;z-index:1001;padding:0.5rem 2.5rem;border-bottom:1px solid rgba(201,151,58,0.2);background:rgba(13,10,7,0.92);backdrop-filter:blur(4px);display:grid;grid-template-columns:1fr auto 1fr;align-items:center;">
       <a href="index.html" style="font-family:'Inconsolata',monospace;font-size:0.72rem;letter-spacing:0.12em;text-transform:uppercase;color:#9a8a6a;text-decoration:none;opacity:0.85;transition:opacity 0.2s;">ADB</a>
       <button id="opinions-trigger" style="grid-column:3;justify-self:end;font-family:'Inconsolata',monospace;font-size:0.72rem;letter-spacing:0.12em;text-transform:uppercase;color:#9a8a6a;background:none;border:none;padding:0;cursor:pointer;opacity:0.85;transition:opacity 0.2s;">Opinions?</button>
     </div>
     <div class="st-wrap" style="margin-top:2.8rem;">
-
       <div class="st-masthead">
         <div class="st-eyebrow">London · 1895</div>
         <h1 class="st-h1">MORIARTY'S<br><span>MAZE</span></h1>
         <div class="st-sub">A Hidden Movement Pursuit Across Victorian London</div>
       </div>
-
       <div class="st-rule"></div>
-
       <div class="st-act">
         <div class="st-act-label">Act the First</div>
         <h2 class="st-h2">The Napoleon of Crime</h2>
