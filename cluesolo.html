@@ -9,11 +9,10 @@
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>ClueSolo — Play Cluedo Solo in Your Browser</title>
   <meta name="description" content="A fully playable solo version of the classic Cluedo deduction game. One player, AI opponents, no install, no account required. Can you solve the mystery at Hapless Hall?">
-  <meta name="author" content="ADB">
+  <meta name="author" content="Andy Bryden">
   <meta property="og:title" content="ClueSolo — Play Cluedo Solo in Your Browser">
   <meta property="og:description" content="A fully playable solo version of the classic Cluedo deduction game. One player, AI opponents, no install, no account required. Can you solve the mystery at Hapless Hall?">
   <meta property="og:type" content="website">
-
   <style>
     :root {
       --cluedo-red: #8B2E2B;
@@ -51,14 +50,12 @@
       --tsr-necklace: #F0EDE8;
       --tsr-watch: #A8A8B0;
     }
-
     body {
       margin: 0;
       font-family: 'EB Garamond', Georgia, serif;
       background: linear-gradient(135deg, #ede3ca 0%, #e0d2b0 100%);
       color: var(--text);
     }
-
     header {
       padding: 14px 24px;
       display: flex;
@@ -69,11 +66,9 @@
       color: #f5edd6;
       box-shadow: 0 4px 16px rgba(0, 0, 0, 0.5);
     }
-
     header::after {
       display: none;
     }
-
     header h1 {
       margin: 0;
       font-size: 22px;
@@ -83,7 +78,6 @@
       color: #c9973a;
       text-shadow: 0 0 20px rgba(201, 151, 58, 0.4);
     }
-
     header .sub {
       display: flex;
       gap: 8px;
@@ -94,7 +88,6 @@
       letter-spacing: 0.12em;
       text-transform: uppercase;
     }
-
     header .fullscreen-btn {
       margin-left: auto;
       padding: 6px 10px;
@@ -111,18 +104,15 @@
       letter-spacing: 0;
       font-weight: normal;
     }
-
     header .fullscreen-btn:hover {
       background: rgba(201, 151, 58, 0.1);
       border-color: rgba(201, 151, 58, 0.7);
     }
-
     @media (max-width: 1199px) {
       header .fullscreen-btn {
         display: none;
       }
     }
-
     .layout {
       display: grid;
       grid-template-columns: 360px 1fr 420px;
@@ -130,7 +120,6 @@
       padding: 8px;
       align-items: start
     }
-
     .panel {
       background: var(--panel);
       border: 1px solid rgba(201, 151, 58, 0.35);
@@ -139,11 +128,9 @@
       box-shadow: 0 4px 16px rgba(13, 10, 7, 0.12);
       position: relative;
     }
-
     .panel::before {
       display: none;
     }
-
     .panel h2 {
       margin: 0;
       padding: 8px 12px;
@@ -157,21 +144,17 @@
       font-family: 'Cinzel', serif;
       position: relative;
     }
-
     .panel h2::after {
       display: none;
     }
-
     .panel .content {
       padding: 8px
     }
-
     .leftStack {
       display: grid;
       gap: 8px;
       grid-template-rows: auto auto 1fr
     }
-
     .rightStack {
       display: grid;
       gap: 8px;
@@ -1725,18 +1708,10 @@
       <div class="tp-act">
         <div class="tp-act-label">Act the First</div>
         <h2>An Evening at Hapless Hall</h2>
-        <p>It was Sir Henry Hapless, 13th Duke of Misfortune, who had the singular idea of hosting a dinner party. His
-          friends had advised strongly against it. The Hapless family name had not accumulated thirteen generations of
-          ill fortune by accident. And yet Sir Henry persisted, as Hapless men always do: with magnificent optimism and
-          catastrophic results.</p>
-        <p>The evening began promisingly enough. Cook had outdone herself. The silver gleamed. The six guests arrived in
-          fine spirits and finer clothes. By the time the port was poured, however, something had gone <em>terribly,
-            irreversibly wrong.</em></p>
-        <p>Somewhere between the fish course and the retiring to the drawing room, one of Sir Henry's most cherished
-          possessions had vanished from the Hall entirely. Several other items were discovered displaced, found in rooms
-          where they had no business being.</p>
-        <p>Sir Henry, to the surprise of no one, had not noticed until it was far too late. <em>It never does to be the
-            13th of anything.</em></p>
+        <p>It was Sir Henry Hapless, 13th Duke of Misfortune, who had the singular idea of hosting a dinner party. His friends had advised strongly against it. The Hapless family name had not accumulated thirteen generations of ill fortune by accident. And yet Sir Henry persisted, as Hapless men always do: with magnificent optimism and catastrophic results.</p>
+        <p>The evening began promisingly enough. Cook had outdone herself. The silver gleamed. The six guests arrived in fine spirits and finer clothes. By the time the port was poured, however, something had gone <em>terribly, irreversibly wrong.</em></p>
+        <p>Somewhere between the fish course and the retiring to the drawing room, one of Sir Henry's most cherished possessions had vanished from the Hall entirely. Several other items were discovered displaced, found in rooms where they had no business being.</p>
+        <p>Sir Henry, to the surprise of no one, had not noticed until it was far too late. <em>It never does to be the 13th of anything.</em></p>
       </div>
 
       <div class="tp-rule">
@@ -1746,41 +1721,34 @@
       <div class="tp-act">
         <div class="tp-act-label">Act the Second</div>
         <h2>The Guests of Hapless Hall</h2>
-        <p>Six guests sat at Sir Henry's table that evening. Each arrived with impeccable manners and, it would seem,
-          rather more impeccable motives.</p>
+        <p>Six guests sat at Sir Henry's table that evening. Each arrived with impeccable manners and, it would seem, rather less impeccable motives.</p>
         <div class="tp-guests-grid">
           <div class="tp-guest-card" onclick="tpSelectCharacter('Forest','Mr Forest','🎩')" style="cursor:pointer"><span class="tp-guest-icon">🎩</span>
             <div class="tp-guest-name">Mr Forest</div>
-            <div class="tp-guest-desc">A gentleman of the old school. His finances are considerably less well maintained
-              than his charm.</div>
+            <div class="tp-guest-desc">A gentleman of the old school. His finances are considerably less well maintained than his charm.</div>
           </div>
           <div class="tp-guest-card" onclick="tpSelectCharacter('Brimstone','Maj. Brimstone','🎖️')" style="cursor:pointer"><span class="tp-guest-icon">🎖️</span>
             <div class="tp-guest-name">Maj. Brimstone</div>
-            <div class="tp-guest-desc">Retired military, distinction largely self-assessed. He has always admired Sir
-              Henry's collection rather too openly.</div>
+            <div class="tp-guest-desc">Retired military, distinction largely self-assessed. He has always admired Sir Henry's collection rather too openly.</div>
           </div>
           <div class="tp-guest-card" onclick="tpSelectCharacter('Lavender','Dr Lavender','🎓')" style="cursor:pointer">
             <span class="tp-guest-icon">🎓</span>
             <div class="tp-guest-name">Dr Lavender</div>
-            <div class="tp-guest-desc">A scholar of antiquities, quiet and precise. His gaze catalogues everything in a
-              room before he has even removed his coat.</div>
+            <div class="tp-guest-desc">A scholar of antiquities, quiet and precise. His gaze catalogues everything in a room before he has even removed his coat.</div>
           </div>
           <div class="tp-guest-card" onclick="tpSelectCharacter('Sapphire','Lady Sapphire','💎')" style="cursor:pointer"><span class="tp-guest-icon">💎</span>
             <div class="tp-guest-name">Lady Sapphire</div>
-            <div class="tp-guest-desc">Aristocratic, immaculate, possessed of a smile that has never once reached her
-              eyes.</div>
+            <div class="tp-guest-desc">Aristocratic, immaculate, possessed of a smile that has never once reached her eyes.</div>
           </div>
           <div class="tp-guest-card" onclick="tpSelectCharacter('Rouge','Madame Rouge','💋')" style="cursor:pointer">
             <span class="tp-guest-icon">💋</span>
             <div class="tp-guest-name">Madame Rouge</div>
-            <div class="tp-guest-desc">Continental, dramatic, entirely impossible to read. Charming in four languages
-              and evasive in all of them.</div>
+            <div class="tp-guest-desc">Continental, dramatic, entirely impossible to read. Charming in four languages and evasive in all of them.</div>
           </div>
           <div class="tp-guest-card" onclick="tpSelectCharacter('Weisse','Mrs Weisse','👒')" style="cursor:pointer">
             <span class="tp-guest-icon">👒</span>
             <div class="tp-guest-name">Mrs Weisse</div>
-            <div class="tp-guest-desc">The very picture of respectable widowhood. She sees considerably more than she
-              lets on.</div>
+            <div class="tp-guest-desc">The very picture of respectable widowhood. She sees considerably more than she lets on.</div>
           </div>
         </div>
       </div>
@@ -1792,28 +1760,23 @@
       <div class="tp-act">
         <div class="tp-act-label">Act the Third</div>
         <h2>The Treasures of the Hall</h2>
-        <p>One treasure is now missing entirely. Five others were discovered displaced. <em>One cannot be found at
-            all.</em></p>
+        <p>One treasure is now missing entirely. Five others were discovered displaced. <em>One cannot be found at all.</em></p>
         <div class="tp-items-grid">
           <div class="tp-item-card"><span class="tp-item-icon">🖼️</span>
             <div class="tp-item-name">The Portrait</div>
-            <div class="tp-item-desc">A small oil painting of the 3rd Duchess. Last seen above the mantelpiece. It is
-              not there now.</div>
+            <div class="tp-item-desc">A small oil painting of the 3rd Duchess. Last seen above the mantelpiece. It is not there now.</div>
           </div>
           <div class="tp-item-card"><span class="tp-item-icon">⚔️</span>
             <div class="tp-item-name">The Ornamental Weapons</div>
-            <div class="tp-item-desc">A matched pair of ceremonial swords. One has been recovered. The other remains at
-              large.</div>
+            <div class="tp-item-desc">A matched pair of ceremonial swords. One has been recovered. The other remains at large.</div>
           </div>
           <div class="tp-item-card"><span class="tp-item-icon">📜</span>
             <div class="tp-item-name">The Ancient Documents</div>
-            <div class="tp-item-desc">Manuscripts in Latin and older tongues. The portfolio was found. The documents
-              inside were not.</div>
+            <div class="tp-item-desc">Manuscripts in Latin and older tongues. The portfolio was found. The documents inside were not.</div>
           </div>
           <div class="tp-item-card"><span class="tp-item-icon">🪙</span>
             <div class="tp-item-name">The Rare Coins</div>
-            <div class="tp-item-desc">A velvet-lined case of Roman aurei. The case was recovered. Its contents are
-              another matter.</div>
+            <div class="tp-item-desc">A velvet-lined case of Roman aurei. The case was recovered. Its contents are another matter.</div>
           </div>
           <div class="tp-item-card"><span class="tp-item-icon">📿</span>
             <div class="tp-item-name">The Necklace</div>
@@ -1821,8 +1784,7 @@
           </div>
           <div class="tp-item-card"><span class="tp-item-icon">⏱️</span>
             <div class="tp-item-name">The Pocket Watch</div>
-            <div class="tp-item-desc">A silver hunter-case timepiece engraved with the Hapless family crest. The chain
-              was found. The watch was not.</div>
+            <div class="tp-item-desc">A silver hunter-case timepiece engraved with the Hapless family crest. The chain was found. The watch was not.</div>
           </div>
         </div>
       </div>
@@ -1881,9 +1843,7 @@
 
       <div class="tp-act">
         <div class="tp-butler">
-          <p class="tp-butler-text">Ladies and gentlemen, I have been instructed to inform you that the doors of Hapless
-            Hall have been secured for the evening. Nobody is to leave the premises until this matter is resolved. Sir
-            Henry asks only that you endeavour not to make things any worse than they already are.</p>
+          <p class="tp-butler-text">Ladies and gentlemen, I have been instructed to inform you that the doors of Hapless Hall have been secured for the evening. Nobody is to leave the premises until this matter is resolved. Sir Henry asks only that you endeavour not to make things any worse than they already are.</p>
           <div class="tp-butler-attr">— Grimshaw, Butler to Sir Henry Hapless, 13th Duke of Misfortune</div>
         </div>
       </div>
@@ -1892,11 +1852,9 @@
         <span class="tp-char-label">Select your character to enter the Hall:</span>
         <div class="tp-char-buttons">
           <button class="tp-char-btn" onclick="tpSelectCharacter('Forest','Mr Forest','🎩')">🎩 Mr Forest</button>
-          <button class="tp-char-btn" onclick="tpSelectCharacter('Brimstone','Maj. Brimstone','🎖️')">🎖️ Maj.
-            Brimstone</button>
+          <button class="tp-char-btn" onclick="tpSelectCharacter('Brimstone','Maj. Brimstone','🎖️')">🎖️ Maj. Brimstone</button>
           <button class="tp-char-btn" onclick="tpSelectCharacter('Lavender','Dr Lavender','🎓')">🎓 Dr Lavender</button>
-          <button class="tp-char-btn" onclick="tpSelectCharacter('Sapphire','Lady Sapphire','💎')">💎 Lady
-            Sapphire</button>
+          <button class="tp-char-btn" onclick="tpSelectCharacter('Sapphire','Lady Sapphire','💎')">💎 Lady Sapphire</button>
           <button class="tp-char-btn" onclick="tpSelectCharacter('Rouge','Madame Rouge','💋')">💋 Madame Rouge</button>
           <button class="tp-char-btn" onclick="tpSelectCharacter('Weisse','Mrs Weisse','👒')">👒 Mrs Weisse</button>
         </div>
@@ -1921,36 +1879,27 @@
           <div class="tp-opt-title">Difficulty</div>
           <p class="tp-opt-intro">How shrewdly will your fellow guests pursue the truth?</p>
           <ul class="tp-opt-list">
-            <li><label><input type="radio" name="tpDiff" value="basic" checked><span class="tp-radio"></span><span class="tp-opt-wrap"><span class="tp-opt-name">Beginner</span><span class="tp-opt-desc">Guests make
-                    naive deductions. Recommended for new investigators.</span></span></label></li>
-            <li><label><input type="radio" name="tpDiff" value="smart"><span class="tp-radio"></span><span class="tp-opt-wrap"><span class="tp-opt-name">Smart</span><span class="tp-opt-desc">Guests reason
-                    carefully and will press their advantage.</span></span></label></li>
-            <li><label><input type="radio" name="tpDiff" value="sherlock"><span class="tp-radio"></span><span class="tp-opt-wrap"><span class="tp-opt-name">Sherlock</span><span class="tp-opt-desc">Rigorous
-                    logical deduction. Only for the genuinely gifted.</span></span></label></li>
+            <li><label><input type="radio" name="tpDiff" value="basic" checked><span class="tp-radio"></span><span class="tp-opt-wrap"><span class="tp-opt-name">Beginner</span><span class="tp-opt-desc">Guests make naive deductions. Recommended for new investigators.</span></span></label></li>
+            <li><label><input type="radio" name="tpDiff" value="smart"><span class="tp-radio"></span><span class="tp-opt-wrap"><span class="tp-opt-name">Smart</span><span class="tp-opt-desc">Guests reason carefully and will press their advantage.</span></span></label></li>
+            <li><label><input type="radio" name="tpDiff" value="sherlock"><span class="tp-radio"></span><span class="tp-opt-wrap"><span class="tp-opt-name">Sherlock</span><span class="tp-opt-desc">Rigorous logical deduction. Only for the genuinely gifted.</span></span></label></li>
           </ul>
         </div>
         <div class="tp-opt-col">
           <div class="tp-opt-title">Opponents</div>
           <p class="tp-opt-intro">How many fellow guests will be investigating alongside you?</p>
           <ul class="tp-opt-list">
-            <li><label><input type="radio" name="tpOpp" value="2" checked><span class="tp-radio"></span><span class="tp-opt-wrap"><span class="tp-opt-name">2 opponents</span><span class="tp-opt-desc">Three
-                    investigators. More breathing room.</span></span></label></li>
-            <li><label><input type="radio" name="tpOpp" value="3"><span class="tp-radio"></span><span class="tp-opt-wrap"><span class="tp-opt-name">3 opponents</span><span class="tp-opt-desc">Four
-                    investigators. The pace quickens.</span></span></label></li>
-            <li><label><input type="radio" name="tpOpp" value="4"><span class="tp-radio"></span><span class="tp-opt-wrap"><span class="tp-opt-name">4 opponents</span><span class="tp-opt-desc">Five
-                    investigators. Deductions fly.</span></span></label></li>
-            <li><label><input type="radio" name="tpOpp" value="5"><span class="tp-radio"></span><span class="tp-opt-wrap"><span class="tp-opt-name">5 opponents</span><span class="tp-opt-desc">The full
-                    complement. Very little margin for error.</span></span></label></li>
+            <li><label><input type="radio" name="tpOpp" value="2" checked><span class="tp-radio"></span><span class="tp-opt-wrap"><span class="tp-opt-name">2 opponents</span><span class="tp-opt-desc">Three investigators. More breathing room.</span></span></label></li>
+            <li><label><input type="radio" name="tpOpp" value="3"><span class="tp-radio"></span><span class="tp-opt-wrap"><span class="tp-opt-name">3 opponents</span><span class="tp-opt-desc">Four investigators. The pace quickens.</span></span></label></li>
+            <li><label><input type="radio" name="tpOpp" value="4"><span class="tp-radio"></span><span class="tp-opt-wrap"><span class="tp-opt-name">4 opponents</span><span class="tp-opt-desc">Five investigators. Deductions fly.</span></span></label></li>
+            <li><label><input type="radio" name="tpOpp" value="5"><span class="tp-radio"></span><span class="tp-opt-wrap"><span class="tp-opt-name">5 opponents</span><span class="tp-opt-desc">The full complement. Very little margin for error.</span></span></label></li>
           </ul>
         </div>
         <div class="tp-opt-col">
           <div class="tp-opt-title">Mode</div>
           <p class="tp-opt-intro">Will you investigate alone, or with quiet counsel?</p>
           <ul class="tp-opt-list">
-            <li><label><input type="radio" name="tpMode" value="normal" checked><span class="tp-radio"></span><span class="tp-opt-wrap"><span class="tp-opt-name">Normal</span><span class="tp-opt-desc">Every deduction
-                    and accusation is yours alone.</span></span></label></li>
-            <li><label><input type="radio" name="tpMode" value="coach"><span class="tp-radio"></span><span class="tp-opt-wrap"><span class="tp-opt-name">Coach</span><span class="tp-opt-desc">A silent adviser
-                    offers guidance without giving the game away.</span></span></label></li>
+            <li><label><input type="radio" name="tpMode" value="normal" checked><span class="tp-radio"></span><span class="tp-opt-wrap"><span class="tp-opt-name">Normal</span><span class="tp-opt-desc">Every deduction and accusation is yours alone.</span></span></label></li>
+            <li><label><input type="radio" name="tpMode" value="coach"><span class="tp-radio"></span><span class="tp-opt-wrap"><span class="tp-opt-name">Coach</span><span class="tp-opt-desc">A silent adviser offers guidance without giving the game away.</span></span></label></li>
           </ul>
         </div>
       </div>
@@ -1964,13 +1913,11 @@
     </div><!-- /#tpPage2 -->
 
     <div style="padding:1.5rem 4vw;display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:1rem;font-family:'Inconsolata',monospace;font-size:0.72rem;letter-spacing:0.08em;color:rgba(201,151,58,0.4);border-top:1px solid rgba(201,151,58,0.2);">
-      <span>Andy Bryden  ·  All works CC0 unless noted</span>
       <div style="display:flex;gap:1.5rem;align-items:center;">
-        <a href="index.html" style="color:rgba(201,151,58,0.4);text-decoration:none;font-family:'Inconsolata',monospace;font-size:0.72rem;letter-spacing:0.08em;transition:color 0.2s;">Home</a>
+        <a href="index.html" style="color:rgba(201,151,58,0.4);text-decoration:none;font-family:'Inconsolata',monospace;font-size:0.72rem;letter-spacing:0.08em;transition:color 0.2s;">Andy Bryden</a>
         <a href="https://github.com/andy-andy-brydennthal/" target="_blank" style="color:rgba(201,151,58,0.4);text-decoration:none;font-family:'Inconsolata',monospace;font-size:0.72rem;letter-spacing:0.08em;transition:color 0.2s;">GitHub</a>
         <button id="opinions-trigger-footer" style="font-family:'Inconsolata',monospace;font-size:0.72rem;letter-spacing:0.08em;color:rgba(201,151,58,0.4);background:none;border:none;padding:0;cursor:pointer;transition:color 0.2s;">Opinions?</button>
-        <a href="#top" style="color:rgba(201,151,58,0.4);text-decoration:none;font-family:'Inconsolata',monospace;font-size:0.72rem;letter-spacing:0.08em;transition:color 0.2s;">↑
-          Top</a>
+        <a href="#top" style="color:rgba(201,151,58,0.4);text-decoration:none;font-family:'Inconsolata',monospace;font-size:0.72rem;letter-spacing:0.08em;transition:color 0.2s;">↑ Top</a>
       </div>
     </div>
 
@@ -2028,7 +1975,6 @@
       <div class="panel rightPanel">
         <h2>Casebook</h2>
 
-        <!-- Mobile-only New Game button (appears on small screens only) -->
         <div class="mobileNewGameRow">
           <button id="btnNewGameMobile" class="secondary">New Game</button>
         </div>
@@ -2043,9 +1989,6 @@
       </div>
     </div>
 
-    <!-- ══════════════════════════════════════════════
-     ACCUSATION OVERLAY
-══════════════════════════════════════════════ -->
     <div id="accusationOverlay" class="acc-overlay hidden" aria-modal="true" role="dialog">
       <div class="acc-inner">
         <div class="acc-eyebrow" id="accEyebrow">An Accusation Has Been Made</div>
@@ -2062,101 +2005,7 @@
   </div><!-- /#gameUI -->
 
   <script>
-    /* ================================================================================
-     * 🔍 CLUE SOLO - HUMAN + AI BOARD GAME
-     * ================================================================================
-     * 
-     * HOW TO NAVIGATE THIS FILE:
-     * Use your editor's Find function (Ctrl+F or Cmd+F) and search for section tags
-     * Example: Search for "[SECTION 5]" to jump to AI Logic
-     * 
-     * ────────────────────────────────────────────────────────────────────────────────
-     * TABLE OF CONTENTS
-     * ────────────────────────────────────────────────────────────────────────────────
-     * 
-     * [SECTION 1] UTILITIES & ERROR HANDLING ........... Line ~254
-     *   • Global error handlers
-     *   • Random number utilities
-     *   • Array shuffling
-     *   • Sleep/delay functions
-     * 
-     * [SECTION 2] GAME CONSTANTS ....................... Line ~330
-     *   • Guests, Treasures, Rooms lists
-     *   • Board layout definitions
-     *   • Room connections and positions
-     * 
-     * [SECTION 3] PLAYER CLASS ......................... Line ~500
-     *   • Player state management
-     *   • Card tracking (own, seen, innocent)
-     *   • Sherlock probability calculations
-     * 
-     * [SECTION 4] MAIN GAME CLASS ...................... Line ~800
-     *   • Game state initialization
-     *   • Card dealing
-     *   • Turn management
-     *   • Win/lose conditions
-     * 
-     * [SECTION 5] AI LOGIC ............................. Line ~1100
-     *   • Difficulty levels (Easy, Medium, Hard)
-     *   • AI move selection
-     *   • AI suggestion logic
-     *   • AI accusation decisions
-     * 
-     * [SECTION 6] GAME FLOW FUNCTIONS .................. Line ~1400
-     *   • Turn execution
-     *   • Movement handling
-     *   • Suggestion/refutation
-     *   • Accusation/trial
-     * 
-     * [SECTION 7] USER INTERFACE PROMPTS ............... Line ~1700
-     *   • Game setup dialog
-     *   • Move selection prompts
-     *   • Refutation prompts
-     *   • Information dialogs
-     * 
-     * [SECTION 8] UI RENDERING - PLAYERS & CARDS ....... Line ~2000
-     *   • Player display
-     *   • Hand rendering
-     *   • Card visuals
-     * 
-     * [SECTION 9] UI RENDERING - NOTEBOOK .............. Line ~2100
-     *   • Checklist rendering
-     *   • Note-taking interface
-     *   • Probability displays
-     * 
-     * [SECTION 10] UI RENDERING - BOARD ................ Line ~2300
-     *   • Room rendering
-     *   • Token placement
-     *   • Movement indicators
-     * 
-     * [SECTION 11] GAME INITIALIZATION ................. Line ~2570
-     *   • Startup sequence
-     *   • New game function
-     *   • UI reset
-     * 
-     * ────────────────────────────────────────────────────────────────────────────────
-     * QUICK TIPS FOR NON-CODERS:
-     * ────────────────────────────────────────────────────────────────────────────────
-     * 
-     * ⏱️ TO MODIFY GAME DIFFICULTY:
-     *    Search for "[SECTION 5]" → Find "AI LOGIC" section
-     * 
-     * 🎨 TO CHANGE COLORS:
-     *    Scroll to top of file → Find the <style> section → Look for ":root" variables
-     * 
-     * 📝 TO ADJUST TEXT/LABELS:
-     *    Search for the exact text you want to change (e.g., "New Game")
-     * 
-     * 🐛 TO DEBUG ISSUES:
-     *    Open browser console (F12) and check for error messages
-     * 
-     * ================================================================================ */
 
-    /* ================================================================================
-     * [SECTION 1] UTILITIES & ERROR HANDLING
-     * ================================================================================ */
-
-    // --- Global error surface: log to the in-app Game Log panel ---
     window.onerror = function (msg, url, line, col, err) {
       try {
         const box = document.getElementById('log');
@@ -2172,7 +2021,6 @@
         console.error('Error in window.onerror:', e);
       }
     };
-    // (Optional) also surface unhandled Promise rejections
     window.addEventListener('unhandledrejection', (event) => {
       try {
         const box = document.getElementById('log');
@@ -2189,41 +2037,30 @@
       }
     });
 
-    /* Utilities */
     const randInt = (min, max) => Math.floor(Math.random() * (max - min + 1)) + min;
     const choice = arr => arr[Math.floor(Math.random() * arr.length)];
     function shuffle(a) { for (let i = a.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1));[a[i], a[j]] = [a[j], a[i]]; } return a; }
     const sleep = ms => new Promise(r => setTimeout(r, ms));
-    // --- Sherlock helper: pick least-informative refute card (adversarial refuter) ---
     function pickLeastInformativeRefuteCard(refuter, matches, suggester) {
-      // Lower score = less NEW information revealed to the suggester
       if (!matches || !matches.length) return null;
       if (!suggester) return choice(matches);
 
       const scoreCard = (c) => {
         const key = suggester.cardKey(c.type, c.name);
 
-        // If suggester already owns it, showing it is extremely uninformative
         if (suggester.own && suggester.own.has(key)) return -100;
 
-        // If suggester already knows refuter owns it, also extremely uninformative
         if (suggester.knownOwners && suggester.knownOwners.get(key) === refuter.id) return -90;
 
-        // If suggester has it "seen/innocent", showing owner is usually less useful
         if (suggester.seen && suggester.seen.has(key)) return -50;
 
-        // If suggester has Sherlock beliefs, use them to pick the least informative card
         if (suggester.ownerWeights && typeof suggester._pOwner === 'function') {
           const pOwn = suggester._pOwner(c, refuter.id); // how likely suggester already thinks refuter owns it
           const pCase = (typeof suggester._pCaseNorm === 'function') ? suggester._pCaseNorm(c) : 0; // how "hot" it is as solution
 
-          // Less informative if:
-          // - suggester already expects refuter to own it (high pOwn)
-          // - it's unlikely to be in the case file (low pCase)
           return (1 - pOwn) + (pCase * 0.5);
         }
 
-        // Fallback
         return 10;
       };
 
@@ -2236,33 +2073,26 @@
       return choice(best.length ? best : matches);
     }
 
-    // --- Sherlock helper: hand-size constraints (capacity) ---
     function applyHandSizeConstraints(observer, players) {
-      // Only useful for AIs that track owners
       if (!observer || observer.isHuman) return;
       if (!observer.knownOwners || !observer.markNotOwner) return;
 
-      // Build a quick key->card map once
       if (!applyHandSizeConstraints._keyToCard) {
         applyHandSizeConstraints._keyToCard = new Map(ALL_CARDS.map(c => [`${c.type}:${c.name}`, c]));
       }
       const keyToCard = applyHandSizeConstraints._keyToCard;
 
-      // For each player, if we already "know" they own as many cards as their hand size,
-      // then they cannot own any other unknown cards.
       for (const p of players) {
         if (!p) continue;
         const pid = p.id;
         const capacity = (p.hand && p.hand.length) ? p.hand.length : 0;
         if (capacity <= 0) continue;
 
-        // All card keys observer believes are owned by pid
         const ownedKeys = [];
         for (const [k, ownerId] of observer.knownOwners.entries()) {
           if (ownerId === pid) ownedKeys.push(k);
         }
 
-        // If at capacity, mark NOT owner for every other card not already assigned to them
         if (ownedKeys.length >= capacity) {
           const ownedSet = new Set(ownedKeys);
           let newlyExcluded = 0;
@@ -2271,12 +2101,9 @@
             const key = `${c.type}:${c.name}`;
             if (ownedSet.has(key)) continue;
 
-            // If already known owned by someone else, ignore
             const knownOwner = observer.knownOwners.get(key);
             if (knownOwner !== undefined && knownOwner !== null && knownOwner !== pid) continue;
 
-            // Mark "cannot own"
-            // Only count/log if this is a NEW "not owner" fact
             const ckey = observer.cardKey(c.type, c.name);
             const existing = observer.notOwners.get(ckey);
             if (!existing || !existing.has(pid)) {
@@ -2284,7 +2111,6 @@
               newlyExcluded++;
             }
 
-            // If Sherlock beliefs exist, also downweight pid for this card
             const w = observer.ownerWeights && observer.ownerWeights.get(key);
             if (w) {
               w.set(pid, AI_CFG.sherlock.weightFloor);
@@ -2294,7 +2120,6 @@
             }
           }
 
-          // Log only when this capacity inference affected OTHER players (not self), and only if it created new exclusions
           if (newlyExcluded > 0 &&
             pid !== observer.id &&
             observer.gameRef &&
@@ -2309,13 +2134,6 @@
     }
     const clampInt = (n, min, max, def) => { const x = Number.parseInt(n, 10); if (Number.isNaN(x)) return def; return Math.max(min, Math.min(max, x)); };
     const slug = s => String(s).toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '');
-
-
-    /* ============================================================
-       ACCUSATION OVERLAY CONTROLLER
-       ============================================================ */
-
-
     const PLURAL_TREASURES = new Set(['Ornaments', 'Documents', 'Coins']);
     function treasurePronoun(t) { return PLURAL_TREASURES.has(t) ? 'them' : 'it'; }
 
@@ -2406,11 +2224,6 @@
       accOverlay().classList.add('hidden');
     }
 
-    /* Data */
-    /* ================================================================================
-     * [SECTION 2] GAME CONSTANTS
-     * ================================================================================ */
-
     const GUESTS = ["Forest", "Brimstone", "Sapphire", "Lavender", "Rouge", "Weisse"];
     const GUEST_TITLES = { Forest: "Mr Forest", Brimstone: "Maj. Brimstone", Sapphire: "Lady Sapphire", Lavender: "Dr Lavender", Rouge: "Madame Rouge", Weisse: "Mrs Weisse" };
     const TREASURES = ["Portrait", "Ornaments", "Documents", "Coins", "Necklace", "Watch"];
@@ -2420,7 +2233,6 @@
     const displayGuest = id => GUEST_TITLES[id] || id;
     const displayCardName = (type, name) => type === 'Guest' ? displayGuest(name) : name;
 
-    // Room icons for the board and casebook
     const ROOM_ICON = {
       "Study": "📝",
       "Hall": "🧥",
@@ -2434,7 +2246,6 @@
       "Case File": "🕵️‍♂️"
     };
 
-    /* Movement (kept as in your current build, including passages on any dice) */
     const ROOM_DICE = {
       "Study": { 1: ["Kitchen", "Hall"], 2: ["Kitchen", "Hall", "Library"], 3: ["Kitchen", "Hall", "Library", "Lounge"], 4: ["Kitchen", "Hall", "Library", "Lounge", "Billiard Room"], 5: ["Kitchen", "Hall", "Library", "Lounge", "Billiard Room", "Dining Room"], 6: ["Kitchen", "Hall", "Library", "Lounge", "Billiard Room", "Dining Room", "Conservatory"] },
       "Hall": { 1: ["Study"], 2: ["Study", "Lounge"], 3: ["Study", "Lounge", "Library"], 4: ["Study", "Lounge", "Library", "Dining Room"], 5: ["Study", "Lounge", "Library", "Dining Room", "Billiard Room"], 6: ["Study", "Lounge", "Library", "Dining Room", "Billiard Room", "Kitchen"] },
@@ -2452,7 +2263,6 @@
       return new Set((t && t[d]) ? t[d] : []);
     }
 
-    /* DOM */
     const el = id => document.getElementById(id);
     function log(msg) {
       const box = el('log');
@@ -2460,11 +2270,6 @@
       box.textContent += `[${t}] ${msg}\n`;
       box.scrollTop = box.scrollHeight;
     }
-
-    /* Prompt helpers */
-    /* ================================================================================
-     * [SECTION 7] USER INTERFACE PROMPTS
-     * ================================================================================ */
 
     function renderPrompt({ title = "", bodyHTML = "", actions = [] }) {
       return new Promise(resolve => {
@@ -2484,30 +2289,22 @@
       });
     }
 
-    /* ========================================================================
-     * MODAL CONFIRMATION (for critical actions like New Game)
-     * ======================================================================== */
     function showModalConfirm({ title = "Confirm", bodyHTML = "", confirmLabel = "Confirm", cancelLabel = "Cancel" }) {
       return new Promise(resolve => {
-        // Create overlay
         const overlay = document.createElement('div');
         overlay.className = 'modalOverlay';
 
-        // Create dialog
         const dialog = document.createElement('div');
         dialog.className = 'modalDialog';
 
-        // Header
         const header = document.createElement('div');
         header.className = 'modalHeader';
         header.textContent = title;
 
-        // Body
         const body = document.createElement('div');
         body.className = 'modalBody';
         body.innerHTML = bodyHTML;
 
-        // Actions
         const actions = document.createElement('div');
         actions.className = 'modalActions';
 
@@ -2530,16 +2327,13 @@
         actions.appendChild(cancelBtn);
         actions.appendChild(confirmBtn);
 
-        // Assemble
         dialog.appendChild(header);
         dialog.appendChild(body);
         dialog.appendChild(actions);
         overlay.appendChild(dialog);
 
-        // Add to page
         document.body.appendChild(overlay);
 
-        // ESC key to cancel
         const escHandler = (e) => {
           if (e.key === 'Escape') {
             document.body.removeChild(overlay);
@@ -2549,7 +2343,6 @@
         };
         document.addEventListener('keydown', escHandler);
 
-        // Click overlay background to cancel (optional - comment out if too sensitive)
         overlay.onclick = (e) => {
           if (e.target === overlay) {
             document.body.removeChild(overlay);
@@ -2557,7 +2350,6 @@
           }
         };
 
-        // Prevent clicks inside dialog from closing
         dialog.onclick = (e) => {
           e.stopPropagation();
         };
@@ -2594,29 +2386,19 @@
       return !!r;
     }
 
-    // Difficulty helpers & labels
     const DIFF_LABELS = {
       basic: 'Basic inference',
       smart: 'Smarter inference',
       sherlock: 'Sherlock (expert + human-like quirks)',
-      // Back-compat alias if old saves or code still sets "deep":
       deep: 'Smarter inference'
     };
     const normDiff = (d) => (d === 'deep' ? 'smart' : d); // map old "deep" to "smart"
     const isAdvancedAI = (d) => (d === 'smart' || d === 'sherlock' || d === 'deep');
     const isSherlock = (d) => (d === 'sherlock');
 
-    /* ============================================================
-       TITLE PAGE CONTROLLER
-       ============================================================ */
-
-    // tpState, tpSelectCharacter, tpBeginInvestigation defined in early <script> block in <head>
-
     function tpShowTitlePages() {
-      // Reset title pages back to page 1
       document.getElementById('tpPage1').classList.add('active');
       document.getElementById('tpPage2').classList.remove('active');
-      // Reset radio buttons to defaults
       const defDiff = document.querySelector('input[name="tpDiff"][value="basic"]');
       const defOpp = document.querySelector('input[name="tpOpp"][value="2"]');
       const defMode = document.querySelector('input[name="tpMode"][value="normal"]');
@@ -2624,7 +2406,6 @@
       if (defOpp) defOpp.checked = true;
       if (defMode) defMode.checked = true;
       document.getElementById('tpCharDisplay').textContent = '—';
-      // Show title pages, hide game
       document.getElementById('titlePages').classList.remove('hidden');
       document.getElementById('gameUI').classList.remove('active');
       window.scrollTo({ top: 0, behavior: 'instant' });
