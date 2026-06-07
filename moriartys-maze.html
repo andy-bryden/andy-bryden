@@ -5004,14 +5004,8 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
       tip.style.left = tx + 'px'; tip.style.top = ty + 'px'; tip.classList.add('on');
     }
     function hideTooltip() { document.getElementById('tooltip').classList.remove('on'); }
-
-    /* ══════════════════════════════════════════════════════════════
-       MOVE PROMPT
-    ══════════════════════════════════════════════════════════════ */
     let promptCtx = null;
     let _selectedTransport = ''; // tracks current transport type selection (replaces sel-type.value)
-
-    /* ── Map highlight state (populated when prompt is active) ── */
     let mapHighlight = {
       valid: new Set(),      // nodes user can click (reachable for current filter)
       hint: new Set(),       // 2-step nodes shown for bluff (display only, not clickable)
@@ -5023,11 +5017,9 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
       selectedNode: null,    // node chosen by map click
       filterType: null,      // transport filter (null = show all)
     };
-
     function showMoriPrompt(leg = 1) {
       if (gameOver) return;
       promptCtx = { who: 'moriarty', leg };
-      // Reset highlight state for new prompt
       mapHighlight = {
         valid: new Set(), hint: new Set(), coachRec: null, coachRecFog: false, coachRec2: null,
         fogPending: false, bluffPending: false, selectedNode: null, filterType: null
@@ -5046,7 +5038,6 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
       document.getElementById('cc-btn').style.display = currentMode === 'coach-moriarty' ? '' : 'none';
       document.getElementById('coach-rec').textContent = '';
       buildMoriTransport();
-      // Coach mode: get recommendation and set highlight
       if (currentMode === 'coach-moriarty') {
         const s = coachMoriSuggest();
         const detOccupied = new Set(G.detectives.map(d => d.node));
@@ -5058,13 +5049,11 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
           mapHighlight.coachRecFog = !!(s.rec.fogConsumed || s.rec.realType === 'water');
           if (s.rec.bluffConsumed && s.rec2) mapHighlight.coachRec2 = s.rec2.node;
         } else {
-          // Rec is stale — show text only, no station highlight
           addCoachEntry(s.text + '\n— — — — —', '');
         }
       }
       updateHighlights();
     }
-
     function showDetPrompt(di) {
       if (gameOver) return;
       const det = G.detectives[di];
@@ -5075,7 +5064,6 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
         advanceDet(di); return;
       }
       promptCtx = { who: 'detective', detIdx: di };
-      // Reset highlight state for new prompt
       mapHighlight = {
         valid: new Set(), hint: new Set(), coachRec: null, coachRecFog: false, coachRec2: null,
         fogPending: false, bluffPending: false, selectedNode: null, filterType: null
@@ -5086,7 +5074,6 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
       document.getElementById('cc-btn').style.display = currentMode === 'coach-detective' ? '' : 'none';
       document.getElementById('coach-rec').textContent = '';
       buildDetTransport(di);
-      // Coach mode: get recommendation and set highlight
       if (currentMode === 'coach-detective') {
         const s = coachDetSuggest();
         const rec = s.recs.find(r => r.detIdx === di);
@@ -5095,7 +5082,6 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
       }
       updateHighlights();
     }
-
     function hidePrompt() {
       promptCtx = null;
       _selectedTransport = '';
@@ -5112,15 +5098,9 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
       if (g('commit-btn')) g('commit-btn').disabled = true;
       drawMap();
     }
-    /* ══════════════════════════════════════════════════════════════
-       MAP HIGHLIGHT SYSTEM
-       Computes which stations glow on the canvas based on prompt state.
-       Colours: valid=gold, fog=misty-blue, bluff-hint=purple, coach=green, selected=white
-    ══════════════════════════════════════════════════════════════ */
     function computeHighlightSets() {
       const HL = { valid: new Set(), hint: new Set() };
       if (!promptCtx || gameOver) return HL;
-
       if (promptCtx.who === 'moriarty') {
         const all = moriMoves(G.moriNode);
         const waterOk = G.fogLeft > 0 || G.fogThisLeg; // fog ticket available or already active
@@ -5129,7 +5109,6 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
           if (mapHighlight.filterType && m.type !== mapHighlight.filterType) return;
           HL.valid.add(m.node);
         });
-        // Bluff hint: 2-step reachability (all modes) — display only
         if (mapHighlight.bluffPending) {
           HL.valid.forEach(n1 => {
             moriMoves(n1).forEach(m2 => { if (!HL.valid.has(m2.node)) HL.hint.add(m2.node); });
@@ -5145,12 +5124,10 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
       }
       return HL;
     }
-
     function updateHighlights() {
       const sets = computeHighlightSets();
       mapHighlight.valid = sets.valid;
       mapHighlight.hint = sets.hint;
-      // If selected node is no longer valid (filter change), clear it
       if (mapHighlight.selectedNode && !mapHighlight.valid.has(mapHighlight.selectedNode)) {
         mapHighlight.selectedNode = null;
         _selectedTransport = '';
@@ -5158,8 +5135,6 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
       }
       drawMap();
     }
-
-    /* Infer best transport type when no filter is active */
     function nodeToType(node) {
       if (!promptCtx) return null;
       let moves;
@@ -5174,7 +5149,6 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
       for (const t of order) { if (moves.some(m => m.type === t)) return t; }
       return null;
     }
-
     function clearSelection() {
       mapHighlight.selectedNode = null; _selectedTransport = '';
       document.getElementById('commit-btn').disabled = true;
@@ -5182,9 +5156,7 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
       if (cb) cb.style.display = 'none';
       drawMap();
     }
-
     function cancelSpecial() {
-      // Undo pending fog or bluff (nothing committed to G yet)
       if (mapHighlight.fogPending) {
         mapHighlight.fogPending = false;
         document.getElementById('fog-btn').classList.remove('active-special');
@@ -5193,14 +5165,11 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
         mapHighlight.bluffPending = false;
         document.getElementById('bluff-btn').classList.remove('active-special');
       }
-      // Remove water-only filter if it was set by fog
       if (mapHighlight.filterType === 'water') mapHighlight.filterType = null;
       document.getElementById('cancel-btn').classList.remove('on');
       clearSelection();
       updateHighlights();
     }
-
-    /* Called when a map node is clicked during a prompt */
     function onMapNodeClick(node) {
       if (!promptCtx || !mapHighlight.valid.has(node)) return;
       mapHighlight.selectedNode = node;
@@ -5214,7 +5183,6 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
       if (cb) cb.style.display = 'block';
       drawMap();
     }
-
     function buildMoriTransport() {
       const tb = document.getElementById('type-btns');
       tb.innerHTML = '';
@@ -5225,7 +5193,6 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
         { v: 'underground', icon: '🚂' },
         { v: 'water', icon: '⚓' },
       ];
-      // Determine which types have any reachable nodes
       const avail = new Set();
       moriMoves(G.moriNode).forEach(m => {
         if (m.type === 'water') avail.add('water'); // shown when fog is pending
@@ -5247,7 +5214,6 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
       _sab.textContent = 'All'; _sab.onclick = () => onTypeChange(null);
       tb.appendChild(_sab);
     }
-
     function buildDetTransport(di) {
       const tb = document.getElementById('type-btns');
       tb.innerHTML = '';
@@ -5263,13 +5229,11 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
         btn.onclick = () => onTypeChange(v);
         tb.appendChild(btn);
       });
-      // Show All inline button — appended after transport buttons
       const sab = document.createElement('button');
       sab.className = 'show-all-inline'; sab.id = 'show-all-btn';
       sab.textContent = 'All'; sab.onclick = () => onTypeChange(null);
       tb.appendChild(sab);
     }
-
     function onTypeChange(type) {
       mapHighlight.filterType = type;
       document.querySelectorAll('#type-btns .type-btn').forEach(btn => {
@@ -5280,11 +5244,6 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
       clearSelection();
       updateHighlights();
     }
-
-    /* ══════════════════════════════════════════════════════════════
-       SPECIAL TICKETS
-       Pending-only — no G mutation, no log until commitMove fires.
-    ══════════════════════════════════════════════════════════════ */
     function useSpecial(type) {
       if (!promptCtx || promptCtx.who !== 'moriarty') return;
       if (type === 'fog') {
@@ -5301,39 +5260,28 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
       clearSelection();
       updateHighlights();
     }
-
-    /* ══════════════════════════════════════════════════════════════
-       COMMIT — applies pending fog/bluff to G, then executes move
-    ══════════════════════════════════════════════════════════════ */
     function commitMove() {
       const dest = mapHighlight.selectedNode;
       const type = _selectedTransport;
       if (!dest || !type || !promptCtx) return;
-
-      // Apply pending fog to G now (explicit fog button press)
       if (mapHighlight.fogPending && !G.fogThisLeg && G.fogLeft > 0) {
         G.fogLeft--; G.fogThisLeg = true;
         addLog(G.moriMoveCount, '🌫', 'Moriarty plays <strong>Heavy Fog</strong> — transport concealed.');
         updateSidebar();
       }
-      // Auto-consume fog for water moves (riverboat always uses a fog ticket)
       if (type === 'water' && !G.fogThisLeg && G.fogLeft > 0) {
         G.fogLeft--; G.fogThisLeg = true;
         updateSidebar();
       }
-      // Apply pending bluff to G now
       if (mapHighlight.bluffPending && G.bluff.leg === 0 && G.bluffLeft > 0) {
         G.bluffLeft--; G.bluff.leg = 1;
         G.bluff.pairStart = G.moriMoveCount + 1;
-        // Store secondLeg from coach rec if available
         if (G.coachMovRec && G.coachMovRec._secondLeg) G.bluff.secondLeg = G.coachMovRec._secondLeg;
         addLog(G.moriMoveCount, '⚡', 'Moriarty activates <strong>Double Bluff</strong>!');
         activateBluffBracket(G.bluff.pairStart);
         updateSidebar();
       }
       mapHighlight.fogPending = false; mapHighlight.bluffPending = false;
-
-      // Coach override detection — always clear stale secondLeg when human acts
       if (promptCtx.who === 'moriarty') {
         if (G.coachMovRec) {
           const rec = G.coachMovRec;
@@ -5344,10 +5292,8 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
             G.coachMovRec = null;
           }
         }
-        // Always clear any stale secondLeg if bluff wasn't just activated
         if (G.bluff.leg === 0) G.bluff.secondLeg = null;
       }
-
       if (promptCtx.who === 'moriarty') doMoriMove(dest, type);
       else doDetMove(promptCtx.detIdx, dest, type);
     }
@@ -5367,32 +5313,22 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
         if (rec) doDetMove(rec.detIdx, rec.node, rec.type);
       }
     }
-
-    /* ══════════════════════════════════════════════════════════════
-       EXECUTE — MORIARTY
-    ══════════════════════════════════════════════════════════════ */
     function doMoriMove(dest, type) {
       if (gameOver) return;
-
       const usingFog = G.fogThisLeg || (type === 'water');
-      // Validate via centralised move validation (Fix #3)
       const detSet = new Set(G.detectives.map(d => d.node));
       if (detSet.has(dest)) { console.warn('Moriarty tried to move to detective node', dest); return; }
       if (!isLegalMoriMove(dest, type, usingFog)) { console.warn('Illegal Moriarty move', dest, type); return; }
-
       G.posHistory = G.posHistory || []; G.posHistory.push(G.moriNode); if (G.posHistory.length > 12) G.posHistory.shift();
-      // Log to Moriarty's private move history before state updates
       G.moriMoveLog = G.moriMoveLog || [];
       G.moriMoveLog.push({ moveNum: G.moriMoveCount + 1, from: G.moriNode, node: dest, type, fogged: usingFog, isReveal: REVEAL_MOVES.includes(G.moriMoveCount + 1), isBluffLeg1: G.bluff.leg === 1 });
       G.moriNode = dest; G.moriMoveCount++;
       if (G.ghostNode >= 0) G.ghostSince++;
-
       const logType = usingFog ? 'fog' : type;
       const isReveal = REVEAL_MOVES.includes(G.moriMoveCount);
       const isBluffLeg1 = G.bluff.leg === 1; // transit move — don't dampen adjacents
       fillTicketCell(G.moriMoveCount, logType);
       expandBelief(logType, !isBluffLeg1);
-
       if (isReveal) {
         G.ghostNode = dest; G.ghostSince = 0; G.revealTurn = G.moriMoveCount;
         G.lastRevealNode = dest;
@@ -5407,11 +5343,7 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
       document.getElementById('move-num').textContent = G.moriMoveCount;
       updateRevealPips(); updateSidebar(); drawMap();
       logGameSnapshot('mori'); // replay: Moriarty sub-step
-
-      // Detectives can't be on Moriarty's node except by landing on him
       if (G.detectives.some(d => d.node === G.moriNode)) { hidePrompt(); setTimeout(() => endGame('detectives', 'capture'), 300); return; }
-      // Move 24: detectives get one final move before Moriarty escapes
-      // (they have 22 tickets, Moriarty has 24 moves via 2 doubles — detectives are owed move 22)
       if (G.moriMoveCount >= MAX_MOVES) {
         hidePrompt(); G.phase = 'detectives'; G.coachDetRecs = null; pruneBeliefDetNodes();
         if (currentMode === 'detective' || currentMode === 'coach-detective') promptCtx = { who: 'detective', detIdx: 0 };
@@ -5428,7 +5360,6 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
         }
         return;
       }
-
       if (G.bluff.leg === 1) {
         G.bluff.leg = 2; hidePrompt();
         if (currentMode !== 'simulator') {
@@ -5440,11 +5371,9 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
         return;
       }
       G.bluff.leg = 0;
-
       hidePrompt(); G.phase = 'detectives'; G.coachDetRecs = null; pruneBeliefDetNodes();
       if (currentMode === 'detective' || currentMode === 'coach-detective') promptCtx = { who: 'detective', detIdx: 0 };
       updateSidebar();
-
       if (currentMode !== 'simulator') {
         setTimeout(() => {
           if (currentMode === 'moriarty' || currentMode === 'coach-moriarty') {
@@ -5455,23 +5384,15 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
         }, 200);
       }
     }
-
-    /* ══════════════════════════════════════════════════════════════
-       EXECUTE — DETECTIVES
-       Enforce: dest cannot be occupied by another detective
-    ══════════════════════════════════════════════════════════════ */
     function doDetMove(di, dest, type) {
       if (gameOver) return;
       const det = G.detectives[di];
-      // Record previous position for velocity tracking
       G.detHistory = G.detHistory || [];
       if (!G.detHistory[di]) G.detHistory[di] = [];
       G.detHistory[di].push(det.node);
       if (G.detHistory[di].length > 4) G.detHistory[di].shift();
       const exclude = otherDetNodes(di);
-      // Reject if dest is occupied by another detective (not Moriarty)
       if (exclude.has(dest)) { console.warn('Detective tried to move to occupied node', dest); return; }
-      // Validate via centralised move validation (Fix #3)
       if (!isLegalDetMove(di, dest, type)) { console.warn('Illegal det move', di, dest, type); return; }
       det.tickets[type]--; det.node = dest;
       blockNode(dest);
@@ -5485,11 +5406,8 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
       const adjN = moriMoves(G.moriNode).map(m => m.node);
       const detSet = new Set(G.detectives.map(d => d.node));
       if (adjN.length > 0 && adjN.every(n => detSet.has(n))) { hidePrompt(); setTimeout(() => endGame('detectives', 'surrender'), 300); return; }
-      // Human/coach modes: advance to next detective via advanceDet.
-      // AI mode (runAIOneDet) owns its own chain — do not call advanceDet there.
       if (currentMode === 'detective' || currentMode === 'coach-detective') { hidePrompt(); advanceDet(di); }
     }
-
     function advanceDet(just) {
       const next = just + 1;
       if (next < NUM_DETS) {
@@ -5501,10 +5419,6 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
         endDetPhase();
       }
     }
-
-    /* ══════════════════════════════════════════════════════════════
-       AI PHASES
-    ══════════════════════════════════════════════════════════════ */
     function runAIDetPhase() { hideAI(); runAIOneDet(0); }
     function runAIOneDet(idx) {
       if (idx >= NUM_DETS) { endDetPhase(); return; }
@@ -5530,7 +5444,6 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
     }
     function endDetPhase() {
       if (gameOver) return;
-      // After Moriarty's final 24th move, detectives get one last phase then game ends
       if (G.finalDetPhase) {
         G.finalDetPhase = false;
         setTimeout(() => endGame('moriarty', 'survived'), 300);
@@ -5563,10 +5476,6 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
         doMoriMove(move.node, move.realType || move.type);
       }, 450);
     }
-
-    /* ══════════════════════════════════════════════════════════════
-       UI
-    ══════════════════════════════════════════════════════════════ */
     function addLog(mn, icon, text, isReveal = false) {
       if (currentMode === 'simulator') return;
       const log = document.getElementById('move-log');
@@ -5593,7 +5502,6 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
     function flashReveal() { if (currentMode === 'simulator') return; const el = document.getElementById('reveal-flash'); el.style.display = 'block'; setTimeout(() => el.style.display = 'none', 3500); }
     function showAI(msg) { document.getElementById('ai-msg').textContent = msg; document.getElementById('ai-bar').classList.add('on'); }
     function hideAI() { document.getElementById('ai-bar').classList.remove('on'); }
-
     function updateSidebar() {
       if (currentMode === 'simulator') return;
       document.getElementById('bluff-left').textContent = G.bluffLeft;
@@ -5634,23 +5542,11 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
         p.textContent = r; pips.appendChild(p);
       });
     }
-
-    /* ══════════════════════════════════════════════════════════════
-       OUTCOME
-    ══════════════════════════════════════════════════════════════ */
-    /* ══════════════════════════════════════════════════════════════
-       GAME LOG — snapshot after every complete round
-    ══════════════════════════════════════════════════════════════ */
     function logGameSnapshot(who) {
       if (!G || !G.gameLog || currentMode === 'simulator') return;
       G.gameLog.push({ mori: G.moriNode, dets: G.detectives.map(d => d.node), who, moveNum: G.moriMoveCount });
     }
-
-    /* ══════════════════════════════════════════════════════════════
-       AFTER-ACTION REPLAY
-    ══════════════════════════════════════════════════════════════ */
     let replayState = null;
-
     function drawReplayTrails() {
       if (!replayState || !G || !G.gameLog || G.gameLog.length < 2) return;
       const S = replayState.step;
@@ -5659,7 +5555,6 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
       ctx.setLineDash([]);
       ctx.lineCap = 'round';
       const lw = Math.max(8, 10 * Math.min(transform.scale * 1.3, 2.8));
-
       function drawCharPath(getPos, rgb) {
         for (let j = 0; j < S && j + 1 < G.gameLog.length; j++) {
           const a = getPos(G.gameLog[j]);
@@ -5675,18 +5570,13 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
           ctx.beginPath(); ctx.moveTo(ax, ay); ctx.quadraticCurveTo(bmx, bmy, bx, by); ctx.stroke();
         }
       }
-
-      // Detectives first (under Moriarty)
       G.detectives.forEach((_, i) => drawCharPath(e => e.dets[i], REPLAY_DET_RGB[i]));
-      // Moriarty on top
       drawCharPath(e => e.mori, REPLAY_MORI_RGB);
     }
-
     function replayGetSnap() {
       if (!replayState || !G || !G.gameLog) return null;
       return G.gameLog[Math.min(replayState.step, G.gameLog.length - 1)] || null;
     }
-
     function replayUpdateLabel() {
       const el = document.getElementById('replay-step-lbl');
       if (!el || !replayState || !G || !G.gameLog) return;
@@ -5695,14 +5585,12 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
       const moveNum = snap ? snap.moveNum : 0;
       el.textContent = 'Move ' + moveNum + ' — Step ' + replayState.step + ' of ' + total;
     }
-
     function replayAdvance() {
       if (!replayState) return;
       if (replayState.step < G.gameLog.length - 1) {
         replayState.step++;
         replayUpdateLabel();
         drawMap();
-        // Check if next step starts a new round (who==='mori') — pause between rounds
         const next = G.gameLog[replayState.step + 1];
         const roundEnd = !next || (next.who === 'mori' && replayState.step < G.gameLog.length - 1);
         if (roundEnd && replayState.playing) {
@@ -5713,14 +5601,12 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
           }, 600);
         }
       } else {
-        // Reached end — pause then play end effect
         clearInterval(replayState.timer); replayState.timer = null; replayState.playing = false;
         const btn = document.getElementById('replay-play-btn');
         if (btn) btn.textContent = '▶ Play';
         setTimeout(startReplayEndAnim, 400);
       }
     }
-
     function replayPlay() {
       if (!replayState) return;
       if (replayState.playing) return;
@@ -5729,19 +5615,16 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
       if (btn) btn.textContent = '⏸ Pause';
       replayState.timer = setInterval(replayAdvance, 150);
     }
-
     function replayPause() {
       if (!replayState) return;
       clearInterval(replayState.timer); replayState.timer = null; replayState.playing = false;
       const btn = document.getElementById('replay-play-btn');
       if (btn) btn.textContent = '▶ Play';
     }
-
     function replayToggle() {
       if (!replayState) return;
       if (replayState.playing) replayPause(); else replayPlay();
     }
-
     function replayStop() {
       if (!replayState) return;
       stopReplayEndAnim();
@@ -5750,29 +5633,22 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
       replayUpdateLabel();
       drawMap();
     }
-
     function startReplay() {
       replayState = { step: 0, playing: false, timer: null };
       replayUpdateLabel();
       drawMap();
-      // Auto-play after brief pause
       setTimeout(replayPlay, 600);
     }
-
     function stopReplay() {
       if (replayState) { clearInterval(replayState.timer); replayState = null; }
       stopReplayEndAnim();
     }
-
-    /* ── REPLAY END EFFECT ── */
     let replayEndAnim = null;
-
     function startReplayEndAnim() {
       if (!G || !G.gameLog || !G.gameLog.length) return;
       const last = G.gameLog[G.gameLog.length - 1];
       const reason = G._endReason || 'survived';
       const type = reason === 'capture' ? 'capture' : reason === 'surrender' ? 'surrender' : 'escape';
-      // For capture: find which detective shares Moriarty's final node
       let capDetIdx = -1;
       if (type === 'capture') {
         capDetIdx = last.dets.findIndex(n => n === last.mori);
@@ -5790,14 +5666,12 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
       }
       replayEndAnim.rafId = requestAnimationFrame(tick);
     }
-
     function stopReplayEndAnim() {
       if (replayEndAnim) {
         cancelAnimationFrame(replayEndAnim.rafId);
         replayEndAnim = null;
       }
     }
-
     function drawReplayEndEffect() {
       if (!replayEndAnim) return;
       const { type, progress, moriNode } = replayEndAnim;
@@ -5806,9 +5680,7 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
       const [cx, cy] = w2s(n.x, n.y);
       const W = canvas.width, H = canvas.height;
       const maxR = Math.sqrt(W * W + H * H);
-
       if (type === 'capture') {
-        // Semi-transparent dark fog contracts to a point — positions visible through it
         const eased = 1 - Math.pow(1 - progress, 2.4);
         const innerR = Math.max(0, maxR * (1 - eased));
         const falloff = Math.max(1, maxR * 0.18 * (1 - eased * 0.7));
@@ -5818,9 +5690,7 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
         g.addColorStop(1, `rgba(4,2,10,${alpha.toFixed(3)})`);
         ctx.fillStyle = g;
         ctx.fillRect(0, 0, W, H);
-
       } else if (type === 'surrender') {
-        // Same semi-transparent fog, holds at ~30px — Moriarty dimly visible at centre
         const eased = 1 - Math.pow(1 - Math.min(progress, 1), 2.2);
         const minR = 30;
         const innerR = Math.max(minR, maxR * (1 - eased));
@@ -5831,11 +5701,7 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
         g.addColorStop(1, `rgba(4,2,10,${alpha.toFixed(3)})`);
         ctx.fillStyle = g;
         ctx.fillRect(0, 0, W, H);
-
       } else {
-        // Escape — washout covers everything. Two phases:
-        // 0.00→0.65: white wash builds (more translucent so map still readable)
-        // 0.65→1.00: Moriarty's token fades to nothing — he has vanished
         const washPhase = Math.min(progress / 0.65, 1);
         const fadePhase = progress > 0.65 ? (progress - 0.65) / 0.35 : 0;
         const eased = 1 - Math.pow(1 - washPhase, 1.8);
@@ -5845,11 +5711,9 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
         g.addColorStop(1, `rgba(255,250,228,${alpha.toFixed(3)})`);
         ctx.fillStyle = g;
         ctx.fillRect(0, 0, W, H);
-        // Expose token fade alpha for drawMap to suppress Moriarty's token
         replayEndAnim.moriTokenAlpha = Math.max(0, 1 - fadePhase);
       }
     }
-
     function buildReplayPanel(theme) {
       const prompt = document.getElementById('move-prompt');
       prompt.className = 'end-' + theme;
@@ -5865,19 +5729,14 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
         '<button class="end-btn ' + theme + '" onclick="stopReplay();startGame(currentMode)">Play Again</button>' +
         '</div>';
     }
-
     function endGame(winner, reason) {
       if (gameOver) return;
       if (currentMode === 'simulator') { simEndGame(winner, reason); return; }
       gameOver = true; hideAI();
-
-      // Find capturing detective if applicable
       let captureDet = null;
       if (winner === 'detectives' && reason === 'capture') {
         captureDet = G.detectives.find(d => d.node === G.moriNode);
       }
-
-      // Determine result text
       let title, sub, theme;
       if (winner === 'moriarty') {
         title = 'Moriarty Escapes!';
@@ -5893,12 +5752,9 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
         sub = `${detName} closes the trap. "The game is up, Professor." The Napoleon of Crime is finally taken.`;
         theme = 'dets';
       }
-
       G._endTheme = theme; // stored for viewAftermath
       G._endReason = reason; // stored for replay end effect
       drawMap();
-
-      // Show dramatic overlay — prompt box left untouched until overlay is dismissed
       setTimeout(() => {
         const ov = document.getElementById('outcome');
         ov.className = 'on out-' + theme + '-bg out-' + theme;
@@ -5914,7 +5770,6 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
         _curtainDrop(ov);
       }, 400);
     }
-
     function viewAftermath() {
       const ov = document.getElementById('outcome');
       _curtainLift(ov, () => {
@@ -5923,20 +5778,14 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
         startReplay();
       });
     }
-
     function outcomePlayAgain() {
       const ov = document.getElementById('outcome');
       _curtainLift(ov, () => { ov.className = ''; startGame(currentMode); });
     }
-
     function outcomeReturn() {
       const ov = document.getElementById('outcome');
       _curtainLift(ov, () => { ov.className = ''; backToTitle(); });
     }
-
-    /* ══════════════════════════════════════════════════════════════
-       RULES
-    ══════════════════════════════════════════════════════════════ */
     function showStory() {
       const s = document.getElementById('story-screen');
       s.style.display = '';
@@ -5968,17 +5817,6 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
       });
     }
     document.getElementById('modal').addEventListener('click', e => { if (e.target === e.currentTarget) closeModal(); });
-
-    /* ══════════════════════════════════════════════════════════════
-       START / BACK
-    ══════════════════════════════════════════════════════════════ */
-    /* ══════════════════════════════════════════════════════════════
-       SIMULATOR
-       AI vs AI, multi-game, animated. Prompt box becomes controller.
-       Coach notes panel becomes sim log.
-    ══════════════════════════════════════════════════════════════ */
-
-
     let simState = {
       running: false,
       paused: false,
@@ -5987,7 +5825,6 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
       results: [],   // {game, winner, reason, move, moriStart, reveals, fogUsed, bluffUsed}
       timer: null
     };
-
     function simPromptHTML() {
       return `<div class="sim-panel">
     <div class="sim-title">⚙ Simulator</div>
@@ -6024,20 +5861,17 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
     </div>
   </div>`;
     }
-
     function simWriteLog(text) {
       const el = document.getElementById('sim-log');
       if (!el) return;
       el.textContent += text + '\n';
       el.scrollTop = el.scrollHeight;
     }
-
     function simCopyLog() {
       const el = document.getElementById('sim-log');
       if (!el) return;
       const text = el.textContent;
       const btn = document.querySelector('.sim-copy-btn');
-      // Try modern clipboard API first, fall back to execCommand for file:// contexts
       const confirm = () => { if (btn) { btn.textContent = 'Copied!'; setTimeout(() => btn.textContent = 'Copy', 1500); } };
       const fallback = () => {
         const ta = document.createElement('textarea');
@@ -6052,12 +5886,10 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
         fallback();
       }
     }
-
     function simSetStatus(txt) {
       const el = document.getElementById('sim-status');
       if (el) el.textContent = txt;
     }
-
     function simSetButtons(running, paused) {
       const s = document.getElementById('sim-start-btn');
       const p = document.getElementById('sim-pause-btn');
@@ -6068,7 +5900,6 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
       p.textContent = paused ? '▶ Resume' : '⏸ Pause';
       t.disabled = !running;
     }
-
     function simStart() {
       const countEl = document.getElementById('sim-count');
       const n = Math.max(1, parseInt(countEl ? countEl.value : 20) || 20);
@@ -6085,12 +5916,10 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
       if (strip) strip.style.display = 'none';
       simNextGame();
     }
-
     function simTogglePause() {
       simState.paused = !simState.paused;
       simSetButtons(true, simState.paused);
       if (!simState.paused) {
-        // Resume — restart from top of next game if last one finished, else re-enter move loop
         if (gameOver) {
           setTimeout(simNextGame, 0);
         } else {
@@ -6098,7 +5927,6 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
         }
       }
     }
-
     function simStop() {
       simState.running = false;
       simState.paused = false;
@@ -6111,7 +5939,6 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
       const strip = document.getElementById('ticket-strip');
       if (strip) strip.style.display = '';
     }
-
     function simNextGame() {
       if (!simState.running || simState.paused) return;
       if (simState.current >= simState.total) {
@@ -6126,14 +5953,10 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
       }
       simState.current++;
       simSetStatus(`Game ${simState.current} of ${simState.total}…`);
-
-      // Start a fresh game in simulator mode
       gameOver = false;
       G = freshGame();
       drawStartingPositions();
       initBelief(); G.phase = 'moriarty';
-
-      // Track per-game data
       const startMinHops = Math.min(...G.detectives.map(det => landHopDistDet(det, G.moriNode)));
       G._simGame = {
         gameNum: simState.current,
@@ -6148,38 +5971,29 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
         moveLog: [],           // full move-by-move transcript lines
         pendingLine: ''        // current round being built
       };
-      // Log starting positions (move 0)
       const startLine = '0-🎩▶' + G.moriNode + G.detectives.map(d => '-' + d.emoji + '▶' + d.node).join('');
       G._simGame.moveLog.push(startLine);
-
       simRunMoriMove();
     }
-
     function simRunMoriMove() {
       if (!simState.running || simState.paused || gameOver) return;
       if (G.phase !== 'moriarty') { simRunDetPhase(); return; }
-
       let move = aiPickMoriMove();
-
       if (move.surrender) {
         if (G._simGame) G._simGame.surrenderThreat = threatLevel(G.moriNode, G.detectives);
         simEndGame('detectives', 'surrender'); return;
       }
-
       if (move.bluffConsumed && G.bluff.leg === 0) {
         G.bluffLeft--; G.bluff.leg = 1; G.bluff.pairStart = G.moriMoveCount + 1;
         if (move._secondLeg) G.bluff.secondLeg = move._secondLeg;
         if (G._simGame) { G._simGame.bluffUsed++; G._simGame.bluffMoves.push(G.moriMoveCount + 1); }
         activateBluffBracket(G.bluff.pairStart); updateSidebar();
       }
-
       if (move.fogConsumed && !G.fogThisLeg && G.fogLeft > 0) {
         G.fogLeft--; G.fogThisLeg = true;
         if (G._simGame) { G._simGame.fogUsed++; G._simGame.fogMoves.push(G.moriMoveCount + 1); }
         updateSidebar();
       }
-
-      // Build move log line for this round
       const TEMO = { taxi: '🐴', bus: '🚃', underground: '🚂', water: '⚓', fog: '🌫' };
       const isBluffStart = move.bluffConsumed || (G.bluff.leg === 1 && G.moriMoveCount + 1 === G.bluff.pairStart);
       const displayType = (G.fogThisLeg && move.type !== 'water') ? 'fog' : (move.realType || move.type);
@@ -6187,8 +6001,6 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
         (REVEAL_MOVES.includes(G.moriMoveCount + 1) ? '👁' : '') + '🎩' +
         (TEMO[displayType] || displayType) + (move.node);
       if (G._simGame) G._simGame.pendingLine = moriPart;
-
-      // Capture reveal data BEFORE doMoriMove clears sanctuary
       const nextMoveNum = G.moriMoveCount + 1;
       let pendingReveal = null;
       if (G._simGame && REVEAL_MOVES.includes(nextMoveNum)) {
@@ -6201,33 +6013,21 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
           minHops: Math.min(...G.detectives.map(det => landHopDistDet(det, move.node))),
         };
       }
-
-      // Capture bluff state BEFORE doMoriMove mutates it
       const wasBluffLeg1 = (G.bluff.leg === 1);
-
       doMoriMove(move.node, move.realType || move.type);
-
       if (gameOver) return; // captured mid-move
-
       if (pendingReveal) G._simGame.reveals.push(pendingReveal);
-
-      // Handle bluff leg 2 execution loop
       if (wasBluffLeg1) {
-        // Bluff leg 1 — Moriarty moved, no detective phase. Push line now.
         if (G._simGame) G._simGame.moveLog.push(G._simGame.pendingLine);
         simRunMoriMove();
         return;
       }
-
-      // If it was a normal turn, or the end of Bluff Leg 2, detectives go next.
       simRunDetPhase();
     }
-
     function simRunDetPhase() {
       if (!simState.running || simState.paused || gameOver) return;
       G.phase = 'detectives'; G.coachDetRecs = null; pruneBeliefDetNodes();
       updateSidebar(); drawMap();
-
       const recs = aiDetTeamMoves();
       for (let idx = 0; idx < NUM_DETS; idx++) {
         if (!simState.running || simState.paused || gameOver) return;
@@ -6243,8 +6043,6 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
             const TEMO = { taxi: '🐴', bus: '🚃', underground: '🚂', water: '⚓' };
             G._simGame.pendingLine += '-' + det.emoji + (TEMO[chosen.type] || chosen.type) + chosen.node;
           }
-          // Sync end-condition check: doDetMove uses setTimeout(300) which races ahead in the sim loop.
-          // Check here directly so captures/surrenders register immediately and halt the loop.
           if (chosen.node === G.moriNode) { if (G._simGame && G._simGame.pendingLine) G._simGame.moveLog.push(G._simGame.pendingLine); simEndGame('detectives', 'capture'); return; }
           const adjN = moriMoves(G.moriNode).map(m => m.node);
           const dSet = new Set(G.detectives.map(d => d.node));
@@ -6254,7 +6052,6 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
       }
       simEndDetPhaseSim();
     }
-
     function simEndDetPhaseSim() {
       if (gameOver) return;
       if (G._simGame && G._simGame.pendingLine) G._simGame.moveLog.push(G._simGame.pendingLine);
@@ -6266,19 +6063,15 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
       G.phase = 'moriarty'; pruneBeliefDetNodes(); updateSidebar(); drawMap();
       simRunMoriMove();
     }
-
     function simEndGame(winner, reason) {
       if (gameOver) return;
       gameOver = true; hideAI();
-
       const d = G._simGame || {};
       const revealStr = (d.reveals || []).map(r => `${r.node}(${r.threat[0]}d${r.minHops}f${r.fogLeft}b${r.bluffLeft}s${r.sanctTarget || '?'})`).join(',');
       const fogStr = (d.fogMoves || []).join(',');
       const bluffStr = (d.bluffMoves || []).join(',');
       const startInfo = `start=${d.moriStart}(d${d.startMinHops})`;
-
       const endSanct = '';
-
       let resultLine;
       if (winner === 'moriarty') {
         resultLine = `G${d.gameNum} ✓ ESCAPED   move=${G.moriMoveCount} ${startInfo} fog=${d.fogUsed}[${fogStr}] bluff=${d.bluffUsed}[${bluffStr}] reveals=[${revealStr}]`;
@@ -6286,9 +6079,7 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
         const surrInfo = reason === 'surrender' ? ` surr=${d.surrenderThreat || '?'}` : '';
         resultLine = `G${d.gameNum} ✗ CAUGHT    move=${G.moriMoveCount} reason=${reason}${surrInfo} ${startInfo} ${endSanct} fog=${d.fogUsed}[${fogStr}] bluff=${d.bluffUsed}[${bluffStr}] reveals=[${revealStr}]`;
       }
-
       simWriteLog(resultLine);
-      // Full move-by-move transcript (only if verbose checkbox is ticked)
       const verboseEl = document.getElementById('sim-verbose');
       if (verboseEl && verboseEl.checked && d.moveLog && d.moveLog.length) {
         d.moveLog.forEach(line => simWriteLog(line));
@@ -6300,35 +6091,28 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
         fogUsed: d.fogUsed, bluffUsed: d.bluffUsed, reveals: d.reveals || [],
         avgDepth: typeof _mmMaxDepthReached !== 'undefined' ? _mmMaxDepthReached : 2
       });
-
       simUpdateGauge();
-
       drawMap();
       simState.timer = setTimeout(simNextGame, 0);
     }
-
     function simUpdateGauge() {
       const r = simState.results;
       if (!r.length) return;
       const gauge = document.getElementById('sim-gauge');
       if (!gauge) return;
       gauge.style.display = 'flex';
-
       const n = r.length;
       const escaped = r.filter(x => x.winner === 'moriarty').length;
       const captures = r.filter(x => x.reason === 'capture').length;
       const surrenders = r.filter(x => x.reason === 'surrender').length;
       const escPct = Math.round(escaped / n * 100);
       const detPct = 100 - escPct;
-
       document.getElementById('gauge-seg-esc').style.width = escPct + '%';
       document.getElementById('gauge-seg-det').style.width = detPct + '%';
       document.getElementById('gauge-lbl-esc').textContent = `🎩 ${escPct}%`;
       document.getElementById('gauge-lbl-det').textContent = `🔍 ${detPct}%`;
       document.getElementById('gauge-sub').textContent = `${escaped}/${n} escaped · cap ${captures} surr ${surrenders}`;
     }
-
-
     function simPrintSummary() {
       const r = simState.results;
       if (!r.length) return;
@@ -6347,7 +6131,6 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
       const caughtFog = (r.filter(x => x.winner !== 'moriarty').reduce((s, x) => s + (x.fogUsed || 0), 0) / (caught || 1)).toFixed(1);
       const escapedBluff = (r.filter(x => x.winner === 'moriarty').reduce((s, x) => s + (x.bluffUsed || 0), 0) / (escaped || 1)).toFixed(1);
       const caughtBluff = (r.filter(x => x.winner !== 'moriarty').reduce((s, x) => s + (x.bluffUsed || 0), 0) / (caught || 1)).toFixed(1);
-
       simWriteLog('');
       simWriteLog('=== SUMMARY ===');
       simWriteLog(`Games:         ${r.length}`);
@@ -6369,31 +6152,24 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
         simWriteLog(`Time:          ${s}s (${(ms / r.length).toFixed(0)}ms/game)`);
       }
     }
-
     function beginPursuit() {
       _curtainLift(document.getElementById('story-screen'));
     }
-
-
-    /* drop: make el visible, animate down */
     function _curtainDrop(el) {
       el.style.display = '';
       el.classList.remove('c-lift', 'c-drop');
       void el.offsetWidth;
       el.classList.add('c-drop');
     }
-    /* lift: animate up, then hide */
     function _curtainLift(el, cb) {
       el.classList.remove('c-lift', 'c-drop');
       void el.offsetWidth;
       el.classList.add('c-lift');
       setTimeout(() => { el.style.display = 'none'; el.classList.remove('c-lift'); if (cb) cb(); }, 380);
     }
-
     function startGame(mode) {
       currentMode = mode; gameOver = false;
       initMmWorker();
-
       if (mode === 'simulator') {
         G = freshGame();
         document.getElementById('outcome').className = '';
@@ -6415,40 +6191,31 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
         requestAnimationFrame(() => _curtainLift(document.getElementById('title-screen')));
         return;
       }
-
       G = freshGame();
       drawStartingPositions();
       logGameSnapshot('start');
-
       document.getElementById('outcome').className = '';
       document.getElementById('game').classList.add('on');
       document.getElementById('move-log').innerHTML = '';
       document.getElementById('notes-coach-log').innerHTML = '';
       document.getElementById('move-num').textContent = '0';
       document.getElementById('coach-rec').textContent = '';
-
       const isCoach = mode === 'coach-moriarty' || mode === 'coach-detective';
       document.getElementById('notes-coach-log').style.display = isCoach ? 'block' : 'none';
       document.getElementById('notes-area').style.display = isCoach ? 'flex' : 'none';
-
       const prompt = document.getElementById('move-prompt');
       prompt.className = '';
       prompt.innerHTML = PROMPT_BOX_HTML;
-
       buildTicketStrip();
       if (!canvas) initCanvas(); else resizeCanvas();
       centreMap();
       initBelief(); G.phase = 'moriarty';
-
       addLog(0, '🕵️', '<strong>Game begun.</strong> Moriarty has vanished into the fog.');
       updateSidebar(); updateDetPanel(); updateRevealPips(); drawMap();
-
       if (mode === 'moriarty' || mode === 'coach-moriarty') showMoriPrompt();
       else { showAI('Moriarty vanishes into the fog…'); setTimeout(runAIMori, 1200); }
-
       requestAnimationFrame(() => _curtainLift(document.getElementById('title-screen')));
     }
-
     let _backToTitleCleanup = null;
     function backToTitle() {
       if (simState.running || simState.paused) {
@@ -6467,23 +6234,18 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
       t.classList.remove('c-drop', 'c-lift');
       _curtainDrop(t);
     }
-
     window.addEventListener('resize', () => { if (canvas) resizeCanvas(); });
-
-    /* ── MOBILE: relocate #notes-area to after #move-prompt ── */
     function relocateNotesArea() {
       const notes = document.getElementById('notes-area');
       const prompt = document.getElementById('move-prompt');
       const rightPanel = document.getElementById('right-panel');
       if (!notes || !prompt || !rightPanel) return;
       if (window.innerWidth <= 640) {
-        // Place after move-prompt if not already there
         if (notes.parentElement !== prompt.parentElement ||
           notes.previousElementSibling !== prompt) {
           prompt.parentElement.insertBefore(notes, prompt.nextSibling);
         }
       } else {
-        // Return to bottom of right-panel on desktop
         if (notes.parentElement !== rightPanel) {
           rightPanel.appendChild(notes);
         }
@@ -6492,15 +6254,10 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
     relocateNotesArea();
     window.addEventListener('resize', relocateNotesArea);
   </script>
-
   <script>
     (function () {
       'use strict';
-
-      /* ── CONFIG ── */
       const ENDPOINT = window.OPINIONS_ENDPOINT || 'https://formspree.io/f/xkoqyzdr';
-
-      /* ── FONTS — load if not already present ── */
       function ensureFonts() {
         const id = 'universal-fonts';
         if (document._opinionsGetById(id)) return;
@@ -6510,8 +6267,6 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
         link.href = 'https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300;1,400&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Inconsolata:wght@300;400;500&display=swap';
         document.head.appendChild(link);
       }
-
-      /* ── INJECT CSS ── */
       function injectStyles() {
         if (document._opinionsGetById('opinions-modal-styles')) return;
         const style = document.createElement('style');
@@ -6533,11 +6288,9 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
         font-family: 'Libre Baskerville', Georgia, serif;
       }
       .opinions-modal.open { display: flex; }
-
       @media (max-width: 640px) {
         .opinions-modal { width: 92vw !important; }
       }
-
       .modal-handle {
         background-color: var(--aged);
         border-bottom: 1px solid var(--rule);
@@ -6550,7 +6303,6 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
         gap: 0.75rem;
       }
       .modal-handle:active { cursor: grabbing; }
-
       .modal-grip {
         display: flex;
         gap: 3px;
@@ -6576,7 +6328,6 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
       }
       .modal-grip span::before { top: -4px; }
       .modal-grip span::after  { top:  4px; }
-
       .modal-close {
         background: none;
         border: none;
@@ -6589,13 +6340,11 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
         flex-shrink: 0;
       }
       .modal-close:hover { color: var(--rust); }
-
       .modal-body {
         padding: 1.4rem 1.6rem 1.6rem;
         overflow-y: auto;
         flex: 1;
       }
-
       .modal-intro {
         font-size: 0.82rem;
         color: var(--faded);
@@ -6605,7 +6354,6 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
       @media (max-width: 640px) {
         .modal-intro { font-size: 0.75rem; }
       }
-
       .modal-form label {
         display: block;
         font-family: 'Inconsolata', monospace;
@@ -6617,7 +6365,6 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
         margin-top: 0.9rem;
       }
       .modal-form label:first-child { margin-top: 0; }
-
       .modal-form input,
       .modal-form textarea {
         width: 100%;
@@ -6646,7 +6393,6 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
         .modal-form textarea { font-size: 0.78rem; padding: 0.4rem 0.6rem; }
         .modal-form textarea  { min-height: 80px; }
       }
-
       .message-label-row {
         display: flex;
         align-items: baseline;
@@ -6657,7 +6403,6 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
         margin-top: 0;
         margin-bottom: 0;
       }
-
       .reply-check-label {
         display: flex;
         align-items: center;
@@ -6676,7 +6421,6 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
         accent-color: var(--rust);
         cursor: pointer;
       }
-
       .modal-form .field-secondary {
         margin-top: 1rem;
         padding-top: 0.8rem;
@@ -6690,7 +6434,6 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
         padding: 0.4rem 0.6rem;
         background: var(--paper);
       }
-
       .modal-submit {
         margin-top: 1.2rem;
         width: 100%;
@@ -6713,7 +6456,6 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
       @media (max-width: 640px) {
         .modal-submit { font-size: 0.66rem; padding: 0.55rem; }
       }
-
       .modal-thankyou {
         display: none;
         text-align: center;
@@ -6736,8 +6478,6 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
     `;
         document.head.appendChild(style);
       }
-
-      /* ── INJECT HTML ── */
       function injectHTML() {
         if (document._opinionsGetById('opinions-modal')) return;
         const div = document.createElement('div');
@@ -6774,13 +6514,10 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
     `;
         document.body.appendChild(div.firstElementChild);
       }
-
-      /* ── INIT LOGIC ── */
       function init() {
         ensureFonts();
         injectStyles();
         injectHTML();
-
         const modal = document._opinionsGetById('opinions-modal');
         const closeBtn = document._opinionsGetById('modal-close');
         const handle = document._opinionsGetById('modal-handle');
@@ -6790,24 +6527,19 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
         const emailInput = document._opinionsGetById('email-input');
         const triggerNav = document._opinionsGetById('opinions-trigger');
         const triggerFooter = document._opinionsGetById('opinions-trigger-footer');
-
-        /* ── OPEN / CLOSE ── */
         function openModal(nearX, nearY) {
           form.style.display = '';
           thankyou.style.display = 'none';
           form.reset();
           emailInput.required = false;
           emailInput.placeholder = 'Email (optional)';
-
           modal.style.display = 'flex';
           modal.classList.add('open');
-
           const mw = modal.offsetWidth || 360;
           const mh = modal.offsetHeight || 300;
           const vw = window.innerWidth;
           const vh = window.innerHeight;
           let left, top;
-
           if (vw <= 640) {
             left = (vw - mw) / 2;
             top = vh * 0.12;
@@ -6824,15 +6556,12 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
           modal.style.right = 'auto';
           modal.style.bottom = 'auto';
         }
-
         function closeModal() {
           modal.classList.remove('open');
           modal.style.display = 'none';
         }
-
         if (!closeBtn) return;
         closeBtn.addEventListener('click', closeModal);
-
         if (triggerNav) {
           triggerNav.addEventListener('click', () => {
             const r = triggerNav.getBoundingClientRect();
@@ -6845,10 +6574,7 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
             openModal(r.left, r.top);
           });
         }
-
-        /* ── DRAG ── */
         let dragging = false, dragOffX = 0, dragOffY = 0;
-
         handle.addEventListener('mousedown', (e) => {
           dragging = true;
           const rect = modal.getBoundingClientRect();
@@ -6868,7 +6594,6 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
           modal.style.top = t + 'px';
         });
         document.addEventListener('mouseup', () => { dragging = false; });
-
         handle.addEventListener('touchstart', (e) => {
           const t = e.touches[0];
           dragging = true;
@@ -6889,16 +6614,12 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
           modal.style.top = tv + 'px';
         }, { passive: true });
         document.addEventListener('touchend', () => { dragging = false; });
-
-        /* ── REPLY CHECKBOX ── */
         replyCheckbox.addEventListener('change', () => {
           const checked = replyCheckbox.checked;
           emailInput.required = checked;
           emailInput.placeholder = checked ? 'Email (required)' : 'Email (optional)';
           if (!checked) emailInput.value = '';
         });
-
-        /* ── FORM SUBMIT ── */
         form.addEventListener('submit', async (e) => {
           e.preventDefault();
           const data = new FormData(form);
@@ -6919,19 +6640,14 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
           }
         });
       }
-
-      /* ── WAIT FOR DOM ── */
       if (document.readyState === 'loading') {
         document.addEventListener('DOMContentLoaded', init);
       } else {
         init();
       }
-
     })();
-
   </script>
   <script>
-    /* Wire up extra Opinions? triggers */
     ['opinions-trigger-2', 'opinions-trigger-footer', 'opinions-trigger-footer-2'].forEach(function (id) {
       var btn = document._opinionsGetById(id);
       if (!btn) return;
