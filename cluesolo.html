@@ -160,18 +160,15 @@
       gap: 8px;
       grid-template-rows: auto auto 1fr
     }
-
     .row {
       display: flex;
       gap: 8px;
       flex-wrap: wrap;
       align-items: center
     }
-
     .row.between {
       justify-content: space-between
     }
-
     .pill {
       font-size: 12px;
       padding: 4px 8px;
@@ -181,25 +178,21 @@
       color: var(--text);
       box-shadow: none
     }
-
     .pill.good {
       color: var(--good);
       border-color: var(--good);
       background: #e8f5e9
     }
-
     .pill.bad {
       color: var(--bad);
       border-color: var(--bad);
       background: #ffebee
     }
-
     .pill.warn {
       color: var(--warn);
       border-color: var(--warn);
       background: #fff8e1
     }
-
     button {
       cursor: pointer;
       border: 1px solid #8B2E2B;
@@ -216,44 +209,36 @@
       transition: background 0.15s ease, border-color 0.15s ease;
       text-shadow: none
     }
-
     button:hover {
       background: #a03835;
       border-color: #a03835
     }
-
     button:active {
       background: #6b1f1c;
       border-color: #6b1f1c
     }
-
     button.secondary {
       background: transparent;
       color: #5a4a2a;
       border-color: rgba(201, 151, 58, 0.5)
     }
-
     button.secondary:hover {
       background: rgba(201, 151, 58, 0.1);
       border-color: rgba(201, 151, 58, 0.8)
     }
-
     button.danger {
       background: #6b1f1c;
       border-color: #6b1f1c;
       color: #f5edd6
     }
-
     button.danger:hover {
       background: #8B2E2B;
       border-color: #8B2E2B
     }
-
     button:disabled {
       opacity: .45;
       cursor: not-allowed
     }
-
     select {
       padding: 8px 10px;
       border-radius: 2px;
@@ -262,7 +247,6 @@
       color: var(--text);
       font-family: inherit
     }
-
     .board {
       display: grid;
       grid-template-columns: repeat(12, minmax(0, 1fr));
@@ -271,7 +255,6 @@
       padding: 8px;
       position: relative;
     }
-
     .room {
       border: 1px solid rgba(201, 151, 58, 0.3);
       border-radius: 2px;
@@ -283,7 +266,6 @@
       transition: box-shadow 0.2s ease, border-color 0.2s ease, background 0.2s ease;
       overflow: hidden;
     }
-
     .room .title {
       font-family: 'Cinzel', serif;
       font-size: 9px;
@@ -294,7 +276,6 @@
       line-height: 1.2;
       margin-bottom: 4px;
     }
-
     .room .tokens {
       display: flex;
       flex-wrap: wrap;
@@ -302,7 +283,6 @@
       align-items: flex-start;
       align-content: flex-start;
     }
-
     .room.reachable {
       border-color: rgba(201, 151, 58, 0.8);
       background: linear-gradient(135deg, #fffbef 0%, #fff5d0 100%);
@@ -310,49 +290,39 @@
       cursor: pointer;
       animation: room-pulse 1.4s ease-in-out infinite;
     }
-
     @keyframes room-pulse {
-
       0%,
       100% {
         box-shadow: 0 0 0 2px rgba(201, 151, 58, 0.3);
       }
-
       50% {
         box-shadow: 0 0 0 4px rgba(201, 151, 58, 0.5);
       }
     }
-
     .room.here {
       border-color: rgba(45, 106, 45, 0.6);
       background: linear-gradient(135deg, #f4fbf4 0%, #eaf5ea 100%);
       box-shadow: 0 0 0 2px rgba(45, 106, 45, 0.2);
     }
-
     .room.center {
       background: linear-gradient(135deg, #f5efe0 0%, #ede3ca 100%);
       border: 1px solid rgba(201, 151, 58, 0.5);
     }
-
     .room.center.convicted {
       background: linear-gradient(135deg, rgba(232, 184, 75, 0.15), rgba(201, 151, 58, 0.08));
       border-color: rgba(201, 151, 58, 0.8);
     }
-
     .room.center.accused {
       background: linear-gradient(135deg, rgba(212, 161, 39, 0.15), rgba(255, 248, 220, 0.3));
       border-color: rgba(212, 161, 39, 0.7);
     }
-
     .room.center.notguilty {
       background: linear-gradient(135deg, rgba(100, 120, 160, 0.1), rgba(200, 210, 230, 0.15));
       border-color: rgba(100, 130, 180, 0.5);
     }
-
     .room button {
       display: none;
     }
-
     .log {
       height: 200px;
       overflow: auto;
@@ -367,18 +337,15 @@
       color: var(--text);
       box-shadow: inset 0 1px 3px rgba(13, 10, 7, 0.06)
     }
-
     .room.center .tokens .token.room {
       line-height: 1.1;
       padding: 3px 7px;
     }
-
     .checklistStack {
       display: grid;
       grid-template-columns: 1fr;
       gap: 10px
     }
-
     .clueGrid {
       width: 100%;
       border-collapse: collapse;
@@ -393,7 +360,6 @@
         #fffef8;
       box-shadow: inset 0 1px 3px rgba(61, 40, 23, 0.1);
     }
-
     .clueGrid th {
       background: linear-gradient(180deg, var(--timber), #2c1810);
       padding: 0px 0px;
@@ -404,7 +370,6 @@
       font-size: 10px;
       text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);
     }
-
     .clueGrid td {
       border: 1px solid var(--border);
       padding: 0;
@@ -412,7 +377,6 @@
       background: #fff;
       height: 20px;
     }
-
     .clueGrid td.cardName {
       text-align: left;
       padding: 0px 0px;
@@ -421,13 +385,11 @@
       background: linear-gradient(90deg, #faf5e8, #fff);
       font-size: 11px;
     }
-
     .clueGrid td.notesRow {
       padding: 0px 0px;
       background: #fff8e7;
       height: auto;
     }
-
     .clueGrid .noteInput {
       width: 97%;
       background: #fff;
@@ -438,13 +400,11 @@
       padding: 0px 0px;
       font-style: italic;
     }
-
     .clueGrid .noteInput:focus {
       outline: 0px solid var(--accent);
       background: #fff8e7;
       color: var(--text);
     }
-
     .clueGrid .noteDisplay {
       font-size: 10px;
       color: var(--muted);
@@ -452,7 +412,6 @@
       padding: 1px 1px;
       text-align: left;
     }
-
     .clueGrid select {
       width: 100%;
       height: 100%;
@@ -465,12 +424,10 @@
       cursor: pointer;
       appearance: none;
     }
-
     .clueGrid select:focus {
       outline: 1px solid var(--accent);
       background: rgba(184, 37, 44, 0.1);
     }
-
     .clueGrid .sectionHeader {
       background: linear-gradient(90deg, rgba(184, 37, 44, 0.15), rgba(212, 161, 39, 0.1));
       font-weight: 800;
@@ -483,29 +440,24 @@
       border-top: 1px solid var(--timber);
       border-bottom: 1px solid var(--border);
     }
-
     @media (max-width: 540px) {
       .clueGrid {
         font-size: 10px;
       }
-
       .clueGrid th {
         padding: 4px 2px;
         font-size: 9px;
       }
-
       .clueGrid td.cardName {
         font-size: 10px;
         padding: 3px 5px;
       }
-
       .clueGrid .noteInput,
       .clueGrid .noteDisplay {
         font-size: 9px;
         padding: 2px 3px;
       }
     }
-
     .promptBox {
       border: 1px solid rgba(201, 151, 58, 0.35);
       border-left: 3px solid #c9973a;
@@ -514,7 +466,6 @@
       padding: 16px;
       box-shadow: 0 4px 16px rgba(13, 10, 7, 0.1);
     }
-
     .promptTitle {
       font-weight: 600;
       margin-bottom: 10px;
@@ -524,22 +475,18 @@
       text-transform: uppercase;
       font-family: 'Cinzel', serif;
     }
-
     .promptBody {
       margin: 6px 0 10px 0
     }
-
     .promptActions {
       display: flex;
       flex-wrap: wrap;
       gap: 8px
     }
-
     .placeholder {
       color: var(--muted);
       font-size: 12px
     }
-
     .rightPanel,
     .leftPanel {
       position: sticky;
@@ -547,12 +494,10 @@
       height: calc(100vh - 96px);
       overflow: auto
     }
-
     @media (max-width:1200px) {
       .layout {
         grid-template-columns: 1fr
       }
-
       .leftPanel,
       .rightPanel {
         position: static;
@@ -560,7 +505,6 @@
         overflow: visible
       }
     }
-
     .token {
       display: inline-flex;
       align-items: center;
@@ -578,26 +522,21 @@
       position: relative;
       flex-shrink: 0;
     }
-
     .token:hover {
       transform: scale(1.1);
       box-shadow: 0 4px 10px rgba(13, 10, 7, 0.25);
     }
-
     .token[data-color] {
       border-color: color-mix(in srgb, var(--token-color) 60%, rgba(201, 151, 58, 0.4));
       background: color-mix(in srgb, var(--token-color) 18%, #faf6ec);
     }
-
     .token .ico {
       font-size: 20px;
       line-height: 1;
     }
-
     .token> :not(.ico) {
       display: none;
     }
-
     .token.roomtok {
       width: auto;
       height: auto;
@@ -607,94 +546,73 @@
       background: rgba(201, 151, 58, 0.12);
       border-color: rgba(201, 151, 58, 0.4);
     }
-
     .token.roomtok> :not(.ico) {
       display: inline;
       font-size: 11px;
     }
-
     .token.inactive {
       border-style: dashed;
       opacity: 0.38;
     }
-
     .token .ico {
       margin-right: 0;
     }
-
     .token.guest.forest {
       --token-color: var(--gst-forest)
     }
-
     .token.guest.brimstone {
       --token-color: var(--gst-brimstone)
     }
-
     .token.guest.sapphire {
       --token-color: var(--gst-sapphire)
     }
-
     .token.guest.lavender {
       --token-color: var(--gst-lavender)
     }
-
     .token.guest.rouge {
       --token-color: var(--gst-rouge)
     }
-
     .token.guest.weisse {
       --token-color: var(--gst-weisse)
     }
-
     .token.treasure.portrait {
       --token-color: var(--tsr-portrait)
     }
-
     .token.treasure.ornaments {
       --token-color: var(--tsr-ornaments)
     }
-
     .token.treasure.documents {
       --token-color: var(--tsr-documents)
     }
-
     .token.treasure.coins {
       --token-color: var(--tsr-coins)
     }
-
     .token.treasure.necklace {
       --token-color: var(--tsr-necklace)
     }
-
     .token.treasure.watch {
       --token-color: var(--tsr-watch)
     }
-
     .ico {
       display: inline-block;
       margin-right: 6px;
       line-height: 1;
     }
-
     .mobileNewGameRow {
       display: none;
       padding: 8px 10px 0 10px;
     }
-
     @media (max-width: 540px) {
       #btnNewGame {
         display: none !important;
       }
-
       .mobileNewGameRow {
         display: block;
       }
-
       #btnNewGameMobile {
         width: 100%;
       }
     }
-
     .modalOverlay {
       position: fixed;
       top: 0;
@@ -708,7 +626,6 @@
       z-index: 10000;
       backdrop-filter: blur(3px);
     }
-
     .modalDialog {
       background: var(--panel);
       border: 4px solid var(--cluedo-red);
@@ -719,19 +636,16 @@
       box-shadow: 0 20px 60px rgba(0, 0, 0, 0.5);
       animation: modalSlideIn 0.2s ease-out;
     }
-
     @keyframes modalSlideIn {
       from {
         opacity: 0;
         transform: translateY(-50px) scale(0.9);
       }
-
       to {
         opacity: 1;
         transform: translateY(0) scale(1);
       }
     }
-
     .modalHeader {
       background: linear-gradient(180deg, var(--cluedo-red), #6b1f1c);
       color: #fff;
@@ -742,56 +656,44 @@
       letter-spacing: 0.05em;
       text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
     }
-
     .modalBody {
       padding: 24px 20px;
       color: var(--text);
       font-size: 14px;
       line-height: 1.6;
     }
-
     .modalActions {
       padding: 12px 20px 20px 20px;
       display: flex;
       gap: 12px;
       justify-content: flex-end;
     }
-
     .modalActions button {
       min-width: 100px;
     }
-
     @media (max-width: 540px) {
-
       .board {
         display: grid;
         gap: 12px;
         grid-template-columns: 1fr;
         grid-auto-rows: auto;
       }
-
       .board .room {
         grid-column: auto !important;
         grid-row: auto !important;
         min-height: 120px;
       }
-
       .board .room.center {
         grid-column: auto !important;
         grid-row: auto !important;
       }
     }
-
-
     #gameUI {
       display: none;
     }
-
     #gameUI.active {
       display: block;
     }
-
-
     :root {
       --tp-ink: #0d0a07;
       --tp-gold: #c9973a;
@@ -801,7 +703,6 @@
       --tp-muted: #9a8a6a;
       --gold: var(--tp-gold);
     }
-
     #titlePages {
       min-height: 100vh;
       background-color: var(--tp-ink);
@@ -812,11 +713,9 @@
       overflow-x: hidden;
       position: relative;
     }
-
     #titlePages.hidden {
       display: none;
     }
-
     #titlePages::before {
       content: '';
       position: fixed;
@@ -826,7 +725,6 @@
       z-index: 999;
       opacity: 0.4;
     }
-
     #titlePages::after {
       content: '';
       position: fixed;
@@ -835,7 +733,6 @@
       pointer-events: none;
       z-index: 998;
     }
-
     .tp-page {
       display: none;
       max-width: 820px;
@@ -844,29 +741,24 @@
       position: relative;
       z-index: 1;
     }
-
     .tp-page.active {
       display: block;
       animation: tp-fadeIn 0.7s ease both;
     }
-
     @keyframes tp-fadeIn {
       from {
         opacity: 0;
         transform: translateY(16px)
       }
-
       to {
         opacity: 1;
         transform: translateY(0)
       }
     }
-
     .tp-masthead {
       text-align: center;
       margin-bottom: 56px;
     }
-
     .tp-eyebrow {
       font-family: 'Cinzel', serif;
       font-size: 11px;
@@ -875,7 +767,6 @@
       color: var(--tp-gold-dim);
       margin-bottom: 16px;
     }
-
     .tp-masthead h1 {
       font-family: 'Cinzel Decorative', serif;
       font-size: clamp(2.4rem, 6vw, 4rem);
@@ -886,7 +777,6 @@
       line-height: 1.1;
       margin-bottom: 10px;
     }
-
     .tp-sub {
       font-family: 'Cinzel', serif;
       font-size: 13px;
@@ -894,14 +784,12 @@
       color: var(--tp-muted);
       text-transform: uppercase;
     }
-
     .tp-rule {
       display: flex;
       align-items: center;
       gap: 16px;
       margin: 40px 0;
     }
-
     .tp-rule::before,
     .tp-rule::after {
       content: '';
@@ -909,7 +797,6 @@
       height: 1px;
       background: linear-gradient(90deg, transparent, var(--tp-gold-dim), transparent);
     }
-
     .tp-diamond {
       width: 8px;
       height: 8px;
@@ -918,11 +805,9 @@
       flex-shrink: 0;
       box-shadow: 0 0 8px rgba(201, 151, 58, 0.6);
     }
-
     .tp-act {
       margin-bottom: 48px;
     }
-
     .tp-act-label {
       font-family: 'Cinzel', serif;
       font-size: 10px;
@@ -931,7 +816,6 @@
       color: var(--tp-gold-dim);
       margin-bottom: 6px;
     }
-
     .tp-act h2 {
       font-family: 'Cinzel', serif;
       font-size: 1.25rem;
@@ -940,25 +824,21 @@
       margin-bottom: 18px;
       letter-spacing: 0.05em;
     }
-
     .tp-act p {
       color: #d4c4a0;
       margin-bottom: 14px;
       font-size: 1rem;
     }
-
     .tp-act p em {
       color: var(--tp-candle);
       font-style: italic;
     }
-
     .tp-guests-grid {
       display: grid;
       grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
       gap: 16px;
       margin-top: 20px;
     }
-
     .tp-guest-card {
       background: linear-gradient(160deg, #1a1408, #120e06);
       border: 1px solid rgba(201, 151, 58, 0.3);
@@ -968,7 +848,6 @@
       overflow: hidden;
       transition: border-color 0.3s, transform 0.2s;
     }
-
     .tp-guest-card::before {
       content: '';
       position: absolute;
@@ -980,22 +859,18 @@
       opacity: 0;
       transition: opacity 0.3s;
     }
-
     .tp-guest-card:hover {
       border-color: rgba(201, 151, 58, 0.5);
       transform: translateY(-2px);
     }
-
     .tp-guest-card:hover::before {
       opacity: 1;
     }
-
     .tp-guest-icon {
       font-size: 1.6rem;
       margin-bottom: 8px;
       display: block;
     }
-
     .tp-guest-name {
       font-family: 'Cinzel', serif;
       font-size: 0.85rem;
@@ -1004,21 +879,18 @@
       margin-bottom: 6px;
       letter-spacing: 0.05em;
     }
-
     .tp-guest-desc {
       font-size: 0.85rem;
       color: var(--tp-muted);
       line-height: 1.6;
       font-style: italic;
     }
-
     .tp-items-grid {
       display: grid;
       grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
       gap: 14px;
       margin-top: 20px;
     }
-
     .tp-item-card {
       background: #120e06;
       border: 1px solid rgba(201, 151, 58, 0.3);
@@ -1026,38 +898,32 @@
       padding: 14px;
       transition: border-color 0.3s;
     }
-
     .tp-item-card:hover {
       border-color: rgba(201, 151, 58, 0.4);
     }
-
     .tp-item-icon {
       font-size: 1.4rem;
       margin-bottom: 6px;
       display: block;
     }
-
     .tp-item-name {
       font-family: 'Cinzel', serif;
       font-size: 0.8rem;
       color: var(--tp-gold);
       margin-bottom: 5px;
     }
-
     .tp-item-desc {
       font-size: 0.82rem;
       color: var(--tp-muted);
       font-style: italic;
       line-height: 1.55;
     }
-
     .tp-rooms-grid {
       display: grid;
       grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
       gap: 14px;
       margin-top: 20px;
     }
-
     .tp-room-card {
       background: #120e06;
       border: 1px solid rgba(201, 151, 58, 0.3);
@@ -1066,31 +932,26 @@
       padding: 14px;
       transition: border-left-color 0.3s;
     }
-
     .tp-room-card:hover {
       border-left-color: var(--tp-gold);
     }
-
     .tp-room-icon {
       font-size: 1.2rem;
       margin-bottom: 5px;
       display: block;
     }
-
     .tp-room-name {
       font-family: 'Cinzel', serif;
       font-size: 0.8rem;
       color: var(--tp-gold);
       margin-bottom: 5px;
     }
-
     .tp-room-desc {
       font-size: 0.82rem;
       color: var(--tp-muted);
       font-style: italic;
       line-height: 1.55;
     }
-
     .tp-butler {
       border: 1px solid rgba(201, 151, 58, 0.3);
       border-left: 3px solid var(--tp-gold);
@@ -1100,7 +961,6 @@
       margin: 40px 0 0;
       position: relative;
     }
-
     .tp-butler-text {
       color: #d4c4a0;
       font-size: 1rem;
@@ -1108,7 +968,6 @@
       padding-left: 12px;
       line-height: 1.8;
     }
-
     .tp-butler-attr {
       margin-top: 10px;
       padding-left: 12px;
@@ -1117,11 +976,9 @@
       color: var(--tp-gold-dim);
       letter-spacing: 0.1em;
     }
-
     .tp-char-section {
       margin-top: 48px;
     }
-
     .tp-char-label {
       font-family: 'Cinzel', serif;
       font-size: 0.85rem;
@@ -1131,13 +988,11 @@
       margin-bottom: 20px;
       display: block;
     }
-
     .tp-char-buttons {
       display: flex;
       flex-wrap: wrap;
       gap: 12px;
     }
-
     .tp-char-btn {
       font-family: 'Cinzel', serif;
       font-size: 0.82rem;
@@ -1154,7 +1009,6 @@
       gap: 8px;
       white-space: nowrap;
     }
-
     .tp-char-btn:hover {
       border-color: var(--tp-gold);
       color: var(--tp-candle);
@@ -1162,16 +1016,13 @@
       box-shadow: 0 0 16px rgba(201, 151, 58, 0.15);
       transform: translateY(-2px);
     }
-
     .tp-char-btn:active {
       transform: translateY(0);
     }
-
     .tp-p2-head {
       text-align: center;
       margin-bottom: 48px;
     }
-
     .tp-p2-char {
       font-family: 'Cinzel', serif;
       font-size: 1rem;
@@ -1179,7 +1030,6 @@
       margin-bottom: 6px;
       letter-spacing: 0.1em;
     }
-
     .tp-p2-head h2 {
       font-family: 'Cinzel Decorative', serif;
       font-size: clamp(1.6rem, 4vw, 2.4rem);
@@ -1187,33 +1037,28 @@
       text-shadow: 0 0 30px rgba(201, 151, 58, 0.3);
       margin-bottom: 8px;
     }
-
     .tp-p2-head p {
       color: var(--tp-muted);
       font-style: italic;
       font-size: 0.95rem;
     }
-
     .tp-options-grid {
       display: grid;
       grid-template-columns: repeat(3, 1fr);
       gap: 28px;
       margin-top: 32px;
     }
-
     @media(max-width:640px) {
       .tp-options-grid {
         grid-template-columns: 1fr;
       }
     }
-
     .tp-opt-col {
       background: #120e06;
       border: 1px solid rgba(201, 151, 58, 0.3);
       border-radius: 6px;
       padding: 22px 20px;
     }
-
     .tp-opt-title {
       font-family: 'Cinzel', serif;
       font-size: 0.78rem;
@@ -1224,7 +1069,6 @@
       border-bottom: 1px solid rgba(201, 151, 58, 0.3);
       margin-bottom: 6px;
     }
-
     .tp-opt-intro {
       font-size: 0.82rem;
       color: var(--tp-muted);
@@ -1233,14 +1077,12 @@
       margin-bottom: 16px;
       margin-top: 10px;
     }
-
     .tp-opt-list {
       list-style: none;
       display: flex;
       flex-direction: column;
       gap: 10px;
     }
-
     .tp-opt-list li label {
       display: flex;
       align-items: flex-start;
@@ -1248,14 +1090,12 @@
       cursor: pointer;
       width: 100%;
     }
-
     .tp-opt-list input[type="radio"] {
       position: absolute;
       opacity: 0;
       width: 0;
       height: 0;
     }
-
     .tp-radio {
       width: 14px;
       height: 14px;
@@ -1267,7 +1107,6 @@
       position: relative;
       transition: border-color 0.2s;
     }
-
     .tp-radio::after {
       content: '';
       position: absolute;
@@ -1277,20 +1116,16 @@
       opacity: 0;
       transition: opacity 0.2s;
     }
-
     .tp-opt-list input[type="radio"]:checked+.tp-radio {
       border-color: var(--tp-gold);
     }
-
     .tp-opt-list input[type="radio"]:checked+.tp-radio::after {
       opacity: 1;
     }
-
     .tp-opt-wrap {
       display: flex;
       flex-direction: column;
     }
-
     .tp-opt-name {
       font-family: 'Cinzel', serif;
       font-size: 0.82rem;
@@ -1298,7 +1133,6 @@
       transition: color 0.2s;
       letter-spacing: 0.04em;
     }
-
     .tp-opt-desc {
       font-size: 0.78rem;
       color: var(--tp-muted);
@@ -1306,16 +1140,13 @@
       line-height: 1.5;
       margin-top: 2px;
     }
-
     .tp-opt-list li:hover .tp-opt-name {
       color: var(--tp-candle);
     }
-
     .tp-cta-wrap {
       text-align: center;
       margin-top: 56px;
     }
-
     .tp-cta-btn {
       display: inline-block;
       font-family: 'Cinzel', serif;
@@ -1333,7 +1164,6 @@
       box-shadow: 0 0 30px rgba(201, 151, 58, 0.25), 0 4px 16px rgba(0, 0, 0, 0.6);
       transition: box-shadow 0.3s, transform 0.15s;
     }
-
     .tp-cta-btn::before {
       content: '';
       position: absolute;
@@ -1341,23 +1171,19 @@
       background: linear-gradient(160deg, rgba(255, 255, 255, 0.2) 0%, transparent 60%);
       pointer-events: none;
     }
-
     .tp-cta-btn:hover {
       box-shadow: 0 0 50px rgba(201, 151, 58, 0.45), 0 6px 24px rgba(0, 0, 0, 0.7);
       transform: translateY(-2px);
     }
-
     .tp-cta-btn:active {
       transform: translateY(0);
     }
-
     .tp-cta-note {
       margin-top: 14px;
       font-size: 0.8rem;
       color: var(--tp-muted);
       font-style: italic;
     }
-
     .tp-foot {
       text-align: center;
       margin-top: 60px;
@@ -1366,8 +1192,6 @@
       letter-spacing: 0.1em;
       font-family: 'Cinzel', serif;
     }
-
-
     .acc-overlay {
       position: fixed;
       inset: 0;
@@ -1380,19 +1204,15 @@
       /* Default: ACCUSED state — dark and tense */
       background: radial-gradient(ellipse at 50% 30%, #1a1206 0%, #0d0a07 100%);
     }
-
     .acc-overlay.hidden {
       display: none;
     }
-
     .acc-overlay.state-notguilty {
       background: radial-gradient(ellipse at 50% 30%, #0e1520 0%, #080c14 100%);
     }
-
     .acc-overlay.state-convicted {
       background: radial-gradient(ellipse at 50% 20%, #1e1506 0%, #0d0a07 100%);
     }
-
     .acc-inner {
       max-width: 620px;
       width: 100%;
@@ -1401,19 +1221,16 @@
       font-family: 'EB Garamond', Georgia, serif;
       animation: acc-rise 0.6s ease both;
     }
-
     @keyframes acc-rise {
       from {
         opacity: 0;
         transform: translateY(24px);
       }
-
       to {
         opacity: 1;
         transform: translateY(0);
       }
     }
-
     .acc-eyebrow {
       font-family: 'Cinzel', serif;
       font-size: 10px;
@@ -1423,15 +1240,12 @@
       margin-bottom: 20px;
       transition: color 0.8s ease;
     }
-
     .state-notguilty .acc-eyebrow {
       color: #4a6080;
     }
-
     .state-convicted .acc-eyebrow {
       color: #c9973a;
     }
-
     .acc-rule {
       display: flex;
       align-items: center;
@@ -1439,7 +1253,6 @@
       margin: 0 auto 32px;
       max-width: 320px;
     }
-
     .acc-rule::before,
     .acc-rule::after {
       content: '';
@@ -1448,17 +1261,14 @@
       transition: background 0.8s ease;
       background: linear-gradient(90deg, transparent, #4a3010, transparent);
     }
-
     .state-notguilty .acc-rule::before,
     .state-notguilty .acc-rule::after {
       background: linear-gradient(90deg, transparent, #2a3a50, transparent);
     }
-
     .state-convicted .acc-rule::before,
     .state-convicted .acc-rule::after {
       background: linear-gradient(90deg, transparent, #c9973a, transparent);
     }
-
     .acc-diamond {
       width: 8px;
       height: 8px;
@@ -1468,17 +1278,14 @@
       background: #8a6220;
       box-shadow: 0 0 6px rgba(138, 98, 32, 0.5);
     }
-
     .state-notguilty .acc-diamond {
       background: #2a3a50;
       box-shadow: 0 0 6px rgba(42, 58, 80, 0.5);
     }
-
     .state-convicted .acc-diamond {
       background: #c9973a;
       box-shadow: 0 0 12px rgba(201, 151, 58, 0.8);
     }
-
     .acc-headline {
       font-family: 'Cinzel Decorative', 'Cinzel', serif;
       font-size: clamp(1.8rem, 5vw, 3rem);
@@ -1489,22 +1296,18 @@
       color: #c9973a;
       text-shadow: 0 0 40px rgba(201, 151, 58, 0.3);
     }
-
     .state-notguilty .acc-headline {
       color: #7090b0;
       text-shadow: 0 0 30px rgba(112, 144, 176, 0.3);
     }
-
     .state-convicted .acc-headline {
       color: #e8b84b;
       text-shadow: 0 0 60px rgba(232, 184, 75, 0.5), 0 2px 4px rgba(0, 0, 0, 0.8);
     }
-
     .acc-cards {
       margin: 0 auto 28px;
       max-width: 480px;
     }
-
     .acc-declaration {
       font-family: 'EB Garamond', Georgia, serif;
       font-size: clamp(1.1rem, 2.5vw, 1.35rem);
@@ -1516,31 +1319,25 @@
       background: rgba(255, 255, 255, 0.03);
       text-align: left;
     }
-
     .state-convicted .acc-declaration {
       border-left-color: #c9973a;
       color: #e8dfc0;
     }
-
     .state-notguilty .acc-declaration {
       border-left-color: #2a3a50;
       color: #8090a8;
     }
-
     .acc-declaration em {
       font-style: normal;
       color: #f5edd6;
       font-weight: 500;
     }
-
     .state-convicted .acc-declaration em {
       color: #e8b84b;
     }
-
     .state-notguilty .acc-declaration em {
       color: #7090b0;
     }
-
     .acc-verdict {
       font-family: 'Cinzel', serif;
       font-size: clamp(1rem, 3vw, 1.5rem);
@@ -1550,15 +1347,12 @@
       min-height: 2rem;
       transition: color 0.8s ease;
     }
-
     .state-notguilty .acc-verdict {
       color: #7090b0;
     }
-
     .state-convicted .acc-verdict {
       color: #e8b84b;
     }
-
     .acc-body {
       font-size: 1rem;
       color: #9a8a6a;
@@ -1568,22 +1362,18 @@
       min-height: 1.8rem;
       transition: color 0.8s ease;
     }
-
     .state-notguilty .acc-body {
       color: #4a6080;
     }
-
     .state-convicted .acc-body {
       color: #c8b88a;
     }
-
     .acc-actions {
       display: flex;
       justify-content: center;
       gap: 12px;
       flex-wrap: wrap;
     }
-
     .acc-btn {
       font-family: 'Cinzel', serif !important;
       font-size: 11px !important;
@@ -1597,33 +1387,27 @@
       background: transparent !important;
       color: #c9973a !important;
     }
-
     .acc-btn:hover {
       background: rgba(201, 151, 58, 0.1) !important;
       border-color: #c9973a !important;
       color: #e8b84b !important;
     }
-
     .acc-btn.acc-btn-primary {
       background: linear-gradient(160deg, #e8b84b 0%, #c9973a 50%, #8a6220 100%) !important;
       color: #0d0a07 !important;
       border-color: transparent !important;
       box-shadow: 0 0 30px rgba(201, 151, 58, 0.25) !important;
     }
-
     .acc-btn.acc-btn-primary:hover {
       box-shadow: 0 0 50px rgba(201, 151, 58, 0.45) !important;
       transform: translateY(-2px);
     }
-
     .room .title .ico {
       display: none;
     }
-
     .room[data-watermark] {
       overflow: hidden;
     }
-
     .room[data-watermark]::before {
       content: attr(data-watermark);
       position: absolute;
@@ -1637,17 +1421,14 @@
       user-select: none;
       z-index: 0;
     }
-
     .room.reachable[data-watermark]::before,
     .room.here[data-watermark]::before {
       opacity: 0.16;
     }
-
     .room.center[data-watermark]::before {
       font-size: 5.5rem;
       opacity: 0.07;
     }
-
     .room .title,
     .room .tokens {
       position: relative;
@@ -1657,7 +1438,6 @@
   <script>
     var tpState = { guest: null, diff: 'basic', opp: 2, observer: false };
     var tpResolveSetup = null;
-
     function tpSelectCharacter(guestKey, displayName, emoji) {
       tpState.guest = guestKey;
       document.getElementById('tpCharDisplay').textContent = emoji + '  ' + displayName;
@@ -1666,7 +1446,6 @@
       p2.classList.add('active');
       window.scrollTo({ top: 0, behavior: 'instant' });
     }
-
     function tpBeginInvestigation() {
       var diffEl = document.querySelector('input[name="tpDiff"]:checked');
       var oppEl = document.querySelector('input[name="tpOpp"]:checked');
@@ -1677,11 +1456,9 @@
       tpState.diff = (diffRaw === 'deep' ? 'smart' : diffRaw);
       tpState.opp = Math.min(5, Math.max(2, parseInt(oppRaw, 10) || 2));
       tpState.observer = (modeRaw === 'coach');
-
       document.getElementById('titlePages').classList.add('hidden');
       document.getElementById('gameUI').classList.add('active');
       window.scrollTo({ top: 0, behavior: 'instant' });
-
       if (tpResolveSetup) {
         var resolve = tpResolveSetup;
         tpResolveSetup = null;
@@ -1693,18 +1470,15 @@
 
 <body id="top">
   <div id="titlePages">
-
     <div class="tp-page active" id="tpPage1">
       <div class="tp-masthead">
         <div class="tp-eyebrow">A Solo Mystery of Deduction</div>
         <h1>ClueSolo</h1>
         <div class="tp-sub">Hapless Hall  ·  An Evening Gone Terribly Wrong</div>
       </div>
-
       <div class="tp-rule">
         <div class="tp-diamond"></div>
       </div>
-
       <div class="tp-act">
         <div class="tp-act-label">Act the First</div>
         <h2>An Evening at Hapless Hall</h2>
@@ -1713,11 +1487,9 @@
         <p>Somewhere between the fish course and the retiring to the drawing room, one of Sir Henry's most cherished possessions had vanished from the Hall entirely. Several other items were discovered displaced, found in rooms where they had no business being.</p>
         <p>Sir Henry, to the surprise of no one, had not noticed until it was far too late. <em>It never does to be the 13th of anything.</em></p>
       </div>
-
       <div class="tp-rule">
         <div class="tp-diamond"></div>
       </div>
-
       <div class="tp-act">
         <div class="tp-act-label">Act the Second</div>
         <h2>The Guests of Hapless Hall</h2>
@@ -1752,11 +1524,9 @@
           </div>
         </div>
       </div>
-
       <div class="tp-rule">
         <div class="tp-diamond"></div>
       </div>
-
       <div class="tp-act">
         <div class="tp-act-label">Act the Third</div>
         <h2>The Treasures of the Hall</h2>
@@ -1788,11 +1558,9 @@
           </div>
         </div>
       </div>
-
       <div class="tp-rule">
         <div class="tp-diamond"></div>
       </div>
-
       <div class="tp-act">
         <div class="tp-act-label">Act the Fourth</div>
         <h2>The Rooms Under Suspicion</h2>
@@ -1836,18 +1604,15 @@
           </div>
         </div>
       </div>
-
       <div class="tp-rule">
         <div class="tp-diamond"></div>
       </div>
-
       <div class="tp-act">
         <div class="tp-butler">
           <p class="tp-butler-text">Ladies and gentlemen, I have been instructed to inform you that the doors of Hapless Hall have been secured for the evening. Nobody is to leave the premises until this matter is resolved. Sir Henry asks only that you endeavour not to make things any worse than they already are.</p>
           <div class="tp-butler-attr">— Grimshaw, Butler to Sir Henry Hapless, 13th Duke of Misfortune</div>
         </div>
       </div>
-
       <div class="tp-char-section">
         <span class="tp-char-label">Select your character to enter the Hall:</span>
         <div class="tp-char-buttons">
@@ -1859,21 +1624,17 @@
           <button class="tp-char-btn" onclick="tpSelectCharacter('Weisse','Mrs Weisse','👒')">👒 Mrs Weisse</button>
         </div>
       </div>
-
       <div class="tp-foot">ClueSolo  ·  Hapless Hall</div>
     </div><!-- /#tpPage1 -->
-
     <div class="tp-page" id="tpPage2">
       <div class="tp-p2-head">
         <div class="tp-p2-char" id="tpCharDisplay">—</div>
         <h2>Terms of the Investigation</h2>
         <p>Before you proceed, settle the conditions under which this matter will be investigated.</p>
       </div>
-
       <div class="tp-rule">
         <div class="tp-diamond"></div>
       </div>
-
       <div class="tp-options-grid">
         <div class="tp-opt-col">
           <div class="tp-opt-title">Difficulty</div>
@@ -1903,15 +1664,12 @@
           </ul>
         </div>
       </div>
-
       <div class="tp-cta-wrap">
         <button class="tp-cta-btn" onclick="tpBeginInvestigation()">Begin the Investigation</button>
         <div class="tp-cta-note">The truth is somewhere within these walls.</div>
       </div>
-
       <div class="tp-foot">ClueSolo  ·  Hapless Hall</div>
     </div><!-- /#tpPage2 -->
-
     <div style="padding:1.5rem 4vw;display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:1rem;font-family:'Inconsolata',monospace;font-size:0.72rem;letter-spacing:0.08em;color:rgba(201,151,58,0.4);border-top:1px solid rgba(201,151,58,0.2);">
       <div style="display:flex;gap:1.5rem;align-items:center;">
         <a href="index.html" style="color:rgba(201,151,58,0.4);text-decoration:none;font-family:'Inconsolata',monospace;font-size:0.72rem;letter-spacing:0.08em;transition:color 0.2s;">Andy Bryden</a>
@@ -1920,10 +1678,7 @@
         <a href="#top" style="color:rgba(201,151,58,0.4);text-decoration:none;font-family:'Inconsolata',monospace;font-size:0.72rem;letter-spacing:0.08em;transition:color 0.2s;">↑ Top</a>
       </div>
     </div>
-
   </div><!-- /#titlePages -->
-
-  <!-- GAME UI -->
   <div id="gameUI">
     <header>
       <h1>🔍 ClueSolo</h1>
@@ -1957,7 +1712,6 @@
           </div>
         </div>
       </div>
-
       <div class="panel centerPanel">
         <h2>Rooms</h2>
         <div class="content">
@@ -1971,14 +1725,11 @@
           </div>
         </div>
       </div>
-
       <div class="panel rightPanel">
         <h2>Casebook</h2>
-
         <div class="mobileNewGameRow">
           <button id="btnNewGameMobile" class="secondary">New Game</button>
         </div>
-
         <div class="content rightStack">
           <div class="checklistStack">
             <div class="notebox">
@@ -1988,7 +1739,6 @@
         </div>
       </div>
     </div>
-
     <div id="accusationOverlay" class="acc-overlay hidden" aria-modal="true" role="dialog">
       <div class="acc-inner">
         <div class="acc-eyebrow" id="accEyebrow">An Accusation Has Been Made</div>
@@ -2003,9 +1753,7 @@
       </div>
     </div>
   </div><!-- /#gameUI -->
-
   <script>
-
     window.onerror = function (msg, url, line, col, err) {
       try {
         const box = document.getElementById('log');
@@ -2036,7 +1784,6 @@
         console.error('Error in unhandledrejection handler:', e);
       }
     });
-
     const randInt = (min, max) => Math.floor(Math.random() * (max - min + 1)) + min;
     const choice = arr => arr[Math.floor(Math.random() * arr.length)];
     function shuffle(a) { for (let i = a.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1));[a[i], a[j]] = [a[j], a[i]]; } return a; }
@@ -2044,26 +1791,18 @@
     function pickLeastInformativeRefuteCard(refuter, matches, suggester) {
       if (!matches || !matches.length) return null;
       if (!suggester) return choice(matches);
-
       const scoreCard = (c) => {
         const key = suggester.cardKey(c.type, c.name);
-
         if (suggester.own && suggester.own.has(key)) return -100;
-
         if (suggester.knownOwners && suggester.knownOwners.get(key) === refuter.id) return -90;
-
         if (suggester.seen && suggester.seen.has(key)) return -50;
-
         if (suggester.ownerWeights && typeof suggester._pOwner === 'function') {
           const pOwn = suggester._pOwner(c, refuter.id); // how likely suggester already thinks refuter owns it
           const pCase = (typeof suggester._pCaseNorm === 'function') ? suggester._pCaseNorm(c) : 0; // how "hot" it is as solution
-
           return (1 - pOwn) + (pCase * 0.5);
         }
-
         return 10;
       };
-
       let best = [], bestScore = Infinity;
       for (const c of matches) {
         const s = scoreCard(c);
@@ -2072,45 +1811,36 @@
       }
       return choice(best.length ? best : matches);
     }
-
     function applyHandSizeConstraints(observer, players) {
       if (!observer || observer.isHuman) return;
       if (!observer.knownOwners || !observer.markNotOwner) return;
-
       if (!applyHandSizeConstraints._keyToCard) {
         applyHandSizeConstraints._keyToCard = new Map(ALL_CARDS.map(c => [`${c.type}:${c.name}`, c]));
       }
       const keyToCard = applyHandSizeConstraints._keyToCard;
-
       for (const p of players) {
         if (!p) continue;
         const pid = p.id;
         const capacity = (p.hand && p.hand.length) ? p.hand.length : 0;
         if (capacity <= 0) continue;
-
         const ownedKeys = [];
         for (const [k, ownerId] of observer.knownOwners.entries()) {
           if (ownerId === pid) ownedKeys.push(k);
         }
-
         if (ownedKeys.length >= capacity) {
           const ownedSet = new Set(ownedKeys);
           let newlyExcluded = 0;
-
           for (const c of ALL_CARDS) {
             const key = `${c.type}:${c.name}`;
             if (ownedSet.has(key)) continue;
-
             const knownOwner = observer.knownOwners.get(key);
             if (knownOwner !== undefined && knownOwner !== null && knownOwner !== pid) continue;
-
             const ckey = observer.cardKey(c.type, c.name);
             const existing = observer.notOwners.get(ckey);
             if (!existing || !existing.has(pid)) {
               observer.markNotOwner(c, pid);
               newlyExcluded++;
             }
-
             const w = observer.ownerWeights && observer.ownerWeights.get(key);
             if (w) {
               w.set(pid, AI_CFG.sherlock.weightFloor);
@@ -2119,7 +1849,6 @@
               }
             }
           }
-
           if (newlyExcluded > 0 &&
             pid !== observer.id &&
             observer.gameRef &&
@@ -2136,18 +1865,14 @@
     const slug = s => String(s).toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '');
     const PLURAL_TREASURES = new Set(['Ornaments', 'Documents', 'Coins']);
     function treasurePronoun(t) { return PLURAL_TREASURES.has(t) ? 'them' : 'it'; }
-
     function accOverlay() { return document.getElementById('accusationOverlay'); }
-
     function showAccusationOverlay({ accuser, guest, treasure, room, onReveal }) {
       const ov = accOverlay();
       ov.className = 'acc-overlay state-accused';
-
       document.getElementById('accEyebrow').textContent = 'An Accusation Has Been Made';
       document.getElementById('accHeadline').textContent = accuser + ' has lodged an accusation.';
       document.getElementById('accVerdict').textContent = '';
       document.getElementById('accBody').textContent = '';
-
       document.getElementById('accCards').innerHTML = `
     <div class="acc-declaration">
       "I solemnly declare that the crime was committed by
@@ -2155,7 +1880,6 @@
       <em>${treasure}</em> and concealed ${treasurePronoun(treasure)} in the
       <em>${room}</em>."
     </div>`;
-
       const btn = document.createElement('button');
       btn.className = 'acc-btn acc-btn-primary';
       btn.textContent = 'Reveal the Verdict';
@@ -2163,20 +1887,16 @@
       const actions = document.getElementById('accActions');
       actions.innerHTML = '';
       actions.appendChild(btn);
-
       ov.classList.remove('hidden');
     }
-
     function transitionOverlayNotGuilty({ accuser, onDismiss }) {
       const ov = accOverlay();
       ov.className = 'acc-overlay state-notguilty';
-
       document.getElementById('accEyebrow').textContent = 'The Verdict Is In';
       document.getElementById('accHeadline').textContent = 'Not Guilty';
       document.getElementById('accVerdict').textContent = '';
       document.getElementById('accBody').textContent =
         accuser + ' has been eliminated from the investigation, but may still refute.';
-
       const btn = document.createElement('button');
       btn.className = 'acc-btn';
       btn.textContent = 'Return to the Investigation';
@@ -2185,54 +1905,44 @@
       actions.innerHTML = '';
       actions.appendChild(btn);
     }
-
     function transitionOverlayConvicted({ winner, guest, treasure, room, onRestart, onRestartSame }) {
       const ov = accOverlay();
       ov.className = 'acc-overlay state-convicted';
-
       document.getElementById('accEyebrow').textContent = 'The Mystery Is Solved';
       document.getElementById('accHeadline').textContent = winner + ' Wins';
       document.getElementById('accVerdict').textContent = 'Convicted';
       document.getElementById('accBody').textContent =
         displayGuest(guest) + ' concealed the ' + treasure + ' in the ' + room + '.';
-
       document.getElementById('accCards').innerHTML = `
     <div class="acc-declaration">
       <em>${displayGuest(guest)}</em> stole the
       <em>${treasure}</em> and concealed ${treasurePronoun(treasure)} in the
       <em>${room}</em>.
     </div>`;
-
       const actions = document.getElementById('accActions');
       actions.innerHTML = '';
-
       const restartBtn = document.createElement('button');
       restartBtn.className = 'acc-btn';
       restartBtn.textContent = 'Restart';
       restartBtn.title = 'Play again with the same character and settings';
       restartBtn.onclick = onRestartSame;
       actions.appendChild(restartBtn);
-
       const hallBtn = document.createElement('button');
       hallBtn.className = 'acc-btn acc-btn-primary';
       hallBtn.textContent = 'Return to Hapless Hall';
       hallBtn.onclick = onRestart;
       actions.appendChild(hallBtn);
     }
-
     function hideAccusationOverlay() {
       accOverlay().classList.add('hidden');
     }
-
     const GUESTS = ["Forest", "Brimstone", "Sapphire", "Lavender", "Rouge", "Weisse"];
     const GUEST_TITLES = { Forest: "Mr Forest", Brimstone: "Maj. Brimstone", Sapphire: "Lady Sapphire", Lavender: "Dr Lavender", Rouge: "Madame Rouge", Weisse: "Mrs Weisse" };
     const TREASURES = ["Portrait", "Ornaments", "Documents", "Coins", "Necklace", "Watch"];
     const ROOMS = ["Study", "Hall", "Lounge", "Library", "Billiard Room", "Dining Room", "Conservatory", "Ballroom", "Kitchen"];
     const START_ROOMS = ["Study", "Lounge", "Kitchen", "Conservatory", "Billiard Room", "Hall"];
-
     const displayGuest = id => GUEST_TITLES[id] || id;
     const displayCardName = (type, name) => type === 'Guest' ? displayGuest(name) : name;
-
     const ROOM_ICON = {
       "Study": "📝",
       "Hall": "🧥",
@@ -2245,7 +1955,6 @@
       "Kitchen": "🥩",
       "Case File": "🕵️‍♂️"
     };
-
     const ROOM_DICE = {
       "Study": { 1: ["Kitchen", "Hall"], 2: ["Kitchen", "Hall", "Library"], 3: ["Kitchen", "Hall", "Library", "Lounge"], 4: ["Kitchen", "Hall", "Library", "Lounge", "Billiard Room"], 5: ["Kitchen", "Hall", "Library", "Lounge", "Billiard Room", "Dining Room"], 6: ["Kitchen", "Hall", "Library", "Lounge", "Billiard Room", "Dining Room", "Conservatory"] },
       "Hall": { 1: ["Study"], 2: ["Study", "Lounge"], 3: ["Study", "Lounge", "Library"], 4: ["Study", "Lounge", "Library", "Dining Room"], 5: ["Study", "Lounge", "Library", "Dining Room", "Billiard Room"], 6: ["Study", "Lounge", "Library", "Dining Room", "Billiard Room", "Kitchen"] },
@@ -2262,7 +1971,6 @@
       const t = ROOM_DICE[room];
       return new Set((t && t[d]) ? t[d] : []);
     }
-
     const el = id => document.getElementById(id);
     function log(msg) {
       const box = el('log');
@@ -2270,7 +1978,6 @@
       box.textContent += `[${t}] ${msg}\n`;
       box.scrollTop = box.scrollHeight;
     }
-
     function renderPrompt({ title = "", bodyHTML = "", actions = [] }) {
       return new Promise(resolve => {
         const box = el('gameplayPromptBox'); if (!box) { resolve(null); return; }
@@ -2288,26 +1995,20 @@
         box.appendChild(a);
       });
     }
-
     function showModalConfirm({ title = "Confirm", bodyHTML = "", confirmLabel = "Confirm", cancelLabel = "Cancel" }) {
       return new Promise(resolve => {
         const overlay = document.createElement('div');
         overlay.className = 'modalOverlay';
-
         const dialog = document.createElement('div');
         dialog.className = 'modalDialog';
-
         const header = document.createElement('div');
         header.className = 'modalHeader';
         header.textContent = title;
-
         const body = document.createElement('div');
         body.className = 'modalBody';
         body.innerHTML = bodyHTML;
-
         const actions = document.createElement('div');
         actions.className = 'modalActions';
-
         const cancelBtn = document.createElement('button');
         cancelBtn.className = 'secondary';
         cancelBtn.textContent = cancelLabel;
@@ -2315,7 +2016,6 @@
           document.body.removeChild(overlay);
           resolve(false);
         };
-
         const confirmBtn = document.createElement('button');
         confirmBtn.className = 'danger';
         confirmBtn.textContent = confirmLabel;
@@ -2323,17 +2023,13 @@
           document.body.removeChild(overlay);
           resolve(true);
         };
-
         actions.appendChild(cancelBtn);
         actions.appendChild(confirmBtn);
-
         dialog.appendChild(header);
         dialog.appendChild(body);
         dialog.appendChild(actions);
         overlay.appendChild(dialog);
-
         document.body.appendChild(overlay);
-
         const escHandler = (e) => {
           if (e.key === 'Escape') {
             document.body.removeChild(overlay);
@@ -2342,14 +2038,12 @@
           }
         };
         document.addEventListener('keydown', escHandler);
-
         overlay.onclick = (e) => {
           if (e.target === overlay) {
             document.body.removeChild(overlay);
             resolve(false);
           }
         };
-
         dialog.onclick = (e) => {
           e.stopPropagation();
         };
@@ -2385,7 +2079,6 @@
       clearGameplayPrompt();
       return !!r;
     }
-
     const DIFF_LABELS = {
       basic: 'Basic inference',
       smart: 'Smarter inference',
@@ -2395,7 +2088,6 @@
     const normDiff = (d) => (d === 'deep' ? 'smart' : d); // map old "deep" to "smart"
     const isAdvancedAI = (d) => (d === 'smart' || d === 'sherlock' || d === 'deep');
     const isSherlock = (d) => (d === 'sherlock');
-
     function tpShowTitlePages() {
       document.getElementById('tpPage1').classList.add('active');
       document.getElementById('tpPage2').classList.remove('active');
@@ -2410,25 +2102,16 @@
       document.getElementById('gameUI').classList.remove('active');
       window.scrollTo({ top: 0, behavior: 'instant' });
     }
-
-    /* Setup prompts — now driven by title pages */
     async function promptGameSetup() {
       const tp = document.getElementById('titlePages');
       if (tp && !tp.classList.contains('hidden')) {
-        // Title pages are visible — wait for Begin the Investigation
         return new Promise(resolve => { tpResolveSetup = resolve; });
       }
-      // Title pages already dismissed — use stored state
       return { diff: tpState.diff, opp: tpState.opp, observer: tpState.observer };
     }
-
     async function promptHumanGuest(available) {
-      // By the time this is called, tpBeginInvestigation has already run
-      // and stored the guest in tpState. Just return it.
       return tpState.guest || available[0];
     }
-
-    /* Manual Checklist: ticks + per-item text notes */
     const CHECKLIST_KEY = 'cluedo_checklist_v1'; // ticked items
     const CHECK_NOTES_KEY = 'cluedo_checkitem_notes_v1'; // per-item note text
     function loadChecklist() { try { return JSON.parse(localStorage.getItem(CHECKLIST_KEY) || '{}') } catch { return {} } }
@@ -2437,21 +2120,14 @@
     function loadCheckNotes() { try { return JSON.parse(localStorage.getItem(CHECK_NOTES_KEY) || '{}') } catch { return {} } }
     function saveCheckNotes(state) { localStorage.setItem(CHECK_NOTES_KEY, JSON.stringify(state)) }
     function clearCheckNotes() { localStorage.removeItem(CHECK_NOTES_KEY) }
-
-    /* --- Sherlock++ tuning --- */
     const AI_CFG = {
       sherlock: {
-        // Learning strengths
         weightBoostShow: 3.5,           // when a specific shown card is known
         weightBoostRefutePattern: 0.35, // when someone refutes a triple containing a card
         weightPenaltyNoRefute: 0.60,    // when someone fails to refute a triple
         decay: 0.985,                   // slow belief decay
-
-        // Weight bounds
         weightFloor: 0.01,
         weightCeil: 4.00,
-
-        // Decision-making & mistakes
         mistakeRate: 0.00,              // never intentionally throw
         earlyAccuseMinConfidence: 0.90, // still earlier than "certain", but much smarter
         earlyAccuseChance: 1.00,        // will be controlled by smarter logic in Patch 2 (not randomness)
@@ -2459,25 +2135,13 @@
         pickSecondBestChance: 0.03      // fewer "human quirks" that reduce strength
       }
     };
-
-    // Flattened list of all cards (for belief initialization)
     const ALL_CARDS = [
       ...GUESTS.map(n => ({ type: 'Guest', name: n })),
       ...TREASURES.map(n => ({ type: 'Treasure', name: n })),
       ...ROOMS.map(n => ({ type: 'Room', name: n }))
     ];
-
-    // Case file / envelope is treated as an additional "owner" in Sherlock beliefs
     const CASE_FILE_ID = -1;
     const CASE_FILE_NAME = 'Case File';
-
-    /* Game Model */
-    /* ================================================================================
-     * [SECTION 3] PLAYER CLASS
-     * ================================================================================
-     * Manages individual player state, card tracking, and Sherlock probability logic
-     * ================================================================================ */
-
     class Player {
       constructor(id, isHuman = false, guest = null) {
         this.id = id; this.isHuman = isHuman; this.guest = guest;
@@ -2489,19 +2153,14 @@
         this.gameRef = null; // set by Game.resetPlayers so Player can log in Sherlock
         this.constraints = []; this.unrefuted = [];
         this.arrivedByOpponentSuggestion = false;
-
-        // Sherlock++ state
         this.ownerWeights = new Map();     // cardKey -> Map(playerId -> weight/prob (normalized))
         this.refutationCounts = new Map(); // cardKey -> Map(playerId -> count)
         this.notOwners = new Map();        // cardKey -> Set(playerId) known NOT to own
         this.playerCount = 0;
         this.randomJitter = Math.random() * 0.02;
       }
-
       cardKey(type, name) { return `${type}:${name}`; }
-
       initKnowledge() {
-        // Mark own cards
         for (const c of this.hand) {
           const k = this.cardKey(c.type, c.name);
           this.own.add(k);
@@ -2509,44 +2168,28 @@
           this.knownOwners.set(k, this.id);
           this.knowledgeMeta.set(k, { status: 'own', ownerId: this.id });
         }
-
-        // For Smart/Sherlock: Mark notOwners for cards NOT in hand
         if (this.gameRef && (this.gameRef.aiDifficulty === 'smart' || this.gameRef.aiDifficulty === 'sherlock')) {
-          // Mark self as notOwner for cards not in hand
           for (const c of ALL_CARDS) {
             const k = this.cardKey(c.type, c.name);
             if (!this.own.has(k)) {
               this.markNotOwner(c, this.id);
             }
           }
-
-          // AUTO-GUILTY: Check each category after marking own cards
-          // If I own all but one card in a category, the last one must be GUILTY
           this.checkAndMarkGuiltyIfLastRemaining('Guest');
           this.checkAndMarkGuiltyIfLastRemaining('Treasure');
           this.checkAndMarkGuiltyIfLastRemaining('Room');
         }
       }
-
-      // --- Sherlock++ belief init (called after dealing)
       initBeliefs(players) {
         this.playerCount = players.length;
-        // uniform weights initially
         for (const c of ALL_CARDS) {
           const key = this.cardKey(c.type, c.name);
           const w = new Map();
-
-          // All players start equally likely to own the card...
           for (const p of players) w.set(p.id, 1.0);
-
-          // ...and the case file is also a possible "owner"
           w.set(CASE_FILE_ID, 1.0);
-
           this.ownerWeights.set(key, w);
           this.clampAndNormalizeWeights(key);
         }
-
-        // I own my cards with certainty (others near-floor)
         for (const c of this.hand) {
           const key = this.cardKey(c.type, c.name);
           const w = this.ownerWeights.get(key);
@@ -2556,7 +2199,6 @@
           this.clampAndNormalizeWeights(key);
         }
       }
-
       clampAndNormalizeWeights(key) {
         const w = this.ownerWeights.get(key); if (!w) return;
         let sum = 0;
@@ -2566,109 +2208,69 @@
         }
         if (sum > 0) { for (const [pid, val] of w) w.set(pid, val / sum); }
       }
-
-      // Hard-lock a card as guilty: exactly 1.0 for CF, exactly 0.0 for all players.
-      // Bypasses weightFloor entirely — used only when a card is CONFIRMED in the case file.
       lockGuiltyCertainty(key) {
         const w = this.ownerWeights.get(key); if (!w) return;
         for (const [pid] of w) w.set(pid, 0.0);
         w.set(CASE_FILE_ID, 1.0);
       }
-
       decayBeliefs() {
         for (const [key, w] of this.ownerWeights) {
           for (const [pid, val] of w) w.set(pid, val * AI_CFG.sherlock.decay);
           this.clampAndNormalizeWeights(key);
         }
       }
-
-      // Mark a card as INNOCENT (✓ owned by someone, so not in CF)
-      // If ownerId is provided, mark which player owns it (✓ in their column, ✗ in all others)
       markSeen(card, ownerId = null) {
         const k = this.cardKey(card.type, card.name);
         this.seen.add(k); // Card is INNOCENT (not in case file)
-
         if (ownerId !== null && ownerId !== undefined) this.knownOwners.set(k, ownerId);
-
-        // Update knowledge metadata for provenance tracking
         if (this.own.has(k)) {
-          // This is my own card (✓ in my OWN column)
           this.knowledgeMeta.set(k, { status: 'own', ownerId: this.id });
         } else if (ownerId !== null && ownerId !== undefined) {
-          // Someone else owns it (✓ in their column)
           this.knowledgeMeta.set(k, { status: 'seen', ownerId });
-
-          // Smart/Sherlock: Mark ✗ (not owned) for all other players
           if (this.gameRef && (this.gameRef.aiDifficulty === 'smart' || this.gameRef.aiDifficulty === 'sherlock')) {
             for (const player of this.gameRef.players) {
               if (player.id !== ownerId) {
                 this.markNotOwner(card, player.id);
               }
             }
-            // Also mark CF as not owning it (card is INNOCENT)
             this.markNotOwner(card, CASE_FILE_ID);
           }
         } else {
-          // Card is INNOCENT but owner unknown
           this.knowledgeMeta.set(k, { status: 'innocent' });
         }
-
-        // AUTO-GUILTY: If this was the second-to-last card in the category,
-        // the last remaining card must be GUILTY (100% probability)
         this.checkAndMarkGuiltyIfLastRemaining(card.type);
       }
-
-      // Mark ✗ (not owned) - this player does NOT own this card
       markNotOwner(card, playerId) {
         const key = this.cardKey(card.type, card.name);
         let set = this.notOwners.get(key);
         if (!set) { set = new Set(); this.notOwners.set(key, set); }
         set.add(playerId);
       }
-
-      // Mark a card as GUILTY (🚩 in CF column = is in the case file)
       markGuilty(type, name) {
         const key = this.cardKey(type, name);
-
-        // Can't mark own cards as GUILTY
         if (this.own.has(key)) {
           return;
         }
-
-        // Mark this card as the case-file card (🚩 in CF column)
         this.knowledgeMeta.set(key, { status: 'guilty' });
-
-        // Update Sherlock beliefs: this card is in CF with absolute certainty (1.0 / 0.0)
         const w = this.ownerWeights?.get(key);
         if (w) {
           this.lockGuiltyCertainty(key);
         }
-
-        // 🔒 LOCK THE CATEGORY:
-        // All other cards in this category are NOT in the case file (they're INNOCENT as solutions)
         const list = (type === 'Guest') ? GUESTS : (type === 'Treasure') ? TREASURES : ROOMS;
-
         for (const otherName of list) {
           if (otherName === name) continue;
-
           const otherKey = this.cardKey(type, otherName);
           const meta = this.knowledgeMeta.get(otherKey);
-
-          // Don't overwrite cards we already have strong knowledge about
           const protectedStatus = meta && (
             meta.status === 'own' ||
             meta.status === 'seen' ||
             meta.status === 'deduced' ||
             meta.status === 'guilty'
           );
-
-          // Mark as INNOCENT (as solution) if not already cleared
           if (!protectedStatus) {
             this.seen.add(otherKey);
             this.knowledgeMeta.set(otherKey, { status: 'innocent' });
           }
-
-          // Update Sherlock beliefs: hard-zero CF for all other cards in this category
           const ow = this.ownerWeights?.get(otherKey);
           if (ow) {
             ow.set(CASE_FILE_ID, 0.0);
@@ -2676,24 +2278,17 @@
           }
         }
       }
-
-      // Mark a card as INNOCENT (not in case file) without knowing who owns it
       markInnocent(type, name) {
         const key = this.cardKey(type, name);
         if (this.own.has(key)) return; // own cards are already INNOCENT
-
         this.seen.add(key); // Card is INNOCENT
-
         if (!this.knownOwners.has(key)) {
           this.knowledgeMeta.set(key, { status: 'innocent' });
-
-          // When a card is confirmed INNOCENT, mark ✗ (not owned) for CF
           if (this.gameRef && (this.gameRef.aiDifficulty === 'smart' || this.gameRef.aiDifficulty === 'sherlock')) {
             const categoryList = type === 'Guest' ? GUESTS : (type === 'Treasure' ? TREASURES : ROOMS);
             categoryList.forEach(otherName => {
               if (otherName !== name) {
                 const otherKey = this.cardKey(type, otherName);
-                // Mark ✗ in CF column (but don't mark as INNOCENT - they may still be owned by players)
                 if (this.ownerWeights) {
                   const w = this.ownerWeights.get(otherKey);
                   if (w) {
@@ -2705,68 +2300,43 @@
             });
           }
         }
-
-        // Update Sherlock beliefs: mark ✗ for CF (not in case file)
         const w = this.ownerWeights?.get(key);
         if (w) {
           w.set(CASE_FILE_ID, AI_CFG.sherlock.weightFloor);
           this.clampAndNormalizeWeights(key);
         }
-
-        // AUTO-GUILTY: If this was the second-to-last card in the category,
-        // the last remaining card must be GUILTY (100% probability)
         this.checkAndMarkGuiltyIfLastRemaining(type);
       }
-
-      // Check if only one card remains unmarked in a category, and mark it GUILTY
       checkAndMarkGuiltyIfLastRemaining(type) {
         const list = (type === 'Guest') ? GUESTS : (type === 'Treasure') ? TREASURES : ROOMS;
-
-        // Find cards that are not INNOCENT (not marked ✓ in any player column)
         const notInnocent = [];
         for (const name of list) {
           const key = this.cardKey(type, name);
-          // Skip if INNOCENT (in seen set) or GUILTY (already marked)
           if (this.seen.has(key)) continue; // INNOCENT
           const meta = this.knowledgeMeta.get(key);
           if (meta?.status === 'guilty') continue; // Already GUILTY
-
           notInnocent.push(name);
         }
-
-        // If exactly one card remains, it must be GUILTY (100% probability)
         if (notInnocent.length === 1) {
           const guiltyCard = notInnocent[0];
           this.markGuilty(type, guiltyCard);
-
-          // Log this auto-deduction in observer mode
           if (this.gameRef?.observerMode && this.gameRef.aiDifficulty !== 'basic') {
             const cardKey = this.cardKey(type, guiltyCard);
             this.gameRef.obs(`💡 Deduction: ${cardKey} is the only ${type} not marked INNOCENT → must be GUILTY!`, { byPlayerId: this.id });
           }
         }
       }
-
-      // --- Card Status Helpers (using consistent terminology) ---
-
-      // Check if a card is marked INNOCENT (has ✓ in any player column = not in case file)
       isCardInnocent(type, name) {
         return this.seen.has(this.cardKey(type, name));
       }
-
-      // Legacy alias for backwards compatibility
       isCleared(type, name) {
         return this.isCardInnocent(type, name);
       }
-
-      // Check if a card is marked GUILTY (has 🚩 in CF column = is in case file)
       isCardGuilty(type, name) {
         const key = this.cardKey(type, name);
         const meta = this.knowledgeMeta.get(key);
         return meta?.status === 'guilty';
       }
-
-      // Get the GUILTY card for a category (if any)
       getGuiltyCard(type) {
         const list = type === 'Guest' ? GUESTS : (type === 'Treasure' ? TREASURES : ROOMS);
         for (const name of list) {
@@ -2774,56 +2344,42 @@
         }
         return null;
       }
-
       possibleSet(type) {
         const list = type === 'Guest' ? GUESTS : type === 'Treasure' ? TREASURES : ROOMS;
-
-        // In Smart/Sherlock modes: if one card in category is GUILTY (🚩 in CF), 
-        // return ONLY that card (it's the solution for this category)
         if (this.gameRef && (this.gameRef.aiDifficulty === 'smart' || this.gameRef.aiDifficulty === 'sherlock')) {
           const guiltyCard = this.getGuiltyCard(type);
           if (guiltyCard) {
             return [guiltyCard]; // Only the GUILTY card is a possibility
           }
         }
-
-        // Otherwise, return all cards not marked INNOCENT (not ✓ in any player column)
         return list.filter(n => !this.isCardInnocent(type, n));
       }
       hasAnyOf(triple) {
         return triple.filter(t => this.hand.some(c => c.type === t.type && c.name === t.name));
       }
-
       addRefuteConstraint(refuterId, cards) {
         const keys = new Set(cards.map(c => this.cardKey(c.type, c.name)));
         this.constraints.push({ refuterId, keys });
-
-        // 🧠 Smart-level reasoning log (observer mode): "X has one of these"
         if (this.gameRef?.observerMode) {
           const me = this.gameRef.players?.[this.id]?.name ?? `P${this.id}`;
           const who = this.gameRef.players?.[refuterId]?.name ?? `P${refuterId}`;
           const list = [...keys].join(', ');
           this.gameRef.obs(`💭 Hmm! ${who} has one of ${list}`, { byPlayerId: this.id });
         }
-
         this.propagateConstraints();
       }
-
       propagateConstraints() {
         let changed = true;
         while (changed) {
           changed = false;
           for (let i = this.constraints.length - 1; i >= 0; i--) {
             const c = this.constraints[i];
-            // If we already know a card owned by refuter, satisfied
             let satisfied = false;
             for (const k of c.keys) {
               const owner = this.knownOwners.get(k);
               if (owner === c.refuterId) { satisfied = true; break; }
             }
             if (satisfied) { this.constraints.splice(i, 1); changed = true; continue; }
-
-            // Prune keys that are owned by others, or cannot be owned by refuter (negative knowledge)
             for (const k of [...c.keys]) {
               const owner = this.knownOwners.get(k);
               if (owner !== undefined && owner !== null && owner !== c.refuterId) {
@@ -2834,22 +2390,14 @@
                 c.keys.delete(k); changed = true;
               }
             }
-
-            // If only one remains -> deduce ownership
             if (c.keys.size === 1) {
               const [onlyKey] = c.keys;
-
               this.seen.add(onlyKey);
               this.knownOwners.set(onlyKey, c.refuterId);
-
-              // provenance: deduced
               if (!this.own.has(onlyKey)) {
                 this.knowledgeMeta.set(onlyKey, { status: 'deduced', ownerId: c.refuterId });
               }
-
-              // Smart/Sherlock: Mark all other players as notOwners for this deduced card
               if (this.gameRef && (this.gameRef.aiDifficulty === 'smart' || this.gameRef.aiDifficulty === 'sherlock')) {
-                // Find the card object
                 const deducedCard = ALL_CARDS.find(card => this.cardKey(card.type, card.name) === onlyKey);
                 if (deducedCard) {
                   for (const player of this.gameRef.players) {
@@ -2857,37 +2405,24 @@
                       this.markNotOwner(deducedCard, player.id);
                     }
                   }
-                  // Also mark CF as not owning it
                   this.markNotOwner(deducedCard, CASE_FILE_ID);
                 }
               }
-
-              // ✅ Smart + Sherlock deduction log (observer mode): collapse -> must own
               if (this.gameRef?.observerMode) {
                 const me = this.gameRef.players?.[this.id]?.name ?? `P${this.id}`;
                 const ownerName = this.gameRef.players?.[c.refuterId]?.name ?? `P${c.refuterId}`;
                 this.gameRef.obs(`💡 Aha! ${ownerName} has ${onlyKey}`, { byPlayerId: this.id });
               }
-
               this.constraints.splice(i, 1);
               changed = true; continue;
             }
-
-            // If impossible set -> drop
             if (c.keys.size === 0) {
               this.constraints.splice(i, 1); changed = true;
             }
           }
         }
       }
-
-      // Mild inference (unchanged)
-      // If two of a triple are cleared, the third must be solution (mark innocent all others in that category)
-      // Implemented in Game.applyMildInference()
-
-      // --- Sherlock++ learning hooks ---
       noteNoRefute(playerId, triple) {
-        // For each card: downweight that player as a possible owner
         for (const c of triple) {
           const beforeCase = this._pCaseNorm(c);
           const beforeOwn = this._pOwner(c, playerId);
@@ -2897,10 +2432,8 @@
           const cur = w.get(playerId) ?? 0;
           w.set(playerId, cur * AI_CFG.sherlock.weightPenaltyNoRefute);
           this.clampAndNormalizeWeights(key);
-
         }
       }
-
       noteRefutePattern(refuterId, triple) {
         for (const c of triple) {
           const key = this.cardKey(c.type, c.name);
@@ -2908,17 +2441,14 @@
           const beforeOwn = this._pOwner(c, refuterId);
           const w = this.ownerWeights.get(key);
           if (!w) continue;
-          // pattern memory
           const cntMap = this.refutationCounts.get(key) || new Map();
           cntMap.set(refuterId, (cntMap.get(refuterId) || 0) + 1);
           this.refutationCounts.set(key, cntMap);
-
           const cur = w.get(refuterId) ?? 0.0001;
           w.set(refuterId, cur + AI_CFG.sherlock.weightBoostRefutePattern);
           this.clampAndNormalizeWeights(key);
         }
       }
-
       noteCardShown(card, ownerId) {
         const key = this.cardKey(card.type, card.name);
         this.seen.add(key);
@@ -2930,75 +2460,46 @@
           w.set(ownerId, AI_CFG.sherlock.weightCeil);
           this.clampAndNormalizeWeights(key);
         }
-
         if (this.gameRef?.observerMode && this.gameRef.aiDifficulty === 'sherlock' && this.id === this.gameRef.observerFocusId) {
           this.gameRef.obs(`🂠 ${this.gameRef.players[ownerId]?.name ?? `P${ownerId}`} showed a card: ${card.type}:${card.name}`, { byPlayerId: this.id });
         }
       }
-
-      // Sherlock beliefs: lock a specific card into the case file with absolute certainty
       noteCaseFileCard(card) {
         const key = this.cardKey(card.type, card.name);
         const w = this.ownerWeights.get(key);
         if (!w) return;
-
-        // Hard-lock: exactly 1.0 for CF, exactly 0.0 for all players
         this.lockGuiltyCertainty(key);
-
-        // CRITICAL: Set metadata status to 'guilty' so possibleSet can detect it
         this.knowledgeMeta.set(key, { status: 'guilty' });
-
         if (this.gameRef?.observerMode && this.gameRef.aiDifficulty === 'sherlock' && this.id === this.gameRef.observerFocusId) {
           this.gameRef.obs(`🕵️‍♂️ Right! ${key} is guilty`, { byPlayerId: this.id });
         }
-
-        // CRITICAL: Force probabilities to lock onto guilty card
         this.forceGuiltyProbabilities(card);
       }
-
-      // Force all probabilities in a category to the confirmed guilty state:
-      // guilty card = exactly 1.0 CF / 0.0 players; all others = exactly 0.0 CF.
       forceGuiltyProbabilities(guiltyCard) {
         const { type, name } = guiltyCard;
         const list = (type === 'Guest' ? GUESTS : type === 'Treasure' ? TREASURES : ROOMS);
-
         for (const cardName of list) {
           const key = this.cardKey(type, cardName);
           const w = this.ownerWeights.get(key);
           if (!w) continue;
-
           if (cardName === name) {
-            // Guilty card: absolute certainty — 1.0 CF, 0.0 all players
             this.lockGuiltyCertainty(key);
           } else {
-            // All other cards in this category: CF weight hard-zeroed
             w.set(CASE_FILE_ID, 0.0);
             this.clampAndNormalizeWeights(key);
-            // Mark as innocent if not already owned/seen
             if (!this.own.has(key) && !this.knownOwners.has(key)) {
               this.markInnocent(type, cardName);
             }
           }
         }
       }
-      // --- Sherlock: category-normalised probability that an item is in the case file ---
-      // Ensures probabilities within each category (Guest/Treasure/Room) sum to 1
-      // across remaining (not cleared) candidates.
       caseFileProbNormalized(type, name) {
-        // If already cleared/marked innocent/owned/seen, it cannot be in the case file
         if (this.isCleared(type, name)) return 0;
-
         const list = (type === 'Guest' ? GUESTS : type === 'Treasure' ? TREASURES : ROOMS);
-
-        // Remaining candidates in this category (not cleared)
         const remaining = list.filter(n => !this.isCleared(type, n));
-
-        // If only one remains, it must be the case-file item for this category
         if (remaining.length === 1) {
           return (remaining[0] === name) ? 1 : 0;
         }
-
-        // Sum raw P(case file) over remaining candidates
         let sum = 0;
         for (const n of remaining) {
           const key = this.cardKey(type, n);
@@ -3006,33 +2507,23 @@
           const pCase = w ? (w.get(CASE_FILE_ID) ?? 0) : 0;
           sum += pCase;
         }
-
-        // If everything collapsed near zero, fall back to uniform over remaining
         if (sum <= 1e-9) {
           return 1 / remaining.length;
         }
-
-        // Normalised value for this item
         const key = this.cardKey(type, name);
         const w = this.ownerWeights.get(key);
         const pCase = w ? (w.get(CASE_FILE_ID) ?? 0) : 0;
-
         return pCase / sum;
       }
-
       _pct(x) { return `${Math.round(Math.max(0, Math.min(1, x)) * 100)}%`; }
-
       _pCaseNorm(card) {
         return this.caseFileProbNormalized(card.type, card.name);
       }
-
       _pOwner(card, ownerId) {
         const key = this.cardKey(card.type, card.name);
         const w = this.ownerWeights.get(key);
         return w ? (w.get(ownerId) ?? 0) : 0;
       }
-
-      // Entropy of ownership distribution for a card (higher => more uncertain/informative)
       entropyForCardKey(key) {
         const w = this.ownerWeights.get(key); if (!w) return 0;
         const vals = Array.from(w.values());
@@ -3040,20 +2531,13 @@
         const probs = vals.map(v => v / sum);
         return -probs.reduce((acc, p) => acc + (p > 0 ? p * Math.log(p) : 0), 0);
       }
-
-      // Sherlock++: pick guest & treasure that look most informative (entropy + tiny jitter)
       pickSmartSuggestionParts() {
         const pickFrom = (type) => {
           const pool = this.possibleSet(type);
-
-          // CRITICAL: If pool has exactly 1 card (guilty card identified), ALWAYS use it
           if (pool.length === 1) {
             return pool[0];
           }
-
-          // If pool is empty (shouldn't happen), fall back to full list
           const candidates = pool.length ? pool : (type === 'Guest' ? GUESTS : type === 'Treasure' ? TREASURES : ROOMS);
-
           let best = [], bestScore = -Infinity;
           for (const name of candidates) {
             if (this.isCleared(type, name)) continue;
@@ -3064,7 +2548,6 @@
             else if (score === bestScore) { best.push(name); }
           }
           const pick = best.length ? choice(best) : choice(candidates);
-          // Sometimes pick second-best to look human (but NOT for single-card pools or when we have guilty cards)
           if (candidates.length > 1 && Math.random() < AI_CFG.sherlock.pickSecondBestChance) {
             const alt = candidates.filter(n => n !== pick);
             if (alt.length) return choice(alt);
@@ -3076,28 +2559,19 @@
           treasure: pickFrom('Treasure')
         };
       }
-
-      // Sherlock: pick the most likely case-file item in a category using category-normalised probabilities
       beliefsTopFor(type) {
         const list = (type === 'Guest' ? GUESTS : type === 'Treasure' ? TREASURES : ROOMS);
-
         let bestName = null, bestVal = -1, second = -1;
-
         for (const name of list) {
           if (this.isCleared(type, name)) continue;
-
           const p = this.caseFileProbNormalized(type, name);
-
           if (p > bestVal) { second = bestVal; bestVal = p; bestName = name; }
           else if (p > second) { second = p; }
         }
-
         const margin = Math.max(0.0001, bestVal - Math.max(0, second));
         const confidence = Math.max(0, Math.min(1, (bestVal * 0.75) + (margin * 0.25)));
-
         return { name: bestName, confidence };
       }
-
       planAccusationWithBeliefs() {
         const s = this.beliefsTopFor('Guest');
         const w = this.beliefsTopFor('Treasure');
@@ -3106,18 +2580,11 @@
         return { acc: { guest: s.name, treasure: w.name, room: r.name }, confidence: combined };
       }
     }
-
-    // Check if we have enough evidence to make an accusation
-    // Returns true if there's exactly one card marked GUILTY (🚩 in CF) for each category
-    // OR exactly one card remaining (not INNOCENT) for each category
     Player.prototype.isConfidentSolution = function () {
       return this.possibleSet('Guest').length === 1
         && this.possibleSet('Treasure').length === 1
         && this.possibleSet('Room').length === 1;
     };
-
-    // Get the accusation based on current knowledge
-    // Returns the single remaining/GUILTY card for each category
     Player.prototype.inferredAccusation = function () {
       return {
         guest: this.possibleSet('Guest')[0],
@@ -3125,13 +2592,6 @@
         room: this.possibleSet('Room')[0]
       };
     };
-
-    /* ================================================================================
-     * [SECTION 4] MAIN GAME CLASS
-     * ================================================================================
-     * Core game state, card dealing, turn management, and win conditions
-     * ================================================================================ */
-
     class Game {
       constructor() {
         this.players = []; this.turnIndex = 0; this.solution = null;
@@ -3149,22 +2609,14 @@
         this.turnCounter = 0; // ✅ optional: for readable deduction log grouping
         this.resetPlayers(2);
       }
-
       obs(msg, { byPlayerId } = {}) {
-        // Rolling observer deductions log (Smart/Sherlock only)
         if (!this.observerMode) return;
         if (this.aiDifficulty === 'basic') return;
-
-        // ✅ MUST be explicitly attributed to a player
         if (byPlayerId === undefined || byPlayerId === null) return;
-
-        // ✅ Focus-only: only keep logs for the focused player
         if (byPlayerId !== this.observerFocusId) return;
-
         const t = new Date().toLocaleTimeString([], { hour: '2-digit', minute: '2-digit', second: '2-digit' });
         this.obsLog.push(`[${t}] ${msg}`);
         if (this.obsLog.length > this.obsLogMax) this.obsLog.shift();
-        // 🔄 Immediately repaint the deductions log so it appears BEFORE the next action/render
         const logBox = document.getElementById('observerDeduceLog');
         if (logBox) {
           logBox.textContent = (this.obsLog && this.obsLog.length)
@@ -3173,10 +2625,8 @@
           logBox.scrollTop = logBox.scrollHeight;
         }
       }
-
       newSession() { this.sessionId++; return this.sessionId; }
       isActiveSession(id) { return id === this.sessionId; }
-
       initAllGuestPawns() {
         this.guestLoc = new Map();
         GUESTS.forEach((s, i) => this.guestLoc.set(s, START_ROOMS[i] || 'Hall'));
@@ -3193,10 +2643,7 @@
         this.treasureLoc = new Map();
         this.players = [new Player(0, true, null)];
         for (let i = 1; i <= n; i++) this.players.push(new Player(i, false, null));
-
-        // ✅ Link each Player back to this Game (needed for Observer logging)
         this.players.forEach(p => p.gameRef = this);
-
         this.players.forEach(p => {
           p.hand = []; p.eliminated = false; p.seen = new Set(); p.own = new Set();
           p.knownOwners = new Map(); p.knowledgeMeta = new Map(); p.constraints = []; p.unrefuted = [];
@@ -3204,7 +2651,6 @@
           p.name = p.guest ? displayGuest(p.guest) : (p.isHuman ? 'You' : `AI-${p.id}`);
           p.location = 'Hall';
         });
-
         this.turnIndex = 0; this.solution = null; this.dice = null; this.reachable = new Set();
         this.awaitingMove = false; this.awaitingDecision = false; this.stayedInsteadOfRoll = false;
         this.humanTurnsStarted = 0; this.gameOver = false;
@@ -3224,7 +2670,6 @@
         for (const r of ROOMS) cards.push({ type: 'Room', name: r });
         return cards;
       }
-
       setup() {
         log('Setting up game…');
         this.solution = { guest: choice(GUESTS), treasure: choice(TREASURES), room: choice(ROOMS) };
@@ -3237,19 +2682,14 @@
         this.players.forEach(p => p.hand = []);
         let p = 0; while (deck.length) this.players[p++ % this.players.length].hand.push(deck.pop());
         this.players.forEach(pl => pl.initKnowledge());
-
         this.initAllGuestPawns();
         this.players.forEach(pl => { if (pl.guest) pl.location = this.guestLoc.get(pl.guest) || 'Hall'; });
         this.initTreasuresOnBoard();
-
-        // Sherlock++: initialize beliefs after hands are dealt
         this.players.forEach(pl => pl.initBeliefs(this.players));
-
         log(`Cards dealt. Playing with ${this.players.length - 1} opponents (${this.players.length} total players).`);
         log(`AI difficulty: ${DIFF_LABELS[this.aiDifficulty] || this.aiDifficulty}.`);
         renderAll(this); this.updateTurnUI();
       }
-
       currentPlayer() { return this.players[this.turnIndex]; }
       isCoachFocus(pl) {
         return !!this.coachMode && !!this.observerMode && pl && (pl.id === this.observerFocusId);
@@ -3267,47 +2707,32 @@
         el('locPill').textContent = `Location: ${pl.location}`;
         if (fullRedraw) renderAll(this);
       }
-
-      // NO-REFUTE DEDUCTION (all opponents cannot refute):
-      // Mark all 3 suggested cards ✗ (not owned) for all opponents (done elsewhere)
-      // For each suggested card NOT owned by suggester:
-      //   - Mark that card GUILTY (🚩 in CF column)
-      //   - Mark all other cards in that category INNOCENT (not in CF)
       noRefuteDeduction(pl, { guest, treasure, room }) {
         const owns = (type, name) => pl.hand.some(c => c.type === type && c.name === name);
-
         const innocentAllOthers = (type, keepName, list) => {
           for (const n of list) {
             if (n !== keepName) pl.markInnocent(type, n);
           }
         };
-
-        // Only mark GUILTY if suggester does NOT own that suggested card
         if (!owns('Guest', guest)) {
           innocentAllOthers('Guest', guest, GUESTS);
           if (pl.noteCaseFileCard) pl.noteCaseFileCard({ type: 'Guest', name: guest });
           if (pl.markGuilty) pl.markGuilty('Guest', guest); // Mark 🚩 (GUILTY) in CF column
         }
-
         if (!owns('Treasure', treasure)) {
           innocentAllOthers('Treasure', treasure, TREASURES);
           if (pl.noteCaseFileCard) pl.noteCaseFileCard({ type: 'Treasure', name: treasure });
           if (pl.markGuilty) pl.markGuilty('Treasure', treasure); // Mark 🚩 (GUILTY) in CF column
         }
-
         if (!owns('Room', room)) {
           innocentAllOthers('Room', room, ROOMS);
           if (pl.noteCaseFileCard) pl.noteCaseFileCard({ type: 'Room', name: room });
           if (pl.markGuilty) pl.markGuilty('Room', room); // Mark 🚩 (GUILTY) in CF column
         }
-
         if (this.observerMode) {
           this.obs(`🧾 NO-REFUTE deduction: Cards not owned by ${pl.name} are marked GUILTY (🚩 in CF); others marked INNOCENT.`, { byPlayerId: pl.id });
         }
       }
-
-      // MILD INFERENCE: If 2 out of 3 cards in an unrefuted suggestion are INNOCENT,
-      // the remaining card must be GUILTY (🚩 in CF)
       applyMildInference(pl) {
         for (const t of pl.unrefuted) {
           const s = pl.isCardInnocent('Guest', t.guest),
@@ -3332,24 +2757,16 @@
           }
         }
       }
-
       applyInference(pl) {
         if (pl.isHuman) return;
-        // BASIC: no inference pipeline at all.
         if (this.aiDifficulty === 'basic') return;
-
-        // SMART / SHERLOCK: normal inference
         pl.propagateConstraints();
         this.applyMildInference(pl);
-
-        // SHERLOCK: add capacity (hand-size) constraints
         if (this.aiDifficulty === 'sherlock') {
           applyHandSizeConstraints(pl, this.players);
-          // Re-run propagation because hand-size constraints can unlock deductions
           pl.propagateConstraints();
         }
       }
-
       coachAccusationPlan(pl) {
         if (isSherlock(this.aiDifficulty)) {
           const plan = pl.planAccusationWithBeliefs();
@@ -3361,41 +2778,23 @@
         }
         return null;
       }
-
-      // Smart room selection: prioritize GUILTY > owned > unknown (for both AI and coach)
-      // Room selection logic per specification:
-      // Step 3: If GUILTY room exists:
-      //   - If reachable → move to GUILTY room
-      //   - If NOT reachable → move to owned room (if any reachable), else any reachable
-      // Step 4: If no GUILTY room:
-      //   - Remove INNOCENT rooms, select best potential room
       pickBestRoom(pl, reachableRooms) {
         if (!reachableRooms || reachableRooms.length === 0) return null;
-
         const guiltyRoom = pl.getGuiltyCard('Room');
         const myRooms = pl.hand.filter(c => c.type === 'Room').map(c => c.name);
-
-        // Step 3: GUILTY room exists?
         if (guiltyRoom) {
-          // Is GUILTY room reachable?
           if (reachableRooms.includes(guiltyRoom)) {
             return guiltyRoom; // Move to GUILTY room
           } else {
-            // GUILTY room NOT reachable - move to owned room if any reachable
             const reachableOwned = reachableRooms.filter(r => myRooms.includes(r));
             if (reachableOwned.length > 0) {
               return choice(reachableOwned);
             }
-            // No owned rooms reachable - move to any reachable
             return choice(reachableRooms);
           }
         }
-
-        // Step 4: No GUILTY room - remove INNOCENT rooms, select best potential
         const notInnocent = reachableRooms.filter(r => !pl.isCardInnocent('Room', r));
         const candidates = notInnocent.length > 0 ? notInnocent : reachableRooms;
-
-        // Calculate next-turn potential
         const nextTurnPotential = (fromRoom) => {
           const seen = new Set();
           for (let d = 1; d <= 6; d++) {
@@ -3406,30 +2805,22 @@
           }
           return seen.size;
         };
-
         let best = [], bestScore = -1;
         for (const r of candidates) {
           const s = nextTurnPotential(r);
           if (s > bestScore) { best = [r]; bestScore = s; }
           else if (s === bestScore) { best.push(r); }
         }
-
         return choice(best.length > 0 ? best : reachableRooms);
       }
-
       coachAccusationPlan(pl) {
         if (!pl || pl.eliminated) return null;
-
-        // Certain accusation (all difficulties) — matches aiTurn's "certain" branch
         if (pl.isConfidentSolution()) return pl.inferredAccusation();
-
-        // Sherlock: belief-aware early accusation if evidence threshold met
         if (isSherlock(this.aiDifficulty)) {
           const hasEvidence =
             (pl.seen.size > pl.own.size) ||
             (pl.constraints && pl.constraints.length > 0) ||
             (pl.unrefuted && pl.unrefuted.length > 0);
-
           if (hasEvidence && typeof pl.planAccusationWithBeliefs === 'function') {
             const plan = pl.planAccusationWithBeliefs();
             if (plan && plan.acc && plan.confidence >= AI_CFG.sherlock.earlyAccuseMinConfidence) {
@@ -3439,35 +2830,24 @@
         }
         return null;
       }
-
       coachStartRecommendation(pl) {
-        // Decide: roll / stay / accuse (stay only if arrived by opponent suggestion)
         const acc = this.coachAccusationPlan(pl);
         if (acc) return { action: 'accuse', acc };
-
         const canStay = !!pl.arrivedByOpponentSuggestion;
         if (canStay) {
-          // If current room is GUILTY (🚩 in CF), recommend staying
           if (pl.isCardGuilty('Room', pl.location)) return { action: 'stay' };
-
-          // If current room is not INNOCENT (not marked yet), recommend staying to gather info
           if (!pl.isCardInnocent('Room', pl.location)) return { action: 'stay' };
         }
         return { action: 'roll' };
       }
-
       coachRecommendMove(pl) {
         const reach = [...this.reachable];
         if (!reach.length) return pl.location;
-
         const dest = this.pickBestRoom(pl, reach);
         return dest || pl.location;
       }
-
       async makeSuggestion(pl, guest, treasure, room) {
         const triple = [{ type: 'Guest', name: guest }, { type: 'Treasure', name: treasure }, { type: 'Room', name: room }];
-
-        // Step d: Move guest into suggested room and animate
         const wasGst = this.guestLoc.get(guest);
         if (wasGst && wasGst !== room) {
           queueTokenMove('.token.guest.' + slug(guest));
@@ -3478,17 +2858,13 @@
         } else if (!wasGst) {
           this.guestLoc.set(guest, room);
         }
-
         const ownerPlayer = this.players.find(p => p.guest === guest);
         if (ownerPlayer && ownerPlayer.location !== room) {
           const prev = ownerPlayer.location;
-          // Guest token already animated above; just sync the player location quietly
           ownerPlayer.location = room;
           ownerPlayer.arrivedByOpponentSuggestion = true;
           log(`${ownerPlayer.name} is moved from ${prev} to ${room} due to the suggestion.`);
         }
-
-        // Step e: Move treasure into suggested room and animate
         const wasWeap = this.treasureLoc.get(treasure);
         if (wasWeap && wasWeap !== room) {
           queueTokenMove('.token.treasure.' + slug(treasure));
@@ -3500,25 +2876,16 @@
           this.treasureLoc.set(treasure, room);
         }
         log(`${pl.name} suggests: ${displayGuest(guest)} concealed the ${treasure} in the ${room}.`);
-
-        // Resolve refutations in order
         const order = []; for (let i = 1; i < this.players.length; i++) order.push(this.players[(this.turnIndex + i) % this.players.length]);
-
         for (const other of order) {
           const matches = other.hasAnyOf(triple);
-
           if (matches.length > 0) {
             let shown;
-
-            // 1) If the refuter is the real human player, give "Coach recommends" when there are multiple matches
             if (other.isHuman) {
               let rec = null;
-
-              // Only Sherlock uses adversarial "least informative" logic
               if (this.aiDifficulty === 'sherlock' && matches.length > 1) {
                 rec = pickLeastInformativeRefuteCard(other, matches, pl);
               }
-
               const opts = [
                 ...(rec ? [{
                   label: `Coach recommends: ${rec.type}: ${displayCardName(rec.type, rec.name)}`,
@@ -3531,7 +2898,6 @@
                   className: 'secondary'
                 }))
               ];
-
               const pick = await showChoicePrompt(
                 'Choose a card to show',
                 `<div>You must refute <b>${pl.name}</b> by showing ONE matching card.</div>
@@ -3541,12 +2907,9 @@
                 opts,
                 { allowCancel: false }
               );
-
               shown = pick;
               log(`You show a card to ${pl.name}.`);
             }
-
-            // 2) If the refuter is the COACH FOCUS player, YOU choose which card they show (with coach advice)
             else if (this.isCoachFocus(other)) {
               let rec = null;
               if (this.aiDifficulty === 'sherlock' && matches.length > 1) {
@@ -3555,7 +2918,6 @@
                   this.obs(`🂠 Coach recommends showing: ${rec.type}: ${displayCardName(rec.type, rec.name)}`, { byPlayerId: other.id });
                 }
               }
-
               const opts = [
                 ...(rec ? [{
                   label: `Coach's choice: ${rec.type}: ${displayCardName(rec.type, rec.name)}`,
@@ -3568,7 +2930,6 @@
                   className: 'secondary'
                 }))
               ];
-
               const pick = await showChoicePrompt(
                 'Choose a card to show',
                 `<div>You must refute <b>${pl.name}</b> by showing ONE matching card.</div>
@@ -3578,12 +2939,9 @@
                 opts,
                 { allowCancel: false }
               );
-
               shown = pick;
               log(`${other.name} refutes the suggestion.`);
             }
-
-            // 3) All other AI refuters: in Sherlock, be adversarial; otherwise keep random behaviour
             else {
               if (this.aiDifficulty === 'sherlock') {
                 shown = pickLeastInformativeRefuteCard(other, matches, pl) || choice(matches);
@@ -3592,19 +2950,13 @@
               }
               log(`${other.name} refutes the suggestion.`);
             }
-
-            // Sherlock++: learning signals
             if (isAdvancedAI(this.aiDifficulty)) {
               for (const obs of this.players) {
                 if (obs.isHuman) continue;
-                // Observers learn refuter likely owns one of the triple
                 obs.noteRefutePattern(other.id, triple);
               }
-              // Suggester AI actually SEES the exact shown card; lock it in
               if (!pl.isHuman && shown) { pl.noteCardShown(shown, other.id); }
             }
-
-            // Coach mode: show the same prompt even though the focus player is not "human"
             if (pl.isHuman || this.isCoachFocus(pl)) {
               await showInfoPrompt(
                 'Card Shown',
@@ -3613,29 +2965,22 @@
                <b>${shown.type}: ${displayCardName(shown.type, shown.name)}</b>
              </div>`
               );
-
-              // In Coach mode the focus player is still an AI, so we MUST record the knowledge
               if (!pl.isHuman) {
                 pl.markSeen(shown, other.id);
               }
             } else {
-              // Legacy knowledge record (still fine)
               pl.markSeen(shown, other.id);
             }
-
-            // Constraint reasoning for Smart/Sherlock observers
             if (isAdvancedAI(this.aiDifficulty)) {
               for (const obs of this.players) {
                 if (obs.id === pl.id) continue; if (obs.id === other.id) continue; if (obs.isHuman) continue;
                 obs.addRefuteConstraint(other.id, triple);
               }
             }
-
             this.applyInference(pl);
             renderWithoutBoard(this);  // board unchanged — only notebook/casebook needs update
             return { refuted: true, by: other, card: shown };
           } else {
-            // Negative refutation: other could not refute => they do NOT own any of the triple
             if (isAdvancedAI(this.aiDifficulty)) {
               for (const obs of this.players) {
                 if (obs.isHuman) continue;
@@ -3643,79 +2988,52 @@
                 obs.noteNoRefute(other.id, triple);
               }
             }
-
-            // continue to next 'other'
           }
         }
-
-        // No one could refute
         log(`No one could refute ${pl.name}'s suggestion.`);
         if (this.observerMode) {
           this.obs(`✅ No one refuted ${pl.name}'s suggestion.`, { byPlayerId: pl.id });
         }
-
-        // Apply NO-REFUTE deduction for ALL difficulties (AI only).
         if (!pl.isHuman) {
           this.noRefuteDeduction(pl, { guest, treasure, room });
         }
-
-        // Smart/Sherlock can still keep unrefuted history for mild inference later.
-        // (Basic won't use it, but keeping it doesn't hurt.)
         if (!pl.isHuman) {
           pl.unrefuted.push({ guest, treasure, room });
         }
-
         this.applyInference(pl);
         return { refuted: false };
       }
-
-      // === Centre-tile "trial" helpers (ACCUSED → NOT GUILTY → revert) ===
       beginTrial(pl, acc) {
-        // Save previous locations so we can revert after NOT GUILTY
         const prevGst = this.guestLoc.get(acc.guest);
         const prevTsr = this.treasureLoc.get(acc.treasure);
-
         this.trial = {
           stage: 'accused',
           by: pl.name,
           acc: { ...acc },
           prev: { gst: prevGst, tsr: prevTsr }
         };
-
-        // Move accused guest + treasure to the centre (Case File tile)
         this.guestLoc.set(acc.guest, HOLDING_CELL_ID);
         this.treasureLoc.set(acc.treasure, HOLDING_CELL_ID);
       }
-
       restoreTrial() {
         if (!this.trial) return;
         const { acc, prev } = this.trial;
-
-        // Always restore if we saved anything at all (use != null to allow empty strings, 0, false, etc.)
         if (prev && prev.gst != null) this.guestLoc.set(acc.guest, prev.gst);
         if (prev && prev.tsr != null) this.treasureLoc.set(acc.treasure, prev.tsr);
-
-        // Clear centre trial state (this removes room token + restores CASE FILE)
         this.trial = null;
       }
-
       checkAccusation(a) {
         return a.guest === this.solution.guest &&
           a.treasure === this.solution.treasure &&
           a.room === this.solution.room;
       }
-
       async accuse(pl, acc) {
         log(`${pl.name} ACCUSES: ${displayGuest(acc.guest)} concealed the ${acc.treasure} in the ${acc.room}!`);
-
         this.beginTrial(pl, acc);
         renderAll(this);
-
         if (this.observerMode) {
           this.obs(`⚖️ ${pl.name} ACCUSES: ${displayGuest(acc.guest)} / ${acc.treasure} / ${acc.room}`, { byPlayerId: pl.id });
         }
-
-        // Show overlay — human must click to reveal verdict
         await new Promise(resolve => {
           showAccusationOverlay({
             accuser: pl.name,
@@ -3725,21 +3043,15 @@
             onReveal: resolve
           });
         });
-
-        // Determine verdict
         const ok = this.checkAccusation(acc);
-
         if (ok) {
-          // === CORRECT: CONVICTED ===
           this.gameOver = true;
           this.convicted = { guest: acc.guest, treasure: acc.treasure, room: acc.room, winner: pl.name };
           this.trial = null;
           renderAll(this);
-
           if (this.observerMode) {
             this.obs(`👮‍♂️ CONVICTED: ${pl.name} wins.`, { byPlayerId: pl.id });
           }
-
           await new Promise(resolve => {
             transitionOverlayConvicted({
               winner: pl.name,
@@ -3760,21 +3072,15 @@
               }
             });
           });
-
           return { correct: true };
         }
-
-        // === WRONG: NOT GUILTY ===
         log(`❌ Wrong accusation. ${pl.name} is eliminated from the investigation, but may still refute.`);
         pl.eliminated = true;
-
         if (this.trial) this.trial.stage = 'notguilty';
         renderAll(this);
-
         if (this.observerMode) {
           this.obs(`🕊 NOT GUILTY: ${pl.name} eliminated from the investigation, but may still refute.`, { byPlayerId: pl.id });
         }
-
         if (pl.isHuman || this.isCoachFocus(pl)) {
           await new Promise(resolve => {
             transitionOverlayNotGuilty({
@@ -3782,22 +3088,12 @@
               onDismiss: resolve
             });
           });
-
           this.restoreTrial();
           renderAll(this);
           return { correct: false };
         }
-
-        // AI wrong accusation — no further overlay needed
         return { correct: false, revertAfterSummary: true };
       }
-
-      /* ================================================================================
-       * [SECTION 6] GAME FLOW FUNCTIONS
-       * ================================================================================
-       * Turn execution, movement, suggestions, refutations, and accusations
-       * ================================================================================ */
-
       async beginTurn() {
         if (this.gameOver) return;
         const pl = this.currentPlayer();
@@ -3805,7 +3101,6 @@
         this.awaitingMove = false; this.awaitingDecision = !!pl.arrivedByOpponentSuggestion;
         this.stayedInsteadOfRoll = false;
         this.updateTurnUI();
-
         if (pl.eliminated) { await this.endTurn(); return; }
         if (pl.isHuman || this.isCoachFocus(pl)) {
           this.humanTurnsStarted++;
@@ -3814,7 +3109,6 @@
           await this.aiTurn(pl);
         }
       }
-
       async showRollPromptForHuman() {
         const pl = this.currentPlayer();
         if (!(pl.isHuman || this.isCoachFocus(pl)) || this.gameOver || pl.eliminated) return;
@@ -3830,32 +3124,22 @@
         }
         let body = movedHere ? `<div>You were moved to <b>${pl.location}</b> by an opponent's suggestion.</div><div style="margin-top:8px;color:var(--muted);font-size:12px;">Choose what to do this turn.</div>`
           : `<div>It's your turn in <b>${pl.location}</b>.</div><div style="margin-top:8px;color:var(--muted);font-size:12px;">Roll the dice to move.</div>`;
-        // Coach mode: compute & log recommendation, and add a Coach's choice button
         let coachRec = null;
         if (this.isCoachFocus(pl)) {
           coachRec = this.coachStartRecommendation(pl);
-
           const label =
             coachRec.action === 'accuse' ? 'ACCUSE' :
               coachRec.action === 'stay' ? 'STAY' : 'ROLL';
-
-          // Log what Coach's choice will do
           this.obs(`🎯 Coach's choice: ${label}`, { byPlayerId: pl.id });
-
-          // Also show it in the prompt body so the user can see it before clicking
           body += `<div style="margin-top:10px;color:var(--accent);font-size:12px;">
                 <b>Coach recommends:</b> ${label}
               </div>`;
-
-          // Put Coach's choice first
           actions = [{ label: "Coach's choice", value: 'coach' }, ...actions];
         }
-
         const pick = await renderPrompt({ title: 'Your Turn', bodyHTML: body, actions });
         clearGameplayPrompt();
         if (pick === 'coach' && this.isCoachFocus(pl)) {
           const rec = this.coachStartRecommendation(pl);
-
           if (rec.action === 'accuse') {
             await this.humanAccuse({
               prefill: rec.acc,
@@ -3867,7 +3151,6 @@
             await this.humanStayAndSuggest();
             return;
           }
-          // default: roll
           await this.humanRollAndMove();
           return;
         }
@@ -3875,7 +3158,6 @@
         if (pick === 'stay') { await this.humanStayAndSuggest(); return; }
         if (pick === 'roll') { await this.humanRollAndMove(); return; }
       }
-
       async humanRollAndMove() {
         const pl = this.currentPlayer();
         if (!(pl.isHuman || this.isCoachFocus(pl)) || this.gameOver || pl.eliminated) return;
@@ -3887,12 +3169,9 @@
         log(`You rolled a ${this.dice}. Choose a reachable room to move.`);
         this.updateTurnUI();
         setPromptMessage('Dice Result', `<div>You rolled a <b>${this.dice}</b>.</div><div style="margin-top:8px;color:var(--muted);">Select a highlighted room to move into.</div>`);
-        // Coach mode: recommend a room and provide a Coach's choice button to auto-move
         if (this.isCoachFocus(pl)) {
           const dest = this.coachRecommendMove(pl);
           this.obs(`🧭 Coach's choice: MOVE to ${dest}`, { byPlayerId: pl.id });
-
-          // Add a button into the currently button-less move prompt
           const box = el('gameplayPromptBox');
           const actionsDiv = box ? box.querySelector('.promptActions') : null;
           if (actionsDiv) {
@@ -3902,8 +3181,6 @@
             btn.onclick = () => this.humanMoveTo(dest);
             actionsDiv.appendChild(btn);
           }
-
-          // Also show the recommendation in the prompt body
           const bodyDiv = box ? box.querySelector('.promptBody') : null;
           if (bodyDiv) {
             bodyDiv.innerHTML += `<div style="margin-top:10px;color:var(--accent);font-size:12px;">
@@ -3912,7 +3189,6 @@
           }
         }
       }
-
       async humanStayAndSuggest() {
         const pl = this.currentPlayer(); if (!(pl.isHuman || this.isCoachFocus(pl)) || this.gameOver || pl.eliminated) return;
         if (!this.awaitingDecision) return;
@@ -3921,7 +3197,6 @@
         this.updateTurnUI();
         await this.openSuggestionPromptAuto();
       }
-
       async humanMoveTo(room) {
         const pl = this.currentPlayer();
         if (!(pl.isHuman || this.isCoachFocus(pl)) || !this.awaitingMove) return;
@@ -3935,17 +3210,13 @@
         this.updateTurnUI(false);  // pills only — board already painted by animation
         await this.openSuggestionPromptAuto();
       }
-
       async openSuggestionPromptAuto() {
         const pl = this.currentPlayer(); if (!(pl.isHuman || this.isCoachFocus(pl)) || pl.eliminated || this.gameOver) return;
         if (this.awaitingMove) return;
         const room = pl.location;
-
-        // Coach mode: compute recommendation and log it
         let coachPick = null;
         if (this.isCoachFocus(pl)) {
           if (isSherlock(this.aiDifficulty)) {
-            // Mirror the same "thinking" text aiTurn uses (so the log stays the same style)
             const rankEntropy = (type, list) => {
               const arr = list.map(n => ({ n, e: pl.entropyForCardKey(pl.cardKey(type, n)) }));
               arr.sort((a, b) => b.e - a.e);
@@ -3957,23 +3228,18 @@
             const tsrCands = tsrPool.length ? tsrPool : TREASURES;
             const topGst = rankEntropy('Guest', gstCands);
             const topTsr = rankEntropy('Treasure', tsrCands);
-
             const pick = pl.pickSmartSuggestionParts();
             coachPick = { guest: pick.guest, treasure: pick.treasure };
-
             this.obs(
               `🔎 Let's see... top guests are ${topGst.map(x => `${x.n}(${x.e.toFixed(2)})`).join(', ')} and top treasures are ${topTsr.map(x => `${x.n}(${x.e.toFixed(2)})`).join(', ')}. I'll check out ${coachPick.guest} and ${coachPick.treasure} in the ${room}.`,
               { byPlayerId: pl.id }
             );
           } else {
-            // Smart/basic style recommendation (same message format as aiTurn uses for smart)
             const sC = pl.possibleSet('Guest');
             const wC = pl.possibleSet('Treasure');
             const gstCands = sC.length ? sC : GUESTS;
             const tsrCands = wC.length ? wC : TREASURES;
-
             coachPick = { guest: choice(gstCands), treasure: choice(tsrCands) };
-
             if (this.aiDifficulty === 'smart') {
               this.obs(
                 `🔎 Let's see... guests remaining are ${gstCands.length} and treasures remaining are ${tsrCands.length}. I'll check out ${coachPick.guest} and ${coachPick.treasure} in the ${room}.`,
@@ -3982,11 +3248,9 @@
             }
           }
         }
-
         const gst = GUESTS.map(s =>
           `<option value="${s}" ${(coachPick && coachPick.guest === s) ? 'selected' : ''}>${displayGuest(s)}</option>`
         ).join("");
-
         const tsr = TREASURES.map(w =>
           `<option value="${w}" ${(coachPick && coachPick.treasure === w) ? 'selected' : ''}>${w}</option>`
         ).join("");
@@ -4009,29 +3273,22 @@
         clearGameplayPrompt();
         if (go && guest && treasure) {
           const result = await this.makeSuggestion(pl, guest, treasure, room);
-
-          // Coach mode: after suggestion resolves (refuted or not), if threshold met then auto-open accusation prompt
           if (this.isCoachFocus(pl)) {
             const acc = this.coachAccusationPlan(pl);
             if (acc) {
               this.obs(`🛑 Coach's choice: ACCUSE ${acc.guest} / ${acc.treasure} / ${acc.room}`, { byPlayerId: pl.id });
-
               await this.humanAccuse({
                 prefill: acc,
                 onCancel: () => this.showPostSuggestionPrompt(result, { guest, treasure, room })
               });
-
-              // If the accusation ended the game, stop here
               if (this.gameOver) return;
             }
           }
-
           await this.showPostSuggestionPrompt(result, { guest, treasure, room });
         } else {
           await this.endTurn();
         }
       }
-
       async showPostSuggestionPrompt(result, triple) {
         const pl = this.currentPlayer(); if (!(pl.isHuman || this.isCoachFocus(pl)) || this.gameOver) return;
         const title = result.refuted ? 'Suggestion Result' : 'No One Could Refute!';
@@ -4050,18 +3307,15 @@
         if (pick === 'accuse') { await this.humanAccuse({ onCancel: () => this.showPostSuggestionPrompt(result, triple) }); }
         else await this.endTurn();
       }
-
       async humanAccuse({ onCancel, prefill = null } = {}) {
         const pl = this.currentPlayer(); if (!(pl.isHuman || this.isCoachFocus(pl)) || pl.eliminated || this.gameOver) return;
         if (this.awaitingMove) return;
         const gst = GUESTS.map(s =>
           `<option value="${s}" ${(prefill && prefill.guest === s) ? 'selected' : ''}>${displayGuest(s)}</option>`
         ).join("");
-
         const tsr = TREASURES.map(w =>
           `<option value="${w}" ${(prefill && prefill.treasure === w) ? 'selected' : ''}>${w}</option>`
         ).join("");
-
         const rms = ROOMS.map(r =>
           `<option value="${r}" ${(prefill && prefill.room === r) ? 'selected' : ''}>${r}</option>`
         ).join("");
@@ -4092,47 +3346,30 @@
           }
         }
       }
-
       roomsOptionsHTML() { return ROOMS.map(r => `<option value="${r}">${r}</option>`).join(""); }
-
       async endTurn() {
         if (this.gameOver) return;
         this.turnIndex = this.nextTurnIndex(this.turnIndex);
         this.updateTurnUI();
         await this.beginTurn();
       }
-
-      /* ================================================================================
-       * [SECTION 5] AI LOGIC
-       * ================================================================================
-       * AI difficulty levels, move selection, suggestions, and accusation decisions
-       * ================================================================================ */
-
       async aiTurn(pl) {
         const sid = this.sessionId;
         if (this.gameOver) return;
-
         const summary = [];
         log(`${pl.name}'s turn…`);
         summary.push('Turn started.');
         if (!this.isActiveSession(sid)) return;
-
         let choseStay = false;
-
-        // Stay vs Roll decision - prioritize GUILTY rooms, avoid INNOCENT rooms
         if (pl.arrivedByOpponentSuggestion) {
           const currentRoomInnocent = pl.isCardInnocent('Room', pl.location);
           const currentRoomGuilty = pl.isCardGuilty('Room', pl.location);
           const roomsLeft = pl.possibleSet('Room');
-
           if (currentRoomInnocent) {
-            // Current room is INNOCENT (✓ in a player column) → definitely roll
             choseStay = false;
           } else if (currentRoomGuilty) {
-            // Current room is GUILTY (🚩 in CF) → definitely stay
             choseStay = true;
           } else if (isSherlock(this.aiDifficulty)) {
-            // Current room status unknown - use probability
             const isKeyRoom = roomsLeft.includes(pl.location);
             choseStay = isKeyRoom ? (Math.random() < 0.72) : (Math.random() < 0.28);
           } else if (isAdvancedAI(this.aiDifficulty)) {
@@ -4145,21 +3382,14 @@
           pl.arrivedByOpponentSuggestion = false;
           if (!this.isActiveSession(sid)) return;
         }
-
         if (!choseStay) {
-          // Step 3: Roll dice and build option list of reachable rooms
           this.dice = randInt(1, 6);
           this.reachable = this.computeReachable(pl.location, this.dice);
           log(`${pl.name} rolled ${this.dice}.`);
           summary.push(`Rolled a ${this.dice}.`);
           if (!this.isActiveSession(sid)) return;
-
           const reach = [...this.reachable];
-
-          // Use pickBestRoom which implements the specification logic
           let dest = this.pickBestRoom(pl, reach);
-
-          // Sherlock "second-best" flavor: compute after base dest, before moving
           if (isSherlock(this.aiDifficulty)) {
             if (Math.random() < 0.12) {
               const possibleRooms = new Set(pl.possibleSet('Room'));
@@ -4168,15 +3398,11 @@
               if (scored.length > 1) dest = scored[1].r;
             }
           }
-
-          // Defensive fallback
           if (!dest) dest = pl.location;
-
           const from = pl.location;
           if (pl.guest) queueTokenMove('.token.guest.' + slug(pl.guest));
           pl.location = dest;
           if (pl.guest) this.guestLoc.set(pl.guest, dest);
-
           log(`${pl.name} moved from ${from} to ${dest}.`);
           summary.push(`Moved from ${from} to ${dest}.`);
           renderBoard(this);
@@ -4184,17 +3410,12 @@
           this.updateTurnUI(false);  // pills only — board already painted
           if (!this.isActiveSession(sid)) return;
         } else {
-          // Chose to stay
           this.dice = null; this.reachable = new Set();
           renderAll(this);
         }
-
-        // Sherlock++: suggestion target selection + thought process logging
         let guest, treasure;
         const room = pl.location;
-
         if (isSherlock(this.aiDifficulty)) {
-          // Compute top entropy candidates (informative picks)
           const rankEntropy = (type, list) => {
             const arr = list.map(n => ({
               n,
@@ -4203,61 +3424,42 @@
             arr.sort((a, b) => b.e - a.e);
             return arr.slice(0, 3);
           };
-
           const gstPool = pl.possibleSet('Guest');
           const tsrPool = pl.possibleSet('Treasure');
-
           const gstCands = gstPool.length ? gstPool : GUESTS;
           const tsrCands = tsrPool.length ? tsrPool : TREASURES;
-
           const topGst = rankEntropy('Guest', gstCands);
           const topTsr = rankEntropy('Treasure', tsrCands);
-
           const pick = pl.pickSmartSuggestionParts();
           guest = pick.guest;
           treasure = pick.treasure;
-
           if (this.observerMode) {
             this.obs(`🔎 Let's see... top guests are ${topGst.map(x => `${x.n}(${x.e.toFixed(2)})`).join(', ')} and top treasures are ${topTsr.map(x => `${x.n}(${x.e.toFixed(2)})`).join(', ')}. I'll check out ${guest} and ${treasure} in the ${room}.`, { byPlayerId: pl.id });
           }
-
         } else {
-          // Smart/basic: pick from remaining (uncleared) candidates
           const sC = pl.possibleSet('Guest');
           const wC = pl.possibleSet('Treasure');
-
           const gstCands = sC.length ? sC : GUESTS;
           const tsrCands = wC.length ? wC : TREASURES;
-
           guest = choice(gstCands);
           treasure = choice(tsrCands);
-
           if (this.observerMode && this.aiDifficulty === 'smart') {
             this.obs(`🔎 Let's see... guests remaining are ${gstCands.length} and treasures remaining are ${tsrCands.length}. I'll check out ${guest} and ${treasure} in the ${room}.`, { byPlayerId: pl.id });
           }
         }
-
         summary.push(`Suggested: ${displayGuest(guest)} concealed the ${treasure} in the ${room}.`);
         const result = await this.makeSuggestion(pl, guest, treasure, room);
         if (!this.isActiveSession(sid)) return;
         summary.push(result.refuted ? `Refuted by ${result.by?.isHuman ? 'You' : (result.by?.name ?? 'another player')}.` : 'No one could refute the suggestion.');
-
-        // Sherlock++: beliefs decay each AI turn
         if (isSherlock(this.aiDifficulty)) pl.decayBeliefs();
-
-        // === Accusation logic ===
         let accused = false;
         let accOutcome = null; // used to revert NOT GUILTY display after summary (AI only)    
-
-        // A) Certain accusation (all difficulties)
         if (!pl.eliminated && pl.isConfidentSolution()) {
           if (!this.isActiveSession(sid)) return;
           const acc = pl.inferredAccusation();
-
           if (this.observerMode) {
             this.obs(`🛑 Time to act! Accusing ${acc.guest} of concealing the ${acc.treasure} in the ${acc.room}.`, { byPlayerId: pl.id });
           }
-
           summary.push(`Accused (certain): ${displayGuest(acc.guest)} concealed the ${acc.treasure} in the ${acc.room}.`);
           accOutcome = await this.accuse(pl, acc);
           accused = true;
@@ -4265,13 +3467,11 @@
             summary.push('Verdict: 🕊 NOT GUILTY (eliminated).');
           }
         }
-        // B) Sherlock++: belief-aware early accusation (bold, sometimes wrong)
         else if (!pl.eliminated && isSherlock(this.aiDifficulty)) {
           const plan = pl.planAccusationWithBeliefs();
           if (this.observerMode && plan) {
             this.obs(`❓ Do I have enough evidence? Did ${plan.acc.guest} conceal the ${plan.acc.treasure} in the ${plan.acc.room}? I'll only accuse if the evidence holds.`, { byPlayerId: pl.id });
           }
-
           const hasEvidence = (pl.seen.size > pl.own.size) || pl.constraints.length > 0 || pl.unrefuted.length > 0;
           if (hasEvidence && plan && plan.confidence >= AI_CFG.sherlock.earlyAccuseMinConfidence) {
             if (Math.random() < AI_CFG.sherlock.earlyAccuseChance) {
@@ -4284,7 +3484,6 @@
               }
             }
           } else if (hasEvidence && Math.random() < AI_CFG.sherlock.mistakeRate) {
-            // Rare outright mistake to feel human
             if (!this.isActiveSession(sid)) return;
             const b = pl.planAccusationWithBeliefs();
             summary.push(`Accused (mistake): ${displayGuest(b.acc.guest)} concealed the ${b.acc.treasure} in the ${b.acc.room}.`);
@@ -4295,24 +3494,19 @@
             }
           }
         }
-
         if (accused) {
           if (!this.isActiveSession(sid)) return;
           if (this.gameOver) return;
         }
-
         summary.push('Turn ended.');
         await this.showOpponentTurnSummary(pl, summary);
-        // If AI made a wrong accusation, revert the centre display AFTER the summary is dismissed
         if (accOutcome && accOutcome.revertAfterSummary) {
           this.restoreTrial();
           renderAll(this);
         }
-
         if (!this.isActiveSession(sid)) return;
         await this.endTurn();
       }
-
       async showOpponentTurnSummary(player, lines) {
         lines.forEach(l => log(`[${player.name}] ${l}`));
         const body = lines
@@ -4326,8 +3520,6 @@
         clearGameplayPrompt();
       }
     }
-
-    /* Rendering */
     const HOLDING_CELL_ID = 'HoldingCell';
     const BOARD_LAYOUT = {
       'Study': { col: [1, 5], row: [1, 3] },
@@ -4341,13 +3533,6 @@
       'Kitchen': { col: [9, 13], row: [7, 9] }
     };
     const CENTER_CELL = { col: [5, 9], row: [4, 6] };
-
-    /* ================================================================================
-     * [SECTION 8] UI RENDERING - PLAYERS & CARDS
-     * ================================================================================
-     * Display player information, hands, and card visuals
-     * ================================================================================ */
-
     function renderPlayers(game) {
       const box = el('playersBox'); box.innerHTML = '';
       game.players.forEach((p, idx) => {
@@ -4372,7 +3557,6 @@
         div.appendChild(left); div.appendChild(right); box.appendChild(div);
       });
     }
-
     function renderHand(game) {
       const you = game.players[0];
       const box = el('handBox'); box.innerHTML = '';
@@ -4385,25 +3569,14 @@
       });
       if (!sorted.length) box.innerHTML = `<span class="pill">(no cards?)</span>`;
     }
-
-    /* ================================================================================
-     * [SECTION 9] UI RENDERING - NOTEBOOK
-     * ================================================================================
-     * Checklist rendering, note-taking interface, and probability displays
-     * ================================================================================ */
-
     function renderNotebook(game) {
-      // Get player initials for column headers
       const playerInitials = game.players.map(p => {
         if (p.isHuman && !game.observerMode) return 'Own';
-        // Get initials from guest name
         const guest = p.guest || p.name;
         const words = guest.split(' ');
         if (words.length > 1) return words.map(w => w[0]).join('');
         return guest.substring(0, 2).toUpperCase();
       });
-
-      // Icons
       const GST_ICON = {
         "Forest": "🎩", "Brimstone": "🎖️", "Rouge": "💋", "Sapphire": "💎", "Lavender": "🎓", "Weisse": "👒"
       };
@@ -4414,26 +3587,18 @@
         "Study": "📝", "Hall": "🧥", "Lounge": "🛋️", "Library": "📖", "Billiard Room": "🎱",
         "Dining Room": "🍽️", "Conservatory": "🪴", "Ballroom": "💃", "Kitchen": "🥩"
       };
-
-      // Load saved grid state
       const gridState = loadClueGrid();
       const gridNotes = loadClueGridNotes();
-
-      // Render unified grid with all categories (with repeated dark header per category)
       const container = el('noteUnified');
       if (!container) return;
-
       const colCount = playerInitials.length + 2; // left label + players + CF
       let html = `<table class="clueGrid"><tbody>`;
-
       const categories = [
         { title: 'GUESTS', cards: GUESTS, type: 'Guest', icons: GST_ICON },
         { title: 'TREASURES', cards: TREASURES, type: 'Treasure', icons: TSR_ICON },
         { title: 'ROOMS', cards: ROOMS, type: 'Room', icons: ROOM_ICON_LOCAL }
       ];
-
       categories.forEach(category => {
-        // --- Repeated dark header row for this category ---
         html += `<tr class="catHead">`;
         html += `<th style="text-align:left; min-width:100px;">${category.title}</th>`;
         playerInitials.forEach((initial, idx) => {
@@ -4441,18 +3606,12 @@
         });
         html += `<th title="Case File (Solution)">CF</th>`;
         html += `</tr>`;
-
-        // --- Card rows for this category ---
         category.cards.forEach(cardName => {
           const key = `${category.type}:${cardName}`;
           const icon = category.icons[cardName] || '';
           const displayName = displayCardName(category.type, cardName);
-
-          // Main row with selects
           html += `<tr>`;
           html += `<td class="cardName"><span class="ico">${icon}</span>${displayName}</td>`;
-
-          // Player columns
           playerInitials.forEach((initial, pIdx) => {
             const cellKey = `${key}\nP${pIdx}`;
             const value = gridState[cellKey] || '';
@@ -4463,8 +3622,6 @@
           <option value="?" ${value === '?' ? 'selected' : ''}>?</option>
         </select></td>`;
           });
-
-          // CF column
           const cfKey = `${key}\nCF`;
           const cfValue = gridState[cfKey] || '';
           html += `<td><select data-key="${cfKey}" data-type="cf">
@@ -4473,10 +3630,7 @@
         <option value="✗" ${cfValue === '✗' ? 'selected' : ''}>✗</option>
         <option value="?" ${cfValue === '?' ? 'selected' : ''}>?</option>
       </select></td>`;
-
           html += `</tr>`;
-
-          // Notes row (single input spanning all columns)
           const noteKey = `${key}\nnote`;
           const noteValue = gridNotes[noteKey] || '';
           html += `<tr><td colspan="${colCount}" class="notesRow">`;
@@ -4485,11 +3639,8 @@
           html += `</td></tr>`;
         });
       });
-
       html += `</tbody></table>`;
       container.innerHTML = html;
-
-      // Add change listeners for selects
       container.querySelectorAll('select').forEach(select => {
         select.addEventListener('change', (e) => {
           const key = e.target.dataset.key;
@@ -4500,8 +3651,6 @@
           saveClueGrid(state);
         });
       });
-
-      // Add change listeners for notes
       container.querySelectorAll('.noteInput').forEach(input => {
         input.addEventListener('input', (e) => {
           const noteKey = e.target.dataset.notekey;
@@ -4513,8 +3662,6 @@
         });
       });
     }
-
-    // Grid state persistence
     function loadClueGrid() {
       try {
         const s = localStorage.getItem('clueGrid');
@@ -4523,7 +3670,6 @@
         return {};
       }
     }
-
     function saveClueGrid(state) {
       try {
         localStorage.setItem('clueGrid', JSON.stringify(state));
@@ -4531,7 +3677,6 @@
         console.warn('Could not save grid state:', e);
       }
     }
-
     function loadClueGridNotes() {
       try {
         const s = localStorage.getItem('clueGridNotes');
@@ -4540,7 +3685,6 @@
         return {};
       }
     }
-
     function saveClueGridNotes(notes) {
       try {
         localStorage.setItem('clueGridNotes', JSON.stringify(notes));
@@ -4548,22 +3692,16 @@
         console.warn('Could not save grid notes:', e);
       }
     }
-
     function clearClueGrid() {
       try {
         localStorage.removeItem('clueGrid');
         localStorage.removeItem('clueGridNotes');
       } catch (e) { }
     }
-
     function renderObserverCasebook(game) {
       const focus = game.players[game.observerFocusId];
-
-      // Replace panel header
       const rightPanel = document.querySelector('.rightPanel h2');
       if (rightPanel) rightPanel.textContent = 'Casebook';
-
-      // Column headers: focus player shows as "Own"
       const playerInitials = game.players.map((p, idx) => {
         if (idx === game.observerFocusId) return 'Own';
         const guest = p.guest || p.name;
@@ -4571,8 +3709,6 @@
         if (words.length > 1) return words.map(w => w[0]).join('');
         return String(guest).substring(0, 2).toUpperCase();
       });
-
-      // Icons
       const GST_ICON = {
         "Forest": "🎩", "Brimstone": "🎖️", "Rouge": "💋", "Sapphire": "💎", "Lavender": "🎓", "Weisse": "👒"
       };
@@ -4583,23 +3719,17 @@
         "Study": "📝", "Hall": "🧥", "Lounge": "🛋️", "Library": "📖", "Billiard Room": "🎱",
         "Dining Room": "🍽️", "Conservatory": "🪴", "Ballroom": "💃", "Kitchen": "🥩"
       };
-
-      // Sherlock probability helper
       const getSolutionProb = (type, name) => {
         const key = focus.cardKey(type, name);
         if (focus.seen.has(key)) return 0;
-
         if (typeof focus.caseFileProbNormalized === 'function') {
           return focus.caseFileProbNormalized(type, name);
         }
-
         const w = focus.ownerWeights?.get(key);
         if (!w) return 0.0;
         const pCase = w.get(CASE_FILE_ID) ?? 0;
         return Math.max(0, Math.min(1, pCase));
       };
-
-      // Coach-mode card info (read-only marks + CF + note/prob)
       const getCardInfo = (type, name) => {
         const key = focus.cardKey(type, name);
         const playerMarks = new Array(game.players.length).fill('');
@@ -4607,32 +3737,24 @@
         let noteText = '';
         let hasProb = false;
         let prob = 0;
-
         const ownerId = focus.knownOwners.get(key);
         const meta = focus.knowledgeMeta.get(key);
-
-        // If another card in this category is already guilty, this one is automatically NOT CF
         const categoryList =
           (type === 'Guest') ? GUESTS :
             (type === 'Treasure') ? TREASURES :
               ROOMS;
-
         const anotherIsGuilty = categoryList.some(cardName => {
           if (cardName === name) return false;
           const otherKey = focus.cardKey(type, cardName);
           const otherMeta = focus.knowledgeMeta.get(otherKey);
           return otherMeta?.status === 'guilty';
         });
-
         if (anotherIsGuilty) {
-          // ruled out of CF, show as eliminated everywhere
           playerMarks.fill('✗');
           cfMark = '✗';
           noteText = 'innocent';
           return { playerMarks, cfMark, noteText, hasProb: false, prob: 0 };
         }
-
-        // BASIC: only show ✅ for owned/seen and 🚩 for guilty
         if (game.aiDifficulty === 'basic') {
           game.players.forEach((player, pIdx) => {
             if (player.id === focus.id && focus.own.has(key)) {
@@ -4643,17 +3765,12 @@
               if (noteText === '') noteText = 'seen';
             }
           });
-
           if (meta?.status === 'guilty') {
             cfMark = '🚩';
             noteText = 'guilty';
           }
-
           return { playerMarks, cfMark, noteText, hasProb: false, prob: 0 };
         }
-
-        // SMART/SHERLOCK: full elimination logic
-        // 1) If focus owns it
         if (focus.own.has(key)) {
           game.players.forEach((player, pIdx) => {
             playerMarks[pIdx] = (player.id === focus.id) ? '✅' : '✗';
@@ -4662,8 +3779,6 @@
           noteText = 'own';
           return { playerMarks, cfMark, noteText, hasProb: false, prob: 0 };
         }
-
-        // 2) If focus knows someone owns it (seen or deduced)
         if (ownerId !== undefined && ownerId !== null) {
           game.players.forEach((player, pIdx) => {
             playerMarks[pIdx] = (player.id === ownerId) ? '✅' : '✗';
@@ -4672,12 +3787,8 @@
           noteText = (meta?.status === 'deduced') ? 'deduced' : 'seen';
           return { playerMarks, cfMark, noteText, hasProb: false, prob: 0 };
         }
-
-        // 3) Mark focus as ✗ in own column if not owned
         const focusIdx = game.players.findIndex(p => p.id === focus.id);
         if (focusIdx >= 0) playerMarks[focusIdx] = '✗';
-
-        // 4) Apply notOwner eliminations (from non-refutes/capacity/etc.)
         if (focus.notOwners) {
           const notOwnerSet = focus.notOwners.get(key);
           if (notOwnerSet) {
@@ -4686,47 +3797,34 @@
             });
           }
         }
-
-        // 5) If confirmed guilty
         if (meta?.status === 'guilty') {
           cfMark = '🚩';
           noteText = 'guilty';
           playerMarks.fill('✗');
           return { playerMarks, cfMark, noteText, hasProb: false, prob: 0 };
         }
-
-        // 6) If all players ruled out, must be CF
         const allPlayersRuledOut = playerMarks.every(mark => mark === '✗');
         if (allPlayersRuledOut) {
           cfMark = '🚩';
           noteText = 'guilty';
           return { playerMarks, cfMark, noteText, hasProb: false, prob: 0 };
         }
-
-        // 7) Sherlock probability for unsolved items
         if (game.aiDifficulty === 'sherlock' && noteText === '') {
           hasProb = true;
           prob = getSolutionProb(type, name);
         }
-
         return { playerMarks, cfMark, noteText, hasProb, prob };
       };
-
-      // Render unified grid with all categories (with repeated dark header per category)
       const container = el('noteUnified');
       if (!container) return;
-
       const colCount = playerInitials.length + 2; // left label + players + CF
       let html = `<table class="clueGrid"><tbody>`;
-
       const categories = [
         { title: 'GUESTS', cards: GUESTS, type: 'Guest', icons: GST_ICON },
         { title: 'TREASURES', cards: TREASURES, type: 'Treasure', icons: TSR_ICON },
         { title: 'ROOMS', cards: ROOMS, type: 'Room', icons: ROOM_ICON_LOCAL }
       ];
-
       categories.forEach(category => {
-        // --- Repeated dark header row for this category ---
         html += `<tr class="catHead">`;
         html += `<th style="text-align:left; min-width:100px;">${category.title}</th>`;
         playerInitials.forEach((initial, idx) => {
@@ -4734,14 +3832,10 @@
         });
         html += `<th title="Case File (Solution)">CF</th>`;
         html += `</tr>`;
-
-        // --- Cards ---
         category.cards.forEach(cardName => {
           const icon = category.icons[cardName] || '';
           const displayName = displayCardName(category.type, cardName);
           const cardInfo = getCardInfo(category.type, cardName);
-
-          // Single combined row — note/prob inline with card name
           const noteColors = { own: 'var(--accent)', seen: 'var(--accent)', deduced: 'var(--gold)', guilty: 'var(--warn)', innocent: 'var(--muted)' };
           const noteSpan = cardInfo.noteText
             ? `<span style="font-size:9px;color:${noteColors[cardInfo.noteText] || 'var(--muted)'};margin-left:4px;opacity:0.85;">${cardInfo.noteText}</span>`
@@ -4750,26 +3844,19 @@
             ? `<span style="position:absolute;left:0;top:0;bottom:0;width:${Math.round(cardInfo.prob * 100)}%;background:linear-gradient(90deg,rgba(201,151,58,0.18),rgba(201,151,58,0.08));border-radius:2px;pointer-events:none;z-index:0;"></span>`
             : '';
           const tdStyle = probBg ? ' style="position:relative;overflow:hidden;"' : '';
-
           html += `<tr>`;
           html += `<td class="cardName"${tdStyle}>${probBg}<span style="position:relative;z-index:1;"><span class="ico">${icon}</span>${displayName}${noteSpan}</span></td>`;
-
           cardInfo.playerMarks.forEach(mark => {
             html += `<td style="font-size:11px;">${mark || '　'}</td>`;
           });
-
           html += `<td style="font-size:11px;">${cardInfo.cfMark || '　'}</td>`;
           html += `</tr>`;
         });
       });
-
       html += `</tbody></table>`;
       container.innerHTML = html;
-
-      // Deductions log visibility (Smart/Sherlock only)
       const logId = 'observerDeduceLog';
       let logBox = document.getElementById(logId);
-
       const showLog = (game.aiDifficulty === 'smart' || game.aiDifficulty === 'sherlock');
       if (showLog) {
         if (!logBox) {
@@ -4791,33 +3878,10 @@
         if (logBox) logBox.remove();
       }
     }
-
-    /* ================================================================================
-     * [SECTION 10] UI RENDERING - BOARD
-     * ================================================================================
-     * Room rendering, token placement, and movement indicators
-     * ================================================================================ */
-
-
-    /* ============================================================
-       TOKEN MOVEMENT ANIMATION
-       ============================================================ */
-
-    // ── Token movement animation ──────────────────────────────────────────────────
-    // Call queueTokenMove() BEFORE changing location data.
-    // Call renderBoard(game) to paint new positions.
-    // Call await animatePendingMoves() to play the animation and wait for it to finish.
-
     async function animatePendingMoves() {
       await flushTokenMoves();
     }
-
-
-    // Supports multiple simultaneous tokens (e.g. guest + treasure in a suggestion).
-    // Queue snapshots BEFORE location changes; flush AFTER renderBoard paints new positions.
-
     const pendingMoves = []; // [{ selector, rect }]
-
     function queueTokenMove(selector) {
       const board = document.getElementById('board');
       if (!board) return;
@@ -4827,32 +3891,24 @@
         if (rect.width > 0) pendingMoves.push({ selector, rect });
       }
     }
-
     async function flushTokenMoves() {
       if (!pendingMoves.length) return;
       const moves = pendingMoves.splice(0);
       const board = document.getElementById('board');
       if (!board) return;
-
       const DURATION = 680;
       const clones = [];
-
       for (const { selector, rect } of moves) {
         const destEl = board.querySelector(selector);
         if (!destEl) continue;
-
-        // Suppress dest token during flight
         destEl.style.opacity = '0';
         destEl.style.animation = 'none';
         const destRect = destEl.getBoundingClientRect();
         if (destRect.left === rect.left && destRect.top === rect.top) {
-          // No movement — token already there, just reveal it
           destEl.style.opacity = '';
           destEl.style.animation = '';
           continue;
         }
-
-        // Build fixed clone at source
         const clone = destEl.cloneNode(true);
         clone.style.cssText = [
           'position:fixed',
@@ -4871,19 +3927,13 @@
         document.body.appendChild(clone);
         clones.push({ clone, destEl, destRect });
       }
-
       if (!clones.length) return;
-
-      // Two rAF to commit starting positions before transition fires
       await new Promise(r => requestAnimationFrame(() => requestAnimationFrame(r)));
-
       for (const { clone, destRect } of clones) {
         clone.style.left = destRect.left + 'px';
         clone.style.top = destRect.top + 'px';
       }
-
       await new Promise(r => setTimeout(r, DURATION + 40));
-
       for (const { clone, destEl } of clones) {
         clone.remove();
         destEl.style.opacity = '';
@@ -4901,15 +3951,12 @@
       const current = game.currentPlayer();
       const uiControlled = current.isHuman || game.isCoachFocus(current);
       const roomNames = ['Study', 'Library', 'Billiard Room', 'Conservatory', 'Hall', 'Ballroom', 'Lounge', 'Dining Room', 'Kitchen'];
-
       const GUEST_ICON = { "Forest": "🎩", "Brimstone": "🎖️", "Rouge": "💋", "Sapphire": "💎", "Lavender": "🎓", "Weisse": "👒" };
       const TREASURE_ICON = { "Portrait": "🖼️", "Ornaments": "⚔️", "Documents": "📜", "Coins": "🪙", "Necklace": "📿", "Watch": "⏱️" };
-
       const makeToken = (cls, icon, title, colorVar) =>
         `<span class="${cls}" data-color="1" title="${title}" style="--token-color:${colorVar}">
        <span class="ico" aria-hidden="true">${icon}</span>
      </span>`;
-
       roomNames.forEach(roomName => {
         const div = document.createElement('div');
         div.className = 'room';
@@ -4920,7 +3967,6 @@
         if (here) div.classList.add('here');
         if (reachable) div.classList.add('reachable');
         if (reachable) { div.style.cursor = 'pointer'; div.addEventListener('click', () => game.humanMoveTo(roomName)); }
-
         const guestTokens = GUESTS
           .filter(s => (game.guestLoc.get(s) || 'Hall') === roomName)
           .map(s => {
@@ -4930,34 +3976,27 @@
               GUEST_ICON[s] || '👤', displayGuest(s), `var(--gst-${slug(s)})`
             );
           });
-
         const treasureTokens = TREASURES
           .filter(w => (game.treasureLoc.get(w) || '') === roomName)
           .map(w => makeToken(
             `token treasure ${slug(w)}`,
             TREASURE_ICON[w] || '📦', w, `var(--tsr-${slug(w)})`
           ));
-
         const wm = ROOM_ICON[roomName] || '';
         if (wm) div.setAttribute('data-watermark', wm);
         div.innerHTML = `<div class="title">${roomName}</div>
                      <div class="tokens">${[...guestTokens, ...treasureTokens].join('')}</div>`;
         board.appendChild(div);
       });
-
-      // ── Centre tile ──────────────────────────────────────────────────────
       const center = document.createElement('div');
       center.className = 'room center';
       placeBox(center, CENTER_CELL);
-
       const makeRoomToken = (roomName) => {
         if (!roomName) return '';
         const icon = ROOM_ICON[roomName] || '🏷️';
         return makeToken('token roomtok', icon, roomName, 'rgba(201,151,58,0.25)');
       };
-
       let centerTitle = 'CASE FILE';
-
       if (game.trial && (game.trial.stage === 'accused' || game.trial.stage === 'notguilty')) {
         centerTitle = game.trial.stage === 'accused' ? 'ACCUSED' : 'NOT GUILTY';
         center.classList.add(game.trial.stage);
@@ -4965,29 +4004,21 @@
         centerTitle = 'CONVICTED';
         center.classList.add('convicted');
       }
-
       const holdingGst = GUESTS
         .filter(s => game.guestLoc.get(s) === HOLDING_CELL_ID)
         .map(s => makeToken(`token guest ${slug(s)}`, GUEST_ICON[s] || '👤', displayGuest(s), `var(--gst-${slug(s)})`));
-
       const holdingTsr = TREASURES
         .filter(w => game.treasureLoc.get(w) === HOLDING_CELL_ID)
         .map(w => makeToken(`token treasure ${slug(w)}`, TREASURE_ICON[w] || '📦', w, `var(--tsr-${slug(w)})`));
-
       let roomToken = '';
       if (game.trial?.acc) roomToken = makeRoomToken(game.trial.acc.room);
       else if (game.gameOver && game.convicted) roomToken = makeRoomToken(game.convicted.room);
-
       const centerTokens = [...holdingGst, ...holdingTsr, roomToken].filter(Boolean).join('');
       const centerDefault = centerTokens ? '' : `<div style="font-size:9px;letter-spacing:0.2em;color:rgba(201,151,58,0.35);margin-top:4px;font-family:'Cinzel',serif;">CONFIDENTIAL</div>`;
-
       center.setAttribute('data-watermark', ROOM_ICON['Case File'] || '🕵️');
       center.innerHTML = `<div class="title">${centerTitle}</div><div class="tokens">${centerTokens}</div>${centerDefault}`;
       board.appendChild(center);
-
-      // pendingMoves are flushed by the caller via: await animatePendingMoves()
     }
-
     function renderAll(game) {
       renderPlayers(game);
       renderHand(game);
@@ -4995,21 +4026,12 @@
       else renderNotebook(game);
       renderBoard(game);
     }
-
     function renderWithoutBoard(game) {
       renderPlayers(game);
       renderHand(game);
       if (game.observerMode) renderObserverCasebook(game);
       else renderNotebook(game);
     }
-
-    /* ================================================================================
-     * [SECTION 11] GAME INITIALIZATION
-     * ================================================================================
-     * Startup sequence, new game function, and UI reset
-     * ================================================================================ */
-
-    /* Startup */
     const game = new Game();
     (async function start() {
       try {
@@ -5019,29 +4041,19 @@
         game.observerMode = !!setup.observer;
         game.coachMode = !!setup.observer; // Coach mode uses observer plumbing
         game.observerFocusId = 0;
-
         game.resetPlayers(setup.opp);
-
-        // In observer mode, Player 1 is AI (no human prompts during play)
         if (game.observerMode) {
           game.players[0].isHuman = false; // critical: prevents "human" refute prompts
           game.players[0].name = `Player 1`; // temporary until guest assigned
         }
-
-        // Choose focus guest (optional but recommended)
         const pick = await promptHumanGuest(GUESTS);
-        // You can rename the prompt title/body if observer mode (see below)
         game.assignGuests(pick);
-
-        // After assignGuests, set a nicer label for Player 1 in observer mode
         if (game.observerMode) {
           game.players[0].name = displayGuest(game.players[0].guest); // keep consistent
         }
-
         game.setup();
         const ng = el('btnNewGame');
         if (ng) ng.onclick = () => startNewGame(game);
-
         const ngm = el('btnNewGameMobile');
         if (ngm) ngm.onclick = () => startNewGame(game);
         await game.beginTurn();
@@ -5052,58 +4064,40 @@
        <div style="margin-top:8px;color:var(--muted);font-size:12px;">Check the browser console for details.</div>`);
       }
     })();
-
-    /* ================================================================================
-     * FULLSCREEN TOGGLE
-     * ================================================================================ */
     (function initFullscreenButton() {
       const btn = el('fullscreenBtn');
       if (!btn) return;
-
       function updateIcon() {
         const isFullscreen = !!(document.fullscreenElement || document.webkitFullscreenElement || document.mozFullScreenElement || document.msFullscreenElement);
-        // ⛶ = expand (4 arrows out), ⮹ = compress (4 arrows in)
-        // Using Unicode: ⛶ for expand, ⤧ or ◰ for exit
         btn.textContent = isFullscreen ? '◱' : '⛶';
         btn.title = isFullscreen ? 'Exit Fullscreen (F11)' : 'Enter Fullscreen (F11)';
         btn.setAttribute('aria-label', isFullscreen ? 'Exit Fullscreen' : 'Enter Fullscreen');
       }
-
       function toggleFullscreen() {
         const doc = document.documentElement;
         const isFullscreen = !!(document.fullscreenElement || document.webkitFullscreenElement || document.mozFullScreenElement || document.msFullscreenElement);
-
         if (isFullscreen) {
-          // Exit fullscreen
           if (document.exitFullscreen) document.exitFullscreen();
           else if (document.webkitExitFullscreen) document.webkitExitFullscreen();
           else if (document.mozCancelFullScreen) document.mozCancelFullScreen();
           else if (document.msExitFullscreen) document.msExitFullscreen();
         } else {
-          // Enter fullscreen
           if (doc.requestFullscreen) doc.requestFullscreen();
           else if (doc.webkitRequestFullscreen) doc.webkitRequestFullscreen();
           else if (doc.mozRequestFullScreen) doc.mozRequestFullScreen();
           else if (doc.msRequestFullscreen) doc.msRequestFullscreen();
         }
       }
-
       btn.onclick = toggleFullscreen;
-
-      // Update icon when fullscreen state changes
       document.addEventListener('fullscreenchange', updateIcon);
       document.addEventListener('webkitfullscreenchange', updateIcon);
       document.addEventListener('mozfullscreenchange', updateIcon);
       document.addEventListener('msfullscreenchange', updateIcon);
-
-      // Initial icon state
       updateIcon();
     })();
-
     function resetUIForSetup() {
       clearGameplayPrompt();
       const logBox = el('log'); if (logBox) logBox.textContent = '';
-      // Clear observer deductions log (DOM + memory) at the same time as game log
       const deduceBox = document.getElementById('observerDeduceLog');
       if (deduceBox) deduceBox.textContent = '';
       if (deduceBox) deduceBox.remove();
@@ -5111,55 +4105,44 @@
       const playersBox = el('playersBox'); if (playersBox) playersBox.innerHTML = '';
       const handBox = el('handBox'); if (handBox) handBox.innerHTML = '';
       const board = el('board'); if (board) board.innerHTML = '';
-      // Clear unified casebook (new single-grid notebook)
       const noteUnified = el('noteUnified');
       if (noteUnified) noteUnified.innerHTML = '';
       try { clearChecklist(); clearCheckNotes(); clearClueGrid(); } catch (e) { console.warn('Checklist clear error (safe to ignore):', e); }
       const turnPill = el('turnPill'); if (turnPill) turnPill.textContent = 'Turn: —';
       const locPill = el('locPill'); if (locPill) locPill.textContent = 'Location: —';
     }
-
-
     function showNewGameModal() {
       return new Promise(resolve => {
         const overlay = document.createElement('div');
         overlay.className = 'modalOverlay';
         const dialog = document.createElement('div');
         dialog.className = 'modalDialog';
-
         const header = document.createElement('div');
         header.className = 'modalHeader';
         header.textContent = 'Start a New Game?';
-
         const body = document.createElement('div');
         body.className = 'modalBody';
         body.innerHTML = `<div style="font-size:16px;margin-bottom:12px;">What would you like to do?</div>
       <div style="color:var(--muted);font-size:13px;">All current progress and casebook notes will be cleared.</div>`;
-
         const actions = document.createElement('div');
         actions.className = 'modalActions';
-
         const cancelBtn = document.createElement('button');
         cancelBtn.className = 'secondary';
         cancelBtn.textContent = 'Cancel';
         cancelBtn.onclick = () => { document.body.removeChild(overlay); resolve(false); };
-
         const restartBtn = document.createElement('button');
         restartBtn.className = 'secondary';
         restartBtn.textContent = 'Restart';
         restartBtn.title = 'Start fresh with the same character and settings';
         restartBtn.onclick = () => { document.body.removeChild(overlay); resolve('restart'); };
-
         const hallBtn = document.createElement('button');
         hallBtn.className = 'danger';
         hallBtn.textContent = 'Return to Hapless Hall';
         hallBtn.title = 'Choose a new character and settings';
         hallBtn.onclick = () => { document.body.removeChild(overlay); resolve('hall'); };
-
         actions.appendChild(cancelBtn);
         actions.appendChild(restartBtn);
         actions.appendChild(hallBtn);
-
         dialog.appendChild(header);
         dialog.appendChild(body);
         dialog.appendChild(actions);
@@ -5167,44 +4150,35 @@
         document.body.appendChild(overlay);
       });
     }
-
     async function restartSameSettings(game) {
-      // Replay with the exact same guest, difficulty, opponents and mode stored in tpState
       resetUIForSetup();
       document.getElementById('titlePages').classList.add('hidden');
       document.getElementById('gameUI').classList.add('active');
       clearGameplayPrompt();
-
       game.aiDifficulty = normDiff(tpState.diff);
       game.observerMode = !!tpState.observer;
       game.coachMode = !!tpState.observer;
       game.observerFocusId = 0;
       game.resetPlayers(tpState.opp);
-
       if (game.observerMode) {
         game.players[0].isHuman = false;
         game.players[0].name = 'Player 1';
       }
-
       game.assignGuests(tpState.guest);
-
       if (game.observerMode) {
         game.players[0].name = displayGuest(game.players[0].guest);
       }
-
       game.setup();
       const ng = el('btnNewGame'); if (ng) ng.onclick = () => startNewGame(game);
       const ngm = el('btnNewGameMobile'); if (ngm) ngm.onclick = () => startNewGame(game);
       await game.beginTurn();
     }
-
     async function startNewGame(game, { skipConfirm = false, fromTitlePage = false } = {}) {
       if (!skipConfirm && !fromTitlePage) {
         const choice = await showNewGameModal();
         if (!choice) return;
         clearGameplayPrompt();
         if (choice === 'restart') {
-          // Use tpState exactly as-is — no title pages, no prompts
           await restartSameSettings(game);
           return;
         }
@@ -5216,79 +4190,24 @@
       game.observerMode = !!setup.observer;
       game.coachMode = !!setup.observer; // Coach mode uses observer plumbing
       game.observerFocusId = 0;
-
       game.resetPlayers(setup.opp);
-
-      // In observer mode, Player 1 is AI (no human prompts during play)
       if (game.observerMode) {
         game.players[0].isHuman = false; // critical: prevents "human" refute prompts
         game.players[0].name = `Player 1`; // temporary until guest assigned
       }
-
-      // Choose focus guest (optional but recommended)
       const pick = await promptHumanGuest(GUESTS);
-      // You can rename the prompt title/body if observer mode (see below)
       game.assignGuests(pick);
-
-      // After assignGuests, set a nicer label for Player 1 in observer mode
       if (game.observerMode) {
         game.players[0].name = displayGuest(game.players[0].guest); // keep consistent
       }
-
       game.setup();
       const ng = el('btnNewGame');
       if (ng) ng.onclick = () => startNewGame(game);
-
       const ngm = el('btnNewGameMobile');
       if (ngm) ngm.onclick = () => startNewGame(game);
       await game.beginTurn();
     }
-
-    /* ================================================================================
-     * 📚 QUICK REFERENCE FOR CUSTOMIZATION
-     * ================================================================================
-     * 
-     * COMMON MODIFICATIONS AND WHERE TO FIND THEM:
-     * 
-     * ┌─────────────────────────────────────────────────────────────────────────┐
-     * │ WHAT TO CHANGE              │ WHERE TO LOOK                             │
-     * ├─────────────────────────────────────────────────────────────────────────┤
-     * │ Colors                      │ Search: "COLOR CUSTOMIZATION"             │
-     * │ Game title                  │ Search: "ClueSolo"                        │
-     * │ Number of AI opponents      │ Search: "promptGameSetup"                 │
-     * │ AI difficulty               │ Search: "[SECTION 5]"                     │
-     * │ Room names                  │ Search: "const ROOMS"                     │
-     * │ Guest names                 │ Search: "const GUESTS"                    │
-     * │ Treasure names              │ Search: "const TREASURES"                 │
-     * │ Board layout                │ Search: "ROOM_LAYOUT"                     │
-     * │ Dice roll range             │ Search: "randInt(2, 12)"                  │
-     * │ Button labels               │ Search for the exact button text          │
-     * └─────────────────────────────────────────────────────────────────────────┘
-     * 
-     * DEBUGGING TIPS:
-     * • Always keep a backup copy before editing!
-     * • Use Ctrl+Z (Undo) if something breaks
-     * • Open browser console (F12) to see error messages
-     * • Check line numbers in error messages to find problems
-     * • Test changes by refreshing the browser (F5)
-     * 
-     * SECTION MARKERS:
-     * Use Ctrl+F to search for these tags to navigate the code:
-     * [SECTION 1] - Utilities & Error Handling
-     * [SECTION 2] - Game Constants
-     * [SECTION 3] - Player Class
-     * [SECTION 4] - Main Game Class
-     * [SECTION 5] - AI Logic
-     * [SECTION 6] - Game Flow Functions
-     * [SECTION 7] - User Interface Prompts
-     * [SECTION 8] - UI Rendering - Players & Cards
-     * [SECTION 9] - UI Rendering - Notebook
-     * [SECTION 10] - UI Rendering - Board
-     * [SECTION 11] - Game Initialization
-     * 
-     * ================================================================================ */
   </script>
   <script src="opinions-modal.js" onerror="(function(){['opinions-trigger','opinions-trigger-footer'].forEach(function(id){var b=document.getElementById(id);if(b)b.style.display='none';});})()"></script>
 </body>
-
 </html>
