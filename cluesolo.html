@@ -1,49 +1,5 @@
 <!doctype html>
 <html lang="en">
-<!--
-╔════════════════════════════════════════════════════════════════════════════╗
-║                        🔍 CLUE SOLO - v4.0.0                              ║
-║                     Human + AI Detective Board Game                        ║
-║                   Refactored Logic - Consistent Terminology                ║
-╚════════════════════════════════════════════════════════════════════════════╝
-
-📖 QUICK START GUIDE FOR NON-CODERS:
-
-1. OPENING THE GAME:
-   • Double-click this .html file to open it in your web browser
-   • Works best in Chrome, Firefox, or Edge (latest versions)
-
-2. FINDING THINGS IN THIS FILE:
-   • Open this file in a text editor (Notepad++, VS Code, or even Notepad)
-   • Press Ctrl+F (Windows) or Cmd+F (Mac) to search
-   • Search for section tags like "[SECTION 5]" to jump to specific parts
-
-3. COMMON CUSTOMIZATIONS:
-
-   🎨 CHANGE COLORS:
-      → Search for "COLOR CUSTOMIZATION" (around line 10)
-      → Edit hex color codes like #0f172a
-      → Use https://htmlcolorcodes.com/color-picker/ to pick colors
-
-   📝 CHANGE TEXT/LABELS:
-      → Search for the exact text you want to change
-      → Example: Search for "New Game" to change button text
-
-   🎲 ADJUST AI DIFFICULTY:
-      → Search for "[SECTION 5]" to find AI logic
-      → Look for difficulty settings (Easy, Medium, Hard)
-
-4. TROUBLESHOOTING:
-   • If game doesn't load: Press F12 to open browser console, check for errors
-   • If you broke something: Use Ctrl+Z to undo your last changes
-   • Keep a backup copy of this file before making changes!
-
-5. SAVING YOUR CHANGES:
-   • File → Save (or Ctrl+S)
-   • Refresh your browser (F5) to see changes
-
-═══════════════════════════════════════════════════════════════════════════════
--->
 
 <head>
   <meta charset="utf-8" />
@@ -59,65 +15,35 @@
   <meta property="og:type" content="website">
 
   <style>
-    /* ========================================================================
-   * COLOR CUSTOMIZATION
-   * ========================================================================
-   * Authentic Vintage Cluedo Board Theme
-   * Based on classic 1949-era Cluedo box design
-   * ======================================================================== */
     :root {
-      /* Authentic Cluedo Box Colors */
       --cluedo-red: #8B2E2B;
-      /* Main logo red */
       --cluedo-cream: #E2D5B6;
-      /* Banner background cream */
       --cluedo-charcoal: #262624;
-      /* Banner text charcoal */
       --cluedo-forest: #3F5E4A;
-      /* Forest border accent */
-
-      /* Main interface colors */
       --bg: #E2D5B6;
-      /* Cluedo banner cream as main background */
       --panel: #faf6ed;
-      /* Lighter cream for panels */
       --text: var(--cluedo-charcoal);
-      /* Dark charcoal for text */
       --muted: #5a5a58;
-      /* Grey for dimmed text */
       --accent: var(--cluedo-red);
-      /* Cluedo red accent */
       --bad: #6b1f1c;
-      /* Deep red for errors */
       --good: var(--cluedo-forest);
-      /* Cluedo forest for success */
       --warn: #d4a127;
-      /* Golden yellow for warnings */
       --border: var(--cluedo-red);
-      /* Red borders like box */
       --timber: var(--cluedo-charcoal);
-      /* Dark charcoal for strong accents */
       --gold: #d4a127;
-      /* Gold highlight */
       --cream: var(--cluedo-cream);
-      /* Cluedo cream */
-
-      /* ── Universal script token mappings ── */
       --ink: #0d0a07;
       --paper: #1a1510;
       --aged: #2a1f10;
       --rust: var(--cluedo-red);
       --faded: #9a8a6a;
       --rule: rgba(201, 151, 58, 0.3);
-
-      /* Guest colors - each guest has their own color */
       --gst-forest: #2D6A2D;
       --gst-brimstone: #C8A000;
       --gst-sapphire: #1A7FD4;
       --gst-lavender: #9966CC;
       --gst-rouge: #EE0000;
       --gst-weisse: #f0f0f0;
-      /* Treasure colors - each treasure has its own color */
       --tsr-portrait: #90C878;
       --tsr-ornaments: #E87820;
       --tsr-documents: #E8D9B0;
@@ -191,7 +117,6 @@
       border-color: rgba(201, 151, 58, 0.7);
     }
 
-    /* Hide fullscreen button on small screens (below 1200px) */
     @media (max-width: 1199px) {
       header .fullscreen-btn {
         display: none;
@@ -395,7 +320,6 @@
       align-content: flex-start;
     }
 
-    /* Reachable — gold pulse, cursor pointer */
     .room.reachable {
       border-color: rgba(201, 151, 58, 0.8);
       background: linear-gradient(135deg, #fffbef 0%, #fff5d0 100%);
@@ -416,14 +340,12 @@
       }
     }
 
-    /* Current location — subtle green tint */
     .room.here {
       border-color: rgba(45, 106, 45, 0.6);
       background: linear-gradient(135deg, #f4fbf4 0%, #eaf5ea 100%);
       box-shadow: 0 0 0 2px rgba(45, 106, 45, 0.2);
     }
 
-    /* Centre tile */
     .room.center {
       background: linear-gradient(135deg, #f5efe0 0%, #ede3ca 100%);
       border: 1px solid rgba(201, 151, 58, 0.5);
@@ -444,7 +366,6 @@
       border-color: rgba(100, 130, 180, 0.5);
     }
 
-    /* Hide old Move button — rooms are clickable */
     .room button {
       display: none;
     }
@@ -464,22 +385,17 @@
       box-shadow: inset 0 1px 3px rgba(13, 10, 7, 0.06)
     }
 
-    /* Ensure centre room-token doesn't inflate compared to other tokens */
     .room.center .tokens .token.room {
       line-height: 1.1;
       padding: 3px 7px;
     }
 
-    /* Container for each list (unchanged) */
     .checklistStack {
       display: grid;
       grid-template-columns: 1fr;
       gap: 10px
     }
 
-    /* ========================================================================
- * CLUE-STYLE DEDUCTION GRID
- * ======================================================================== */
     .clueGrid {
       width: 100%;
       border-collapse: collapse;
@@ -512,13 +428,11 @@
       text-align: center;
       background: #fff;
       height: 20px;
-      /* Reduced from 24px */
     }
 
     .clueGrid td.cardName {
       text-align: left;
       padding: 0px 0px;
-      /* Reduced padding */
       font-weight: 600;
       white-space: nowrap;
       background: linear-gradient(90deg, #faf5e8, #fff);
@@ -527,7 +441,6 @@
 
     .clueGrid td.notesRow {
       padding: 0px 0px;
-      /* Minimal padding */
       background: #fff8e7;
       height: auto;
     }
@@ -588,7 +501,6 @@
       border-bottom: 1px solid var(--border);
     }
 
-    /* Compact view for small screens */
     @media (max-width: 540px) {
       .clueGrid {
         font-size: 10px;
@@ -666,7 +578,6 @@
       }
     }
 
-    /* Token — emoji-only chip */
     .token {
       display: inline-flex;
       align-items: center;
@@ -695,7 +606,6 @@
       background: color-mix(in srgb, var(--token-color) 18%, #faf6ec);
     }
 
-    /* Hide the text label inside tokens — icon only */
     .token .ico {
       font-size: 20px;
       line-height: 1;
@@ -705,7 +615,6 @@
       display: none;
     }
 
-    /* Room token in centre tile — slightly different */
     .token.roomtok {
       width: auto;
       height: auto;
@@ -784,36 +693,25 @@
       line-height: 1;
     }
 
-    /* --- Mobile stacked layout for Rooms --- */
-    /* Mobile-only New Game button row in the right panel */
     .mobileNewGameRow {
       display: none;
-      /* hidden by default (desktop/tablet) */
       padding: 8px 10px 0 10px;
-      /* a little breathing room under the Casebook header */
     }
 
-    /* On small screens, move New Game from left panel to right panel */
     @media (max-width: 540px) {
       #btnNewGame {
-        /* hide the original always-visible button */
         display: none !important;
       }
 
       .mobileNewGameRow {
-        /* show the right-panel version */
         display: block;
       }
 
       #btnNewGameMobile {
         width: 100%;
-        /* big easy tap target */
       }
     }
 
-    /* ========================================================================
- * MODAL OVERLAY for critical confirmations
- * ======================================================================== */
     .modalOverlay {
       position: fixed;
       top: 0;
@@ -882,32 +780,26 @@
 
     @media (max-width: 540px) {
 
-      /* Turn the board into a simple stacked layout */
       .board {
         display: grid;
         gap: 12px;
         grid-template-columns: 1fr;
-        /* single column on mobile */
         grid-auto-rows: auto;
       }
 
-      /* Override the JS inline grid placement */
       .board .room {
         grid-column: auto !important;
         grid-row: auto !important;
         min-height: 120px;
       }
 
-      /* Center "Case File / Convicted" tile should also stack */
       .board .room.center {
         grid-column: auto !important;
         grid-row: auto !important;
       }
     }
 
-    /* ============================================================
-   GAME UI VISIBILITY
-   ============================================================ */
+
     #gameUI {
       display: none;
     }
@@ -916,9 +808,7 @@
       display: block;
     }
 
-    /* ============================================================
-   TITLE PAGE STYLES
-   ============================================================ */
+
     :root {
       --tp-ink: #0d0a07;
       --tp-gold: #c9973a;
@@ -1494,9 +1384,7 @@
       font-family: 'Cinzel', serif;
     }
 
-    /* ============================================================
-   ACCUSATION OVERLAY
-   ============================================================ */
+
     .acc-overlay {
       position: fixed;
       inset: 0;
@@ -1629,7 +1517,6 @@
       text-shadow: 0 0 60px rgba(232, 184, 75, 0.5), 0 2px 4px rgba(0, 0, 0, 0.8);
     }
 
-    /* The three accusation cards */
     .acc-cards {
       margin: 0 auto 28px;
       max-width: 480px;
@@ -1671,7 +1558,6 @@
       color: #7090b0;
     }
 
-    /* Verdict banner */
     .acc-verdict {
       font-family: 'Cinzel', serif;
       font-size: clamp(1rem, 3vw, 1.5rem);
@@ -1715,7 +1601,6 @@
       flex-wrap: wrap;
     }
 
-    /* Overlay buttons — override game button style */
     .acc-btn {
       font-family: 'Cinzel', serif !important;
       font-size: 11px !important;
@@ -1748,13 +1633,10 @@
       transform: translateY(-2px);
     }
 
-    /* Token entrance animation removed — caused flicker on every board redraw */
-    /* Room title icon hidden — text only, keep clean */
     .room .title .ico {
       display: none;
     }
 
-    /* Room watermark icons */
     .room[data-watermark] {
       overflow: hidden;
     }
@@ -1790,7 +1672,6 @@
     }
   </style>
   <script>
-    /* Title page functions — must be defined before the HTML buttons that call them */
     var tpState = { guest: null, diff: 'basic', opp: 2, observer: false };
     var tpResolveSetup = null;
 
@@ -1830,13 +1711,8 @@
 <body id="top">
   <div id="titlePages">
 
-    <div style="position:fixed;top:0;left:0;right:0;z-index:1001;padding:0.5rem 2.5rem;border-bottom:1px solid rgba(201,151,58,0.2);background:rgba(13,10,7,0.92);backdrop-filter:blur(4px);display:grid;grid-template-columns:1fr auto 1fr;align-items:center;">
-      <a href="index.html" style="font-family:'Inconsolata',monospace;font-size:0.72rem;letter-spacing:0.12em;text-transform:uppercase;color:#9a8a6a;text-decoration:none;opacity:0.85;transition:opacity 0.2s;">ADB</a>
-      <button id="opinions-trigger" style="grid-column:3;justify-self:end;font-family:'Inconsolata',monospace;font-size:0.72rem;letter-spacing:0.12em;text-transform:uppercase;color:#9a8a6a;background:none;border:none;padding:0;cursor:pointer;opacity:0.85;transition:opacity 0.2s;">Opinions?</button>
-    </div>
     <div style="height:2.8rem;"></div>
 
-    <!-- PAGE 1: THE STORY -->
     <div class="tp-page active" id="tpPage1">
       <div class="tp-masthead">
         <div class="tp-eyebrow">A Solo Mystery of Deduction</div>
@@ -2031,7 +1907,6 @@
       <div class="tp-foot">ClueSolo  ·  Hapless Hall</div>
     </div><!-- /#tpPage1 -->
 
-    <!-- PAGE 2: OPTIONS -->
     <div class="tp-page" id="tpPage2">
       <div class="tp-p2-head">
         <div class="tp-p2-char" id="tpCharDisplay">—</div>
