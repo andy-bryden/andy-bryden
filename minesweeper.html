@@ -489,7 +489,6 @@
       background: var(--border);
       align-self: stretch;
     }
-    
     .footer {
       flex-shrink: 0;
       font-size: clamp(8px, 1.8vw, 10px);
@@ -520,8 +519,7 @@
       <button class="diff-btn active" data-diff="beginner">BEGINNER<br><span class="diff-sub">9×9 · 10</span></button>
       <button class="diff-btn" data-diff="intermediate">INTER<br><span class="diff-sub">9×16 · 40</span></button>
       <button class="diff-btn" data-diff="expert">EXPERT<br><span class="diff-sub">11×20 · 55</span></button>
-      <button class="diff-btn" data-diff="custom" id="custom-btn">CUSTOM<br><span class="diff-sub"
-          id="custom-sub">—</span></button>
+      <button class="diff-btn" data-diff="custom" id="custom-btn">CUSTOM<br><span class="diff-sub" id="custom-sub">—</span></button>
     </div>
     <div class="custom-panel" id="custom-panel">
       <div class="custom-row">
@@ -718,7 +716,6 @@
       checkWin();
     }
     function triggerChainReaction(startR, startC) {
-      // Collect all mine positions, sorted by distance from trigger
       const mines = [];
       for (let rr = 0; rr < cfg.rows; rr++) for (let cc = 0; cc < cfg.cols; cc++) {
         if (board[rr][cc] === -1 && !(rr === startR && cc === startC)) {
@@ -727,16 +724,12 @@
         }
       }
       mines.sort((a, b) => a.dist - b.dist);
-
-      // Show wrong flags (flagged non-mines) immediately
       for (let rr = 0; rr < cfg.rows; rr++) for (let cc = 0; cc < cfg.cols; cc++) {
         if (flagged[rr][cc] && board[rr][cc] !== -1) {
           const e2 = cellEl(rr, cc); e2.className = 'cell revealed wrong-flag'; styleCell(e2);
           e2.style.fontSize = Math.max(9, Math.floor(cellSize * 0.46)) + 'px';
         }
       }
-
-      // Fan out explosions with staggered delays based on distance
       const BASE_DELAY = 80;
       const maxDist = mines.length ? mines[mines.length - 1].dist : 0;
       mines.forEach(({ r, c, dist, wasFlag }) => {
@@ -746,7 +739,6 @@
           flagged[r][c] = false;
           const el = cellEl(r, c);
           if (wasFlag) {
-            // Correctly flagged mine: black flag with amber glow, no explosion
             el.className = 'cell revealed correct-flag'; styleCell(el);
             el.style.fontSize = Math.max(9, Math.floor(cellSize * 0.46)) + 'px';
           } else {
@@ -754,8 +746,6 @@
           }
         }, delay);
       });
-
-      // Show lose state on reset button after all explosions have fired
       const totalDuration = mines.length > 0 ? (mines[mines.length - 1].dist / maxDist) * (mines.length * BASE_DELAY * 0.6) + 300 : 300;
       setTimeout(() => {
         resetBtn.textContent = 'PLAY AGAIN';
