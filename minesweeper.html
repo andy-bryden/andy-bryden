@@ -9,7 +9,6 @@
   <title>MINESWEEPER</title>
   <style>
     @import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&family=Orbitron:wght@400;700;900&display=swap');
-
     :root {
       --bg: #0a0e0a;
       --panel: #0f1a0f;
@@ -25,18 +24,15 @@
       --cell-border-light: #1f4a1f;
       --cell-border-dark: #040c04;
     }
-
     * {
       box-sizing: border-box;
       margin: 0;
       padding: 0;
       -webkit-tap-highlight-color: transparent;
     }
-
     html {
       height: 100%;
     }
-
     body {
       height: 100%;
       display: flex;
@@ -48,14 +44,11 @@
       background-image: repeating-linear-gradient(0deg, transparent, transparent 2px,
           rgba(0, 255, 65, 0.012) 2px, rgba(0, 255, 65, 0.012) 4px);
     }
-
-    /* ── HEADER ── */
     .header {
       text-align: center;
       padding: 10px 0 4px;
       flex-shrink: 0;
     }
-
     .title {
       font-family: 'Orbitron', monospace;
       font-size: clamp(18px, 5vw, 30px);
@@ -65,29 +58,22 @@
       text-shadow: 0 0 10px var(--glow), 0 0 28px var(--glow-dim);
       animation: flicker 8s infinite;
     }
-
     @keyframes flicker {
-
       0%,
       95%,
       100% {
         opacity: 1
       }
-
       96% {
         opacity: .8
       }
-
       97% {
         opacity: 1
       }
-
       98% {
         opacity: .9
       }
     }
-
-    /* ── TOP PANEL ── */
     .top-panel {
       flex-shrink: 0;
       padding: 6px 10px;
@@ -98,12 +84,10 @@
       max-width: 700px;
       align-self: center;
     }
-
     .difficulty-bar {
       display: flex;
       gap: 5px;
     }
-
     .diff-btn {
       flex: 1;
       font-family: 'Share Tech Mono', monospace;
@@ -119,20 +103,16 @@
       transition: all 0.1s;
       touch-action: manipulation;
     }
-
     .diff-btn.active {
       border-color: var(--glow);
       color: var(--glow);
       background: var(--glow-faint);
       box-shadow: 0 0 8px rgba(0, 255, 65, 0.2);
     }
-
     .diff-sub {
       opacity: .5;
       font-size: 9px;
     }
-
-    /* ── CUSTOM PANEL ── */
     .custom-panel {
       display: none;
       flex-direction: column;
@@ -142,29 +122,24 @@
       background: var(--cell-revealed);
       animation: slideDown 0.15s ease-out;
     }
-
     .custom-panel.open {
       display: flex;
     }
-
     @keyframes slideDown {
       from {
         opacity: 0;
         transform: translateY(-6px);
       }
-
       to {
         opacity: 1;
         transform: translateY(0);
       }
     }
-
     .custom-row {
       display: flex;
       align-items: center;
       gap: 10px;
     }
-
     .custom-label {
       font-size: 10px;
       letter-spacing: 0.15em;
@@ -172,7 +147,6 @@
       width: 56px;
       flex-shrink: 0;
     }
-
     .custom-slider {
       flex: 1;
       -webkit-appearance: none;
@@ -183,7 +157,6 @@
       cursor: pointer;
       touch-action: manipulation;
     }
-
     .custom-slider::-webkit-slider-thumb {
       -webkit-appearance: none;
       width: 18px;
@@ -193,7 +166,6 @@
       border: 1px solid var(--glow-dim);
       cursor: pointer;
     }
-
     .custom-slider::-moz-range-thumb {
       width: 18px;
       height: 18px;
@@ -202,7 +174,6 @@
       border: 1px solid var(--glow-dim);
       cursor: pointer;
     }
-
     .custom-val {
       font-family: 'Orbitron', monospace;
       font-size: 11px;
@@ -211,18 +182,15 @@
       text-align: right;
       flex-shrink: 0;
     }
-
     .custom-footer-row {
       justify-content: space-between;
       margin-top: 2px;
     }
-
     .custom-mine-preview {
       font-size: 10px;
       letter-spacing: 0.12em;
       color: var(--glow-dim);
     }
-
     .set-btn {
       font-family: 'Orbitron', monospace;
       font-size: 11px;
@@ -235,14 +203,11 @@
       touch-action: manipulation;
       transition: all 0.12s;
     }
-
     .set-btn:active {
       background: var(--glow-dim);
       color: var(--bg);
       border-color: var(--glow);
     }
-
-    /* ── STATUS BAR ── */
     .status-bar {
       display: flex;
       align-items: center;
@@ -251,7 +216,6 @@
       border: 1px solid var(--border);
       background: var(--cell-revealed);
     }
-
     .counter {
       font-family: 'Orbitron', monospace;
       font-size: clamp(16px, 5vw, 22px);
@@ -262,12 +226,10 @@
       text-shadow: 0 0 8px var(--red);
       letter-spacing: 0.05em;
     }
-
     .counter.timer {
       color: var(--glow);
       text-shadow: 0 0 8px var(--glow);
     }
-
     .reset-btn {
       font-family: 'Orbitron', monospace;
       font-size: 18px;
@@ -283,14 +245,11 @@
       transition: all 0.12s;
       touch-action: manipulation;
     }
-
     .reset-btn:active {
       border-color: var(--glow);
       color: var(--glow);
       transform: scale(0.93);
     }
-
-    /* ── GRID AREA ── */
     .grid-area {
       flex: 1;
       min-height: 0;
@@ -301,7 +260,6 @@
       width: 100%;
       overflow: hidden;
     }
-
     .grid-scroller {
       width: 100%;
       height: 100%;
@@ -312,7 +270,6 @@
       -webkit-overflow-scrolling: touch;
       position: relative;
     }
-
     #grid {
       display: inline-grid;
       gap: 2px;
@@ -323,7 +280,6 @@
       touch-action: none;
       flex-shrink: 0;
     }
-
     .cell {
       display: flex;
       align-items: center;
@@ -338,144 +294,114 @@
       color: transparent;
       cursor: pointer;
     }
-
     .cell.revealed {
       background: var(--cell-revealed);
       border-color: var(--cell-border-dark);
     }
-
     .cell.flagged::after {
       content: '⚑';
       color: var(--amber);
       text-shadow: 0 0 6px var(--amber);
     }
-
     .cell.mine-revealed::after {
       content: '◉';
       color: #cc2200;
     }
-
     .cell.wrong-flag::after {
       content: '✕';
       color: var(--red);
     }
-
     .cell.exploded {
       background: #3a0000 !important;
       animation: boom 0.3s ease-out;
     }
-
     .cell.exploded::after {
       content: '✸';
       color: var(--red);
       text-shadow: 0 0 10px var(--red);
     }
-
     @keyframes boom {
       0% {
         transform: scale(1)
       }
-
       50% {
         transform: scale(1.35)
       }
-
       100% {
         transform: scale(1)
       }
     }
-
     .cell.shake {
       animation: shake 0.35s ease-out;
     }
-
     @keyframes shake {
-
       0%,
       100% {
         transform: translateX(0)
       }
-
       20% {
         transform: translateX(-3px)
       }
-
       40% {
         transform: translateX(3px)
       }
-
       60% {
         transform: translateX(-2px)
       }
-
       80% {
         transform: translateX(2px)
       }
     }
-
     .cell.selected {
       border-color: var(--glow) !important;
       box-shadow: inset 0 0 8px rgba(0, 255, 65, 0.3);
       z-index: 1;
     }
-
     .cell.n1 {
       color: var(--glow);
       text-shadow: 0 0 5px var(--glow)
     }
-
     .cell.n2 {
       color: var(--blue);
       text-shadow: 0 0 5px var(--blue)
     }
-
     .cell.n3 {
       color: var(--red);
       text-shadow: 0 0 5px var(--red)
     }
-
     .cell.n4 {
       color: var(--amber);
       text-shadow: 0 0 5px var(--amber)
     }
-
     .cell.n5 {
       color: #ff6060;
       text-shadow: 0 0 5px #ff6060
     }
-
     .cell.n6 {
       color: #00ffd0;
       text-shadow: 0 0 5px #00ffd0
     }
-
     .cell.n7 {
       color: #d070ff;
       text-shadow: 0 0 5px #d070ff
     }
-
     .cell.n8 {
       color: #fff;
       text-shadow: 0 0 5px #fff
     }
-
     @keyframes cellIn {
       from {
         opacity: 0;
         transform: scale(0.8)
       }
-
       to {
         opacity: 1;
         transform: scale(1)
       }
     }
-
     .cell.just-revealed {
       animation: cellIn 0.1s ease-out forwards;
     }
-
-    /* ── POPOVER ── */
     #popover {
       position: fixed;
       display: none;
@@ -485,36 +411,29 @@
       border: 1px solid var(--glow-dim);
       box-shadow: 0 0 20px rgba(0, 255, 65, 0.35), 0 4px 12px rgba(0, 0, 0, 0.6);
     }
-
     #popover.visible {
       display: flex;
     }
-
-    /* arrow via a child element for reliable positioning */
     #pop-arrow {
       position: absolute;
       width: 0;
       height: 0;
       left: 50%;
-      /* overridden in JS */
       transform: translateX(-50%);
       pointer-events: none;
     }
-
     #pop-arrow.down {
       top: 100%;
       border-left: 7px solid transparent;
       border-right: 7px solid transparent;
       border-top: 7px solid var(--glow-dim);
     }
-
     #pop-arrow.up {
       bottom: 100%;
       border-left: 7px solid transparent;
       border-right: 7px solid transparent;
       border-bottom: 7px solid var(--glow-dim);
     }
-
     .pop-btn {
       font-family: 'Share Tech Mono', monospace;
       font-size: clamp(11px, 3vw, 13px);
@@ -528,19 +447,15 @@
       transition: all 0.1s;
       white-space: nowrap;
     }
-
     .pop-btn:active {
       background: var(--glow-faint);
       color: var(--glow);
     }
-
     .pop-divider {
       width: 1px;
       background: var(--border);
       align-self: stretch;
     }
-
-    /* ── OVERLAY ── */
     #overlay {
       display: none;
       position: absolute;
@@ -553,11 +468,9 @@
       z-index: 100;
       backdrop-filter: blur(2px);
     }
-
     #overlay.visible {
       display: flex;
     }
-
     .overlay-title {
       font-family: 'Orbitron', monospace;
       font-size: clamp(20px, 6vw, 32px);
@@ -565,17 +478,14 @@
       letter-spacing: 0.2em;
       text-align: center;
     }
-
     .overlay-title.win {
       color: var(--glow);
       text-shadow: 0 0 20px var(--glow);
     }
-
     .overlay-title.lose {
       color: var(--red);
       text-shadow: 0 0 20px var(--red);
     }
-
     .overlay-sub {
       font-size: clamp(10px, 2.5vw, 13px);
       letter-spacing: 0.2em;
@@ -583,7 +493,6 @@
       text-align: center;
       padding: 0 20px;
     }
-
     .overlay-btn {
       font-family: 'Orbitron', monospace;
       font-size: 12px;
@@ -598,12 +507,9 @@
       touch-action: manipulation;
       margin-top: 4px;
     }
-
     .overlay-btn:active {
       background: var(--glow-faint);
     }
-
-    /* ── FOOTER ── */
     .footer {
       flex-shrink: 0;
       font-size: clamp(8px, 1.8vw, 10px);
@@ -612,8 +518,6 @@
       text-align: center;
       padding: 4px 8px 8px;
     }
-
-    /* scanlines */
     body::after {
       content: '';
       position: fixed;
@@ -627,11 +531,9 @@
 </head>
 
 <body>
-
   <div class="header">
     <div class="title">MINESWEEPER</div>
   </div>
-
   <div class="top-panel">
     <div class="difficulty-bar">
       <button class="diff-btn active" data-diff="beginner">BEGINNER<br><span class="diff-sub">9×9 · 10</span></button>
@@ -667,7 +569,6 @@
       <div class="counter timer" id="timer">000</div>
     </div>
   </div>
-
   <div class="grid-area">
     <div class="grid-scroller" id="grid-scroller">
       <div id="grid"></div>
@@ -678,21 +579,16 @@
       </div>
     </div>
   </div>
-
   <div class="footer">
     TAP: OPTIONS &nbsp;·&nbsp; DOUBLE-TAP: REVEAL &nbsp;·&nbsp; HOLD: FLAG &nbsp;·&nbsp; DOUBLE-TAP #: CHORD
   </div>
-
-  <!-- Floating popover -->
   <div id="popover">
     <div id="pop-arrow"></div>
     <button class="pop-btn" id="pop-reveal">REVEAL</button>
     <div class="pop-divider"></div>
     <button class="pop-btn" id="pop-flag">FLAG</button>
   </div>
-
   <script>
-    // ── CONSTANTS ────────────────────────────────────────────
     const CONFIGS = {
       beginner: { cols: 9, rows: 9, mines: 10 },
       intermediate: { cols: 9, rows: 16, mines: 40 },
@@ -701,13 +597,9 @@
     };
     const LONG_PRESS_MS = 480;
     const DBL_TAP_MS = 280;
-
-    // ── STATE ────────────────────────────────────────────────
     let cfg, board, revealed, flagged, gameOver, started, timerInterval, elapsed;
     let difficulty = 'beginner';
     let cellSize = 32;
-
-    // touch tracking
     let lpTimer = null;
     let lastTapTime = 0;
     let lastTapKey = null;
@@ -715,8 +607,6 @@
     let touchStartX = 0;
     let touchStartY = 0;
     let popTarget = null; // {r,c}
-
-    // ── DOM ──────────────────────────────────────────────────
     const gridEl = document.getElementById('grid');
     const scroller = document.getElementById('grid-scroller');
     const mineCountEl = document.getElementById('mine-count');
@@ -727,8 +617,6 @@
     const overlaySub = document.getElementById('overlay-sub');
     const overlayBtn = document.getElementById('overlay-btn');
     const popover = document.getElementById('popover');
-
-    // ── CUSTOM PANEL ─────────────────────────────────────────
     const customPanel = document.getElementById('custom-panel');
     const slCols = document.getElementById('sl-cols');
     const slRows = document.getElementById('sl-rows');
@@ -739,11 +627,9 @@
     const minePreview = document.getElementById('mine-preview');
     const setBtn = document.getElementById('set-btn');
     const customSub = document.getElementById('custom-sub');
-
     function calcMines(cols, rows, pct) {
       return Math.max(1, Math.min(cols * rows - 9, Math.round(cols * rows * pct / 100)));
     }
-
     function updateCustomPreview() {
       const c = +slCols.value, r = +slRows.value, d = +slDens.value;
       valCols.textContent = c;
@@ -752,9 +638,7 @@
       const m = calcMines(c, r, d);
       minePreview.textContent = '≈ ' + m + ' mine' + (m !== 1 ? 's' : '');
     }
-
     [slCols, slRows, slDens].forEach(sl => sl.addEventListener('input', updateCustomPreview));
-
     setBtn.addEventListener('click', () => {
       const c = +slCols.value, r = +slRows.value, d = +slDens.value;
       const m = calcMines(c, r, d);
@@ -766,15 +650,11 @@
       customPanel.classList.remove('open');
       initGame();
     });
-
     updateCustomPreview();
     const popArrow = document.getElementById('pop-arrow');
     const popReveal = document.getElementById('pop-reveal');
     const popFlag = document.getElementById('pop-flag');
-
-    // ── UTILS ────────────────────────────────────────────────
     const fmt = n => String(Math.max(0, Math.min(999, n))).padStart(3, '0');
-
     function nbrs(r, c) {
       const res = [];
       for (let dr = -1; dr <= 1; dr++) for (let dc = -1; dc <= 1; dc++) {
@@ -784,10 +664,7 @@
       }
       return res;
     }
-
     function cellEl(r, c) { return gridEl.children[r * cfg.cols + c] || null; }
-
-    // ── SIZING ───────────────────────────────────────────────
     function computeSize() {
       const ga = document.querySelector('.grid-area');
       const avW = ga.clientWidth - 20;
@@ -796,8 +673,6 @@
       const byH = Math.floor((avH - (cfg.rows - 1) * 2) / cfg.rows);
       cellSize = Math.max(22, Math.min(42, byW, byH));
     }
-
-    // ── INIT ─────────────────────────────────────────────────
     function initGame() {
       cfg = CONFIGS[difficulty];
       board = Array(cfg.rows).fill(null).map(() => Array(cfg.cols).fill(0));
@@ -813,7 +688,6 @@
       computeSize();
       buildGrid();
     }
-
     function placeMines(sr, sc) {
       let p = 0;
       while (p < cfg.mines) {
@@ -827,8 +701,6 @@
           if (board[r][c] !== -1)
             board[r][c] = nbrs(r, c).filter(([nr, nc]) => board[nr][nc] === -1).length;
     }
-
-    // ── BUILD GRID ───────────────────────────────────────────
     function buildGrid() {
       const sz = cellSize + 'px';
       const fs = Math.max(9, Math.floor(cellSize * 0.42)) + 'px';
@@ -842,13 +714,11 @@
         gridEl.appendChild(el);
       }
     }
-
     function styleCell(el) {
       const sz = cellSize + 'px';
       const fs = Math.max(9, Math.floor(cellSize * 0.42)) + 'px';
       el.style.width = sz; el.style.height = sz; el.style.fontSize = fs;
     }
-
     function refreshCell(r, c, animate) {
       const el = cellEl(r, c); if (!el) return;
       el.className = 'cell';
@@ -865,15 +735,12 @@
         el.style.fontSize = Math.max(9, Math.floor(cellSize * 0.46)) + 'px';
       }
     }
-
-    // ── ACTIONS ──────────────────────────────────────────────
     function doReveal(r, c) {
       if (gameOver || revealed[r][c] || flagged[r][c]) return;
       if (!started) { placeMines(r, c); started = true; startTimer(); }
       revealCell(r, c);
       checkWin();
     }
-
     function revealCell(r, c) {
       if (revealed[r][c] || flagged[r][c]) return;
       revealed[r][c] = true;
@@ -899,13 +766,11 @@
       refreshCell(r, c, true);
       if (board[r][c] === 0) nbrs(r, c).forEach(([nr, nc]) => revealCell(nr, nc));
     }
-
     function doFlag(r, c) {
       if (gameOver || revealed[r][c]) return;
       flagged[r][c] = !flagged[r][c];
       updateMineCount(); refreshCell(r, c, false);
     }
-
     function doChord(r, c) {
       if (!revealed[r][c] || board[r][c] <= 0) return;
       const ns = nbrs(r, c);
@@ -919,13 +784,11 @@
         el.addEventListener('animationend', () => el.classList.remove('shake'), { once: true });
       }
     }
-
     function updateMineCount() {
       let f = 0;
       for (let r = 0; r < cfg.rows; r++) for (let c = 0; c < cfg.cols; c++) if (flagged[r][c]) f++;
       mineCountEl.textContent = fmt(cfg.mines - f);
     }
-
     function checkWin() {
       if (gameOver) return;
       let u = 0;
@@ -938,48 +801,32 @@
         overlay.classList.add('visible');
       }
     }
-
     function startTimer() {
       timerInterval = setInterval(() => { elapsed++; timerEl.textContent = fmt(elapsed); if (elapsed >= 999) clearInterval(timerInterval); }, 1000);
     }
-
-    // ── POPOVER ──────────────────────────────────────────────
     function showPopover(r, c) {
-      // Don't show for revealed or flagged cells
       if (revealed[r][c]) return;
       popTarget = { r, c };
       popFlag.textContent = flagged[r][c] ? 'UNFLAG' : 'FLAG';
-
-      // measure popover
       popover.style.visibility = 'hidden'; popover.classList.add('visible');
       const pw = popover.offsetWidth, ph = popover.offsetHeight;
       popover.classList.remove('visible'); popover.style.visibility = '';
-
       const el = cellEl(r, c);
       const rect = el.getBoundingClientRect();
       const gap = 10;
       const cellCX = rect.left + rect.width / 2;
-
-      // prefer above
       const above = rect.top >= ph + gap + 10;
       let top = above ? rect.top - ph - gap : rect.bottom + gap;
-
-      // clamp left so popover stays on screen
       let left = cellCX - pw / 2;
       left = Math.max(8, Math.min(window.innerWidth - pw - 8, left));
-
-      // position arrow over cell centre
       const arrowLeft = cellCX - left;
       popArrow.style.left = Math.max(10, Math.min(pw - 10, arrowLeft)) + 'px';
       popArrow.className = above ? 'down' : 'up';
-
       popover.style.left = left + 'px';
       popover.style.top = top + 'px';
       popover.classList.add('visible');
-
       el.classList.add('selected');
     }
-
     function hidePopover() {
       if (popTarget) {
         const el = cellEl(popTarget.r, popTarget.c);
@@ -988,19 +835,15 @@
       }
       popover.classList.remove('visible');
     }
-
     popReveal.addEventListener('pointerdown', e => { e.stopPropagation(); });
     popReveal.addEventListener('click', e => { e.stopPropagation(); if (!popTarget) return; const { r, c } = popTarget; hidePopover(); doReveal(r, c); });
     popFlag.addEventListener('pointerdown', e => { e.stopPropagation(); });
     popFlag.addEventListener('click', e => { e.stopPropagation(); if (!popTarget) return; const { r, c } = popTarget; hidePopover(); doFlag(r, c); });
-
-    // ── TOUCH HANDLING ───────────────────────────────────────
     function cellFromPoint(x, y) {
       const el = document.elementFromPoint(x, y);
       if (!el || !el.dataset.r) return null;
       return { r: +el.dataset.r, c: +el.dataset.c, el };
     }
-
     gridEl.addEventListener('touchstart', e => {
       if (popover.classList.contains('visible')) { hidePopover(); return; }
       if (e.touches.length !== 1) { cancelLP(); return; }
@@ -1017,35 +860,28 @@
         doFlag(hit.r, hit.c);
       }, LONG_PRESS_MS);
     }, { passive: false });
-
     gridEl.addEventListener('touchmove', e => {
       const t = e.touches[0];
       if (Math.abs(t.clientX - touchStartX) > 6 || Math.abs(t.clientY - touchStartY) > 6) {
         touchMoved = true; cancelLP();
       }
     }, { passive: true });
-
     gridEl.addEventListener('touchend', e => {
       e.preventDefault();
       const wasMoved = touchMoved;
       const hadLP = !lpTimer; // long press already fired if timer is null
       cancelLP();
       if (wasMoved) return;
-
-      // If long press already fired, eat this touchend
       if (hadLP && !wasMoved && (Date.now() - touchStartTime) >= LONG_PRESS_MS) {
         touchMoved = false; return;
       }
-
       const t = e.changedTouches[0];
       const hit = cellFromPoint(t.clientX, t.clientY);
       if (!hit) return;
-
       const now = Date.now();
       const key = hit.r + ',' + hit.c;
       const dt = now - lastTapTime;
       const dbl = dt < DBL_TAP_MS && lastTapKey === key;
-
       if (dbl) {
         lastTapTime = 0; lastTapKey = null;
         hidePopover();
@@ -1054,51 +890,37 @@
       } else {
         lastTapTime = now; lastTapKey = key;
         if (flagged[hit.r][hit.c]) {
-          // single tap on flagged: show popover so user can unflag
           showPopover(hit.r, hit.c);
         } else if (!revealed[hit.r][hit.c]) {
           showPopover(hit.r, hit.c);
         }
-        // single tap on revealed number: do nothing (wait for potential double-tap)
       }
       touchMoved = false;
     }, { passive: false });
-
     gridEl.addEventListener('touchcancel', () => { cancelLP(); touchMoved = false; }, { passive: true });
-
     let touchStartTime = 0;
     gridEl.addEventListener('touchstart', () => { touchStartTime = Date.now(); }, { passive: true });
-
     function cancelLP() { if (lpTimer) { clearTimeout(lpTimer); lpTimer = null; } }
-
-    // dismiss popover tapping outside
     document.addEventListener('click', e => {
       if (popover.classList.contains('visible') && !popover.contains(e.target) && !gridEl.contains(e.target)) hidePopover();
     });
-
-    // ── DESKTOP FALLBACK ─────────────────────────────────────
     gridEl.addEventListener('click', e => {
       if ('ontouchstart' in window) return; // touch devices handled above
       const el = e.target.closest('.cell'); if (!el) return;
       const r = +el.dataset.r, c = +el.dataset.c;
       if (revealed[r][c]) doChord(r, c); else doReveal(r, c);
     });
-
     gridEl.addEventListener('contextmenu', e => {
       e.preventDefault();
       const el = e.target.closest('.cell'); if (!el) return;
       doFlag(+el.dataset.r, +el.dataset.c);
     });
-
-    // ── CONTROLS ─────────────────────────────────────────────
     resetBtn.addEventListener('click', initGame);
     overlayBtn.addEventListener('click', initGame);
-
     document.querySelectorAll('.diff-btn').forEach(btn => {
       btn.addEventListener('click', () => {
         const diff = btn.dataset.diff;
         if (diff === 'custom') {
-          // toggle panel without starting game
           document.querySelectorAll('.diff-btn').forEach(b => b.classList.remove('active'));
           btn.classList.add('active');
           customPanel.classList.toggle('open');
@@ -1111,10 +933,7 @@
         initGame();
       });
     });
-
     window.addEventListener('resize', () => { hidePopover(); computeSize(); buildGrid(); });
-
-    // ── START ────────────────────────────────────────────────
     initGame();
   </script>
 </body>
