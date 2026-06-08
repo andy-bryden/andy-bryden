@@ -10,19 +10,19 @@
   <style>
     @import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&family=Orbitron:wght@400;700;900&display=swap');
     :root {
-      --bg: #0a0e0a;
-      --panel: #0f1a0f;
-      --border: #1a3a1a;
+      --bg: #050508;
+      --panel: #08080f;
+      --border: #00ff4199;
       --glow: #00ff41;
-      --glow-dim: #007a1f;
-      --glow-faint: #003d10;
-      --amber: #ffb300;
-      --red: #ff2d2d;
-      --blue: #00cfff;
-      --cell-bg: #0d1f0d;
-      --cell-revealed: #081408;
-      --cell-border-light: #1f4a1f;
-      --cell-border-dark: #040c04;
+      --glow-dim: #00ff41bb;
+      --glow-faint: #00ff4177;
+      --amber: #ffcc00;
+      --red: #ff1744;
+      --blue: #00e5ff;
+      --cell-bg: #0d3318;
+      --cell-revealed: #020805;
+      --cell-border-light: #00ff4188;
+      --cell-border-dark: #001a08;
     }
     * {
       box-sizing: border-box;
@@ -55,7 +55,7 @@
       font-weight: 900;
       letter-spacing: 0.15em;
       color: var(--glow);
-      text-shadow: 0 0 10px var(--glow), 0 0 28px var(--glow-dim);
+      text-shadow: 0 0 10px var(--glow), 0 0 30px var(--glow), 0 0 60px var(--glow);
       animation: flicker 8s infinite;
     }
     @keyframes flicker {
@@ -107,10 +107,10 @@
       border-color: var(--glow);
       color: var(--glow);
       background: var(--glow-faint);
-      box-shadow: 0 0 8px rgba(0, 255, 65, 0.2);
+      box-shadow: 0 0 12px rgba(0, 255, 65, 0.5), inset 0 0 8px rgba(0, 255, 65, 0.1);
     }
     .diff-sub {
-      opacity: .5;
+      opacity: .75;
       font-size: 9px;
     }
     .custom-panel {
@@ -223,12 +223,12 @@
       min-width: 50px;
       text-align: center;
       color: var(--red);
-      text-shadow: 0 0 8px var(--red);
+      text-shadow: 0 0 8px var(--red), 0 0 20px var(--red), 0 0 40px var(--red);
       letter-spacing: 0.05em;
     }
     .counter.timer {
       color: var(--glow);
-      text-shadow: 0 0 8px var(--glow);
+      text-shadow: 0 0 8px var(--glow), 0 0 20px var(--glow), 0 0 40px var(--glow);
     }
     .reset-btn {
       font-family: 'Orbitron', monospace;
@@ -244,11 +244,35 @@
       justify-content: center;
       transition: all 0.12s;
       touch-action: manipulation;
+      white-space: nowrap;
+      overflow: hidden;
+    }
+    .reset-btn.lose {
+      width: auto;
+      padding: 0 14px;
+      font-size: clamp(9px, 2.5vw, 11px);
+      letter-spacing: 0.12em;
+      color: var(--red);
+      border-color: var(--red);
+      box-shadow: 0 0 10px rgba(255,23,68,0.4);
+    }
+    .reset-btn.win {
+      width: auto;
+      padding: 0 14px;
+      font-size: clamp(9px, 2.5vw, 11px);
+      letter-spacing: 0.12em;
+      color: var(--glow);
+      border-color: var(--glow);
+      box-shadow: 0 0 10px rgba(0,255,65,0.4);
     }
     .reset-btn:active {
       border-color: var(--glow);
       color: var(--glow);
       transform: scale(0.93);
+    }
+    .reset-btn.lose:active {
+      border-color: var(--red);
+      color: var(--red);
     }
     .grid-area {
       flex: 1;
@@ -287,25 +311,34 @@
       font-family: 'Orbitron', monospace;
       font-weight: 700;
       background: var(--cell-bg);
-      border: 1px solid var(--cell-border-light);
-      border-right-color: var(--cell-border-dark);
-      border-bottom-color: var(--cell-border-dark);
+      border-top: 1px solid #00ff4166;
+      border-left: 1px solid #00ff4166;
+      border-right: 1px solid #001a08;
+      border-bottom: 1px solid #001a08;
+      box-shadow: inset 0 0 6px rgba(0,255,65,0.08);
       position: relative;
       color: transparent;
       cursor: pointer;
     }
     .cell.revealed {
       background: var(--cell-revealed);
-      border-color: var(--cell-border-dark);
+      border: 1px solid #00ff4118;
+      box-shadow: inset 0 1px 3px rgba(0,0,0,0.8);
     }
     .cell.flagged::after {
       content: '⚑';
       color: var(--red);
-      text-shadow: 0 0 6px var(--red);
+      text-shadow: 0 0 8px var(--red), 0 0 20px var(--red);
     }
     .cell.mine-revealed::after {
       content: '◉';
-      color: #cc2200;
+      color: #ff1744;
+      text-shadow: 0 0 8px #ff1744, 0 0 20px #ff1744;
+    }
+    .cell.correct-flag::after {
+      content: '⚑';
+      color: #0a0500;
+      text-shadow: 0 0 8px var(--amber), 0 0 20px var(--amber), 0 0 40px var(--amber);
     }
     .cell.wrong-flag::after {
       content: '✕';
@@ -318,7 +351,7 @@
     .cell.exploded::after {
       content: '✸';
       color: var(--red);
-      text-shadow: 0 0 10px var(--red);
+      text-shadow: 0 0 12px var(--red), 0 0 30px var(--red), 0 0 60px var(--red);
     }
     @keyframes boom {
       0% {
@@ -358,36 +391,36 @@
       z-index: 1;
     }
     .cell.n1 {
-      color: var(--glow);
-      text-shadow: 0 0 5px var(--glow)
+      color: #00ff41;
+      text-shadow: 0 0 6px #00ff41, 0 0 18px #00ff41
     }
     .cell.n2 {
-      color: var(--blue);
-      text-shadow: 0 0 5px var(--blue)
+      color: #00e5ff;
+      text-shadow: 0 0 6px #00e5ff, 0 0 18px #00e5ff
     }
     .cell.n3 {
-      color: var(--red);
-      text-shadow: 0 0 5px var(--red)
+      color: #ff1744;
+      text-shadow: 0 0 6px #ff1744, 0 0 18px #ff1744
     }
     .cell.n4 {
-      color: var(--amber);
-      text-shadow: 0 0 5px var(--amber)
+      color: #ffcc00;
+      text-shadow: 0 0 6px #ffcc00, 0 0 18px #ffcc00
     }
     .cell.n5 {
-      color: #ff6060;
-      text-shadow: 0 0 5px #ff6060
+      color: #ff6d00;
+      text-shadow: 0 0 6px #ff6d00, 0 0 18px #ff6d00
     }
     .cell.n6 {
       color: #00ffd0;
-      text-shadow: 0 0 5px #00ffd0
+      text-shadow: 0 0 6px #00ffd0, 0 0 18px #00ffd0
     }
     .cell.n7 {
-      color: #d070ff;
-      text-shadow: 0 0 5px #d070ff
+      color: #ea00ff;
+      text-shadow: 0 0 6px #ea00ff, 0 0 18px #ea00ff
     }
     .cell.n8 {
       color: #fff;
-      text-shadow: 0 0 5px #fff
+      text-shadow: 0 0 6px #fff, 0 0 18px #fff
     }
     @keyframes cellIn {
       from {
@@ -456,60 +489,7 @@
       background: var(--border);
       align-self: stretch;
     }
-    #overlay {
-      display: none;
-      position: absolute;
-      inset: 0;
-      background: rgba(10, 14, 10, 0.9);
-      flex-direction: column;
-      align-items: center;
-      justify-content: center;
-      gap: 12px;
-      z-index: 100;
-      backdrop-filter: blur(2px);
-    }
-    #overlay.visible {
-      display: flex;
-    }
-    .overlay-title {
-      font-family: 'Orbitron', monospace;
-      font-size: clamp(20px, 6vw, 32px);
-      font-weight: 900;
-      letter-spacing: 0.2em;
-      text-align: center;
-    }
-    .overlay-title.win {
-      color: var(--glow);
-      text-shadow: 0 0 20px var(--glow);
-    }
-    .overlay-title.lose {
-      color: var(--red);
-      text-shadow: 0 0 20px var(--red);
-    }
-    .overlay-sub {
-      font-size: clamp(10px, 2.5vw, 13px);
-      letter-spacing: 0.2em;
-      color: var(--glow-dim);
-      text-align: center;
-      padding: 0 20px;
-    }
-    .overlay-btn {
-      font-family: 'Orbitron', monospace;
-      font-size: 12px;
-      letter-spacing: 0.2em;
-      padding: 13px 36px;
-      background: transparent;
-      border: 1px solid var(--glow);
-      color: var(--glow);
-      cursor: pointer;
-      text-transform: uppercase;
-      box-shadow: 0 0 12px rgba(0, 255, 65, 0.2);
-      touch-action: manipulation;
-      margin-top: 4px;
-    }
-    .overlay-btn:active {
-      background: var(--glow-faint);
-    }
+    
     .footer {
       flex-shrink: 0;
       font-size: clamp(8px, 1.8vw, 10px);
@@ -517,6 +497,7 @@
       letter-spacing: 0.1em;
       text-align: center;
       padding: 4px 8px 8px;
+      opacity: 0.8;
     }
     body::after {
       content: '';
@@ -572,11 +553,6 @@
   <div class="grid-area">
     <div class="grid-scroller" id="grid-scroller">
       <div id="grid"></div>
-      <div id="overlay">
-        <div class="overlay-title" id="overlay-title">FIELD CLEARED</div>
-        <div class="overlay-sub" id="overlay-sub">ALL MINES NEUTRALIZED</div>
-        <button class="overlay-btn" id="overlay-btn">PLAY AGAIN</button>
-      </div>
     </div>
   </div>
   <div class="footer">
@@ -612,10 +588,10 @@
     const mineCountEl = document.getElementById('mine-count');
     const timerEl = document.getElementById('timer');
     const resetBtn = document.getElementById('reset-btn');
-    const overlay = document.getElementById('overlay');
-    const overlayTitle = document.getElementById('overlay-title');
-    const overlaySub = document.getElementById('overlay-sub');
-    const overlayBtn = document.getElementById('overlay-btn');
+    const overlay = null; // removed
+    const overlayTitle = null;
+    const overlaySub = null;
+    const overlayBtn = null;
     const popover = document.getElementById('popover');
     const customPanel = document.getElementById('custom-panel');
     const slCols = document.getElementById('sl-cols');
@@ -683,7 +659,7 @@
       timerEl.textContent = '000';
       mineCountEl.textContent = fmt(cfg.mines);
       resetBtn.textContent = '◈';
-      overlay.classList.remove('visible');
+      resetBtn.className = 'reset-btn';
       hidePopover();
       computeSize();
       buildGrid();
@@ -741,26 +717,59 @@
       revealCell(r, c);
       checkWin();
     }
+    function triggerChainReaction(startR, startC) {
+      // Collect all mine positions, sorted by distance from trigger
+      const mines = [];
+      for (let rr = 0; rr < cfg.rows; rr++) for (let cc = 0; cc < cfg.cols; cc++) {
+        if (board[rr][cc] === -1 && !(rr === startR && cc === startC)) {
+          const dist = Math.abs(rr - startR) + Math.abs(cc - startC);
+          mines.push({ r: rr, c: cc, dist, wasFlag: flagged[rr][cc] });
+        }
+      }
+      mines.sort((a, b) => a.dist - b.dist);
+
+      // Show wrong flags (flagged non-mines) immediately
+      for (let rr = 0; rr < cfg.rows; rr++) for (let cc = 0; cc < cfg.cols; cc++) {
+        if (flagged[rr][cc] && board[rr][cc] !== -1) {
+          const e2 = cellEl(rr, cc); e2.className = 'cell revealed wrong-flag'; styleCell(e2);
+          e2.style.fontSize = Math.max(9, Math.floor(cellSize * 0.46)) + 'px';
+        }
+      }
+
+      // Fan out explosions with staggered delays based on distance
+      const BASE_DELAY = 80;
+      const maxDist = mines.length ? mines[mines.length - 1].dist : 0;
+      mines.forEach(({ r, c, dist, wasFlag }) => {
+        const delay = maxDist > 0 ? (dist / maxDist) * (mines.length * BASE_DELAY * 0.6) + Math.random() * 60 : 0;
+        setTimeout(() => {
+          revealed[r][c] = true;
+          flagged[r][c] = false;
+          const el = cellEl(r, c);
+          if (wasFlag) {
+            // Correctly flagged mine: black flag with amber glow, no explosion
+            el.className = 'cell revealed correct-flag'; styleCell(el);
+            el.style.fontSize = Math.max(9, Math.floor(cellSize * 0.46)) + 'px';
+          } else {
+            el.className = 'cell revealed exploded'; styleCell(el);
+          }
+        }, delay);
+      });
+
+      // Show lose state on reset button after all explosions have fired
+      const totalDuration = mines.length > 0 ? (mines[mines.length - 1].dist / maxDist) * (mines.length * BASE_DELAY * 0.6) + 300 : 300;
+      setTimeout(() => {
+        resetBtn.textContent = 'PLAY AGAIN';
+        resetBtn.className = 'reset-btn lose';
+      }, totalDuration + 200);
+    }
     function revealCell(r, c) {
       if (revealed[r][c] || flagged[r][c]) return;
       revealed[r][c] = true;
       if (board[r][c] === -1) {
         gameOver = true; clearInterval(timerInterval);
-        resetBtn.textContent = '✕';
         const el = cellEl(r, c);
         el.className = 'cell revealed exploded'; styleCell(el);
-        setTimeout(() => {
-          for (let rr = 0; rr < cfg.rows; rr++) for (let cc = 0; cc < cfg.cols; cc++) {
-            if (board[rr][cc] === -1 && !(rr === r && cc === c) && !flagged[rr][cc]) { revealed[rr][cc] = true; refreshCell(rr, cc, false); }
-            if (flagged[rr][cc] && board[rr][cc] !== -1) {
-              const e2 = cellEl(rr, cc); e2.className = 'cell revealed wrong-flag'; styleCell(e2);
-              e2.style.fontSize = Math.max(9, Math.floor(cellSize * 0.46)) + 'px';
-            }
-          }
-          overlayTitle.textContent = 'DETONATION'; overlayTitle.className = 'overlay-title lose';
-          overlaySub.textContent = `MISSION FAILED · ${elapsed}s`;
-          overlay.classList.add('visible');
-        }, 600);
+        setTimeout(() => triggerChainReaction(r, c), 200);
         return;
       }
       refreshCell(r, c, true);
@@ -795,10 +804,8 @@
       for (let r = 0; r < cfg.rows; r++) for (let c = 0; c < cfg.cols; c++) if (!revealed[r][c]) u++;
       if (u === cfg.mines) {
         gameOver = true; clearInterval(timerInterval);
-        resetBtn.textContent = '✓';
-        overlayTitle.textContent = 'FIELD CLEARED'; overlayTitle.className = 'overlay-title win';
-        overlaySub.textContent = `ALL MINES NEUTRALIZED · ${elapsed}s`;
-        overlay.classList.add('visible');
+        resetBtn.textContent = 'PLAY AGAIN';
+        resetBtn.className = 'reset-btn win';
       }
     }
     function startTimer() {
@@ -916,7 +923,6 @@
       doFlag(+el.dataset.r, +el.dataset.c);
     });
     resetBtn.addEventListener('click', initGame);
-    overlayBtn.addEventListener('click', initGame);
     document.querySelectorAll('.diff-btn').forEach(btn => {
       btn.addEventListener('click', () => {
         const diff = btn.dataset.diff;
