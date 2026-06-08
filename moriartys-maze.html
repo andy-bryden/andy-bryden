@@ -5791,12 +5791,12 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
       m.classList.add('on');
       document.getElementById('modal-title').textContent = 'Rules of the Chase';
       document.getElementById('modal-body').innerHTML =
-        '<strong>Moriarty</strong> makes 24 moves. Detectives win by landing on his station, or surrounding him completely. Moriarty wins by surviving.<br><br>' +
-        '<strong>No sharing:</strong> two detectives cannot occupy the same station.<br><br>' +
-        '<strong>Reveals</strong> at moves 3, 8, 13, 18, 24 — glowing cells on the ticket strip.<br><br>' +
-        '<strong>Heavy Fog</strong> (5) — hides transport; required for Riverboat. Strip shows 🌫.<br><br>' +
-        '<strong>Double Bluff</strong> (2) — two moves in one turn, grouped on the strip with a gold bracket.<br><br>' +
-        '<strong>Transport:</strong> 🐴 Hansom Cab · 🚃 Omnibus · 🚂 Underground · ⚓ Riverboat';
+        '<strong>Moriarty</strong> makes 24 moves. Detectives win by landing on his station, or surrounding him completely. Moriarty wins by surviving.<br>' +
+        '<strong>No sharing:</strong> two detectives cannot occupy the same station.<br>' +
+        '<strong>Reveals</strong> at moves 3, 8, 13, 18, 24 — glowing cells on the ticket strip.<br>' +
+        '<strong>Heavy Fog</strong> (5) — hides transport; required for Riverboat. Strip shows 🌫.<br>' +
+        '<strong>Double Bluff</strong> (2) — two moves in one turn, grouped on the strip with a gold bracket.<br>' +
+        '<strong>Transport:</strong><br>· 🐴 Hansom Cab<br>· 🚃 Omnibus<br>· 🚂 Underground<br>· ⚓ Riverboat';
       document.getElementById('modal-acts').innerHTML =
         '<button class="modal-btn" onclick="closeModal()">Understood</button>';
       _curtainDrop(m);
