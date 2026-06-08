@@ -9,6 +9,7 @@
   <title>MINESWEEPER</title>
   <style>
     @import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&family=Orbitron:wght@400;700;900&display=swap');
+
     :root {
       --bg: #050508;
       --panel: #08080f;
@@ -24,15 +25,18 @@
       --cell-border-light: #00ff4188;
       --cell-border-dark: #001a08;
     }
+
     * {
       box-sizing: border-box;
       margin: 0;
       padding: 0;
       -webkit-tap-highlight-color: transparent;
     }
+
     html {
       height: 100%;
     }
+
     body {
       height: 100%;
       display: flex;
@@ -44,11 +48,13 @@
       background-image: repeating-linear-gradient(0deg, transparent, transparent 2px,
           rgba(0, 255, 65, 0.012) 2px, rgba(0, 255, 65, 0.012) 4px);
     }
+
     .header {
       text-align: center;
       padding: 10px 0 4px;
       flex-shrink: 0;
     }
+
     .title {
       font-family: 'Orbitron', monospace;
       font-size: clamp(18px, 5vw, 30px);
@@ -58,22 +64,28 @@
       text-shadow: 0 0 10px var(--glow), 0 0 30px var(--glow), 0 0 60px var(--glow);
       animation: flicker 8s infinite;
     }
+
     @keyframes flicker {
+
       0%,
       95%,
       100% {
         opacity: 1
       }
+
       96% {
         opacity: .8
       }
+
       97% {
         opacity: 1
       }
+
       98% {
         opacity: .9
       }
     }
+
     .top-panel {
       flex-shrink: 0;
       padding: 6px 10px;
@@ -84,10 +96,12 @@
       max-width: 700px;
       align-self: center;
     }
+
     .difficulty-bar {
       display: flex;
       gap: 5px;
     }
+
     .diff-btn {
       flex: 1;
       font-family: 'Share Tech Mono', monospace;
@@ -103,16 +117,19 @@
       transition: all 0.1s;
       touch-action: manipulation;
     }
+
     .diff-btn.active {
       border-color: var(--glow);
       color: var(--glow);
       background: var(--glow-faint);
       box-shadow: 0 0 12px rgba(0, 255, 65, 0.5), inset 0 0 8px rgba(0, 255, 65, 0.1);
     }
+
     .diff-sub {
       opacity: .75;
       font-size: 9px;
     }
+
     .custom-panel {
       display: none;
       flex-direction: column;
@@ -122,24 +139,29 @@
       background: var(--cell-revealed);
       animation: slideDown 0.15s ease-out;
     }
+
     .custom-panel.open {
       display: flex;
     }
+
     @keyframes slideDown {
       from {
         opacity: 0;
         transform: translateY(-6px);
       }
+
       to {
         opacity: 1;
         transform: translateY(0);
       }
     }
+
     .custom-row {
       display: flex;
       align-items: center;
       gap: 10px;
     }
+
     .custom-label {
       font-size: 10px;
       letter-spacing: 0.15em;
@@ -147,6 +169,7 @@
       width: 56px;
       flex-shrink: 0;
     }
+
     .custom-slider {
       flex: 1;
       -webkit-appearance: none;
@@ -157,6 +180,7 @@
       cursor: pointer;
       touch-action: manipulation;
     }
+
     .custom-slider::-webkit-slider-thumb {
       -webkit-appearance: none;
       width: 18px;
@@ -166,6 +190,7 @@
       border: 1px solid var(--glow-dim);
       cursor: pointer;
     }
+
     .custom-slider::-moz-range-thumb {
       width: 18px;
       height: 18px;
@@ -174,6 +199,7 @@
       border: 1px solid var(--glow-dim);
       cursor: pointer;
     }
+
     .custom-val {
       font-family: 'Orbitron', monospace;
       font-size: 11px;
@@ -182,15 +208,18 @@
       text-align: right;
       flex-shrink: 0;
     }
+
     .custom-footer-row {
       justify-content: space-between;
       margin-top: 2px;
     }
+
     .custom-mine-preview {
       font-size: 10px;
       letter-spacing: 0.12em;
       color: var(--glow-dim);
     }
+
     .set-btn {
       font-family: 'Orbitron', monospace;
       font-size: 11px;
@@ -203,11 +232,13 @@
       touch-action: manipulation;
       transition: all 0.12s;
     }
+
     .set-btn:active {
       background: var(--glow-dim);
       color: var(--bg);
       border-color: var(--glow);
     }
+
     .status-bar {
       display: flex;
       align-items: center;
@@ -216,6 +247,7 @@
       border: 1px solid var(--border);
       background: var(--cell-revealed);
     }
+
     .counter {
       font-family: 'Orbitron', monospace;
       font-size: clamp(16px, 5vw, 22px);
@@ -226,10 +258,12 @@
       text-shadow: 0 0 8px var(--red), 0 0 20px var(--red), 0 0 40px var(--red);
       letter-spacing: 0.05em;
     }
+
     .counter.timer {
       color: var(--glow);
       text-shadow: 0 0 8px var(--glow), 0 0 20px var(--glow), 0 0 40px var(--glow);
     }
+
     .reset-btn {
       font-family: 'Orbitron', monospace;
       font-size: 18px;
@@ -247,6 +281,7 @@
       white-space: nowrap;
       overflow: hidden;
     }
+
     .reset-btn.lose {
       width: auto;
       padding: 0 14px;
@@ -254,8 +289,9 @@
       letter-spacing: 0.12em;
       color: var(--red);
       border-color: var(--red);
-      box-shadow: 0 0 10px rgba(255,23,68,0.4);
+      box-shadow: 0 0 10px rgba(255, 23, 68, 0.4);
     }
+
     .reset-btn.win {
       width: auto;
       padding: 0 14px;
@@ -263,17 +299,20 @@
       letter-spacing: 0.12em;
       color: var(--glow);
       border-color: var(--glow);
-      box-shadow: 0 0 10px rgba(0,255,65,0.4);
+      box-shadow: 0 0 10px rgba(0, 255, 65, 0.4);
     }
+
     .reset-btn:active {
       border-color: var(--glow);
       color: var(--glow);
       transform: scale(0.93);
     }
+
     .reset-btn.lose:active {
       border-color: var(--red);
       color: var(--red);
     }
+
     .grid-area {
       flex: 1;
       min-height: 0;
@@ -284,6 +323,7 @@
       width: 100%;
       overflow: hidden;
     }
+
     .grid-scroller {
       width: 100%;
       height: 100%;
@@ -294,6 +334,7 @@
       -webkit-overflow-scrolling: touch;
       position: relative;
     }
+
     #grid {
       display: inline-grid;
       gap: 2px;
@@ -304,6 +345,7 @@
       touch-action: none;
       flex-shrink: 0;
     }
+
     .cell {
       display: flex;
       align-items: center;
@@ -315,126 +357,156 @@
       border-left: 1px solid #00ff4166;
       border-right: 1px solid #001a08;
       border-bottom: 1px solid #001a08;
-      box-shadow: inset 0 0 6px rgba(0,255,65,0.08);
+      box-shadow: inset 0 0 6px rgba(0, 255, 65, 0.08);
       position: relative;
       color: transparent;
       cursor: pointer;
     }
+
     .cell.revealed {
       background: var(--cell-revealed);
       border: 1px solid #00ff4118;
-      box-shadow: inset 0 1px 3px rgba(0,0,0,0.8);
+      box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.8);
     }
+
     .cell.flagged::after {
       content: '⚑';
       color: var(--red);
       text-shadow: 0 0 8px var(--red), 0 0 20px var(--red);
     }
+
     .cell.mine-revealed::after {
       content: '◉';
       color: #ff1744;
       text-shadow: 0 0 8px #ff1744, 0 0 20px #ff1744;
     }
+
     .cell.correct-flag::after {
       content: '⚑';
       color: #0a0500;
       text-shadow: 0 0 8px var(--amber), 0 0 20px var(--amber), 0 0 40px var(--amber);
     }
+
     .cell.wrong-flag::after {
       content: '✕';
       color: var(--red);
     }
+
     .cell.exploded {
       background: #3a0000 !important;
       animation: boom 0.3s ease-out;
     }
+
     .cell.exploded::after {
       content: '✸';
       color: var(--red);
       text-shadow: 0 0 12px var(--red), 0 0 30px var(--red), 0 0 60px var(--red);
     }
+
     @keyframes boom {
       0% {
         transform: scale(1)
       }
+
       50% {
         transform: scale(1.35)
       }
+
       100% {
         transform: scale(1)
       }
     }
+
     .cell.shake {
       animation: shake 0.35s ease-out;
     }
+
     @keyframes shake {
+
       0%,
       100% {
         transform: translateX(0)
       }
+
       20% {
         transform: translateX(-3px)
       }
+
       40% {
         transform: translateX(3px)
       }
+
       60% {
         transform: translateX(-2px)
       }
+
       80% {
         transform: translateX(2px)
       }
     }
+
     .cell.selected {
       border-color: var(--glow) !important;
       box-shadow: inset 0 0 8px rgba(0, 255, 65, 0.3);
       z-index: 1;
     }
+
     .cell.n1 {
       color: #00ff41;
       text-shadow: 0 0 6px #00ff41, 0 0 18px #00ff41
     }
+
     .cell.n2 {
       color: #00e5ff;
       text-shadow: 0 0 6px #00e5ff, 0 0 18px #00e5ff
     }
+
     .cell.n3 {
       color: #ff1744;
       text-shadow: 0 0 6px #ff1744, 0 0 18px #ff1744
     }
+
     .cell.n4 {
       color: #ffcc00;
       text-shadow: 0 0 6px #ffcc00, 0 0 18px #ffcc00
     }
+
     .cell.n5 {
       color: #ff6d00;
       text-shadow: 0 0 6px #ff6d00, 0 0 18px #ff6d00
     }
+
     .cell.n6 {
       color: #00ffd0;
       text-shadow: 0 0 6px #00ffd0, 0 0 18px #00ffd0
     }
+
     .cell.n7 {
       color: #ea00ff;
       text-shadow: 0 0 6px #ea00ff, 0 0 18px #ea00ff
     }
+
     .cell.n8 {
       color: #fff;
       text-shadow: 0 0 6px #fff, 0 0 18px #fff
     }
+
     @keyframes cellIn {
       from {
         opacity: 0;
         transform: scale(0.8)
       }
+
       to {
         opacity: 1;
         transform: scale(1)
       }
     }
+
     .cell.just-revealed {
       animation: cellIn 0.1s ease-out forwards;
     }
+
     #popover {
       position: fixed;
       display: none;
@@ -444,9 +516,11 @@
       border: 1px solid var(--glow-dim);
       box-shadow: 0 0 20px rgba(0, 255, 65, 0.35), 0 4px 12px rgba(0, 0, 0, 0.6);
     }
+
     #popover.visible {
       display: flex;
     }
+
     #pop-arrow {
       position: absolute;
       width: 0;
@@ -455,18 +529,21 @@
       transform: translateX(-50%);
       pointer-events: none;
     }
+
     #pop-arrow.down {
       top: 100%;
       border-left: 7px solid transparent;
       border-right: 7px solid transparent;
       border-top: 7px solid var(--glow-dim);
     }
+
     #pop-arrow.up {
       bottom: 100%;
       border-left: 7px solid transparent;
       border-right: 7px solid transparent;
       border-bottom: 7px solid var(--glow-dim);
     }
+
     .pop-btn {
       font-family: 'Share Tech Mono', monospace;
       font-size: clamp(11px, 3vw, 13px);
@@ -480,15 +557,18 @@
       transition: all 0.1s;
       white-space: nowrap;
     }
+
     .pop-btn:active {
       background: var(--glow-faint);
       color: var(--glow);
     }
+
     .pop-divider {
       width: 1px;
       background: var(--border);
       align-self: stretch;
     }
+
     .footer {
       flex-shrink: 0;
       font-size: clamp(8px, 1.8vw, 10px);
@@ -498,6 +578,7 @@
       padding: 4px 8px 8px;
       opacity: 0.8;
     }
+
     body::after {
       content: '';
       position: fixed;
@@ -519,7 +600,8 @@
       <button class="diff-btn active" data-diff="beginner">BEGINNER<br><span class="diff-sub">9×9 · 10</span></button>
       <button class="diff-btn" data-diff="intermediate">INTER<br><span class="diff-sub">9×16 · 40</span></button>
       <button class="diff-btn" data-diff="expert">EXPERT<br><span class="diff-sub">11×20 · 55</span></button>
-      <button class="diff-btn" data-diff="custom" id="custom-btn">CUSTOM<br><span class="diff-sub" id="custom-sub">—</span></button>
+      <button class="diff-btn" data-diff="custom" id="custom-btn">CUSTOM<br><span class="diff-sub"
+          id="custom-sub">—</span></button>
     </div>
     <div class="custom-panel" id="custom-panel">
       <div class="custom-row">
