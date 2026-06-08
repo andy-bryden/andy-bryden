@@ -807,7 +807,7 @@
     function showPopover(r, c) {
       if (revealed[r][c]) return;
       popTarget = { r, c };
-      popFlag.textContent = flagged[r][c] ? 'UNFLAG' : 'FLAG';
+      popFlag.textContent = flagged[r][c] ? '⚑⃠' : '⚑';
       popover.style.visibility = 'hidden'; popover.classList.add('visible');
       const pw = popover.offsetWidth, ph = popover.offsetHeight;
       popover.classList.remove('visible'); popover.style.visibility = '';
