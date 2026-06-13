@@ -262,80 +262,6 @@
       transform: translateY(-3px);
     }
 
-    .game-mine .game-face {
-      background: #0f1a0f;
-      border: 1px solid #007a1f;
-      box-shadow: 0 4px 24px #003d10, inset 0 0 60px rgba(201, 151, 58, 0.04);
-    }
-
-    .game-mine .game-face::before {
-      content: '';
-      position: absolute;
-      inset: 0;
-      background: radial-gradient(ellipse at 50% 0%, #007a1f 0%, transparent 60%);
-    }
-
-    .game-mine .g-eyebrow {
-      font-family: 'Share Tech Mono', monospace;
-      font-size: clamp(9px, 2.4vw, 11px);
-      letter-spacing: 0.08em;
-      text-transform: uppercase;
-      color: #00bd2f;
-      margin-bottom: 1rem;
-      position: relative;
-    }
-
-    .game-mine .g-title {
-      font-family: 'Orbitron', monospace;
-      font-size: clamp(1.6rem, 3.5vw, 2.4rem);
-      font-weight: 900;
-      color: #00ff41;
-      text-align: center;
-      line-height: 1.1;
-      letter-spacing: 0.15em;
-      text-shadow: 0 0 10px #00ff41, 0 0 28px #007a1f;
-      animation: flicker 8s infinite;
-      position: relative;
-      margin-bottom: 0.6rem;
-    }
-
-    @keyframes flicker {
-
-      0%,
-      95%,
-      100% {
-        opacity: 1
-      }
-
-      96% {
-        opacity: .8
-      }
-
-      97% {
-        opacity: 1
-      }
-
-      98% {
-        opacity: .9
-      }
-    }
-
-    .game-mine .g-rule {
-      width: 60%;
-      height: 1px;
-      background: linear-gradient(90deg, transparent, #007a1f, transparent);
-      margin: 0.8rem auto;
-      position: relative;
-    }
-
-    .game-mine .g-sub {
-      font-family: 'Share Tech Mono', monospace;
-      font-size: clamp(9px, 2.4vw, 11px);
-      color: #00a82a;
-      text-align: center;
-      position: relative;
-    }
-
     .game-clue .game-face {
       background: #0d0a07;
       border: 1px solid rgba(201, 151, 58, 0.3);
@@ -533,14 +459,6 @@
           <div class="g-title">ClueSolo</div>
           <div class="g-rule"></div>
           <div class="g-sub">The Classic Detective Game … alone.</div>
-        </div>
-      </a>
-      <a href="minesweeper.html" target="_blank" class="game-tile game-mine">
-        <div class="game-face">
-          <div class="g-eyebrow"">Proceed with Caution!</div>
-          <div class=" g-title"">MINE<br>SWEEPER</div>
-          <div class="g-rule"></div>
-          <div class="g-sub">Clear the field … if you can!</div>
         </div>
       </a>
     </div>
