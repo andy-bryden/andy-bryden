@@ -4418,9 +4418,10 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
         prob: G.belief[node] || 0
       }));
       poolScored.sort((a, b) => {
-        if (a.minHop !== b.minHop) return a.minHop - b.minHop;
-        if (Math.abs(b.prob - a.prob) > 0.01) return b.prob - a.prob;
-        return b.deg - a.deg;
+        // Balances probability with physical distance (1 hop penalty = -2% probability drop)
+        const scoreA = (a.prob * 100) - (a.minHop * 2) + (a.deg * 0.1);
+        const scoreB = (b.prob * 100) - (b.minHop * 2) + (b.deg * 0.1);
+        return scoreB - scoreA;
       });
       const rankedCandidates = poolScored.map(({ node }) => node);
       const assignments = assignDetectives(rankedCandidates);
