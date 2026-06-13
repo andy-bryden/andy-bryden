@@ -4203,7 +4203,7 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
         const zoneBonus = sz * WEIGHTS.ZONE_PER_NODE;
         const reachBonus = m.type === 'underground' ? WEIGHTS.REACH_UNDERGROUND : m.type === 'water' ? WEIGHTS.REACH_WATER : m.type === 'bus' ? WEIGHTS.REACH_BUS : 0;
         const deg = NODE_DEGREE[m.node] || 4;
-        const visitPenalty = recentlyVisited.has(m.node) ? (deg <= 2 ? WEIGHTS.PENINSULA_DEG2 : deg <= 3 ? WEIGHTS.PENINSULA_DEG3 : 1500) : 0;
+        const visitPenalty = recentlyVisited.has(m.node) ? (deg <= 2 ? WEIGHTS.PENINSULA_DEG2 : deg <= 3 ? WEIGHTS.PENINSULA_DEG3 : 300) : 0;
         const dangerPenalty = detAdj.has(m.node) ? WEIGHTS.DANGER_ADJACENT : 0;
         const sealed = sealedExitCount(m.node);
         const totalEx = ['taxi', 'bus', 'underground', 'water'].flatMap(t => (adj[m.node][t] || [])).filter(n => !detSet.has(n)).length;
@@ -4221,7 +4221,7 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
           const zoneBonus = sz * WEIGHTS.ZONE_PER_NODE;
           const reachBonus = m.type === 'underground' ? WEIGHTS.REACH_UNDERGROUND : m.type === 'water' ? WEIGHTS.REACH_WATER : m.type === 'bus' ? WEIGHTS.REACH_BUS : 0;
           const deg = NODE_DEGREE[m.node] || 4;
-          const visitPenalty = recentlyVisited.has(m.node) ? (deg <= 2 ? WEIGHTS.PENINSULA_DEG2 : deg <= 3 ? WEIGHTS.PENINSULA_DEG3 : 1500) : 0;
+          const visitPenalty = recentlyVisited.has(m.node) ? (deg <= 2 ? WEIGHTS.PENINSULA_DEG2 : deg <= 3 ? WEIGHTS.PENINSULA_DEG3 : 300) : 0;
           const dangerPenalty = detAdj.has(m.node) ? WEIGHTS.DANGER_ADJACENT : 0;
           const sealed = sealedExitCount(m.node);
           const totalEx = ['taxi', 'bus', 'underground', 'water'].flatMap(t => (adj[m.node][t] || [])).filter(n => !detSet.has(n)).length;
