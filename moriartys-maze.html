@@ -4356,8 +4356,21 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
         return { move: valid[0], assignedTarget: primaryTarget, rank: 99 };
       }
       function assignDetectives(rankedCandidates) {
-        const topTargets = rankedCandidates.slice(0, Math.min(5, rankedCandidates.length));
-        const assignments = []; // {di, primaryTarget}
+        const topTargets = [];
+        for (const cand of rankedCandidates) {
+          // Only add a target if it is at least 2 hops away from other active targets (Spreads the net)
+          if (topTargets.every(t => landHopDist(t, cand) >= 2)) {
+            topTargets.push(cand);
+          }
+          if (topTargets.length >= 5) break;
+        }
+        for (const cand of rankedCandidates) {
+          if (topTargets.length >= 5) break;
+          if (!topTargets.includes(cand)) topTargets.push(cand);
+        }
+        if (topTargets.length === 0 && rankedCandidates.length > 0) topTargets.push(rankedCandidates[0]);
+        
+        const assignments = []; 
         const claimedDets = new Set();
         topTargets.forEach(t => {
           let bestDet = null, bestHops = 99;
@@ -4370,12 +4383,12 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
         });
         G.detectives.forEach((det, di) => {
           if (claimedDets.has(di)) return;
-          let best = topTargets[0], bestHops = 99;
+          let best = topTargets[0] || 1, bestHops = 99;
           topTargets.forEach(t => { const h = landHopDistDet(det, t); if (h < bestHops) { bestHops = h; best = t; } });
           assignments.push({ di, primaryTarget: best });
         });
         return assignments;
-      }
+    }
       if (depthInCycle === 0 && G.ghostNode >= 0) {
         const targets = new Set([G.ghostNode]);
         ['bus', 'underground'].forEach(t => {
