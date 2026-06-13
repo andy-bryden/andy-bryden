@@ -158,7 +158,7 @@
     const footer = document.createElement('div');
     footer.className = 'universal-footer';
     footer.innerHTML = `
-      <span class="universal-footer-copy"><a href="${GITHUB_URL}andy-bryden/blob/main/LICENSE" target="_blank" rel="noopener">CC0</a></span>
+      <span class="universal-footer-copy"><a href="${GITHUB_URL}andy-bryden/LICENSE" target="_blank" rel="noopener">CC0</a></span>
       <div class="universal-footer-links">
         <a href="${MAIN_SITE}">Andy Bryden</a>
         <a href="${GITHUB_URL}" target="_blank">GitHub</a>
