@@ -4167,6 +4167,10 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
       const currentReveal = REVEAL_MOVES.find(r => r === nextMove);
       const movesToReveal = nextReveal - nextMove;
 
+      // FIX: Define the resource guards here
+      const canUseFog = !FOG_BANS.includes(nextMove) && G.fogLeft > 0;
+      const canUseBluff = !BLUFF_BANS.includes(nextMove) && G.bluffLeft > 0;
+
       // --- NEW SURVIVAL LOGIC ---
       const isSprintingIntoTrap = (nodeId) => {
         return dets.some(det => {
@@ -4208,7 +4212,7 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
         } else if (G.fogLeft > (MAX_MOVES - nextMove)) {
           heavyFog = true; // Budget burning
         }
-    }
+      }
       const detAdj = new Set(dets.flatMap(det => ['taxi', 'bus', 'underground'].filter(t => (det.tickets[t] || 0) > 0).flatMap(t => (adj[det.node][t] || []))));
       const projectedDetPos = greedyDetStep(dets, G.moriNode);
       let best = null, bestScore = -Infinity;
