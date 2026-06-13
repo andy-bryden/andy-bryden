@@ -114,7 +114,7 @@
       .universal-footer-links {
         display: flex;
         gap: 1.5rem;
-        align-items: space-between;
+        align-items: center;
         flex-wrap: wrap;
       }
 
@@ -145,9 +145,9 @@
     const footer = document.createElement('div');
     footer.className = 'universal-footer';
     footer.innerHTML = `
-      <span class="universal-footer-copy">All works CC0 unless noted</span>
+      <span class="universal-footer-copy">CC0</span>
       <div class="universal-footer-links">
-        <a href="${MAIN_SITE}" target="_blank">Andy Bryden</a>
+        <a href="${MAIN_SITE}">Andy Bryden</a>
         <a href="${GITHUB_URL}" target="_blank">GitHub</a>
         <button id="opinions-trigger-footer">Opinions?</button>
         <a href="#top">↑ Top</a>
