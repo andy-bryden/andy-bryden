@@ -4106,28 +4106,6 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
           });
         }
       }
-      const justRevealed = REVEAL_MOVES.includes(G.moriMoveCount) || G.postRevealPlan !== null;
-      if (justRevealed) {
-        const pr = postRevealMove(detPos);
-        if (pr) {
-          const isRiverboat = pr.type === 'water';
-          const isFirstRevealMove = REVEAL_MOVES.includes(G.moriMoveCount);
-          const closestDetHops = Math.min(...dets.map(det => landHopDistDet(det, G.moriNode)));
-          const destTypes = new Set(moriMoves(pr.node).filter(m => m.type !== 'water').map(m => m.type));
-          const revSrcTypes = new Set((nodes[G.moriNode]?.types || []).filter(t => t !== 'water'));
-          const POST_REVEAL_MOVES = new Set([4, 9, 14, 19]);
-          const revealFog = isFirstRevealMove && !isRiverboat && G.fogLeft > 0 && !G.fogThisLeg &&
-            POST_REVEAL_MOVES.has(nextMove) && closestDetHops <= 3 &&
-            destTypes.size > 1 && revSrcTypes.size > 1;
-          return _sanitize({
-            node: pr.node,
-            type: (isRiverboat || revealFog) ? 'fog' : pr.type,
-            realType: pr.type,
-            fogConsumed: isRiverboat || revealFog,
-            bluffConsumed: false
-          });
-        }
-      }
       let candidates = moriMoves(G.moriNode).filter(m => !detSet.has(m.node));
       if (!candidates.length) return { node: G.moriNode, type: 'taxi', surrender: true };
       if (G.fogThisLeg || G.fogLeft <= 0) candidates = candidates.filter(m => m.type !== 'water');
