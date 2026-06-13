@@ -4375,16 +4375,20 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
         const assignments = [];
         const availableDets = new Set([0, 1, 2, 3, 4]);
         
-        // Strictly assign exactly 1 detective per target
-        for (const target of topTargets) {
-          let bestDet = null, bestHops = 999;
-          for (const di of availableDets) {
-            const h = landHopDistDet(G.detectives[di], target);
-            if (h < bestHops) { bestHops = h; bestDet = di; }
+        const pairs = [];
+        for (const di of availableDets) {
+          for (const target of availableTargets) {
+            pairs.push({ di, target, dist: landHopDistDet(G.detectives[di], target) });
           }
-          if (bestDet !== null) {
-            assignments.push({ di: bestDet, primaryTarget: target });
-            availableDets.delete(bestDet);
+        }
+        // Sort ALL pairs by shortest distance globally, then assign
+        pairs.sort((a, b) => a.dist - b.dist);
+        
+        for (const pair of pairs) {
+          if (availableDets.has(pair.di) && availableTargets.has(pair.target)) {
+            assignments.push({ di: pair.di, primaryTarget: pair.target });
+            availableDets.delete(pair.di);
+            availableTargets.delete(pair.target);
           }
         }
         
