@@ -3982,9 +3982,9 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
         det.tickets ? landHopDistDet(det, nodeId) : landHopDist(det, nodeId)
       ).sort((a, b) => a - b);
       const w3 = hops.filter(h => h <= 3).length;
-      if (hops[0] <= 1 || w3 >= 4) return 'crisis';
-      if (hops[0] <= 2 || w3 >= 3) return 'alarm';
-      if (hops[0] <= 3 || w3 >= 2) return 'watch';
+      if (hops[0] <= 2 || w3 >= 3) return 'crisis';
+      if (hops[0] <= 3 || w3 >= 2) return 'alarm';
+      if (hops[0] <= 4 || w3 >= 1) return 'watch';
       return 'safe';
     }
     function isSafeNode(nodeId) {
