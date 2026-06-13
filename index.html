@@ -408,24 +408,6 @@
         height: auto;
       }
 
-      .tile-stack {
-        display: flex;
-        flex-direction: column;
-        gap: 3rem;
-        margin-bottom: 3rem;
-      }
-
-      .game-tile .game-face {
-        height: 340px;   /* was 260px */
-      }
-
-      .tile-excerpt {
-        font-size: 0.97rem;
-        color: var(--faded);
-        line-height: 1.75;
-        max-width: 680px;
-      }
-
       .tile-grid-2 {
         grid-template-columns: 1fr;
       }
@@ -462,16 +444,13 @@
     </div>
   </header>
   <section class="gallery-section fade-in">
-    <div class="tile-stack">
+    <div class="tile-grid-2">
       <a href="moriartys-maze.html" target="_blank" class="game-tile game-moriarty">
         <div class="game-face">
           <div class="g-eyebrow">London &middot; 1895</div>
           <div class="g-title">MORIARTY'S<br><span>MAZE</span></div>
           <div class="g-rule"></div>
           <div class="g-sub">A Hidden Movement Pursuit<br>Across Victorian London</div>
-        </div>
-        <div class="tile-body">
-          <p class="tile-excerpt">You are the detective. He is everywhere and nowhere. Five of Scotland Yard's finest fan out across the fog-bound streets of 1895 London — on cab, bus, and rail — hunting a ghost. Professor Moriarty moves in silence, surfacing only when he chooses, leaving nothing but a trail of spent tickets and cold inference. You have twenty-four moves to close the net. A solo hidden-movement pursuit game, no opponent required.</p>
         </div>
       </a>
       <a href="cluesolo.html" target="_blank" class="game-tile game-clue">
@@ -480,9 +459,6 @@
           <div class="g-title">ClueSolo</div>
           <div class="g-rule"></div>
           <div class="g-sub">The Classic Detective Game … alone.</div>
-        </div>
-        <div class="tile-body">
-          <p class="tile-excerpt">A murder at Hapless Hall. Several suspects, a scattering of rooms, and a set of weapons that shouldn't be anywhere near polite company. The classic deduction game, rebuilt for one: take your character, pick your difficulty, and work the casebook against a table of AI opponents who gossip, bluff, and occasionally give the game away. No board, no second player, no install — just the notebook and the nagging sense you already know who did it.</p>
         </div>
       </a>
     </div>
