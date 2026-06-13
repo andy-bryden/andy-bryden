@@ -114,7 +114,7 @@
       .universal-footer-links {
         display: flex;
         gap: 1.5rem;
-        align-items: center;
+        align-items: space-between;
         flex-wrap: wrap;
       }
 
