@@ -4414,9 +4414,14 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
       const poolScored = poolNodes.map(node => ({
         node,
         minHop: Math.min(...G.detectives.map(d => landHopDistDet(d, node))),
-        deg: NODE_DEGREE[node] || 1
+        deg: NODE_DEGREE[node] || 1,
+        prob: G.belief[node] || 0
       }));
-      poolScored.sort((a, b) => a.minHop - b.minHop || b.deg - a.deg);
+      poolScored.sort((a, b) => {
+        if (a.minHop !== b.minHop) return a.minHop - b.minHop;
+        if (Math.abs(b.prob - a.prob) > 0.01) return b.prob - a.prob;
+        return b.deg - a.deg;
+      });
       const rankedCandidates = poolScored.map(({ node }) => node);
       const assignments = assignDetectives(rankedCandidates);
       assignments.sort((a, b) => landHopDistDet(G.detectives[a.di], a.primaryTarget) - landHopDistDet(G.detectives[b.di], b.primaryTarget));
