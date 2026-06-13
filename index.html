@@ -232,20 +232,23 @@
 
     .tile-grid-2 {
       display: grid;
-      grid-template-columns: repeat(2, 1fr);
+      grid-template-columns: 1fr;
       gap: 2rem;
       margin-bottom: 3rem;
     }
 
     .game-tile {
       display: flex;
-      flex-direction: column;
+      flex-direction: row;
+      align-items: flex-start;
+      gap: 1.8rem;
       text-decoration: none;
       color: inherit;
     }
 
     .game-tile .game-face {
       height: 260px;
+      min-width: 360px;
       flex-shrink: 0;
       display: flex;
       flex-direction: column;
@@ -366,7 +369,14 @@
     }
 
     .game-tile .tile-body {
-      padding: 1rem 0 0.5rem;
+      padding: 0.5rem 0;
+      flex: 1;
+    }
+
+    @media (max-width: 640px) {
+      .game-tile .tile-body {
+        padding: 1rem 0 0.5rem;
+      }
     }
 
     .game-tile .tile-excerpt {
@@ -393,11 +403,17 @@
     }
 
     @media (max-width: 640px) {
-
       .tile-grid-2 {
         grid-template-columns: 1fr;
       }
 
+      .game-tile {
+        flex-direction: column;
+      }
+
+      .game-tile .game-face {
+        width: 100%;
+      }
     }
 
     @media (max-width: 480px) {
@@ -433,7 +449,7 @@
         </div>
         <div class="tile-body">
           <p class="tile-title">Moriarty's Maze</p>
-          <p class="tile-excerpt">A solo reimagining of the classic Scotland Yard board game. London, 1895. Professor James Moriarty is somewhere within the city's 199 transport stations — moving by hansom cab, omnibus, underground, and river craft — and Sherlock Holmes has until nightfall to find him. Play as Moriarty and vanish into the network for 24 moves, or take command of Sherlock Holmes, Dr John H. Watson, Inspector G. Lestrade, Inspector Tobias Gregson, and Wiggins and run him to ground. New to the game? Coach mode puts the AI in the driving seat while your chosen side whispers strategy in your ear.</p>
+          <p class="tile-excerpt">A solo reimagining of the classic board game, Scotland Yard. London, 1895. Professor James Moriarty is somewhere within the city's transport network — and Sherlock Holmes has until nightfall to find him. Play as Moriarty and vanish into the fog, or direct Holmes and his team and run him to ground. New to the game? Coach mode has you covered.</p>
         </div>
       </a>
       <a href="cluesolo.html" target="_blank" class="game-tile game-clue">
@@ -445,7 +461,7 @@
         </div>
         <div class="tile-body">
           <p class="tile-title">ClueSolo</p>
-          <p class="tile-excerpt">A solo reimagining of the classic Cluedo board game. Sir Henry Hapless, 13th Duke of Misfortune, hosted a dinner party. His friends had advised strongly against it. Somewhere between the fish course and the retiring to the drawing room, one of his most cherished possessions vanished — and several others were found in rooms where they had no business being. The doors of Hapless Hall are now secured. Six guests, nine rooms, six treasures. Choose your character, set your difficulty, and work the casebook against up to five AI opponents. Need a hand? Coach mode offers quiet guidance without giving the game away.</p>
+          <p class="tile-excerpt">A solo reimagining of the classic detective game, Cluedo. Sir Henry Hapless, 13th Duke of Misfortune, hosted a dinner party. Somewhere between the fish course and the drawing room, one of his most cherished possessions vanished. Six guests, six treasures, nine rooms — work the casebook against up to five AI opponents. An AI coach is also available for guidance.</p>
         </div>
       </a>
     </div>
