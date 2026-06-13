@@ -4395,6 +4395,9 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
         ['bus', 'underground'].forEach(t => {
           (adj[G.ghostNode][t] || []).forEach(nb => targets.add(nb));
         });
+        if (targets.size < 5) {
+          (adj[G.ghostNode]['taxi'] || []).forEach(nb => targets.add(nb));
+        }
         const rankedCandidates = Array.from(targets);
         const assignments = assignDetectives(rankedCandidates);
         assignments.sort((a, b) => landHopDistDet(G.detectives[a.di], a.primaryTarget) - landHopDistDet(G.detectives[b.di], b.primaryTarget));
