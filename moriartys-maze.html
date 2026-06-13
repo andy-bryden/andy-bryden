@@ -3112,8 +3112,6 @@
     }
     const MORIARTY_RANK = [199, 180, 9, 94, 108, 47, 80, 39, 16, 22, 48, 57, 53, 192, 162, 135, 116, 85, 2, 11, 12, 15, 147, 184, 112, 29, 51, 13, 101, 157, 37, 3, 35, 131, 166, 96, 20, 61, 28, 68, 102, 164, 148, 5, 93, 152, 186, 138, 92, 8, 19, 154, 182, 21, 64, 132, 44, 90, 174, 104, 34, 141, 111, 165, 86, 175, 158, 194, 144, 89, 31, 120, 133, 43, 173, 122, 69, 149, 181, 190, 81, 73, 185, 30, 139, 4, 126, 124, 109, 199, 103, 115, 42, 114, 107, 95, 58, 41, 105, 25, 134, 91, 169, 54, 76, 176, 82, 130, 161, 75, 99, 193, 113, 56, 77, 150, 160, 110, 119, 79, 23, 40, 125, 153, 183, 7, 163, 146, 196, 123, 65, 27, 142, 187, 118, 177, 50, 52, 59, 179, 198, 106, 188, 167, 127, 32, 100, 10, 63, 88, 17, 49, 136, 195, 197, 83, 191, 168, 129, 45, 156, 171, 1, 172, 18, 137, 143, 140, 78, 98, 121, 36, 145, 38, 66, 6, 87, 84, 46, 71, 170, 55, 14, 26, 178, 189, 70, 155, 151, 33, 117, 128, 67, 60, 97, 24, 74, 72, 62, 159]; // index 0 unused; rank 1=best, 199=worst
     const MORI_STARTS = RULES.START_POOL; // alias kept for any replay/log references
-    const FOG_BANS = [1, 2, 3, 8, 13, 18];
-    const BLUFF_BANS = [1, 2];
     const START_EXCLUSIONS = {
       1: [8, 9, 13, 18, 19, 20, 33, 34, 44, 45, 46, 47, 57, 58, 59, 61, 74, 75, 77, 78, 79],
       2: [9, 10, 11, 20, 21, 33, 34],
@@ -3567,15 +3565,13 @@
       }
       return 99;
     }
-    function edgePenalty(nodeId, dets) {
+    function edgePenalty(nodeId) {
       const n = nodes[nodeId];
       const WORLD_W = 1600, WORLD_H = 1200, MARGIN = 200;
       const dx = Math.max(0, MARGIN - Math.min(n.x, WORLD_W - n.x));
       const dy = Math.max(0, MARGIN - Math.min(n.y, WORLD_H - n.y));
-      const dist = dets.map(d => landHopDistDet(d, nodeId)).sort((a,b)=>a-b)[0] || 99;
-      const multiplier = dist <= 3 ? (5 / Math.max(1, dist)) : 1;
-      const pen = (dx > 0 && dy > 0) ? -(dx + dy) * 3 : -(dx + dy) * 1.5;
-      return pen * multiplier;
+      if (dx > 0 && dy > 0) return -(dx + dy) * 3;
+      return -(dx + dy) * 1.5;
     }
     function threatPenalty(nodeId, dets) {
       const hops = dets.map(det => landHopDistDet(det, nodeId)).sort((a, b) => a - b);
@@ -4022,18 +4018,8 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
       const detSet = new Set(detPos);
       const cent = detectiveCentroid(detPos);
       const mn = nodes[G.moriNode];
-      
-      // NEW: Strictly filter out any node a detective can reach in 1 hop
-      const isImmediatelySafe = (nodeId) => {
-        return detPos.every(dp => {
-          const types = ['taxi', 'bus', 'underground', 'water'];
-          return !types.some(t => (adj[dp][t] || []).includes(nodeId));
-        });
-      };
-
-      const move1cands = moriMoves(G.moriNode).filter(m => !detSet.has(m.node) && isImmediatelySafe(m.node));
+      const move1cands = moriMoves(G.moriNode).filter(m => !detSet.has(m.node) && isSafeNode(m.node));
       const move1pool = move1cands.length ? move1cands : moriMoves(G.moriNode).filter(m => !detSet.has(m.node));
-      
       let bestPlan = null, bestScore = -Infinity;
       move1pool.forEach(m1 => {
         const c1 = nodes[m1.node];
@@ -4165,52 +4151,44 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
       const noSafeMoves = workingCandidates.length === 0 || allBoxed;
       const crisisBluff = noSafeMoves && G.bluffLeft > 0 && G.bluff.leg === 0;
       const currentReveal = REVEAL_MOVES.find(r => r === nextMove);
+      const spanBluff = !crisisBluff && currentReveal && G.bluffLeft > 0 && G.bluff.leg === 0 && (
+        (G.bluffLeft >= 2 && currentReveal >= 13) ||
+        (G.bluffLeft === 1 && currentReveal >= 18)
+      ) && (level === 'watch' || level === 'alarm' || level === 'crisis');
       const movesToReveal = nextReveal - nextMove;
-
-      // FIX: Define the resource guards here
-      const canUseFog = !FOG_BANS.includes(nextMove) && G.fogLeft > 0;
-      const canUseBluff = !BLUFF_BANS.includes(nextMove) && G.bluffLeft > 0;
-
-      // --- NEW SURVIVAL LOGIC ---
-      const isSprintingIntoTrap = (nodeId) => {
-        return dets.some(det => {
-          const types = ['taxi', 'bus', 'underground', 'water'];
-          return types.some(t => (adj[det.node][t] || []).includes(nodeId));
-        });
-      };
-
-      const safeMoves = workingCandidates.filter(m => !isSprintingIntoTrap(m.node));
-      const isInCrisis = safeMoves.length === 0 || level === 'crisis';
-
-      // Bluff Trigger: Panic or Reveal-Shielding
-      const bluffWanted = (isInCrisis || (currentReveal && level !== 'safe')) && 
-                          canUseBluff && 
-                          (! (nextMove < 15 && G.bluffLeft === 1));
-
+      const proactiveBluff = !crisisBluff && !spanBluff && G.bluffLeft >= 2 && G.bluff.leg === 0 &&
+        (level === 'alarm' || level === 'crisis') &&
+        movesToReveal >= 2 && movesToReveal <= 3 &&
+        nextMove > 3;  // never before first reveal
+      const bestFreeMob = workingCandidates.length > 0 ? Math.max(...workingCandidates.map(m => freeMobCount(m.node))) : 0;
+      const encirclementBluff = !crisisBluff && !spanBluff && !proactiveBluff &&
+        G.bluffLeft > 0 && G.bluff.leg === 0 &&
+        bestFreeMob <= 1 && nextMove > 3;
+      const forcedBluff = !crisisBluff && !spanBluff && !proactiveBluff && !encirclementBluff && G.bluff.leg === 0 && (
+        (nextMove === 11 && G.bluffLeft >= 2) || (nextMove === 23 && G.bluffLeft >= 1)
+      );
+      const bluffWanted = crisisBluff || spanBluff || proactiveBluff || encirclementBluff || forcedBluff;
       if (bluffWanted) {
-        const needsRelaxed = isInCrisis;
+        const needsRelaxed = crisisBluff || forcedBluff;
         let legs = calcBluffLegs(G.moriNode, detPos, nextMove, needsRelaxed);
         if ((!legs.leg1 || !legs.leg2) && !needsRelaxed) {
           legs = calcBluffLegs(G.moriNode, detPos, nextMove, true);
         }
         if (legs.leg1 && legs.leg2) {
-          return {
-            node: legs.leg1.node, type: legs.leg1.type, realType: legs.leg1.type,
-            fogConsumed: false, bluffConsumed: true, _secondLeg: legs.leg2
-          };
-        }
-      }
-
-      // Fog Trigger: Resource Budget or Crisis Hiding
-      let heavyFog = false;
-      const multiSrc = (nodes[G.moriNode]?.types || []).filter(t => t !== 'water').length > 1;
-      if (canUseFog && !G.fogThisLeg) {
-        if (isInCrisis && multiSrc) {
-          heavyFog = true; // Emergency hiding
-        } else if (movesToReveal === 1 && multiSrc) {
-          heavyFog = true; // Pre-reveal camouflage
-        } else if (G.fogLeft > (MAX_MOVES - nextMove)) {
-          heavyFog = true; // Budget burning
+          if (spanBluff) {
+            const leg2esc = escapeScore(legs.leg2.node, dets, 4);
+            if (leg2esc >= 150 || level === 'crisis') {
+              return {
+                node: legs.leg1.node, type: legs.leg1.type, realType: legs.leg1.type,
+                fogConsumed: false, bluffConsumed: true, _secondLeg: legs.leg2
+              };
+            }
+          } else {
+            return {
+              node: legs.leg1.node, type: legs.leg1.type, realType: legs.leg1.type,
+              fogConsumed: false, bluffConsumed: true, _secondLeg: legs.leg2
+            };
+          }
         }
       }
       const detAdj = new Set(dets.flatMap(det => ['taxi', 'bus', 'underground'].filter(t => (det.tickets[t] || 0) > 0).flatMap(t => (adj[det.node][t] || []))));
