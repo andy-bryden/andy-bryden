@@ -48,6 +48,8 @@
       font-size: 16px;
       line-height: 1.7;
       box-shadow: 0 0 60px rgba(0, 0, 0, 0.55), inset 0 0 120px rgba(139, 105, 20, 0.04);
+      display: flex;
+      flex-direction: column;
       min-height: 100vh;
     }
 
@@ -204,6 +206,7 @@
     }
 
     .gallery-section {
+      flex: 1;
       padding: 4rem 4vw 2rem;
     }
 
@@ -488,12 +491,12 @@
 
     window.addEventListener('scroll', () => {
       const y = window.scrollY;
-      if (!isScrolled && y > 60) {
+      if (!isScrolled && y > 90) {
         isScrolled = true;
         header.classList.add('scrolled');
         clearTimeout(fitCheckTimer);
         fitCheckTimer = setTimeout(checkEyebrowFit, 320);
-      } else if (isScrolled && y < 60) {
+      } else if (isScrolled && y < 20) {
         isScrolled = false;
         header.classList.remove('scrolled');
         eyebrowInline.classList.remove('fits');
