@@ -4320,7 +4320,7 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
         let valid = detMoves(det, exclude);
         if (!valid.length) valid = detMoves(det, new Set([...exclude].filter(n => G.detectives.map(d => d.node).includes(n))));
         if (!valid.length) return null;
-        const currentHops = landHopDistDet(det, target);
+        
         const ugChase = G.lastObservedType === 'underground' && (det.tickets.underground || 0) > 0;
         valid.sort((a, b) => {
           const hopA = landHopDist(a.node, target), hopB = landHopDist(b.node, target);
@@ -4328,13 +4328,15 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
           const ugBonusB = ugChase && adj[b.node].underground.length > 0 ? 250 : 0;
           const degA = NODE_DEGREE[a.node] || 1;
           const degB = NODE_DEGREE[b.node] || 1;
-          // hop === 0 means direct capture/intercept. Give it 10000 points to override ticket preservation.
-          const scoreA = (hopA === 0 ? 10000 : (currentHops - hopA) * 100) - ticketCost(det, a.type) + ugBonusA + (degA * 5);
-          const scoreB = (hopB === 0 ? 10000 : (currentHops - hopB) * 100) - ticketCost(det, b.type) + ugBonusB + (degB * 5);
+          
+          // Absolute distance to target dominates score (1 hop = 1000 pts). Direct capture = 100000 pts.
+          const scoreA = (hopA === 0 ? 100000 : -hopA * 1000) - ticketCost(det, a.type) + ugBonusA + (degA * 5);
+          const scoreB = (hopB === 0 ? 100000 : -hopB * 1000) - ticketCost(det, b.type) + ugBonusB + (degB * 5);
           return scoreB - scoreA;
         });
-        if (landHopDist(valid[0].node, target) <= currentHops) return valid[0];
-        return null;
+        
+        // Never give up! Take the best move even if it temporarily increases distance.
+        return valid[0];
       }
       function ticketCost(det, type) {
         const remaining = det.tickets[type] || 0;
