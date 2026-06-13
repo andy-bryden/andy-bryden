@@ -4143,11 +4143,12 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
         const dr1 = new Set(dets.flatMap(det => ['taxi', 'bus', 'underground'].filter(t => (det.tickets[t] || 0) > 0).flatMap(t => (adj[det.node][t] || []))));
         return exits.filter(n => !dr1.has(n)).length;
       }
-      const allBoxed = workingCandidates.length > 0 && workingCandidates.every(m => {
+      const safeMoves = workingCandidates.filter(m => {
         const exits = ['taxi', 'bus', 'underground', 'water'].flatMap(t => (adj[m.node][t] || [])).filter(n => !detSet.has(n));
         const dr1 = new Set(dets.flatMap(det => ['taxi', 'bus', 'underground'].filter(t => (det.tickets[t] || 0) > 0).flatMap(t => (adj[det.node][t] || []))));
-        return exits.every(n => dr1.has(n));
+        return exits.some(n => !dr1.has(n));
       });
+      const allBoxed = safeMoves.length <= 1;
       const noSafeMoves = workingCandidates.length === 0 || allBoxed;
       const crisisBluff = noSafeMoves && G.bluffLeft > 0 && G.bluff.leg === 0;
       const currentReveal = REVEAL_MOVES.find(r => r === nextMove);
