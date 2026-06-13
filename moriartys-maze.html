@@ -4328,8 +4328,9 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
           const ugBonusB = ugChase && adj[b.node].underground.length > 0 ? 250 : 0;
           const degA = NODE_DEGREE[a.node] || 1;
           const degB = NODE_DEGREE[b.node] || 1;
-          const scoreA = (currentHops - hopA) * 100 - ticketCost(det, a.type) + ugBonusA + (degA * 5);
-          const scoreB = (currentHops - hopB) * 100 - ticketCost(det, b.type) + ugBonusB + (degB * 5);
+          // hop === 0 means direct capture/intercept. Give it 10000 points to override ticket preservation.
+          const scoreA = (hopA === 0 ? 10000 : (currentHops - hopA) * 100) - ticketCost(det, a.type) + ugBonusA + (degA * 5);
+          const scoreB = (hopB === 0 ? 10000 : (currentHops - hopB) * 100) - ticketCost(det, b.type) + ugBonusB + (degB * 5);
           return scoreB - scoreA;
         });
         if (landHopDist(valid[0].node, target) <= currentHops) return valid[0];
