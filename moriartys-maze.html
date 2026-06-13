@@ -4375,6 +4375,7 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
         const assignments = [];
         const availableDets = new Set([0, 1, 2, 3, 4]);
         
+        const availableTargets = new Set(topTargets);
         const pairs = [];
         for (const di of availableDets) {
           for (const target of availableTargets) {
