@@ -3112,6 +3112,8 @@
     }
     const MORIARTY_RANK = [199, 180, 9, 94, 108, 47, 80, 39, 16, 22, 48, 57, 53, 192, 162, 135, 116, 85, 2, 11, 12, 15, 147, 184, 112, 29, 51, 13, 101, 157, 37, 3, 35, 131, 166, 96, 20, 61, 28, 68, 102, 164, 148, 5, 93, 152, 186, 138, 92, 8, 19, 154, 182, 21, 64, 132, 44, 90, 174, 104, 34, 141, 111, 165, 86, 175, 158, 194, 144, 89, 31, 120, 133, 43, 173, 122, 69, 149, 181, 190, 81, 73, 185, 30, 139, 4, 126, 124, 109, 199, 103, 115, 42, 114, 107, 95, 58, 41, 105, 25, 134, 91, 169, 54, 76, 176, 82, 130, 161, 75, 99, 193, 113, 56, 77, 150, 160, 110, 119, 79, 23, 40, 125, 153, 183, 7, 163, 146, 196, 123, 65, 27, 142, 187, 118, 177, 50, 52, 59, 179, 198, 106, 188, 167, 127, 32, 100, 10, 63, 88, 17, 49, 136, 195, 197, 83, 191, 168, 129, 45, 156, 171, 1, 172, 18, 137, 143, 140, 78, 98, 121, 36, 145, 38, 66, 6, 87, 84, 46, 71, 170, 55, 14, 26, 178, 189, 70, 155, 151, 33, 117, 128, 67, 60, 97, 24, 74, 72, 62, 159]; // index 0 unused; rank 1=best, 199=worst
     const MORI_STARTS = RULES.START_POOL; // alias kept for any replay/log references
+    const FOG_BANS = [1, 2, 3, 8, 13, 18];
+    const BLUFF_BANS = [1, 2];
     const START_EXCLUSIONS = {
       1: [8, 9, 13, 18, 19, 20, 33, 34, 44, 45, 46, 47, 57, 58, 59, 61, 74, 75, 77, 78, 79],
       2: [9, 10, 11, 20, 21, 33, 34],
@@ -3565,13 +3567,15 @@
       }
       return 99;
     }
-    function edgePenalty(nodeId) {
+    function edgePenalty(nodeId, dets) {
       const n = nodes[nodeId];
       const WORLD_W = 1600, WORLD_H = 1200, MARGIN = 200;
       const dx = Math.max(0, MARGIN - Math.min(n.x, WORLD_W - n.x));
       const dy = Math.max(0, MARGIN - Math.min(n.y, WORLD_H - n.y));
-      if (dx > 0 && dy > 0) return -(dx + dy) * 3;
-      return -(dx + dy) * 1.5;
+      const dist = dets.map(d => landHopDistDet(d, nodeId)).sort((a,b)=>a-b)[0] || 99;
+      const multiplier = dist <= 3 ? (5 / Math.max(1, dist)) : 1;
+      const pen = (dx > 0 && dy > 0) ? -(dx + dy) * 3 : -(dx + dy) * 1.5;
+      return pen * multiplier;
     }
     function threatPenalty(nodeId, dets) {
       const hops = dets.map(det => landHopDistDet(det, nodeId)).sort((a, b) => a - b);
@@ -4018,8 +4022,18 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
       const detSet = new Set(detPos);
       const cent = detectiveCentroid(detPos);
       const mn = nodes[G.moriNode];
-      const move1cands = moriMoves(G.moriNode).filter(m => !detSet.has(m.node) && isSafeNode(m.node));
+      
+      // NEW: Strictly filter out any node a detective can reach in 1 hop
+      const isImmediatelySafe = (nodeId) => {
+        return detPos.every(dp => {
+          const types = ['taxi', 'bus', 'underground', 'water'];
+          return !types.some(t => (adj[dp][t] || []).includes(nodeId));
+        });
+      };
+
+      const move1cands = moriMoves(G.moriNode).filter(m => !detSet.has(m.node) && isImmediatelySafe(m.node));
       const move1pool = move1cands.length ? move1cands : moriMoves(G.moriNode).filter(m => !detSet.has(m.node));
+      
       let bestPlan = null, bestScore = -Infinity;
       move1pool.forEach(m1 => {
         const c1 = nodes[m1.node];
