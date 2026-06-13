@@ -4165,46 +4165,50 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
       const noSafeMoves = workingCandidates.length === 0 || allBoxed;
       const crisisBluff = noSafeMoves && G.bluffLeft > 0 && G.bluff.leg === 0;
       const currentReveal = REVEAL_MOVES.find(r => r === nextMove);
-      const spanBluff = !crisisBluff && currentReveal && G.bluffLeft > 0 && G.bluff.leg === 0 && (
-        (G.bluffLeft >= 2 && currentReveal >= 13) ||
-        (G.bluffLeft === 1 && currentReveal >= 18)
-      ) && (level === 'watch' || level === 'alarm' || level === 'crisis');
       const movesToReveal = nextReveal - nextMove;
-      const proactiveBluff = !crisisBluff && !spanBluff && G.bluffLeft >= 2 && G.bluff.leg === 0 &&
-        (level === 'alarm' || level === 'crisis') &&
-        movesToReveal >= 2 && movesToReveal <= 3 &&
-        nextMove > 3;  // never before first reveal
-      const bestFreeMob = workingCandidates.length > 0 ? Math.max(...workingCandidates.map(m => freeMobCount(m.node))) : 0;
-      const encirclementBluff = !crisisBluff && !spanBluff && !proactiveBluff &&
-        G.bluffLeft > 0 && G.bluff.leg === 0 &&
-        bestFreeMob <= 1 && nextMove > 3;
-      const forcedBluff = !crisisBluff && !spanBluff && !proactiveBluff && !encirclementBluff && G.bluff.leg === 0 && (
-        (nextMove === 11 && G.bluffLeft >= 2) || (nextMove === 23 && G.bluffLeft >= 1)
-      );
-      const bluffWanted = crisisBluff || spanBluff || proactiveBluff || encirclementBluff || forcedBluff;
+
+      // --- NEW SURVIVAL LOGIC ---
+      const isSprintingIntoTrap = (nodeId) => {
+        return dets.some(det => {
+          const types = ['taxi', 'bus', 'underground', 'water'];
+          return types.some(t => (adj[det.node][t] || []).includes(nodeId));
+        });
+      };
+
+      const safeMoves = workingCandidates.filter(m => !isSprintingIntoTrap(m.node));
+      const isInCrisis = safeMoves.length === 0 || level === 'crisis';
+
+      // Bluff Trigger: Panic or Reveal-Shielding
+      const bluffWanted = (isInCrisis || (currentReveal && level !== 'safe')) && 
+                          canUseBluff && 
+                          (! (nextMove < 15 && G.bluffLeft === 1));
+
       if (bluffWanted) {
-        const needsRelaxed = crisisBluff || forcedBluff;
+        const needsRelaxed = isInCrisis;
         let legs = calcBluffLegs(G.moriNode, detPos, nextMove, needsRelaxed);
         if ((!legs.leg1 || !legs.leg2) && !needsRelaxed) {
           legs = calcBluffLegs(G.moriNode, detPos, nextMove, true);
         }
         if (legs.leg1 && legs.leg2) {
-          if (spanBluff) {
-            const leg2esc = escapeScore(legs.leg2.node, dets, 4);
-            if (leg2esc >= 150 || level === 'crisis') {
-              return {
-                node: legs.leg1.node, type: legs.leg1.type, realType: legs.leg1.type,
-                fogConsumed: false, bluffConsumed: true, _secondLeg: legs.leg2
-              };
-            }
-          } else {
-            return {
-              node: legs.leg1.node, type: legs.leg1.type, realType: legs.leg1.type,
-              fogConsumed: false, bluffConsumed: true, _secondLeg: legs.leg2
-            };
-          }
+          return {
+            node: legs.leg1.node, type: legs.leg1.type, realType: legs.leg1.type,
+            fogConsumed: false, bluffConsumed: true, _secondLeg: legs.leg2
+          };
         }
       }
+
+      // Fog Trigger: Resource Budget or Crisis Hiding
+      let heavyFog = false;
+      const multiSrc = (nodes[G.moriNode]?.types || []).filter(t => t !== 'water').length > 1;
+      if (canUseFog && !G.fogThisLeg) {
+        if (isInCrisis && multiSrc) {
+          heavyFog = true; // Emergency hiding
+        } else if (movesToReveal === 1 && multiSrc) {
+          heavyFog = true; // Pre-reveal camouflage
+        } else if (G.fogLeft > (MAX_MOVES - nextMove)) {
+          heavyFog = true; // Budget burning
+        }
+    }
       const detAdj = new Set(dets.flatMap(det => ['taxi', 'bus', 'underground'].filter(t => (det.tickets[t] || 0) > 0).flatMap(t => (adj[det.node][t] || []))));
       const projectedDetPos = greedyDetStep(dets, G.moriNode);
       let best = null, bestScore = -Infinity;
