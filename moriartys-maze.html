@@ -4433,8 +4433,9 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
       }));
       
       poolScored.sort((a, b) => {
-        const scoreA = (a.prob * 100) - (a.minHop * 2) + (a.deg * 0.1);
-        const scoreB = (b.prob * 100) - (b.minHop * 2) + (b.deg * 0.1);
+        // Probability massively dominates distance to hunt down Fog bluffs (1% prob = 100 pts, 1 hop = -10 pts)
+        const scoreA = (a.prob * 10000) - (a.minHop * 10) + (a.deg * 0.1);
+        const scoreB = (b.prob * 10000) - (b.minHop * 10) + (b.deg * 0.1);
         return scoreB - scoreA;
       });
       const rankedCandidates = poolScored.map(({ node }) => node);
