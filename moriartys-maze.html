@@ -4326,8 +4326,10 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
           const hopA = landHopDist(a.node, target), hopB = landHopDist(b.node, target);
           const ugBonusA = ugChase && adj[a.node].underground.length > 0 ? 250 : 0;
           const ugBonusB = ugChase && adj[b.node].underground.length > 0 ? 250 : 0;
-          const scoreA = (currentHops - hopA) * 100 - ticketCost(det, a.type) + ugBonusA;
-          const scoreB = (currentHops - hopB) * 100 - ticketCost(det, b.type) + ugBonusB;
+          const degA = NODE_DEGREE[a.node] || 1;
+          const degB = NODE_DEGREE[b.node] || 1;
+          const scoreA = (currentHops - hopA) * 100 - ticketCost(det, a.type) + ugBonusA + (degA * 5);
+          const scoreB = (currentHops - hopB) * 100 - ticketCost(det, b.type) + ugBonusB + (degB * 5);
           return scoreB - scoreA;
         });
         if (landHopDist(valid[0].node, target) <= currentHops) return valid[0];
