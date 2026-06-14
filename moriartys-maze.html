@@ -2265,6 +2265,7 @@
       position: fixed;
       inset: 0;
       z-index: 500;
+      display: block;
       overflow-y: auto;
       background: radial-gradient(ellipse at 35% 30%, #2d1f08 0%, #0d0904 65%);
       padding: 48px 20px 72px;
@@ -2518,6 +2519,7 @@
   <script>document._opinionsGetById = document.getElementById.bind(document);</script>
   <div id="mobile-error-box" style="display:none;position:fixed;top:0;left:0;right:0;z-index:9999;background:#c00;color:#fff;font-size:13px;padding:8px 12px;white-space:pre-wrap;word-break:break-all;cursor:pointer;" onclick="this.style.display='none'"></div>
   <div id="story-screen">
+    <div class="st-wrap">
     <div class="st-masthead">
       <div class="st-eyebrow">London · 1895</div>
       <h1 class="st-h1">MORIARTY'S<br><span>MAZE</span></h1>
@@ -2527,61 +2529,41 @@
     <div class="st-act">
       <div class="st-act-label">Act the First</div>
       <h2 class="st-h2">The Napoleon of Crime</h2>
-      <p>Professor James Moriarty is not the sort of man one simply loses track of. He is a mathematician, a polymath,
-        and — beneath the respectability of his academic title — the architect of London's criminal underworld. He has
-        organised the city's most dangerous men into a disciplined force, protected them from the law, and profited
-        handsomely from the arrangement. Holmes has called him the Napoleon of Crime. Moriarty has not disputed the
-        comparison.</p>
-      <p>Holmes has been patiently dismantling Moriarty's web for some time. The Professor is aware of this. Their
-        struggle has been conducted, until now, at a distance — an intellectual duel between two men who have each
-        recognised, with considerable unease, that the other is their equal.</p>
-      <p>This morning, however, intelligence arrived placing Moriarty somewhere within the 199 stations of London's
-        transport network. He is moving. He has resources. He has tricks. And he has, at most, twenty-four moves before
-        the net must close or the trail goes entirely cold.</p>
-      <p>Holmes received the intelligence at 7:14 in the morning. By 7:16 he was already in motion. <br><em>The game, as
-          he is known to remark on such occasions, is afoot.</em></p>
+      <p>Professor James Moriarty is not the sort of man one simply loses track of. He is a mathematician, a polymath, and — beneath the respectability of his academic title — the architect of London's criminal underworld. He has organised the city's most dangerous men into a disciplined force, protected them from the law, and profited handsomely from the arrangement. Holmes has called him the Napoleon of Crime. Moriarty has not disputed the comparison.</p>
+      <p>Holmes has been patiently dismantling Moriarty's web for some time. The Professor is aware of this. Their struggle has been conducted, until now, at a distance — an intellectual duel between two men who have each recognised, with considerable unease, that the other is their equal.</p>
+      <p>This morning, however, intelligence arrived placing Moriarty somewhere within the 199 stations of London's transport network. He is moving. He has resources. He has tricks. And he has, at most, twenty-four moves before the net must close or the trail goes entirely cold.</p>
+      <p>Holmes received the intelligence at 7:14 in the morning. By 7:16 he was already in motion. <br><em>The game, as he is known to remark on such occasions, is afoot.</em></p>
     </div>
     <div class="st-rule"></div>
     <div class="st-act">
       <div class="st-act-label">Act the Second</div>
       <h2 class="st-h2">The Pursuers</h2>
-      <p>Five investigators have assembled for the pursuit. Each brings something the others cannot furnish. Whether
-        that will be sufficient remains, as yet, an open question.</p>
+      <p>Five investigators have assembled for the pursuit. Each brings something the others cannot furnish. Whether that will be sufficient remains, as yet, an open question.</p>
       <div class="st-det-grid">
         <div class="st-det-card">
           <span class="st-det-emoji">🔍</span>
           <div class="st-det-name">Sherlock Holmes</div>
-          <div class="st-det-desc">The world's only consulting detective — a distinction he created and remains the sole
-            occupant of. His gift for observation and deduction is without peer. Holmes considers Moriarty a personal
-            matter. He is not wrong to do so.</div>
+          <div class="st-det-desc">The world's only consulting detective — a distinction he created and remains the sole occupant of. His gift for observation and deduction is without peer. Holmes considers Moriarty a personal matter. He is not wrong to do so.</div>
         </div>
         <div class="st-det-card">
           <span class="st-det-emoji">💼</span>
           <div class="st-det-name">Dr Watson</div>
-          <div class="st-det-desc">Former army surgeon, veteran of the Afghan campaign, and Holmes's steadfast companion
-            and chronicler. Watson's medical eye and battlefield composure make him a more formidable ally than the
-            popular accounts of him suggest.</div>
+          <div class="st-det-desc">Former army surgeon, veteran of the Afghan campaign, and Holmes's steadfast companion and chronicler. Watson's medical eye and battlefield composure make him a more formidable ally than the popular accounts of him suggest.</div>
         </div>
         <div class="st-det-card">
           <span class="st-det-emoji">🕵️‍♂️</span>
           <div class="st-det-name">Insp. Lestrade</div>
-          <div class="st-det-desc">Scotland Yard's most tenacious inspector. Holmes has compared him to a bulldog — an
-            assessment Lestrade takes as a compliment, and is not entirely wrong to. He will not let go of a case. Not
-            ever.</div>
+          <div class="st-det-desc">Scotland Yard's most tenacious inspector. Holmes has compared him to a bulldog — an assessment Lestrade takes as a compliment, and is not entirely wrong to. He will not let go of a case. Not ever.</div>
         </div>
         <div class="st-det-card">
           <span class="st-det-emoji">🫆</span>
           <div class="st-det-name">Insp. Gregson</div>
-          <div class="st-det-desc">Holmes once called Gregson the smartest of the Scotland Yarders, which is either high
-            praise or a carefully worded slight, depending on one's view of Scotland Yard. Gregson has chosen to
-            interpret it as the former.</div>
+          <div class="st-det-desc">Holmes once called Gregson the smartest of the Scotland Yarders, which is either high praise or a carefully worded slight, depending on one's view of Scotland Yard. Gregson has chosen to interpret it as the former.</div>
         </div>
         <div class="st-det-card">
           <span class="st-det-emoji">👣</span>
           <div class="st-det-name">Wiggins</div>
-          <div class="st-det-desc">Leader of the Baker Street Irregulars — Holmes's unofficial intelligence network of
-            London street children. Where a detective is noticed, Wiggins is invisible. He knows the city not as a map,
-            but as a living thing.</div>
+          <div class="st-det-desc">Leader of the Baker Street Irregulars — Holmes's unofficial intelligence network of London street children. Where a detective is noticed, Wiggins is invisible. He knows the city not as a map, but as a living thing.</div>
         </div>
       </div>
     </div>
@@ -2589,40 +2571,34 @@
     <div class="st-act">
       <div class="st-act-label">Act the Third</div>
       <h2 class="st-h2">The City</h2>
-      <p>London's transport network is vast, overlapping, and — for a man who knows it well — remarkably easy to vanish
-        into. Moriarty knows it very well indeed. The Professor may move by any of four means, and the detectives must
-        account for all of them.</p>
+      <p>London's transport network is vast, overlapping, and — for a man who knows it well — remarkably easy to vanish into. Moriarty knows it very well indeed. The Professor may move by any of four means, and the detectives must account for all of them.</p>
       <div class="st-transport-grid">
         <div class="st-transport-card">
           <div class="st-transport-icon">🐴</div>
           <div>
             <div class="st-transport-name">Hansom Cab</div>
-            <div class="st-transport-desc">Fast, ubiquitous, and leaving no record. The workhorse of the city and the
-              first resort of anyone who wishes not to be followed.</div>
+            <div class="st-transport-desc">Fast, ubiquitous, and leaving no record. The workhorse of the city and the first resort of anyone who wishes not to be followed.</div>
           </div>
         </div>
         <div class="st-transport-card">
           <div class="st-transport-icon">🚃</div>
           <div>
             <div class="st-transport-name">Omnibus</div>
-            <div class="st-transport-desc">Slower, but covering broader ground. A man aboard an omnibus can be watching
-              for pursuit from the upper deck before his followers have even hailed a cab.</div>
+            <div class="st-transport-desc">Slower, but covering broader ground. A man aboard an omnibus can be watching for pursuit from the upper deck before his followers have even hailed a cab.</div>
           </div>
         </div>
         <div class="st-transport-card">
           <div class="st-transport-icon">🚂</div>
           <div>
             <div class="st-transport-name">Underground</div>
-            <div class="st-transport-desc">Rapid, subterranean, and difficult to observe. A quarry who descends into the
-              underground may emerge almost anywhere.</div>
+            <div class="st-transport-desc">Rapid, subterranean, and difficult to observe. A quarry who descends into the underground may emerge almost anywhere.</div>
           </div>
         </div>
         <div class="st-transport-card">
           <div class="st-transport-icon">⚓</div>
           <div>
             <div class="st-transport-name">River Craft</div>
-            <div class="st-transport-desc">The Thames runs through everything. A boat leaves no footprints, and the
-              river asks no questions of those who travel upon it.</div>
+            <div class="st-transport-desc">The Thames runs through everything. A boat leaves no footprints, and the river asks no questions of those who travel upon it.</div>
           </div>
         </div>
       </div>
@@ -2631,20 +2607,18 @@
     <div class="st-act">
       <div class="st-telegram">
         <div class="st-telegram-hdr">TELEGRAM — RECEIVED 07:14 — MOST URGENT</div>
-        <div class="st-telegram-body">FROM: MYCROFT HOLMES, WHITEHALL STOP<br>TO: MR SHERLOCK HOLMES, BAKER STREET
-          STOP<br><br>BROTHER STOP HE IS IN THE NETWORK STOP<br>YOU HAVE UNTIL NIGHTFALL STOP<br>DO NOT LET HIM REACH
-          THE CONTINENT STOP
-        </div>
+        <div class="st-telegram-body">FROM: MYCROFT HOLMES, WHITEHALL STOP<br>TO: MR SHERLOCK HOLMES, BAKER STREET STOP<br><br>BROTHER STOP HE IS IN THE NETWORK STOP<br>YOU HAVE UNTIL NIGHTFALL STOP<br>DO NOT LET HIM REACH THE CONTINENT STOP</div>
         <div class="st-telegram-attr">— M</div>
       </div>
     </div>
     <div class="st-begin-wrap">
       <button class="st-begin-btn" id="st-begin-btn" onclick="beginPursuit()">Begin the Pursuit</button>
     </div>
-  </div>
-  <div style="padding:1.5rem 4vw;display:flex;justify-content:center;align-items:center;flex-wrap:wrap;gap:1rem;font-family:'Inconsolata',monospace;font-size:0.72rem;letter-spacing:0.08em;color:rgba(201,151,58,0.4);border-top:1px solid rgba(201,151,58,0.2);">
-    <div style="display:flex;gap:1.5rem;align-items:center;">
-      <a href="https://github.com/andy-bryden/" target="_blank" style="color:rgba(201,151,58,0.4);text-decoration:none;font-family:'Inconsolata',monospace;font-size:0.72rem;letter-spacing:0.08em;transition:color 0.2s;">GitHub</a>
+    <div style="padding:1.5rem 4vw;display:flex;justify-content:center;align-items:center;flex-wrap:wrap;gap:1rem;font-family:'Inconsolata',monospace;font-size:0.72rem;letter-spacing:0.08em;color:rgba(201,151,58,0.4);border-top:1px solid rgba(201,151,58,0.2);">
+      <div style="display:flex;gap:1.5rem;align-items:center;">
+        <a href="https://github.com/andy-bryden/" target="_blank" style="color:rgba(201,151,58,0.4);text-decoration:none;font-family:'Inconsolata',monospace;font-size:0.72rem;letter-spacing:0.08em;transition:color 0.2s;">GitHub</a>
+      </div>
+    </div>
     </div>
   </div>
   </div>
@@ -2675,8 +2649,7 @@
         <div class="mode-desc">Direct the pursuit; Sherlock offers guidance.</div>
       </button>
     </div>
-    <div class="mode-sim" onclick="startGame('simulator')">⚙️ <strong>Simulator</strong><span class="sim-sub"> — AI vs
-        AI tactical analysis</span></div>
+    <div class="mode-sim" onclick="startGame('simulator')">⚙️ <strong>Simulator</strong><span class="sim-sub"> — AI vs AI tactical analysis</span></div>
     <div class="t-rule"></div>
     <div style="padding:1.5rem 4vw;display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:1rem;font-family:'Inconsolata',monospace;font-size:0.72rem;letter-spacing:0.08em;color:rgba(201,151,58,0.4);border-top:1px solid rgba(201,151,58,0.2);">
       <div style="display:flex;gap:1.5rem;align-items:center;">
