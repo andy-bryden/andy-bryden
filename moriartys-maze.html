@@ -4374,22 +4374,17 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
         
         const assignments = [];
         const availableDets = new Set([0, 1, 2, 3, 4]);
-        const availableTargets = new Set(topTargets); // <--- This was the missing line!
         
-        const pairs = [];
-        for (const di of availableDets) {
-          for (const target of availableTargets) {
-            pairs.push({ di, target, dist: landHopDistDet(G.detectives[di], target) });
+        // Strictly assign exactly 1 detective per target
+        for (const target of topTargets) {
+          let bestDet = null, bestHops = 999;
+          for (const di of availableDets) {
+            const h = landHopDistDet(G.detectives[di], target);
+            if (h < bestHops) { bestHops = h; bestDet = di; }
           }
-        }
-        // Sort ALL pairs by shortest distance globally, then assign
-        pairs.sort((a, b) => a.dist - b.dist);
-        
-        for (const pair of pairs) {
-          if (availableDets.has(pair.di) && availableTargets.has(pair.target)) {
-            assignments.push({ di: pair.di, primaryTarget: pair.target });
-            availableDets.delete(pair.di);
-            availableTargets.delete(pair.target);
+          if (bestDet !== null) {
+            assignments.push({ di: bestDet, primaryTarget: target });
+            availableDets.delete(bestDet);
           }
         }
         
@@ -4399,7 +4394,30 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
         }
         return assignments;
       }
-      // Reveal logic is now unified with the core Cage and Probability engine below.
+      if (depthInCycle === 0 && G.ghostNode >= 0) {
+        const targets = new Set([G.ghostNode]);
+        ['bus', 'underground'].forEach(t => {
+          (adj[G.ghostNode][t] || []).forEach(nb => targets.add(nb));
+        });
+        if (targets.size < 5) {
+          (adj[G.ghostNode]['taxi'] || []).forEach(nb => targets.add(nb));
+        }
+        const rankedCandidates = Array.from(targets);
+        const assignments = assignDetectives(rankedCandidates);
+        assignments.sort((a, b) => landHopDistDet(G.detectives[a.di], a.primaryTarget) - landHopDistDet(G.detectives[b.di], b.primaryTarget));
+        const moves = [];
+        const planned = new Set();
+        assignments.forEach(({ di, primaryTarget }) => {
+          const det = G.detectives[di];
+          const others = new Set(G.detectives.filter((_, j) => j !== di).map(d => d.node));
+          const exclude = new Set([...others, ...planned]);
+          const result = bestMoveForDet(det, primaryTarget, rankedCandidates, exclude);
+          result.detIdx = di;
+          planned.add(result.move.node);
+          moves.push({ detIdx: di, node: result.move.node, type: result.move.type, assignedTarget: result.assignedTarget, rank: result.rank });
+        });
+        return moves.sort((a, b) => a.detIdx - b.detIdx);
+      }
       if (G.routeTree.size === 0) {
         const fallback = G.ghostNode >= 0 ? G.ghostNode : 1;
         const moves = [];
@@ -4434,9 +4452,8 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
       }));
       
       poolScored.sort((a, b) => {
-        // Probability massively dominates distance to hunt down Fog bluffs (1% prob = 100 pts, 1 hop = -10 pts)
-        const scoreA = (a.prob * 10000) - (a.minHop * 10) + (a.deg * 0.1);
-        const scoreB = (b.prob * 10000) - (b.minHop * 10) + (b.deg * 0.1);
+        const scoreA = (a.prob * 100) - (a.minHop * 2) + (a.deg * 0.1);
+        const scoreB = (b.prob * 100) - (b.minHop * 2) + (b.deg * 0.1);
         return scoreB - scoreA;
       });
       const rankedCandidates = poolScored.map(({ node }) => node);
