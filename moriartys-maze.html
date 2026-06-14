@@ -5,16 +5,12 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
   <title>Moriarty's Maze — Solo Scotland Yard in Your Browser</title>
-  <meta name="description"
-    content="A fully playable solo version of Scotland Yard set in Victorian London, 1895. Five detectives, hidden movement, 24 moves to catch Professor Moriarty. No install, no opponent required.">
+  <meta name="description" content="A fully playable solo version of Scotland Yard set in Victorian London, 1895. Five detectives, hidden movement, 24 moves to catch Professor Moriarty. No install, no opponent required.">
   <meta name="author" content="ADB">
   <meta property="og:title" content="Moriarty's Maze — Solo Scotland Yard in Your Browser">
-  <meta property="og:description"
-    content="A fully playable solo version of Scotland Yard set in Victorian London, 1895. Five detectives, hidden movement, 24 moves to catch Professor Moriarty. No install, no opponent required.">
+  <meta property="og:description" content="A fully playable solo version of Scotland Yard set in Victorian London, 1895. Five detectives, hidden movement, 24 moves to catch Professor Moriarty. No install, no opponent required.">
   <meta property="og:type" content="website">
-  <link
-    href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700;900&family=Crimson+Text:ital,wght@0,400;0,600;1,400;1,600&family=IM+Fell+English:ital@0;1&family=Inconsolata:wght@300;400&display=swap"
-    rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700;900&family=Crimson+Text:ital,wght@0,400;0,600;1,400;1,600&family=IM+Fell+English:ital@0;1&family=Inconsolata:wght@300;400&display=swap" rel="stylesheet">
   <style>
     :root {
       --parch: #f2e4c0;
@@ -2519,9 +2515,7 @@
 
 <body>
   <script>document._opinionsGetById = document.getElementById.bind(document);</script>
-  <div id="mobile-error-box"
-    style="display:none;position:fixed;top:0;left:0;right:0;z-index:9999;background:#c00;color:#fff;font-size:13px;padding:8px 12px;white-space:pre-wrap;word-break:break-all;cursor:pointer;"
-    onclick="this.style.display='none'"></div>
+  <div id="mobile-error-box" style="display:none;position:fixed;top:0;left:0;right:0;z-index:9999;background:#c00;color:#fff;font-size:13px;padding:8px 12px;white-space:pre-wrap;word-break:break-all;cursor:pointer;" onclick="this.style.display='none'"></div>
   <div id="story-screen">
     <div class="st-masthead">
       <div class="st-eyebrow">London · 1895</div>
@@ -2647,11 +2641,9 @@
       <button class="st-begin-btn" id="st-begin-btn" onclick="beginPursuit()">Begin the Pursuit</button>
     </div>
   </div>
-  <div
-    style="padding:1.5rem 4vw;display:flex;justify-content:center;align-items:center;flex-wrap:wrap;gap:1rem;font-family:'Inconsolata',monospace;font-size:0.72rem;letter-spacing:0.08em;color:rgba(201,151,58,0.4);border-top:1px solid rgba(201,151,58,0.2);">
+  <div style="padding:1.5rem 4vw;display:flex;justify-content:center;align-items:center;flex-wrap:wrap;gap:1rem;font-family:'Inconsolata',monospace;font-size:0.72rem;letter-spacing:0.08em;color:rgba(201,151,58,0.4);border-top:1px solid rgba(201,151,58,0.2);">
     <div style="display:flex;gap:1.5rem;align-items:center;">
-      <a href="https://github.com/andy-bryden/" target="_blank"
-        style="color:rgba(201,151,58,0.4);text-decoration:none;font-family:'Inconsolata',monospace;font-size:0.72rem;letter-spacing:0.08em;transition:color 0.2s;">GitHub</a>
+      <a href="https://github.com/andy-bryden/" target="_blank" style="color:rgba(201,151,58,0.4);text-decoration:none;font-family:'Inconsolata',monospace;font-size:0.72rem;letter-spacing:0.08em;transition:color 0.2s;">GitHub</a>
     </div>
   </div>
   </div>
@@ -2685,11 +2677,9 @@
     <div class="mode-sim" onclick="startGame('simulator')">⚙️ <strong>Simulator</strong><span class="sim-sub"> — AI vs
         AI tactical analysis</span></div>
     <div class="t-rule"></div>
-    <div
-      style="padding:1.5rem 4vw;display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:1rem;font-family:'Inconsolata',monospace;font-size:0.72rem;letter-spacing:0.08em;color:rgba(201,151,58,0.4);border-top:1px solid rgba(201,151,58,0.2);">
+    <div style="padding:1.5rem 4vw;display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:1rem;font-family:'Inconsolata',monospace;font-size:0.72rem;letter-spacing:0.08em;color:rgba(201,151,58,0.4);border-top:1px solid rgba(201,151,58,0.2);">
       <div style="display:flex;gap:1.5rem;align-items:center;">
-        <a href="https://github.com/andy-bryden/" target="_blank"
-          style="color:rgba(201,151,58,0.4);text-decoration:none;font-family:'Inconsolata',monospace;font-size:0.72rem;letter-spacing:0.08em;transition:color 0.2s;">GitHub</a>
+        <a href="https://github.com/andy-bryden/" target="_blank" style="color:rgba(201,151,58,0.4);text-decoration:none;font-family:'Inconsolata',monospace;font-size:0.72rem;letter-spacing:0.08em;transition:color 0.2s;">GitHub</a>
       </div>
     </div>
   </div>
@@ -2736,10 +2726,8 @@
       <div id="move-prompt">
         <div class="mp-title" id="mp-title">Your Move</div>
         <div id="special-row">
-          <button class="sp-btn" id="fog-btn" onclick="useSpecial('fog')">🌫 Fog (<span
-              id="fog-btn-n">5</span>)</button>
-          <button class="sp-btn bluff" id="bluff-btn" onclick="useSpecial('bluff')">⚡ Bluff (<span
-              id="bluff-btn-n">2</span>)</button>
+          <button class="sp-btn" id="fog-btn" onclick="useSpecial('fog')">🌫 Fog (<span id="fog-btn-n">5</span>)</button>
+          <button class="sp-btn bluff" id="bluff-btn" onclick="useSpecial('bluff')">⚡ Bluff (<span id="bluff-btn-n">2</span>)</button>
           <button class="sp-btn cancel" id="cancel-btn" onclick="cancelSpecial()">✕ Cancel</button>
         </div>
         <div class="mp-controls">
@@ -2754,8 +2742,7 @@
             <div class="mp-actions">
               <button class="mp-btn cc" id="cc-btn" onclick="coachChoice()" style="display:none">Coach</button>
               <button class="mp-btn" id="commit-btn" onclick="commitMove()" disabled>Move →</button>
-              <button class="show-all-inline" id="clear-btn" onclick="clearSelection()"
-                style="display:none">Clear</button>
+              <button class="show-all-inline" id="clear-btn" onclick="clearSelection()" style="display:none">Clear</button>
             </div>
           </div>
         </div>
@@ -4320,7 +4307,7 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
         let valid = detMoves(det, exclude);
         if (!valid.length) valid = detMoves(det, new Set([...exclude].filter(n => G.detectives.map(d => d.node).includes(n))));
         if (!valid.length) return null;
-        
+
         const ugChase = G.lastObservedType === 'underground' && (det.tickets.underground || 0) > 0;
         valid.sort((a, b) => {
           const hopA = landHopDist(a.node, target), hopB = landHopDist(b.node, target);
@@ -4328,13 +4315,13 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
           const ugBonusB = ugChase && adj[b.node].underground.length > 0 ? 250 : 0;
           const degA = NODE_DEGREE[a.node] || 1;
           const degB = NODE_DEGREE[b.node] || 1;
-          
+
           // Absolute distance to target dominates score (1 hop = 1000 pts). Direct capture = 100000 pts.
           const scoreA = (hopA === 0 ? 100000 : -hopA * 1000) - ticketCost(det, a.type) + ugBonusA + (degA * 5);
           const scoreB = (hopB === 0 ? 100000 : -hopB * 1000) - ticketCost(det, b.type) + ugBonusB + (degB * 5);
           return scoreB - scoreA;
         });
-        
+
         // Never give up! Take the best move even if it temporarily increases distance.
         return valid[0];
       }
@@ -4371,10 +4358,10 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
           if (!topTargets.includes(cand)) topTargets.push(cand);
         }
         if (topTargets.length === 0 && rankedCandidates.length > 0) topTargets.push(rankedCandidates[0]);
-        
+
         const assignments = [];
         const availableDets = new Set([0, 1, 2, 3, 4]);
-        
+
         // Strictly assign exactly 1 detective per target
         for (const target of topTargets) {
           let bestDet = null, bestHops = 999;
@@ -4387,7 +4374,7 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
             availableDets.delete(bestDet);
           }
         }
-        
+
         // Any remaining detectives act as backup to the top priority target
         for (const di of availableDets) {
           assignments.push({ di, primaryTarget: topTargets[0] || 1 });
@@ -4432,7 +4419,7 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
         return moves;
       }
       let poolNodes = Array.from(G.routeTree);
-      
+
       // THE CAGE LOGIC: If Moriarty is pinned to 5 or fewer locations, target his EXITS too!
       if (poolNodes.length <= 5) {
         const expanded = new Set(poolNodes);
@@ -4450,7 +4437,7 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
         deg: NODE_DEGREE[node] || 1,
         prob: G.belief[node] || 0.1 // Base 10% probability for the newly added trap/exit nodes
       }));
-      
+
       poolScored.sort((a, b) => {
         const scoreA = (a.prob * 100) - (a.minHop * 2) + (a.deg * 0.1);
         const scoreB = (b.prob * 100) - (b.minHop * 2) + (b.deg * 0.1);
