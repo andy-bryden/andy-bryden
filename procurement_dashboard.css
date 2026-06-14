@@ -992,14 +992,23 @@
         grid-template-columns: 1fr;
       }
 
-      /* TZ visualiser: hide label column, show full-width bars */
+      /* TZ visualiser: smaller label, bars taller, text nowrap */
       .tz-viz-label {
-        min-width: 90px;
-        font-size: 10px;
+        min-width: 80px;
+        font-size: 9px;
       }
 
       .tz-header-row {
-        padding-left: 98px;
+        padding-left: 88px;
+      }
+
+      .tz-track {
+        height: 22px;
+      }
+
+      .tz-seg {
+        white-space: nowrap;
+        font-size: 8px;
       }
 
       /* Tables: allow horizontal scroll */
