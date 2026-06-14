@@ -6608,6 +6608,7 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
         requestAnimationFrame(() => _curtainLift(document.getElementById('title-screen')));
         return;
       }
+      document.getElementById('game').classList.remove('sim');
       G = freshGame();
       drawStartingPositions();
       logGameSnapshot('start');
