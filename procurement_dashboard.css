@@ -248,7 +248,7 @@
     .timeline {
       display: flex;
       flex-direction: column;
-      gap: 3px;
+      gap: 4px;
     }
 
     .tl-row {
@@ -264,14 +264,11 @@
       font-weight: 500;
       color: var(--text-3);
       min-width: 48px;
+      width: 48px;
       padding-top: 10px;
       text-align: right;
       padding-right: 12px;
       flex-shrink: 0;
-      display: flex;
-      flex-direction: column;
-      align-items: flex-end;
-      gap: 4px;
     }
 
     .tl-rail {
@@ -280,7 +277,6 @@
       flex-shrink: 0;
       margin-right: 10px;
       align-self: stretch;
-      min-height: 44px;
     }
 
     .tl-block {
@@ -288,12 +284,14 @@
       padding: 10px 12px;
       border-radius: var(--radius-sm);
       margin-bottom: 0;
+      position: relative;
     }
 
     .tl-title {
       font-size: 12px;
       font-weight: 600;
       margin-bottom: 3px;
+      padding-right: 56px;
     }
 
     .tl-desc {
@@ -1057,18 +1055,15 @@
       }
     }
 
-    /* ── DURATION LABEL (in tl-time column, below the clock time) ── */
+    /* ── DURATION LABEL (top-right corner of tl-block) ── */
     .tl-duration {
-      display: block;
-      font-size: 9px;
+      position: absolute;
+      top: 10px;
+      right: 10px;
+      font-size: 10px;
       font-weight: 500;
       color: var(--text-3);
       letter-spacing: 0.02em;
       line-height: 1;
-    }
-
-    /* Rail must stretch full height of row */
-    .tl-rail {
-      align-self: stretch;
-      min-height: unset;
+      white-space: nowrap;
     }
