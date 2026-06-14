@@ -162,16 +162,19 @@
     setSeason('summer');
 
     // ── TIMELINE DURATION HEIGHTS ──
-    // Height is set as a true fixed value on tl-row, driven purely by duration.
-    // The duration label lives in tl-time (not tl-block) so block content
-    // cannot influence row height. tl-block scrolls internally if needed.
+    // Sets min-height on each tl-row proportional to duration.
+    // Content can still expand a row if it genuinely needs more space —
+    // that's fine and preferable to clipping or scrolling.
+    // Duration label lives in tl-time (below the clock), not inside tl-block.
     function applyTimelineDurations() {
-      const PX_PER_MIN = 1.4; // px per minute
-      const MIN_HEIGHT = 52;  // floor — even a 15-min slot gets this
+      const PX_PER_MIN = 1.4;  // px per minute of duration
+      const MIN_HEIGHT = 52;   // floor for any slot
 
-      // Parse "H:MM" or "HH:MM" → minutes since midnight
       function toMins(str) {
-        const [h, m] = str.trim().split(':').map(Number);
+        // Strip any child element text (e.g. duration label already injected)
+        // by reading only the first text node
+        const text = str.trim().split('\n')[0].trim();
+        const [h, m] = text.split(':').map(Number);
         const hour = h < 7 ? h + 12 : h; // 1:15 → 13:15
         return hour * 60 + m;
       }
@@ -183,24 +186,29 @@
           const timeEl = row.querySelector('.tl-time');
           if (!timeEl) return;
 
-          // Strip any previously-injected duration label before reading text
+          // Remove any previously-injected duration label before reading time text
           const existing = timeEl.querySelector('.tl-duration');
           if (existing) existing.remove();
 
-          const startMins = toMins(timeEl.textContent.trim());
+          const startMins = toMins(timeEl.textContent);
           const endMins = i < rows.length - 1
-            ? toMins(rows[i + 1].querySelector('.tl-time').textContent.trim())
-            : 16 * 60 + 30; // 4:30 PM
+            ? (() => {
+                const nextTime = rows[i + 1].querySelector('.tl-time');
+                const nextExisting = nextTime.querySelector('.tl-duration');
+                if (nextExisting) nextExisting.remove();
+                return toMins(nextTime.textContent);
+              })()
+            : 16 * 60 + 30; // 4:30 PM end of day
 
           const durationMins = Math.max(0, endMins - startMins);
-          const height = Math.max(MIN_HEIGHT, durationMins * PX_PER_MIN);
+          const minH = Math.max(MIN_HEIGHT, durationMins * PX_PER_MIN);
 
-          // Fixed height on the row — content must not expand it
-          row.style.height = height + 'px';
-          row.style.minHeight = 'unset';
-          row.style.overflow = 'hidden';
+          // min-height only — let content expand freely beyond this if needed
+          row.style.minHeight = minH + 'px';
+          row.style.height = 'auto';
+          row.style.overflow = 'visible';
 
-          // Duration label injected into tl-time, below the clock time
+          // Inject duration label into tl-time, below the clock time
           const dur = document.createElement('span');
           dur.className = 'tl-duration';
           const hrs = Math.floor(durationMins / 60);
@@ -210,14 +218,11 @@
             : mins + ' min';
           timeEl.appendChild(dur);
 
-          // tl-block: allow internal scroll so text is never silently lost
+          // tl-block: no overflow changes — let it be natural
           const block = row.querySelector('.tl-block');
           if (block) {
-            block.style.overflowY = 'auto';
-            block.style.height = '100%';
-            // Remove any old duration label that was previously inside the block
-            const old = block.querySelector('.tl-duration');
-            if (old) old.remove();
+            block.style.overflowY = '';
+            block.style.height = '';
           }
         });
       });

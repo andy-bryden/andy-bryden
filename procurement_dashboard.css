@@ -255,8 +255,7 @@
       display: flex;
       align-items: stretch;
       gap: 0;
-      /* height is set by JS purely from duration — overflow hidden so content can't expand it */
-      overflow: hidden;
+      /* min-height set by JS from duration; height:auto so content expands freely */
     }
 
     .tl-time {
@@ -289,8 +288,6 @@
       padding: 10px 12px;
       border-radius: var(--radius-sm);
       margin-bottom: 0;
-      overflow-y: auto;
-      /* height: 100% is set by JS so it fills the fixed row height */
     }
 
     .tl-title {
