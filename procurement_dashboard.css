@@ -1052,3 +1052,26 @@
         font-size: 9px;
       }
     }
+
+    /* ── DURATION LABEL ── */
+    .tl-duration {
+      display: block;
+      font-size: 10px;
+      font-weight: 500;
+      color: var(--text-3);
+      margin-top: 6px;
+      letter-spacing: 0.02em;
+    }
+
+    .tl-deep .tl-duration   { color: var(--purple); opacity: 0.6; }
+    .tl-stand .tl-duration  { color: var(--green);  opacity: 0.6; }
+    .tl-so .tl-duration     { color: var(--orange); opacity: 0.6; }
+    .tl-mtg .tl-duration    { color: var(--accent); opacity: 0.6; }
+    .tl-supp .tl-duration   { color: var(--amber);  opacity: 0.6; }
+    .tl-lunch .tl-duration  { color: var(--text-3); }
+
+    /* Rail must stretch full height of row */
+    .tl-rail {
+      align-self: stretch;
+      min-height: unset;
+    }

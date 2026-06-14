@@ -160,3 +160,48 @@
 
     // Init
     setSeason('summer');
+
+    // ── TIMELINE DURATION HEIGHTS ──
+    function applyTimelineDurations() {
+      const MIN_HEIGHT = 44;   // px per 30 min minimum
+      const PX_PER_MIN = 1.2; // px per minute above minimum
+
+      document.querySelectorAll('.timeline').forEach(tl => {
+        const rows = Array.from(tl.querySelectorAll('.tl-row'));
+
+        // Parse time string "H:MM" or "HH:MM" → minutes since midnight
+        function toMins(str) {
+          const [h, m] = str.trim().split(':').map(Number);
+          return h * 60 + m;
+        }
+
+        rows.forEach((row, i) => {
+          const timeEl = row.querySelector('.tl-time');
+          if (!timeEl) return;
+
+          const startMins = toMins(timeEl.textContent);
+          const endMins = i < rows.length - 1
+            ? toMins(rows[i + 1].querySelector('.tl-time').textContent)
+            : 16 * 60 + 30; // 4:30 PM end of day
+
+          const durationMins = endMins - startMins;
+          const height = Math.max(MIN_HEIGHT, MIN_HEIGHT + (durationMins - 30) * PX_PER_MIN);
+          row.style.minHeight = height + 'px';
+
+          // Inject duration badge into tl-block
+          const block = row.querySelector('.tl-block');
+          if (block && !block.querySelector('.tl-duration')) {
+            const dur = document.createElement('span');
+            dur.className = 'tl-duration';
+            const hrs = Math.floor(durationMins / 60);
+            const mins = durationMins % 60;
+            dur.textContent = hrs > 0
+              ? (mins > 0 ? hrs + 'h ' + mins + 'm' : hrs + (hrs === 1 ? ' hr' : ' hrs'))
+              : mins + ' min';
+            block.appendChild(dur);
+          }
+        });
+      });
+    }
+
+    applyTimelineDurations();
