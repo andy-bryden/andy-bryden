@@ -162,45 +162,62 @@
     setSeason('summer');
 
     // ── TIMELINE DURATION HEIGHTS ──
+    // Height is set as a true fixed value on tl-row, driven purely by duration.
+    // The duration label lives in tl-time (not tl-block) so block content
+    // cannot influence row height. tl-block scrolls internally if needed.
     function applyTimelineDurations() {
-      const MIN_HEIGHT = 44;   // px per 30 min minimum
-      const PX_PER_MIN = 1.2; // px per minute above minimum
+      const PX_PER_MIN = 1.4; // px per minute
+      const MIN_HEIGHT = 52;  // floor — even a 15-min slot gets this
+
+      // Parse "H:MM" or "HH:MM" → minutes since midnight
+      function toMins(str) {
+        const [h, m] = str.trim().split(':').map(Number);
+        const hour = h < 7 ? h + 12 : h; // 1:15 → 13:15
+        return hour * 60 + m;
+      }
 
       document.querySelectorAll('.timeline').forEach(tl => {
         const rows = Array.from(tl.querySelectorAll('.tl-row'));
-
-        // Parse time string "H:MM" or "HH:MM" → minutes since midnight
-        function toMins(str) {
-          const [h, m] = str.trim().split(':').map(Number);
-          // Work day is 7:30–16:30; any hour < 7 must be PM (13:00+)
-          const hour = h < 7 ? h + 12 : h;
-          return hour * 60 + m;
-        }
 
         rows.forEach((row, i) => {
           const timeEl = row.querySelector('.tl-time');
           if (!timeEl) return;
 
-          const startMins = toMins(timeEl.textContent);
+          // Strip any previously-injected duration label before reading text
+          const existing = timeEl.querySelector('.tl-duration');
+          if (existing) existing.remove();
+
+          const startMins = toMins(timeEl.textContent.trim());
           const endMins = i < rows.length - 1
-            ? toMins(rows[i + 1].querySelector('.tl-time').textContent)
-            : 16 * 60 + 30; // 4:30 PM end of day
+            ? toMins(rows[i + 1].querySelector('.tl-time').textContent.trim())
+            : 16 * 60 + 30; // 4:30 PM
 
-          const durationMins = endMins - startMins;
-          const height = Math.max(MIN_HEIGHT, MIN_HEIGHT + (durationMins - 30) * PX_PER_MIN);
-          row.style.minHeight = height + 'px';
+          const durationMins = Math.max(0, endMins - startMins);
+          const height = Math.max(MIN_HEIGHT, durationMins * PX_PER_MIN);
 
-          // Inject duration badge into tl-block
+          // Fixed height on the row — content must not expand it
+          row.style.height = height + 'px';
+          row.style.minHeight = 'unset';
+          row.style.overflow = 'hidden';
+
+          // Duration label injected into tl-time, below the clock time
+          const dur = document.createElement('span');
+          dur.className = 'tl-duration';
+          const hrs = Math.floor(durationMins / 60);
+          const mins = durationMins % 60;
+          dur.textContent = hrs > 0
+            ? (mins > 0 ? hrs + 'h ' + mins + 'm' : hrs + (hrs === 1 ? ' hr' : ' hrs'))
+            : mins + ' min';
+          timeEl.appendChild(dur);
+
+          // tl-block: allow internal scroll so text is never silently lost
           const block = row.querySelector('.tl-block');
-          if (block && !block.querySelector('.tl-duration')) {
-            const dur = document.createElement('span');
-            dur.className = 'tl-duration';
-            const hrs = Math.floor(durationMins / 60);
-            const mins = durationMins % 60;
-            dur.textContent = hrs > 0
-              ? (mins > 0 ? hrs + 'h ' + mins + 'm' : hrs + (hrs === 1 ? ' hr' : ' hrs'))
-              : mins + ' min';
-            block.appendChild(dur);
+          if (block) {
+            block.style.overflowY = 'auto';
+            block.style.height = '100%';
+            // Remove any old duration label that was previously inside the block
+            const old = block.querySelector('.tl-duration');
+            if (old) old.remove();
           }
         });
       });
