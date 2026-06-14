@@ -4329,9 +4329,8 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
           const degA = NODE_DEGREE[a.node] || 1;
           const degB = NODE_DEGREE[b.node] || 1;
           
-          // Absolute distance to target dominates score (1 hop = 1000 pts). Direct capture = 100000 pts.
-          const scoreA = (hopA === 0 ? 100000 : -hopA * 1000) - ticketCost(det, a.type) + ugBonusA + (degA * 5);
-          const scoreB = (hopB === 0 ? 100000 : -hopB * 1000) - ticketCost(det, b.type) + ugBonusB + (degB * 5);
+          const scoreA = (hopA === 0 ? 100000 : -hopA * 1000) - ticketCost(det, a.type) + ugBonusA + (degA * 30);
+          const scoreB = (hopB === 0 ? 100000 : -hopB * 1000) - ticketCost(det, b.type) + ugBonusB + (degB * 30);
           return scoreB - scoreA;
         });
         
@@ -4360,12 +4359,6 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
       }
       function assignDetectives(rankedCandidates) {
         const topTargets = [];
-        for (const cand of rankedCandidates) {
-          if (topTargets.every(t => landHopDist(t, cand) >= 2)) {
-            topTargets.push(cand);
-          }
-          if (topTargets.length >= 5) break;
-        }
         for (const cand of rankedCandidates) {
           if (topTargets.length >= 5) break;
           if (!topTargets.includes(cand)) topTargets.push(cand);
@@ -4402,7 +4395,7 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
         if (targets.size < 5) {
           (adj[G.ghostNode]['taxi'] || []).forEach(nb => targets.add(nb));
         }
-        const rankedCandidates = Array.from(targets);
+        const rankedCandidates = Array.from(targets).sort((a, b) => (NODE_DEGREE[b] || 1) - (NODE_DEGREE[a] || 1));
         const assignments = assignDetectives(rankedCandidates);
         assignments.sort((a, b) => landHopDistDet(G.detectives[a.di], a.primaryTarget) - landHopDistDet(G.detectives[b.di], b.primaryTarget));
         const moves = [];
@@ -4452,8 +4445,8 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
       }));
       
       poolScored.sort((a, b) => {
-        const scoreA = (a.prob * 100) - (a.minHop * 2) + (a.deg * 0.1);
-        const scoreB = (b.prob * 100) - (b.minHop * 2) + (b.deg * 0.1);
+        const scoreA = (a.prob * 500) - (a.minHop * 2) + (a.deg * 0.1);
+        const scoreB = (b.prob * 500) - (b.minHop * 2) + (b.deg * 0.1);
         return scoreB - scoreA;
       });
       const rankedCandidates = poolScored.map(({ node }) => node);
