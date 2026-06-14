@@ -4329,8 +4329,9 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
           const degA = NODE_DEGREE[a.node] || 1;
           const degB = NODE_DEGREE[b.node] || 1;
           
-          const scoreA = (hopA === 0 ? 100000 : -hopA * 1000) - ticketCost(det, a.type) + ugBonusA + (degA * 30);
-          const scoreB = (hopB === 0 ? 100000 : -hopB * 1000) - ticketCost(det, b.type) + ugBonusB + (degB * 30);
+          // Absolute distance to target dominates score (1 hop = 1000 pts). Direct capture = 100000 pts.
+          const scoreA = (hopA === 0 ? 100000 : -hopA * 1000) - ticketCost(det, a.type) + ugBonusA + (degA * 5);
+          const scoreB = (hopB === 0 ? 100000 : -hopB * 1000) - ticketCost(det, b.type) + ugBonusB + (degB * 5);
           return scoreB - scoreA;
         });
         
@@ -4357,12 +4358,10 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
         if (!valid.length) return { move: { node: det.node, type: 'taxi' }, assignedTarget: primaryTarget, rank: 99 };
         return { move: valid[0], assignedTarget: primaryTarget, rank: 99 };
       }
-      function assignDetectives(rankedCandidates, spreadNet = true) {
+      function assignDetectives(rankedCandidates) {
         const topTargets = [];
         for (const cand of rankedCandidates) {
-          // If spreadNet is true (Fog), keep them 2 hops apart. 
-          // If false (Cornered/Reveal), let them target adjacent nodes to Swarm.
-          if (!spreadNet || topTargets.every(t => landHopDist(t, cand) >= 2)) {
+          if (topTargets.every(t => landHopDist(t, cand) >= 2)) {
             topTargets.push(cand);
           }
           if (topTargets.length >= 5) break;
@@ -4376,6 +4375,7 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
         const assignments = [];
         const availableDets = new Set([0, 1, 2, 3, 4]);
         
+        // Strictly assign exactly 1 detective per target
         for (const target of topTargets) {
           let bestDet = null, bestHops = 999;
           for (const di of availableDets) {
@@ -4388,6 +4388,7 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
           }
         }
         
+        // Any remaining detectives act as backup to the top priority target
         for (const di of availableDets) {
           assignments.push({ di, primaryTarget: topTargets[0] || 1 });
         }
@@ -4402,11 +4403,7 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
           (adj[G.ghostNode]['taxi'] || []).forEach(nb => targets.add(nb));
         }
         const rankedCandidates = Array.from(targets);
-        // Sort by degree to block the most dangerous exits first
-        rankedCandidates.sort((a, b) => (NODE_DEGREE[b] || 1) - (NODE_DEGREE[a] || 1));
-        
-        // SWARM THE REVEAL: Pass 'false' so they don't spread out
-        const assignments = assignDetectives(rankedCandidates, false);
+        const assignments = assignDetectives(rankedCandidates);
         assignments.sort((a, b) => landHopDistDet(G.detectives[a.di], a.primaryTarget) - landHopDistDet(G.detectives[b.di], b.primaryTarget));
         const moves = [];
         const planned = new Set();
@@ -4435,10 +4432,9 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
         return moves;
       }
       let poolNodes = Array.from(G.routeTree);
-      const isCornered = G.routeTree.size <= 10;
       
-      // THE CAGE LOGIC: If Moriarty is pinned to 10 or fewer locations, target his EXITS too!
-      if (isCornered) {
+      // THE CAGE LOGIC: If Moriarty is pinned to 5 or fewer locations, target his EXITS too!
+      if (poolNodes.length <= 5) {
         const expanded = new Set(poolNodes);
         poolNodes.forEach(n => {
           ['taxi', 'bus', 'underground'].forEach(t => {
@@ -4448,32 +4444,20 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
         poolNodes = Array.from(expanded);
       }
 
-      const poolScored = poolNodes.map(node => {
-        const nData = nodes[node] || { types: [] };
-        // Identify major transit hubs to block during Fog
-        const isHub = (nData.types.includes('underground') || (adj[node].bus && adj[node].bus.length >= 2)) ? 1 : 0;
-        return {
-          node,
-          minHop: Math.min(...G.detectives.map(d => landHopDistDet(d, node))),
-          deg: NODE_DEGREE[node] || 1,
-          prob: G.belief[node] || 0.05,
-          isHub
-        };
-      });
+      const poolScored = poolNodes.map(node => ({
+        node,
+        minHop: Math.min(...G.detectives.map(d => landHopDistDet(d, node))),
+        deg: NODE_DEGREE[node] || 1,
+        prob: G.belief[node] || 0.1 // Base 10% probability for the newly added trap/exit nodes
+      }));
       
       poolScored.sort((a, b) => {
-        // 1. Probability is king (x1000)
-        // 2. Distance penalty is moderate (-15 per hop) so they don't ignore high-prob nodes just because they are 2 steps away.
-        // 3. Hubs get a solid bonus (+25) to cut off escapes during Fog.
-        const scoreA = (a.prob * 1000) - (a.minHop * 15) + (a.isHub * 25) + (a.deg * 2);
-        const scoreB = (b.prob * 1000) - (b.minHop * 15) + (b.isHub * 25) + (b.deg * 2);
+        const scoreA = (a.prob * 100) - (a.minHop * 2) + (a.deg * 0.1);
+        const scoreB = (b.prob * 100) - (b.minHop * 2) + (b.deg * 0.1);
         return scoreB - scoreA;
       });
-      
       const rankedCandidates = poolScored.map(({ node }) => node);
-      
-      // THE POUNCE: If cornered, SWARM (spreadNet = false). If in Fog, NET (spreadNet = true).
-      const assignments = assignDetectives(rankedCandidates, !isCornered);
+      const assignments = assignDetectives(rankedCandidates);
       assignments.sort((a, b) => landHopDistDet(G.detectives[a.di], a.primaryTarget) - landHopDistDet(G.detectives[b.di], b.primaryTarget));
       const moves = [];
       const planned = new Set();
