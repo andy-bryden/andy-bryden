@@ -1,0 +1,2489 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Procurement Dashboard — Atrada</title>
+  <style>
+    *,
+    *::before,
+    *::after {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    :root {
+      --bg: #F7F6F3;
+      --surface: #FFFFFF;
+      --border: #E2DFD8;
+      --border-light: #EDE9E3;
+      --text: #1A1916;
+      --text-2: #6B6860;
+      --text-3: #9C9A95;
+      --accent: #2C5F8A;
+      --accent-light: #EBF2F8;
+      --orange: #C4622D;
+      --orange-light: #FAEEE7;
+      --green: #2A7A52;
+      --green-light: #E8F4EE;
+      --amber: #B07D2A;
+      --amber-light: #FBF3E3;
+      --purple: #5B4C9A;
+      --purple-light: #EEEDFB;
+      --teal: #2A7A6E;
+      --teal-light: #E8F4F2;
+      --radius: 6px;
+      --radius-sm: 4px;
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      font-size: 13px;
+      line-height: 1.5;
+      min-height: 100vh;
+    }
+
+    /* ── LAYOUT ── */
+    .app {
+      display: flex;
+      flex-direction: column;
+      min-height: 100vh;
+    }
+
+    .topbar {
+      background: var(--surface);
+      border-bottom: 1px solid var(--border);
+      padding: 0 24px;
+      display: flex;
+      align-items: center;
+      gap: 0;
+      height: 48px;
+      position: sticky;
+      top: 0;
+      z-index: 100;
+    }
+
+    .logo {
+      font-size: 12px;
+      font-weight: 600;
+      letter-spacing: .08em;
+      text-transform: uppercase;
+      color: var(--text-3);
+      margin-right: 28px;
+      white-space: nowrap;
+    }
+
+    .nav {
+      display: flex;
+      gap: 0;
+      flex: 1;
+      overflow-x: auto;
+    }
+
+    .nav-btn {
+      padding: 0 14px;
+      height: 48px;
+      border: none;
+      background: none;
+      color: var(--text-2);
+      font-size: 12px;
+      font-weight: 500;
+      cursor: pointer;
+      border-bottom: 2px solid transparent;
+      white-space: nowrap;
+      transition: color .15s, border-color .15s;
+      display: flex;
+      align-items: center;
+      gap: 5px;
+    }
+
+    .nav-btn:hover {
+      color: var(--text);
+    }
+
+    .nav-btn.active {
+      color: var(--accent);
+      border-bottom-color: var(--accent);
+    }
+
+    .content {
+      flex: 1;
+      padding: 28px 24px 48px;
+      max-width: 1280px;
+      margin: 0 auto;
+      width: 100%;
+    }
+
+    /* ── PANELS ── */
+    .panel {
+      display: none;
+    }
+
+    .panel.active {
+      display: block;
+    }
+
+    /* ── TYPOGRAPHY ── */
+    .section-label {
+      font-size: 10px;
+      font-weight: 600;
+      letter-spacing: .1em;
+      text-transform: uppercase;
+      color: var(--text-3);
+      margin-bottom: 12px;
+      margin-top: 24px;
+    }
+
+    .section-label:first-child {
+      margin-top: 0;
+    }
+
+    .page-title {
+      font-size: 18px;
+      font-weight: 600;
+      color: var(--text);
+      margin-bottom: 4px;
+    }
+
+    .page-sub {
+      font-size: 12px;
+      color: var(--text-2);
+      margin-bottom: 24px;
+    }
+
+    /* ── CARDS ── */
+    .card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 16px 18px;
+      margin-bottom: 12px;
+    }
+
+    .card-title {
+      font-size: 12px;
+      font-weight: 600;
+      color: var(--text);
+      margin-bottom: 8px;
+    }
+
+    .card-sub {
+      font-size: 11px;
+      color: var(--text-2);
+      line-height: 1.55;
+    }
+
+    /* ── GRIDS ── */
+    .g2 {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 12px;
+    }
+
+    .g3 {
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr;
+      gap: 12px;
+    }
+
+    .g4 {
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr 1fr;
+      gap: 12px;
+    }
+
+    /* ── BADGES ── */
+    .badge {
+      display: inline-block;
+      font-size: 10px;
+      font-weight: 500;
+      padding: 1px 7px;
+      border-radius: 10px;
+      vertical-align: middle;
+      margin-left: 4px;
+    }
+
+    .b-blue {
+      background: var(--accent-light);
+      color: var(--accent);
+    }
+
+    .b-orange {
+      background: var(--orange-light);
+      color: var(--orange);
+    }
+
+    .b-green {
+      background: var(--green-light);
+      color: var(--green);
+    }
+
+    .b-amber {
+      background: var(--amber-light);
+      color: var(--amber);
+    }
+
+    .b-purple {
+      background: var(--purple-light);
+      color: var(--purple);
+    }
+
+    .b-teal {
+      background: var(--teal-light);
+      color: var(--teal);
+    }
+
+    .b-grey {
+      background: #F1EFE8;
+      color: #5A5852;
+    }
+
+    /* ── PILL TAGS ── */
+    .tag {
+      display: inline-block;
+      font-size: 10px;
+      font-weight: 500;
+      padding: 2px 8px;
+      border-radius: 3px;
+      margin: 2px 2px 0 0;
+    }
+
+    /* ── TIMELINE BLOCKS (daily schedule) ── */
+    .timeline {
+      display: flex;
+      flex-direction: column;
+      gap: 3px;
+    }
+
+    .tl-row {
+      display: flex;
+      align-items: stretch;
+      gap: 0;
+      min-height: 44px;
+    }
+
+    .tl-time {
+      font-size: 11px;
+      font-family: 'SF Mono', 'Consolas', 'Courier New', monospace;
+      font-weight: 500;
+      color: var(--text-3);
+      min-width: 48px;
+      padding-top: 12px;
+      text-align: right;
+      padding-right: 12px;
+      flex-shrink: 0;
+    }
+
+    .tl-rail {
+      width: 3px;
+      border-radius: 2px;
+      flex-shrink: 0;
+      margin-right: 10px;
+      align-self: stretch;
+      min-height: 44px;
+    }
+
+    .tl-block {
+      flex: 1;
+      padding: 10px 12px;
+      border-radius: var(--radius-sm);
+      margin-bottom: 0;
+    }
+
+    .tl-title {
+      font-size: 12px;
+      font-weight: 600;
+      margin-bottom: 3px;
+    }
+
+    .tl-desc {
+      font-size: 11px;
+      line-height: 1.5;
+    }
+
+    /* Colour variants */
+    .tl-deep {
+      background: var(--purple-light);
+    }
+
+    .tl-deep .tl-title {
+      color: var(--purple);
+    }
+
+    .tl-deep .tl-rail-c {
+      background: var(--purple);
+    }
+
+    .tl-stand {
+      background: var(--green-light);
+    }
+
+    .tl-stand .tl-title {
+      color: var(--green);
+    }
+
+    .tl-so {
+      background: var(--orange-light);
+    }
+
+    .tl-so .tl-title {
+      color: var(--orange);
+    }
+
+    .tl-mtg {
+      background: var(--accent-light);
+    }
+
+    .tl-mtg .tl-title {
+      color: var(--accent);
+    }
+
+    .tl-supp {
+      background: var(--amber-light);
+    }
+
+    .tl-supp .tl-title {
+      color: var(--amber);
+    }
+
+    .tl-lunch {
+      background: #F4F2EE;
+    }
+
+    .tl-lunch .tl-title {
+      color: var(--text-2);
+    }
+
+    /* Rail colours by type */
+    .rail-deep {
+      background: var(--purple);
+    }
+
+    .rail-stand {
+      background: var(--green);
+    }
+
+    .rail-so {
+      background: var(--orange);
+    }
+
+    .rail-mtg {
+      background: var(--accent);
+    }
+
+    .rail-supp {
+      background: var(--amber);
+    }
+
+    .rail-lunch {
+      background: #C8C4BB;
+    }
+
+    /* ── WEEK OVERVIEW ── */
+    .week-grid {
+      display: grid;
+      grid-template-columns: repeat(5, 1fr);
+      gap: 10px;
+      margin-bottom: 20px;
+    }
+
+    .day-col {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      overflow: hidden;
+    }
+
+    .day-col-head {
+      padding: 8px 10px 6px;
+      border-bottom: 1px solid var(--border-light);
+      font-size: 11px;
+      font-weight: 600;
+    }
+
+    .day-col-body {
+      padding: 8px 8px 10px;
+    }
+
+    .day-block {
+      font-size: 10px;
+      padding: 3px 6px;
+      border-radius: 3px;
+      margin-bottom: 3px;
+      line-height: 1.4;
+    }
+
+    .db-deep {
+      background: var(--purple-light);
+      color: var(--purple);
+    }
+
+    .db-stand {
+      background: var(--green-light);
+      color: var(--green);
+    }
+
+    .db-so {
+      background: var(--orange-light);
+      color: var(--orange);
+    }
+
+    .db-mtg {
+      background: var(--accent-light);
+      color: var(--accent);
+    }
+
+    .db-supp {
+      background: var(--amber-light);
+      color: var(--amber);
+    }
+
+    .db-lunch {
+      background: #F1EFE8;
+      color: #6B6860;
+    }
+
+    /* ── SUB TABS ── */
+    .sub-tabs {
+      display: flex;
+      gap: 4px;
+      margin-bottom: 20px;
+      border-bottom: 1px solid var(--border);
+      padding-bottom: 0;
+    }
+
+    .sub-tab {
+      padding: 6px 14px 8px;
+      border: none;
+      background: none;
+      color: var(--text-2);
+      font-size: 12px;
+      font-weight: 500;
+      cursor: pointer;
+      border-bottom: 2px solid transparent;
+      margin-bottom: -1px;
+      transition: color .15s, border-color .15s;
+    }
+
+    .sub-tab:hover {
+      color: var(--text);
+    }
+
+    .sub-tab.active {
+      color: var(--accent);
+      border-bottom-color: var(--accent);
+    }
+
+    .sub-panel {
+      display: none;
+    }
+
+    .sub-panel.active {
+      display: block;
+    }
+
+    /* ── TABLES ── */
+    .tbl {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 12px;
+    }
+
+    .tbl th {
+      font-size: 10px;
+      font-weight: 600;
+      letter-spacing: .06em;
+      text-transform: uppercase;
+      color: var(--text-3);
+      text-align: left;
+      padding: 6px 10px 8px;
+      border-bottom: 1px solid var(--border);
+    }
+
+    .tbl td {
+      padding: 8px 10px;
+      border-bottom: 1px solid var(--border-light);
+      color: var(--text-2);
+      vertical-align: top;
+    }
+
+    .tbl tr:last-child td {
+      border-bottom: none;
+    }
+
+    .tbl td:first-child {
+      color: var(--text);
+      font-weight: 500;
+    }
+
+    /* ── LEGEND ── */
+    .legend {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      margin-top: 12px;
+      padding: 10px 14px;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+    }
+
+    .legend-item {
+      display: flex;
+      align-items: center;
+      gap: 5px;
+      font-size: 10px;
+      color: var(--text-2);
+    }
+
+    .legend-dot {
+      width: 8px;
+      height: 8px;
+      border-radius: 2px;
+      flex-shrink: 0;
+    }
+
+    /* ── NOTE BOX ── */
+    .note {
+      background: var(--accent-light);
+      border-left: 3px solid var(--accent);
+      border-radius: 0 var(--radius-sm) var(--radius-sm) 0;
+      padding: 10px 14px;
+      font-size: 11px;
+      color: var(--text-2);
+      line-height: 1.6;
+      margin: 12px 0;
+    }
+
+    .note strong {
+      color: var(--text);
+    }
+
+    .note-amber {
+      background: var(--amber-light);
+      border-left-color: var(--amber);
+    }
+
+    .note-orange {
+      background: var(--orange-light);
+      border-left-color: var(--orange);
+    }
+
+    .note-green {
+      background: var(--green-light);
+      border-left-color: var(--green);
+    }
+
+    /* ── TZ SPECIFIC ── */
+    .tz-viz-row {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      margin-bottom: 4px;
+    }
+
+    .tz-viz-label {
+      font-size: 11px;
+      color: var(--text-2);
+      min-width: 130px;
+      text-align: right;
+      flex-shrink: 0;
+    }
+
+    .tz-track {
+      flex: 1;
+      height: 20px;
+      background: var(--bg);
+      border-radius: 3px;
+      overflow: hidden;
+      display: flex;
+    }
+
+    .tz-seg {
+      height: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 9px;
+      font-weight: 500;
+    }
+
+    .tz-header-row {
+      display: flex;
+      gap: 8px;
+      margin-bottom: 5px;
+      padding-left: 138px;
+    }
+
+    .tz-header-cell {
+      flex: 1;
+      font-size: 9px;
+      color: var(--text-3);
+      text-align: center;
+    }
+
+    /* ── KPI CARDS ── */
+    .kpi-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 14px 16px;
+    }
+
+    .kpi-name {
+      font-size: 11px;
+      font-weight: 600;
+      color: var(--text);
+      margin-bottom: 4px;
+    }
+
+    .kpi-def {
+      font-size: 11px;
+      color: var(--text-2);
+      margin-bottom: 8px;
+      line-height: 1.5;
+    }
+
+    .kpi-calc {
+      font-size: 10px;
+      font-family: 'SF Mono', 'Consolas', monospace;
+      background: var(--bg);
+      padding: 5px 8px;
+      border-radius: var(--radius-sm);
+      color: var(--text-2);
+      margin-bottom: 8px;
+    }
+
+    .kpi-bench {
+      font-size: 10px;
+      color: var(--text-3);
+    }
+
+    .kpi-bench span {
+      font-weight: 600;
+    }
+
+    /* ── DECISION FLOW ── */
+    .decision-step {
+      display: flex;
+      gap: 12px;
+      align-items: flex-start;
+      margin-bottom: 10px;
+    }
+
+    .step-num {
+      width: 22px;
+      height: 22px;
+      border-radius: 50%;
+      background: var(--accent);
+      color: #fff;
+      font-size: 10px;
+      font-weight: 700;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-shrink: 0;
+      margin-top: 1px;
+    }
+
+    .step-body {
+      flex: 1;
+    }
+
+    .step-title {
+      font-size: 12px;
+      font-weight: 600;
+      color: var(--text);
+      margin-bottom: 2px;
+    }
+
+    .step-desc {
+      font-size: 11px;
+      color: var(--text-2);
+      line-height: 1.5;
+    }
+
+    .outcome-row {
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr;
+      gap: 10px;
+      margin: 14px 0;
+    }
+
+    .outcome-card {
+      padding: 12px 14px;
+      border-radius: var(--radius);
+      border: 1px solid var(--border);
+    }
+
+    .outcome-card h4 {
+      font-size: 11px;
+      font-weight: 700;
+      margin-bottom: 6px;
+    }
+
+    .outcome-card ul {
+      list-style: none;
+    }
+
+    .outcome-card ul li {
+      font-size: 11px;
+      color: var(--text-2);
+      padding: 2px 0;
+    }
+
+    .outcome-card ul li::before {
+      content: "→ ";
+      color: var(--text-3);
+    }
+
+    .oc-prod {
+      background: var(--green-light);
+      border-color: #B8DFC8;
+    }
+
+    .oc-prod h4 {
+      color: var(--green);
+    }
+
+    .oc-disp {
+      background: var(--accent-light);
+      border-color: #BDD6EC;
+    }
+
+    .oc-disp h4 {
+      color: var(--accent);
+    }
+
+    .oc-purch {
+      background: var(--orange-light);
+      border-color: #F0C4A8;
+    }
+
+    .oc-purch h4 {
+      color: var(--orange);
+    }
+
+    /* ── VENDOR TIERS ── */
+    .tier-card {
+      border-left: 4px solid;
+      padding: 12px 16px;
+      background: var(--surface);
+      border-radius: 0 var(--radius) var(--radius) 0;
+      margin-bottom: 10px;
+      border-top: 1px solid var(--border);
+      border-right: 1px solid var(--border);
+      border-bottom: 1px solid var(--border);
+    }
+
+    /* ── TRIAGE ── */
+    .triage-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 10px;
+    }
+
+    .triage-card {
+      border-radius: var(--radius);
+      padding: 14px 16px;
+      border: 1px solid var(--border);
+    }
+
+    .triage-card h4 {
+      font-size: 13px;
+      font-weight: 700;
+      margin-bottom: 6px;
+    }
+
+    .triage-card p,
+    .triage-card li {
+      font-size: 11px;
+      color: var(--text-2);
+      line-height: 1.6;
+    }
+
+    .triage-card ul {
+      list-style: none;
+      padding: 0;
+    }
+
+    .triage-card ul li::before {
+      content: "• ";
+      color: var(--text-3);
+    }
+
+    /* ── TIPS ── */
+    .tip-row {
+      display: flex;
+      gap: 10px;
+      align-items: flex-start;
+      padding: 10px 0;
+      border-bottom: 1px solid var(--border-light);
+    }
+
+    .tip-row:last-child {
+      border-bottom: none;
+    }
+
+    .tip-num {
+      font-size: 11px;
+      font-family: 'SF Mono', 'Consolas', monospace;
+      color: var(--text-3);
+      min-width: 24px;
+      padding-top: 1px;
+    }
+
+    .tip-body {
+      flex: 1;
+    }
+
+    .tip-title {
+      font-size: 12px;
+      font-weight: 600;
+      color: var(--text);
+      margin-bottom: 2px;
+    }
+
+    .tip-desc {
+      font-size: 11px;
+      color: var(--text-2);
+      line-height: 1.5;
+    }
+
+    /* ── SEASON TOGGLE ── */
+    .season-toggle {
+      display: flex;
+      gap: 6px;
+      margin-bottom: 20px;
+    }
+
+    .season-btn {
+      padding: 5px 14px;
+      border: 1px solid var(--border);
+      border-radius: var(--radius-sm);
+      background: var(--surface);
+      color: var(--text-2);
+      font-size: 12px;
+      font-weight: 500;
+      cursor: pointer;
+      transition: all .15s;
+    }
+
+    .season-btn.active {
+      background: var(--accent);
+      color: #fff;
+      border-color: var(--accent);
+    }
+
+    /* ── CHECKLIST ── */
+    .checklist {
+      list-style: none;
+    }
+
+    .checklist li {
+      display: flex;
+      align-items: flex-start;
+      gap: 8px;
+      padding: 5px 0;
+      border-bottom: 1px solid var(--border-light);
+      font-size: 12px;
+      color: var(--text-2);
+    }
+
+    .checklist li:last-child {
+      border-bottom: none;
+    }
+
+    .checklist li::before {
+      content: "☐";
+      color: var(--text-3);
+      flex-shrink: 0;
+      margin-top: 1px;
+    }
+
+    /* ── HR ── */
+    hr {
+      border: none;
+      border-top: 1px solid var(--border-light);
+      margin: 16px 0;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="app">
+
+    <!-- TOP NAV -->
+    <nav class="topbar">
+      <div class="logo">Procurement</div>
+      <div class="nav">
+        <button class="nav-btn active" onclick="showTab('overview')">Week Overview</button>
+        <button class="nav-btn" onclick="showTab('weekly')">Weekly Structure</button>
+        <button class="nav-btn" onclick="showTab('timezones')">Time Zones</button>
+        <button class="nav-btn" onclick="showTab('salesorders')">Sales Orders</button>
+        <button class="nav-btn" onclick="showTab('inventory')">Inventory</button>
+        <button class="nav-btn" onclick="showTab('logistics')">Logistics</button>
+        <button class="nav-btn" onclick="showTab('vendors')">Vendors</button>
+        <button class="nav-btn" onclick="showTab('triage')">Triage System</button>
+        <button class="nav-btn" onclick="showTab('kpis')">KPIs &amp; Review</button>
+        <button class="nav-btn" onclick="showTab('tips')">Time Management</button>
+      </div>
+    </nav>
+
+    <div class="content">
+
+      <!-- ═══════════════════════════════════════════ OVERVIEW ═══ -->
+      <div class="panel active" id="panel-overview">
+        <div class="page-title">Week at a Glance</div>
+        <div class="page-sub">Atrada Procurement — 7:30 AM to 4:30 PM, Monday to Friday</div>
+
+        <div class="week-grid">
+          <!-- MONDAY -->
+          <div onclick="showTab('weekly'),showSub('weekly','mon')" class="day-col">
+            <div class="day-col-head" style="color:var(--purple)">Monday</div>
+            <div class="day-col-body">
+              <div class="day-block db-deep">7:30 Deep work</div>
+              <div class="day-block db-stand">8:30 Team standup</div>
+              <div class="day-block db-so">9:00 SO batch 1 + triage</div>
+              <div class="day-block db-deep">9:30 Deep work</div>
+              <div class="day-block db-mtg">10:30 Dept Leads (60 min)</div>
+              <div class="day-block db-deep">11:30 Deep work</div>
+              <div class="day-block db-lunch">12:30 Lunch</div>
+              <div class="day-block db-so">1:15 SO batch 2</div>
+              <div class="day-block db-supp">2:30 Suppliers / stakeholders</div>
+              <div class="day-block db-deep">4:00 Daily close</div>
+            </div>
+          </div>
+          <!-- TUESDAY -->
+          <div onclick="showTab('weekly'),showSub('weekly','tue')" class="day-col">
+            <div class="day-col-head" style="color:var(--green)">Tuesday</div>
+            <div class="day-col-body">
+              <div class="day-block db-deep">7:30 Deep work</div>
+              <div class="day-block db-stand">8:30 Team standup</div>
+              <div class="day-block db-so">9:00 SO batch 1</div>
+              <div class="day-block db-deep">9:30 Deep work / visit prep</div>
+              <div class="day-block db-supp">11:00 Supplier visits (avail.)</div>
+              <div class="day-block db-lunch">12:30 Lunch</div>
+              <div class="day-block db-so">1:15 SO batch 2</div>
+              <div class="day-block db-supp">2:30 Inventory + reorders</div>
+              <div class="day-block db-deep">4:00 Daily close</div>
+            </div>
+          </div>
+          <!-- WEDNESDAY -->
+          <div onclick="showTab('weekly'),showSub('weekly','wed')" class="day-col">
+            <div class="day-col-head" style="color:var(--amber)">Wednesday</div>
+            <div class="day-col-body">
+              <div class="day-block db-deep">7:30 Deep work</div>
+              <div class="day-block db-stand">8:30 Team standup</div>
+              <div class="day-block db-so">9:00 SO batch 1</div>
+              <div class="day-block db-deep">9:30 Deep work</div>
+              <div class="day-block db-mtg">10:00 GBS Forecasting</div>
+              <div class="day-block db-mtg">10:30 Ops (monthly)</div>
+              <div class="day-block db-deep">11:00 Deep work</div>
+              <div class="day-block db-lunch">12:30 Lunch</div>
+              <div class="day-block db-so">1:15 SO batch 2</div>
+              <div class="day-block db-supp">2:30 Logistics / freight</div>
+              <div class="day-block db-deep">4:00 Daily close</div>
+            </div>
+          </div>
+          <!-- THURSDAY -->
+          <div onclick="showTab('weekly'),showSub('weekly','thu')" class="day-col">
+            <div class="day-col-head" style="color:var(--accent)">Thursday</div>
+            <div class="day-col-body">
+              <div class="day-block db-deep">7:30 Deep work</div>
+              <div class="day-block db-stand">8:30 Team standup</div>
+              <div class="day-block db-so">9:00 SO batch 1</div>
+              <div class="day-block db-mtg">9:30 Supplier Grading (fortnightly)</div>
+              <div class="day-block db-deep">10:30 Deep work</div>
+              <div class="day-block db-lunch">12:30 Lunch</div>
+              <div class="day-block db-so">1:15 SO batch 2</div>
+              <div class="day-block db-supp">2:30 Intl suppliers / contracts</div>
+              <div class="day-block db-deep">4:00 Daily close</div>
+            </div>
+          </div>
+          <!-- FRIDAY -->
+          <div onclick="showTab('weekly'),showSub('weekly','fri')" class="day-col">
+            <div class="day-col-head" style="color:var(--text-2)">Friday</div>
+            <div class="day-col-body">
+              <div class="day-block db-deep">7:30 Deep work</div>
+              <div class="day-block db-stand">8:30 Team standup</div>
+              <div class="day-block db-so">9:00 SO batch 1</div>
+              <div class="day-block db-deep">9:30 Deep work</div>
+              <div class="day-block db-lunch">12:30 Lunch</div>
+              <div class="day-block db-so">1:15 SO batch 2</div>
+              <div class="day-block db-supp">2:30 Weekly KPI review</div>
+              <div class="day-block db-supp">3:30 Week clearance</div>
+              <div class="day-block db-deep">4:00 Weekly close</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="legend">
+          <div class="legend-item">
+            <div class="legend-dot" style="background:var(--purple)"></div>Deep work (protected)
+          </div>
+          <div class="legend-item">
+            <div class="legend-dot" style="background:var(--green)"></div>Team standup
+          </div>
+          <div class="legend-item">
+            <div class="legend-dot" style="background:var(--orange)"></div>Sales order batches
+          </div>
+          <div class="legend-item">
+            <div class="legend-dot" style="background:var(--accent)"></div>Fixed meetings
+          </div>
+          <div class="legend-item">
+            <div class="legend-dot" style="background:var(--amber)"></div>Suppliers / stakeholders / logistics
+          </div>
+          <div class="legend-item">
+            <div class="legend-dot" style="background:#C8C4BB"></div>Lunch (away from desk)
+          </div>
+        </div>
+
+        <div class="note" style="margin-top:14px">
+          <strong>Thu fortnightly:</strong> Supplier Grading & Management runs 9:30–10:30 every second Thursday. On alternate Thursdays that slot is additional deep work or SO catch-up.
+        </div>
+      </div>
+
+      <!-- ═══════════════════════════════════════════ WEEKLY STRUCTURE ═══ -->
+      <div class="panel" id="panel-weekly">
+        <div class="page-title">Weekly Structure</div>
+        <div class="page-sub">Daily schedule — fixed meetings, batched SO processing, protected deep work</div>
+
+        <div class="sub-tabs">
+          <button class="sub-tab active" onclick="showSub('weekly','mon')">Monday</button>
+          <button class="sub-tab" onclick="showSub('weekly','tue')">Tuesday</button>
+          <button class="sub-tab" onclick="showSub('weekly','wed')">Wednesday</button>
+          <button class="sub-tab" onclick="showSub('weekly','thu')">Thursday</button>
+          <button class="sub-tab" onclick="showSub('weekly','fri')">Friday</button>
+        </div>
+
+        <!-- MONDAY -->
+        <div class="sub-panel active" id="weekly-mon">
+          <div class="section-label">Monday — planning & week direction</div>
+          <div class="timeline">
+            <div class="tl-row">
+              <div class="tl-time">7:30</div>
+              <div class="tl-rail rail-deep"></div>
+              <div class="tl-block tl-deep">
+                <div class="tl-title">Deep work <span class="badge b-purple">protected</span></div>
+                <div class="tl-desc">Category planning, spend analysis, contract review — strategic work before the week's meetings take over.</div>
+              </div>
+            </div>
+            <div class="tl-row">
+              <div class="tl-time">8:30</div>
+              <div class="tl-rail rail-stand"></div>
+              <div class="tl-block tl-stand">
+                <div class="tl-title">Procurement team standup <span class="badge b-green">30 min</span></div>
+                <div class="tl-desc">Set the week's direction. Delegate routine PO follow-ups. Front-load the team's week at this checkpoint.</div>
+              </div>
+            </div>
+            <div class="tl-row">
+              <div class="tl-time">9:00</div>
+              <div class="tl-rail rail-so"></div>
+              <div class="tl-block tl-so">
+                <div class="tl-title">Sales order batch 1 + inbox triage <span class="badge b-orange">NetSuite</span></div>
+                <div class="tl-desc">Process all SOs since Friday close. Allocate to production, dispatch, or purchasing. Apply 4 D's to inbox. Set 3 weekly non-negotiables.</div>
+              </div>
+            </div>
+            <div class="tl-row">
+              <div class="tl-time">9:30</div>
+              <div class="tl-rail rail-deep"></div>
+              <div class="tl-block tl-deep">
+                <div class="tl-title">Deep work <span class="badge b-purple">protected</span></div>
+                <div class="tl-desc">One hour before Dept Leads. Sourcing planning, contract pipeline, or anything requiring concentrated thought.</div>
+              </div>
+            </div>
+            <div class="tl-row">
+              <div class="tl-time">10:30</div>
+              <div class="tl-rail rail-mtg"></div>
+              <div class="tl-block tl-mtg">
+                <div class="tl-title">Department Leads meeting <span class="badge b-blue">60 min — fixed weekly</span></div>
+                <div class="tl-desc">Note new demand signals and sourcing requirements. These feed directly into purchasing-only SO decisions and reorder triggers for the week.</div>
+              </div>
+            </div>
+            <div class="tl-row">
+              <div class="tl-time">11:30</div>
+              <div class="tl-rail rail-deep"></div>
+              <div class="tl-block tl-deep">
+                <div class="tl-title">Deep work <span class="badge b-purple">protected</span></div>
+                <div class="tl-desc">Action anything arising from Dept Leads — updated sourcing priorities, new purchasing requirements.</div>
+              </div>
+            </div>
+            <div class="tl-row">
+              <div class="tl-time">12:30</div>
+              <div class="tl-rail rail-lunch"></div>
+              <div class="tl-block tl-lunch">
+                <div class="tl-title">Lunch</div>
+              </div>
+            </div>
+            <div class="tl-row">
+              <div class="tl-time">1:15</div>
+              <div class="tl-rail rail-so"></div>
+              <div class="tl-block tl-so">
+                <div class="tl-title">Sales order batch 2 + supplier correspondence <span class="badge b-orange">inbox check 2</span></div>
+                <div class="tl-desc">Process afternoon SO queue. Raise purchasing-only POs. Correspond with international suppliers on open orders, shipments, and lead times.</div>
+              </div>
+            </div>
+            <div class="tl-row">
+              <div class="tl-time">2:30</div>
+              <div class="tl-rail rail-supp"></div>
+              <div class="tl-block tl-supp">
+                <div class="tl-title">Supplier &amp; stakeholder liaison</div>
+                <div class="tl-desc">Internal syncs with warehouse and freight forwarders. European suppliers available from 2:00 PM Perth (summer) or 3:00 PM (winter). UK: 3:00 PM summer, 4:00 PM winter.</div>
+              </div>
+            </div>
+            <div class="tl-row">
+              <div class="tl-time">4:00</div>
+              <div class="tl-rail rail-deep"></div>
+              <div class="tl-block tl-deep">
+                <div class="tl-title">Daily close <span class="badge b-purple">protected</span></div>
+                <div class="tl-desc">All SOs allocated in NetSuite. Log supplier notes. Set tomorrow's 3 priorities.</div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- TUESDAY -->
+        <div class="sub-panel" id="weekly-tue">
+          <div class="section-label">Tuesday — supplier visits & inventory review</div>
+          <div class="timeline">
+            <div class="tl-row">
+              <div class="tl-time">7:30</div>
+              <div class="tl-rail rail-deep"></div>
+              <div class="tl-block tl-deep">
+                <div class="tl-title">Deep work <span class="badge b-purple">protected</span></div>
+                <div class="tl-desc">If supplier visits today: prep visit notes, pull scorecards, set 3 desired outcomes per meeting.</div>
+              </div>
+            </div>
+            <div class="tl-row">
+              <div class="tl-time">8:30</div>
+              <div class="tl-rail rail-stand"></div>
+              <div class="tl-block tl-stand">
+                <div class="tl-title">Procurement team standup <span class="badge b-green">30 min</span></div>
+                <div class="tl-desc">Confirm visitor logistics. Delegate routine PO follow-ups so the team covers operations while you're with suppliers.</div>
+              </div>
+            </div>
+            <div class="tl-row">
+              <div class="tl-time">9:00</div>
+              <div class="tl-rail rail-so"></div>
+              <div class="tl-block tl-so">
+                <div class="tl-title">Sales order batch 1 <span class="badge b-orange">NetSuite</span></div>
+                <div class="tl-desc">Clear the SO queue before visitors arrive. Raise urgent purchasing-only POs now.</div>
+              </div>
+            </div>
+            <div class="tl-row">
+              <div class="tl-time">9:30</div>
+              <div class="tl-rail rail-deep"></div>
+              <div class="tl-block tl-deep">
+                <div class="tl-title">Deep work / final visit prep <span class="badge b-purple">protected</span></div>
+                <div class="tl-desc">90 minutes before visitors arrive. Know your BATNA for each meeting.</div>
+              </div>
+            </div>
+            <div class="tl-row">
+              <div class="tl-time">11:00</div>
+              <div class="tl-rail rail-supp"></div>
+              <div class="tl-block tl-supp">
+                <div class="tl-title">Supplier visits — available window <span class="badge b-amber">Tier 1 &amp; Tier 2</span></div>
+                <div class="tl-desc">QBRs, relationship meetings, joint planning sessions. Log notes within 30 minutes of each meeting ending.</div>
+              </div>
+            </div>
+            <div class="tl-row">
+              <div class="tl-time">12:30</div>
+              <div class="tl-rail rail-lunch"></div>
+              <div class="tl-block tl-lunch">
+                <div class="tl-title">Lunch <span style="font-size:10px;color:var(--text-3)">(working lunch with Tier 1 supplier only if genuine value — not by default)</span></div>
+              </div>
+            </div>
+            <div class="tl-row">
+              <div class="tl-time">1:15</div>
+              <div class="tl-rail rail-so"></div>
+              <div class="tl-block tl-so">
+                <div class="tl-title">Sales order batch 2 + supplier visit debrief <span class="badge b-orange">inbox check 2</span></div>
+                <div class="tl-desc">Process afternoon SOs. Send action summaries to each supplier visited today while the meeting is fresh.</div>
+              </div>
+            </div>
+            <div class="tl-row">
+              <div class="tl-time">2:30</div>
+              <div class="tl-rail rail-supp"></div>
+              <div class="tl-block tl-supp">
+                <div class="tl-title">Inventory review + reorder processing <span class="badge b-amber">weekly</span></div>
+                <div class="tl-desc">Review NetSuite inventory against reorder points. Raise POs for items approaching trigger. Liaise with warehouse on inbound status.</div>
+              </div>
+            </div>
+            <div class="tl-row">
+              <div class="tl-time">4:00</div>
+              <div class="tl-rail rail-deep"></div>
+              <div class="tl-block tl-deep">
+                <div class="tl-title">Daily close <span class="badge b-purple">protected</span></div>
+                <div class="tl-desc">Update supplier scorecards from today's visits. Reorders confirmed. SO queue cleared.</div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- WEDNESDAY -->
+        <div class="sub-panel" id="weekly-wed">
+          <div class="section-label">Wednesday — GBS forecasting + logistics analysis</div>
+          <div class="timeline">
+            <div class="tl-row">
+              <div class="tl-time">7:30</div>
+              <div class="tl-rail rail-deep"></div>
+              <div class="tl-block tl-deep">
+                <div class="tl-title">Deep work <span class="badge b-purple">protected</span></div>
+                <div class="tl-desc">Pull procurement data for GBS Forecasting: supplier lead times, stock risk items, pricing movements.</div>
+              </div>
+            </div>
+            <div class="tl-row">
+              <div class="tl-time">8:30</div>
+              <div class="tl-rail rail-stand"></div>
+              <div class="tl-block tl-stand">
+                <div class="tl-title">Procurement team standup <span class="badge b-green">30 min</span></div>
+                <div class="tl-desc">Mid-week pulse check. Address blockers. Confirm inbound shipments on track.</div>
+              </div>
+            </div>
+            <div class="tl-row">
+              <div class="tl-time">9:00</div>
+              <div class="tl-rail rail-so"></div>
+              <div class="tl-block tl-so">
+                <div class="tl-title">Sales order batch 1 <span class="badge b-orange">NetSuite</span></div>
+                <div class="tl-desc">Process first SO batch. Stock-risk items flagged here feed directly into GBS Forecasting at 10:00.</div>
+              </div>
+            </div>
+            <div class="tl-row">
+              <div class="tl-time">9:30</div>
+              <div class="tl-rail rail-deep"></div>
+              <div class="tl-block tl-deep">
+                <div class="tl-title">Deep work <span class="badge b-purple">30 min</span></div>
+                <div class="tl-desc">Finalise GBS contribution: lead times, supply constraints, pricing movements.</div>
+              </div>
+            </div>
+            <div class="tl-row">
+              <div class="tl-time">10:00</div>
+              <div class="tl-rail rail-mtg"></div>
+              <div class="tl-block tl-mtg">
+                <div class="tl-title">GBS Forecasting Meeting <span class="badge b-blue">30 min — weekly</span></div>
+                <div class="tl-desc">Supplier lead times affecting forecast, stock risk items, pricing or supply constraints.</div>
+              </div>
+            </div>
+            <div class="tl-row">
+              <div class="tl-time">10:30</div>
+              <div class="tl-rail rail-mtg"></div>
+              <div class="tl-block tl-mtg">
+                <div class="tl-title">Operations Meeting <span class="badge b-blue">30 min — 1× per month</span></div>
+                <div class="tl-desc">Monthly only. Non-Ops weeks: additional deep work or logistics analysis.</div>
+              </div>
+            </div>
+            <div class="tl-row">
+              <div class="tl-time">11:00</div>
+              <div class="tl-rail rail-deep"></div>
+              <div class="tl-block tl-deep">
+                <div class="tl-title">Deep work <span class="badge b-purple">protected — 90 min</span></div>
+                <div class="tl-desc">Best uninterrupted block of the week. Contract drafting, RFQ analysis, spend analysis, logistics cost modelling.</div>
+              </div>
+            </div>
+            <div class="tl-row">
+              <div class="tl-time">12:30</div>
+              <div class="tl-rail rail-lunch"></div>
+              <div class="tl-block tl-lunch">
+                <div class="tl-title">Lunch</div>
+              </div>
+            </div>
+            <div class="tl-row">
+              <div class="tl-time">1:15</div>
+              <div class="tl-rail rail-so"></div>
+              <div class="tl-block tl-so">
+                <div class="tl-title">Sales order batch 2 + freight correspondence <span class="badge b-orange">inbox check 2</span></div>
+                <div class="tl-desc">Process afternoon SOs. Natural slot for freight forwarder updates — shipment status, documentation, ETAs.</div>
+              </div>
+            </div>
+            <div class="tl-row">
+              <div class="tl-time">2:30</div>
+              <div class="tl-rail rail-supp"></div>
+              <div class="tl-block tl-supp">
+                <div class="tl-title">Logistics cost analysis</div>
+                <div class="tl-desc">Weekly freight cost review — cost per shipment, carrier performance, route optimisation. European suppliers available from 2:00 PM (summer) or 3:00 PM (winter).</div>
+              </div>
+            </div>
+            <div class="tl-row">
+              <div class="tl-time">4:00</div>
+              <div class="tl-rail rail-deep"></div>
+              <div class="tl-block tl-deep">
+                <div class="tl-title">Daily close <span class="badge b-purple">protected</span></div>
+                <div class="tl-desc">SO queue cleared. Log GBS and Ops meeting actions. Set Thursday priorities.</div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- THURSDAY -->
+        <div class="sub-panel" id="weekly-thu">
+          <div class="section-label">Thursday — supplier grading (fortnightly) & international supplier focus</div>
+          <div class="timeline">
+            <div class="tl-row">
+              <div class="tl-time">7:30</div>
+              <div class="tl-rail rail-deep"></div>
+              <div class="tl-block tl-deep">
+                <div class="tl-title">Deep work <span class="badge b-purple">protected</span></div>
+                <div class="tl-desc">On Supplier Grading weeks: pull scorecards and prepare assessments for the 9:30 meeting.</div>
+              </div>
+            </div>
+            <div class="tl-row">
+              <div class="tl-time">8:30</div>
+              <div class="tl-rail rail-stand"></div>
+              <div class="tl-block tl-stand">
+                <div class="tl-title">Procurement team standup <span class="badge b-green">30 min</span></div>
+                <div class="tl-desc">On Supplier Grading weeks: brief the team on assessments that affect their supplier interactions.</div>
+              </div>
+            </div>
+            <div class="tl-row">
+              <div class="tl-time">9:00</div>
+              <div class="tl-rail rail-so"></div>
+              <div class="tl-block tl-so">
+                <div class="tl-title">Sales order batch 1 <span class="badge b-orange">NetSuite</span></div>
+                <div class="tl-desc">Keep this tight on Grading weeks — Supplier Grading starts at 9:30. Non-grading weeks: extend through 10:30 if needed.</div>
+              </div>
+            </div>
+            <div class="tl-row">
+              <div class="tl-time">9:30</div>
+              <div class="tl-rail rail-mtg"></div>
+              <div class="tl-block tl-mtg">
+                <div class="tl-title">Supplier Grading &amp; Management <span class="badge b-blue">60 min — every second Thursday</span></div>
+                <div class="tl-desc">Review supplier scorecards — DIFOT, quality, responsiveness, pricing compliance. Agree improvement actions. Document outcomes. Alternate Thursdays: deep work or additional SO processing.</div>
+              </div>
+            </div>
+            <div class="tl-row">
+              <div class="tl-time">10:30</div>
+              <div class="tl-rail rail-deep"></div>
+              <div class="tl-block tl-deep">
+                <div class="tl-title">Deep work <span class="badge b-purple">protected</span></div>
+                <div class="tl-desc">Contract work, category analysis, PO management.</div>
+              </div>
+            </div>
+            <div class="tl-row">
+              <div class="tl-time">12:30</div>
+              <div class="tl-rail rail-lunch"></div>
+              <div class="tl-block tl-lunch">
+                <div class="tl-title">Lunch</div>
+              </div>
+            </div>
+            <div class="tl-row">
+              <div class="tl-time">1:15</div>
+              <div class="tl-rail rail-so"></div>
+              <div class="tl-block tl-so">
+                <div class="tl-title">Sales order batch 2 + international supplier correspondence <span class="badge b-orange">inbox check 2</span></div>
+                <div class="tl-desc">Primary weekly slot for international supplier follow-up — open orders, shipment confirmations, lead time queries, pricing negotiations.</div>
+              </div>
+            </div>
+            <div class="tl-row">
+              <div class="tl-time">2:30</div>
+              <div class="tl-rail rail-supp"></div>
+              <div class="tl-block tl-supp">
+                <div class="tl-title">Contracts + vendor admin</div>
+                <div class="tl-desc">Contract renewals, vendor setup, supplier terms review, compliance documentation. European suppliers available from 2:00 PM (summer) or 3:00 PM (winter).</div>
+              </div>
+            </div>
+            <div class="tl-row">
+              <div class="tl-time">4:00</div>
+              <div class="tl-rail rail-deep"></div>
+              <div class="tl-block tl-deep">
+                <div class="tl-title">Daily close <span class="badge b-purple">protected</span></div>
+                <div class="tl-desc">Update supplier scorecards if grading week. SO queue cleared. Set Friday priorities.</div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- FRIDAY -->
+        <div class="sub-panel" id="weekly-fri">
+          <div class="section-label">Friday — KPI review & week clearance</div>
+          <div class="timeline">
+            <div class="tl-row">
+              <div class="tl-time">7:30</div>
+              <div class="tl-rail rail-deep"></div>
+              <div class="tl-block tl-deep">
+                <div class="tl-title">Deep work <span class="badge b-purple">protected</span></div>
+                <div class="tl-desc">Last chance to action any unresolved international supplier queries before the weekend.</div>
+              </div>
+            </div>
+            <div class="tl-row">
+              <div class="tl-time">8:30</div>
+              <div class="tl-rail rail-stand"></div>
+              <div class="tl-block tl-stand">
+                <div class="tl-title">Procurement team standup <span class="badge b-green">30 min</span></div>
+                <div class="tl-desc">Week-end check. Confirm the team has cleared their tasks. Anything carrying to Monday needs explicit ownership now.</div>
+              </div>
+            </div>
+            <div class="tl-row">
+              <div class="tl-time">9:00</div>
+              <div class="tl-rail rail-so"></div>
+              <div class="tl-block tl-so">
+                <div class="tl-title">Sales order batch 1 <span class="badge b-orange">NetSuite</span></div>
+                <div class="tl-desc">Process Friday morning SOs. Purchasing-only orders raised today: advise suppliers that responses will be Monday.</div>
+              </div>
+            </div>
+            <div class="tl-row">
+              <div class="tl-time">9:30</div>
+              <div class="tl-rail rail-deep"></div>
+              <div class="tl-block tl-deep">
+                <div class="tl-title">Deep work <span class="badge b-purple">protected</span></div>
+                <div class="tl-desc">Best uninterrupted run of Friday. Contract review, spend analysis, next week planning.</div>
+              </div>
+            </div>
+            <div class="tl-row">
+              <div class="tl-time">12:30</div>
+              <div class="tl-rail rail-lunch"></div>
+              <div class="tl-block tl-lunch">
+                <div class="tl-title">Lunch</div>
+              </div>
+            </div>
+            <div class="tl-row">
+              <div class="tl-time">1:15</div>
+              <div class="tl-rail rail-so"></div>
+              <div class="tl-block tl-so">
+                <div class="tl-title">Sales order batch 2 + week clearance <span class="badge b-orange">inbox check 2</span></div>
+                <div class="tl-desc">Process afternoon SOs. Clear inbox. Any item not actioned today gets a Monday slot allocated now — not left floating.</div>
+              </div>
+            </div>
+            <div class="tl-row">
+              <div class="tl-time">2:30</div>
+              <div class="tl-rail rail-supp"></div>
+              <div class="tl-block tl-supp">
+                <div class="tl-title">Weekly KPI review</div>
+                <div class="tl-desc">Pull weekly metrics — savings vs. target, DIFOT, PO cycle times, overdue POs, freight costs. Resolve any European freight issues today — it's your last real-time window before their weekend.</div>
+              </div>
+            </div>
+            <div class="tl-row">
+              <div class="tl-time">3:30</div>
+              <div class="tl-rail rail-supp"></div>
+              <div class="tl-block tl-supp">
+                <div class="tl-title">Week clearance + next week prep</div>
+                <div class="tl-desc">Confirm nothing is stranded. Set Monday's 3 non-negotiables. Brief notes for the team on next week.</div>
+              </div>
+            </div>
+            <div class="tl-row">
+              <div class="tl-time">4:00</div>
+              <div class="tl-rail rail-deep"></div>
+              <div class="tl-block tl-deep">
+                <div class="tl-title">Weekly close <span class="badge b-purple">protected</span></div>
+                <div class="tl-desc">NetSuite queue verified clear. All open items have a Monday owner. Pen down 4:30.</div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- ═══════════════════════════════════════════ TIME ZONES ═══ -->
+      <div class="panel" id="panel-timezones">
+        <div class="page-title">Time Zones</div>
+        <div class="page-sub">Contact windows relative to your 7:30 AM – 4:30 PM Perth (AWST) day</div>
+
+        <div class="season-toggle">
+          <button class="season-btn active" id="btn-summer" onclick="setSeason('summer')">Summer (Oct – Apr)</button>
+          <button class="season-btn" id="btn-winter" onclick="setSeason('winter')">Winter (May – Sep)</button>
+        </div>
+
+        <div class="section-label">Visual overlap — your working day</div>
+        <div class="tz-header-row">
+          <div class="tz-header-cell">7:30</div>
+          <div class="tz-header-cell">9:00</div>
+          <div class="tz-header-cell">10:30</div>
+          <div class="tz-header-cell">12:00</div>
+          <div class="tz-header-cell">1:30</div>
+          <div class="tz-header-cell">3:00</div>
+          <div class="tz-header-cell">4:30</div>
+        </div>
+        <div id="tz-viz"></div>
+
+        <div class="section-label" style="margin-top:20px">Detailed reference</div>
+        <div class="card" style="padding:0;overflow:hidden">
+          <table class="tbl">
+            <thead>
+              <tr>
+                <th>Location</th>
+                <th>Offset</th>
+                <th>Their 8 AM = Perth</th>
+                <th>Their 5 PM = Perth</th>
+                <th>Best Perth window</th>
+                <th>Strategy</th>
+              </tr>
+            </thead>
+            <tbody id="tz-table"></tbody>
+          </table>
+        </div>
+
+        <div class="section-label" style="margin-top:20px">Contact windows by region</div>
+        <div class="g2">
+          <div class="card">
+            <div class="card-title" style="color:var(--green)">China &amp; Malaysia</div>
+            <div class="card-sub" id="win-china"></div>
+          </div>
+          <div class="card">
+            <div class="card-title" style="color:var(--green)">Japan</div>
+            <div class="card-sub" id="win-japan"></div>
+          </div>
+          <div class="card">
+            <div class="card-title" style="color:var(--amber)">India</div>
+            <div class="card-sub" id="win-india"></div>
+          </div>
+          <div class="card">
+            <div class="card-title" style="color:var(--accent)">Europe (Germany, Italy, Poland)</div>
+            <div class="card-sub" id="win-europe"></div>
+          </div>
+          <div class="card">
+            <div class="card-title" style="color:var(--accent)">Turkey</div>
+            <div class="card-sub" id="win-turkey"></div>
+          </div>
+          <div class="card">
+            <div class="card-title" style="color:var(--orange)">UK</div>
+            <div class="card-sub" id="win-uk"></div>
+          </div>
+        </div>
+        <div class="note note-amber" id="tz-critical" style="margin-top:4px"></div>
+      </div>
+
+      <!-- ═══════════════════════════════════════════ SALES ORDERS ═══ -->
+      <div class="panel" id="panel-salesorders">
+        <div class="page-title">Sales Orders</div>
+        <div class="page-sub">Processing discipline — two daily batches, three allocation outcomes</div>
+
+        <div class="section-label">Allocation outcomes</div>
+        <div class="outcome-row">
+          <div class="outcome-card oc-prod">
+            <h4>→ Production</h4>
+            <ul>
+              <li>Item in stock, available</li>
+              <li>Manufactured or assembled in-house</li>
+              <li>No external purchase required</li>
+              <li>Action: allocate stock in NetSuite, confirm to sales</li>
+            </ul>
+          </div>
+          <div class="outcome-card oc-disp">
+            <h4>→ Dispatch</h4>
+            <ul>
+              <li>Item in stock, ready to ship</li>
+              <li>No production or purchase needed</li>
+              <li>Action: flag for warehouse dispatch, confirm ETA to sales</li>
+            </ul>
+          </div>
+          <div class="outcome-card oc-purch">
+            <h4>→ Purchasing</h4>
+            <ul>
+              <li>Item not in stock or insufficient quantity</li>
+              <li>Requires external purchase order</li>
+              <li>Action: raise PO with supplier, confirm lead time to sales</li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="section-label">Allocation decision process</div>
+        <div class="card">
+          <div class="decision-step">
+            <div class="step-num">1</div>
+            <div class="step-body">
+              <div class="step-title">Open the SO in NetSuite</div>
+              <div class="step-desc">Check item, quantity, required date, and any special instructions. Do not begin allocating until you have read the full SO.</div>
+            </div>
+          </div>
+          <div class="decision-step">
+            <div class="step-num">2</div>
+            <div class="step-body">
+              <div class="step-title">Check current stock position</div>
+              <div class="step-desc">Is the item available in sufficient quantity? Check committed stock (already allocated to other SOs) and on-hand balance. Available = on-hand minus committed.</div>
+            </div>
+          </div>
+          <div class="decision-step">
+            <div class="step-num">3</div>
+            <div class="step-body">
+              <div class="step-title">Allocate or escalate</div>
+              <div class="step-desc">If stock available → production or dispatch. If insufficient stock → purchasing. If partial stock → split: dispatch available quantity, purchase shortfall. If lead time will breach required date → flag to sales before raising PO.</div>
+            </div>
+          </div>
+          <div class="decision-step">
+            <div class="step-num">4</div>
+            <div class="step-body">
+              <div class="step-title">For purchasing-only orders: raise PO promptly</div>
+              <div class="step-desc">Select supplier based on lead time, pricing, and current performance. Set realistic confirmed delivery date in NetSuite. Notify sales of ETA — they should not have to chase you.</div>
+            </div>
+          </div>
+          <div class="decision-step">
+            <div class="step-num">5</div>
+            <div class="step-body">
+              <div class="step-title">Update and close the SO record</div>
+              <div class="step-desc">Every SO must have a status, an owner, and a next action recorded in NetSuite before you move to the next one. A SO in limbo is an invisible problem.</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="g2">
+          <div>
+            <div class="section-label">Batch discipline</div>
+            <div class="card">
+              <div class="card-title">Batch 1 — 9:00 AM daily</div>
+              <div class="card-sub">
+                Process all SOs entered since previous batch close. Aim to clear within 30 minutes. Purchasing-only orders raised here give suppliers maximum lead time for the day. Flag any urgent or complex SOs to address in deep work block immediately after.
+              </div>
+            </div>
+            <div class="card">
+              <div class="card-title">Batch 2 — 1:15 PM daily</div>
+              <div class="card-sub">
+                Process SOs entered during the morning. International supplier correspondence can accompany this batch — India and Asia still reachable. Any POs raised now will receive supplier responses by next morning.
+              </div>
+            </div>
+            <div class="note note-orange">
+              <strong>The rule:</strong> SOs are processed in batches. They do not interrupt deep work, meetings, or focused tasks. If someone needs an urgent SO actioned outside batch times, it must be a genuine exception — not a habit.
+            </div>
+          </div>
+          <div>
+            <div class="section-label">Purchasing-only SO checklist</div>
+            <div class="card">
+              <ul class="checklist">
+                <li>SO reviewed in full before action</li>
+                <li>Stock check completed — available vs. committed confirmed</li>
+                <li>Supplier selected — lead time vs. required date checked</li>
+                <li>PO raised in NetSuite with correct quantities and dates</li>
+                <li>PO sent to supplier — confirmation requested</li>
+                <li>Confirmed delivery date recorded in NetSuite</li>
+                <li>Sales notified of ETA without being asked</li>
+                <li>SO status updated and closed off</li>
+              </ul>
+            </div>
+            <div class="section-label">Common escalation triggers</div>
+            <div class="card">
+              <ul class="checklist">
+                <li>Lead time will breach customer required date</li>
+                <li>Supplier unavailable or on stop</li>
+                <li>Pricing discrepancy — PO price vs. SO price</li>
+                <li>Item discontinued or substitution required</li>
+                <li>Partial availability — split SO decision needed</li>
+                <li>Minimum order quantity conflict</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- ═══════════════════════════════════════════ INVENTORY ═══ -->
+      <div class="panel" id="panel-inventory">
+        <div class="page-title">Inventory Management</div>
+        <div class="page-sub">Monitoring, reorder discipline, and warehouse liaison</div>
+
+        <div class="g2">
+          <div>
+            <div class="section-label">Weekly review rhythm</div>
+            <div class="card">
+              <div class="card-title">Tuesday 2:30 PM — weekly inventory review</div>
+              <div class="card-sub">Fixed weekly slot. Pull inventory report from NetSuite. Review items against reorder points. Identify anything approaching trigger level. Raise POs for items requiring replenishment before they hit zero — not after.</div>
+            </div>
+            <div class="note note-green">
+              <strong>The reorder principle:</strong> A reactive reorder (raised after stockout) is a failure. A proactive reorder (raised before trigger is reached) is the standard. DIFOT starts with your reorder discipline, not the supplier's performance.
+            </div>
+          </div>
+          <div>
+            <div class="section-label">Reorder decision process</div>
+            <div class="card">
+              <div class="decision-step" style="margin-bottom:8px">
+                <div class="step-num">1</div>
+                <div class="step-body">
+                  <div class="step-title">Pull inventory report</div>
+                  <div class="step-desc">NetSuite: on-hand qty, committed qty, available qty, reorder point, reorder qty, preferred supplier, lead time.</div>
+                </div>
+              </div>
+              <div class="decision-step" style="margin-bottom:8px">
+                <div class="step-num">2</div>
+                <div class="step-body">
+                  <div class="step-title">Identify items at or approaching reorder point</div>
+                  <div class="step-desc">Available qty ≤ reorder point → immediate action. Available qty within one week's usage of reorder point → monitor closely.</div>
+                </div>
+              </div>
+              <div class="decision-step" style="margin-bottom:8px">
+                <div class="step-num">3</div>
+                <div class="step-body">
+                  <div class="step-title">Validate before ordering</div>
+                  <div class="step-desc">Check demand forecast. Is the reorder qty still appropriate? Any upcoming large orders that would change quantity needed?</div>
+                </div>
+              </div>
+              <div class="decision-step">
+                <div class="step-num">4</div>
+                <div class="step-body">
+                  <div class="step-title">Raise PO and confirm</div>
+                  <div class="step-desc">PO to preferred supplier. Confirm lead time. Update expected receipt date in NetSuite. Advise warehouse of inbound.</div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="section-label">Warehouse liaison — inbound logistics</div>
+        <div class="g3">
+          <div class="card">
+            <div class="card-title">What warehouse needs from you</div>
+            <ul class="checklist">
+              <li>Advance notice of inbound shipments — date, supplier, contents, quantity</li>
+              <li>Updated ETAs when suppliers advise delays</li>
+              <li>Correct PO numbers on all inbound documentation</li>
+              <li>Flagging of any urgent or priority receipts</li>
+              <li>Clarity on partial deliveries — what's coming, what's outstanding</li>
+            </ul>
+          </div>
+          <div class="card">
+            <div class="card-title">What you need from warehouse</div>
+            <ul class="checklist">
+              <li>Receipt confirmation — quantities received vs. PO</li>
+              <li>Discrepancy reporting — shorts, overs, damages</li>
+              <li>Stock location updates in NetSuite</li>
+              <li>Kanban card notifications for consumables replenishment</li>
+              <li>Space and receiving capacity constraints for large inbounds</li>
+            </ul>
+          </div>
+          <div class="card">
+            <div class="card-title">Inventory health indicators</div>
+            <ul class="checklist">
+              <li>No items at zero available stock with open SOs</li>
+              <li>All items with open POs have confirmed ETAs</li>
+              <li>Reorder points set for all stocked items</li>
+              <li>No items with excess stock beyond 90-day usage</li>
+              <li>Inventory count variances investigated promptly</li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="section-label">Consumables replenishment — kanban notification</div>
+        <div class="card">
+          <div class="card-sub">
+            Consumables are managed on a kanban signal basis — the warehouse team notifies procurement when a kanban card is triggered. On receipt of a kanban card:
+          </div>
+          <br>
+          <div class="decision-step">
+            <div class="step-num">1</div>
+            <div class="step-body">
+              <div class="step-title">Receive kanban notification from warehouse</div>
+              <div class="step-desc">Card identifies the item, quantity required, and location. Do not set aside — process within the same batch window.</div>
+            </div>
+          </div>
+          <div class="decision-step">
+            <div class="step-num">2</div>
+            <div class="step-body">
+              <div class="step-title">Raise purchase order</div>
+              <div class="step-desc">Standard reorder quantity to preferred consumable supplier. No approval required for routine kanban-triggered reorders within established parameters.</div>
+            </div>
+          </div>
+          <div class="decision-step">
+            <div class="step-num">3</div>
+            <div class="step-body">
+              <div class="step-title">Confirm and close</div>
+              <div class="step-desc">Advise warehouse of order placed and expected delivery. Record in NetSuite.</div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- ═══════════════════════════════════════════ LOGISTICS ═══ -->
+      <div class="panel" id="panel-logistics">
+        <div class="page-title">Logistics</div>
+        <div class="page-sub">Import freight, export logistics, freight provider liaison, cost analysis</div>
+
+        <div class="g2">
+          <div>
+            <div class="section-label">Import freight — inbound international</div>
+            <div class="card">
+              <div class="card-title">Import freight forwarder liaison</div>
+              <ul class="checklist">
+                <li>Shipment booking confirmed with supplier and forwarder</li>
+                <li>Bill of lading / AWB received and checked</li>
+                <li>Commercial invoice and packing list verified against PO</li>
+                <li>Customs documentation complete — HS codes, country of origin</li>
+                <li>Import duties and taxes estimated before arrival</li>
+                <li>Warehouse advised of inbound ETA and contents</li>
+                <li>Delivery booking made for port-to-warehouse leg</li>
+              </ul>
+            </div>
+            <div class="card">
+              <div class="card-title">Key forwarder information to track</div>
+              <ul class="checklist">
+                <li>Vessel / flight name and number</li>
+                <li>ETD (estimated time of departure) from origin</li>
+                <li>ETA (estimated time of arrival) at port</li>
+                <li>Container / AWB reference number</li>
+                <li>Customs clearance status</li>
+                <li>Delivery to warehouse confirmed date</li>
+              </ul>
+            </div>
+          </div>
+          <div>
+            <div class="section-label">Export logistics — outbound</div>
+            <div class="card">
+              <div class="card-title">Export freight forwarder liaison</div>
+              <ul class="checklist">
+                <li>Export documentation prepared — commercial invoice, packing list</li>
+                <li>HS codes confirmed for export classification</li>
+                <li>Export licence requirements checked (if applicable)</li>
+                <li>Booking placed with freight forwarder</li>
+                <li>Dangerous goods documentation if required</li>
+                <li>Certificate of origin obtained if required by destination</li>
+                <li>Customer advised of shipment details and tracking</li>
+              </ul>
+            </div>
+            <div class="note note-amber">
+              <strong>Export responsibility:</strong> Your role is coordination — assisting with export logistics means ensuring the documentation chain is complete and the forwarder has everything they need. Gaps in documentation cause holds and demurrage.
+            </div>
+          </div>
+        </div>
+
+        <div class="section-label">Logistics cost analysis — Wednesday 2:30 PM slot</div>
+        <div class="card">
+          <div class="card-title">Weekly freight cost review</div>
+          <div class="card-sub" style="margin-bottom:12px">Use Wednesday's 2:30 PM block for structured freight cost analysis. Consistent weekly review builds the data needed to identify trends, challenge providers, and reduce cost.</div>
+          <div class="g3" style="margin-top:4px">
+            <div style="padding:10px;background:var(--bg);border-radius:var(--radius-sm)">
+              <div style="font-size:11px;font-weight:600;margin-bottom:4px">Cost per shipment</div>
+              <div style="font-size:11px;color:var(--text-2)">Track total freight cost per inbound and outbound shipment. Identify outliers. Challenge anomalies with providers.</div>
+            </div>
+            <div style="padding:10px;background:var(--bg);border-radius:var(--radius-sm)">
+              <div style="font-size:11px;font-weight:600;margin-bottom:4px">Freight as % of order value</div>
+              <div style="font-size:11px;color:var(--text-2)">Key KPI. High ratio may indicate over-ordering in small lots, wrong carrier selection, or supplier packaging issues.</div>
+            </div>
+            <div style="padding:10px;background:var(--bg);border-radius:var(--radius-sm)">
+              <div style="font-size:11px;font-weight:600;margin-bottom:4px">Carrier performance</div>
+              <div style="font-size:11px;color:var(--text-2)">On-time arrival vs. ETA. Damage rates. Responsiveness to queries. Input into provider review and tender cycles.</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="section-label">Freight provider liaison</div>
+        <div class="card">
+          <div class="card-sub">
+            Maintain active relationships with both import and export freight providers. Key disciplines:
+          </div>
+          <br>
+          <div class="g2">
+            <ul class="checklist">
+              <li>Regular rate review — market rates shift; don't let inertia overpay</li>
+              <li>Volume consolidation — combine shipments where lead times allow to reduce cost per unit</li>
+              <li>Performance data shared with providers — they need to know what you're measuring</li>
+            </ul>
+            <ul class="checklist">
+              <li>Annual or biennial tender for key freight lanes</li>
+              <li>Backup provider identified for each key lane — single-provider dependence is a risk</li>
+              <li>Freight terms negotiated at source — FOB vs. CIF affects both cost and risk</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+      <!-- ═══════════════════════════════════════════ VENDORS ═══ -->
+      <div class="panel" id="panel-vendors">
+        <div class="page-title">Vendors</div>
+        <div class="page-sub">Supplier categorisation, relationship tiers, and management approach</div>
+
+        <div class="section-label">Supplier tiers</div>
+
+        <div class="tier-card" style="border-left-color:var(--accent)">
+          <div style="font-size:13px;font-weight:700;color:var(--accent);margin-bottom:6px">Tier 1 — Strategic Partners</div>
+          <div class="g2">
+            <div>
+              <div style="font-size:11px;font-weight:600;margin-bottom:4px">Characteristics</div>
+              <ul style="list-style:none;font-size:11px;color:var(--text-2)">
+                <li style="padding:2px 0">• High spend or high criticality (or both)</li>
+                <li style="padding:2px 0">• Limited or no substitution available</li>
+                <li style="padding:2px 0">• Supply chain risk if they fail</li>
+                <li style="padding:2px 0">• Joint planning and roadmap conversations</li>
+              </ul>
+            </div>
+            <div>
+              <div style="font-size:11px;font-weight:600;margin-bottom:4px">Management approach</div>
+              <ul style="list-style:none;font-size:11px;color:var(--text-2)">
+                <li style="padding:2px 0">• Formal QBR (quarterly business review)</li>
+                <li style="padding:2px 0">• Scorecard reviewed fortnightly / monthly</li>
+                <li style="padding:2px 0">• Dedicated relationship contact maintained</li>
+                <li style="padding:2px 0">• Contract in place, actively managed</li>
+                <li style="padding:2px 0">• Supplier visits: Tuesday window (priority)</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+
+        <div class="tier-card" style="border-left-color:var(--amber)">
+          <div style="font-size:13px;font-weight:700;color:var(--amber);margin-bottom:6px">Tier 2 — Preferred Suppliers</div>
+          <div class="g2">
+            <div>
+              <div style="font-size:11px;font-weight:600;margin-bottom:4px">Characteristics</div>
+              <ul style="list-style:none;font-size:11px;color:var(--text-2)">
+                <li style="padding:2px 0">• Regular spend, reliable performance</li>
+                <li style="padding:2px 0">• Substitutable but at some cost or effort</li>
+                <li style="padding:2px 0">• Established trading terms</li>
+                <li style="padding:2px 0">• Low friction in day-to-day ordering</li>
+              </ul>
+            </div>
+            <div>
+              <div style="font-size:11px;font-weight:600;margin-bottom:4px">Management approach</div>
+              <ul style="list-style:none;font-size:11px;color:var(--text-2)">
+                <li style="padding:2px 0">• Annual review minimum</li>
+                <li style="padding:2px 0">• Scorecard reviewed monthly</li>
+                <li style="padding:2px 0">• Supplier visits: Tuesday window (as needed)</li>
+                <li style="padding:2px 0">• Performance issues escalated promptly</li>
+                <li style="padding:2px 0">• Terms renegotiated at contract renewal</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+
+        <div class="tier-card" style="border-left-color:var(--border)">
+          <div style="font-size:13px;font-weight:700;color:var(--text-2);margin-bottom:6px">Tier 3 — Transactional Suppliers</div>
+          <div class="g2">
+            <div>
+              <div style="font-size:11px;font-weight:600;margin-bottom:4px">Characteristics</div>
+              <ul style="list-style:none;font-size:11px;color:var(--text-2)">
+                <li style="padding:2px 0">• Low spend, easily substituted</li>
+                <li style="padding:2px 0">• Spot purchases or infrequent orders</li>
+                <li style="padding:2px 0">• No strategic dependency</li>
+                <li style="padding:2px 0">• Commodity or off-the-shelf items</li>
+              </ul>
+            </div>
+            <div>
+              <div style="font-size:11px;font-weight:600;margin-bottom:4px">Management approach</div>
+              <ul style="list-style:none;font-size:11px;color:var(--text-2)">
+                <li style="padding:2px 0">• Transact efficiently, minimal relationship investment</li>
+                <li style="padding:2px 0">• Price-check periodically — don't assume loyalty discount</li>
+                <li style="padding:2px 0">• No dedicated visits — email and phone only</li>
+                <li style="padding:2px 0">• Review annually whether to consolidate to Tier 2</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+
+        <div class="section-label" style="margin-top:20px">Supplier grading — what to measure</div>
+        <div class="card" style="padding:0;overflow:hidden">
+          <table class="tbl">
+            <thead>
+              <tr>
+                <th>Criterion</th>
+                <th>Measure</th>
+                <th>Weight</th>
+                <th>Source</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>Delivery performance</td>
+                <td>On-time in full (DIFOT %)</td>
+                <td><span class="badge b-orange">High</span></td>
+                <td>NetSuite receipts vs. PO due date</td>
+              </tr>
+              <tr>
+                <td>Quality</td>
+                <td>Returns rate, NCR count</td>
+                <td><span class="badge b-orange">High</span></td>
+                <td>Warehouse returns log</td>
+              </tr>
+              <tr>
+                <td>Responsiveness</td>
+                <td>Response time to queries, confirmations</td>
+                <td><span class="badge b-amber">Medium</span></td>
+                <td>Email tracking, your log</td>
+              </tr>
+              <tr>
+                <td>Pricing</td>
+                <td>Price variance vs. contract, market benchmark</td>
+                <td><span class="badge b-amber">Medium</span></td>
+                <td>PO vs. contract price</td>
+              </tr>
+              <tr>
+                <td>Documentation</td>
+                <td>Invoice accuracy, compliance docs on time</td>
+                <td><span class="badge b-grey">Low–Med</span></td>
+                <td>Accounts payable, freight</td>
+              </tr>
+              <tr>
+                <td>Relationship</td>
+                <td>Proactivity, issue escalation, flexibility</td>
+                <td><span class="badge b-grey">Qualitative</span></td>
+                <td>Your assessment</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+
+        <div class="section-label">International supplier considerations</div>
+        <div class="g2">
+          <div class="card">
+            <div class="card-title">Communication discipline</div>
+            <ul class="checklist">
+              <li>All instructions in writing — no verbal-only agreements with international suppliers</li>
+              <li>Confirm PO acceptance explicitly — silence is not confirmation</li>
+              <li>Pre-shipment confirmation: quantity, packing, documents</li>
+              <li>Cultural calendar awareness: Chinese New Year, Eid, Diwali affect lead times</li>
+              <li>Time zone discipline — use your batch windows to correspond efficiently</li>
+            </ul>
+          </div>
+          <div class="card">
+            <div class="card-title">Risk management</div>
+            <ul class="checklist">
+              <li>Dual-source critical items where possible</li>
+              <li>Safety stock higher for long lead-time international suppliers</li>
+              <li>Payment terms documented and matched to cash flow</li>
+              <li>Currency exposure noted — flag significant FX movements to finance</li>
+              <li>Incoterms agreed and understood — who holds risk during transit</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+      <!-- ═══════════════════════════════════════════ TRIAGE ═══ -->
+      <div class="panel" id="panel-triage">
+        <div class="page-title">Triage System</div>
+        <div class="page-sub">Inbox, task, and interruption management — keeping procurement moving without drowning</div>
+
+        <div class="section-label">The 4 D's — inbox processing</div>
+        <div class="triage-grid">
+          <div class="triage-card" style="background:var(--green-light);border-color:#B8DFC8">
+            <h4 style="color:var(--green)">Do</h4>
+            <p>Takes under 2 minutes AND is yours to action. Do it immediately during the batch window and delete or file.</p>
+            <br>
+            <p><strong>Examples:</strong> Quick supplier confirmation, one-line reply, immediate PO approval.</p>
+          </div>
+          <div class="triage-card" style="background:var(--accent-light);border-color:#BDD6EC">
+            <h4 style="color:var(--accent)">Delegate</h4>
+            <p>Someone else should handle this. Forward with clear instructions — what you need, by when, to what standard.</p>
+            <br>
+            <p><strong>Rule:</strong> Delegation is a decision, not an abdication. You own the outcome even after delegating.</p>
+          </div>
+          <div class="triage-card" style="background:var(--amber-light);border-color:#E8C97A">
+            <h4 style="color:var(--amber)">Defer</h4>
+            <p>Requires your attention but not right now. Move to a specific slot in your schedule — not a vague "later".</p>
+            <br>
+            <p><strong>Rule:</strong> Deferred means scheduled. If you can't name the slot, it's not deferred — it's avoided.</p>
+          </div>
+          <div class="triage-card" style="background:#F4F2EE;border-color:var(--border)">
+            <h4 style="color:var(--text-2)">Delete / File</h4>
+            <p>No action required. FYI items, confirmations already noted, automated notifications. Delete or file immediately.</p>
+            <br>
+            <p><strong>Rule:</strong> If you're keeping it "just in case", file it — don't let it sit in the inbox as visual noise.</p>
+          </div>
+        </div>
+
+        <div class="section-label" style="margin-top:20px">Interruption management</div>
+        <div class="g2">
+          <div class="card">
+            <div class="card-title">During deep work blocks</div>
+            <ul class="checklist">
+              <li>Email notifications off — check at batch times only</li>
+              <li>Instant message status set to busy or unavailable</li>
+              <li>Genuine emergencies only — define what counts before the week starts</li>
+              <li>If interrupted: capture the query in writing, commit to a response time, return to work</li>
+              <li>Do not allow "quick questions" to colonise deep work blocks</li>
+            </ul>
+          </div>
+          <div class="card">
+            <div class="card-title">What counts as a genuine interruption</div>
+            <ul class="checklist">
+              <li>Production stoppage due to stock-out</li>
+              <li>Shipment held at customs — urgent documentation needed</li>
+              <li>Supplier advising significant delay on critical order</li>
+              <li>Safety incident involving your area of responsibility</li>
+              <li>Senior leadership request with an actual deadline today</li>
+            </ul>
+            <div class="note note-orange" style="margin-top:8px">
+              <strong>Not genuine interruptions:</strong> "Just checking on that PO", "do you have 5 minutes?", anything that has been in someone's inbox for 2 days before they suddenly needed it urgently.
+            </div>
+          </div>
+        </div>
+
+        <div class="section-label">Priority framework — daily task triage</div>
+        <div class="card">
+          <div class="card-sub" style="margin-bottom:12px">Every morning during SO batch 1, identify your 3 non-negotiables for the day — the things that must happen regardless of what else comes in. These are not your full to-do list. They are the three things the day fails without.</div>
+          <div class="g3">
+            <div style="padding:10px;background:var(--orange-light);border-radius:var(--radius-sm);border:1px solid #F0C4A8">
+              <div style="font-size:11px;font-weight:700;color:var(--orange);margin-bottom:4px">Urgent + Important</div>
+              <div style="font-size:11px;color:var(--text-2)">Do today, in your next available block. These are your non-negotiables. Maximum 3 per day or the system breaks.</div>
+            </div>
+            <div style="padding:10px;background:var(--accent-light);border-radius:var(--radius-sm);border:1px solid #BDD6EC">
+              <div style="font-size:11px;font-weight:700;color:var(--accent);margin-bottom:4px">Important, not urgent</div>
+              <div style="font-size:11px;color:var(--text-2)">Schedule in deep work blocks this week. This is where strategic value is created. Protect these from the urgent.</div>
+            </div>
+            <div style="padding:10px;background:#F4F2EE;border-radius:var(--radius-sm);border:1px solid var(--border)">
+              <div style="font-size:11px;font-weight:700;color:var(--text-2);margin-bottom:4px">Urgent, not important</div>
+              <div style="font-size:11px;color:var(--text-2)">Delegate if possible. If not, batch with similar tasks. Do not let these displace your non-negotiables.</div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- ═══════════════════════════════════════════ KPIs ═══ -->
+      <div class="panel" id="panel-kpis">
+        <div class="page-title">KPIs &amp; Review</div>
+        <div class="page-sub">Weekly metrics — definitions, calculation methods, and benchmarks</div>
+
+        <div class="note" style="margin-bottom:20px">
+          <strong>Friday 2:30 PM:</strong> Weekly KPI review slot. Pull each metric from NetSuite, log the number, note the trend. The review takes 20 minutes if the data is accessible — the value is in the weekly discipline, not the duration.
+        </div>
+
+        <div class="g2">
+
+          <div class="kpi-card">
+            <div class="kpi-name">Savings vs. Target <span class="badge b-green">weekly</span></div>
+            <div class="kpi-def">Procurement savings achieved in the week versus a weekly savings target. Savings include price reductions negotiated, substitutions, consolidated orders, and avoided costs.</div>
+            <div class="kpi-calc">Savings ($) = Baseline price − Actual price paid × Quantity</div>
+            <div class="kpi-calc">Cumulative YTD savings vs. annual target</div>
+            <div class="kpi-bench">Track both weekly and YTD. <span>Benchmark:</span> Set an annual target, divide by 52 for a weekly pace figure. Report actuals vs. pace.</div>
+          </div>
+
+          <div class="kpi-card">
+            <div class="kpi-name">DIFOT — Delivery In Full On Time <span class="badge b-orange">weekly</span></div>
+            <div class="kpi-def">Percentage of purchase orders delivered by suppliers in full (correct quantity) and on time (on or before confirmed delivery date). Measures supplier reliability — not your team's ordering discipline.</div>
+            <div class="kpi-calc">DIFOT % = (Orders delivered in full and on time ÷ Total orders due) × 100</div>
+            <div class="kpi-bench"><span>Target:</span> 95%+. Below 90% requires active supplier performance management. Exclude force majeure events from denominator.</div>
+          </div>
+
+          <div class="kpi-card">
+            <div class="kpi-name">PO Cycle Time <span class="badge b-blue">weekly average</span></div>
+            <div class="kpi-def">Average time in hours from a sales order being entered (by the other department) to a purchase order being raised by procurement — for purchasing-only SOs. Measures your processing responsiveness.</div>
+            <div class="kpi-calc">Cycle time = PO raised timestamp − SO received timestamp (hrs)</div>
+            <div class="kpi-bench"><span>Target:</span> Same-day for SOs received before noon. Next business day for SOs received after noon. Track average and outliers separately.</div>
+          </div>
+
+          <div class="kpi-card">
+            <div class="kpi-name">Inventory Days on Hand <span class="badge b-amber">weekly</span></div>
+            <div class="kpi-def">How many days of current demand can be met from existing stock. Too low risks stockouts; too high ties up working capital and risks obsolescence.</div>
+            <div class="kpi-calc">Days on Hand = (On-hand stock ÷ Average daily usage)</div>
+            <div class="kpi-calc">Inventory Turnover = COGS ÷ Average inventory value (annual)</div>
+            <div class="kpi-bench"><span>Target range:</span> Item-specific, based on lead time + safety stock. Flag items below safety stock threshold or above 90-day holding.</div>
+          </div>
+
+          <div class="kpi-card">
+            <div class="kpi-name">Overdue POs <span class="badge b-orange">weekly snapshot</span></div>
+            <div class="kpi-def">Count of purchase orders past their confirmed delivery date without goods received. Also track the oldest overdue PO — age of oldest indicates how long issues are going unresolved.</div>
+            <div class="kpi-calc">Overdue PO count = POs where delivery date &lt; today and receipt not confirmed</div>
+            <div class="kpi-calc">Oldest overdue = max(today − delivery date) across open POs</div>
+            <div class="kpi-bench"><span>Target:</span> Zero is the goal. Any overdue PO requires a status and a revised ETA. POs overdue &gt;7 days require escalation to supplier management level.</div>
+          </div>
+
+          <div class="kpi-card">
+            <div class="kpi-name">Freight Cost as % of Order Value <span class="badge b-teal">weekly</span></div>
+            <div class="kpi-def">Total inbound freight costs in the week expressed as a percentage of total purchase order value received. Key efficiency metric — high ratios indicate sub-optimal ordering patterns or carrier selection.</div>
+            <div class="kpi-calc">Freight % = (Total freight cost ÷ Total order value received) × 100</div>
+            <div class="kpi-bench"><span>Benchmark:</span> Category-dependent. Establish a baseline in the first quarter of use, then manage to trend. Consistent increases warrant carrier or ordering pattern review.</div>
+          </div>
+
+          <div class="kpi-card">
+            <div class="kpi-name">Supplier Response Time — International <span class="badge b-purple">weekly average</span></div>
+            <div class="kpi-def">Average time in hours from sending a query or PO to an international supplier to receiving a substantive response (not an auto-acknowledgement). Affects your ability to commit to internal stakeholders.</div>
+            <div class="kpi-calc">Response time = Reply received timestamp − Query sent timestamp (hrs, business hours adjusted for TZ)</div>
+            <div class="kpi-bench"><span>Target:</span> Within one business day (their time zone). Consistently slow responders are flagged in supplier grading. Use this to justify response time SLAs in supplier terms.</div>
+          </div>
+
+          <div class="kpi-card">
+            <div class="kpi-name">Reorder Compliance <span class="badge b-green">weekly</span></div>
+            <div class="kpi-def">Percentage of reorders raised before stock reached zero (proactive) versus after (reactive). Reactive reorders create expediting costs, supplier pressure, and potential production disruption. This metric measures your system discipline.</div>
+            <div class="kpi-calc">Compliance % = (Proactive reorders ÷ Total reorders) × 100</div>
+            <div class="kpi-calc">Proactive = PO raised while stock was above zero</div>
+            <div class="kpi-bench"><span>Target:</span> 95%+. Any reactive reorder should be investigated — was the reorder point wrong, or was the review missed?</div>
+          </div>
+
+        </div>
+
+        <div class="section-label" style="margin-top:20px">Weekly review checklist — Friday 2:30 PM</div>
+        <div class="card">
+          <ul class="checklist">
+            <li>Savings vs. target — this week and YTD pace</li>
+            <li>DIFOT — pull from NetSuite receipts vs. PO due dates</li>
+            <li>PO cycle time — average for purchasing-only SOs this week</li>
+            <li>Inventory days on hand — flag any items below safety stock</li>
+            <li>Overdue POs — count and oldest; action plan for any &gt;7 days</li>
+            <li>Freight cost % — this week vs. prior weeks trend</li>
+            <li>International supplier response time — any outliers to note</li>
+            <li>Reorder compliance — any reactive reorders to investigate</li>
+            <li>Note any metric outside target — what's the cause, what's the action</li>
+          </ul>
+        </div>
+      </div>
+
+      <!-- ═══════════════════════════════════════════ TIPS ═══ -->
+      <div class="panel" id="panel-tips">
+        <div class="page-title">Time Management</div>
+        <div class="page-sub">Principles for a procurement role where everything feels urgent and most of it isn't</div>
+
+        <div class="g2">
+          <div>
+            <div class="section-label">Core principles</div>
+            <div class="card">
+              <div class="tip-row">
+                <div class="tip-num">01</div>
+                <div class="tip-body">
+                  <div class="tip-title">Batch, don't react</div>
+                  <div class="tip-desc">Two SO processing windows per day. Two inbox checks per day. Everything else is reactive mode, which means someone else is running your day. The batching discipline is the single highest-leverage habit in this role.</div>
+                </div>
+              </div>
+              <div class="tip-row">
+                <div class="tip-num">02</div>
+                <div class="tip-body">
+                  <div class="tip-title">Protect deep work or it disappears</div>
+                  <div class="tip-desc">No-one will protect your deep work blocks for you. Strategic procurement work — category planning, supplier development, cost analysis — only happens in uninterrupted time. Guard it with the same firmness as a fixed meeting.</div>
+                </div>
+              </div>
+              <div class="tip-row">
+                <div class="tip-num">03</div>
+                <div class="tip-body">
+                  <div class="tip-title">Three non-negotiables per day</div>
+                  <div class="tip-desc">Each morning: identify the three things the day fails without. Not a full to-do list — three. Everything else fits around them. At end of day, if those three are done, the day was a success regardless of what else happened.</div>
+                </div>
+              </div>
+              <div class="tip-row">
+                <div class="tip-num">04</div>
+                <div class="tip-body">
+                  <div class="tip-title">Asia is open at 7:30 AM — act on it</div>
+                  <div class="tip-desc">China and Malaysia are the same time zone as Perth; Japan is one hour ahead. The 7:30 AM block is your prime window for live Asian supplier contact — calls, negotiations, anything needing a same-day response. Your cutoff for same-day Asian responses is around 3:30–4:00 PM Perth, when China and Japan are finishing their day.</div>
+                </div>
+              </div>
+              <div class="tip-row">
+                <div class="tip-num">05</div>
+                <div class="tip-body">
+                  <div class="tip-title">Monday sets the week — use it</div>
+                  <div class="tip-desc">Monday morning standup is the delegation point for the week. Anything the team can handle should be distributed on Monday, not Thursday when it becomes urgent. Front-load the week's thinking so the rest of it runs on rails.</div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div>
+            <div class="section-label">Procurement-specific habits</div>
+            <div class="card">
+              <div class="tip-row">
+                <div class="tip-num">06</div>
+                <div class="tip-body">
+                  <div class="tip-title">Every action needs a record in NetSuite</div>
+                  <div class="tip-desc">If it's not in NetSuite, it didn't happen — as far as anyone else is concerned. Log SO allocations, PO confirmations, delivery updates, and supplier notes at the time. Reconstruction from memory is inaccurate and time-consuming.</div>
+                </div>
+              </div>
+              <div class="tip-row">
+                <div class="tip-num">07</div>
+                <div class="tip-body">
+                  <div class="tip-title">Proactive communication beats chasing</div>
+                  <div class="tip-desc">Tell sales the ETA before they ask. Advise warehouse of inbounds before they arrive. Update the freight forwarder before the deadline. Proactive communication eliminates the majority of interruptions, because people stop chasing when they trust the information will arrive.</div>
+                </div>
+              </div>
+              <div class="tip-row">
+                <div class="tip-num">08</div>
+                <div class="tip-body">
+                  <div class="tip-title">Supplier visits belong on Tuesday — not wherever they land</div>
+                  <div class="tip-desc">Supplier visits on Tuesday means deep work blocks Mon, Wed, Thu, Fri stay intact. An ad-hoc visit on Thursday morning breaks your rhythm for two days. Push back on non-Tuesday visit requests from suppliers — it protects you both.</div>
+                </div>
+              </div>
+              <div class="tip-row">
+                <div class="tip-num">09</div>
+                <div class="tip-body">
+                  <div class="tip-title">The European window is 3:30 PM — use it deliberately</div>
+                  <div class="tip-desc">In summer (CEST), 2:00 PM Perth = 8:00 AM Europe — a solid 2.5-hour window before your close. In winter (CET), 3:00 PM Perth = 8:00 AM Europe — 90 minutes. UK: summer gives you 3:00 PM–4:30 PM Perth (8:00–9:30 AM London). Winter gives you 4:00–4:30 PM Perth (8:00–8:30 AM London) — 30 minutes only. Send email queries by 3:00 PM Perth in any season to land at their morning open.</div>
+                </div>
+              </div>
+              <div class="tip-row">
+                <div class="tip-num">10</div>
+                <div class="tip-body">
+                  <div class="tip-title">Friday close is a system reset</div>
+                  <div class="tip-desc">Nothing should carry into Monday without an explicit owner, slot, and action. A clean Friday close means Monday morning starts with a plan, not a pile. The daily close ritual (4:00 PM) and weekly close (4:00 PM Friday) are the mechanisms that make this possible.</div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="section-label">Daily close checklist</div>
+        <div class="g2">
+          <div class="card">
+            <div class="card-title">Every day — 4:00 PM</div>
+            <ul class="checklist">
+              <li>NetSuite SO queue checked — nothing in limbo</li>
+              <li>All POs raised have confirmed delivery dates</li>
+              <li>Inbox at zero or all items assigned to a specific slot</li>
+              <li>Tomorrow's 3 non-negotiables written</li>
+              <li>Any urgent items delegated or escalated</li>
+              <li>Pen down at 4:30 — not 4:35</li>
+            </ul>
+          </div>
+          <div class="card">
+            <div class="card-title">Friday only — weekly close additions</div>
+            <ul class="checklist">
+              <li>Weekly KPIs pulled and noted</li>
+              <li>All outstanding Asian supplier queries actioned in the 7:30 AM window — same-day responses secured before end of their day (~3:30–4:00 PM Perth)</li>
+              <li>European freight issues resolved before their weekend</li>
+              <li>Team's outstanding items confirmed — nothing orphaned</li>
+              <li>Monday's priorities set — not left to Monday morning to decide</li>
+              <li>No item left in inbox without an assigned slot next week</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+    </div><!-- /content -->
+  </div><!-- /app -->
+
+
+  <script>
+    // ── TAB NAVIGATION ──
+    function showTab(id) {
+      document.querySelectorAll('.panel').forEach(p => p.classList.remove('active'));
+      document.querySelectorAll('.nav-btn').forEach(b => b.classList.remove('active'));
+      document.getElementById('panel-' + id).classList.add('active');
+      event.currentTarget.classList.add('active');
+    }
+
+    // ── SUB TAB NAVIGATION ──
+    function showSub(group, id) {
+      document.querySelectorAll('#panel-' + group + ' .sub-panel').forEach(p => p.classList.remove('active'));
+      document.querySelectorAll('#panel-' + group + ' .sub-tab').forEach(b => b.classList.remove('active'));
+      document.getElementById(group + '-' + id).classList.add('active');
+      event.currentTarget.classList.add('active');
+    }
+
+    // ── TIMEZONE DATA ──
+    const TZ = [
+      {
+        label: 'NSW / VIC',
+        summer: { off: '+3h', their9: '5:00 AM', their5: '2:00 PM', win: '7:30–14:00', wstart: 7.5, wend: 14, style: 'background:#FAEEE7;color:#C4622D', strat: 'Contact by 2:00 PM Perth — they finish before you. Treat like an international TZ from Oct–Apr.' },
+        winter: { off: '+2h', their9: '6:00 AM', their5: '3:00 PM', win: '7:30–15:00', wstart: 7.5, wend: 15, style: 'background:#E8F4EE;color:#2A7A52', strat: 'Better overlap in winter. Contact by 3:00 PM Perth.' }
+      },
+      {
+        label: 'South Australia',
+        summer: { off: '+2.5h', their9: '5:30 AM', their5: '2:30 PM', win: '7:30–14:30', wstart: 7.5, wend: 14.5, style: 'background:#FAEEE7;color:#C4622D', strat: 'Contact by 2:30 PM Perth.' },
+        winter: { off: '+1.5h', their9: '6:30 AM', their5: '3:30 PM', win: '7:30–15:30', wstart: 7.5, wend: 15.5, style: 'background:#E8F4EE;color:#2A7A52', strat: 'Full day overlap in winter.' }
+      },
+      {
+        label: 'Queensland',
+        summer: { off: '+2h', their9: '6:00 AM', their5: '3:00 PM', win: '7:30–15:00', wstart: 7.5, wend: 15, style: 'background:#E8F4EE;color:#2A7A52', strat: 'No daylight saving — better than VIC/NSW. Contact by 3:00 PM.' },
+        winter: { off: '+2h', their9: '6:00 AM', their5: '3:00 PM', win: '7:30–15:00', wstart: 7.5, wend: 15, style: 'background:#E8F4EE;color:#2A7A52', strat: 'No change year-round. Contact by 3:00 PM.' }
+      },
+      {
+        label: 'Japan (JST)',
+        summer: { off: '+1h', their9: '7:00 AM', their5: '4:00 PM', win: '7:30–16:00', wstart: 7.5, wend: 16, style: 'background:#E8F4EE;color:#2A7A52', strat: 'Strong all-day overlap. 7:30 AM Perth = 8:30 AM Tokyo.' },
+        winter: { off: '+1h', their9: '7:00 AM', their5: '4:00 PM', win: '7:30–16:00', wstart: 7.5, wend: 16, style: 'background:#E8F4EE;color:#2A7A52', strat: 'No change year-round. Strong overlap.' }
+      },
+      {
+        label: 'China (CST)',
+        summer: { off: '0', their9: '8:00 AM', their5: '5:00 PM', win: '7:30–17:00', wstart: 7.5, wend: 17, style: 'background:#E8F4EE;color:#2A7A52', strat: 'Same time zone. Full day overlap. Easiest to work with.' },
+        winter: { off: '0', their9: '8:00 AM', their5: '5:00 PM', win: '7:30–17:00', wstart: 7.5, wend: 17, style: 'background:#E8F4EE;color:#2A7A52', strat: 'Same time zone year-round.' }
+      },
+      {
+        label: 'Malaysia (MYT)',
+        summer: { off: '0', their9: '8:00 AM', their5: '5:00 PM', win: '7:30–17:00', wstart: 7.5, wend: 17, style: 'background:#E8F4EE;color:#2A7A52', strat: 'Same time zone. Full day overlap.' },
+        winter: { off: '0', their9: '8:00 AM', their5: '5:00 PM', win: '7:30–17:00', wstart: 7.5, wend: 17, style: 'background:#E8F4EE;color:#2A7A52', strat: 'Same time zone year-round.' }
+      },
+      {
+        label: 'India (IST)',
+        summer: { off: '−2.5h', their9: '10:30 AM', their5: '7:30 PM Perth', win: '10:30–15:00', wstart: 10.5, wend: 15, style: 'background:#FBF3E3;color:#B07D2A', strat: 'Contact window 10:30 AM–3:00 PM Perth (their 8:00 AM–4:30 PM). No DST — offset is constant year-round.' },
+        winter: { off: '−2.5h', their9: '10:30 AM', their5: '7:30 PM Perth', win: '10:30–15:00', wstart: 10.5, wend: 15, style: 'background:#FBF3E3;color:#B07D2A', strat: 'Same window year-round — neither Perth nor India observes daylight saving. Contact 10:30 AM–3:00 PM Perth.' }
+      },
+      {
+        label: 'Turkey (TRT)',
+        summer: { off: '−5h', their9: '1:00 PM', their5: 'After Perth close', win: '13:00–16:30', wstart: 13, wend: 16.5, style: 'background:#EBF2F8;color:#2C5F8A', strat: '1:00 PM Perth = 8:00 AM Istanbul. Good afternoon window. Turkey is UTC+3 year-round (no DST since 2016).' },
+        winter: { off: '−5h', their9: '1:00 PM', their5: 'After Perth close', win: '13:00–16:30', wstart: 13, wend: 16.5, style: 'background:#EBF2F8;color:#2C5F8A', strat: 'Same window year-round. 1:00 PM Perth = 8:00 AM Istanbul.' }
+      },
+      {
+        label: 'Poland (CET)',
+        summer: { off: '−6h', their9: '2:00 PM', their5: 'After Perth close', win: '14:00–16:30', wstart: 14, wend: 16.5, style: 'background:#EBF2F8;color:#2C5F8A', strat: '2:00 PM Perth = 8:00 AM Warsaw. Good 2.5-hour window daily in summer.' },
+        winter: { off: '−7h', their9: '3:00 PM', their5: 'After Perth close', win: '15:00–16:30', wstart: 15, wend: 16.5, style: 'background:#FAEEE7;color:#C4622D', strat: '3:00 PM Perth = 8:00 AM Warsaw. Only 90 minutes before your close. Prioritise.' }
+      },
+      {
+        label: 'Italy (CET)',
+        summer: { off: '−6h', their9: '2:00 PM', their5: 'After Perth close', win: '14:00–16:30', wstart: 14, wend: 16.5, style: 'background:#EBF2F8;color:#2C5F8A', strat: '2:00 PM Perth = 8:00 AM Rome. Good 2.5-hour window in summer.' },
+        winter: { off: '−7h', their9: '3:00 PM', their5: 'After Perth close', win: '15:00–16:30', wstart: 15, wend: 16.5, style: 'background:#FAEEE7;color:#C4622D', strat: '3:00 PM Perth = 8:00 AM Rome. 90 minutes. Prioritise calls Nov–Mar.' }
+      },
+      {
+        label: 'Germany (CET)',
+        summer: { off: '−6h', their9: '2:00 PM', their5: 'After Perth close', win: '14:00–16:30', wstart: 14, wend: 16.5, style: 'background:#EBF2F8;color:#2C5F8A', strat: '2:00 PM Perth = 8:00 AM Berlin. Good 2.5-hour window in summer.' },
+        winter: { off: '−7h', their9: '3:00 PM', their5: 'After Perth close', win: '15:00–16:30', wstart: 15, wend: 16.5, style: 'background:#FAEEE7;color:#C4622D', strat: '3:00 PM Perth = 8:00 AM Berlin. 90 minutes. Send priority queries before 3:00 PM.' }
+      },
+      {
+        label: 'UK (GMT/BST)',
+        summer: { off: '−7h', their9: '3:00 PM', their5: 'After Perth close', win: '15:00–16:30', wstart: 15, wend: 16.5, style: 'background:#FAEEE7;color:#C4622D', strat: '3:00 PM Perth = 8:00 AM London. 90-minute window in summer — use it.' },
+        winter: { off: '−8h', their9: '4:00 PM', their5: 'After Perth close', win: '16:00–16:30', wstart: 16, wend: 16.5, style: 'background:#FAEEE7;color:#C4622D', strat: '4:00 PM Perth = 8:00 AM London. Just 30 minutes before your close. Send queries by 3:00 PM Perth to land at their morning open.' }
+      }
+    ];
+
+    function renderTZ(season) {
+      // Viz
+      const viz = document.getElementById('tz-viz');
+      viz.innerHTML = '';
+      TZ.forEach(z => {
+        const d = z[season];
+        const row = document.createElement('div');
+        row.className = 'tz-viz-row';
+        const lbl = document.createElement('div');
+        lbl.className = 'tz-viz-label';
+        lbl.textContent = z.label;
+        const track = document.createElement('div');
+        track.className = 'tz-track';
+
+        if (d.wstart === null) {
+          const seg = document.createElement('div');
+          seg.className = 'tz-seg';
+          seg.style.cssText = 'flex:1;background:#F1EFE8;color:#9C9A95';
+          seg.textContent = 'email only';
+          track.appendChild(seg);
+        } else {
+          const total = 16.5 - 7.5;
+          const before = Math.max(0, d.wstart - 7.5) / total;
+          const during = Math.max(0, Math.min(d.wend, 16.5) - d.wstart) / total;
+          const after = Math.max(0, 1 - before - during);
+          if (before > 0.01) { const s = document.createElement('div'); s.style.cssText = 'flex:' + before + ';background:#F4F2EE'; track.appendChild(s); }
+          if (during > 0.01) { const s = document.createElement('div'); s.className = 'tz-seg'; s.style.cssText = 'flex:' + during + ';' + d.style; if (during > 0.1) s.textContent = d.win; track.appendChild(s); }
+          if (after > 0.01) { const s = document.createElement('div'); s.style.cssText = 'flex:' + after + ';background:#F4F2EE'; track.appendChild(s); }
+        }
+        row.appendChild(lbl);
+        row.appendChild(track);
+        viz.appendChild(row);
+      });
+
+      // Table
+      const tbody = document.getElementById('tz-table');
+      tbody.innerHTML = '';
+      TZ.forEach(z => {
+        const d = z[season];
+        const tr = document.createElement('tr');
+        tr.innerHTML = '<td>' + z.label + '</td>' +
+          '<td>' + d.off + '</td>' +
+          '<td>' + d.their9 + '</td>' +
+          '<td>' + d.their5 + '</td>' +
+          '<td><span style="display:inline-block;font-size:10px;font-weight:500;padding:2px 8px;border-radius:3px;' + d.style + '">' + d.win + '</span></td>' +
+          '<td style="font-size:11px">' + d.strat + '</td>';
+        tbody.appendChild(tr);
+      });
+
+      // Windows
+      const s = season === 'summer';
+      document.getElementById('win-china').textContent = s
+        ? 'Same time zone as Perth. Open 8:00 AM–5:00 PM their time = 8:00 AM–5:00 PM Perth. Full overlap all day. Last chance for same-day response: 4:30 PM Perth.'
+        : 'Same time zone as Perth. Open 8:00 AM–5:00 PM = 8:00 AM–5:00 PM Perth. Full overlap all day.';
+      document.getElementById('win-japan').textContent = s
+        ? 'UTC+9, one hour ahead. Open 8:00 AM–5:00 PM Tokyo = 7:00 AM–4:00 PM Perth. Available from when you start. Last chance for same-day response: 4:00 PM Perth.'
+        : 'UTC+9, one hour ahead. Open 8:00 AM–5:00 PM Tokyo = 7:00 AM–4:00 PM Perth. Same window year-round.';
+      document.getElementById('win-india').textContent = s
+        ? 'IST is UTC+5:30, Perth is 2.5h ahead. Open 8:00 AM–5:00 PM IST = 10:30 AM–7:30 PM Perth. Real-time window: 10:30 AM–4:30 PM Perth. No DST — same year-round.'
+        : 'IST is UTC+5:30, Perth is 2.5h ahead. Open 8:00 AM–5:00 PM IST = 10:30 AM–7:30 PM Perth. Real-time window: 10:30 AM–4:30 PM Perth. Same year-round.';
+      document.getElementById('win-europe').textContent = s
+        ? 'CEST (summer, UTC+2). Perth 6h ahead. Open 8:00 AM–5:00 PM = 2:00 PM–11:00 PM Perth. Real-time window: 2:00 PM–4:30 PM Perth.'
+        : 'CET (winter, UTC+1). Perth 7h ahead. Open 8:00 AM–5:00 PM = 3:00 PM–12:00 AM Perth. Real-time window: 3:00 PM–4:30 PM Perth.';
+      document.getElementById('win-turkey').textContent = s
+        ? 'UTC+3 year-round (no DST since 2016). Perth 5h ahead. Open 8:00 AM–5:00 PM Istanbul = 1:00 PM–10:00 PM Perth. Real-time window: 1:00 PM–4:30 PM Perth.'
+        : 'UTC+3 year-round. Perth 5h ahead. Open 8:00 AM–5:00 PM Istanbul = 1:00 PM–10:00 PM Perth. Real-time window: 1:00 PM–4:30 PM Perth. Same year-round.';
+      document.getElementById('win-uk').textContent = s
+        ? 'BST (summer, UTC+1). Perth 7h ahead. Open 8:00 AM–5:00 PM London = 3:00 PM–12:00 AM Perth. Real-time window: 3:00 PM–4:30 PM Perth.'
+        : 'GMT (winter, UTC+0). Perth 8h ahead. Open 8:00 AM–5:00 PM London = 4:00 PM–1:00 AM Perth. Real-time window: 4:00 PM–4:30 PM Perth (30 min only).';
+      document.getElementById('tz-critical').innerHTML = s
+        ? '<strong>Summer cutoffs:</strong> Japan — 4:00 PM Perth. China/Malaysia — 4:30 PM Perth. India — 4:30 PM Perth. Turkey — 4:30 PM Perth. Europe — 4:30 PM Perth. UK — 4:30 PM Perth. NSW/VIC — call before 2:00 PM Perth.'
+        : '<strong>Winter cutoffs:</strong> Japan — 4:00 PM Perth. China/Malaysia — 4:30 PM Perth. India — 4:30 PM Perth. Turkey — 4:30 PM Perth. Europe — 4:30 PM Perth. UK — 4:30 PM Perth (30 min window only). NSW/VIC — call before 3:00 PM Perth.';
+    }
+
+    function setSeason(s) {
+      document.getElementById('btn-summer').classList.toggle('active', s === 'summer');
+      document.getElementById('btn-winter').classList.toggle('active', s === 'winter');
+      renderTZ(s);
+    }
+
+    // Init
+    setSeason('summer');
+  </script>
+</body>
+
+</html>
