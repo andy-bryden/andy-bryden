@@ -4323,6 +4323,18 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
         if (!valid.length) return null;
         
         const ugChase = G.lastObservedType === 'underground' && (det.tickets.underground || 0) > 0;
+        
+        // INTERCEPT LOGIC: Calculate how many high-probability nodes this move "controls"
+        const controlBonus = (moveNode) => {
+          if (!G.lastRankedCandidates) return 0;
+          let count = 0;
+          const topCands = G.lastRankedCandidates.slice(0, 10);
+          topCands.forEach(cand => {
+            if (landHopDist(moveNode, cand) <= 1) count++;
+          });
+          return count * 500; // Massive bonus for controlling multiple likely exits
+        };
+
         valid.sort((a, b) => {
           const hopA = landHopDist(a.node, target), hopB = landHopDist(b.node, target);
           const ugBonusA = ugChase && adj[a.node].underground.length > 0 ? 250 : 0;
@@ -4330,13 +4342,11 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
           const degA = NODE_DEGREE[a.node] || 1;
           const degB = NODE_DEGREE[b.node] || 1;
           
-          // Absolute distance to target dominates score (1 hop = 1000 pts). Direct capture = 100000 pts.
-          const scoreA = (hopA === 0 ? 100000 : -hopA * 1000) - ticketCost(det, a.type) + ugBonusA + (degA * 5);
-          const scoreB = (hopB === 0 ? 100000 : -hopB * 1000) - ticketCost(det, b.type) + ugBonusB + (degB * 5);
+          const scoreA = (hopA === 0 ? 100000 : -hopA * 1000) - ticketCost(det, a.type) + ugBonusA + (degA * 10) + controlBonus(a.node);
+          const scoreB = (hopB === 0 ? 100000 : -hopB * 1000) - ticketCost(det, b.type) + ugBonusB + (degB * 10) + controlBonus(b.node);
           return scoreB - scoreA;
         });
         
-        // Never give up! Take the best move even if it temporarily increases distance.
         return valid[0];
       }
       function ticketCost(det, type) {
@@ -4361,13 +4371,18 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
       }
       function assignDetectives(rankedCandidates) {
         const topTargets = [];
-        for (const cand of rankedCandidates) {
-          if (topTargets.every(t => landHopDist(t, cand) >= 2)) {
+        // Prioritize Hubs: If a candidate is a major hub (deg > 4), it's a priority target
+        const hubs = rankedCandidates.filter(n => NODE_DEGREE[n] > 4);
+        const others = rankedCandidates.filter(n => NODE_DEGREE[n] <= 4);
+        const sortedPool = [...hubs, ...others];
+
+        for (const cand of sortedPool) {
+          if (topTargets.every(t => landHopDist(t, cand) >= 3)) { // Spread the net even wider
             topTargets.push(cand);
           }
           if (topTargets.length >= 5) break;
         }
-        for (const cand of rankedCandidates) {
+        for (const cand of sortedPool) {
           if (topTargets.length >= 5) break;
           if (!topTargets.includes(cand)) topTargets.push(cand);
         }
@@ -4376,7 +4391,6 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
         const assignments = [];
         const availableDets = new Set([0, 1, 2, 3, 4]);
         
-        // Strictly assign exactly 1 detective per target
         for (const target of topTargets) {
           let bestDet = null, bestHops = 999;
           for (const di of availableDets) {
@@ -4388,8 +4402,6 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
             availableDets.delete(bestDet);
           }
         }
-        
-        // Any remaining detectives act as backup to the top priority target
         for (const di of availableDets) {
           assignments.push({ di, primaryTarget: topTargets[0] || 1 });
         }
@@ -4434,12 +4446,20 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
       }
       let poolNodes = Array.from(G.routeTree);
       
-      // THE CAGE LOGIC: If Moriarty is pinned to 5 or fewer locations, target his EXITS too!
-      if (poolNodes.length <= 5) {
+      // AGGRESSIVE CAGE: If Moriarty is pinned to 10 or fewer locations, seal the entire zone
+      if (poolNodes.length <= 10) {
         const expanded = new Set(poolNodes);
         poolNodes.forEach(n => {
           ['taxi', 'bus', 'underground'].forEach(t => {
-            (adj[n][t] || []).forEach(nb => expanded.add(nb));
+            (adj[n][t] || []).forEach(nb => {
+              expanded.add(nb);
+              // Target the "Outer Ring" - nodes that lead to the exits
+              ['taxi', 'bus', 'underground'].forEach(t2 => {
+                (adj[nb][t2] || []).forEach(outer => {
+                  if (!poolNodes.includes(outer)) expanded.add(outer);
+                });
+              });
+            });
           });
         });
         poolNodes = Array.from(expanded);
@@ -4453,8 +4473,9 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
       }));
       
       poolScored.sort((a, b) => {
-        const scoreA = (a.prob * 100) - (a.minHop * 2) + (a.deg * 0.1);
-        const scoreB = (b.prob * 100) - (b.minHop * 2) + (b.deg * 0.1);
+        // LETHAL WEIGHTING: Probability is now the dominant factor, followed by connectivity
+        const scoreA = (a.prob * 500) - (a.minHop * 10) + (a.deg * 5);
+        const scoreB = (b.prob * 500) - (b.minHop * 10) + (b.deg * 5);
         return scoreB - scoreA;
       });
       const rankedCandidates = poolScored.map(({ node }) => node);
