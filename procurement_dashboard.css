@@ -1006,6 +1006,11 @@
       .tbl-wrap {
         overflow-x: auto;
         -webkit-overflow-scrolling: touch;
+        -webkit-overflow-scrolling: touch;
+      }
+
+      .card.tbl-wrap {
+        overflow-x: auto !important;
       }
 
       .tbl {
