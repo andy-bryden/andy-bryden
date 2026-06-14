@@ -172,7 +172,9 @@
         // Parse time string "H:MM" or "HH:MM" → minutes since midnight
         function toMins(str) {
           const [h, m] = str.trim().split(':').map(Number);
-          return h * 60 + m;
+          // Work day is 7:30–16:30; any hour < 7 must be PM (13:00+)
+          const hour = h < 7 ? h + 12 : h;
+          return hour * 60 + m;
         }
 
         rows.forEach((row, i) => {
