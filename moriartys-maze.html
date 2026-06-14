@@ -4328,12 +4328,9 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
           const ugBonusB = ugChase && adj[b.node].underground.length > 0 ? 250 : 0;
           const degA = NODE_DEGREE[a.node] || 1;
           const degB = NODE_DEGREE[b.node] || 1;
-          
-          // Absolute distance to target dominates score (1 hop = 1000 pts). Direct capture = 100000 pts.
-          const scoreA = (hopA === 0 ? 100000 : -hopA * 1000) - ticketCost(det, a.type) + ugBonusA + (degA * 5);
-          const scoreB = (hopB === 0 ? 100000 : -hopB * 1000) - ticketCost(det, b.type) + ugBonusB + (degB * 5);
+          const scoreA = (hopA === 0 ? 100000 : -hopA * 1000) - ticketCost(det, a.type) + ugBonusA + (degA * 30);
+          const scoreB = (hopB === 0 ? 100000 : -hopB * 1000) - ticketCost(det, b.type) + ugBonusB + (degB * 30);
           return scoreB - scoreA;
-        });
         
         // Never give up! Take the best move even if it temporarily increases distance.
         return valid[0];
@@ -4358,10 +4355,11 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
         if (!valid.length) return { move: { node: det.node, type: 'taxi' }, assignedTarget: primaryTarget, rank: 99 };
         return { move: valid[0], assignedTarget: primaryTarget, rank: 99 };
       }
-      function assignDetectives(rankedCandidates) {
+      function assignDetectives(rankedCandidates, spread = 2) {
         const topTargets = [];
         for (const cand of rankedCandidates) {
-          if (topTargets.every(t => landHopDist(t, cand) >= 2)) {
+          // If spread is 2, they stay apart (Net). If spread is 1, they swarm (Fly-swat).
+          if (topTargets.every(t => landHopDist(t, cand) >= spread)) {
             topTargets.push(cand);
           }
           if (topTargets.length >= 5) break;
@@ -4375,7 +4373,6 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
         const assignments = [];
         const availableDets = new Set([0, 1, 2, 3, 4]);
         
-        // Strictly assign exactly 1 detective per target
         for (const target of topTargets) {
           let bestDet = null, bestHops = 999;
           for (const di of availableDets) {
@@ -4387,8 +4384,6 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
             availableDets.delete(bestDet);
           }
         }
-        
-        // Any remaining detectives act as backup to the top priority target
         for (const di of availableDets) {
           assignments.push({ di, primaryTarget: topTargets[0] || 1 });
         }
@@ -4403,7 +4398,8 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
           (adj[G.ghostNode]['taxi'] || []).forEach(nb => targets.add(nb));
         }
         const rankedCandidates = Array.from(targets);
-        const assignments = assignDetectives(rankedCandidates);
+        // When a reveal happens, we force spread to 1 (Swarm mode)
+        const assignments = assignDetectives(rankedCandidates, 1);
         assignments.sort((a, b) => landHopDistDet(G.detectives[a.di], a.primaryTarget) - landHopDistDet(G.detectives[b.di], b.primaryTarget));
         const moves = [];
         const planned = new Set();
@@ -4457,7 +4453,10 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
         return scoreB - scoreA;
       });
       const rankedCandidates = poolScored.map(({ node }) => node);
-      const assignments = assignDetectives(rankedCandidates);
+      // If the probability cloud is large (Fog), use a Net (spread 2). 
+      // If the cloud is small (Cornered), use a Swarm (spread 1).
+      const spread = G.routeTree.size > 15 ? 2 : 1;
+      const assignments = assignDetectives(rankedCandidates, spread);
       assignments.sort((a, b) => landHopDistDet(G.detectives[a.di], a.primaryTarget) - landHopDistDet(G.detectives[b.di], b.primaryTarget));
       const moves = [];
       const planned = new Set();
