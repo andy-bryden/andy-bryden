@@ -4288,7 +4288,7 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
       });
     }
     function aiDetTeamMoves() {
-      const moveNum = G.moriMoveCount; // moves made so far
+      const moveNum = G.moriMoveCount;
       if (moveNum <= 2) {
         if (!G.phase1Plan) G.phase1Plan = phase1Targets();
         const phase1 = G.phase1Plan;
@@ -4299,7 +4299,7 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
           const others = new Set(G.detectives.filter((_, j) => j !== di).map(d => d.node));
           const exclude = new Set([...others, ...planned]);
           let valid = detMoves(det, exclude).length ? detMoves(det, exclude) : detMoves(det, others);
-          if (!valid.length) return; // genuinely stranded
+          if (!valid.length) return;
           const P1PRI = { bus: 0, taxi: 1, underground: 2 };
           valid.sort((a, b) => (P1PRI[a.type] ?? 3) - (P1PRI[b.type] ?? 3));
           const target = moveNum === 1 ? target1 : target2;
@@ -4315,131 +4315,11 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
         });
         return moves;
       }
+
       const depthInCycle = G.moriMoveCount - G.revealTurn;
-      const COST = { bus: 1, taxi: 2, underground: 3 };
-      function bestStepToward(det, target, exclude) {
-        let valid = detMoves(det, exclude);
-        if (!valid.length) valid = detMoves(det, new Set([...exclude].filter(n => G.detectives.map(d => d.node).includes(n))));
-        if (!valid.length) return null;
-        
-        const ugChase = G.lastObservedType === 'underground' && (det.tickets.underground || 0) > 0;
-        valid.sort((a, b) => {
-          const hopA = landHopDist(a.node, target), hopB = landHopDist(b.node, target);
-          const ugBonusA = ugChase && adj[a.node].underground.length > 0 ? 250 : 0;
-          const ugBonusB = ugChase && adj[b.node].underground.length > 0 ? 250 : 0;
-          const degA = NODE_DEGREE[a.node] || 1;
-          const degB = NODE_DEGREE[b.node] || 1;
-          
-          // Distance is king again. Direct capture (hop 0) is the absolute priority.
-          const scoreA = (hopA === 0 ? 100000 : -hopA * 1000) - ticketCost(det, a.type) + ugBonusA + (degA * 5);
-          const scoreB = (hopB === 0 ? 100000 : -hopB * 1000) - ticketCost(det, b.type) + ugBonusB + (degB * 5);
-          return scoreB - scoreA;
-        });
-        
-        return valid[0];
-      }
-      function ticketCost(det, type) {
-        const remaining = det.tickets[type] || 0;
-        const base = { bus: 1, taxi: 2, underground: 3 }[type] || 1;
-        const scarcityPenalty = remaining <= 2 ? 50 : remaining <= 4 ? 20 : 0;
-        return base + scarcityPenalty;
-      }
-      function bestMoveForDet(det, primaryTarget, rankedCandidates, exclude) {
-        const primary = bestStepToward(det, primaryTarget, exclude);
-        if (primary) return { move: primary, assignedTarget: primaryTarget, rank: rankedCandidates.indexOf(primaryTarget) };
-        for (let i = 0; i < rankedCandidates.length; i++) {
-          const t = rankedCandidates[i];
-          if (t === primaryTarget) continue;
-          const m = bestStepToward(det, t, exclude);
-          if (m) return { move: m, assignedTarget: t, rank: i };
-        }
-        let valid = detMoves(det, exclude);
-        if (!valid.length) valid = detMoves(det, new Set(G.detectives.map(d => d.node)));
-        if (!valid.length) return { move: { node: det.node, type: 'taxi' }, assignedTarget: primaryTarget, rank: 99 };
-        return { move: valid[0], assignedTarget: primaryTarget, rank: 99 };
-      }
-      function assignDetectives(rankedCandidates) {
-        const assignments = [];
-        const availableDets = new Set([0, 1, 2, 3, 4]);
-        
-        // 1. THE SWAT: Assign the 2 closest detectives to the top 2 most likely nodes
-        const top2 = rankedCandidates.slice(0, 2);
-        top2.forEach(target => {
-          let bestDet = null, bestHops = 999;
-          for (const di of availableDets) {
-            const h = landHopDistDet(G.detectives[di], target);
-            if (h < bestHops) { bestHops = h; bestDet = di; }
-          }
-          if (bestDet !== null) {
-            assignments.push({ di: bestDet, primaryTarget: target });
-            availableDets.delete(bestDet);
-          }
-        });
-
-        // 2. THE NET: Assign remaining detectives to a spread of the remaining candidates
-        const netTargets = [];
-        for (const cand of rankedCandidates) {
-          if (netTargets.every(t => landHopDist(t, cand) >= 2)) {
-            netTargets.push(cand);
-          }
-          if (netTargets.length >= 3) break;
-        }
-        
-        // Fill remaining net targets if not enough spread
-        while (netTargets.length < 3 && rankedCandidates.length > 0) {
-          const cand = rankedCandidates[netTargets.length];
-          if (!netTargets.includes(cand)) netTargets.push(cand);
-        }
-
-        let netIdx = 0;
-        for (const di of availableDets) {
-          const target = netTargets[netIdx] || rankedCandidates[0] || 1;
-          assignments.push({ di, primaryTarget: target });
-          netIdx++;
-        }
-        
-        return assignments;
-      }
-      if (depthInCycle === 0 && G.ghostNode >= 0) {
-        const targets = new Set([G.ghostNode]);
-        ['bus', 'underground'].forEach(t => {
-          (adj[G.ghostNode][t] || []).forEach(nb => targets.add(nb));
-        });
-        if (targets.size < 5) {
-          (adj[G.ghostNode]['taxi'] || []).forEach(nb => targets.add(nb));
-        }
-        const rankedCandidates = Array.from(targets);
-        const assignments = assignDetectives(rankedCandidates);
-        assignments.sort((a, b) => landHopDistDet(G.detectives[a.di], a.primaryTarget) - landHopDistDet(G.detectives[b.di], b.primaryTarget));
-        const moves = [];
-        const planned = new Set();
-        assignments.forEach(({ di, primaryTarget }) => {
-          const det = G.detectives[di];
-          const others = new Set(G.detectives.filter((_, j) => j !== di).map(d => d.node));
-          const exclude = new Set([...others, ...planned]);
-          const result = bestMoveForDet(det, primaryTarget, rankedCandidates, exclude);
-          result.detIdx = di;
-          planned.add(result.move.node);
-          moves.push({ detIdx: di, node: result.move.node, type: result.move.type, assignedTarget: result.assignedTarget, rank: result.rank });
-        });
-        return moves.sort((a, b) => a.detIdx - b.detIdx);
-      }
-      if (G.routeTree.size === 0) {
-        const fallback = G.ghostNode >= 0 ? G.ghostNode : 1;
-        const moves = [];
-        const planned = new Set();
-        G.detectives.forEach((det, di) => {
-          const others = new Set(G.detectives.filter((_, j) => j !== di).map(d => d.node));
-          const exclude = new Set([...others, ...planned]);
-          const result = bestMoveForDet(det, fallback, [fallback], exclude);
-          planned.add(result.move.node);
-          moves.push({ detIdx: di, node: result.move.node, type: result.move.type });
-        });
-        return moves;
-      }
-      let poolNodes = Array.from(G.routeTree);
       
-      // TIGHT CAGE: If Moriarty is pinned to 10 or fewer locations, target his immediate exits
+      // 1. GATHER CANDIDATES
+      let poolNodes = Array.from(G.routeTree);
       if (poolNodes.length <= 10) {
         const expanded = new Set(poolNodes);
         poolNodes.forEach(n => {
@@ -4450,34 +4330,79 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
         poolNodes = Array.from(expanded);
       }
 
-      const poolScored = poolNodes.map(node => ({
-        node,
-        minHop: Math.min(...G.detectives.map(d => landHopDistDet(d, node))),
-        deg: NODE_DEGREE[node] || 1,
-        prob: G.belief[node] || 0.1 // Base 10% probability for the newly added trap/exit nodes
-      }));
-      
-      poolScored.sort((a, b) => {
-        // Balanced Weighting: Probability matters, but distance is a strong tie-breaker
-        const scoreA = (a.prob * 200) - (a.minHop * 20) + (a.deg * 2);
-        const scoreB = (b.prob * 200) - (b.minHop * 20) + (b.deg * 2);
-        return scoreB - scoreA;
+      // 2. THE BRAIN: Rank candidates once per turn using heavy math
+      const poolScored = poolNodes.map(node => {
+        const minHop = Math.min(...G.detectives.map(d => landHopDistDet(d, node)));
+        const deg = NODE_DEGREE[node] || 1;
+        const prob = G.belief[node] || 0.1;
+        
+        // Intelligence: Hub-ness + Probability + Proximity
+        // We do the heavy math here, once per node.
+        const score = (prob * 500) - (minHop * 25) + (deg * 10);
+        return { node, score };
       });
-      const rankedCandidates = poolScored.map(({ node }) => node);
-      const assignments = assignDetectives(rankedCandidates);
-      assignments.sort((a, b) => landHopDistDet(G.detectives[a.di], a.primaryTarget) - landHopDistDet(G.detectives[b.di], b.primaryTarget));
+      poolScored.sort((a, b) => b.score - a.score);
+      const rankedCandidates = poolScored.map(s => s.node);
+      G.lastRankedCandidates = rankedCandidates;
+
+      // 3. ASSIGNMENT: Map detectives to the top ranked nodes
+      const assignments = [];
+      const availableDets = new Set([0, 1, 2, 3, 4]);
+      
+      // Assign the 2 closest detectives to the top 2 nodes (The Swat)
+      const top2 = rankedCandidates.slice(0, 2);
+      top2.forEach(target => {
+        let bestDet = null, bestH = 999;
+        for (const di of availableDets) {
+          const h = landHopDistDet(G.detectives[di], target);
+          if (h < bestH) { bestH = h; bestDet = di; }
+        }
+        if (bestDet !== null) {
+          assignments.push({ di: bestDet, primaryTarget: target });
+          availableDets.delete(bestDet);
+        }
+      });
+
+      // Assign the rest to a spread (The Net)
+      const netTargets = [];
+      for (const cand of rankedCandidates) {
+        if (netTargets.every(t => landHopDist(t, cand) >= 2)) netTargets.push(cand);
+        if (netTargets.length >= 3) break;
+      }
+      while (netTargets.length < 3 && rankedCandidates.length > 0) {
+        const cand = rankedCandidates[netTargets.length];
+        if (!netTargets.includes(cand)) netTargets.push(cand);
+      }
+
+      let netIdx = 0;
+      for (const di of availableDets) {
+        const target = netTargets[netIdx] || rankedCandidates[0] || 1;
+        assignments.push({ di, primaryTarget: target });
+        netIdx++;
+      }
+
+      // 4. EXECUTION: Find the actual moves
       const moves = [];
       const planned = new Set();
       assignments.forEach(({ di, primaryTarget }) => {
         const det = G.detectives[di];
         const others = new Set(G.detectives.filter((_, j) => j !== di).map(d => d.node));
         const exclude = new Set([...others, ...planned]);
-        const result = bestMoveForDet(det, primaryTarget, rankedCandidates, exclude);
-        result.detIdx = di;
-        planned.add(result.move.node);
-        moves.push({ detIdx: di, node: result.move.node, type: result.move.type, assignedTarget: result.assignedTarget, rank: result.rank });
+        
+        // Find the best move to the assigned target
+        const bestMove = bestStepToward(det, primaryTarget, exclude);
+        if (bestMove) {
+          planned.add(bestMove.node);
+          moves.push({ 
+            detIdx: di, 
+            node: bestMove.node, 
+            type: bestMove.type, 
+            assignedTarget: primaryTarget, 
+            rank: rankedCandidates.indexOf(primaryTarget) 
+          });
+        }
       });
-      G.lastRankedCandidates = rankedCandidates;
+
       return moves.sort((a, b) => a.detIdx - b.detIdx);
     }
     const _pickLast = new Map();
