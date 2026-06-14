@@ -4323,18 +4323,6 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
         if (!valid.length) return null;
         
         const ugChase = G.lastObservedType === 'underground' && (det.tickets.underground || 0) > 0;
-        
-        // INTERCEPT LOGIC: Calculate how many high-probability nodes this move "controls"
-        const controlBonus = (moveNode) => {
-          if (!G.lastRankedCandidates) return 0;
-          let count = 0;
-          const topCands = G.lastRankedCandidates.slice(0, 10);
-          topCands.forEach(cand => {
-            if (landHopDist(moveNode, cand) <= 1) count++;
-          });
-          return count * 500; // Massive bonus for controlling multiple likely exits
-        };
-
         valid.sort((a, b) => {
           const hopA = landHopDist(a.node, target), hopB = landHopDist(b.node, target);
           const ugBonusA = ugChase && adj[a.node].underground.length > 0 ? 250 : 0;
@@ -4342,8 +4330,9 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
           const degA = NODE_DEGREE[a.node] || 1;
           const degB = NODE_DEGREE[b.node] || 1;
           
-          const scoreA = (hopA === 0 ? 100000 : -hopA * 1000) - ticketCost(det, a.type) + ugBonusA + (degA * 10) + controlBonus(a.node);
-          const scoreB = (hopB === 0 ? 100000 : -hopB * 1000) - ticketCost(det, b.type) + ugBonusB + (degB * 10) + controlBonus(b.node);
+          // Distance is king again. Direct capture (hop 0) is the absolute priority.
+          const scoreA = (hopA === 0 ? 100000 : -hopA * 1000) - ticketCost(det, a.type) + ugBonusA + (degA * 5);
+          const scoreB = (hopB === 0 ? 100000 : -hopB * 1000) - ticketCost(det, b.type) + ugBonusB + (degB * 5);
           return scoreB - scoreA;
         });
         
@@ -4370,28 +4359,12 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
         return { move: valid[0], assignedTarget: primaryTarget, rank: 99 };
       }
       function assignDetectives(rankedCandidates) {
-        const topTargets = [];
-        // Prioritize Hubs: If a candidate is a major hub (deg > 4), it's a priority target
-        const hubs = rankedCandidates.filter(n => NODE_DEGREE[n] > 4);
-        const others = rankedCandidates.filter(n => NODE_DEGREE[n] <= 4);
-        const sortedPool = [...hubs, ...others];
-
-        for (const cand of sortedPool) {
-          if (topTargets.every(t => landHopDist(t, cand) >= 3)) { // Spread the net even wider
-            topTargets.push(cand);
-          }
-          if (topTargets.length >= 5) break;
-        }
-        for (const cand of sortedPool) {
-          if (topTargets.length >= 5) break;
-          if (!topTargets.includes(cand)) topTargets.push(cand);
-        }
-        if (topTargets.length === 0 && rankedCandidates.length > 0) topTargets.push(rankedCandidates[0]);
-        
         const assignments = [];
         const availableDets = new Set([0, 1, 2, 3, 4]);
         
-        for (const target of topTargets) {
+        // 1. THE SWAT: Assign the 2 closest detectives to the top 2 most likely nodes
+        const top2 = rankedCandidates.slice(0, 2);
+        top2.forEach(target => {
           let bestDet = null, bestHops = 999;
           for (const di of availableDets) {
             const h = landHopDistDet(G.detectives[di], target);
@@ -4401,10 +4374,30 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
             assignments.push({ di: bestDet, primaryTarget: target });
             availableDets.delete(bestDet);
           }
+        });
+
+        // 2. THE NET: Assign remaining detectives to a spread of the remaining candidates
+        const netTargets = [];
+        for (const cand of rankedCandidates) {
+          if (netTargets.every(t => landHopDist(t, cand) >= 2)) {
+            netTargets.push(cand);
+          }
+          if (netTargets.length >= 3) break;
         }
+        
+        // Fill remaining net targets if not enough spread
+        while (netTargets.length < 3 && rankedCandidates.length > 0) {
+          const cand = rankedCandidates[netTargets.length];
+          if (!netTargets.includes(cand)) netTargets.push(cand);
+        }
+
+        let netIdx = 0;
         for (const di of availableDets) {
-          assignments.push({ di, primaryTarget: topTargets[0] || 1 });
+          const target = netTargets[netIdx] || rankedCandidates[0] || 1;
+          assignments.push({ di, primaryTarget: target });
+          netIdx++;
         }
+        
         return assignments;
       }
       if (depthInCycle === 0 && G.ghostNode >= 0) {
@@ -4446,20 +4439,12 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
       }
       let poolNodes = Array.from(G.routeTree);
       
-      // AGGRESSIVE CAGE: If Moriarty is pinned to 10 or fewer locations, seal the entire zone
+      // TIGHT CAGE: If Moriarty is pinned to 10 or fewer locations, target his immediate exits
       if (poolNodes.length <= 10) {
         const expanded = new Set(poolNodes);
         poolNodes.forEach(n => {
           ['taxi', 'bus', 'underground'].forEach(t => {
-            (adj[n][t] || []).forEach(nb => {
-              expanded.add(nb);
-              // Target the "Outer Ring" - nodes that lead to the exits
-              ['taxi', 'bus', 'underground'].forEach(t2 => {
-                (adj[nb][t2] || []).forEach(outer => {
-                  if (!poolNodes.includes(outer)) expanded.add(outer);
-                });
-              });
-            });
+            (adj[n][t] || []).forEach(nb => expanded.add(nb));
           });
         });
         poolNodes = Array.from(expanded);
@@ -4473,9 +4458,9 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
       }));
       
       poolScored.sort((a, b) => {
-        // LETHAL WEIGHTING: Probability is now the dominant factor, followed by connectivity
-        const scoreA = (a.prob * 500) - (a.minHop * 10) + (a.deg * 5);
-        const scoreB = (b.prob * 500) - (b.minHop * 10) + (b.deg * 5);
+        // Balanced Weighting: Probability matters, but distance is a strong tie-breaker
+        const scoreA = (a.prob * 200) - (a.minHop * 20) + (a.deg * 2);
+        const scoreB = (b.prob * 200) - (b.minHop * 20) + (b.deg * 2);
         return scoreB - scoreA;
       });
       const rankedCandidates = poolScored.map(({ node }) => node);
