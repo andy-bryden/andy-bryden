@@ -95,6 +95,7 @@
     }
 
     header .fullscreen-btn {
+      margin-left: auto;
       padding: 6px 10px;
       background: transparent;
       border: 1px solid rgba(201, 151, 58, 0.4);
@@ -111,32 +112,6 @@
     }
 
     header .fullscreen-btn:hover {
-      background: rgba(201, 151, 58, 0.1);
-      border-color: rgba(201, 151, 58, 0.7);
-    }
-
-    header .header-actions {
-      margin-left: auto;
-      display: flex;
-      align-items: center;
-      gap: 8px;
-    }
-
-    header .help-btn {
-      padding: 6px 12px;
-      background: transparent;
-      border: 1px solid rgba(201, 151, 58, 0.4);
-      border-radius: 2px;
-      color: #c9973a;
-      font-size: 14px;
-      font-weight: 700;
-      cursor: pointer;
-      transition: background 0.2s ease, border-color 0.2s ease;
-      line-height: 1;
-      font-family: inherit;
-    }
-
-    header .help-btn:hover {
       background: rgba(201, 151, 58, 0.1);
       border-color: rgba(201, 151, 58, 0.7);
     }
@@ -931,26 +906,6 @@
       letter-spacing: 0.2em;
       color: var(--tp-muted);
       text-transform: uppercase;
-    }
-
-    .tp-help-link {
-      display: inline-block;
-      margin-top: 18px;
-      font-family: 'Cinzel', serif;
-      font-size: 11px;
-      letter-spacing: 0.12em;
-      text-transform: uppercase;
-      color: var(--tp-gold-dim);
-      background: none;
-      border: none;
-      text-decoration: underline;
-      text-underline-offset: 3px;
-      cursor: pointer;
-      padding: 4px;
-    }
-
-    .tp-help-link:hover {
-      color: var(--tp-gold);
     }
 
     .tp-rule {
@@ -1751,7 +1706,6 @@
         <div class="tp-eyebrow">A Solo Mystery of Deduction</div>
         <h1>ClueSolo</h1>
         <div class="tp-sub">Hapless Hall · An Evening Gone Terribly Wrong</div>
-        <button type="button" class="tp-help-link" onclick="showRulesModal()">How to Investigate — View Instructions</button>
       </div>
       <div class="tp-rule">
         <div class="tp-diamond"></div>
@@ -1993,10 +1947,7 @@
     <header>
       <h1>🔍 ClueSolo</h1>
       <div class="sub">The Classic Detective Game ... alone!</div>
-      <div class="header-actions">
-        <button class="help-btn" id="helpBtn" title="How to Investigate" aria-label="How to Investigate">? Rules</button>
-        <button class="fullscreen-btn" id="fullscreenBtn" title="Toggle Fullscreen (F11)" aria-label="Toggle Fullscreen">⛶</button>
-      </div>
+      <button class="fullscreen-btn" id="fullscreenBtn" title="Toggle Fullscreen (F11)" aria-label="Toggle Fullscreen">⛶</button>
     </header>
     <div class="layout">
       <div class="panel leftPanel">
@@ -2433,61 +2384,6 @@
     function loadCheckNotes() { try { return JSON.parse(localStorage.getItem(CHECK_NOTES_KEY) || '{}') } catch { return {} } }
     function saveCheckNotes(state) { localStorage.setItem(CHECK_NOTES_KEY, JSON.stringify(state)) }
     function clearCheckNotes() { localStorage.removeItem(CHECK_NOTES_KEY) }
-
-    // ---- In-progress game autosave ----
-    // Generic Map/Set-aware JSON replacer/reviver so the Player/Game class
-    // instances (which lean heavily on Map and Set for AI belief-tracking)
-    // round-trip through localStorage without hand-written per-field logic.
-    const SAVE_KEY = 'cluesolo_save_v1';
-    function saveReplacer(key, value) {
-      if (key === 'gameRef') return undefined; // drop circular Player -> Game back-reference
-      if (value instanceof Map) return { __type: 'Map', v: Array.from(value.entries()) };
-      if (value instanceof Set) return { __type: 'Set', v: Array.from(value) };
-      return value;
-    }
-    function saveReviver(key, value) {
-      if (value && typeof value === 'object' && value.__type === 'Map') return new Map(value.v);
-      if (value && typeof value === 'object' && value.__type === 'Set') return new Set(value.v);
-      return value;
-    }
-    function saveGameState(gameInstance) {
-      try {
-        if (!gameInstance || gameInstance.gameOver) return;
-        if (!gameInstance.players || !gameInstance.players.length || !gameInstance.solution) return;
-        const logBox = el('log');
-        const payload = {
-          v: 1,
-          savedAt: Date.now(),
-          game: gameInstance,
-          log: logBox ? logBox.textContent : ''
-        };
-        localStorage.setItem(SAVE_KEY, JSON.stringify(payload, saveReplacer));
-      } catch (e) { console.warn('Autosave failed (safe to ignore):', e); }
-    }
-    function readSavedPayload() {
-      try {
-        const raw = localStorage.getItem(SAVE_KEY);
-        if (!raw) return null;
-        const data = JSON.parse(raw, saveReviver);
-        if (!data || !data.game || !data.game.players || !data.game.players.length) return null;
-        return data;
-      } catch (e) { console.warn('Reading saved game failed (safe to ignore):', e); return null; }
-    }
-    function hasSavedGame() { return !!readSavedPayload(); }
-    function clearSavedGame() { localStorage.removeItem(SAVE_KEY); }
-    // Rebuilds real Player/Game class instances (with their prototype methods)
-    // from the plain deserialized data, since JSON round-tripping strips classes.
-    function restoreGameFromSave(savedGame) {
-      const g = new Game();
-      Object.assign(g, savedGame);
-      g.players = savedGame.players.map(pData => {
-        const p = new Player(pData.id, pData.isHuman, pData.guest);
-        Object.assign(p, pData);
-        p.gameRef = g;
-        return p;
-      });
-      return g;
-    }
     const AI_CFG = {
       sherlock: {
         weightBoostShow: 3.5,           // when a specific shown card is known
@@ -3414,7 +3310,6 @@
         const ok = this.checkAccusation(acc);
         if (ok) {
           this.gameOver = true;
-          clearSavedGame(); // case closed — nothing left to resume
           this.convicted = { guest: acc.guest, treasure: acc.treasure, room: acc.room, winner: pl.name };
           this.trial = null;
           renderAll(this);
@@ -4394,28 +4289,17 @@
       if (game.observerMode) renderObserverCasebook(game);
       else renderNotebook(game);
       renderBoard(game);
-      saveGameState(game);
     }
     function renderWithoutBoard(game) {
       renderPlayers(game);
       renderHand(game);
       if (game.observerMode) renderObserverCasebook(game);
       else renderNotebook(game);
-      saveGameState(game);
     }
     const game = new Game();
     (async function start() {
       try {
         clearGameplayPrompt();
-        const savedPayload = readSavedPayload();
-        if (savedPayload) {
-          const choice = await showResumeGameModal(savedPayload.savedAt);
-          if (choice === 'resume') {
-            await resumeSavedGame(game, savedPayload);
-            return;
-          }
-          clearSavedGame();
-        }
         const setup = await promptGameSetup(); resetUIForSetup();
         game.aiDifficulty = normDiff(setup.diff);
         game.observerMode = !!setup.observer;
@@ -4443,10 +4327,6 @@
           `<div style="color:#fca5a5"><b>${(e && e.message) || 'Unknown error'}</b></div>
        <div style="margin-top:8px;color:var(--muted);font-size:12px;">Check the browser console for details.</div>`);
       }
-    })();
-    (function initHelpButton() {
-      const btn = el('helpBtn');
-      if (btn) btn.onclick = () => showRulesModal();
     })();
     (function initFullscreenButton() {
       const btn = el('fullscreenBtn');
@@ -4481,7 +4361,6 @@
     })();
     function resetUIForSetup() {
       clearGameplayPrompt();
-      clearSavedGame(); // starting fresh — the in-progress autosave is no longer relevant
       const logBox = el('log'); if (logBox) logBox.textContent = '';
       const deduceBox = document.getElementById('observerDeduceLog');
       if (deduceBox) deduceBox.textContent = '';
@@ -4534,127 +4413,6 @@
         overlay.appendChild(dialog);
         document.body.appendChild(overlay);
       });
-    }
-    function rulesModalBodyHTML() {
-      const h = (t) => `<div style="color:#c9973a;font-family:'Cinzel',serif;font-weight:700;font-size:15px;letter-spacing:0.04em;margin:16px 0 6px 0;">${t}</div>`;
-      const p = (t) => `<p style="margin:0 0 10px 0;">${t}</p>`;
-      return `
-        ${h('Moving')}
-        ${p('Each guest in turn is granted leave to advance their investigation.')}
-        ${p('On your turn, you may have two options.')}
-        ${p('If one of your fellow-players has escorted you into your current location during their turn, you may remain and continue investigating in situ — or relocate, as below.')}
-        ${p('Otherwise, you must relocate. Rolling the dice will determine which rooms are accessible to you. Then relocate to your destination through the corridors of Hapless Hall.')}
-        ${h('Making a Suggestion')}
-        ${p('Once in a room, you may state your suspicion: name a guest you believe responsible for the misappropriation, a treasure you believe they purloined, and the room you now stand in as the scene of the interment.')}
-        ${p('Your fellow-players will each examine the cards they hold in turn, and the first in sequence who holds one of those three cards is obliged to present that evidence to you, privately. Only you are vouchsafed this evidence — record it well, for it will advance your hypothesis.')}
-        ${p('If no fellow-player can refute you, that silence is itself a clue: no fellow-player present holds any of those cards. Use this intelligence wisely.')}
-        ${h('Lodging an Accusation')}
-        ${p('Once you are certain you have incontrovertible evidence incriminating a single guest, treasure, and room, you may lodge a formal accusation.')}
-        ${p('This proceeds much like stating a suspicion — but it is formal, and irreversible.')}
-        ${p('Upon your accusation, the accused guest, the treasure, and a record of the room are remanded to the holding cell at the centre. The truth is laid bare at once, either confirming your accusation, or disproving it.')}
-        ${p('If you are correct, the case is closed and the news relayed to all: the guilty party will be prosecuted, the treasure returned to its rightful place — and you, my dear fellow, may exit Hapless Hall in the highest honour.')}
-        ${p('If you are mistaken, and dishonour falls where it was not warranted, details of your accusation will not be made public, but you are barred from making further accusations. You remain in Hapless Hall until the case is closed, and your hand may still be called upon to refute the suggestions of others.')}
-        ${p('Take care — once lodged, an accusation cannot be retracted.')}
-        ${h('Your Casebook')}
-        ${p('Use the ledger to record all intelligence acquired, all clues deduced, and all evidence vouchsafed to you.')}
-      `;
-    }
-    function showRulesModal() {
-      return new Promise(resolve => {
-        const overlay = document.createElement('div');
-        overlay.className = 'modalOverlay';
-        const dialog = document.createElement('div');
-        dialog.className = 'modalDialog';
-        dialog.style.maxWidth = '620px';
-        const header = document.createElement('div');
-        header.className = 'modalHeader';
-        header.textContent = 'How to Investigate';
-        const body = document.createElement('div');
-        body.className = 'modalBody';
-        body.style.maxHeight = '65vh';
-        body.style.overflowY = 'auto';
-        body.innerHTML = rulesModalBodyHTML();
-        const actions = document.createElement('div');
-        actions.className = 'modalActions';
-        const closeBtn = document.createElement('button');
-        closeBtn.textContent = 'Close';
-        closeBtn.onclick = () => { document.body.removeChild(overlay); resolve(); };
-        actions.appendChild(closeBtn);
-        dialog.appendChild(header);
-        dialog.appendChild(body);
-        dialog.appendChild(actions);
-        overlay.appendChild(dialog);
-        document.body.appendChild(overlay);
-        const escHandler = (e) => {
-          if (e.key === 'Escape') {
-            document.body.removeChild(overlay);
-            document.removeEventListener('keydown', escHandler);
-            resolve();
-          }
-        };
-        document.addEventListener('keydown', escHandler);
-        overlay.onclick = (e) => {
-          if (e.target === overlay) {
-            document.body.removeChild(overlay);
-            document.removeEventListener('keydown', escHandler);
-            resolve();
-          }
-        };
-      });
-    }
-    function showResumeGameModal(savedAt) {
-      return new Promise(resolve => {
-        const overlay = document.createElement('div');
-        overlay.className = 'modalOverlay';
-        const dialog = document.createElement('div');
-        dialog.className = 'modalDialog';
-        const header = document.createElement('div');
-        header.className = 'modalHeader';
-        header.textContent = 'Resume Your Investigation?';
-        const body = document.createElement('div');
-        body.className = 'modalBody';
-        const when = savedAt ? new Date(savedAt).toLocaleString([], { dateStyle: 'medium', timeStyle: 'short' }) : null;
-        body.innerHTML = `<div style="font-size:16px;margin-bottom:12px;">An investigation at Hapless Hall was left unfinished${when ? ` (${when})` : ''}.</div>
-      <div style="color:var(--muted);font-size:13px;">Resume where you left off, or start a new case. Starting fresh will discard the unfinished game.</div>`;
-        const actions = document.createElement('div');
-        actions.className = 'modalActions';
-        const newBtn = document.createElement('button');
-        newBtn.className = 'secondary';
-        newBtn.textContent = 'Start Fresh';
-        newBtn.onclick = () => { document.body.removeChild(overlay); resolve('new'); };
-        const resumeBtn = document.createElement('button');
-        resumeBtn.textContent = 'Resume Investigation';
-        resumeBtn.onclick = () => { document.body.removeChild(overlay); resolve('resume'); };
-        actions.appendChild(newBtn);
-        actions.appendChild(resumeBtn);
-        dialog.appendChild(header);
-        dialog.appendChild(body);
-        dialog.appendChild(actions);
-        overlay.appendChild(dialog);
-        document.body.appendChild(overlay);
-      });
-    }
-    async function resumeSavedGame(gameInstance, payload) {
-      const restored = restoreGameFromSave(payload.game);
-      Object.assign(gameInstance, restored);
-      gameInstance.players.forEach(p => { p.gameRef = gameInstance; });
-      // A reload can only land between actions, never inside one — if it landed
-      // mid-accusation-reveal, put the accused guest/treasure back on the board
-      // rather than leaving them stuck in the Holding Cell.
-      if (gameInstance.trial) gameInstance.restoreTrial();
-      document.getElementById('titlePages').classList.add('hidden');
-      document.getElementById('gameUI').classList.add('active');
-      window.scrollTo({ top: 0, behavior: 'instant' });
-      const logBox = el('log'); if (logBox) logBox.textContent = payload.log || '';
-      const ng = el('btnNewGame'); if (ng) ng.onclick = () => startNewGame(gameInstance);
-      const ngm = el('btnNewGameMobile'); if (ngm) ngm.onclick = () => startNewGame(gameInstance);
-      renderAll(gameInstance);
-      gameInstance.updateTurnUI();
-      log('Investigation resumed.');
-      // Full resume of an in-flight prompt isn't possible after a reload, since it
-      // lived inside a suspended JS call — so the interrupted turn restarts cleanly
-      // from its top (hands, positions, and deductions are all intact either way).
-      await gameInstance.beginTurn();
     }
     async function restartSameSettings(game) {
       resetUIForSetup();

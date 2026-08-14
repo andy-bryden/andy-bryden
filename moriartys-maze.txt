@@ -1574,7 +1574,7 @@
       position: fixed;
       top: 44px;
       right: 8px;
-      z-index: 600;
+      z-index: 300;
       display: none;
       width: 320px;
       max-width: calc(100vw - 16px);
@@ -2650,7 +2650,6 @@
       </button>
     </div>
     <div class="mode-sim" onclick="startGame('simulator')">⚙️ <strong>Simulator</strong><span class="sim-sub"> — AI vs AI tactical analysis</span></div>
-    <button type="button" onclick="showRules()" style="background:none;border:none;cursor:pointer;margin-top:0.4rem;color:rgba(201,151,58,0.55);font-family:'Cinzel',serif;font-size:0.78rem;letter-spacing:0.1em;text-transform:uppercase;text-decoration:underline;text-underline-offset:3px;padding:4px;">Rules of the Chase</button>
     <div class="t-rule"></div>
     <div style="padding:1.5rem 4vw;display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:1rem;font-family:'Inconsolata',monospace;font-size:0.72rem;letter-spacing:0.08em;color:rgba(201,151,58,0.4);border-top:1px solid rgba(201,151,58,0.2);">
       <div style="display:flex;gap:1.5rem;align-items:center;">
@@ -2668,7 +2667,7 @@
       <div class="tb-actions">
         <button class="tb-btn" onclick="showStory()">Story</button>
         <button class="tb-btn" onclick="showRules()">Rules</button>
-        <button class="tb-btn" onclick="confirmReturnToTitle()">Return</button>
+        <button class="tb-btn" onclick="backToTitle()">Return</button>
       </div>
     </div>
     <div id="content">
@@ -3301,59 +3300,6 @@
     let currentMode = 'moriarty';
     let G = {};
     let gameOver = false;
-
-    // ---- In-progress game autosave ----
-    // G leans on Map, Set, and a Float32Array for belief-tracking, so the
-    // JSON replacer/reviver below handles those explicitly; everything else
-    // round-trips as plain JSON.
-    const SAVE_KEY = 'moriartysmaze_save_v1';
-    function mmSaveReplacer(key, value) {
-      if (value instanceof Map) return { __type: 'Map', v: Array.from(value.entries()) };
-      if (value instanceof Set) return { __type: 'Set', v: Array.from(value) };
-      if (value instanceof Float32Array) return { __type: 'Float32Array', v: Array.from(value) };
-      return value;
-    }
-    function mmSaveReviver(key, value) {
-      if (value && typeof value === 'object') {
-        if (value.__type === 'Map') return new Map(value.v);
-        if (value.__type === 'Set') return new Set(value.v);
-        if (value.__type === 'Float32Array') return new Float32Array(value.v);
-      }
-      return value;
-    }
-    function mmSaveGameState() {
-      try {
-        if (gameOver) return;
-        if (currentMode === 'simulator') return; // batch analysis tool, not a game in progress
-        if (!G || !G.detectives || !G.detectives.length) return;
-        const moveLog = document.getElementById('move-log');
-        const coachLog = document.getElementById('notes-coach-log');
-        const ticketStrip = document.getElementById('ticket-strip');
-        const payload = {
-          v: 1,
-          savedAt: Date.now(),
-          currentMode,
-          G,
-          moveLogHTML: moveLog ? moveLog.innerHTML : '',
-          coachLogHTML: coachLog ? coachLog.innerHTML : '',
-          ticketStripHTML: ticketStrip ? ticketStrip.innerHTML : '',
-          moveNumText: (document.getElementById('move-num') || {}).textContent || '0'
-        };
-        localStorage.setItem(SAVE_KEY, JSON.stringify(payload, mmSaveReplacer));
-      } catch (e) { console.warn('Autosave failed (safe to ignore):', e); }
-    }
-    function mmReadSavedPayload() {
-      try {
-        const raw = localStorage.getItem(SAVE_KEY);
-        if (!raw) return null;
-        const data = JSON.parse(raw, mmSaveReviver);
-        if (!data || !data.G || !data.G.detectives || !data.G.detectives.length) return null;
-        return data;
-      } catch (e) { console.warn('Reading saved game failed (safe to ignore):', e); return null; }
-    }
-    function mmHasSavedGame() { return !!mmReadSavedPayload(); }
-    function mmClearSavedGame() { localStorage.removeItem(SAVE_KEY); }
-
     function freshGame() {
       return {
         moriNode: 1, moriMoveCount: 0, posHistory: [], detHistory: [], finalDetPhase: false,
@@ -3383,7 +3329,6 @@
         M_beliefTree: new Map(),// Moriarty's simulation of detective route tree
         lastObservedType: null, // last transport type seen on the ticket strip
         gameLog: [],            // [{mori:node, dets:[n0..n4]}] one snapshot per round
-        detTurnIndex: 0,        // which detective (0-4) is next to move this phase — used for save/resume
       };
     }
     function otherDetNodes(di) {
@@ -5494,8 +5439,6 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
       const valid = detMoves(det, exclude);
       if (!valid.length) {
         addLog(G.moriMoveCount, det.emoji, `<strong>${det.short}</strong> stranded — no moves. Skipping.`);
-        G.detTurnIndex = di + 1;
-        mmSaveGameState();
         advanceDet(di); return;
       }
       promptCtx = { who: 'detective', detIdx: di };
@@ -5780,11 +5723,10 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
       logGameSnapshot('mori'); // replay: Moriarty sub-step
       if (G.detectives.some(d => d.node === G.moriNode)) { hidePrompt(); setTimeout(() => endGame('detectives', 'capture'), 300); return; }
       if (G.moriMoveCount >= MAX_MOVES) {
-        hidePrompt(); G.phase = 'detectives'; G.coachDetRecs = null; pruneBeliefDetNodes(); G.detTurnIndex = 0;
+        hidePrompt(); G.phase = 'detectives'; G.coachDetRecs = null; pruneBeliefDetNodes();
         if (currentMode === 'detective' || currentMode === 'coach-detective') promptCtx = { who: 'detective', detIdx: 0 };
         updateSidebar();
         G.finalDetPhase = true; // flag so endDetPhase knows to end game after
-        mmSaveGameState();
         if (currentMode !== 'simulator') {
           setTimeout(() => {
             if (currentMode === 'moriarty' || currentMode === 'coach-moriarty') {
@@ -5798,7 +5740,6 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
       }
       if (G.bluff.leg === 1) {
         G.bluff.leg = 2; hidePrompt();
-        mmSaveGameState();
         if (currentMode !== 'simulator') {
           setTimeout(() => {
             if (currentMode === 'moriarty' || currentMode === 'coach-moriarty') showMoriPrompt(2);
@@ -5808,10 +5749,9 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
         return;
       }
       G.bluff.leg = 0;
-      hidePrompt(); G.phase = 'detectives'; G.coachDetRecs = null; pruneBeliefDetNodes(); G.detTurnIndex = 0;
+      hidePrompt(); G.phase = 'detectives'; G.coachDetRecs = null; pruneBeliefDetNodes();
       if (currentMode === 'detective' || currentMode === 'coach-detective') promptCtx = { who: 'detective', detIdx: 0 };
       updateSidebar();
-      mmSaveGameState();
       if (currentMode !== 'simulator') {
         setTimeout(() => {
           if (currentMode === 'moriarty' || currentMode === 'coach-moriarty') {
@@ -5833,7 +5773,6 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
       if (exclude.has(dest)) { console.warn('Detective tried to move to occupied node', dest); return; }
       if (!isLegalDetMove(di, dest, type)) { console.warn('Illegal det move', di, dest, type); return; }
       det.tickets[type]--; det.node = dest;
-      G.detTurnIndex = di + 1;
       blockNode(dest);
       logGameSnapshot(di); // replay: detective sub-step
       const _tIcon = { taxi: '🐴', bus: '🚃', underground: '🚂', water: '⚓' };
@@ -5841,7 +5780,6 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
       if (di + 1 < NUM_DETS) promptCtx = { who: 'detective', detIdx: di + 1 };
       else promptCtx = null;
       updateDetPanel(); drawMap();
-      mmSaveGameState();
       if (dest === G.moriNode) { hidePrompt(); setTimeout(() => endGame('detectives', 'capture'), 300); return; }
       const adjN = moriMoves(G.moriNode).map(m => m.node);
       const detSet = new Set(G.detectives.map(d => d.node));
@@ -5870,8 +5808,6 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
         const valid = detMoves(det, exclude);
         if (!valid.length) {
           addLog(G.moriMoveCount, det.emoji, `<strong>${det.short}</strong> stranded — skipping.`);
-          G.detTurnIndex = idx + 1;
-          mmSaveGameState();
           runAIOneDet(idx + 1);
           return;
         }
@@ -5892,7 +5828,6 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
         return;
       }
       G.phase = 'moriarty'; pruneBeliefDetNodes(); updateSidebar(); drawMap();
-      mmSaveGameState();
       setTimeout(() => {
         if (currentMode === 'detective' || currentMode === 'coach-detective') runAIMori();
         else showMoriPrompt();
@@ -6176,7 +6111,6 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
       if (gameOver) return;
       if (currentMode === 'simulator') { simEndGame(winner, reason); return; }
       gameOver = true; hideAI();
-      mmClearSavedGame(); // case closed — nothing left to resume
       let captureDet = null;
       if (winner === 'detectives' && reason === 'capture') {
         captureDet = G.detectives.find(d => d.node === G.moriNode);
@@ -6260,99 +6194,7 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
         document.getElementById('modal').classList.remove('on');
       });
     }
-    function confirmReturnToTitle() {
-      const gameActive = document.getElementById('game').classList.contains('on') && !gameOver && currentMode !== 'simulator';
-      if (!gameActive) { backToTitle(); return; }
-      const m = document.getElementById('modal');
-      m.classList.add('on');
-      document.getElementById('modal-title').textContent = 'Abandon the Pursuit?';
-      document.getElementById('modal-body').innerHTML =
-        'Returning to the title screen will end this pursuit and discard your progress. This cannot be undone.';
-      document.getElementById('modal-acts').innerHTML =
-        '<button class="modal-btn" onclick="closeModal()">Cancel</button>' +
-        '<button class="modal-btn" onclick="closeModal();backToTitle();">Return to Title</button>';
-      _curtainDrop(m);
-    }
     document.getElementById('modal').addEventListener('click', e => { if (e.target === e.currentTarget) closeModal(); });
-
-    // ---- Resume an in-progress pursuit ----
-    function mmResumeGame(payload) {
-      currentMode = payload.currentMode;
-      gameOver = false;
-      initMmWorker();
-      G = payload.G;
-      document.getElementById('game').classList.remove('sim');
-      document.getElementById('outcome').className = '';
-      document.getElementById('game').classList.add('on');
-      document.getElementById('move-log').innerHTML = payload.moveLogHTML || '';
-      document.getElementById('notes-coach-log').innerHTML = payload.coachLogHTML || '';
-      document.getElementById('move-num').textContent = payload.moveNumText || String(G.moriMoveCount || 0);
-      document.getElementById('coach-rec').textContent = '';
-      const isCoach = currentMode === 'coach-moriarty' || currentMode === 'coach-detective';
-      document.getElementById('notes-coach-log').style.display = isCoach ? 'block' : 'none';
-      document.getElementById('notes-area').style.display = isCoach ? 'flex' : 'none';
-      const prompt = document.getElementById('move-prompt');
-      prompt.className = '';
-      prompt.innerHTML = PROMPT_BOX_HTML;
-      buildTicketStrip();
-      const strip = document.getElementById('ticket-strip');
-      if (strip && payload.ticketStripHTML) strip.innerHTML = payload.ticketStripHTML;
-      if (!canvas) initCanvas(); else resizeCanvas();
-      centreMap();
-      addLog(G.moriMoveCount, '🕵️', '<strong>The chase resumes.</strong>');
-      updateSidebar(); updateDetPanel(); updateRevealPips(); drawMap();
-      // A reload can't restore a suspended prompt — it lived inside a piece of
-      // JS the reload destroyed — so the interrupted phase restarts from its
-      // top. Every ticket, card, and belief already carries over untouched.
-      if (G.phase === 'moriarty') {
-        const leg = G.bluff.leg === 2 ? 2 : 1;
-        if (currentMode === 'moriarty' || currentMode === 'coach-moriarty') showMoriPrompt(leg);
-        else if (leg === 2) runAIMoriLeg(); else runAIMori();
-      } else {
-        const startIdx = Math.min(G.detTurnIndex || 0, NUM_DETS - 1);
-        if (currentMode === 'detective' || currentMode === 'coach-detective') showDetPrompt(startIdx);
-        else runAIOneDet(startIdx);
-      }
-      requestAnimationFrame(() => _curtainLift(document.getElementById('title-screen')));
-    }
-    function mmShowResumeModal(savedAt) {
-      const m = document.getElementById('modal');
-      m.classList.add('on');
-      document.getElementById('modal-title').textContent = 'Resume the Pursuit?';
-      const when = savedAt ? new Date(savedAt).toLocaleString([], { dateStyle: 'medium', timeStyle: 'short' }) : null;
-      document.getElementById('modal-body').innerHTML =
-        `A pursuit was left unfinished${when ? ` (${when})` : ''}.<br>Resume where you left off, or start afresh — starting afresh will discard it.`;
-      document.getElementById('modal-acts').innerHTML =
-        '<button class="modal-btn" onclick="mmDeclineResume()">Start Afresh</button>' +
-        '<button class="modal-btn" onclick="mmAcceptResume()">Resume</button>';
-      _curtainDrop(m);
-    }
-    function mmAcceptResume() {
-      const payload = mmReadSavedPayload();
-      closeModal();
-      if (!payload) return;
-      try {
-        mmResumeGame(payload);
-      } catch (e) {
-        // A corrupt or incompatible save should never leave the player stuck —
-        // discard it so the next attempt starts clean instead of repeating this.
-        console.warn('Resume failed — discarding the save and returning to the title screen:', e);
-        mmClearSavedGame();
-        gameOver = true;
-        document.getElementById('game').classList.remove('on');
-        document.getElementById('outcome').className = '';
-        _curtainDrop(document.getElementById('title-screen'));
-      }
-    }
-    function mmDeclineResume() {
-      mmClearSavedGame();
-      closeModal();
-    }
-    (function mmCheckResumeOnLoad() {
-      const payload = mmReadSavedPayload();
-      if (payload) mmShowResumeModal(payload.savedAt);
-    })();
-
     let simState = {
       running: false,
       paused: false,
@@ -6705,7 +6547,6 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
     }
     function startGame(mode) {
       currentMode = mode; gameOver = false;
-      mmClearSavedGame(); // deliberately (re)starting — discard any in-progress autosave
       initMmWorker();
       if (mode === 'simulator') {
         G = freshGame();
@@ -6763,7 +6604,6 @@ function _mm(moriNode, dets, depth, alpha, beta, moriTurn, beliefSize){
         if (strip) strip.style.display = '';
       }
       gameOver = true; hideAI();
-      mmClearSavedGame(); // deliberately returning to title — discard any in-progress autosave
       mapHighlight = {
         valid: new Set(), hint: new Set(), coachRec: null, coachRecFog: false, coachRec2: null,
         fogPending: false, bluffPending: false, selectedNode: null, filterType: null
