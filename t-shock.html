@@ -1,0 +1,520 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Andy Bryden</title>
+  <meta name="description" content="T-Shock">
+  <meta name="author" content="Andy Bryden">
+  <meta property="og:title" content="T-Shock">
+  <meta property="og:type" content="website">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300;1,400&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Inconsolata:wght@300;400;500&display=swap&family=Share+Tech+Mono&family=Orbitron:wght@400;700;900&display=swap" rel="stylesheet">
+  <link rel="icon" href="favicon.ico" type="image/x-icon">
+  <style>
+    :root {
+      --ink: #1a1410;
+      --paper: #f4efe6;
+      --aged: #e8dfc8;
+      --rust: #8b3a2a;
+      --gold: #a07830;
+      --faded: #7a6e5f;
+      --rule: #c8bda8;
+      --shadow: rgba(26, 20, 16, 0.12);
+      --noise: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='300' height='300'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='300' height='300' filter='url(%23n)' opacity='0.04'/%3E%3C/svg%3E");
+    }
+
+    *,
+    *::before,
+    *::after {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
+    body {
+      max-width: 860px;
+      margin: 0 auto;
+      background-color: var(--paper);
+      background-image: var(--noise);
+      color: var(--ink);
+      font-family: 'Libre Baskerville', Georgia, serif;
+      font-size: 16px;
+      line-height: 1.7;
+      box-shadow: 0 0 60px rgba(0, 0, 0, 0.55), inset 0 0 120px rgba(139, 105, 20, 0.04);
+      display: flex;
+      flex-direction: column;
+      min-height: 100vh;
+    }
+
+    header {
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      background-color: var(--paper);
+      background-image: var(--noise);
+      border-bottom: 1px solid var(--rule);
+      padding: 2.5rem 4vw 2rem;
+      transition: padding 0.3s ease, box-shadow 0.3s ease;
+    }
+
+    .header-row {
+      display: flex;
+      align-items: baseline;
+      justify-content: space-between;
+      gap: 1rem;
+    }
+
+    .header-sub {
+      margin-top: 0.5rem;
+      overflow: hidden;
+      max-height: 2rem;
+      opacity: 1;
+      transition: max-height 0.35s ease, opacity 0.3s ease, margin-top 0.3s ease;
+    }
+
+    header.scrolled {
+      padding: 0.9rem 4vw;
+      box-shadow: 0 2px 20px rgba(26, 20, 16, 0.12);
+    }
+
+    header.scrolled .header-sub {
+      max-height: 0;
+      opacity: 0;
+      margin-top: 0;
+    }
+
+    .site-name {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: clamp(1.6rem, 4vw, 2.4rem);
+      font-weight: 300;
+      letter-spacing: 0.04em;
+      color: var(--ink);
+      text-decoration: none;
+      transition: font-size 0.3s ease;
+      white-space: nowrap;
+    }
+
+    header.scrolled .site-name {
+      font-size: clamp(1.1rem, 2.5vw, 1.5rem);
+    }
+
+    .site-name span {
+      color: var(--rust);
+    }
+
+    .header-eyebrow {
+      font-family: 'Inconsolata', monospace;
+      font-size: 0.72rem;
+      letter-spacing: 0.18em;
+      text-transform: uppercase;
+      color: var(--rule);
+      transition: opacity 0.25s ease, font-size 0.3s ease;
+      white-space: nowrap;
+      overflow: hidden;
+    }
+
+    .header-eyebrow-inline {
+      font-family: 'Inconsolata', monospace;
+      font-size: 0.62rem;
+      letter-spacing: 0.18em;
+      text-transform: uppercase;
+      color: var(--rule);
+      white-space: nowrap;
+      overflow: hidden;
+      flex: 1;
+      text-align: center;
+      opacity: 0;
+      max-width: 0;
+      transition: opacity 0.3s ease, max-width 0.3s ease;
+      pointer-events: none;
+    }
+
+    header.scrolled .header-eyebrow-inline.fits {
+      opacity: 1;
+      max-width: 400px;
+    }
+
+    .header-opinions {
+      font-family: 'Inconsolata', monospace;
+      font-size: 0.78rem;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--faded);
+      text-decoration: none;
+      transition: color 0.2s, font-size 0.3s ease;
+      white-space: nowrap;
+      cursor: pointer;
+    }
+
+    header.scrolled .header-opinions {
+      font-size: 0.72rem;
+    }
+
+    .header-opinions:hover {
+      color: var(--rust);
+    }
+
+    nav {
+      display: flex;
+      gap: 2rem;
+      font-family: 'Inconsolata', monospace;
+      font-size: 0.78rem;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+    }
+
+    nav a {
+      color: var(--faded);
+      text-decoration: none;
+      transition: color 0.2s;
+    }
+
+    nav a:hover {
+      color: var(--rust);
+    }
+
+    .hero {
+      padding: 5rem 4vw 4rem;
+      border-bottom: 1px solid var(--rule);
+    }
+
+    .hero h1 {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: clamp(2.4rem, 6vw, 4.2rem);
+      font-weight: 300;
+      line-height: 1.15;
+      margin-bottom: 1.8rem;
+    }
+
+    .hero h1 em {
+      font-style: italic;
+      color: var(--rust);
+    }
+
+    .hero p {
+      font-size: 1.02rem;
+      color: var(--faded);
+      margin-bottom: 1rem;
+      max-width: 640px;
+    }
+
+    .gallery-section {
+      flex: 1;
+      padding: 4rem 4vw 2rem;
+    }
+
+    .gallery-section+.gallery-section {
+      border-top: 1px solid var(--rule);
+    }
+
+    .section-heading {
+      font-family: 'Inconsolata', monospace;
+      font-size: 0.7rem;
+      letter-spacing: 0.22em;
+      text-transform: uppercase;
+      color: var(--gold);
+      margin-bottom: 2.8rem;
+      display: flex;
+      align-items: center;
+      gap: 1.2rem;
+    }
+
+    .section-heading::after {
+      content: '';
+      flex: 1;
+      height: 1px;
+      background: var(--rule);
+    }
+
+    .tile-grid-2 {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 2rem;
+      margin-bottom: 3rem;
+    }
+
+    .game-tile {
+      display: flex;
+      flex-direction: row;
+      align-items: flex-start;
+      gap: 1.8rem;
+      text-decoration: none;
+      color: inherit;
+    }
+
+    .game-tile .game-face {
+      height: 260px;
+      min-width: 360px;
+      flex-shrink: 0;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: 2.5rem 2rem;
+      position: relative;
+      overflow: hidden;
+      border-radius: 12px;
+      transition: transform 0.3s ease;
+    }
+
+    .game-tile:hover .game-face {
+      transform: translateY(-3px);
+    }
+
+    .game-clue .game-face {
+      background: #0d0a07;
+      border: 1px solid rgba(201, 151, 58, 0.3);
+      box-shadow: 0 4px 24px rgba(0, 0, 0, 0.5), inset 0 0 60px rgba(201, 151, 58, 0.04);
+    }
+
+    .game-clue .game-face::before {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background: radial-gradient(ellipse at 50% 0%, rgba(201, 151, 58, 0.08) 0%, transparent 60%);
+    }
+
+    .game-clue .g-eyebrow {
+      font-family: 'Cinzel Decorative', 'Cinzel', serif;
+      font-size: 0.6rem;
+      letter-spacing: 0.35em;
+      text-transform: uppercase;
+      color: rgba(201, 151, 58, 0.6);
+      margin-bottom: 1rem;
+      position: relative;
+    }
+
+    .game-clue .g-title {
+      font-family: 'Cinzel Decorative', 'Cinzel', serif;
+      font-size: clamp(1.6rem, 3.5vw, 2.4rem);
+      font-weight: 700;
+      color: #c9973a;
+      text-align: center;
+      line-height: 1.1;
+      letter-spacing: 0.06em;
+      text-shadow: 0 0 30px rgba(201, 151, 58, 0.4);
+      position: relative;
+      margin-bottom: 0.6rem;
+    }
+
+    .game-clue .g-rule {
+      width: 60%;
+      height: 1px;
+      background: linear-gradient(90deg, transparent, rgba(201, 151, 58, 0.5), transparent);
+      margin: 0.8rem auto;
+      position: relative;
+    }
+
+    .game-clue .g-sub {
+      font-family: 'EB Garamond', 'Libre Baskerville', serif;
+      font-size: 0.8rem;
+      color: rgba(242, 228, 192, 0.5);
+      text-align: center;
+      font-style: italic;
+      position: relative;
+    }
+
+    .game-moriarty .game-face {
+      background: radial-gradient(ellipse at 35% 30%, #2d1f08 0%, #0d0904 65%);
+      border: 1px solid rgba(176, 120, 8, 0.3);
+      box-shadow: 0 4px 24px rgba(0, 0, 0, 0.6);
+    }
+
+    .game-moriarty .g-eyebrow {
+      font-family: 'Cinzel', serif;
+      font-size: 0.58rem;
+      letter-spacing: 0.4em;
+      text-transform: uppercase;
+      color: rgba(180, 140, 40, 0.65);
+      margin-bottom: 1rem;
+      position: relative;
+    }
+
+    .game-moriarty .g-title {
+      font-family: 'Cinzel', serif;
+      font-weight: 900;
+      font-size: clamp(1.5rem, 3.5vw, 2.4rem);
+      color: #f2e4c0;
+      text-align: center;
+      line-height: 1.05;
+      letter-spacing: 3px;
+      text-shadow: 0 0 40px rgba(180, 120, 10, 0.7), 0 2px 6px rgba(0, 0, 0, 0.9);
+      position: relative;
+      margin-bottom: 0.4rem;
+    }
+
+    .game-moriarty .g-title span {
+      color: #c9973a;
+    }
+
+    .game-moriarty .g-rule {
+      width: 55%;
+      height: 1px;
+      background: linear-gradient(90deg, transparent, rgba(180, 120, 8, 0.6), transparent);
+      margin: 0.8rem auto;
+      position: relative;
+    }
+
+    .game-moriarty .g-sub {
+      font-family: 'IM Fell English', 'Libre Baskerville', serif;
+      font-size: 0.82rem;
+      color: rgba(210, 190, 140, 0.55);
+      text-align: center;
+      font-style: italic;
+      position: relative;
+    }
+
+    .game-tile .tile-body {
+      padding: 0.5rem 0;
+      flex: 1;
+    }
+
+    @media (max-width: 640px) {
+      .game-tile .tile-body {
+        padding: 1rem 0 0.5rem;
+      }
+    }
+
+    .game-tile .tile-excerpt {
+      margin-bottom: 0.8rem;
+    }
+
+    @keyframes fadeUp {
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+
+    .fade-in:nth-child(2) {
+      animation-delay: 0.08s;
+    }
+
+    .fade-in:nth-child(3) {
+      animation-delay: 0.16s;
+    }
+
+    .fade-in:nth-child(4) {
+      animation-delay: 0.24s;
+    }
+
+    @media (max-width: 640px) {
+      .tile-grid-2 {
+        grid-template-columns: 1fr;
+      }
+
+      .game-tile {
+        flex-direction: column;
+      }
+
+      .game-tile .game-face {
+        width: 100%;
+      }
+    }
+
+    @media (max-width: 480px) {
+      header {
+        flex-wrap: wrap;
+        gap: 0.5rem;
+      }
+
+      header .site-name {
+        order: 0;
+        flex: 0 0 auto;
+      }
+    }
+  </style>
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;900&family=Cinzel+Decorative:wght@700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+  <header id="site-header">
+    <div class="header-row">
+      <a href="index.html" class="site-name">T-<span>Shock</span></a>
+      <a class="header-opinions" id="opinions-trigger">Opinions?</a>
+    </div>
+    <div class="header-sub">
+      <span class="header-eyebrow">Games • </span><a href="turtles.html" target="_blank" class="header-eyebrow" style="text-decoration: none;">Turtles</a><span class="header-eyebrow"> • </span><a href="t-shock/001.md" target="_blank" class="header-eyebrow" style="text-decoration: none;">T-Shock</a>
+    </div>
+  </header>
+  <section class="gallery-section fade-in">
+    <div class="tile-grid-2">
+      <a href="moriartys-maze.html" target="_blank" class="game-tile game-moriarty">
+        <div class="game-face">
+          <div class="g-eyebrow">London &middot; 1895</div>
+          <div class="g-title">MORIARTY'S<br><span>MAZE</span></div>
+          <div class="g-rule"></div>
+          <div class="g-sub">A Hidden Movement Pursuit<br>Across Victorian London</div>
+        </div>
+        <div class="tile-body">
+          <p class="tile-excerpt">
+          <h2>Moriarty's Maze</h2>
+          </p>
+          <p class="tile-excerpt">Scotland Yard — reimagined.<br>London, 1895. Prof. James Moriarty is somewhere within the city's transport network — and Sherlock Holmes is on his track. Play as Moriarty and vanish into the fog, or direct Holmes and his team and run him to ground.</p>
+        </div>
+      </a>
+      <a href="cluesolo.html" target="_blank" class="game-tile game-clue">
+        <div class="game-face">
+          <div class="g-eyebrow" style="font-family:'Cinzel',serif;">A Solo Mystery of Deduction</div>
+          <div class="g-title">ClueSolo</div>
+          <div class="g-rule"></div>
+          <div class="g-sub">The Classic Detective Game … alone.</div>
+        </div>
+        <div class="tile-body">
+          <p class="tile-excerpt">
+          <h2>ClueSolo</h2>
+          </p>
+          <p class="tile-excerpt">Almost Cluedo — but solo. Sir Henry Hapless, 13th Duke of Misfortune, hosted a dinner party. Now one of his most cherished possessions has vanished. Six guests, six treasures, nine rooms — Can you locate the missing item and identify the thief?</p>
+        </div>
+      </a>
+    </div>
+  </section>
+  <script src="https://andy-bryden.github.io/andy-bryden/universal-footer.js"></script>
+  <script>
+    const header = document.getElementById('site-header');
+    const eyebrowInline = document.getElementById('eyebrow-inline');
+    const siteName = header.querySelector('.site-name');
+    const opinionsLink = document.getElementById('opinions-trigger');
+    let isScrolled = false;
+    let fitCheckTimer = null;
+    function checkEyebrowFit() {
+      if (!isScrolled) return;
+      const rowWidth = header.querySelector('.header-row').offsetWidth;
+      const nameWidth = siteName.offsetWidth;
+      const opWidth = opinionsLink.offsetWidth;
+      const gap = 32;
+      const available = rowWidth - nameWidth - opWidth - gap * 2;
+      const eyeWidth = eyebrowInline.scrollWidth;
+      const fits = available > eyeWidth + 20;
+      eyebrowInline.classList.toggle('fits', fits);
+    }
+
+    window.addEventListener('scroll', () => {
+      const y = window.scrollY;
+      if (!isScrolled && y > 90) {
+        isScrolled = true;
+        header.classList.add('scrolled');
+        clearTimeout(fitCheckTimer);
+        fitCheckTimer = setTimeout(checkEyebrowFit, 320);
+      } else if (isScrolled && y < 20) {
+        isScrolled = false;
+        header.classList.remove('scrolled');
+        eyebrowInline.classList.remove('fits');
+      }
+    }, { passive: true });
+
+    window.addEventListener('resize', () => {
+      clearTimeout(fitCheckTimer);
+      fitCheckTimer = setTimeout(checkEyebrowFit, 100);
+    }, { passive: true });
+  </script>
+
+</body>
+
+</html>
