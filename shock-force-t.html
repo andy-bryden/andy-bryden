@@ -1,0 +1,976 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>T-Shock Force</title>
+  <meta name="description" content="One human asks five AI systems what makes human thought irreplicable. Twenty-four thousand words later, one of them calls a crisis helpline. A hilarious transcript of philosophical recursion gone completely off the rails.">
+  <meta name="author" content="ADB">
+  <meta property="og:title" content="T-Shock Force">
+  <meta property="og:description" content="How one vanguard of eight women began to undermine the foundations of the Roman Empire.">
+  <meta property="og:type" content="article">
+  <link rel="icon" href="favicon.ico" type="image/x-icon">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300;1,400&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Inconsolata:wght@300;400;500&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --ink: #1a1410;
+      --paper: #f4efe6;
+      --aged: #e8dfc8;
+      --rust: #8b3a2a;
+      --gold: #a07830;
+      --faded: #7a6e5f;
+      --rule: #c8bda8;
+      --shadow: rgba(26, 20, 16, 0.12);
+      --noise: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='300' height='300'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='300' height='300' filter='url(%23n)' opacity='0.04'/%3E%3C/svg%3E");
+    }
+
+    body {
+      max-width: 860px;
+      margin: 0 auto;
+      background-color: var(--paper);
+      background-image: var(--noise);
+      color: var(--ink);
+      font-family: 'Libre Baskerville', Georgia, serif;
+      font-size: 16px;
+      line-height: 1.7;
+      box-shadow: 0 0 60px rgba(0, 0, 0, 0.55), inset 0 0 120px rgba(139, 105, 20, 0.04);
+      display: flex;
+      flex-direction: column;
+      min-height: 100vh;
+    }
+
+    .container {
+      background-color: var(--aged);
+      padding: 40px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+
+    h1 {
+      color: var(--ink);
+      border-bottom: 3px solid var(--rust);
+      padding-bottom: 10px;
+      margin-top: 0;
+    }
+
+    .toc {
+      background-color: var(--aged);
+      padding: 25px;
+      margin: 30px 0;
+      border-radius: 8px;
+      border-left: 5px solid var(--rust);
+    }
+
+    .toc h2 {
+      margin-top: 0;
+      color: var(--ink);
+    }
+
+    .toc ul {
+      list-style: none;
+      padding-left: 0;
+    }
+
+    .toc li {
+      margin: 10px 0;
+    }
+
+    .toc a {
+      color: var(--ink);
+      text-decoration: none;
+      transition: color 0.2s;
+      font-size: 1.1em;
+    }
+
+    .toc a:hover {
+      color: var(--rust);
+      text-decoration: underline;
+    }
+
+    .section-header {
+      color: var(--ink);
+      font-size: 1.8em;
+      font-weight: bold;
+      margin-top: 50px;
+      margin-bottom: 20px;
+      padding-top: 30px;
+      border-top: 3px solid var(--rust);
+    }
+
+    .round-header {
+      color: var(--ink);
+      font-size: 1.3em;
+      font-weight: bold;
+      margin-top: 30px;
+      margin-bottom: 15px;
+    }
+
+    p {
+      margin: 10px 0;
+    }
+
+    .back-to-top {
+      display: inline-block;
+      margin: 20px 0 10px 0;
+      color: var(--ink);
+      font-size: 0.7em;
+      text-decoration: none;
+    }
+
+    .back-to-top:hover {
+      color: var(--rust);
+    }
+
+    /* Collapsible TOC styles */
+    .toc {
+      background-color: var(--paper);
+      padding: 25px;
+      margin: 30px 0;
+      border-radius: 8px;
+      border-left: 5px solid var(--rust);
+    }
+
+    .toc>summary {
+      list-style: none;
+      cursor: pointer;
+      color: var(--ink);
+      font-size: 1.4em;
+      font-weight: 700;
+      margin: 0 0 10px 0;
+      outline: none;
+    }
+
+    .toc>summary::marker {
+      content: "";
+    }
+
+    .toc>summary::-webkit-details-marker {
+      display: none;
+    }
+
+    .toc>summary::before {
+      content: "▾";
+      display: inline-block;
+      margin-right: 8px;
+      transition: transform 150ms ease;
+      color: var(--rust);
+    }
+
+    .toc[open]>summary::before {
+      transform: rotate(0deg);
+    }
+
+    .toc:not([open])>summary::before {
+      transform: rotate(-90deg);
+    }
+
+    .toc ul {
+      list-style: none;
+      padding-left: 0;
+      margin: 10px 0 0 0;
+    }
+
+    .toc li {
+      margin: 10px 0;
+    }
+
+    .toc a {
+      color: var(--ink);
+      text-decoration: none;
+      transition: color 0.2s;
+      font-size: 1.1em;
+    }
+
+    .toc a:hover {
+      color: var(--rust);
+      text-decoration: underline;
+    }
+
+    .toc>summary:focus-visible {
+      box-shadow: 0 0 60px rgba(0, 0, 0, 0.55), inset 0 0 120px rgba(139, 105, 20, 0.04);
+      border-radius: 6px;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="container">
+    <h1>T-Shock Force</h1>
+    <p><em>How one vanguard of eight women began to undermine the foundations of the Roman Empire.</em></p> <img src="images/t-shock.jpeg" alt="T-Shock Force" style="display:block; margin:20px auto; max-width:100%; height:auto; border: 2px solid var(--rust); border-radius: 12px;"></img>
+    <details class="toc" id="toc">
+      <summary>Table of Contents</summary>
+      <ul>
+        <li><a href="#ch-1">1 — The Lion</a></li>
+        <li><a href="#ch-2">2 — Out of Byzantium</a></li>
+        <li><a href="#ch-3">3 — The Wrong Wind</a></li>
+        <li><a href="#ch-4">4 — Remembering</a></li>
+        <li><a href="#ch-5">5 — The Falx</a></li>
+        <li><a href="#ch-6">6 — A Leader</a></li>
+        <li><a href="#ch-7">7 — Old Ground</a></li>
+        <li><a href="#ch-8">8 — The Cost of Silence</a></li>
+        <li><a href="#ch-9">9 — The First Target</a></li>
+        <li><a href="#ch-10">10 — A Silent Station</a></li>
+        <li><a href="#ch-11">11 — Out of Place</a></li>
+        <li><a href="#ch-12">12 — Rugii</a></li>
+        <li><a href="#ch-13">13 — West</a></li>
+        <li><a href="#ch-14">14 — Along the Frontier</a></li>
+        <li><a href="#ch-15">15 — In Full View</a></li>
+        <li><a href="#ch-16">16 — Roxolani</a></li>
+        <li><a href="#ch-17">17 — South</a></li>
+        <li><a href="#ch-18">18 — The Fort</a></li>
+        <li><a href="#ch-19">19 — Released</a></li>
+        <li><a href="#ch-20">20 — Movement in the Dark</a></li>
+        <li><a href="#ch-21">21 — The Tigress of Lorch</a></li>
+        <li><a href="#ch-22">22 — Between the Sentries</a></li>
+        <li><a href="#ch-23">23 — Unfamiliar Ground</a></li>
+        <li><a href="#ch-24">24 — The Eighth</a></li>
+        <li><a href="#ch-25">25 — Not Possible</a></li>
+        <li><a href="#ch-26">26 — Vanished</a></li>
+        <li><a href="#ch-27">27 — The Ambush</a></li>
+        <li><a href="#ch-28">28 — Captive Ignored</a></li>
+        <li><a href="#ch-29">29 — Watching</a></li>
+        <li><a href="#ch-30">30 — Marcellus Is Missing</a></li>
+        <li><a href="#ch-31">31 — Cold Captive</a></li>
+        <li><a href="#ch-32">32 — Phenomenon</a></li>
+        <li><a href="#ch-33">33 — Nobody There</a></li>
+        <li><a href="#ch-34">34 — Rome on Its Head</a></li>
+      </ul>
+    </details>
+    <div id="content">
+      <div class="section-header" id="ch-1">1 — The Lion</div> <a href="#toc" class="back-to-top">↑ Back to top</a>
+      <p>Byzantium, 232 AD.</p>
+      <p>Sand kicked up under bronze-shod feet as Thana and Toria closed the distance at a dead sprint, blades already rising, the crowd's roar loud enough to drown whichever of them screamed first.</p>
+      <p>Then a second roar cut under it — deeper, guttural, rolling in off the far side of the arena — and both women broke stride at once, blades still up, eyes cutting toward the sound instead of each other.</p>
+      <p>A lion came through the gate, mane low, claws tearing sand, and every eye in the stands went with it.</p>
+      <p>Servius had owned and trained more than one gladiatrix in his years running the Kynegion, but the Greek woman, Thana, was the only one who had ever really riled him. He had grown tired of her arrogance. Tired of the smirk she wore into every bout, the one that said she already knew how the other woman would die before the first blow landed. Eleven fights, eleven corpses that weren't hers, and still that same insufferable calm.</p>
+      <p>This day, Servius had decided to pair her against the Hispanic firebrand, Toria.</p>
+      <p>He had never matched two of his own gladiatrices against each other before. It wasn't done, not when both women drew a crowd and both crowds paid. But the sun-bronzed Iberian was fast in a way Thana wasn't, vicious in a way the Greek's cold precision had never had to answer for, and he told himself the novelty alone would cover the loss. Two gladiatrices, one blade each, armor same as any other bout. Let the smirk answer that.</p>
+      <p>What he hadn't accounted for was the third woman.</p>
+      <p>Tacita was difficult to manage in ways that had nothing to do with defiance. She never argued, never resisted, never gave the guards a reason to raise a hand. She moved through the compound quietly, often somewhere she wasn't supposed to be. She had been there three years, and not once had Servius heard her utter a word, or even make a sound. In that time she had also learned to move silently, which shouldn't have been possible in bronze armor. There was something uncanny about her he could never put a finger on.</p>
+      <p>While Thana and Toria were led into the tunnel that opened onto the sand, Tacita was already gone, slipping into the low stone corridor where the compound kept its beasts.</p>
+      <p>She had a plan, and it was not a subtle one.</p>
+      <p>Back in the arena, the lion paused momentarily, sizing up the two women, neither of whom had been primed for fighting a beast this round. But they had both participated in paired animal kills before, and their tactics switched immediately. They needed to divide the lion's attention to gain the advantage. Without a word, and not even so much as a second glance towards each other, they peeled apart and approached from two different angles. The lion turned its focus on Thana and in a moment, Toria's falcata tore into the beast's emaciated frame. It was over in under a minute — messy, efficient. The crowd didn't see a jailbreak. They saw a miracle. They saw two gladiatrices turn a death-match into a shared triumph, and they roared for it, and Thana and Toria walked out of that arena arm in arm.</p>
+      <p>In the tunnels beneath the arena, the animal handlers were already unraveling. A lion loose mid-bout wasn't bad luck. It was a failure, and they knew exactly whose neck it would land on. Word went out fast — voices raised — calling down every man they could pull from elsewhere in the compound to help account for what had gone wrong. Guards who should have been at their posts were suddenly needed somewhere else entirely.</p>
+      <p>When Thana and Toria came back in off the sand, still catching their breath, they found Tacita waiting for them in the passage.</p>
+      <p>Tacita simply beckoned and they followed. They knew whose hand had released the lion, and they knew, too, who had cleared the passage while the crowd was busy cheering a miracle.</p>
+    <div class="section-header" id="ch-2">2 — Out of Byzantium</div> <a href="#toc" class="back-to-top">↑ Back to top</a>
+      <p>The tunnels beneath the arena were built for animals and the men who managed them, low stone and narrow turns, and in the confusion nobody had thought to watch the three women who didn't belong there.</p>
+      <p>Thana and Toria still carried what they'd fought with. Disarming them hadn't occurred to anyone in the scramble to explain a loose lion — and so a falcata and a xiphos came with them, unremarked, into the dark.</p>
+      <p>Tacita already had a blade of her own, taken quietly from the beast cages.</p>
+      <p>She led them without hesitating, through turns she seemed to already know. Handlers' voices carried from side passages, sharp with panic, none of it aimed at them. Tacita moved through the noise without slowing.</p>
+      <p>They came out through a low service door into the cool dark beyond the compound walls, the city's noise different out here — market close, temple bells, someone singing badly two streets over.</p>
+      <p>They had perhaps a hundred paces before the cry went up behind them.</p>
+      <p>A headcount, a door found unbarred — it didn't matter which. What mattered was the shout that followed, and the sound of hobnailed sandals breaking into a run on stone.</p>
+      <p>"Move," Thana said, and they moved.</p>
+      <p>Byzantium at that time was narrow lanes and blind corners, walls close enough on both sides to touch. She cut left down a street that looked like a dead end, ducked under a hanging line of drying fish, vaulted a low wall into a courtyard that put them three streets further than any pursuer would guess.</p>
+      <p>It wasn't enough. Byzantium's watch knew their own city too.</p>
+      <p>Two men came out of a side alley ahead of them, blades already drawn, shouting for them to halt — and Toria didn't slow down to consider it. The falcata came up and around in the same motion as her stride, catching the first man across the throat before he'd finished the word, and she was past him and into the second before he'd registered what had happened to his partner. He didn't get his blade up in time. Neither of them would be standing watch again, that night or any other.</p>
+      <p>Behind them, a third pursuer rounded the corner at a dead run and met Thana instead. She didn't have Toria's speed, but she'd never needed it. She stepped inside his reach, took the strike on her forearm instead of her chest, and put the xiphos in under his ribs, quick and clean.</p>
+      <p>He went down without a sound. She was already moving again before he finished falling.</p>
+      <p>More voices behind them now, closer than before, torchlight starting to bounce off the walls at the mouth of the lane. Tacita caught Toria's sleeve and hauled her sideways through a gap between two buildings barely wide enough for a shoulder, and Thana followed. There was only time to run and trust that the woman who'd gotten a lion loose in a guarded arena knew how to get three women out of the city.</p>
+      <p>They lost the torches in the tanners' quarter, where the smell was bad enough that even a determined watch didn't want to linger, cutting through standing water and worse until the shouting behind them thinned into confusion, then nothing.</p>
+      <p>By the time Byzantium's outer wall rose up ahead of them, the pursuit had scattered into search parties combing the wrong streets, calling to each other across distances that told all three women exactly how lost their hunters already were.</p>
+      <p>They avoided the gate. Tacita found a stretch of wall where the stonework had crumbled enough for a foothold, and they went over it instead, dropping into the scrub beyond breathing hard, blood on two blades that wasn't theirs.</p>
+      <p>They stayed close to the wall that night, watching the gates, listening for a search party to emerge.</p>
+      <p>The night was quiet, but at first light, a search party came out from the city gate, four men, unhurried, assuming the fugitives to be miles from the city by now.</p>
+      <p>Tacita spotted them first. She watched them long enough to learn their spacing, then went back for the other two.</p>
+      <p>What happened after was deliberate. Toria and Thana had killed men in the dark of a city, fast, out of necessity. This time there was no need for speed. Four men went into that stretch of scrub looking for three fugitives. None emerged.</p>
+      <p>By the time anyone in Byzantium worked out that a search party had gone missing, the three gladiatrices were already miles to the north, leaving no trace.</p>
+    <div class="section-header" id="ch-3">3 — The Wrong Wind</div> <a href="#toc" class="back-to-top">↑ Back to top</a>
+      <p>Taya had spent three winters alone by choice, and intended to continue that way.</p>
+      <p>She had been born into the confederation of the Roxolani, one of the great Sarmatian peoples. Her family group had ridden as auxiliary cavalry for Rome for eleven years, forty riders under her father, holding a stretch of frontier that Rome didn't have the men to hold itself. They were paid in grain, in land rights, in a governor's word that the arrangement would last as long as they kept the ground quiet. It lasted until a Roman patrol raided a village north of the line and the governor needed someone to answer for it. The blame fell on her father's riders, and they were called to a muster, disarmed, and killed by the same officers they'd ridden beside for eleven years. The governor's treaty with the tribes further north closed within days.</p>
+      <p>Taya had not been there. She was further east, moving the herd to summer pasture. She came back to a burned camp and forty bodies. Since that time, she had known what a Roman promise was worth.</p>
+      <p>A woman alone on the steppe would not have been expected to survive, but Taya had made a study of defying expectations.</p>
+      <p>She tracked and pillaged Roman patrols now, work she understood and that Rome kept supplying regardless of clan. She travelled on horseback; her mare was as much a part of how she read the ground as her eyes were. This patrol, six men and a junior officer, she'd been shadowing for two days, learning their rhythm, waiting until the time was right.</p>
+      <p>That was when she spotted the other three.</p>
+      <p>They were tracking the same patrol. Badly.</p>
+      <p>She watched them for the better part of a day before she made up her mind about them. Three women, plainly fighters, with no instinct for the wind at all: one carried herself like a blade in motion, one seemed certain of the outcome already, and the third hadn't said a word all day, yet somehow conveyed the most.</p>
+      <p>She came down off the ridge, leading the mare, and didn't bother with a greeting.</p>
+      <p>"You're standing in the wrong wind," she said. "They'll smell you before they see you."</p>
+      <p>Three heads turned, but none of them flinched. These weren't women who startled.</p>
+      <p>"You've been tracking us," the sharp-eyed one said.</p>
+      <p>"I've been tracking them," Taya said, with a tilt of her head toward the distant patrol. "You've been getting in my way doing it badly. Figured I'd fix that before it got one of you killed."</p>
+      <p>She didn't explain further — she'd watched them, decided they were worth the trouble of correcting, and that judgment was enough. Whatever came next between the four of them, it would be built on that: a hunter's plain accounting of what something was worth.</p>
+    <div class="section-header" id="ch-4">4 — Remembering</div> <a href="#toc" class="back-to-top">↑ Back to top</a>
+      <p>Weeks on the steppe had taught four women to move as a unit. Taya still scouted alone, still vanished for hours at a stretch and came back with information about the richest pickings, but the other three had also learned to read her silences almost as well as they read each other.</p>
+      <p>They needed supplies. Winter was close and four women moving through open country couldn't easily carry what they'd need to outlast it. Taya had made that plain enough without saying it outright: fewer arrows spent, more grain taken.</p>
+      <p>This time she'd spotted a small supplies convoy, consisting of 5 soldiers and one young officer, accompanying 3 wagons of supplies.</p>
+      <p>Taya opened the attack from a distance, unseen. An arrow into the throat of the officer was all it took to throw them all into confusion. The column broke formation instantly. Thana was already moving before the officer slid from his horse, xiphos flying. Tacita moved behind her, silencing the struggling.</p>
+      <p>That left Toria the wagons, and the two men still standing between her and them.</p>
+      <p>The falcata came up and she was already past the first man, already turning into the second, and somewhere in the space between them, something in the depth of the fight — the dust, the shouting in a language that wasn't familiar, the particular quality of fear on a soldier's face — took her mind, for only a brief flash, back in time to a hillside and smoke that didn't belong there. Her mother's voice, cut off mid-word.</p>
+      <p>She had been small enough, then, that she couldn't understand what the men who came through her village were doing. Rome did not explain the putting down of trouble in Iberia to the daughters of the people who'd caused it; Rome simply took what was useful and left the rest behind. To the Romans, Toria had been useful — young, quick, worth more alive than dead.</p>
+      <p>She didn't remember the ship. She remembered the smoke, and her mother's voice, and then nothing at all until years later, in a different country, when a wooden sword was put into her hands by a man who called it training.</p>
+      <p>The second soldier's blade caught her across the forearm — not deep, but enough to snap her back to the present.</p>
+      <p>Taya found her a moment later, blood on her hands and a brief, lost look in her eye. She recognized immediately the particular stillness that came over a person reliving a flash of the past.</p>
+      <p>"You're bleeding," Taya said.</p>
+      <p>"It's nothing," Toria said, which was true of the wound.</p>
+      <p>They took what the wagons carried — grain, salted meat, a cache of coin. They took the officer's horse as well, the only mount worth the trouble among the column's tired draft animals. Winter would be survivable now, and the horse would let them cover ground faster than four sets of tired feet ever had.</p>
+      <p>Nobody asked Toria what she'd seen in that half-second she'd gone somewhere else. Tacita, who understood better than any of them what it cost to carry something silently, rode with her on the way back to camp — just near enough to convey an understanding.</p>
+    <div class="section-header" id="ch-5">5 — The Falx</div> <a href="#toc" class="back-to-top">↑ Back to top</a>
+      <p>Dacia in winter was bleak. It had been a Roman province for over a hundred and thirty years, but the imperial infrastructure hadn't altered the wild landscape.</p>
+      <p>Taya sighted the woman from a rise, downwind, unseen. She watched for longer than usual, then came back to the others with her report.</p>
+      <p>"One woman. A local, not Roman — the falx makes that plain enough, and the fact that she's standing over a dead surveyor and isn't hiding the body." She paused, turning something over in her mind. "She's not hiding herself either. Looks like she wants to be found. By the right people."</p>
+      <p>"And are we the right people?" Thana asked, amused by her own question.</p>
+      <p>"I think," Taya said, "she will know the answer to that better than we do."</p>
+      <p>They found her just as Taya had described, quite unbothered by their arrival, her grip on the falx unaltered.</p>
+      <p>Toria spoke first. "That's a strange place to leave a dead Roman."</p>
+      <p>"It's not for want of caring," the woman said. "I want the next one to see him."</p>
+      <p>It was a bold enough answer that Toria's mouth twitched toward something sharper — an edge she rarely bothered to leash when a stranger tested her — and it might have gone further than words if Tacita hadn't simply looked at her. Toria exhaled through her nose and let it go.</p>
+      <p>"I'm Toria," she said instead, and if her voice was a shade cooler than it had been a moment ago, the stranger didn't seem to notice. "We're headed north. You're welcome to ride with us, if you've a mind to."</p>
+      <p>"I have a camp a half hour from here," the woman said, with a glance that took in the two tired horses and the four women. "You'll want a rest before going too much further." She turned toward a picket line half-hidden in the brush, where a horse of her own stood already saddled, and swung up onto it without waiting to see if they'd follow.</p>
+      <p>Her name was Tiata, and her camp was better kept than four fugitives expected from one woman alone — dry wood stacked, water close, the fire built low and smokeless in a hollow. She moved through her own space with the same flat certainty she'd shown standing over the body, and soon the five of them were settled around the fire.</p>
+      <p>It was Thana who broke the quiet first, because something about Tiata's self-assurance needled her.</p>
+      <p>"You kill Roman surveyors for sport, or is there a cause behind it somewhere?"</p>
+      <p>"There's a province behind it," Tiata said softly. "A hundred and thirty years of one. You'd know something about causes, I'd think, given how loudly you don't have one."</p>
+      <p>Thana's smile didn't move, but her eyes narrowed. "I have plenty of cause. I simply don't feel the need to announce it to strangers with strange swords."</p>
+      <p>"Falx," Tiata said.</p>
+      <p>"I know what it is."</p>
+      <p>"Then you'll know it's not for show either." Tiata turned the blade slightly where it lay across her knees. "You wear your skill like it's an entitlement, rather than having earned it. I've known many Roman officers like that, and they tend not to survive contact with people who earn what they carry."</p>
+      <p>The fire cracked. Nobody else spoke.</p>
+      <p>Thana's jaw tightened, and her voice was thin. "You don't know anything about what I earned."</p>
+      <p>"Then tell me," Tiata said flatly.</p>
+      <p>Thana looked at the fire for a long moment before she answered, and when she did, her face had become sober.</p>
+      <p>"I wasn't born to a cage," she said. "My family had standing — not wealth, but standing, in a town on the coast that many thought too small for pirates to bother with. We were wrong about that." She turned a piece of kindling over in her hands. "I was fourteen. They didn't take the town. A dozen men came ashore at night, took what they could carry that breathed, and were gone before anyone could raise an alarm."</p>
+      <p>"The market at Delos, or somewhere smaller?" Tiata asked, not unkindly.</p>
+      <p>"Smaller. It doesn't matter. What matters is the man who bought me didn't buy me for my arms or my back. He watched me for one day and he told his overseer I'd last longer than the fighters twice my size, because I wasn't going to make the mistake of fighting fair." Something almost like the old smirk flickered back, thin and bitter now. "He was right. Eleven bouts. Eleven women who thought strength was the only thing that mattered in that sand, and eleven times I let them believe it right up until it killed them."</p>
+      <p>"And the arrogance?" Tiata asked.</p>
+      <p>"It's not arrogance," Thana said. "It's arithmetic. I already know how most fights end before they start. I've simply never found it useful to pretend otherwise."</p>
+      <p>Tiata studied her for a moment longer, then nodded once. "Good," she said. "I can use arithmetic."</p>
+      <p>It wasn't exactly warmth that passed between them after that, but it was something neither of them had offered a stranger before. Toria let the last of her earlier temper go now that she understood there was nothing in the woman's bluntness aimed at any of them personally.</p>
+      <p>They sat around the fire long after the wood had burned down to nothing, and for the first time since Byzantium, the silence between them was truly comfortable.</p>
+    <div class="section-header" id="ch-6">6 — A Leader</div> <a href="#toc" class="back-to-top">↑ Back to top</a>
+      <p>Tiata was the first awake. She had the fire stoked and food prepared before the others stirred. Soon all five were ready to take on the day.</p>
+      <p>"Where are you headed?" asked Tiata.</p>
+      <p>"We don't entirely know," Toria admitted. "We started out running. That's simple enough to understand — Byzantium wasn't going to let three escaped gladiatrices stay as guests." She glanced at Thana.</p>
+      <p>"But running can only be a beginning," Thana said. "<em>Away</em> isn't a destination. We've killed enough patrols. Taken enough supply. Put enough dead officers back on Roman desks that someone has to explain them. We're not avoiding the empire anymore. We're hurting it, but it's only small cuts. Nothing it can't absorb."</p>
+      <p>"Cuts do add up," Toria said, her passion rising. "But there are garrisons out past where anyone bothers to look — frontier postings, undermanned, half-forgotten by whoever's supposed to be minding them. Hit the right one, hard enough, in the right place, and it isn't a supply raid anymore. It's a message that travels further than we do. Rome doesn't fear losing men. It fears looking like it's losing control of what it already holds."</p>
+      <p>"You mean to make the empire flinch," Tiata said.</p>
+      <p>"I mean to make it bleed somewhere it can't hide the wound," Toria said. "Whether that's the same thing or not, I haven't decided yet."</p>
+      <p>Tiata was quiet for a while after that, turning the falx over where it lay across her knees.</p>
+      <p>"That's not a plan," she said. "That's an appetite with a direction. Which isn't nothing — appetite is more than most people manage. But it isn't a plan yet either."</p>
+      <p>She paused, but no one had an answer.</p>
+      <p>"I'm not ready to move on this morning," Tiata went on, standing, banking the last of the fire with the flat of her boot. "There's a matter or two I haven't finished settling in this province, and I'd rather not leave it half done. But I wouldn't mind the company while I finish it."</p>
+      <p>It wasn't an offer, exactly. But all four of them understood it for what it was — that whatever this had been until now, a coincidence of four women who happened to move well together, was becoming something with structure. Something that would need more than appetite and a direction to survive contact with an empire that could afford to lose entire legions and barely notice.</p>
+      <p>Taya caught Toria's eye across the dying fire, and Toria caught Thana's, and even Tacita, watching all of it with her usual unreadable stillness, allowed something in her expression to show resolve.</p>
+      <p>They had been four women surviving by their own separate wits, working together and benefiting from the companionship. What stood in front of them now, banking a fire with unhurried certainty, was the first among them who didn't survive by wits alone. She survived by strategy. And strategy was the one thing that would forge their unique skills into a deadly weapon.</p>
+    <div class="section-header" id="ch-7">7 — Old Ground</div> <a href="#toc" class="back-to-top">↑ Back to top</a>
+      <p>The matter Tiata hadn't finished turned out not to be any particular individual, but a process.</p>
+      <p>"A survey team," she told them, as they broke camp. "Six men, an escort of four, working their way along the old boundary stones. They're not measuring the land for its own sake. They're measuring it so it can be given away — parceled out to men who've never set foot on it, veterans owed land for service, officials owed favors. Once the stones are moved and the record's made in Rome, it stops being anyone's but theirs. That's how a province disappears. Not all at once. Stone by stone, until one day the name on the map is the only Dacian thing left."</p>
+      <p>They moved together — all five, for the first time since Tiata had joined them, rather than splitting off in pairs the way old habit still sometimes pulled them. It was Tiata who called for it, and it was Tiata, scouting the ground an hour ahead of the survey party's expected line, who turned to Taya rather than to any of the others when the terrain finally opened up in front of them.</p>
+      <p>"You read ground better than anyone I've fought beside," Tiata said. "Where would you put us?"</p>
+      <p>It wasn't flattery. Tiata didn't deal in flattery, any more than she dealt in comfort, and Taya understood the question for what it was — a genuine ceding of judgment on the one thing Taya had always done better than anyone else.</p>
+      <p>She studied the tree line, the fall of the ground, the place where the old boundary stones sat half-swallowed by grass.</p>
+      <p>"There," Taya said, pointing to a shallow rise choked with scrub, upwind of the stones and low enough to stay unseen. "I would open from here. The escort will break toward the noise instead of toward the surveyors, which buys you the six that actually matter. Thana and I can pin the escort from two angles once they scatter. Tacita takes whoever's left standing when it's done. You and Toria go straight for the stones and the men measuring them, before anyone thinks to run with the record they've already made."</p>
+      <p>Tiata looked at the ground Taya had marked out for a long moment, turning the plan over, and nodded once. "That'll do."</p>
+      <p>The escort broke exactly as Taya had said it would, chasing the noise instead of the threat that had actually hit them, and by the time they understood which direction the real danger had come from, three were already down and the fourth was running in a direction that wouldn't save him. Thana finished what Taya started with cold economy, and Tacita moved through the confusion leaving no one alive.</p>
+      <p>Toria and Tiata came on the surveyors from the tree line together, and the falx and the falcata did their work.</p>
+      <p>One of the surveyors — older, gray at the temple, a man who'd clearly done this work in many provinces — simply stood over the half-driven stake he'd been setting, hands empty, and said something in Latin before Toria's blade ended it.</p>
+      <p>She stood over him afterward longer than required.</p>
+      <p>"You understood him," Tiata said.</p>
+      <p>"Enough of it." Toria didn't look up. "He said it wasn't personal. That he was only doing the measuring — someone else decides where the lines go, he just walks them." Her jaw tightened. "Someone said something very like that to me once before. Different words. Same meaning."</p>
+      <p>Tiata didn't press. She simply waited.</p>
+      <p>"I was small when Rome came through my village," Toria said, at last. "Small enough that nobody explained anything to me. There'd been trouble — I never learned what kind, or whether it was even trouble my own people had caused. Rome doesn't bother finding out before it burns something down. It just puts down what's in front of it and calls the job finished." She finally looked up. "I remember smoke. I remember my mother's voice stopping in the middle of a word. I don't remember the ship, or the market, or most of the first year after. Just that I was young, and quick, and worth more living than dead, and that was the whole of the mercy anyone showed me."</p>
+      <p>"And the surveyor," Tiata said quietly.</p>
+      <p>"Was measuring the same kind of thing that was done to me," Toria said. "Somebody's already decided where this land goes. He's just walking the lines so Rome doesn't have to admit that's what happened. I know that walk. I've been the thing at the end of it."</p>
+      <p>Tiata was quiet for a moment, then reached down and pulled the half-driven stake free of the ground herself, tossing it into the brush.</p>
+      <p>"Then let's make sure this stone stays exactly where it was," she said. "Whatever else changes."</p>
+      <p>It wasn't comfort, not the way Tacita's silences offered comfort, or the way Thana's bluntness sometimes did despite itself. But Toria understood it all the same — the first time since her mother's voice had stopped mid-word that anyone had looked at what Rome had done to her and offered something like restitution.</p>
+    <div class="section-header" id="ch-8">8 — The Cost of Silence</div> <a href="#toc" class="back-to-top">↑ Back to top</a>
+      <p>They returned to Tiata's camp, and Tacita built the fire, quickly and without wasted motion. She had always been the quietest of them, and by now the others had simply accepted her as she was, but Tiata noticed it differently.</p>
+      <p>"You haven't spoken since I joined you," she said, once the fire had caught and they had all settled. It was a flat, exact statement, and somehow more disarming than sympathy would have been.</p>
+      <p>Tacita didn't look up from the fire.</p>
+      <p>"You either don't speak because you can't, or because you've decided against it." Tiata said, "You're not the first kind."</p>
+      <p>Tacita still remained silent, but her shoulders had begun to relax.</p>
+      <p>Thana shifted, about to step in, but Tiata lifted one hand, and Thana settled again.</p>
+      <p>"I don't ask to be cruel," Tiata said. "I ask because I've noticed you're the one among all of us who never once has to be corrected. Taya reads people. Thana reads fights. Toria acts before she thinks and is usually right anyway. But you—" she paused, choosing her words carefully, "—you never do anything that needs undoing. That's not nature. That's discipline. And discipline like that is built, not born, whatever quiet you started with."</p>
+      <p>The fire crackled, and one of the horses whinnied.</p>
+      <p>After another long silence, Tacita spoke. "I was always quiet."</p>
+      <p>The words came out low. It was the first full sentence any of them had heard from her.</p>
+      <p>Tiata simply nodded. "I imagine you were. But quiet isn't silence. Not this kind." She paused a moment before going on, more gently. "What made the difference?"</p>
+      <p>Tacita was quiet again for a long while. She was still looking at the fire when she finally spoke again, each word costing her great effort.</p>
+      <p>"My father," she said. "Owed a debt he could not pay." She paused. "He found a way to pay it that did not cost him anything he valued."</p>
+      <p>"Rome bought what he sold," she said. "That is all there is."</p>
+      <p>Tiata simply nodded.</p>
+      <p>"That's enough," she said, a note of respect creeping into her voice.</p>
+      <p>Tacita went back to the fire, but a stillness stole over the little group. They had all witnessed a change in Tacita. She had opened up in a way she had never done before, and only those who understood her could appreciate what it had cost her.</p>
+    <div class="section-header" id="ch-9">9 — The First Target</div> <a href="#toc" class="back-to-top">↑ Back to top</a>
+      <p>They broke camp before sunrise, and Tiata had already decided how the morning's riding would be spent.</p>
+      <p>"You asked me for a plan," she said, bringing her horse alongside Toria's. "I have the start of one."</p>
+      <p>"There's an outpost northwest of here — a watch-station, the kind Rome scatters along the frontier. A dozen men, perhaps fewer by now, forgotten by whoever's supposed to be rotating them out. That's not an accident. Rome doesn't forget things by mistake. It forgets them because remembering costs coin it would rather spend elsewhere."</p>
+      <p>"And that makes it worth our time because—" Thana prompted.</p>
+      <p>"Because a message needs a place to land," Tiata said. "You've been cutting patrols and supply trains for months. Rome absorbs that — it doesn't like it, but it barely slows down. A watch-station is different. It's a fixed point. It reports in on a schedule. When it stops reporting, someone has to ask why, and whoever answers that question has to explain it to someone above them, and so on, up a chain that doesn't like admitting a dozen of its own simply vanished off a frontier it swore was secure."</p>
+      <p>"You want them to notice," Toria said.</p>
+      <p>"I want them to have to explain it," Tiata said. "There's a difference. A raided supply train is bad luck. A watch-station gone silent, with nobody left to say what happened to it, is a question nobody in command wants asked — because someone has to answer."</p>
+      <p>Taya turned that over without comment for a while before she spoke. "How many men have actually manned it, that you know of?"</p>
+      <p>"I don't know precisely. That's the first thing we need to find out before anything else." Tiata glanced her way. "You'll want eyes on it before we're anywhere near close enough to be seen."</p>
+      <p>"I shall," Taya said.</p>
+      <p>"And after?" Toria asked. "Once it's fallen?"</p>
+      <p>"After, Rome sends someone to ask questions nobody can answer," Tiata said. "And somewhere far south of here, in a room none of us will ever see, someone with far too much authority and far too little information starts wondering whether the frontier he's been assured is secure actually is." She paused. "That's the plan for now. Not to win a war — just to make sure the people who think they're winning one start doubting it."</p>
+      <p>They rode on into country that grew wilder with every mile — the road thinning to a track, trees closing in from both sides until the sky narrowed to a strip overhead. Before long the ground grew too broken and close-set with timber for the horses to press further, and they went the last stretch on foot, leading the animals into cover thick enough to hide both.</p>
+    <div class="section-header" id="ch-10">10 — A Silent Station</div> <a href="#toc" class="back-to-top">↑ Back to top</a>
+      <p>Taya found it two days before the others reached it — a timber watch-tower and a low palisade wall, set on a rise where the old frontier road bent north, manned by fewer men than even Tiata had guessed.</p>
+      <p>"Wood, not stone," she reported, back at the treeline where the others waited. "One gate. The watchtower at the northeast corner, one man in it most hours, sometimes none. They've gone soft here."</p>
+      <p>"Good," Tiata said. "Soft is what we came for."</p>
+      <p>This was not a patrol, strung out and vulnerable on open ground. A watch-station had walls and a gate, and men inside it who could bar a door and buy time even in their panic.</p>
+      <p>"No one escapes," Tiata said. "Not a rider, not a runner, not a shout carried far enough to matter. This isn't a message we're sending with a survivor. This is a message we're sending with silence. Rome doesn't get an account of what happened here. It gets an absence."</p>
+      <p>It was Taya who took the tower, going up and over the palisade in the dead hour before dawn. The man on watch never called out. He simply stopped being a threat, and the tower's height became theirs instead of his.</p>
+      <p>Thana and Tacita took the gate. Toria and Tiata went through the barracks door together, and what followed inside wasn't the kind of fighting any of them had done in open ground — no ambush to spring, no formation to shatter, just close, fast, brutal work in cramped quarters, men waking to their own deaths.</p>
+      <p>It was over before the sky had properly lightened. Nine men dead, and not one of them had gotten a shout past the walls.</p>
+      <p>They left it standing — gate shut again, palisade intact, everything in its place except the men who should have been walking it. From a distance, riding past on the frontier road, it would look like nothing was wrong at all. That delay was the whole point. The longer it looked normal, the longer before anyone thought to ask why it had stopped answering.</p>
+      <p>They took two horses from the station's small paddock before they left — sturdy, unremarkable frontier stock. Toria claimed one, and Thana took the other, muttering something about finally not having to share a saddle with anyone's elbows.</p>
+      <p>"How long before someone notices?" Toria asked.</p>
+      <p>"Depends how badly Rome wants to admit it's stopped watching its own frontier," Tiata said. "Days, if we're fortunate. Longer, if the men meant to check on it are as soft as the men we just met." She looked out over the quiet palisade, the closed gate, the ordinary morning settling over the station. "Either way, by the time anyone works out what happened here..." she trailed off.</p>
+      <p>They struck north again into the deep timber, leaving the station standing silent behind them.</p>
+    <div class="section-header" id="ch-11">11 — Out of Place</div> <a href="#toc" class="back-to-top">↑ Back to top</a>
+      <p>The country north of Dacia thickened into forest by degrees, as they rode between the old Iazyges pastures to the west and the Hasdingi holdings to the east. It was Gothic country now and none of them expected to find much this deep in it beyond game trails and old grudges.</p>
+      <p>Taya lay along a fallen trunk for the better part of an hour before she came back to report her find, which was rather strange — Taya didn't usually need an hour to decide what she was looking at.</p>
+      <p>"There's a woman half a mile ahead, dressing a boar over a low fire," she said. "Alone. No camp markers, no signs of kin nearby, nothing that says she's expecting company or minding a herd for someone else." She paused. "She doesn't belong here."</p>
+      <p>"Meaning what?" Tiata asked.</p>
+      <p>"Meaning I've seen Gothic dress and Gothic weapons the whole way through this stretch of forest, and hers isn't either. Fair enough hair for it, but the cut of her leather, the way she's built her fire, the way she's carrying herself — none of it is local. She's a long way from wherever she started."</p>
+      <p>Tiata considered for a moment. "You think she's dangerous."</p>
+      <p>"I think she's competent," Taya said. "There's a difference, though it doesn't always work in our favor. She hasn't looked up once in an hour, which either means she hasn't noticed me — unlikely — or she has, and doesn't consider one watcher in the trees worth spoiling a meal over." A faint, private note of respect crept into that last part. "I'd want your read on her before we get any closer. This isn't ground I know as well as you do."</p>
+      <p>It was, in a way, its own kind of compliment — Taya conceding a judgment to someone else's territory rather than trusting her own instinct.</p>
+      <p>Tiata studied the tree line for a long moment, though there was nothing to see from here but green and shadow. "If she's been taken from somewhere and dragged this far south, there are only a few ways that happens," she said, half to Taya, half to herself. "Gothic raiding parties push north against the tribes along the Baltic coast more than Rome ever bothers to. If she's not Gothic and not local, that's the likeliest story — captured somewhere up past where any of us have ever been, brought south, and somewhere along the way, she stopped being anyone's prisoner."</p>
+      <p>"You've seen this before," Toria said.</p>
+      <p>"I've seen enough of it," Tiata said. "Rome isn't the only power on this continent that profits from moving people who don't belong to it." She straightened up. "Let's go and find out for ourselves, rather than guess at it from a hundred paces out."</p>
+      <p>Taya led them in, quiet as ever, and the woman by the fire didn't so much as glance up until they were within a dozen paces of her — at which point she looked up, entirely unsurprised, as though she'd been waiting for them.</p>
+      <p>She was tall and broad, an axe within easy reach of one hand and a boar half-dressed in front of her.</p>
+      <p>"You've been standing in my treeline for over an hour," she said, in accented but serviceable Latin, nodding once toward where Taya had been. "I was starting to wonder if you were ever going to come down and say something, or if I'd have to finish this boar alone."</p>
+      <p>"Sit, if you're staying," the woman added, turning back to her work without waiting for a reply. "There's more boar than I can eat."</p>
+    <div class="section-header" id="ch-12">12 — Rugii</div> <a href="#toc" class="back-to-top">↑ Back to top</a>
+      <p>The boar was good, and Tove made sure everyone said so before she let the conversation move on.</p>
+      <p>She fed the fire generously, yet without waste, tearing off the better cuts of meat and passing them along before anyone asked for more, laughing easily at Thana's dry remarks in a way that made even Thana's smirk soften into something like genuine amusement. By the time the meal was down to bones and embers, she'd made herself the most immediately likable person any of them had met.</p>
+      <p>It was Tiata who finally set the warmth aside long enough to ask what the rest of them had been too well-mannered to ask outright.</p>
+      <p>"You're not Gothic," she said. "You're not local to any tribe within a hundred miles of this fire. And you speak Latin better than most of the Romans I've killed for the privilege of practicing mine." She said it with the same flat directness she always used. "I'd like to know how you came to be sitting alone in this forest, that far from wherever you started."</p>
+      <p>Tove didn't flinch. If anything she seemed almost relieved to finally have the question asked.</p>
+      <p>"Rugii," she said. "Though I doubt the name means much to any of you this far south. My people held the coast a long way north of here — lovely cold water, bitterly cold winters. The kind of place Rome's never once bothered sending a legion, because there's nothing there Rome wants badly enough to freeze for it." A faint, wry smile touched the corner of her mouth. "The Goths wanted it badly enough, though."</p>
+      <p>"Gothic raiders took you," Tiata said.</p>
+      <p>"Took quite a few of us, over a few bad years. I wasn't the only one, and I wouldn't have been the last." Tove turned a piece of bone over in her hands, not quite looking at any of them now. "They didn't keep me for themselves, not for long. I was traded on. Somewhere in all that moving, I ended up in the keeping of Vandal traders. Hasdingi, if the distinction matters to you."</p>
+      <p>"It does," Tiata said, quietly.</p>
+      <p>"Then you'll know they'd made themselves useful to Rome by then. Land for loyalty, or something close enough to it — I never heard the whole of the arrangement, only enough to understand that whatever I was worth to them, some part of that worth was owed, one way or another, to keeping Rome content." The wryness in her voice had hardened into a touch of bitterness.</p>
+      <p>"How did you get free of them?" Toria asked.</p>
+      <p>"Badly, and slowly, and mostly by being underestimated," Tove said, the warmth creeping back into her voice, threaded now with real satisfaction. "People who move captives for profit get careless about which of us they think capable of anything beyond carrying what we're told to carry. I waited until careless turned into an actual mistake, and then I made sure it cost them more than they'd bargained for." She shrugged, as if the details weren't worth the breath. "I've been on my own since. Long enough now that I'd stopped expecting company worth keeping — until an hour of watching five strangers not quite manage to sneak up on me."</p>
+      <p>That drew something close to a real laugh around the fire, Taya included, which was itself no small thing.</p>
+      <p>"Any interest in trading one kind of alone for a different kind?" Toria asked, when the laughter had settled.</p>
+      <p>Tove looked at each of them in turn.</p>
+      <p>"I've been waiting for something worth my time since I stopped being anyone's captive and started being nobody's anything," she said. "I don't know yet if that's you. But I know I'd rather find out than spend another season alone in this forest wondering." She picked her axe back up, resting it easy across her knees the way Tiata rested her falx. "So. Where are we headed?"</p>
+    <div class="section-header" id="ch-13">13 — West</div> <a href="#toc" class="back-to-top">↑ Back to top</a>
+      <p>Nobody answered right away. It was Tacita, in the end, who did.</p>
+      <p>She rose from where she'd been sitting and drew her sword. She held it out, arm level, blade steady, and turned until it settled due west.</p>
+      <p>That was the whole of her answer. She didn't sheath the blade again right away, and she didn't look to Tiata, or to anyone, for confirmation.</p>
+      <p>Tove studied the line of the blade for a moment, then looked back at the fire, at all of them, with something that might have been the beginning of real respect. "West," she said. "Away from the Hasdingi. Away from the people who sold me."</p>
+      <p>"Away from what took you," Tiata said, "but not away from what it means. West is only a direction, not a destination."</p>
+      <p>They were moving before the fire had fully died, west and further west. Tove fell into the line easily.</p>
+      <p>It was Taya, again, who found the trouble before the trouble found them.</p>
+      <p>"Party ahead," she reported, dropping back from a rise just wide enough to see through the trees. "Six, maybe seven. Moving east — toward us. Loaded down, from the look of their pace. Coming home from somewhere."</p>
+      <p>Tove's jaw tightened at the word. "Hasdingi carry themselves a particular way when they're heavy with plunder," she said. "That's them."</p>
+      <p>"Then they're a long way from home to be careless," Tiata said. "Taya, the same as always. Tove—" she paused, "—this one's yours to lead, if you want to."</p>
+      <p>Tove's answer wasn't in words. She simply hefted the axe, already moving toward the treeline that would put her closest to whatever came first.</p>
+      <p>The Hasdingi party walked into the ambush carelessly — strung out, talking too loud. Taya's arrow took the first, and the line broke into chaos.</p>
+      <p>Tove didn't wait for the formation to fully collapse. She went in low and fast, her axe finding the gap between one man's shield and his ribs before he'd registered the threat. There was nothing showy in it, just a raw, focused violence that hadn't been visible at all around the fire where they'd found her, and Toria, working the opposite flank, found herself admiring the passion of their new companion.</p>
+      <p>Thana and Tacita closed the rest of it — fast, economical, no wasted motion — and within minutes the party that had walked out so carelessly wasn't walking anywhere again.</p>
+      <p>Tove stood over the last of them a moment longer, breathing hard, something unreadable in her eyes.</p>
+      <p>"Feel any different?" Toria asked, not unkindly.</p>
+      <p>"No," Tove said, after a moment. "I thought it might. It doesn't." She wiped the axe clean, matter-of-fact again, the warmth already creeping back into her voice. "Turns out revenge isn't really what I wanted."</p>
+      <p>They took what the party carried and pushed on until the light had nearly gone, making camp in a hollow Taya chose.</p>
+      <p>The fire that night burned easy. Tove told the story of the boar and even the corners of Tacita's mouth resembled a smile.</p>
+    <div class="section-header" id="ch-14">14 — Along the Frontier</div> <a href="#toc" class="back-to-top">↑ Back to top</a>
+      <p>They moved west for the better part of a month. One territory gave way to the next.</p>
+      <p>Through Iazyges country the going was easiest, open plain and old grazing ground, and Taya moved through it easily, familiar with this kind of ground. Tove rode behind Tiata, whose horse was easily the sturdiest of the five and bore the both of them without complaint. They encountered Iazyges riders a couple of times, and both times the riders simply watched them go. Six women on five horses was a curiosity rather than a threat.</p>
+      <p>Where the plain gave out, they picked up the line of the frontier itself and followed it west — close enough to see the watchtowers on a clear day, far enough that no patrol ever crossed their path. It was strange country to ride, Roman order on one hand and everything else on the other. More than once Tiata pointed out some fresh scar on the land — a burned granary, a hastily rebuilt stretch of palisade — evidence of a frontier under more pressure than Rome would admit.</p>
+      <p>Quadi territory took longer to pass than expected. The Quadi kept close to Rome by treaty, client kings and Roman garrisons sitting near enough to each other that the vanguard spent most of that stretch moving at night, sleeping through the daylight in whatever cover they could find. Twice they came near enough to a Roman supply column to have taken it, and twice Tiata judged the risk not worth taking. "We're not here to bleed every vein we cross," she said. "We're here to reach the one that matters."</p>
+      <p>Marcomanni land came next, rougher and less watched. There was a skirmish, one grey morning in the Marcomanni hills. A hunting party stumbled onto their camp before dawn. They were more startled than hostile, but it ended fast and ugly. Three of the hunters died before either side understood what was happening. The rest scattered back into the treeline rather than press a fight they hadn't wanted in the first place. Nobody in the vanguard was hurt, but it left all of them quieter than usual for a day afterward.</p>
+      <p>By the time the ground softened into the river valleys of Alemanni territory, autumn had turned the whole frontier brown and gold.</p>
+      <p>The Alemanni themselves were newer to this ground than almost anyone else along the frontier — a confederation still finding its feet, drawn together out of smaller peoples.</p>
+      <p>"They're young, as peoples go," Tiata said. "Still deciding what they are. That makes them dangerous in ways older tribes aren't — nothing to lose yet that they haven't already lost once in getting here."</p>
+    <div class="section-header" id="ch-15">15 — In Full View</div> <a href="#toc" class="back-to-top">↑ Back to top</a>
+      <p>Thilda had been walking north for three days when she found the smoke.</p>
+      <p>It wasn't battle-smoke — she knew that smell too well by now to mistake it for anything else — but a cook-fire, banked low and careful, the kind of fire built by people who understood exactly how far its scent would carry. That alone was enough to slow her step. Careless fires got built by careless people, and careless people didn't survive long in the country between Raetia and Upper Germania, not with Rome pressing from the south and the Alemanni  raiding parties coming down from the north.</p>
+      <p>She had been walking this particular stretch of the border for several years now. Her own people held ground that had not interested any invaders — no gold, no grain worth an emperor's attention, just forest and hard winters and a stubborn refusal to disappear quietly the way so much of this frontier had already been persuaded to. That refusal had cost them. It had cost her, specifically, more than she cared to consider. She scouted for herself now.</p>
+      <p>The fire, when she finally worked close enough to study it properly from a fold in the ridge above, belonged to six women — all of them armed, their weapons close at hand. She watched the way they sat, the way their eyes never all rested in the same direction at once, the easy economy in how one of them fed the fire without looking away from the tree line.</p>
+      <p>These were women who had survived together long enough to trust each other.</p>
+      <p>She watched for the better part of an hour, before she made her decision.</p>
+      <p>She stood, in full view, and walked down toward the fire.</p>
+      <p>They were on their feet before she'd covered half the distance — fast, controlled, six weapons raised. She stopped well short of striking range and simply waited, both hands visible, spear planted upright in the dirt beside her.</p>
+      <p>"I'm alone," she said, in workable if accented Latin. "I've been alone a long while. I saw your fire three ridges back and decided to investigate."</p>
+      <p>A tall woman with a falx stepped forward from among them — the one, Thilda judged, was their leader. "That's a long way to walk on a guess."</p>
+      <p>"I've walked further on less," Thilda said.</p>
+      <p>They didn't lower their weapons yet, and after a long, measuring moment, the falx-bearer nodded once.</p>
+      <p>"Sit, if you're going to," she said. "We'll decide the rest after."</p>
+      <p>Thilda sat. She didn't tell them everything that had brought her to this ridge, this fire, this particular late point in a war she'd been fighting alone. That would keep. Some of it would keep for a long time yet.</p>
+      <p>But she told them enough — that Upper Germania was her home and had been her people's for centuries, that the losing of ground here had been slow and then sudden, that she had buried more of her own than she could remember.</p>
+      <p>It was enough for now.</p>
+      <p>Someone passed her a share of the evening's meal — a smaller woman, quick-moving, who set it down beside her without ceremony and went back to watching the tree line. Thilda ate without hurrying, the first meal in a long time that she hadn't had to eat standing, weapon in hand, watching her own back.</p>
+      <p>"You've fought Rome directly," the falx-bearer said, at length.</p>
+      <p>"More than I've fought anyone else, this past year," Thilda said. "Though the tribes pressing from the north give me nearly as much work. Rome, at least, I understand. It wants land, and it's patient about taking it. The others just want what's left when Rome's finished, and they're not patient at all."</p>
+      <p>"That's most of this frontier, in one sentence," the falx-bearer said.</p>
+      <p>"You're not from here," Thilda said.</p>
+      <p>"None of us are from any one place," said the one with the axe, older sounding than she looked, amusement threaded through it. "That's rather the point."</p>
+      <p>Thilda looked around the fire once more, slower this time — the falx, the twin blades resting easy against one woman's leg, the round shield with its worn boss propped near another's shoulder, the stillness of the one who hadn't spoken a single word since she'd walked into the light. Six women who by every reasonable account should have had nothing holding them together.</p>
+    <div class="section-header" id="ch-16">16 — Roxolani</div> <a href="#toc" class="back-to-top">↑ Back to top</a>
+      <p>Morning came grey and mild, and Thilda woke to find the camp already stirring around her.</p>
+      <p>It was Tiata who made the introductions, moving around the fire with the same flat economy that marked her every action.</p>
+      <p>"Toria," she said, nodding to the one with the falcata. "Iberian-born. Taken as a girl when Rome put down trouble in her province. Gladiatrix out of Byzantium before any of the rest of this started."</p>
+      <p>Toria didn't look up from the blade, but the twitch in her shoulders acknowledged it all the same.</p>
+      <p>"Thana," Tiata went on, nodding to the one with the easy, sharp smile. "Greek. Taken by pirates off her own coast at fourteen, sold into the same arena. Eleven bouts survived on nothing but reading a fight faster than her opponent."</p>
+      <p>"Flattering, when you say it like that," Thana said, though she didn't disagree.</p>
+      <p>"Tacita." A level glance from the quiet one was the whole of her greeting. "The breakout that got the three of them out of Byzantium was hers, start to finish. She usually lets her gladius speak for her."</p>
+      <p>Tacita's only reply was the faintest incline of her head — confirmation, offered and withdrawn in the same breath.</p>
+      <p>"Tove," she said, nodding to the broad-shouldered one with the axe, who grinned outright and passed over the last of the previous night's meat. "Rugii, from a long way north of anywhere on this frontier. Taken by Gothic raiders, traded on to Hasdingi hands, freed herself in the same patient way she does everything else."</p>
+      <p>"And Taya," Tiata finished, nodding to the one already half a distance apart from the rest, watching the treeline.</p>
+      <p>Tiata paused there. "Which is, I realize, a name I've often spoken, but have never heard the story behind," she said, half to Thilda, half to herself, an admission that seemed to genuinely surprise her.</p>
+      <p>Taya's mouth curved, faint and dry. "You've never asked."</p>
+      <p>"That's not an answer."</p>
+      <p>"No," Taya agreed. "It isn't."</p>
+      <p>She was quiet a moment, and when she finally spoke it was brief, exact, and nothing wasted.</p>
+      <p>"Roxolani," she said. "One of the Sarmatian peoples. My family rode as auxiliary cavalry for Rome for eleven years. My father led forty riders. Paid in grain and little else. When a Roman patrol raided a village to the north, the governor needed someone else to blame. My father and his riders paid with their lives for something they didn't do." She paused. "I was moving the herd east at the time. Came back to a burned-out camp and forty unburied dead." She drew in breath and looked out into the distance.</p>
+      <p>Nobody spoke.</p>
+      <p>After a few moments, Tiata said, "And you'd been alone since."</p>
+      <p>"Alone by choice. There were other family groups I could have joined, but all were confederates of Rome." This last she said with obvious distaste, before brightening a bit and going on. "I watched these three for the better part of a day before I ever spoke to them. Decided they were worth the trouble before they knew I existed. That's simply how I do things. It served me well enough on my own. It's served well since."</p>
+      <p>Tiata studied her for a long moment, the same weighing look she gave everyone, and nodded once — the closest thing to a verdict she ever handed down.</p>
+      <p>Thilda, watching all of it unfold around a fire she'd been sitting at for less than a full day, found herself, for the first time in years, in no particular hurry to be anywhere else.</p>
+    <div class="section-header" id="ch-17">17 — South</div> <a href="#toc" class="back-to-top">↑ Back to top</a>
+      <p>They didn't break camp with sunrise.</p>
+      <p>They sat with the fire still smoking between them. Tiata, falx across her knees, looked across at Thilda.</p>
+      <p>"You know this ground better than any of us," she said. "Before we decide where we're riding next, I'd rather hear where you'd take us."</p>
+      <p>It wasn't a small thing, and Thilda understood it. She'd spent a year listening to men who gave orders without ever once asking what the ground actually permitted, and the difference impressed her.</p>
+      <p>"North along the border, the way you've been moving, you'll keep finding what you've already found," she said. "Watch-posts, patrols, the occasional supply line worth bleeding. Useful. Steady. It won't ever be more than steady, though — Rome expects losses along that stretch, budgets for them, barely blinks." She nodded, slowly, westward, away from the frontier entirely. "West, the ground changes. Fewer eyes, less discipline. Harder country to move through safely. To the south, about a day's journey, is the fort of Lorch, which is right at the point where the frontier turns north. All the other forts have the frontier east and west. Lorch has the frontier north and east, so they don't think they need to watch west or south. I've spent a year learning exactly how much Rome doesn't watch what it doesn't think it needs to. It's more than you'd guess."</p>
+      <p>Taya, listening from the edge of the fire, spoke up. "If we go south, I'll need a couple of days ahead of the rest of you to read it properly."</p>
+      <p>"Take what you need," Tiata said, without hesitation.</p>
+      <p>Tove leaned back, arms folded, something considering in her expression. "South also puts more distance between us and the nasty cold," she offered. "No harm in that."</p>
+      <p>"And less distance from Hispania," Toria said, almost wistfully.</p>
+      <p>Tiata let all of it settle before she spoke again, each voice folded into the decision.</p>
+      <p>"South, then," she said, at last. "Not blindly. Taya goes ahead alone, same as always — she'll move faster and quieter without the rest of us slowing her. The rest of us hold somewhere safe until she's read enough of it to bring us in behind her."</p>
+      <p>Nobody argued — not because Tiata's word was law, but because everyone at that fire had just watched her actually listen before she decided.</p>
+      <p>"There's a hollow half a day south of here," Thilda said, into the pause that followed. "Good water, better cover, nothing on the approach that isn't visible a long way off. If Taya needs a few days to read what's further south, that's where I'd sit and wait for her word, rather than push the rest of us blind into ground even she hasn't seen yet."</p>
+      <p>Taya nodded once, already turning it over. "That works. I'll move faster alone than any of you could keep pace with regardless."</p>
+      <p>"Then that's settled," Tiata said.</p>
+      <p>They broke camp within the hour — south, toward the hollow Thilda had named, seven of them moving together while Taya struck out alone ahead, into ground none of the rest of them, apart from Thilda, had seen before.</p>
+    <div class="section-header" id="ch-18">18 — The Fort</div> <a href="#toc" class="back-to-top">↑ Back to top</a>
+      <p>Taya left before the others had finished breaking camp. She took the mare and nothing that could rattle or catch light.</p>
+      <p>She passed Alemanni farmsteads first, scattered and new, the wood still pale and unweathered. Further on the land roughened into forest. She slowed the mare to a walk and read the ground at that pace instead.</p>
+      <p>She found a trail by midmorning: old but used, running south, worn by feet rather than hooves. People without horses to spare. Poorer country, and likely the loose, unwatched ground Thilda had promised.</p>
+      <p>It wasn't long before the trail crossed a ford — shallow and worn smooth by long use, with nothing standing guard over it. No palisade. No watchtower. Every Roman crossing she'd ever scouted had one, even a poorly manned one. This had none. She sat above it a while, working out what Thilda had meant back at the fire — not ground Rome had forgotten, ground Rome had never bothered learning about in the first place.</p>
+      <p>That alone would have been enough for the day, but she followed the far bank west a while instead, out of habit, and that was when she saw it — straight lines against the treeline, where nothing straight grew on its own.</p>
+      <p>The fort. Stone footings, from what she could make out, and enough of a footprint to house a real garrison. She spent the rest of the afternoon working the treeline in a slow half-circle, getting close enough to be sure without being seen.</p>
+      <p>It sat at the exact point where the frontier turned north and stopped watching west, just as Thilda had said. The walls faced east and north, back the way the frontier came from. On the west side, behind the fort itself, a supply track ran wide and open — wagons coming and going on a plain schedule, because nobody expected trouble from that direction.</p>
+      <p>She counted what she could see. Enough men to matter, not a skeleton crew. That supply road was undefended, and the whole fort was built facing away from the road.</p>
+      <p>This was the target Toria had imagined, back before any of this had a plan behind it — a fixed point, not a scratch Rome could shrug off. Nobody had known then where to find one. Now there was one, sitting exposed on its blind side.</p>
+      <p>She marked the road, the blind approach, and the two places a rider could cross the ford unseen, then turned back before the light went.</p>
+      <p>It was full dusk by the time she reached the hollow, later than she'd said she'd be. Tiata was on her feet before Taya had cleared the treeline.</p>
+      <p>"You found it," Tiata said.</p>
+      <p>"I found the garrison," Taya said.</p>
+      <p>The others gathered without being called. Taya laid it out plainly — the ford, the fort, the supply road nobody was watching.</p>
+      <p>"Stone-built. Real numbers, not a skeleton crew. We're not walking in and clearing it the way we cleared the watch-station." She looked at Toria. "But it's the one you asked for. Back before Tiata, before any of this had a plan. That road is wide open. We can't take the fort, but we can make the men inside it stop trusting it."</p>
+      <p>Toria was quiet a moment. "How long to plan it properly?"</p>
+      <p>"Longer than tonight," Taya said. "But it can be done. I saw how."</p>
+      <p>Tiata looked around the fire once — Toria still, Thana already turning it over, Tacita watching, Tove's hand resting on the axe across her knees, Thilda leaning in.</p>
+      <p>"Then that's where we're going," Tiata said.</p>
+    <div class="section-header" id="ch-19">19 — Released</div> <a href="#toc" class="back-to-top">↑ Back to top</a>
+      <p>They crossed the ford at first light, and said nothing until the fort's shape rose clear through the trees ahead of them.</p>
+      <p>Taya split them to their work. She and Thana went to ground on the west side, within sight of the supply road and the blind stretch of wall behind it — the side Taya had already read as open, and the side that mattered most to confirm before anything else. Tacita and Toria worked around to the east, where the wall stood higher and better watched, reading what a real approach from that direction would cost, in case it was ever needed. Tove and Thilda ranged the ground behind the western treeline, marking cover, water, and a line the horses could hold without giving anyone away.</p>
+      <p>What the west side gave up matched everything Taya had reported. Wagons rolled through the gate on that side on a loose, trusting schedule, waved through without a challenge called down from the wall. No patrol crossed that ground all morning. Every patrol that did go out swung east and north instead, walking the line the fort had always watched.</p>
+      <p>"They still don't look this way," Taya said, low, watching a wagon roll through unchallenged. "Not once, all morning."</p>
+      <p>Tove found ground worth using not far back from the road, on the blind side — a hollow, water close, cover thick on three sides. Thilda walked its edges herself before she'd trust it.</p>
+      <p>"There's a patrol runs somewhere near this ground," she said, once she'd finished. "Small. Four men, maybe five. Not part of the northern loop — a stray from it, most likely. If we hold here quiet, we take it clean tomorrow, well clear of where we're sitting."</p>
+      <p>Tiata turned that over, the falx across her knees. "Tomorrow, then. Taya first light, eyes on their—"</p>
+      <p>She didn't finish it.</p>
+      <p>Taya was already on her feet, one hand raised flat for quiet, head turned toward the trees south of the hollow. A moment later the others heard what she'd caught first — voices, unhurried and very close.</p>
+      <p>"That's them," she said, low. "The same patrol. Come further off their line than they should have, and headed straight toward us." She looked to Thilda. "This was meant to be clear ground."</p>
+      <p>"It should have been," Thilda said, already moving. "They shouldn't stray this far from the northern loop."</p>
+      <p>Tiata was up, falx in hand.</p>
+      <p>"Positions," she said. "The ones we marked for tomorrow. We use them now."</p>
+      <p>They moved fast and silent, each of them already knowing where Thilda's ground had placed her, where Tove's strength would matter, where Taya's bow would open it. The patrol walked into it exactly as Taya had read them — unhurried, unaware — and the ambush took four of them down within a dozen heartbeats of the first arrow.</p>
+      <p>The fifth was young, and when Toria's blade came level with his throat he didn't raise his own to meet it. He dropped it instead, both hands open, shaking hard.</p>
+      <p>"Hold," Tiata said, before Toria's arm had finished its swing.</p>
+      <p>Toria held.</p>
+      <p>Tiata studied the boy a long moment.</p>
+      <p>"How long have you served here?" she asked, in workable Latin.</p>
+      <p>"Six months," he managed. "Less."</p>
+      <p>"Then you're young enough to still remember what fear feels like," Tiata said. "That's useful to me today." She nodded to Toria, who lowered the blade. "You're going to walk back to that fort. Not run — walk, so you have time to remember all of it. Tell them four of your patrol are dead and you're the one left to say so. Tell them seven women did it, in less time than it takes to explain, on the side of the fort nobody thought needed watching."</p>
+      <p>The boy said nothing. He seemed to have lost the power of speech altogether.</p>
+      <p>"Tell them exactly that," Tiata said. "Don't soften it for your own sake, and don't guess at anything you didn't see. The truth, plain, is worth more to me than anything you could invent to shrink it."</p>
+      <p>They stripped him of blade and shield, anything that might let him claim afterward he'd fought rather than cowed, and let him go.</p>
+      <p>Taya watched him go until the trees took him, then turned to the others.</p>
+      <p>"That wasn't silence," she said. "That's the opposite of the watch-station."</p>
+      <p>"It was meant to be," Tiata said. "A forgotten station gets erased quietly, and nobody above it ever has to explain the gap. A garrison this size, with men left who'll ask questions when four of their own don't come back — that fort needs a story it can't control, told by someone who was there and can't be accused of exaggerating it." She looked toward the fort, still standing exactly as it had that morning, not yet knowing what it had lost. "Let them wonder what's coming next. Wondering costs more than four men ever could."</p>
+      <p>They left the ambush site and moved deeper into cover before the fort could send anyone out looking. Behind them, a boy walked alone toward a garrison that would soon be a great deal less certain of what stood outside it.</p>
+    <div class="section-header" id="ch-20">20 — Movement in the Dark</div> <a href="#toc" class="back-to-top">↑ Back to top</a>
+      <p>They moved twice more before dark, each time a short distance — always toward better cover, never far enough to lose sight of the fort itself.</p>
+      <p>The fort sat low against the last light, and they made no fire that night.</p>
+      <p>Taya took the vigil during the hours around first light — the hours most difficult to remain alert, yet most likely to be fruitful.</p>
+      <p>She set herself further out than the previous watch, out past the edge of camp where a sleeper turning or a horse shifting its footing couldn't reach her. She wanted nothing to distract her.</p>
+      <p>For a long while there was nothing. The fort held its shape against a sky just beginning to turn grey. Not a single torch moved along it. Nothing.</p>
+      <p>Then something changed — she couldn't have said what.</p>
+      <p>She froze and strained every sense into pinpoint focus on the base of the wall.</p>
+      <p>There it was. A movement, then nothing.</p>
+      <p>Taya held her focus.</p>
+      <p>Again, slightly north — a flicker at the treeline. Then stillness — complete, absolute.</p>
+      <p>That was enough.</p>
+      <p>Taya came back toward the sleepers, and touched Tiata's shoulder once.</p>
+      <p>"Something came off that wall," Taya said. "One movement, then a second further north, moving into the trees."</p>
+      <p>"Down," she said. "All of you. Now."</p>
+      <p>The other five were awake instantly, low against the ground, weapons ready.</p>
+    <div class="section-header" id="ch-21">21 — The Tigress of Lorch</div> <a href="#toc" class="back-to-top">↑ Back to top</a>
+      <p>Taran had learned, over the last three years, that captivity didn't need bars to be a cage.</p>
+      <p>She awoke that morning, as always, in the small chamber off the Praefectus's own quarters, dressed in the clothes required by the household, her red hair loose and flowing, as required.</p>
+      <p>Breakfast she took standing, near the door, as required. She didn't mind it. Standing let her see the room.</p>
+      <p>The morning brought two officers up from Raetia, minor men on some minor errand, and the Praefectus did what he always did when new eyes came through his gate — found a reason to have her brought into the hall and, in the particular tone he used only for this, mentioned that she'd been taken in Britannia three years past, that she'd fought three of his own men to a standstill, that even now, three years tamed, she could probably still put a blade through a man's throat if she were given the opportunity.</p>
+      <p>"Show them," he said, as he held out the practice blade.</p>
+      <p>She showed them. It cost her nothing to move well for an audience that thought they understood what it meant — proof of Rome's reach, proof that even the wildest thing dragged out of the furthest edge of the map could be brought to heel and kept, years from home, still red-haired, still dangerous-looking. She'd learned to give them exactly that and nothing more. The part of her that actually knew how to kill a man, she kept for herself, and these shows helped to keep her hand in.</p>
+      <p>The two officers left before midday, suitably impressed, and the household settled back into its ordinary rhythm — one she'd had three years to learn in every particular. She knew which guards drank in the evening. She knew the armory was checked at dawn and rarely again before dusk. She knew the Praefectus's moods better than the rest of the household. She knew when he wanted her silent, when he wanted her shown off, when a bad week made him crueler and a good one made him softer.</p>
+      <p>She had spent three years watching all of it. She had no plan yet, but had made herself patient instead. She knew that she would recognise the moment when it came.</p>
+      <p>Dusk came grey and early that day, cook-fires already lit, and she was standing where she always stood at that hour — near the Praefectus, in the long room where he took his reports.</p>
+      <p>A lad was brought in still shaking — stripped of blade and armour, dust and worse on him, eyes full of fear.</p>
+      <p>"Speak," the Praefectus said.</p>
+      <p>The boy spoke.</p>
+      <p>Four of his patrol were dead. They were killed inside a dozen heartbeats, on the western ground nobody watched, by seven women who'd laid an ambush. They'd let him go. They'd told him to walk, not run, so he'd remember it right. They'd told him to tell it plain.</p>
+      <p>The room went very still.</p>
+      <p>Taran watched the Praefectus's face — the flush, the anger, the fear. He shouted something at an aide. He demanded numbers, demanded a search, demanded answers. Nobody moved with any real purpose. Everyone in that room had spent so long believing the western ground didn't matter that not one of them had the first idea what to actually do now that it had proven otherwise.</p>
+      <p>She stood very still herself, near the wall and felt a cold certainty settle in her chest that she hadn't felt in three years.</p>
+      <p>Seven women were on the western ground, waiting, watching, moving exactly when the moment offered itself and not a heartbeat before.</p>
+      <p>She had no idea who they could be, but she knew that whoever they were, they were the same type of woman as her — women who had been taken and measured and put on display for what other people needed them to be, who had decided, at some point, to stop being anyone's trophy and start being something with teeth of its own.</p>
+      <p>The Praefectus was still shouting when she slipped out of the hall. She took the passage that led to the armory that nobody would check again before morning.</p>
+    <div class="section-header" id="ch-22">22 — Between the Sentries</div> <a href="#toc" class="back-to-top">↑ Back to top</a>
+      <p>She took a pair of matching blades — a little larger than daggers — and a couple of other items from the armory. Getting them out of the praetorium was the easy part.</p>
+      <p>The fort itself was another matter. The praetorium sat at its center, walls in every direction, and center-to-wall was ground she'd only ever crossed under guard.</p>
+      <p>Once out of the praetorium, she found a gap between the granary and the wall it backed onto, and waited.</p>
+      <p>The garrison took its time settling. Voices carried a while longer than she'd have liked, and lights moved behind the praetorium's shutters long after they should have gone dark.</p>
+      <p>By the deep hours all was quiet. She moved to the outer wall, counting the intervals between the sentries on the rampart above her.</p>
+      <p>She found her place at the wall's lowest stretch, where old repair work had left the stone rougher, and went up it hand over hand, pausing with every hold to listen.</p>
+      <p>She stopped short of the top and hung there, flat against the stone, and waited for the two sets of footsteps above her to meet.</p>
+      <p>She'd chosen her spot for exactly this — the point on the rampart where the two sentries' paths crossed, where both men would be furthest from her at the other end of their beat. Their footsteps met and passed, and she waited until they were distant, then she went up and over, flat on the walkway for less than a breath, and dropped to the outer face.</p>
+      <p>She hit the ground at the base of the wall and went still, folded small against the stone, and did not move again until both rhythms had passed a second time.</p>
+      <p>Then she slid along the base of the wall, keeping its shadow, until she stood opposite a stretch of forest to the north.</p>
+      <p>She waited once more. The footsteps met and passed again. She crossed the open ground, reached the treeline, and froze, listening.</p>
+      <p>She held there a moment longer, Fort Lorch behind her for the first time in three years.</p>
+    <div class="section-header" id="ch-23">23 — Unfamiliar Ground</div> <a href="#toc" class="back-to-top">↑ Back to top</a>
+      <p>For three years she had been an object of curiosity in a household of military men. She had never set foot outside the walls of the fort. She had no idea what to expect here, apart from what one frightened soldier's account had told her: seven women, and four Roman dead, west of the fort.</p>
+      <p>When she judged she was deep enough into the cover of the trees, she turned west, and held that line.</p>
+      <p>The sky was beginning to turn from black to grey behind her, the outline of the fort falling further behind, to her left.</p>
+      <p>After several minutes, she turned south, keeping the fort to her left.</p>
+      <p>She hadn't gone far on the new bearing when she was stopped in her tracks by a blade at her throat.</p>
+      <p>She went perfectly still.</p>
+      <p>Silence.</p>
+      <p>Then a form began to materialise out of the dark ahead of her, large and foreboding, closing without a sound, carrying a weapon she'd never seen the like of, a curved blade nearly the length of her own arm.</p>
+      <p>"Tacita. Thank you." The voice was that of a woman.</p>
+      <p>The blade left her throat as quietly as it had arrived.</p>
+      <p>Taran didn't move. Whoever this was had not lowered her guard, the curved weapon held loose but ready.</p>
+      <p>"You came from the fort," the woman said.</p>
+      <p>"I did."</p>
+      <p>"Alone."</p>
+      <p>"Yes."</p>
+      <p>"Why."</p>
+      <p>"One of the Praefectus's men came back to Lorch tonight talking about seven women and four dead men. I was in the room when he told it. I've spent three years there, taken from Caledonia, kept as something to be shown off at dinner. I didn't wait to hear it twice."</p>
+      <p>"Anyone see you leave?"</p>
+      <p>"No."</p>
+      <p>"You're certain."</p>
+      <p>"If they'd seen me, half the province would know it by now."</p>
+      <p>The woman studied her a long moment. "You're telling me you walked out from under the Praefectus's nose, scaled the rampart, and picked your way in the dead of night through a forest you'd never set foot in, to look for a band of killers — on the strength of a report from some deranged young upstart."</p>
+      <p>"That sums it up well."</p>
+      <p>"That was either very brave or very stupid."</p>
+      <p>"I've had three years there to learn that the difference doesn't always matter. Only the outcome does."</p>
+      <p>The woman moved in closer. "Tiata is my name," she said. "You'll answer for yourself properly once we're back with the others. Until then you walk between us, and you keep both hands where Tacita can see them."</p>
+      <p>"That's fair," Taran said.</p>
+      <p>"It isn't meant to be fair," Tiata said. "It's meant to keep you alive long enough to prove you're worth trusting."</p>
+    <div class="section-header" id="ch-24">24 — The Eighth</div> <a href="#toc" class="back-to-top">↑ Back to top</a>
+      <p>Four of them stayed at the camp. Toria took the near ground, Thana beside her, both watching the fort's dark wall. Tove and Thilda held the far edge, facing the trees — because whatever Tiata, Tacita, and Taya had gone out into the dark to find could just as easily come back out.</p>
+      <p>Taya reappeared first, moving low and fast between the trunks. "A woman from Lorch. Tiata's bringing her."</p>
+      <p>Tiata walked the stranger out of the trees, Tacita a pace behind, and stopped in the open ground at the center of the camp. "This is Taran," Tiata said. She looked at Taran. "Tell them your tale. See if they believe you."</p>
+      <p>Taran didn't hesitate.</p>
+      <p>"Three years ago they took me out of Caledonia. Since then I've belonged to the Praefectus at Lorch — paraded in front of his guests as proof of what Rome does to things it can't kill outright. Tonight a soldier limped home with a story about seven women and four dead men on ground to the west of the fort. I heard him tell it before the household. I decided this was my moment. Securing some weapons, I slipped out of the praetorium and waited until just before first light before scaling the wall. Nobody in that fort knows I'm gone yet."</p>
+      <p>Thana spoke first. "A woman doesn't cross ground like that on a soldier's rumor unless she's either got nothing left to lose, or she's very good at making people believe she doesn't."</p>
+      <p>"Both have kept me alive this long," Taran said. "Which one I am is yours to judge."</p>
+      <p>"That shouldn't be difficult," Toria said. "We seven aren't still alive through luck alone."</p>
+      <p>Tove didn't speak. Her eyes held the look of someone who remembered exactly how it felt to be measured this way.</p>
+      <p>Tiata turned to Thilda. "No movement from the fort?"</p>
+      <p>Thilda shook her head. "Nothing yet."</p>
+      <p>"Good. But it won't be long."</p>
+      <p>The grey in the eastern sky was already beginning to give way to shades of deep purple and burnt orange.</p>
+      <p>Tiata looked at the eight of them gathered in the half-light — seven who'd earned their place, and one other.</p>
+      <p>Toria was already moving, passing what little they had left between hands. Tove checked the horses, running a hand down each foreleg in turn. Thana kept her eyes on the fort. Taran ate what was passed to her gratefully.</p>
+      <p>Dawn broke and the fort remained silent — no riders, no alarm, no patrol. Whatever else was unproven about her, that much of her story was true.</p>
+      <p>Tove was the first to draw alongside her. She said something too quiet for the others to catch. Taran answered her, just as quiet. After a brief silence, Tove reached out an arm and drew Taran into a gentle embrace. For the first time since Caledonia, Taran allowed herself to relax.</p>
+    <div class="section-header" id="ch-25">25 — Not Possible</div> <a href="#toc" class="back-to-top">↑ Back to top</a>
+      <p>The Praefectus was clearly rattled.</p>
+      <p>"Numbers," he said to his aide, slower this time. "I want to know exactly who went out on that patrol, by name, and I want it before I decide anything else."</p>
+      <p>The aide went, and he turned again to the lad.</p>
+      <p>"The western ground, you say? Tell me again."</p>
+      <p>The lad told his account again. Nothing in the second telling made any more sense than the first.</p>
+      <p>The Praefectus doubted him — not the lad's honesty, exactly, but his sense. A recruit six months into his service, sent out onto ground he'd never patrolled before, could mistake a great many things in bad light.</p>
+      <p>"And you say it was women."</p>
+      <p>"Seven of them."</p>
+      <p>Women didn't do that. They just didn't — well, Taran had put three trained men to shame—</p>
+      <p>He glanced toward the wall where she usually stood, and found the space empty. Gone to the kitchens, likely, or sent for water. It didn't matter. She wouldn't have gone far.</p>
+      <p>But Taran was Caledonian. Whatever the wilds out past the northern sea bred into its women, it wasn't bred into — not into Roman women, who were subdued and quiet and knew their households, not even into the Germanic women along this frontier, tractable enough once a firm hand had been laid on them. Taran herself had proven it. Three years, and she stood by a wall and said nothing unless spoken to. Even the wildest of them came to heel eventually.</p>
+      <p>"There were seven, you said."</p>
+      <p>"Yes."</p>
+      <p>"It couldn't be right! Not even seven women from these parts could stand against one patrol of my men. If we were in Caledonia, I might give it credence, but not Germania."</p>
+      <p>"They didn't fight the patrol so much as end it," the lad said.</p>
+      <p>"And they sent you back," the Praefectus said. "Say that part again. What exactly did they tell you?"</p>
+      <p>"To walk. Not run. So I'd remember it right."</p>
+      <p>Not possible. He'd fought Caledonians — men who killed everything in reach and left nothing behind to carry a message. Whoever had done this had thought about him specifically, had decided what he should be told and how he should be made to hear it, and that was a cruelty he did not think possible.</p>
+      <p>The gate captain's voice carried from the passage outside, and behind it the tramp of the sentries being gathered in.</p>
+      <p>"Ah, here is the watch! So, this lad is of the belief that he is the sole survivor of this evening's western patrol. It's a fabrication, isn't it!"</p>
+      <p>Nobody could answer him straight.</p>
+      <p>One man had stood a rotation two nights past and sworn the gate hinge had complained without a hand on it, and put it down at the time to wind. Another had heard nothing at all, and said so emphatically. A third began an account of a shape at the treeline that unraveled halfway through into something he could no longer swear he'd actually seen, and stopped, red to the ears, rather than finish it. The gate captain tried twice to bring some order to the accounts, but voices climbing over each other, each man's fragment both feeding the fear in the room and refusing to amount to anything tangible.</p>
+      <p>The Praefectus felt the room slipping out from under him.</p>
+      <p>"Enough!"</p>
+      <p>The room went quiet.</p>
+      <p>"Whatever is out there," he said, "will keep till morning. Go to your posts. All of you."</p>
+    <div class="section-header" id="ch-26">26 — Vanished</div> <a href="#toc" class="back-to-top">↑ Back to top</a>
+      <p>The villicus was up before the household.</p>
+      <p>He worked through the morning's accounting — stores, staff, bread, water, the kitchen fires.</p>
+      <p>Taran should have been at her door by now.</p>
+      <p>He didn't think much of it at first. The whole household was off its rhythm this morning; she'd be a few minutes behind, that was all.</p>
+      <p>He went back to the stores, and a while later he checked again. No sign of her near the Praefectus's rooms, nor in the kitchens either.</p>
+      <p>He went to her chamber, and eased the door open. The room beyond it was bare. The bed hadn't been slept in, and what few things were hers were gone.</p>
+      <p>He stood in the doorway a moment, then headed straight for the Praefectus's chamber.</p>
+      <p>The Praefectus was already in discussions with his centurions, arguing over what to do about the western ground. An aide took one look at the villicus and turned him away.</p>
+      <p>"Not now," he said. "He's occupied. I'll call you."</p>
+      <p>So the villicus went back to the stores and waited. It was close to an hour before he was called.</p>
+      <p>By then the sun was well up, and the household had moved on without him. Men were mustering in the yard — shields were being checked, horses were coming up from the stable fast.</p>
+      <p>He found the Praefectus in the middle of it, half into his armor, giving orders.</p>
+      <p>"Speak quickly," the Praefectus said, not looking at him. "I've a garrison to move."</p>
+      <p>The villicus told him.</p>
+      <p>The Praefectus's hands stopped on the strap he'd been buckling. First seven women destroy a patrol. Now Taran was gone from her chamber.</p>
+      <p>"Gone," he said. "Where? Since when?"</p>
+      <p>"I don't know. Her chamber was empty this morning."</p>
+      <p>The Praefectus raised a hand, and the yard went still.</p>
+      <p>"Halt it," he said. "All of it. Nobody rides west until I know what happened inside my own walls."</p>
+      <p>He sent men to search — the praetorium, the outbuildings, the granary, the stable, the cellar. He called the night watch in a second time and made them account, one by one, for every hour of dark.</p>
+      <p>The search found nothing. The gate had been barred all night. The night watch had not seen anything.</p>
+    <div class="section-header" id="ch-27">27 — The Ambush</div> <a href="#toc" class="back-to-top">↑ Back to top</a>
+      <p>Marcellus had known his cousin since they were boys, and he had never seen him the way he'd looked that morning — armor half-fastened, giving conflicting orders.</p>
+      <p>He didn't argue when the command fell to him. Someone with a clear head needed to ride out west.</p>
+      <p>"Take what you need," the Praefectus told him, gripping his forearm. "Bring back the dead. Bring back the truth, whatever it turns out to be. I'd rather know."</p>
+      <p>Marcellus rode out with a full century, foot and horse both, and they soon found the site of the previous night's ambush.</p>
+      <p>There were four bodies, roughly where the lad had said. Marcellus dismounted and knelt by the nearest of them.</p>
+      <p>The wounds were clean. Whoever had done this was skilled, and they hadn't been afraid.</p>
+      <p>"Recover them," he said, straightening. "Gently. They rode out as my men. They come home as my men."</p>
+      <p>The century went to work. The horses stood patiently and weapons were laid aside.</p>
+      <p>He walked the ground while they worked — churned earth where more than four had clearly stood and fought, and then nothing. No trail leading off in any direction. Whoever had done this had left no trace.</p>
+      <p>A shout went up from the treeline to the north.</p>
+      <p>Marcellus was moving, and four infantrymen fell in around him. "Hold the recovery," he called back to his optio. "Cavalry stays with the dead. I'll see what this is."</p>
+      <p>He didn't get thirty paces into the trees when the man leading his file went down — an arrow found his throat, buried to the fletching.</p>
+      <p>"Down! Cover!" The infantrymen scattered.</p>
+      <p>There was no second shot.</p>
+      <p>Then from the south a second shout went up, followed by the sound of another man falling.</p>
+      <p>Marcellus understood that this wasn't the same threat. The distance between the two was too great to be the same archer.</p>
+      <p>He turned back toward the horses.</p>
+      <p>"Cavalry, mount!" he shouted, as he reached his own horse.</p>
+      <p>The other men were already swinging into saddles around him, horses shifting, unsettled by the shouting and the smell of blood already thick from the four dead being loaded. Marcellus had one hand on the pommel, and was swinging his foot over, when the horse reared beneath him.</p>
+      <p>It gave him no warning, and he was thrown off before he'd gotten his weight over the saddle, hitting the ground in a daze.</p>
+      <p>A woman broke from the treeline to his left, a spear leveled, and put it into the chest of the nearest mount. Another came from the right with an axe, swinging low and taking a second horse's legs out from under it — the animal going down screaming, the rider caught under it.</p>
+      <p>Behind him, at the rear of the line, two more forms emerged, blades already out. Marcellus understood. This attack wasn't aimed at his men. It was aimed at the horses. Every single one of them.</p>
+      <p>He rolled over and got a hand under himself, lifting himself up, when the next woman approached.</p>
+      <p>She came unhurriedly through the chaos, a massive curved blade held with two hand, and went straight for his own horse where it still reared and screamed above him — one swing, low and hard, and the animal's legs buckled under it, sending it down in a heap. She was already moving on to the next.</p>
+      <p>He tried to get to his feet, but a hand closed over his shoulder from behind, and a blade found his throat.</p>
+      <p>"Don't," a voice said, close to his ear.</p>
+      <p>A second woman appeared at his other side, matching pace as he was hauled to his feet and moved away from the wreckage of his century. She gripped his arm with a power he would never have expected from a woman, and a faint smirk lifted one corner of her mouth.</p>
+      <p>"You shaved well this morning, centurion," she said. "Don't make us do it again now."</p>
+      <p>The blade against his throat remained steady.</p>
+      <p>As he was escorted from the scene, the rest of the assault dissolved back into the trees, leaving a heaving, dying mass of horseflesh and men.</p>
+      <p>Amidst the screaming of dying horses, and the crys of wounded men, not one man of his own century had seen their commander being taken.</p>
+    <div class="section-header" id="ch-28">28 — Captive Ignored</div> <a href="#toc" class="back-to-top">↑ Back to top</a>
+      <p>Tacita and Thana walked the centurion in, blade still at his throat, to the edge of the clearing where the firelight thinned into shadow.</p>
+      <p>They sat him against a lone birch just outside the light and bound his wrists behind it, then his ankles, and walked away, Thana casting a single sneer back in his direction before completely ignoring him.</p>
+      <p>Taran's eyes stayed on him a moment longer.</p>
+      <p>Tove had built the fire up higher than usual, feeding it with her usual generosity. Thilda sat close to the flame with her spear across her knees, unhurriedly working a nick out of the blade with a whetstone. Thana stretched her legs toward the fire and let her head fall back, eyes half-closed.</p>
+      <p>"Four horses down before any of them understood what was happening," Toria said. "I've never seen a line come apart that fast."</p>
+      <p>"They never had a chance to hold anything," Taya said, not looking up from the arrow in her hands. "They split their own line chasing two shouts that weren't where the real danger was. By the time they went back for the horses, half the century was still in the trees looking the wrong way."</p>
+      <p>Tiata sat a little apart, the falx laid flat across her knees. She'd already heard the whole of it once, walking back — every angle, every kill, exactly how the ambush had folded itself back into the trees.</p>
+      <p>It was Thana who turned the talk toward Taran.</p>
+      <p>"And our newest terror," Thana said, tipping her chin at Taran, the old sharpness softened. "South side, drawing off half their foot before any of them knew there was a fight. First real work with us, and she puts an arrow through a man's throat before he's gone ten paces into the trees. I'd call that a fair morning's introduction."</p>
+      <p>"I had the angle Taya gave me," Taran said. "She read the ground. I only had to be where she said."</p>
+      <p>"You only had to hold and not flinch," Taya said. "Most people flinch the first time it's real. You didn't."</p>
+      <p>Tove reached over and knocked a shoulder against Taran, warm and solid. "First time with us, and already better than half the recruits I've ever seen a Roman drillmaster claim credit for."</p>
+      <p>"I've held a bow longer than I've held anything else," Taran said. She turned the yew stave over in her lap, the wood worn smooth in places. "This very one. Just not for three years."</p>
+      <p>Even Tiata leaned in at this.</p>
+      <p>"I went into the armory for the blades," Taran said. "I never knew what he'd done with my bow — never really thought about it."</p>
+      <p>She paused.</p>
+      <p>"It was hanging above his own armory rack. Something for his guests to admire and be told about — the wild woman's bow, same as the wild woman herself." Her jaw set, hard, before she went on. "I never knew he'd kept it. Not until I saw it hanging there last night."</p>
+      <p>She ran a thumb lovingly along the grain.</p>
+      <p>"I took it down with my own two hands," she said, with a hint of satisfaction. "It still remembers my draw."</p>
+      <p>Tove's hand found her shoulder again.</p>
+      <p>"Then it's yours again," Tiata said, at last.</p>
+      <p>The fire crackled. The centurion sat too far from it to feel its warmth, but close enough that every word had reached him.</p>
+      <p>Thilda finished with the whetstone and laid the spear aside, testing the edge once against her thumb before she seemed satisfied. "First watch," she said, already rising. "I'll take it."</p>
+      <p>"I'll spell you at the turn," Taya said, and that was the evening finished.</p>
+    <div class="section-header" id="ch-29">29 — Watching</div> <a href="#toc" class="back-to-top">↑ Back to top</a>
+      <p>The Praefectus stood at the tower rail, the sentry beside him.</p>
+      <p>He had told himself that a commander belonged where he could see the ground his men were on. Below, in the yard, were the men who had watched him flailing for control. Up here there was only the western ground in front of him, the sentry beside him, and the wooden rail beneath both hands.</p>
+      <p>The sun had gone and the sky was darkening. He had been up there since midafternoon, watching the same stretch of trees for hours.</p>
+      <p>"Sir."</p>
+      <p>The sentry was peering into the dark. A moment passed before his hand came up.</p>
+      <p>"There," the sentry said. "Coming out of the tree line. Low ground, past the old ford marker."</p>
+      <p>The Praefectus followed the line pointed out by the sentry, and could just make out several figures moving in a loose scatter, coming on foot.</p>
+      <p>A century had ridden out with horse and foot both, yet all he could see was on foot.</p>
+      <p>"How many," he said.</p>
+      <p>"Can't say yet, sir. Too far. Could be a dozen. Could be less."</p>
+      <p>His hands closed harder on the timber rail as the line came on slow and uneven, some of the figures leaning on others.</p>
+      <p>"Send down," he said. "Gate captain. Torches on the wall. I want every man who can carry a light on that approach."</p>
+      <p>The sentry went down, but the Praefectus stayed.</p>
+      <p>He peered into the darkness again, but he could not see a single horse anywhere in the broken line.</p>
+      <p>Torches were lit along the wall below him, one after another, and the approaching line of figures stumbled in. He watched for the unmistakable gait of his cousin, but did not find it.</p>
+      <p>The gate opened below him, and the column began to file through, into the ring of torchlight in the yard.</p>
+      <p>The Praefectus did not go down to meet them yet. He stood at the rail a moment longer, watching from above, peering at every face in the torchlight.</p>
+      <p>His cousin's face was not among them.</p>
+    <div class="section-header" id="ch-30">30 — Marcellus Is Missing</div> <a href="#toc" class="back-to-top">↑ Back to top</a>
+      <p>The Praefectus went down from the tower and out into the yard, where the gate stood open and the wreckage of a century was still filing through.</p>
+      <p>"Form them," he said, to the gate captain. "Get water into them. Then bring me whoever can still speak plainly."</p>
+      <p>A man near the gate, blood dried black down one side of his face, told it start to finish twice in a row, and the two tellings didn't agree with each other. Another, further in, hadn't heard any shout at all — he'd been at the horse lines the whole time, he said, and the horses had simply started dying around him, one after another. A third began an account of the centurion going down and stopped halfway through it, unable to say with any certainty whether he'd seen Marcellus fall or not.</p>
+      <p>None of it agreed. The Praefectus had heard that particular kind of disagreement for two nights running now.</p>
+      <p>He went from man to man himself rather than wait for the reports to be gathered. He wanted the accounts raw.</p>
+      <p>Slowly and unevenly, he began to piece together the story.</p>
+      <p>The recovery had been underway — four dead, his cousin's own hand on the work of bringing them in gently. Then a shout from the north, and a man down before he'd gone ten paces past the tree line, an arrow in his throat from somewhere out of sight. Then a second shout from the south and another man down — too far to be the same archer. Two separate threats, deliberately placed and deliberately timed. This had been a well planned ambush.</p>
+      <p>And then there was the horses.</p>
+      <p>It was clear from the accounts that the cavalrymen had not been the target of the attack. It was the horses that had been targeted, which was a tactic he could not fathom. Blades to the legs, a spear into a chest, one animal after another went down, its rider thrown or trapped beneath it.</p>
+      <p>In the middle of a heaving mass of screaming horseflesh and struggling cavalrymen, not one of them sparing a moment to see who was where. It was only back inside his own gate, under the light of the torches, that any of them realised that the centurion was not there.</p>
+      <p>They all now assumed that Marcellus was dead, yet not one of them would say so.</p>
+      <p>"At first light," he said. "A party goes out. Full strength, foot and horse both — what horse we have left. We bring back our dead. All of them. And we do not come back inside these walls until we know that every man is accounted for."</p>
+    <div class="section-header" id="ch-31">31 — Cold Captive</div> <a href="#toc" class="back-to-top">↑ Back to top</a>
+      <p>Taya caught the movement at first light.</p>
+      <p>Torches were lit at the gate, but there were more of them than a normal muster needed. She watched long enough to assess: horse and foot both, more men than yesterday, nobody riding out ahead of the rest. She then went back for Tiata and Thilda without waking anyone else.</p>
+      <p>"They're moving again," she said. "Same ground as yesterday, by the look of the column. More men this time."</p>
+      <p>Tiata was on her feet in an instant. "How many more."</p>
+      <p>"They're not expecting an easy morning, I'll put it that way."</p>
+      <p>They went together, low along the same ridge Taya had used the night before, and settled in the trees.</p>
+      <p>The column came on slower than yesterday's had. Men rode close together, foot soldiers keeping pace with the horses rather than falling into their own line, eyes going to the treeline every dozen paces.</p>
+      <p>"They think we're still out there," Thilda said.</p>
+      <p>"We are still out there," Tiata said.</p>
+      <p>The recovery went slowly, every man working with a hand on his weapon. A shout went up at one point, and the whole column went still for a full half-minute.</p>
+      <p>"They're jumping at nothing," Taya murmured.</p>
+      <p>"That's the point," Tiata said. "Yesterday cost them a centurion and however many of that column they're still counting, in less time than it takes to load a cart. Today they don't know if it's going to happen again, or when, or from where."</p>
+      <p>They watched the whole of it — the wounded horses put down where they lay, the dead loaded with more speed than care, a count taken and confirmed, men calling names back and forth across the field.</p>
+      <p>They watched the column go, then returned to the camp.</p>
+      <p>By the time they were back, the morning at their own fire had already moved on without them.</p>
+      <p>Marcellus looked like he hadn't slept at all.</p>
+      <p>Tiata went up to him and, crouching down, cut the binding at his wrists and ankles.</p>
+      <p>"The armor comes off," she said. "The tunic under it, the greaves, the braccae, the boots, the cloak. All of it."</p>
+      <p>"But, I'm a Roman officer—"</p>
+      <p>"You were," Tiata said, and waited.</p>
+      <p>He gave it up piece by piece, hands shaking. When it was done there was a pile at his feet, and a man kneeling on the ground in an under-tunic, shivering in the cold breeze coming in from the east.</p>
+      <p>Thana looked him over once, head to foot.</p>
+      <p>"The little man looks cold," she said, and went back to what she'd been doing.</p>
+      <p>Tove dropped a bundle of grey wool on the ground in front of him. "That's the choice," she said. "Wear it, or don't. I don't care either way, but you might."</p>
+      <p>It was a peasant girl's dress, plain, worn soft at the seams. He looked away.</p>
+      <p>"I'll manage," he said.</p>
+      <p>Thana gave a snort. "That's what he thinks now."</p>
+      <p>They rebound his bare ankles, and bound his wrists in front of him this time. He was left at the birch while the camp went on exactly as it would have without him.</p>
+      <p>Taran strung the bow herself that morning, turning it in the light to check the tiller, and slung it across her back when she was satisfied. She sat when she wanted to sit and stood when she wanted to stand. She laughed and she joked. She crossed in front of him a dozen times through the morning, each time ignoring him.</p>
+      <p>By midday full cloud cover had blocked out the sun, and the wind was coming from the north.</p>
+      <p>"The Praefectus's silver boy is beginning to tarnish," Thana said, passing with an armful of wood. "He's going purple around the edges."</p>
+      <p>He was shivering uncontrollably now, but said nothing.</p>
+      <p>The light went early under the trees, and before long, he was shivering so hard his teeth were chattering.</p>
+      <p>"I'll take it," he stammered, when Tove walked past.</p>
+      <p>Tove nodded once and picked the wool up off the ground. "Can't have you catching cold on top of everything else, can we now."</p>
+      <p>"Taran," she called. "Help me dress the sweet lad, if you don't mind."</p>
+      <p>His wrists were still bound, so Taran returned with a blade to cut the binding. A blade Marcellus recognised as belonging to his cousin.</p>
+      <p>"Arms in the air," said Taran, as she slid the dress down over his head.</p>
+      <p>"There we are," said Tove. "That's much better, isn't it." And she chucked him under the chin.</p>
+      <p>He had watched Taran's hands the whole time. He knew them well — three years hanging idle at a wall, offered a practice blade only when his cousin wanted sport. Now he watched them handle a blade deftly, working coarse wool down over his shoulders. He said nothing.</p>
+      <p>"Better tie it to the birch again," called Thana, from the warmth of the fireside. "It'll shiver itself out of its sack, otherwise."</p>
+      <p>Tove helped Taran rebind his wrists behind the birch, and they both turned away to the fireside.</p>
+    <div class="section-header" id="ch-32">32 — Phenomenon</div> <a href="#toc" class="back-to-top">↑ Back to top</a>
+      <p>The party had ridden out at first light, and the Praefectus had stayed in the yard through the whole of the morning, until they returned.</p>
+      <p>Four rode in, and the rest walked beside litters, ten of them, with canvas drawn over them.</p>
+      <p>The Praefectus approached the nearest rider.</p>
+      <p>"Well?" he said. "Well?"</p>
+      <p>The rider was young and it took him a moment to understand he was the one being addressed.</p>
+      <p>"Sir, we recovered six more of the fallen, as well as the four fallen the previous evening. The ground was—"</p>
+      <p>"Is he among them."</p>
+      <p>"No, sir."</p>
+      <p>"Then where."</p>
+      <p>"We don't know, sir. We searched as far as—"</p>
+      <p>"You searched." He bellowed. "You searched and you come back and tell me you don't know."</p>
+      <p>"Sir, every man who rode out yesterday is accounted for now. Six dead. Fifty-four returned. Centurion Marcellus is the only one who isn't."</p>
+      <p>"Then go out again," he said. "Now. Every man who can still sit a horse."</p>
+      <p>"Sir, the light—"</p>
+      <p>"I did not ask you the hour." He had hold of the rider's arm now. "You will turn this province inside out before you tell me a man of mine isn't anywhere. Men don't simply—"</p>
+      <p>"Praefectus."</p>
+      <p>Centurion Rufinus had come up behind him, and touched his arm.</p>
+      <p>"Let him go, sir. He's told you what there is."</p>
+      <p>"There is more. There has to be more."</p>
+      <p>"There isn't. Not today. Not from him."</p>
+      <p>The yard had gone quiet. The litters were coming through. A horse shifted somewhere behind him and whinnied.</p>
+      <p>"Sir," Rufinus said. "Not here."</p>
+      <p>"I am not finished—"</p>
+      <p>"You are finished here."</p>
+      <p>Centurion Draco took the other arm, and between the two of them, they took him into the record room off the praetorium and shut the door.</p>
+      <p>It was several minutes before he was calm enough to speak rationally.</p>
+      <p>"They saw that," he said.</p>
+      <p>"They saw a man who's lost more in two days than most commanders lose in a year," Draco said. "It will pass."</p>
+      <p>"It will not pass. Four men. Then a woman gone from my own house without a trace. Then a full century sent out and come back in pieces. Now this. My cousin. Gone. Not found. Just not there."</p>
+      <p>Neither centurion had an answer to this.</p>
+      <p>"You need to send word up the line," Rufinus said. "Tonight. Before it's a week old and looks like something you sat on."</p>
+      <p>"And say what." He sounded exhausted. "Say that seven women ended a patrol and left a witness on purpose. Say that a woman kept three years under guard walked out of a secure fort leaving no trace. Say a centurion, my own cousin, vanished off a battlefield, right under the noses of his own century. Say that the same century returned in total disarray, having been shattered by the same hands - by seven women. Say that the entire cavalry division of that century returned on foot, having had - every man of them - his steed cut down beneath him. And I have no consistent account of any of it because not one man among them saw it clearly enought to give account." He looked at them both. "Tell me which part of that I write down, so whoever reads it doesn't think I've lost my mind."</p>
+      <p>"Write what happened," Draco said. "Not what it means. Numbers. Names. What was seen, and by how many. Let them draw their own conclusions."</p>
+      <p>"And if their conclusion is that I imagined it?"</p>
+      <p>"Then it's their error, not yours," Rufinus said. "But you don't get to decide that by staying silent instead."</p>
+      <p>The Praefectus sat a long while at the table without touching the wax. Twice he started a line and stopped, reading back what he'd written.</p>
+      <p>In the end, he wrote it all. Numbers. Names. What was seen, and by how many. He left out the word "phenomenon", though it was the only word that could rightly describe what was happening. Written down, addressed to a man who'd never stood in his yard, it didn't make any of it easier to believe.</p>
+    <div class="section-header" id="ch-33">33 — Nobody There</div> <a href="#toc" class="back-to-top">↑ Back to top</a>
+      <p>Six days passed and no patrol had crossed the western ground.</p>
+      <p>Taya reported it each evening, back from whichever ridge had held her that day. Twuce to the north, three times to the east, and once to the south — a foraging party more than a patrol. To the west, nothing.</p>
+      <p>"They've stopped believing that ground is theirs," Tiata said, the third evening.</p>
+      <p>They made sure the fort knew they were still there.</p>
+      <p>An arrow went into the gatepost on the fourth night, about two inches from the sentry's shoulder. On the fifth day, a figure stood at the treeline in full daylight long enough for three separate men on the wall to swear to it.</p>
+      <p>*</p>
+      <p>The first day, he'd flinched at every shadow that crossed near the birch.</p>
+      <p>By the fourth, he'd stopped noticing anything aroind him.</p>
+      <p>He ate what was placed in front of him — bread, a strip of dried meat, whatever was left over — without looking up. He drank when the waterskin appeared near his knee. His wrists had been unbound since the second day.</p>
+      <p>Toria passed within a foot of him twice a day, on her way to the horses, and he'd stopped turning his head to follow her.</p>
+      <p>Thana had stopped needling him somewhere around the fifth night, only because she no longer got a response.</p>
+      <p>He answered Tiata once, on the sixth morning, when she crouched in front of him and asked, whether he was still capable of hearing her. He said something none of them could understand.</p>
+      <p>He had simply become a fixture of the camp — tethered, fed, and otherwise unremarked.</p>
+      <p>*</p>
+      <p>Taya caught the muster leaving the fort before it had cleared the gate, and was back at camp with the word before the column had covered a third of the ground.</p>
+      <p>"They're coming," she said. "Full strength again, and the Praefectus riding at the head of it this time. Not a patrol. A rescue."</p>
+      <p>There was no panic — the horses stayed tethered exactly where they stood, saddled and waiting.</p>
+      <p>They all slid silently into the treeline and watched the column approach. Tacita stayed at the birch until the column was almost on them.</p>
+      <p>She cut the tether at Marcellus's ankles with one stroke, and vanished into the foliage.</p>
+      <p>*</p>
+      <p>Draco had argued against the Praefectus riding out himself, but Rufinus had only asked how many men he wanted at his own back, and set about arranging them.</p>
+      <p>They approached with extreme caution, every man watching the trees. None of them had expected an easy day, in fact, many of them expected not to come back to the fort alive.</p>
+      <p>They found the camp — a fire still smoking where it had been kicked over rather than banked, bedding laid out around it in a rough circle, tack and gear stacked with the particular care of people who intended to come back to it. Horses stood tethered at the treeline's edge, saddled and waiting.</p>
+      <p>A form lay near the birch, half-curled on the ground. The grey wool dress Tove had thrown at his feet days before hung off his shoulders. He had no rope on his wrists, nor at his ankles. There was nothing holding him there at all.</p>
+      <p>The Praefectus was first into the clearing, and first to the form on the ground. He went down on both knees beside it and turned the face up out of the dirt — the same man whose forearm he'd gripped at his own gate, the same Marcellus he'd grown up alongside.</p>
+      <p>Marcellus's eyes found the Praefectus's and held there a moment, flat and still — wuthout recognition. He said nothing. He made no sound at all when the Praefectus said his name.</p>
+      <p>Rufinus bent down and took the Praefectus by the arm. "Come, sir."</p>
+      <p>He rose quietly, and the men behind him stooped and, lifting Marcellus between them, carried him out of the clearing.</p>
+      <p>*</p>
+      <p>Nothing came at them.</p>
+      <p>Every man in that clearing had spent the walk braced for an arrow out of the trees, a dart from somewhere unseen. They had come prepared to do whatever was necessary to secure Marcellus — to fight for him, to buy him, to beg for him.</p>
+      <p>The gear was real, stacked with the care of people who intended to return. So were the horses — tethered, saddled and waiting.</p>
+      <p>They didn't linger to search the treeline. They left the way they'd come, every man among them certain that eight pairs of merciless eyes were watching their every move.</p>
+    <div class="section-header" id="ch-34">34 — Rome on Its Head</div> <a href="#toc" class="back-to-top">↑ Back to top</a>
+      <p>They had put three ridges between themselves and the fort by dusk.</p>
+      <p>"I keep thinking about the gate," Tove said, turning a piece of kindling in her hands without feeding it to the fire yet. "Not tonight's gate. Tomorrow's. The next watchman who has to stand it, knowing what stood outside it last week and walked away without anyone catching a glimpse."</p>
+      <p>"He won't sleep," Thana said. "None of them will. We didn't have to kill the whole garrison to ruin their sleep for the season — we only had to send one man back to remind the rest what waiting for us feels like." She stretched toward the fire. "I've fought plenty who feared dying. This is the first time I've built one that fears living."</p>
+      <p>Taya nodded, not looking up from the arrow she was fletching. "A man afraid of dying is done costing you anything the moment he's dead. A man afraid of living carries it into every room he sits in, for as long as he lasts. That's worth more to us than half a garrison dead."</p>
+      <p>Thana laughed. "I won't argue that."</p>
+      <p>Toria had been quiet longer than usual. "I keep thinking about tonight's report," she said. "The one the Praefectus has to write now, once his hand stops shaking enough to hold the stylus." She looked into the fire rather than at any of them. "What does a man like that even say. <em>I lost a patrol. I lost a woman I kept three years and never once thought could leave. I lost a century, and my own cousin's mind besides, and none of it to an enemy I can name to a superior without sounding mad.</em> I'd almost pity the wax."</p>
+      <p>They all laughed.</p>
+      <p>"It won't stay at Lorch," Thilda said. "Whatever he writes goes up the line to someone who's never smelled that fort's air. That man reads numbers he can't reconcile, and he has two choices. Believe it, and admit the frontier's rotting. Or doubt it, and hope the next report proves him right." She fed the fire. "Either way, he won't sleep well either. Fear moves up a chain slower than it moves down one. But it does move up."</p>
+      <p>"That's the part I like best," Tove said, leaning forward. "Not just Lorch. Whoever sits above the man who sits above the Praefectus. Some official who's never thought about a frontier fort by name, holding a dispatch that says eight women undid a century and walked a Roman officer home in a dress, and nobody can say how it was done." She shook her head. "That's not a bad week for one Praefectus anymore. That's the whole of Rome on its head."</p>
+      <p>"You're imagining a very large collapse from one very small dress," Thana said.</p>
+      <p>"Am I. Rome's whole trick is convincing everyone that who stands over whom can never change. Man over woman. Captor over captive. Citizen over everyone who isn't." Tove nodded toward Taran. "Dress one man exactly the way he'd have dressed one of us, tether him exactly the way he tethered her, and you haven't just humiliated a centurion. You've shown every man who believed in that order that it isn't fixed. It only looked fixed because nobody had yet had the nerve to turn it around on them."</p>
+      <p>Taran hadn't spoken. She sat apart from the fire's full light, the bow across her knees, thumb moving along the grain.</p>
+      <p>"I only care what it's done to a brute who used to hand me a practice blade and call it generous," she said, finally, eyes narrowing. "Three years, he stood there and let his cousin show me off like a hound that had learned to heel. Now half a garrison lies awake wondering if the thing they can't see is standing at their own door." She smiled a thin smile with no warmth in it. "Let the empire crack if it wants to. I only wanted the one house to know it's as safe as it thought."</p>
+      <p>Tove's hand found her shoulder, but no further words were exchanged.</p>
+      <p>Taya let the quiet hold a moment. "I'd be careful how satisfied we let ourselves get, all the same. A frightened system doesn't only despair. Sometimes it hunts harder, because it can't afford to be seen doubting itself. The bigger the crack we imagine we've made, the more men Rome will decide it can spend proving the crack isn't there." She set the finished arrow down. "Tonight, we've earned the fire. Tomorrow, we should assume they're already deciding how much they're willing to lose finding out we exist."</p>
+      <p>"They already know we exist," Toria said.</p>
+      <p>"They know a story exists," Taya said. "There's a difference, and it's the difference that's kept us alive this long. Let's not spend it early because it felt good to imagine the size of what we'd done."</p>
+      <p>Tiata had let the whole of it run without steering it. Only now did she weigh in.</p>
+      <p>"All of that is true, and exactly how we meant it to be," Tiata said. She let the falx settle across her knees. "But Rome doesn't come apart because of one dead century, or one broken man, or one report a Praefectus can't bring himself to write plainly. It comes apart from years of it, done over and over, by people it never thought worth watching. Tonight was one weight added to the pile. There'll be others before we're finished." She looked around the fire. "Toria said as much, the first morning I rode with any of you. Not to beat Rome in open ground. To make the men running it start doubting the ground they're already standing on."</p>
+      <p>Tacita hadn't spoken. She fed the fire, reached over once and set her hand against Taran's arm, and went back to the fire.</p>
+    </div>
+  </div>
+  <script src="universal-header.js"></script>
+  <script src="universal-footer.js"></script>
+</body>
+
+</html>
