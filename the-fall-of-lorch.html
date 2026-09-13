@@ -148,10 +148,14 @@
  /* Collapsible TOC styles */
  .toc {
  background-color: var(--paper);
- padding: 25px;
+ padding: 14px 25px;
  margin: 30px 0;
  border-radius: 8px;
  border-left: 5px solid var(--rust);
+ }
+
+ .toc[open] {
+ padding: 25px;
  }
 
  .toc>summary {
@@ -160,8 +164,12 @@
  color: var(--ink);
  font-size: 1.25em;
  font-weight: 700;
- margin: 0 0 10px 0;
+ margin: 0;
  outline: none;
+ }
+
+ .toc[open]>summary {
+ margin: 0 0 10px 0;
  }
 
  .toc>summary::marker {
@@ -280,8 +288,7 @@
 
 <body>
  <div class="container">
- <h1>The Fall of Lorch</h1>
- <p><em>When Rome was Hamstrung in 233 AD</em></p>
+ <img src="images/cover.jpg" alt="The Fall of Lorch — When Rome was Hamstrung in 233 AD" style="display:block; margin:0 auto 20px auto; max-width:100%; height:auto; border-radius: 4px;">
  <hr id="toc">
  <details class="toc">
  <summary>Table of Contents</summary>
