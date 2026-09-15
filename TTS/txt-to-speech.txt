@@ -1,0 +1,1 @@
+edge-tts --voice en-US-AndrewMultilingualNeural --file script.txt --write-media output.mp3
