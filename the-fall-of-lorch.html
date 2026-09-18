@@ -168,15 +168,14 @@
  .toc ul {
  list-style: none;
  padding-left: 0;
- margin: 10px auto 0 auto;
+ margin: 10px 0 0 0;
  display: grid;
-	grid-template-columns: repeat(2, max-content);
+ grid-template-columns: repeat(3, 1fr);
  grid-auto-flow: column;
-	grid-template-rows: repeat(23, auto);
- column-gap: 50px;
+ grid-template-rows: repeat(16, auto);
+ column-gap: 30px;
  row-gap: 10px;
- justify-content: center;
- width: fit-content;
+ width: 100%;
  }
 
  .toc li {
@@ -187,7 +186,7 @@
  color: var(--ink);
  text-decoration: none;
  transition: color 0.2s;
-	font-size: 0.5em;
+ font-size: 0.58em;
  line-height: 1.3;
  display: block;
  white-space: nowrap;
@@ -201,9 +200,12 @@
  @media (max-width: 700px) {
  .toc ul {
  grid-template-columns: repeat(2, 1fr);
-            grid-template-rows: repeat(23, auto);
+ grid-template-rows: repeat(23, auto);
  column-gap: 16px;
  row-gap: 6px;
+ }
+ .toc a {
+ font-size: 0.5em;
  }
  }
 
@@ -278,7 +280,7 @@
 <body>
  <div class="container">
  <img src="images/cover.jpg" alt="The Fall of Lorch — When Rome was Hamstrung in 233 AD" style="display:block; margin:0 auto 20px auto; max-width:100%; height:auto; border-radius: 4px;">
- <br id="toc">
+ <hr id="toc">
  <details class="toc">
  <summary>Table of Contents</summary>
  <ul>
