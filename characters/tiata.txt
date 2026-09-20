@@ -4,7 +4,7 @@ NAME: Tiata
 
 APPEARANCE: Tall, solidly built. Long hair, dark blonde with a coppery tinge — tight braids on the left side, long and flowing on the right. Weathered, sun-worn features. Pale eyes, flat and steady.
 
-DRESS & EQUIPMENT: Fitted leather cuirass, riveted plates at chest and shoulders, worn over a long dark wool tunic and close-fitted trousers. Heavy fur mantle over the cuirass. High leather boots, worn soft with use. Falx carried two-handed as primary weapon. Sica sheathed at the hip as sidearm. Dress reads as functional, not rank-marked.
+DRESS & EQUIPMENT: Fitted leather cuirass, riveted plates at chest and shoulders, worn over a long dark wool tunic and close-fitted trousers. Heavy fur mantle over the cuirass. High leather boots, worn soft with use. Falx carried two-handed as primary weapon. Long sword sheathed at the left hip as sidearm. Dress reads as functional, not rank-marked.
 
 BACKGROUND: First appears alone in Dacia, standing over the body of a dead Roman surveyor. No family history, captivity, or prior events stated in the text. Joins Thana, Toria, Tacita, and Tigratavā; described as the first among them to survive by strategy rather than wits alone.
 
@@ -15,8 +15,8 @@ PRESENTING PERSONALITY: Matches her natural temperament closely. Speech repeated
 ROLE IN COMBAT: Close, efficient fighter, typically paired with a partner rather than operating alone. Unhurried and deliberate under pressure; pace in combat matches her pace in command.
 
 RELATIONSHIPS:
-- Thana, Toria, Tacita, Tigratavā — original core group; elicits each one's personal history in turn.
-- Thilda — asked to choose the group's direction before the route south is decided.
+- Thana, Toria, Tacita, Tigratavā — original core band; elicits each one's personal history in turn.
+- Thilda — asked to choose the band's direction before the route south is decided.
 - Taran — states explicit terms of trust upon her capture; later returns her recovered bow.
 - Marcellus — orders his armor stripped following his capture.
 
