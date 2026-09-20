@@ -35,7 +35,7 @@
  More voices behind them now, closer than before, torchlight starting to bounce off the walls at the mouth of the lane. Tacita caught Toria's sleeve and hauled her sideways through a gap between two buildings barely wide enough for a shoulder, and Thana followed. There was only time to run and trust that the woman who'd gotten a lion loose in a guarded arena knew how to get three women out of the city.
  They lost the torches in the tanners' quarter, where the smell was bad enough that even a determined watch didn't want to linger, cutting through standing water and worse.
  By the time Byzantium's outer wall rose up ahead of them, the pursuit had scattered into search parties combing the city, calling to each other across distances that told the women that the immediate danger was past.
- They avoided the gate, and Tacita led them to a stretch of wall where the stonework had crumbled enough for a foothold. They scaled the wall, dropping into the scrub beyond breathing hard.
+ They avoided the gate, and Tacita led them to a stretch of wall where the stonework had crumbled enough for a foothold. They scaled the wall, dropping into the scrub beyond, breathing hard.
  They stayed close to the wall that night, watching the gates, listening for a search party to emerge.
  The night was quiet, but at first light, a search party came out from the city gate, four men, unhurried, assuming the fugitives to be miles from the city by now.
  Tacita spotted them first. She watched them long enough to learn their spacing, then went back for the other two.
@@ -80,7 +80,7 @@
  5 — The Falx
  Tiata: tee-AH-tuh (Dacian: "daughter of the strong")
  By midwinter the Danube had frozen solid, the ice thick enough to support the horses. Tigratavā had crossed this way many times before to reach her lands on the northern bank, and she led them now, a little further west, through into the mountains.
- Dacia in winter was bleak. It had been a Roman province for over a hundred and thirty years, but the imperial infrastructure hadn't altered the wild landscape.
+ Dacia in winter was bleak. It had been a Roman province for a hundred and thirty years, but the imperial infrastructure hadn't altered the wild landscape.
  Tigratavā sighted the woman from a rise, downwind, unseen. She watched for longer than usual, then came back to the others with her report.
  "One woman. A local, not Roman — the falx makes that plain enough, and the fact that she's standing over a dead surveyor and isn't hiding the body." She paused, turning something over in her mind. "She's not hiding herself either. Looks like she wants to be found. By the right people."
  "And are we the right people?" Thana asked, amused by her own question.
@@ -284,7 +284,7 @@ They all sat silent, waiting for her to go on.
  "Good bronze to melt down, whenever someone gets around to it," Tove said.
  Two days past Dalkingen, at a steep, wooded gorge where a creek cut through the rock, the white limestone wall came to a sudden, right-angled halt. Taking its place was a wooden palisade made of oak trunks split and driven upright into an earthen rampart, with a ditch wide enough to break a horse's stride fronting it. It turned sharply north, running deep into the forest. 
  This was the Upper Germanic line. And the Alemanni were constantly breaking through it.
- Tigratavā found a recent breach less than an hour before sunset. A twenty-pace section of the split oak had been pulled forward and broken, scarred with old scorch marks from fire. It must have been breached recently, as no repairs had been carried out. Down in the bottom of the ditch lay two auxiliaries, stripped of boots and armor, left where they had fallen only days earlier.
+ Tigratavā found a recent breach less than an hour before sunset. A twenty-pace section of the split oak had been pulled forward and broken, scarred with old scorch marks from fire. It must have been breached recently, as no repairs had been carried out. Down in the bottom of the ditch lay two auxiliaries, stripped of boots and armour, left where they had fallen only days earlier.
  "The garrisons must be seriously undermanned here," Tiata said, looking down at the bodies. "They're not even holding the palisade."
  "Who would have made this breach?" Toria asked.
  "Alemanni for sure," Tiata said. "They're still young, as a people. Still deciding what they are. That makes them dangerous in ways older tribes aren't — nothing to lose yet that they haven't already lost once in getting here."
@@ -701,7 +701,7 @@ They all sat silent, waiting for her to go on.
  "What's virtus," asked Toria.
  "Virtus? It's a joke," said Tove.
  Toria looked baffled. "I don't get it."
- "It's the Roman's idea of what makes a man," said Tigratavā. "They think only men have the ability to act decisively under pressure."
+ "It's the Romans' idea of what makes a man," said Tigratavā. "They think only men have the ability to act decisively under pressure."
  Toria burst into laughter. "He made a decision all right."
  "Vir!" said Thana, between snorts of laughter, "looks more like a vir-gin now!"
  They were all laughing now.
@@ -1018,7 +1018,7 @@ They all sat silent, waiting for her to go on.
  The order went out through Rufinus. Within a quarter hour Ligarius had two men in front of him, in the record room off the praetorium, the Praefectus standing by while Ligarius asked the questions.
  Both accounts agreed on the key points. Neither man had seen anything at the tree line, or heard a sound before the sentry beside him fell. Both had the timing to within moments of each other. Neither could say from what distance the shot had come, only that it came from deep within in the tree line.
  Ligarius set down his stylus and closed his eyes for a moment before he spoke again.
- "Two dead on the wall," he said. "Struck within the same breath, on two sides of this fort that face away from each other. A patrol taken on a third side, the same evening, by the same method that was used on the first attack. One survivor released, stripped, sent back walking." He looked up at the Praefectus. "I've spent the last two days telling myself this was contained to the ground west your walls. I don't know what to think now."
+ "Two dead on the wall," he said. "Struck within the same breath, on two sides of this fort that face away from each other. A patrol taken on a third side, the same evening, by the same method that was used on the first attack. One survivor released, stripped, sent back walking." He looked up at the Praefectus. "I've spent the last two days telling myself this was contained to the ground west of your walls. I don't know what to think now."
  "Then it's not seven women in a forest," the Praefectus said. "It's something that can stand at my own walls and put arrows through my sentries."
  "It's still seven women," Ligarius said. "Or eight. I haven't changed my count. What's changed is where I believed the edge of their reach to be." He stood. "I know where their camp is. I've stood in it myself. And by every report I've gathered since I arrived, it hasn't moved in over two weeks."
  "You think that carelessness."
@@ -1209,4 +1209,4 @@ They all sat silent, waiting for her to go on.
  Meaning: "thunder"
  Taran is the last of the eight, first seen while still in captivity at Fort Lorch, standing silent by a wall as the Praefectus displays her to visiting officers as proof of Rome's control even beyond the frontiers. Taken from Caledonia as an exotic curiosity, she has spent three years treated, in her own words, like a hound that had learned to heel. She breaks her captivity the night a frightened soldier's account of an ambush reaches the household, lifting weapons from the Praefectus's own armoury before scaling the fort wall in the dead of night.
  From the little we are told about her life in Caledonia, we can see that her speed and dexterity was more than a match for a Roman soldier. This fiery-tempered nature never burned out during her captivity, and even the practice blades she was proffered were used to keep her skills sharp. Over the three years of captivity, she learned a unique cold patience that now acts as a faucet through which she channels her frenzy, however, it never chilled her natural warmth which resurfaces the moment she allows herself to relax into Tove's embrace.
- In combat, Taran appears to be the embodiment of a contradiction. She has the immense patience required to be a highly skilled archer, and other times, she's a screaming banshee who drops from overhead onto five armed men with her twin sgian already flying. The tuagh she has at her belt has not yet seen action since Caledonia, but would no doubt prove as deadly in her hands as her other weapons.
+ In combat, Taran appears to be the embodiment of a contradiction. She has the immense patience required to be a highly skilled archer, and other times, she's a screaming banshee who drops from overhead onto five armed men with her twin blades already flying. The tuagh she has at her belt has not yet seen action since Caledonia, but would no doubt prove as deadly in her hands as her other weapons.
