@@ -1,0 +1,1342 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Pride before Limesfall</title>
+<meta content="The hubris that undermined an empire" name="description"/>
+<meta content="ADB" name="author"/>
+<meta content="Pride before Limesfall" property="og:title"/>
+<meta content="The hubris that undermined an empire" property="og:description"/>
+<meta content="article" property="og:type"/>
+<link href="favicon.ico" rel="icon" type="image/x-icon"/>
+<link href="https://fonts.googleapis.com" rel="preconnect"/>
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300;1,400&amp;family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&amp;family=Inconsolata:wght@300;400;500&amp;display=swap" rel="stylesheet"/>
+<style>
+ :root {
+ --ink: #1a1410;
+ --paper: #f4efe6;
+ --aged: #e8dfc8;
+ --rust: #8b3a2a;
+ --gold: #a07830;
+ --faded: #7a6e5f;
+ --rule: #c8bda8;
+ --shadow: rgba(26, 20, 16, 0.12);
+ --noise: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='300' height='300'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='300' height='300' filter='url(%23n)' opacity='0.04'/%3E%3C/svg%3E");
+ }
+
+ body {
+ max-width: 860px;
+ margin: 0 auto;
+ background-color: var(--paper);
+ background-image: var(--noise);
+ color: var(--ink);
+ font-family: 'Libre Baskerville', Georgia, serif;
+ font-size: 16px;
+ line-height: 1.7;
+ box-shadow: 0 0 60px rgba(0, 0, 0, 0.55), inset 0 0 120px rgba(139, 105, 20, 0.04);
+ display: flex;
+ flex-direction: column;
+ min-height: 100vh;
+ }
+
+ .container {
+ background-color: var(--aged);
+ padding: 40px;
+ box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+ }
+
+ h1 {
+ color: var(--ink);
+ border-bottom: 3px solid var(--rust);
+ padding-bottom: 10px;
+ margin-top: 0;
+ }
+
+ .section-header {
+ color: var(--ink);
+ font-size: 1.25em;
+ font-weight: bold;
+ margin-top: 50px;
+ margin-bottom: 20px;
+ padding-top: 30px;
+ border-top: 3px solid var(--rust);
+ }
+
+ .round-header {
+ color: var(--ink);
+ font-size: 1.3em;
+ font-weight: bold;
+ margin-top: 30px;
+ margin-bottom: 15px;
+ }
+
+ p {
+ margin: 10px 0;
+ }
+
+ .scene-break {
+ text-align: center;
+ color: var(--rust);
+ letter-spacing: 0.4em;
+ margin: 30px 0;
+ font-size: 1.1em;
+ }
+
+ .back-to-top {
+ display: block;
+ text-align: right;
+ margin: 8px 0 10px 0;
+ color: var(--ink);
+ font-size: 0.7em;
+ text-decoration: none;
+ }
+
+ .back-to-top:hover {
+ color: var(--rust);
+ }
+
+ .char-guide {
+ color: var(--rust);
+ font-size: 0.85em;
+ margin: 0 0 20px 0;
+ line-height: 1.6;
+ }
+
+ .char-guide .char-line {
+ margin: 0;
+ }
+
+ /* Collapsible TOC styles */
+ .toc {
+ background-color: var(--paper);
+ padding: 14px 15px;
+ margin: 30px 0;
+ border-radius: 8px;
+ border-left: 5px solid var(--rust);
+ width: auto;
+ box-sizing: border-box;
+ }
+
+ .toc[open] {
+ padding: 15px;
+ }
+
+ .toc>summary {
+ list-style: none;
+ cursor: pointer;
+ color: var(--ink);
+ font-size: 1.25em;
+ font-weight: 700;
+ margin: 0;
+ outline: none;
+ }
+
+ .toc[open]>summary {
+ margin: 0 0 10px 0;
+ }
+
+ .toc>summary::marker {
+ content: "";
+ }
+
+ .toc>summary::-webkit-details-marker {
+ display: none;
+ }
+
+ .toc>summary::before {
+ content: "▾";
+ display: inline-block;
+ margin-right: 8px;
+ transition: transform 150ms ease;
+ color: var(--rust);
+ }
+
+ .toc[open]>summary::before {
+ transform: rotate(0deg);
+ }
+
+ .toc:not([open])>summary::before {
+ transform: rotate(-90deg);
+ }
+
+ .toc ul {
+ list-style: none;
+ padding-left: 0;
+ margin: 10px 0 0 0;
+ display: grid;
+ grid-template-columns: repeat(3, 1fr);
+ grid-auto-flow: column;
+ grid-template-rows: repeat(10, auto);
+ column-gap: 30px;
+ row-gap: 10px;
+ width: 100%;
+ }
+
+ .toc li {
+ margin: 0;
+ }
+
+ .toc a {
+ color: var(--ink);
+ text-decoration: none;
+ transition: color 0.2s;
+ font-size: 0.58em;
+ line-height: 1.3;
+ display: block;
+ white-space: nowrap;
+ }
+
+ .toc a:hover {
+ color: var(--rust);
+ text-decoration: underline;
+ }
+
+ @media (max-width: 700px) {
+ .toc ul {
+ grid-template-columns: repeat(2, 1fr);
+ grid-template-rows: repeat(15, auto);
+ column-gap: 16px;
+ row-gap: 6px;
+ }
+ .toc a {
+ font-size: 0.5em;
+ }
+ }
+
+ .toc>summary:focus-visible {
+ box-shadow: 0 0 60px rgba(0, 0, 0, 0.55), inset 0 0 120px rgba(139, 105, 20, 0.04);
+ border-radius: 6px;
+ }
+
+ /* Character Index cards */
+ .char-card {
+ margin: 0 0 50px 0;
+ overflow: hidden;
+ }
+
+ .char-card::after {
+ content: "";
+ display: block;
+ clear: both;
+ }
+
+ .char-card .char-portrait {
+ float: right;
+ width: 280px;
+ margin: 0 0 15px 25px;
+ }
+
+ .char-card .char-portrait img {
+ display: block;
+ width: 100%;
+ height: auto;
+ border: 2px solid var(--rust);
+ border-radius: 12px;
+ }
+
+ .char-card .char-name {
+ font-size: 1.3em;
+ font-weight: bold;
+ color: var(--ink);
+ margin: 0 0 10px 0;
+ }
+
+ .char-card .char-facts {
+ margin: 0 0 15px 0;
+ color: var(--rust);
+ font-size: 0.9em;
+ line-height: 1.7;
+ }
+
+ .char-card .char-facts p {
+ margin: 0;
+ }
+
+ .char-card .char-facts .fact-label {
+ font-weight: bold;
+ color: var(--ink);
+ }
+
+ .char-card p.char-para {
+ margin: 10px 0;
+ }
+
+ @media (max-width: 700px) {
+ .char-card .char-portrait { width: 220px; }
+ }
+
+ @media (max-width: 560px) {
+ .char-card .char-portrait { float: none; width: 100%; max-width: 320px; margin: 15px auto; }
+ }
+ </style>
+</head>
+<body>
+<div class="container">
+<h1 style="text-align:center; border-bottom:none; margin-bottom:0;">Pride before Limesfall</h1>
+<p style="text-align:center; font-style:italic; color:var(--faded); margin-top:0;">The hubris that undermined an empire</p>
+<br id="toc"/>
+<details class="toc">
+<summary>Table of Contents</summary>
+<ul>
+<li><a href="#ch-1">1. The Same Fire</a></li>
+<li><a href="#ch-2">2. The Archers</a></li>
+<li><a href="#ch-3">3. Raetian Camp</a></li>
+<li><a href="#ch-4">4. Empty Ground</a></li>
+<li><a href="#ch-5">5. Buch</a></li>
+<li><a href="#ch-6">6. The Bronze Man</a></li>
+<li><a href="#ch-7">7. The Emperor’s Nephew</a></li>
+<li><a href="#ch-8">8. Toppled</a></li>
+<li><a href="#ch-9">9. Empty Traces</a></li>
+<li><a href="#ch-10">10. The Burning Horizon</a></li>
+<li><a href="#ch-11">11. Cohors III Thracum</a></li>
+<li><a href="#ch-12">12. The Kiln</a></li>
+<li><a href="#ch-13">13. Ala</a></li>
+<li><a href="#ch-14">14. A Thousand Horse</a></li>
+<li><a href="#ch-15">15. The Dust Cloud</a></li>
+<li><a href="#ch-16">16. Two Arrows</a></li>
+<li><a href="#ch-17">17. Mausoleum</a></li>
+<li><a href="#ch-18">18. Two Stories</a></li>
+<li><a href="#ch-19">19. The Vow</a></li>
+<li><a href="#ch-20">20. Fire the Rest</a></li>
+<li><a href="#ch-21">21. Nefas</a></li>
+<li><a href="#ch-22">22. Castra Regina</a></li>
+<li><a href="#ch-23">23. The Omen</a></li>
+<li><a href="#ch-24">24. Acting Command</a></li>
+<li><a href="#ch-25">25. Minor Disturbances</a></li>
+<li><a href="#ch-26">26. Don&#x27;t Dawdle</a></li>
+<li><a href="#ch-27">27. Defiance</a></li>
+<li><a href="#ch-28">28. Foolish Lads</a></li>
+<li><a href="#authors-note">Author's Note</a></li>
+</ul>
+</details>
+<div id="content">
+<div class="section-header" id="ch-1">1 — The Same Fire</div> <a class="back-to-top" href="#toc">↑ Back to top</a>
+<p>Brocchus took the morning watch on the western rampart at Aalen. The sun was already clear of the hills behind him, and the smoke was still rising in the west.</p>
+<p>It had first been reported the previous forenoon, a thin grey line on the horizon. By noon it was a column, and by dusk it was a wall of smoke. This morning it was rising from the same place, leaning north on the wind.</p>
+<p>Decurion Senecio came up the stair a short time later. He looked west for a while before he spoke.</p>
+<p>"Is that the same fire we saw yesterday?"</p>
+<p>"It's the same one, sir," Brocchus said. "The night watch say it glowed all night, and they couldn't see any change in it toward dawn."</p>
+<p>"Did anything come in overnight? A rider, a lamp from any of the towers?"</p>
+<p>"Nothing at all, sir. I had it from the night watch just now. They woke the beacon watch twice to be certain nothing had been missed."</p>
+<p>"What about Böbingen or Schirenhof?"</p>
+<p>"Nothing from either, sir. Both reports last evening said all quiet, and we haven't heard from them since."</p>
+<p>"And the other towers along the road?"</p>
+<p>"The same, sir. Every one of them reported all quiet at dusk."</p>
+<p>Senecio was silent for a moment. "Every one of them can see that smoke," he said, "and not one has thought it worth mentioning. Well, I'll take it to the Praefectus and see what he makes of it."</p>
+<p class="scene-break">⁂</p>
+<p>Praefectus Alae Marcus Aurelius Antoninus Raeticus had been raised in Raetia under the emperor Marcus Aurelius Antoninus Augustus, known in the latter years of his reign as Caracalla. His father had named him in the emperor's honour, and he had always felt a personal attachment to the Limes Gate at Dalkingen, where a bronze statue of his emperor stood above the portal. When he received his posting to Aalen, he knew that the favour of the gods was with him, for it made him guardian of the monument to his namesake.</p>
+<p>Praefectus Raeticus was seated at his table when Senecio was admitted to make his report. He asked how long the fire had been burning and what had been done the previous day when the smoke was first sighted.</p>
+<p>Senecio had not been idle the previous day. He had discussed the smoke with one of the Praefectus's aides, and they had decided not to bother him with it until they had answers back. They had sent to every post on the Remstal road, and the answers had all come back by dusk with nothing to report.</p>
+<p>"A haystack doesn't burn for a whole day," Raeticus said. "A farmstead goes up in an hour and leaves nothing much to smoke afterwards. So what does burn for a day, Senecio?"</p>
+<p>"A fort, sir, or a vicus. Something with a great deal of timber in it, and probably a great deal of grain."</p>
+<p>"And every post between here and it has nothing to report. That is the part I find hardest to accept. A fire that size can be seen from every one of them, and not one of them has anything to say about it."</p>
+<p>He considered it. It was not enough to justify calling out the ala. If he turned out a wing of cavalry for a fire he couldn't name, the whole province would want to know why, and he might be wrong. But he could not sit and watch it either.</p>
+<p>"I want eight riders," he said. "Yours, since you've seen it for yourself. You choose the other seven, and I want them fast and light, with no remounts. Find out where the fire is and what is burning, then bring word back as quick as you can."</p>
+<p>"And if there's something out there to fight, sir?"</p>
+<p>"Then you'll have found something I need to hear about. You find it, you report to me, and I'll decide what we do about it." He paused. "And Senecio, no heroics."</p>
+<p class="scene-break">⁂</p>
+<p>They left within the hour, riding west along the ridge road. It was a good twenty miles to Lorch, and the going was slow — the road hugged the high ground rather than running straight — and Senecio kept to a pace the horses could hold without arriving spent.</p>
+<p>The smoke stayed ahead of them the whole way and never seemed to come any nearer.</p>
+<p>Böbingen looked ordinary. The officer of the day came out to meet them and said all was well.</p>
+<p>"You can see that from here," Senecio said, pointing west.</p>
+<p>"I can see it well enough, Decurion. But that's Germania, that is. Nothing to do with us. We've had a quiet week, we sent in the usual report, and there's been nobody through from that direction and no word of trouble."</p>
+<p>"Has anyone from this fort gone to look?"</p>
+<p>The officer looked at the smoke, then at Senecio. "Look at it, Decurion? Whatever for? It isn't ours."</p>
+<p>It was plain the question hadn't occurred to him. Senecio thanked him and rode on.</p>
+<p>Schirenhof was much the same, although the officer there seemed less comfortable about it.</p>
+<p>Beyond Schirenhof the road climbed. At the top of the rise the smoke was no longer on the horizon but rose from behind the next ridge, and the wind brought the smell of it up the valley. It was wood smoke, with burnt grain in it, and scorched hide, and something else none of them wanted to name.</p>
+<p>Senecio halted, and the others closed up around him.</p>
+<p>"That's Lorch," Bassus said. "It has to be. It's the last fort on the line, right at the bend, and there's nothing else out there big enough to make a fire like that."</p>
+<p>"Then it isn't ours," Ursio said. "Not from here on. Lorch belongs to the Germanic command, not to Raetia."</p>
+<p>"The Praefectus told us to find out where the fire is and what is burning," Bassus said. "Well, now we know. I'd say that's the end of our errand, and we can go back and tell him so."</p>
+<p>"He said to find the source of it," Senecio said. "He didn't say to stop at the province boundary."</p>
+<p>"And if the source turns out to be somebody else's fort?"</p>
+<p>"Then somebody else's fort has been burning since yesterday morning, and nobody at Aalen or Böbingen or Schirenhof has been told a word about it. If it were ours, I'd want to be told. I don't see why that should be any different because it isn't."</p>
+<p>"Perhaps they have been told," Ursio said. "Perhaps everyone's been told except us."</p>
+<p>"Then I'd like to know why. Orders are orders — we go on to confirm, and then we go home."</p>
+<p class="scene-break">⁂</p>
+<p>They came out of the trees to the east of Lorch, and Senecio halted them at three hundred paces.</p>
+<p>Beyond the wall, the column of smoke was continuing to rise, though less than earlier in the day. The gate was open and they could see the yard was deserted. The stables were a heap of charred timber with the roof fallen in, still glowing in places. The granary had lost its roof, and the grain inside it smouldered. A long shed near the wall had burned down to embers, which flared up whenever the wind caught them. There was no sign of life anywhere.</p>
+<p>Ursio called out and his voice echoed off the wall. There was no response. A beam fell somewhere inside, and sparks went up over the rampart.</p>
+<p>"Decurion," Bassus said, "there might be wounded in there. Men trapped, or lying somewhere they can't call out from. We ought to at least go up to the gate."</p>
+<p>"Look at the roofs, Bassus, and look at that gate. It's standing wide open and nobody is closing it. If there were a living man in that fort he'd be at the gate waving at us, and I'm not taking eight men into a place where the roofs are still coming down."</p>
+<p>"Then where have they all gone?"</p>
+<p>"I don't know," Senecio said. "That's what we're here to find out for the Praefectus."</p>
+<p>They circled the fort at three hundred paces, keeping it on their left. There were no dead men, which was the strangest thing about it. Three dead horses lay on the approach to the gate, stripped of saddle and bridle. Arrows stood in the turf below the wall, forty or fifty of them, some of them broken, and at that distance Senecio couldn't tell whose they were. There were cart-ruts on the road, many of them and deep, all running the same way.</p>
+<p>Senecio dismounted and inspected the tracks. "They've simply abandoned the fort. All of them," he said. "Judging by the tracks, it was the entire company, not a reduced force."</p>
+<p>"So no large losses from the raid," said Ursio.</p>
+<p>"I don't think it was a raid," Senecio said. "It's peculiar. An unraided, abandoned, burning fort."</p>
+<p>Senecio stood and returned to his mount. "Let's head back," he said, gripping the pommel to swing himself into the saddle.</p>
+<p>There was a sharp crack, and Senecio's saddle lurched under his hand, sending him tumbling backwards into the mud. The bronze buckle of his girth had shattered, the strap fell away, and the saddle slid off the horse's back to land beside him in the mud. He got to his feet and took hold of the reins to calm his rearing horse.</p>
+<p>"Sir, are you injured?" asked Ursio.</p>
+<p>"I'm fine," Senecio said. "Did any of you see where that shaft came from?"</p>
+<p>"I'd say from the south, sir," Bassus said, "judging by where it lodged itself."</p>
+<p>He pointed to Senecio's left, where the arrow was buried in the mud up to the fletching. Senecio walked across and pulled it out. "It's a trilobate head," he said. "and a very heavy shaft."</p>
+<p>A second arrow struck the cheek strap of Bassus's bridle at the bit ring, cutting it clean through, and the left side of the headstall dropped. The rein went slack in his hand. The horse tossed its head, free of the bit, and Bassus threw both arms around its neck to keep his seat.</p>
+<p>"That was from the south, too!" Ursio shouted. "Both of them from the south, out of those trees! I saw the second one go past me, someone is in those trees!"</p>
+<p>Then an arrow struck his own saddle with a thump. It stood in the saddle horn a hand's breadth from his thigh, buried a thumb's length in the wood. He stared at it, then took hold of it with both hands. It took him two heaves to pull it free.</p>
+<p>"That one didn't come from the south," Bassus said. "There's no man in those hazels who put that into Ursio's saddle from where he's sitting. It came from the north."</p>
+<p>"It's a completely different head, too!" said Ursio. "This one's a broadhead."</p>
+<p>They turned in their saddles. To the north there was open ground, a line of scrub, and the wall of the fort. Nothing moved there either.</p>
+<p>"We've seen what we need to here," Senecio said. "It's time we were heading back with our report."</p>
+<p>He climbed onto the bare back of his mount and dug his knees in to keep his seat.</p>
+<p>"Let's go. Close order, at a canter, and nobody breaks the line for any reason. Bassus, can you hold that horse without a bit?"</p>
+<p>"I can hold it, Decurion, though it'll be my knees and my prayers doing the work and not the reins."</p>
+<p>They rode east, leaving the smoldering fort behind them.</p>
+<p>More arrows came at intervals along the road, each one just when the men had begun to relax. The first went through a water-skin hanging from one of the saddles. The man swore, looked at his leg, and noted that the arrow had missed him by a couple of fingers. The second was driven into the road at a stream crossing, exactly where the lead horse would have put its forehoof. The horse shied, the one behind shied into it, and for a moment the column was a tangle of legs.</p>
+<p>"They're toying with us," Ursio said, when Senecio had got it straightened out. "That's what it is. Every arrow so close it could have killed one of us, and every one of them just missing."</p>
+<p>"They know what they're doing," Senecio said. "And I don't like it."</p>
+<p>"I saw one," one man said. "Back there in the birches on the left. Something pale, moving. I'd swear to it."</p>
+<p>"That was a bird," said the man beside him.</p>
+<p>"It wasn't a bird."</p>
+<p>"I was looking right at that spot, and there was nothing there."</p>
+<p>"You were looking at the road, that's what you were doing."</p>
+<p>"That's enough, both of you," Senecio said.</p>
+<p>"Sarmatians," Bassus said, from the back of his unruly horse. "Who else shoots like that? Who else would waste an arrow on a buckle just to make a point?"</p>
+<p>"Sarmatians? Here?" Ursio said. "We're a month's ride from the nearest one, Bassus, and you know it."</p>
+<p>"Then you tell me what they are."</p>
+<p>"Men who can shoot," Senecio said, "and who want us to know it. That's all we know, and I'll thank you both to keep quiet."</p>
+<p>Further back another man muttered that the road was cursed and they should never have come. Senecio wheeled his bareback horse on him and said he would flog the next man who spoke.</p>
+<p>They came out of the woods with the horses blowing and the light going. Aalen was in front of them now, and figures on the rampart were turning to look.</p>
+<p>The last arrow came within sight of the sentries. It took the crest off Senecio's own helmet, close enough that he felt it pass.</p>
+<p class="scene-break">⁂</p>
+<p>The Praefectus heard them in the principia with the lamps lit.</p>
+<p>Senecio stood with Bassus beside him, still holding his horse's cut headstall. Ursio told the story of the saddle horn. Raeticus let them speak.</p>
+<p>Lorch was empty and burning. The gate was open, and there was nobody at it. There were no dead men, but there were dead horses, and arrows in the turf below the wall, and cart-ruts on the road.</p>
+<p>"Which way did those ruts run, Senecio?" Raeticus asked.</p>
+<p>"West, sir, or north-west."</p>
+<p>Raeticus said nothing for a moment. The garrison had left, and nobody had sent word east. He put that aside for the time being. "Now the arrows. Where were you when the first one struck, and where do you think the man who loosed it was standing?"</p>
+<p>They told him. The south twice, and the north once. Then several more arrows at intervals along the road, and not one of them into a man.</p>
+<p>"Not one," Raeticus said.</p>
+<p>"Not one, sir."</p>
+<p>He looked at the lamp for a while. "I have seen this done before," he said at last. "On the lower Danube, when I was a young officer. Two Sarmatian horse-archers took a patrol apart over the course of a day, and they didn't kill a single man. They wanted the officer to understand that he was vulnerable, and that they were choosing not to kill. Two men, mind you, on their own ground, on horses bred for exactly that work."</p>
+<p>"Sarmatians, sir?" Bassus said. "That's what I said on the road."</p>
+<p>"I know it's what you'd think, Bassus, but no. The nearest Sarmatians are on the Danube, hundreds of miles east of here. It isn't them." He turned to Senecio. "How far apart were the shots from the south and the shot from the north?"</p>
+<p>"It was about a hundred and fifty paces from the south trees to where we stood, sir, perhaps two hundred. And the north shot came only a few heartbeats after the second one from the south."</p>
+<p>"And the shot at the stream, and the last one outside the gate?"</p>
+<p>"The stream was a mile or so down the road, sir, and the last one was here at our own gate, the better part of twenty miles from the first, near enough."</p>
+<p>"And you were riding hard the whole way, at a canter, and you never once saw a man."</p>
+<p>"Not one, sir."</p>
+<p>Raeticus laid both hands flat on the table. "Then consider it. One archer might account for the first three shots, or two if they were very good. But nobody does that and is also waiting at a stream miles down the road, and again outside my own walls, ahead of a column riding at a canter. It isn't two men. Nor is it a war-party, or every one of you would be dead. It's a band, twenty or thirty of them, spread out along the road and placed there deliberately, every one of them able to do that with a bow."</p>
+<p>Nobody spoke.</p>
+<p>He went to the window. The west was dark. "Double the western watch tonight," he said. "And Senecio."</p>
+<p>"Sir."</p>
+<p>"Go and get some sleep. You need it."</p>
+<div class="section-header" id="ch-2">2 — The Archers</div> <a class="back-to-top" href="#toc">↑ Back to top</a>
+<p>It was well past dark when Tigratavā, Taran, and Thilda rode in.</p>
+<p>"Well?" Thana said, from beside the fire. "We've had all night to invent our own version. In mine you took the garrison single-handed."</p>
+<p>"Nothing so dramatic," Tigratavā said, and took the food Tove passed her before she said anything else. "Eight riders came out of Aalen. I picked them up on the road well before they came in sight of the fort. They held at three hundred paces, circled it once, dismounted to look at the tracks and the arrows in the turf, called out at the gate — and rode off without setting foot past the tree line."</p>
+<p>"They didn't go in," Tiata said.</p>
+<p>"Not past the tree line. Whatever they came to learn, they decided they already had it."</p>
+<p>"And you let them ride home with that," Tiata said. "And nothing else to carry."</p>
+<p>Tigratavā looked at her. Tiata's mouth moved, close to a smile, and she let it go.</p>
+<p>"Two arrows caught them before they'd got back into the saddle to leave," Tigratavā said. "One took a girth buckle off clean. He went down in the mud reaching for the pommel. The second went through a bridle strap on the man beside him."</p>
+<p>"I had the north, with Taran," Thilda said.</p>
+<p>"One shot," Taran said, and made no attempt to hide the satisfaction in it. "I put a broadhead into his saddle horn close enough that he'd have felt it pass his leg. What he said afterward carried further than the arrow did."</p>
+<p>Thilda's mouth twitched, not quite a laugh. "He wasn't quiet about it."</p>
+<p>"Thilda took me ahead to Aalen after that," Taran said. "We wanted to be in position before they got home."</p>
+<p>"There's a cut east of here that saves what the road loses going round the ridge," Thilda said. "It's rough going if you don't know it."</p>
+<p>"You stayed with the column the whole way," Tiata said, to Tigratavā.</p>
+<p>"Yes, I stuck to the trees alongside the road. My mare is bred for open ground, not trees, but she never faltered. I gave them a few more arrows. One went through a waterskin — missed the man's leg by a hair's breadth. I put one into the ground just where the lead horse was about to put his forefoot. That one had several horses stumbling over each other."</p>
+<p>"We were waiting for them outside Aalen," Taran said. "Close to the wall."</p>
+<p>"That last shot was great," Thilda said. "You took the crest clean off the decurion's helmet."</p>
+<p>"Right outside his own gate," said Taran, laughing, "in front of however many men watching from the wall."</p>
+<p>"The rooster lost his tail," said Tove. "He didn't have much left to crow about, then."</p>
+<p>"Chicken <em>Fama</em>," joked Thana.</p>
+<p>"You had all the excitement today," Toria said. "I want to be closer to the action. Even if I can't fight till my arm heals, I can at least watch the fun."</p>
+<p>Tove pressed a hand to her chest. "I found you a nice little hollow with good water and thick cover, and this is the thanks I get?"</p>
+<p>"That's it," said Toria. "Too quiet for me."</p>
+<p>"I think you're right, Toria," Tiata said. "Lorch is finished. Raetia needs to learn about us next." She looked to Tigratavā. "I don't suppose you had a chance to notice any good sites today."</p>
+<p>"Not today," Tigratavā said. "We were rather occupied watching stumbling horses and bareback riders — Thilda knows the area better than I do."</p>
+<p>"Of course," Tiata said. "Thilda, you'd know where to find cover near Aalen."</p>
+<p>Thilda nodded. "Yes, there's a few sites I have in mind. I'd need to see what they're like now, because it's a while since I've camped in Raetia."</p>
+<div class="section-header" id="ch-3">3 — Raetian Camp</div> <a class="back-to-top" href="#toc">↑ Back to top</a>
+<p>They left at daybreak and made good time on the road, and by midday the land ahead had opened out enough that Aalen showed as a smudge of roofs on the horizon.</p>
+<p>Tiata reined in. "This'll do for a rendezvous. We split from here."</p>
+<p>"Thilda, with me," Taran said. "We'll take the east."</p>
+<p>"Tigratavā and I'll go southeast," Thana said.</p>
+<p>"Tacita and I take southwest," Tiata said. "That leaves north for you two." She nodded at Tove and Toria. "Back here before sundown, whether you've found anything or not. That way we've still got light to make camp, wherever we end up."</p>
+<p>They each took their chosen bearings, and the four groups were soon out of sight of each other.</p>
+<p class="scene-break">⁂</p>
+<p>Tove and Toria worked the high ground northeast of the town, keeping well back from the road.</p>
+<p>It wasn't long before Toria pointed out a break in the timber where the land fell away toward Aalen. "This gives us a good view of Aalen."</p>
+<p>Tove reined in, and they both dismounted. "You stay here with the horse, and I'll see if there's water nearby. Can't have you taking a tumble with your arm still like it is."</p>
+<p>She worked her way down through the brush and came back a few minutes later, wiping her hands on her leggings.</p>
+<p>"There's a beautiful little stream just down there," she said. "Crystal clear, and a reasonable depth."</p>
+<p>"What about cover?" Toria asked.</p>
+<p>"Plenty of that too. It's thick foliage right up to the ridge. I couldn't see any paths or woodsmoke anywhere close."</p>
+<p>"That sounds perfect," said Toria. "And the view from here couldn't be much better either."</p>
+<p>"That looks like another fort to the right," said Tove, pointing through another gap in the trees.</p>
+<p>"I think you're right," said Toria. "This has got to be the spot. Let's head back and tell the others."</p>
+<p>They were back at the rendezvous well before the others, and sat on the grass, letting the horse graze, while they waited for the others to return.</p>
+<p class="scene-break">⁂</p>
+<p>Tiata and Tacita came in first, empty-handed — good cover to the southwest, Tiata said, but nothing with water close enough to matter.</p>
+<p>Tigratavā and Thana rode in not long after, having found little better to the southeast — open ground too far, farmland too near.</p>
+<p>It was almost dusk before Thilda and Taran appeared out of the east, having found nothing at all worth reporting.</p>
+<p>"We've got something," Toria said. "Northeast. Good water, good cover, a clear line onto the road."</p>
+<p>"It looks like it's my spot again," said Tove, with a wink.</p>
+<p>"I saw it first," Toria said.</p>
+<p>"Come on girls, we've got Romans to fight," Tiata said. "Let's see this famous spot."</p>
+<p class="scene-break">⁂</p>
+<p>They reached it as the light was going.</p>
+<p>Tove led them the last stretch, and the ground opened out exactly as she and Toria had found it — the stream below, the timber thick around them, the gap in the trees looking straight down onto the road and the outline of Aalen beyond it.</p>
+<p>"I'd forgotten about this area," Thilda said. "It's nearer to Aalen than I'd remembered."</p>
+<p>They settled in without a fire that first night, working by what light was left. Toria sat back against a tree trunk, her bad arm resting across her knees.</p>
+<p>"Told you I wanted to be closer to the action," she said. "I'll be able to see it all from up here."</p>
+<div class="section-header" id="ch-4">4 — Empty Ground</div> <a class="back-to-top" href="#toc">↑ Back to top</a>
+<p>The light was going when Senecio's sixty rode back through the gate at Aalen.</p>
+<p>Raeticus had them mustered in the yard rather than wait for a written report. He stood on the principia steps while the column came in at a walk, dust pale on every man and horse.</p>
+<p>"Well?" Raeticus said.</p>
+<p>"Nothing came at us, sir. Not an arrow, not a man, the whole day." Senecio held something out on his open palm. "We found this, though. In the road, at the stream crossing. This is the arrow I told you about yesterday, that almost tripped my horse."</p>
+<p>Raeticus took it into the lamplight spilling from the doorway behind him. A heavy shaft, a three-bladed head, the same as the one he'd turned over on this table two nights before.</p>
+<p>"Buried how deep?"</p>
+<p>"To the fletching, sir. Ursio had to work it loose with his knife."</p>
+<p>Raeticus turned it once more and set it on the step beside him. "So a day's ride, sixty men, and the ground gave you back an arrow you already knew was there."</p>
+<p>"That's the whole of it on the road, sir. There was one thing more, south of Lorch." Senecio paused, choosing it carefully. "A camp. Used, not long abandoned — the fire pit still had warmth low down when we dug into it."</p>
+<p>"How many?"</p>
+<p>"Hard to say from ground alone, sir. Bassus read it as five, perhaps as many as ten. Not twenty. Nothing close to twenty."</p>
+<p>"Five or ten," Raeticus said.</p>
+<p>"Yes, sir."</p>
+<p>Raeticus looked past him at the column still filing in below, torches being handed along the wall. "Hunters," he said. "Or men who've run from somewhere. It isn't twenty or thirty archers, Senecio. Twenty or thirty don't leave a fire for five."</p>
+<p>"No, sir."</p>
+<p>"Was there anything else there. Tracks, gear, anything that told you more than the fire did."</p>
+<p>"Nothing Bassus could make certain of, sir. Ground too dry, and we didn't have the light to spend on it."</p>
+<p>"Any word from the towers today? Böbingen, Schirenhof, the rest of the road?"</p>
+<p>"Nothing, sir."</p>
+<p>"That's about all we can do." Raeticus straightened. "If you've found nothing, then there's nothing to report. See the men fed, have the horses seen to, then rest yourself."</p>
+<p>Senecio hesitated, and it was long enough that Raeticus looked at him directly.</p>
+<p>"Sir. Moguntiacum will hear of Lorch regardless, sooner or later, from somebody. If it comes from us first —"</p>
+<p>"It will come from whoever holds that command, when they choose to send it," Raeticus said. "Lorch was never mine to lose, Senecio, and I won't write a report that invites the governor to ask why sixty of my men spent a day combing another province's ashes for an enemy that's clearly not there. Not for an arrow and a cold fire." He picked the shaft back up and held it a moment longer. "Double the western watch again tonight. And nobody rides past the stream without my order."</p>
+<p>"Yes, sir."</p>
+<p>Raeticus went in without saying anything further, the arrow still in his hand.</p>
+<div class="section-header" id="ch-5">5 — Buch</div> <a class="back-to-top" href="#toc">↑ Back to top</a>
+<p>They were awake before the sun had cleared the ridge.</p>
+<p>Tacita brought water up from the stream in two skins, and they ate what was left of the cold meat from the night before, sitting along the fallen timber while the valley below slowly took shape in the grey light.</p>
+<p>Tove stood by the gap in the trees, a piece of dry bread in one hand, looking east toward the open ground.</p>
+<p>"That second fort is still there," she said, nodding toward the low stone square out on the flat. "The one we saw yesterday."</p>
+<p>"I guess it would be," said Thana. "Even Lorch didn't get up and move during the night."</p>
+<p>Tove gave her a withering look.</p>
+<p>Thilda came over to stand beside her. She looked at it for a moment.</p>
+<p>"That's Buch," Thilda said. "An auxiliary cohort. Part-mounted, but nothing like Aalen’s heavy horse—mostly foot, minding the road and the towers, and taking their turn at the gate at Dalkingen."</p>
+<p>Taran looked up from her saddle-pack. "A gate? In the wall?"</p>
+<p>"That's right," Thilda said. "There's several gates, but not all like this one."</p>
+<p>"Why would they put a gate in a wall built to keep people out?"</p>
+<p>"This one's not just a gate," Thilda said. "It's a monument. Fine stone, arched, built like an imperial palace right in the middle of the woods. Rome built it to show the tribes to the north what an emperor looks like."</p>
+<p>Toria gave a short laugh. "The bronze man."</p>
+<p>"Caracalla," Thana said. "With his hand stuck out waving to the trees."</p>
+<p>"You've seen it?" Taran asked.</p>
+<p>"In the spring," Tiata said. "Before we met Thilda, and before we found you at Lorch. We tracked the stone wall west along the Marcomanni border. We passed Dalkingen on the outside, in the forest, before the wall turned into that split-oak palisade."</p>
+<p>"A lot of work for a gate where nobody lives," Toria said.</p>
+<p>"We saw his backside before," said Thana, "perhaps we'll get a look at his face now."</p>
+<p>"Well, now we're south of it," Tove said.</p>
+<p>Tigratavā finished her water and set the skin down. She looked out through the trees, turning the ground over in her mind.</p>
+<p>"If there's a gate, there's traffic," Tigratavā said. "Traders, messengers, patrols passing through to the north. I want to see what's moving through it."</p>
+<p>"I'll come with you," Toria said.</p>
+<p>"You're not going anywhere until that arm of yours is healed, little sister," Tove said. "You're staying right here with me."</p>
+<p>"But look, I can move my fingers fine. Oww! Alright, I'll stay put."</p>
+<p>Tove shook her head. "You'll learn one day, I suppose."</p>
+<p>"I think I'd rather go alone anyway," Tigratavā said. "One horse on the scrub line is just a hunter or a stray. Two is a party, and people look twice at a party." She looked toward the stone square on the flat. "Buch needs scouting just as much. If Aalen is nervous after what happened on the road, Buch will hear about it sooner or later. We need to know how many men they have, what their patrols look like, and whether they're watching the road."</p>
+<p>"I can check out Buch," Taran offered. "I've spent three years learning what a Roman garrison sounds like when it changes the watch. Give me a ridge above the gate and I'll tell you how many men walk it."</p>
+<p>Tiata looked across at her. "I'll come with you, if you don't mind."</p>
+<p>Taran raised an eyebrow. "You think I need minding?"</p>
+<p>"I was actually thinking I could learn a few things from you," Tiata said. "You can explain the workings of a fort to me. If we have to touch Buch, I want to know how it functions first."</p>
+<p>She stood up and picked up her falx.</p>
+<p>"Don't forget Aalen is still jumpy," she said, looking back at the others. "Keep down in the hollow, don't light a fire, and keep eyes on them. If they send riders out again, we need to know which road they take."</p>
+<div class="section-header" id="ch-6">6 — The Bronze Man</div> <a class="back-to-top" href="#toc">↑ Back to top</a>
+<p>Tigratavā rode north, keeping below the crest of the ridges where the timber grew thickest.</p>
+<p>She kept to the folds in the land, letting the mare pick a path through hazel and birch, and crossed two shallow creeks that wet the horse's fetlocks.</p>
+<p>An hour's ride brought her to the wall.</p>
+<p>Through the trees, the white limestone rose four paces high, running straight across the rise. A cleared apron ran twenty paces wide along the stone, stripped bare for the tower sentries.</p>
+<p>Tigratavā tied the mare in a brushy hollow and moved forward on foot with her bow.</p>
+<p>Where the road from Buch met the frontier, the rough limestone wall stopped dead against dressed sandstone. The white plaster gave way to sharp-edged blocks of reddish-yellow stone.</p>
+<p>In the spring, they had seen it from the north — an arched opening and the back of a bronze head facing south into the province. Seen from this side, it was a palace set in the woods.</p>
+<p>It was built like a triumphal arch, broad and square, a full storey higher than the wall. Moldings stepped out above the passage to form a platform, framed by pillars to make an imperial shrine.</p>
+<p>Between the pillars stood the emperor, cast in bronze, larger than a man, the metal dark from rain. He wore a cuirass and a military cloak, his right arm stretched south over the road.</p>
+<p>Tigratavā studied the face. The sculptor had given him a thick jaw, tight curls, and a scowling brow aimed down the valley.</p>
+<p><em>Caracalla.</em></p>
+<p>She watched from the scrub. Her father’s people had moved with their herds, ranging across vast areas of open plain. Here, Rome had dragged dressed stone into a forest, built a grand edifice and hoisted a bronze figure to wave over the trees.</p>
+<p>Below the statue, the archway was deep, with heavy oak gates folded back against the stone. Three auxiliaries sat on a bench rolling knucklebones, their shields leaning against the wall. A fourth leaned on a spear.</p>
+<p>A farm wagon loaded with hay came up from the south. The driver handed down a copper coin, the sentry pocketed it, and the wagon creaked through to the forest road.</p>
+<p>Behind the sandstone, a timber guardhouse sat against the wall, with an empty wooden stair leading to the catwalk.</p>
+<p>Tucked beside the woodpile was a rough pole-and-rail pen with a low thatch lean-to. A lone pack mule stood dozing inside it, sharing the enclosure with two thick-set draft horses—broad-chested, heavy-legged frontier beasts kept for dragging timber and clearing the ditch along the wall. Tigratavā noted them with a practiced eye: not built for speed, but sturdy, with plenty of weight behind their collars. On wooden pegs along the pen’s timber rail hung what they worked with: harness collars, heavy hemp traces, and a stout oak swingle-tree iron-shod for pulling logs.</p>
+<p>The road back to Buch ran straight and cleared along the valley floor, barely a mile and a half of flat ground. An easy trot would take about ten minutes; ridden hard, the distance could be covered in five minutes.</p>
+<p>Hooves sounded from the south, and two auxiliary riders came around the bend at a walk, cloaks loose across their saddles.</p>
+<p>The men at the bench kept playing. The riders pulled up under the arch, and one tossed a heavy ration sack down onto the stones.</p>
+<p>The leather door of the timber guardhouse pushed open. Four more men came out into the daylight, blinking and stretching in the midday sun.</p>
+<p>One of them scooped up the ration sack and carried it inside. Another, tunic rumpled from sleep, walked up to the arch and took the spear from the sentry’s hand without a word spoken. The relieved man rolled his shoulders, stepped over to the bench, and took his companion's place over the knucklebones.</p>
+<p>The mounted soldier looked up from his saddle at the three over the dice, then tipped his chin toward the towering bronze above them.</p>
+<p>"Look at the pair of you," the rider called down with a grin. "What are you looking so pleased about, sitting under the Praefectus Alae of Aalen?"</p>
+<p>The man shaking the knucklebones didn't even look up. "He's better company than your decurion, Lucius. Doesn't shout as loud, and he keeps the rain off my head."</p>
+<p>"Where’s your loyalty to Buch?" the second rider snorted. "You're drawing our cohort's grain, but you spend all day lounging under Aalen's princeps."</p>
+<p>"Tell that to Praefectus Raeticus next time he rides up from Aalen with his nose in the air," the guard retorted, tossing the dice with a sharp rattle against the sandstone. "He’s the one who thinks the bronze belongs to him. Thinks he's Caracalla's long-lost nephew just because his old man burdened him with three names of imperial virtue. Marcus Aurelius Antoninus Raeticus! If he loves the scowling bastard so much, he can send his own cavalry out to scrape the bird lime off his ears."</p>
+<p>The mounted men barked a laugh.</p>
+<p>"You let him hear you say that, Secundus, and you'll be digging ditches at Aalen till the snow flies."</p>
+<p>"He won't hear it," the man muttered, scooping up his copper pieces. "He's too busy admiring his own reflection."</p>
+<p>The riders let their mounts crop the verge grass for a moment longer, then wheeled about and set off back toward Buch at the same lazy walk.</p>
+<p>Tigratavā watched them go.</p>
+<p>Eight foot soldiers on detached duty, living out of a timber shack, with a mile and a half of empty road between them and the fort.</p>
+<p>The dust settled on the track, the dice clicked against the stone, and the bronze emperor kept his watch over an untroubled gate. Dalkingen was as soft as Lorch had been.</p>
+<div class="section-header" id="ch-7">7 — The Emperor’s Nephew</div> <a class="back-to-top" href="#toc">↑ Back to top</a>
+<p>Dusk was settling over the ridge by the time Tigratavā returned to the hollow.</p>
+<p>The others were already gathered in the brush, resting in the cool shadows where the foliage hid the glint of their weapons from the valley below. No fire had been lit. Cold dried venison and water from the stream were passed between them without words, everyone waiting for the report.</p>
+<p>"Well?" Tiata asked, looking up as Tigratavā slipped through the hazel stems.</p>
+<p>Tigratavā dropped to one knee and took the waterskin Tacita offered her. She drank deeply, wiped her mouth on the back of her forearm, and laid it out.</p>
+<p>"Sandstone arch," she said, her voice low. "Set right where the white limestone wall meets the road. Dressed blocks, grand pillars, and a bronze Caracalla big as a bull standing over the portal, looking south into the valley."</p>
+<p>"What's his face like?" Thana asked. "Any prettier than his backside?"</p>
+<p>"Scowling like he's bitten a sloe," Tigratavā said. "Below him, eight men from Buch. Foot soldiers, auxiliary issue. Three were rolling dice on a stone bench, four sleeping off their midday meal in a timber guardhouse, one leaning on a spear. There's a pen beside the woodpile with a pack mule and two thick-set draft horses—broad-chested beasts kept for clearing timber—with heavy traces and an iron-shod swingle-tree hanging on the rail. Two riders came up from the fort with a sack of grain, traded some insults, and rode right back."</p>
+<p>"How far?" Tiata asked.</p>
+<p>"A mile and a half," said Tigratavā. "Flat, cleared valley floor. A horse ridden hard could cover it five minutes."</p>
+<p>"A five-minute ride," Tiata murmured. "That's close."</p>
+<p>"What did you find at Buch?" Tigratavā asked, turning to Taran and Tiata.</p>
+<p>"Part-mounted cohort," Taran answered, leaning back against the trunk of an oak. "Supposed to be five hundred strong, but I'd say there's only about two hundred men, perhaps two-fifty at full muster. Their century billets look half-empty. They're sluggish. They change the watch like old cows shifting pasture. They're not braced for trouble. They think Aalen sits behind them to take the weight of anything serious."</p>
+<p>"Aalen," Tigratavā said, a small, knowing curve touching the edge of her mouth. "That reminds me. The guards at the arch had plenty to say about Aalen. Specifically about the man who commands it."</p>
+<p>Taran’s eyes narrowed slightly in the dim light. "What did they say?"</p>
+<p>"One of the riders teased the sentries for sitting under 'Aalen's princeps.' The guard fired back that Praefectus Raeticus could send his own cavalry if he wanted the statue kept clean. Said the man thinks he's Caracalla reborn because his father gave him the emperor's names. Marcus Aurelius Antoninus Raeticus."</p>
+<p>"Raeticus," Taran laughed.</p>
+<p>Every eye around the circle shifted to her.</p>
+<p>"You know him?" Toria asked, sitting up, her bound arm tucked carefully against her ribs.</p>
+<p>"I never saw his face," Taran said, "but I stood by the wall in the Praefectus's hall at Lorch for three years while his guests drank his Falernian wine. Officers from Raetia came through twice a summer on border business. Whenever they got into their cups, they talked about the Ala commander at Aalen."</p>
+<p>She looked toward the gap in the trees where the distant roofs of Aalen lay invisible in the gathering dark.</p>
+<p>"His father was a provincial magistrate who thought naming his brat after Marcus Aurelius Antoninus would buy imperial favor," Taran said, the memory sharp and bitter. "Raeticus grew up believing it made him special. When he was given the cavalry at Aalen, he took it as a personal sign from the gods that he was meant to guard the monument at Dalkingen. He treats the bronze emperor like family."</p>
+<p>"A holy relic," Thilda said, shaking her head. "Romans and their statues."</p>
+<p>"Worse than that," Taran said. "The Lorch officers laughed about it behind his back. They said Raeticus rides up to Dalkingen twice a year just to offer incense at the emperor's boots, and throws a fit if there's moss on the plinth or bird lime on the shoulders. He thinks any slight to that gate is a slight to his own bloodline."</p>
+<p>Thana's smirk began to broaden.</p>
+<p>"Well now," she purred, leaning forward with her elbows on her knees. "Lorch was ruined by a cousin. Now we have an emperor's nephew by usurpation."</p>
+<p>"And he's looking the wrong way," Tiata said. "Aalen's commander thinks the danger is still in the west."</p>
+<p>Tove grinned, her broad face catching what little starlight filtered through the canopy. She patted the heavy iron head of her axe where it lay against her thigh.</p>
+<p>"I said it back on the Danube," Tove murmured happily. "That's a lot of good bronze to leave standing in the woods."</p>
+<p>"We don't need to melt it," Toria said, her dark eyes flashing. "We just need to make sure Raeticus finds him eating dirt."</p>
+<p>"And the five-minute road from Buch?" Thilda asked. "If we hit that gate, Buch will see the blaze. Foot soldiers or not, two hundred men can cover a mile and a half fast enough when an imperial shrine is burning."</p>
+<p>"Then we don't give them a chance to run," Tiata said. She looked around the circle, her gaze settling on Tacita, who sat as still as a carved stone, her dark eyes reflecting the night sky. "We don't make an alarm until the work is already done. Eight men. One timber shack. Two stout horses, a stack of dry firewood, and just five minutes."</p>
+<div class="section-header" id="ch-8">8 — Toppled</div> <a class="back-to-top" href="#toc">↑ Back to top</a>
+<p>They rode out well before dawn, keeping below the crests of the timbered ridges where the pine needles muffled the hooves of the five horses.</p>
+<p>The wind had settled into the north, thin and cold. Where the ground rose toward the wall, they halted in a dense pocket of hazel, and wordlessly dismounted.</p>
+<p>Through the trees, the sandstone arch sat fifty paces below them. It showed pale against the dark forest, the yellow-red stone catching what little starlight came through the canopy. Above the cornice, the bronze Caracalla stood out against the sky, one arm stretched south over the road.</p>
+<p>Toria gathered the lead reins, and the rise gave her an unobstructed line down through the branches to the gate, the timber shack, and the empty road running south to Buch.</p>
+<p>"Don't take all morning about it," Toria whispered.</p>
+<p>Tove gave her a friendly nudge, and the seven slipped away down the slope on foot.</p>
+<p>They crossed the ditch thirty paces west of the arch, keeping low against the scrub. None of the watch were on the catwalk, and the heavy oak gates were closed and barred.</p>
+<p>Near the archway, one sentry walked an uneven beat across the stones, spear propped against his shoulder. Over by the woodpile, a second man was seated on a bench, slumped back against the logs of the guardhouse, asleep under his cloak.</p>
+<p>Tigratavā went to one knee at the edge of the clearing, drawing an arrow from her gorytos.</p>
+<p>Tacita was already silently drifting across the open ground, keeping to the deeper shadow of the wall. She slid past the woodpile and stepped in behind the bench where the sleeping sentry sat, her gladius held flat against her leg.</p>
+<p>Tigratavā drew and loosed.</p>
+<p>The trilobate head took the walking sentry in the throat, and he went down without a cry.</p>
+<p>The sound of his fall stirred the man on the bench. He gave a sharp grunt, his eyes opening briefly before Tacita's blade was drawn across his throat. She eased him back against the logs, and stepped back into the shadow.</p>
+<p>She looked toward the trees and raised one hand.</p>
+<p>The rest crossed the open dirt, each woman moving straight to her mark.</p>
+<p>Thana and Thilda took positions on either side of the doorway. The door was a heavy, stiffened bull-hide screen, hanging shut from a timber beam to keep out the draft. From inside came the steady breathing of six men still asleep.</p>
+<p>Tiata and Tove stepped up just behind them, weapons ready, covering the exit.</p>
+<p>Taran stepped up, pulling the Caledonian <em>tuagh</em> from her belt.</p>
+<p>She squared up to the doorway, drew the axe back over her shoulder, then swung it forward with a well-trained throw.</p>
+<p>The blade split the leather screen with a dull, tearing sound and buried itself into an oak post inside the room with a solid thud.</p>
+<p>The response from inside was immediate. A shout went up, followed by the clatter of overturned stools and boots tangling in blankets.</p>
+<p>"What's that? Arms! Get to the door!"</p>
+<p>The first man shoved through the split leather, half-dressed and reaching for a sword he hadn't cleared from its scabbard. Thana stepped in close, inside his reach, and drove the xiphos under his ribs.</p>
+<p>The second man stumbled over the first, and Thilda’s spatha caught him as he fell.</p>
+<p>The remaining four spilled out into the dark in a disorganized rush, bare-chested and blinking. Tiata's falx and Tove's axe joined in the brutal slaughter.</p>
+<p>One of the younger auxiliaries tried to scramble past the woodpile toward the road, but another arrow from Tigratavā halted his flight. The last man backed toward the bench with his hands up, and Tacita took him from behind.</p>
+<p>Within a minute, it was over. Six men lay in the dirt before the doorway, and Buch still lay asleep a mile and a half away.</p>
+<p>Taran went into the dark shack, wrenched her <em>tuagh</em> free from the timber and slid it back into her belt.</p>
+<p>Tigratavā kept her eyes fixed on the dark toward Buch as the others began the next stage of the plan.</p>
+<p>Tove swung over the rail into the paddock.</p>
+<p>The two heavy draft horses had backed into the far corner of the lean-to, heads high, nostrils flaring at the fresh scent of blood. The pack mule stood behind them, ears flat against its skull.</p>
+<p>Tove walked straight up to the nearest draft horse, speaking to it in a low, even murmur. She laid a broad hand on its shoulder, running it down the neck until the horse blew hard through its nose and let its head drop.</p>
+<p>"Good lads," she said quietly. "Nothing for you to fret about."</p>
+<p>Thana and Tacita dropped over the rails beside her. They lifted the heavy harness collars from the timber pegs and slipped them over the horses' broad necks. Thana buckled the belly-bands, while Tacita unhooked the stout, iron-shod swingle-tree from the rail, fitting the trace chains to the hames on either side.</p>
+<p>In front of the archway, Tiata and Thilda were already hauling firewood.</p>
+<p>They worked the woodpile with steady, practiced rhythm, carrying heavy armfuls of split pitch-pine into the sandstone passage. They stacked the timber thick inside the archway, piling it high against the oak gates.</p>
+<p>Taran was already on the catwalk, the coil of braided hemp logging rope from the tool rack over her shoulder. The bronze Caracalla stood over her in the starlight, heavy and dark.</p>
+<p>She climbed onto the stone plinth between the pillars and wound the thick line twice around the statue's neck, wedging the rope beneath the bronze curls. She carried the running end to the edge of the platform and dropped it straight down into the road.</p>
+<p>Below, Tove and Tacita were already leading the two harnessed draft beasts out into the road, their hooves clattering dull on the stones.</p>
+<p>Thana caught the dropped line. She hauled it taut, checked the lead where it crossed the dressed sandstone molding of the cornice, and tied the end off to the forged ring at the center of the swingle-tree with a double hitch.</p>
+<p>Tove took the halters and led the horses down the road toward Buch. The hemp rope rose off the ground, and pulled taut.</p>
+<p>Tiata and Thilda dumped the last load of pine into the gateway, stacking it waist-high directly behind where the horses stood. Thilda took a jar of lamp oil from the guardhouse shelf and emptied it across the dry wood.</p>
+<p>A low owl whistle came from the scrub to the south—Tigratavā signaling that the road from Buch was still empty.</p>
+<p>With the line set and the wood stacked, they broke for the ridge.</p>
+<p>Thana, Tacita, and Tove released the halters and turned toward the ditch. Thilda and Tiata fell in beside them, with Tigratavā dropping back from the road to join the line.</p>
+<p>Taran was already down the stairs, landing in the dirt with flint and steel in hand.</p>
+<p>The six crossed the apron at a steady run, heading up the slope toward the hazel scrub where Toria held the mounts.</p>
+<p>Taran crouched by the timber stack. She struck the steel down the flint once, catching a spark in a handful of shredded birch bark.</p>
+<p>The flame flared, touched the oil, and the pitch-pine went up with a hollow roar.</p>
+<p>A wall of heat and orange light burst out of the archway, illuminating the sandstone pillars and throwing the road into sharp relief.</p>
+<p>The two draft horses, seeing the fire erupt right behind them, panicked.</p>
+<p>They threw their weight forward with a sudden lurch, their hooves slipping on the stones before finding purchase in the road. Leaning hard into their collars, they broke into a dead run south toward Buch, dragging the swingle-tree behind them.</p>
+<p>Taran turned and ran for the trees.</p>
+<p>Behind her, the hemp tow-line snapped tight with a sharp, echoing crack.</p>
+<p>High on the platform, the bronze Caracalla jerked forward.</p>
+<p>As the rope hauled the heavy head down, the iron dowels holding the feet into the plinth groaned against the stone, then sheared through with a succession of loud, metallic snaps.</p>
+<p>The bronze emperor broke from his pedestal, tipped forward into the empty air, and dropped straight down, smashing face-first into the roaring blaze.</p>
+<div class="section-header" id="ch-9">9 — Empty Traces</div> <a class="back-to-top" href="#toc">↑ Back to top</a>
+<p>Terentius was leaning his forearms on the oak railing of the north rampart, blowing into his cupped hands to ward off the pre-dawn chill, when the sky above the forest began to glow.</p>
+<p>At first it was only a faint, pulsing smear of yellow against the low clouds. Terentius watched it without moving, his chin buried in the greasy wool of his cloak. A chimney fire in the timber guardhouse, he thought. Or the boys on watch at the arch burning brush to keep their fingers from going numb.</p>
+<p>Then the smear sharpened into a hard, orange spike, and a thick plume of black smoke rolled up through the trees, blotting out the stars.</p>
+<p>"Flavus," Terentius called softly, not taking his eyes from the ridge.</p>
+<p>The second sentry walked over from the gatehouse corner. "What's caught your eye?"</p>
+<p>Terentius pointed with a stiff finger. "Look at the gap in the trees. Past the second bend."</p>
+<p>Flavus squinted into the dark. The light was growing fast, casting a pale, unnatural sheen across the clearing before the fort's ditch.</p>
+<p>"That's high," Flavus said, his voice dropping. "Too high for a brazier."</p>
+<p>"That's where the monument sits."</p>
+<p>"I know where the monument sits." Flavus turned toward the courtyard below, then hesitated. "Wait. Listen."</p>
+<p>The wind was coming down the valley, and with it came another sound.</p>
+<p>It was the unmistakable clatter of iron horseshoes striking rock—not the rhythmic strike of an auxiliary cavalry mount, but the heavy gallop of draft beasts driven to a blind sprint.</p>
+<p>Underneath the hoofbeats ran a violent, metallic clatter: chains whipping loose, and the dry, echoing crash of timber bounding wildly against the stones.</p>
+<p>"Riders?" Flavus asked, one hand dropping to the pommel of his spatha.</p>
+<p>"Too heavy for riders," said Terentius. "And there's no shout."</p>
+<p>Below them, the north gate stood half-barred, the wicket door open where two guards were sharing a brazier under the arch. Terentius leaned out over the rail and shouted down into the yard.</p>
+<p>"Ho! At the gate! Look to the road! Something's running blind out of the woods!"</p>
+<p>The men below scrambled, kicking the brazier aside in a shower of sparks. From the doorway of the guardroom, Optio Vettius emerged, one hand on his belt, blinking up into the dim light.</p>
+<p>"What is it, Terentius?"</p>
+<p>"On the north road, sir! Horses bolting!"</p>
+<p>Before Vettius could shout an order, two massive shapes burst through the scrub onto the cleared apron, their broad chests slick with lather, running shoulder to shoulder.</p>
+<p>They wore heavy leather draft collars, the belly-bands flapping loose beneath their ribs. From the hames on either side trailed trace chains, dancing and sparking as they whipped the frozen ruts. Behind them, tethered to the chains, a heavy, iron-shod swingle-tree bounced wildly on the stones, gouging deep furrows in the clay and leaping waist-high every time it struck a rock.</p>
+<p>"Bar the way! Turn them!" came a yell from the yard.</p>
+<p>Two auxiliaries ran out through the wicket onto the road, shields raised, instinctively trying to form a line.</p>
+<p>"Get back, you fools!" Vettius bellowed, lunging forward to grab the nearest man's cloak. "Get off the road!"</p>
+<p>The horses never checked their stride. They bore down on the gate with ears pinned flat, breathing in ragged, whistling gasps. Seeing the torches and the stone abutments ahead, they swerved hard to the left.</p>
+<p>The two guards threw themselves flat into the ditch as the beasts thundered past. Behind them, the iron-shod swingle-tree slewed sideways through the air like a scythe, clipping the ditch-marker post.</p>
+<p>The men in the gate stood frozen as the draft team blew past, hooves hammering the road, driving hard past the fort's eastern ditch and continuing south toward the open valley.</p>
+<p>In that brief moment, as they crossed the torchlight, Terentius saw trailing from the swingle-tree a length of thick hemp logging rope, its severed end frayed and blackened by fire.</p>
+<p>The heavy drumming of hooves receded rapidly down the road to the south, until there was only the distant clink of iron trace chains fading into the mist.</p>
+<div class="section-header" id="ch-10">10 — The Burning Horizon</div> <a class="back-to-top" href="#toc">↑ Back to top</a>
+<p>"Hey! What's that on the horizon?"</p>
+<p>Optio Vettius had spun round in the dust, his arm thrust out, pointing wildly toward the north.</p>
+<p>"That's fire!" he bellowed, staring up at the rampart. "Terentius! Flavus! Do you two think you're at the circus? That must have been burning for several minutes now!"</p>
+<p>Terentius gripped the railing, glancing from the burning horizon down to the optio.</p>
+<p>"Sir, we saw it," Terentius called down defensively. "We were just about to—"</p>
+<p>"You were watching a pair of runaway nags like boys at the games!" Vettius shouted back. "That's not brushwood and it's not a camp brazier. That's right up at the bend."</p>
+<p>He stopped. His hand stayed in the air, pointing at the red glow rising over the timber line.</p>
+<p>Then he looked down at the ruts gouged into the road at his feet, and back up the valley toward the smoke.</p>
+<p>"The draft team," he said, quietly. "The big coldbloods from the wall pen."</p>
+<p>Flavus leaned over the rail. "Sir?"</p>
+<p>"Dalkingen," Vettius said, turning pale. "Those horses came from Dalkingen. The gate is on fire."</p>
+<div class="section-header" id="ch-11">11 — Cohors III Thracum</div> <a class="back-to-top" href="#toc">↑ Back to top</a>
+<p>The north watch at Aalen caught the glow an hour before first light.</p>
+<p>The sentry watched it for a few minutes, then called down into the yard for the officer of the watch.</p>
+<p>Decurion Marcius came up the rampart stair, pulling his cloak around his neck against the damp chill.</p>
+<p>"How long has that been burning?" Marcius asked.</p>
+<p>"Ten minutes, sir," the sentry said. "Started small and flared up fast. It's right on the road to Buch."</p>
+<p>Marcius stood at the railing, watching the horizon.</p>
+<p>By the time the first grey light showed in the east, the glow was fading into dawn, replaced by a greasy smudge of smoke rising straight into the cold air.</p>
+<p>"That's not brushwood," Marcius said. "Call down to the principia. Wake the Praefectus."</p>
+<p>It wasn't long before Praefectus Raeticus was on the wall. He had not slept well; two days of smoke in the west from Lorch had left the whole garrison on edge. He walked to the corner tower and stared north without speaking.</p>
+<p>"Lorch in the west, and now this," Raeticus said, his voice flat. "Is there any word from Buch?"</p>
+<p>"Nothing, sir," Marcius said. "Road's been quiet all night."</p>
+<p>"A fire that size on their own road, and they send no courier?" Raeticus turned from the railing. "I will not have another Lorch on my hands. Turn out your turma, Marcius. Thirty men, fast and light. Ride north along the road to Buch and find out what is burning."</p>
+<p>"Yes, sir."</p>
+<p>"Move now. I want to know before the camp starts trading rumors."</p>
+<p>Marcius hurried down the stairs. The yard was already stirring as the horn sounded the muster. Grooms ran horses out from the stables, men buckled spathas and hauled saddles onto mounts, and within minutes the thirty troopers were forming into column on the gravel apron before the north gate.</p>
+<p>Raeticus walked down from the rampart to see them off. He was standing near the gatehouse arch, waiting for the gate bars to be lifted, when a strange noise caught his ear.</p>
+<p>It was faint at first, coming down the valley on the cold wind—a heavy, irregular clatter.</p>
+<p>"Hold the gate," Raeticus said, raising a hand. "What is that?"</p>
+<p>The sound grew fast. It was the scrape of iron on stone, the violent slap of trace chains, and the hollow, hammering crash of heavy timber bounding off the road.</p>
+<p>"Riders?" an officer asked.</p>
+<p>"No," Marcius said, listening intently. "Too heavy. And there's no rhythm to it."</p>
+<p>Around the bend in the road, half a mile out, two massive shapes burst through the morning mist.</p>
+<p>They were heavy frontier draft horses, running abreast in a blind, shambling panic. Clouds of steam rolled off their backs in the freezing air, and their chests and withers were plastered in grey, foamy lather. Between them dragged loose trace chains, and bouncing at their heels was a heavy oak swingle-tree, its iron-shod underside throwing sparks as it gouged the gravel at every stride.</p>
+<p>"They're bolted," Marcius shouted. "Troopers, dismount! Spread across the road! Don't let them hit the gate!"</p>
+<p>A dozen men threw their reins to their companions and ran out through the wicket, spreading wide to form a funnel. Marcius ran to the center of the track, waving his arms and calling out in low, steady shouts.</p>
+<p>The near horse saw the line of men, threw its weight into its partner, and broke stride. Marcius lunged, his hands locking into the sweat-slick leather of the halter, throwing his weight down to check the head. Three troopers caught the loose reins on the other side.</p>
+<p>The sudden halt broke them.</p>
+<p>The off-side horse stumbled on splayed forelegs. Its knees buckled, its head crashed into the dirt, and it went down on its side with a heavy, sickening thud. The beast gave one long, shuddering gasp, blew a dark froth of blood from its nostrils into the dust, and lay completely still.</p>
+<p>The other horse stood shaking violently, legs wide, head hanging down to its knees. It was blowing hard, breath whistling through its throat, trembling so hard the harness rattled against its ribs.</p>
+<p>"Cut the traces," Marcius ordered. "Get that timber away from him."</p>
+<p>A trooper drew his dagger and slashed the leather tugs. The chains dropped, and with the iron noise gone, the surviving beast lowered its nose to the dirt, shivering in the cold.</p>
+<p>"Heart burst," the trooper said, crouching by the dead animal's shoulder. "Ran itself to death."</p>
+<p>Marcius walked behind the horses and picked up the swingle-tree. The iron band on the underside was ground flat and scored with raw silver scratches from miles of flint. Tied to the forged ring at the center was a length of thick four-strand hemp rope.</p>
+<p>The end was charred black and still smelling of burned pitch-pine and lamp oil.</p>
+<p>Another trooper pulled the heavy collar back from the dead horse's neck and pointed with his knife.</p>
+<p>"Cohors Tertia," the man said. "The Thracians. Buch."</p>
+<p>"Buch doesn't use heavy coldbloods," Marcius said, turning to look north. "These are the timber horses from the wall pen at Dalkingen."</p>
+<p>"That's twelve miles down the road," the trooper said.</p>
+<p>"Twelve miles," Marcius murmured, shaking his head. "Dragging an iron swingle-tree."</p>
+<p>Raeticus walked through the gate and out onto the road, stopping just short of the dead beast. He looked at the carcass, then at the shivering survivor, and finally down at the oak swingle-tree in Marcius's hands.</p>
+<p>"They ran twelve miles from Dalkingen," Marcius said quietly, holding out the frayed, blackened rope. "Dragging this."</p>
+<p>Raeticus stared at the charred hemp, his eyes tracing the thick, soot-crusted strands, and then slowly looked up past the troopers toward the northern horizon, where the black column of smoke was climbing into the morning sky.</p>
+<p>All colour drained from his face.</p>
+<p>"Dalkingen," he whispered.</p>
+<div class="section-header" id="ch-12">12 — The Kiln</div> <a class="back-to-top" href="#toc">↑ Back to top</a>
+<p>The detachment halted thirty paces out, the heat from the arch driving them back onto the verge.</p>
+<p>The heavy oak gates were barred shut, trapping the blaze inside the stone passage. Sandstone was cracking overhead, shedding chunks of the arch into the road. The timber guardhouse had gone up with the woodpile, and the bodies of all eight auxiliaries were burning where they lay.</p>
+<p>Above the arch, the pedestal stood empty. Down in the passage, Caracalla lay face down in the coals against the barred gates, pinned beneath fallen catwalk beams.</p>
+<p>"Can we reach them, sir?" Terentius asked, squinting against the smoke.</p>
+<p>"Reach what?" Vettius said. "They're dead. And that stone is coming down."</p>
+<p>Another piece of the cornice sheared off with a dry snap and smashed onto the road.</p>
+<p>"Check the ditch," Vettius ordered. "Watch the tree line."</p>
+<p>Two men moved along the road verge, shields up. One of them stopped and pointed down at the churned clay.</p>
+<p>"The draft team," the man called back. "Ruts run straight south toward the fort. Swingle-tree gouged a trench right between them."</p>
+<p>"They didn't bolt," Vettius said, walking over. "They were harnessed. Hooked to the bronze and driven."</p>
+<p>Terentius looked into the dark forest bordering the road. "Whoever did it could still be in the timber."</p>
+<p>"They're not in the timber," Vettius said. "They had two heavy horses and all the time they needed. They're long gone."</p>
+<p>"Do we try the fire?"</p>
+<p>"With thirty men and no buckets? It's pitch and oak. It'll burn till midday." Vettius turned his back on the heat. "Flavus, take Marcus. Run back to Buch. Tell the prefect the post is destroyed, the eight are dead, and the monument is on the ground. Tell him we need carts for the ashes and a century to hold the road."</p>
+<p>"What about Aalen, sir?" Terentius asked.</p>
+<p>"Those horses had twelve miles of open road and nothing to stop them," Vettius said. "Aalen would already know. Form the men across the track, facing the trees. When Raeticus gets here, I want this road secure."</p>
+<div class="section-header" id="ch-13">13 — Ala</div> <a class="back-to-top" href="#toc">↑ Back to top</a>
+<p>Raeticus looked at the dead horse, then at the charred rope in Marcius’s hands.</p>
+<p>"Dismount," he said.</p>
+<p>Marcius paused, one hand on his reins. "Sir?"</p>
+<p>"Dismount. Put the horses back on the lines."</p>
+<p>"You want thirty men held back, sir?"</p>
+<p>"I want five hundred," Raeticus said. "A draft team doesn't drag an iron swingle-tree twelve miles at a gallop because someone dropped a torch. Lorch is gone, Marcius. If Dalkingen is being assaulted, thirty horsemen will ride straight into a ditch full of spears."</p>
+<p>He turned toward the principia.</p>
+<p>"Sound the horns. General muster. Every turma in the ala."</p>
+<p>The cornicularius came down the steps with a wax tablet in his hand. "Praefectus, turning out the full ala requires an entry in the provincial log. If the governor asks why a thousand cavalry left the fort—"</p>
+<p>"Lorch burned two days ago," Raeticus interrupted. "The Upper Germanic command hasn't sent a single dispatch explaining why, and Buch hasn't sent a courier all morning. If the limes has broken at the bend, I am not answering to the governor from behind a wooden gate." He pointed at the dead coldblood on the road. "Tell the trumpeter to sound the call. Now."</p>
+<p>The horns sounded along the ramparts.</p>
+<p>Within minutes, the yard filled with movement. Men hauled saddles from the racks and ran mounts out from the four long stable blocks. Centurions checked girths, weapons, and iron rations. The grooms cleared the horse-lines, while troopers buckled spathas and drew lances from the armory racks.</p>
+<p>In his office, Raeticus buckled his own cuirass.</p>
+<p>Senecio came to the door. "First division is ready on the north apron. Second and third are saddling."</p>
+<p>"Has anything come from the south road?" Raeticus asked.</p>
+<p>"Nothing, sir."</p>
+<p>"Then Buch is either overrun or their prefect is sitting behind his palisade doing nothing. Either way, we march."</p>
+<p>"If it's a general breach, sir, they could be south of Dalkingen already."</p>
+<p>"Then we meet them in the open," Raeticus said. "An auxiliary foot cohort might fold under a charge in the woods. Five hundred heavy horse will break them."</p>
+<p>He took his helmet and walked out into the yard.</p>
+<p>On the road beyond the north gate, the turmae were already forming into marching column—ranks four abreast, shields slung on the left, lances upright, the silver standard of the Ala II Flavia at the head of the vanguard.</p>
+<p>Raeticus mounted his charger.</p>
+<p>"At a trot," he ordered Marcius. "No stragglers. If the road to Buch is clear, we push straight through to the gate."</p>
+<div class="section-header" id="ch-14">14 — A Thousand Horse</div> <a class="back-to-top" href="#toc">↑ Back to top</a>
+<p>The column came up the valley road at a hard trot, the sound of a thousand horses shaking the gravel for a mile ahead.</p>
+<p>Raeticus rode at the head of the first division, his silver cuirass dulled by road dust, Marcius and the standard-bearers a pace behind. They had bypassed Fort Buch without checking their stride. The four gates of Buch had been barred shut, the parapets lined with the forty men left behind to hold it, all of them staring down as the cavalry thundered past.</p>
+<p>Past the last bend, the timber thinned and the cleared apron before the wall opened out.</p>
+<p>There was no battle. No war-horns, no Alemanni war-band, no breach.</p>
+<p>The white limestone limes wall stood four paces high to the left and right, completely undamaged, running straight through the forest until the trees swallowed it.</p>
+<p>Drawn across the road thirty paces back from the arch was a loose line of eighty foot auxiliaries from Buch. Two supply carts stood on the verge, draft mules standing in the traces. Half the men were leaning on shovels and entrenching axes, their tunics soaked with sweat and soot.</p>
+<p>Raeticus raised a closed fist and drew rein.</p>
+<p>Behind him, twenty-four turmae checked their mounts in a long, rolling rattle of bit-rings and armor. The dust cloud caught up with the vanguard and drifted through the ranks.</p>
+<p>A centurion pushed through the infantry line and came toward Raeticus, his helmet under his arm.</p>
+<p>"Praefectus Raeticus," the man said, wiping ash from his eyes.</p>
+<p>"Severus," Raeticus said, looking over the centurion’s head at the woods. "Where is the enemy?"</p>
+<p>"There is no enemy, sir."</p>
+<p>"The breach. Where did they cross?"</p>
+<p>"There is no breach, sir. The wall is intact from here to tower twelve. We checked the apron."</p>
+<p>Raeticus dismounted. Marcius swung down beside him, leaving the horses with the vanguard grooms.</p>
+<p>"Your post at the gate," Raeticus said, walking toward the archway. "Where are they?"</p>
+<p>Severus pointed with a blackened thumb toward the first cart. Two heavy hide wagon-cloths were thrown over the bed, weighted down with river stones.</p>
+<p>"All eight, sir," Severus said. "Two taken on watch, six trapped in the timber hut. Slit their throats and burned the shack over them. We pulled out what was left."</p>
+<p>Raeticus stopped twenty paces from the arch.</p>
+<p>The heat coming out of the passage was still enough to sting the face. The heavy oak gates had burned down to glowing charcoal beams, resting in deep beds of grey ash against the stone jambs. Above them, the barrel vault of the arch had cracked from the heat, shedding slabs of scorched yellow sandstone into the road.</p>
+<p>The stone plinth between the pillars was bare.</p>
+<p>Down in the passage, half-buried under smoking roof timbers and fallen stone, lay Caracalla.</p>
+<p>The bronze emperor lay face down across the threshold. The fall from the cornice had bent the outstretched right arm back across the ribs, and the face had flattened against the stone sill. Heat from the burning oak had melted the finer hair curls and the nose into slag, leaving the head a blackened, blistered lump of soot and oxidized green metal.</p>
+<p>Raeticus stared at it. His hand rested on the pommel of his spatha, his knuckles white.</p>
+<p>"The swingle-tree," Raeticus said, his voice barely carrying above the hiss of the embers. "The draft horses."</p>
+<p>"They didn't break out, sir," Severus said quietly. "Whoever did this hitched them to the logging tree, dropped a line from the platform around the neck, and fired the timber in the gate. The team bolted south, and the rope snapped the dowels."</p>
+<p>"Tracks?" Marcius asked, stepping up beside Severus.</p>
+<p>"Nothing we could make sense of," Severus said. "The apron is trampled by my men, the horses, and the recovery party. If they came out of the timber, they went right back in."</p>
+<p>"A raiding party?" Marcius asked.</p>
+<p>"A raiding party doesn't waste two hours rigging harness and felling a statue," Severus said. "They breach, they plunder, they burn, and they go. This was done to pull him down."</p>
+<p>Raeticus did not answer.</p>
+<p>He walked two paces closer to the passage, the heat forcing him to squint. He looked at the empty stone pillars, then down at the ruined bronze lying in the ash, and finally back down the road.</p>
+<p>A thousand heavy cavalry sat in their saddles four abreast, stretching back down the road toward Buch as far as the eye could see. Every trooper had his lance upright, his shield slung, and his spatha loosened in the scabbard, waiting for an order to charge an enemy that wasn't there.</p>
+<p>Raeticus turned back to Severus.</p>
+<p>"Get your men on the rubble," he said, his voice low and cold. "Clear the road. And get that bronze covered before the column sees it."</p>
+<div class="section-header" id="ch-15">15 — The Dust Cloud</div> <a class="back-to-top" href="#toc">↑ Back to top</a>
+<p>From the ridge above the valley, the dust cloud was visible long before the sound reached them.</p>
+<p>Tigratavā lay flat on an outcrop of rock, watching the road south of Buch. Thilda knelt in the scrub a pace back, while Taran and Thana sat against a fallen pine, sharing a piece of dried beef.</p>
+<p>"How many?" Thana asked.</p>
+<p>"More than a turma," Tigratavā said. "A lot more."</p>
+<p>The rumble came up through the rock a moment later—a steady, heavy drumming that vibrated through the limestone.</p>
+<p>Thilda crawled to the rim, looked down, and let out a low whistle. "That's the Ala."</p>
+<p>"All of it?" Taran asked.</p>
+<p>"Four abreast, standard in front," Thilda said. "It's the whole garrison. Must be near a thousand horses."</p>
+<p>Thana took a bite of beef and smirked. "A thousand cavalry for eight dead auxiliaries and a limp of melted bronze."</p>
+<p>"He didn't even check his pace at Buch," Tigratavā said. "Rode straight past their gate."</p>
+<p>Taran gave a short, sharp bark of laughter. "I told you. Raeticus thinks Caracalla is his own flesh and blood. Tell him the tribes are across the wall and he'll send a patrol to verify. Tell him someone tipped his emperor into the dirt and he empties the fort."</p>
+<p>Tiata came up through the brush from the hollow, Tove and Tacita behind her. Toria followed, her bad arm bound tight against her ribs, ducking under the hazel branches.</p>
+<p>"What's making all that noise?" Tove asked.</p>
+<p>Thana pointed down into the valley. "The emperor's nephew."</p>
+<p>Tove looked over the ledge at the line of helmets and lances filling the road all the way back toward Buch. "Good grief. Look at them all."</p>
+<p>"They're going to look like complete fools when they get there," Toria said, grinning. "A thousand heavy horse lined up with nothing to fight."</p>
+<p>"Fools don't matter," Tiata said, crouching beside Tigratavā. She looked south toward the empty valley. "Look at the road behind them."</p>
+<p>"If the Ala is up there, Aalen's stripped," Tigratavā said. "Nothing left down there but gate sentries, grooms, and whoever's too sick to ride."</p>
+<p>"Buch won't move either," Thilda said. "Not after seeing that lot ride past. They'll keep their gates barred and their heads down."</p>
+<p>"So twelve miles of frontier is sitting open," Toria said, her dark eyes flashing. "While their entire cavalry wing is crammed nose-to-tail behind a burnt arch."</p>
+<p>"They won't clear that passage quickly, either," Thana said. "They'll have to pry out the cracked stone, shovel the ash, and figure out what to do with a melted emperor."</p>
+<p>"And Raeticus won't leave him in the dirt," Taran said. "He'll stay until it's loaded onto a wagon, even if he has to administer the rites himself."</p>
+<p>Toria looked south toward Aalen, clearly itching to move. "So who's going down to Aalen to look?"</p>
+<p>"Not you," Tove said, catching her by the good shoulder and pulling her down onto the pine needles. "I'm staying right here to watch the road, and you're staying with me before you tear that arm open again."</p>
+<p>Toria scowled, but sat. "Fine. But you're telling me everything you see."</p>
+<p>"I'll keep the mare saddled," Tigratavā said, turning back to the valley road. "A thousand tired horses strung out on a dirt track won't march back fast. When the column turns around, I'll ride the ridge trail and beat them south with hours to spare."</p>
+<p>Thilda picked up her spear. "I know the ground behind Aalen's north ditch. There's good cover right up to the wagon track."</p>
+<p>Taran slung her bow across her back, and Thana was already on her feet, stretching. Tacita stepped toward the trail leading down to the horses, and Tiata fell in beside her.</p>
+<p>"Let's see what's left behind," Taran said, and the five of them slipped away through the hazel.</p>
+<div class="section-header" id="ch-16">16 — Two Arrows</div> <a class="back-to-top" href="#toc">↑ Back to top</a>
+<p>Taran rode behind Thilda. With five women on four horses, they kept off the valley road and took the sheep tracks along the timbered crest above the Kocher valley. Double-mounted on rough ground, it took two and a half hours to cover the twelve miles south to Aalen.</p>
+<p>Thilda brought them out onto the wooded spur rising directly above the fort's north wall. They tied the mounts in a hazel hollow behind the ridge line and moved to the edge on foot.</p>
+<p>Aalen sat below them on the valley terrace. The fort covered fifteen acres, laid out to house an <em>ala milliaria</em>—twenty-four turmae of cavalry. With the regiment gone, the scale of the empty base was obvious. The four long stable blocks stood open and deserted. The blacksmith forges had no smoke, the watering troughs sat unused, and the horse-lines were bare dirt.</p>
+<p>Outside the north gate, the dead draft horse lay in the outer ditch, swollen in the heat. The swingle-tree still sat in the gravel where it had fallen.</p>
+<p>On the north gate walkway, three men were on watch. One sat on a tub with a splinted leg. The other two were older auxiliaries in tunics without armor, leaning on spears. Across the central yard, two boys were shoveling manure from the principia courtyard into a handcart. Around the rest of the half-mile perimeter, only three other sentries were visible on the catwalks, and the south gate towers were completely unmanned.</p>
+<p>"Forty men left behind at most," Thilda said, looking over the roofs. "Clerks, sick list, and grooms. Not enough to man four gates, let alone patrol the apron."</p>
+<p>"They have no remounts, either," Tiata said. "Every horse with four sound legs went north."</p>
+<p>"If a band came out of the trees, they couldn't even man the ballistae," Thana said.</p>
+<p>Taran pulled two broadhead arrows from her quiver and strung her yew bow.</p>
+<p>"What are you doing?" Tiata asked.</p>
+<p>"Testing the elevation," Taran said. "And keeping them inside the stone."</p>
+<p>The spur stood roughly forty paces higher than the fort's parapet, giving the shot extra carry over the two hundred paces of open drop. Taran stepped to the brush line and drew to her jaw.</p>
+<p>The first shaft dropped into the north gatehouse, striking the oak railing with a hard thud and splitting the timber beside the seated sentry.</p>
+<p>The man scrambled backward off his tub, dragging his splinted leg, while the two standing guards dropped flat behind the stone parapet.</p>
+<p>Taran notched the second arrow, raised the point three fingers to clear the gatehouse roof, and loosed into the interior yard.</p>
+<p>The heavy broadhead came down in the gravel twenty paces from the two stable-boys, skipped off a cobble, and buried itself into the heavy frame of the horreum door.</p>
+<p>The boys dropped their shovels and bolted for the principia, skidding in the dirt. Above the gate, one of the auxiliaries, still flat on his belly, reached an arm up blind and began frantically hammering the bronze alarm plate with the butt of his spear.</p>
+<p>Thana let out a sudden snort of laughter. "Look at him banging that gong! Who does he think will come running? The dead draft horse?"</p>
+<p>"The splinted one didn't need much help either," Thilda said. "Cured his leg pretty quick."</p>
+<p>Taran slung her bow over her shoulder, watching the empty courtyard echo with the frantic clanging. "At Lorch, the Praefectus nearly lost his mind over seven women. This lot will swear an entire war-band just dropped out of the clouds."</p>
+<p>Even Tacita’s mouth twitched into a rare grin.</p>
+<p>Tiata shook her head, though she couldn't keep the smile off her face. "All right, enjoy the show, then get to the mounts. We have twelve miles of ridge to cover before Raeticus brings his train of fools home."</p>
+<div class="section-header" id="ch-17">17 — Mausoleum</div> <a class="back-to-top" href="#toc">↑ Back to top</a>
+<p>Severus detailed twelve men from the Buch cohort with iron pry-bars, spades, and a coil of heavy hemp hauling rope from the supply cart.</p>
+<p>"Work the fallen timber first," Severus told them, standing ten paces back from the threshold. "Get the hot beams off the shoulders, pass the line under the chest, and we'll haul him out onto the road with the mules."</p>
+<p>The men stepped into the passage, their boots crunching on charred oak and deep ash. The heat inside the vault was still fierce, radiating off the sandstone walls like an oven. Two men levered a smouldering catwalk beam off the statue's back, sending up a shower of white sparks.</p>
+<p>Raeticus stood on the road with Marcius, watching in silence. Behind them, the ranks of cavalry shifted, saddles creaking as troopers craned their necks to see past the dust.</p>
+<p>An auxiliary dropped to his knees in the ash, working the thick rope beneath the bronze torso. "He's wedged hard against the gate sill, sir," the man called back, coughing against the smoke. "The right arm's bent under the frame."</p>
+<p>"Heave on the bar," Severus ordered. "Pry the shoulder up."</p>
+<p>Two men threw their weight onto an iron-shod lever, wedging the point beneath Caracalla's flank.</p>
+<p>High above their heads, something snapped with the dry crack of a breaking spar.</p>
+<p>A handful of yellow grit rained down onto the lead worker's helmet.</p>
+<p>The man stopped, looking up into the shadows of the barrel vault. "Centurion?"</p>
+<p>A jagged, hairline fracture raced across the underside of the central arch stones, widening as they watched. Dust poured from the seam in a steady, hissing stream.</p>
+<p>"Out!" Severus roared, lunging forward and waving both arms. "Drop the gear! Get out of the passage!"</p>
+<p>The men didn't wait. They threw the pry-bars clattering into the rubble and scrambled for the road, tumbling over each other as they cleared the jambs.</p>
+<p>The keystone dropped six inches.</p>
+<p>With a deafening, hollow roar, the entire barrel vault blew out.</p>
+<p>The heat-stressed sandstone pillars buckled, and the upper platform sheared away from the wall. Tons of dressed blocks, broken cornices, and fractured ashlar crashed straight down into the passage. The ground slammed hard beneath their boots, throwing the rear auxiliaries flat into the dirt and driving a blinding cloud of hot grey dust thirty paces out across the cleared apron.</p>
+<p>Ranks of cavalry mounts reared and plunged, whinnying in panic as troopers fought their reins to hold the line.</p>
+<p>When the rumble died away, the dust slowly drifted south into the trees.</p>
+<p>The passage was gone.</p>
+<p>Between the scorched wall stubs sat a solid mound of shattered sandstone six feet high, choking the gateway from side to side. Of the bronze emperor and the heavy oak gates, nothing remained visible. Every scrap of bronze was buried deep beneath a mausoleum of collapsed stone.</p>
+<p>Severus picked himself up from the road, slapped the white grit from his knees, and spat a mouthful of dust into the verge. He walked up to the edge of the rubble and looked at the mountain of rock.</p>
+<p>"He's under four feet of solid ashlar," Severus said, his voice flat. "We'd need three sheer-legs, tackle, and a team of masons to move a fraction of that."</p>
+<p>Marcius brought his horse forward, stopping beside Raeticus. "Sir? What are your orders?"</p>
+<p>Raeticus stood rigid, his silver cuirass caked in fine limestone powder, staring at the heap of broken rock where his emperor had stood that morning.</p>
+<p>Behind him, a thousand cavalrymen sat in their saddles in dead silence, staring at the ruined arch and the empty forest.</p>
+<p>"Post thirty men from Buch," Raeticus said, his voice barely audible. "Hold the road."</p>
+<p>He turned his back on the rubble, took his reins from Marcius without looking at him, and swung into the saddle.</p>
+<p>"Form the Ala," Raeticus said coldly. "We're riding back to Aalen."</p>
+<div class="section-header" id="ch-18">18 — Two Stories</div> <a class="back-to-top" href="#toc">↑ Back to top</a>
+<p>Dusk had settled over the hollow by the time the five from Aalen climbed through the hazel brush to the stream.</p>
+<p>Tigratavā was already there, her mare tethered and unsaddled in the grass. Tove and Toria sat along a fallen birch, sharing a strip of salted fatback.</p>
+<p>Toria stood up the moment she heard boots on the gravel, her good arm waving them in. "You took your sweet time. We've been sitting here chewing fat waiting for you."</p>
+<p>"We had twelve miles of ridge to ride double-mounted," Thana said, dropping her saddle-pack with a grunt. "And you were supposed to stay in the hollow minding that arm."</p>
+<p>"Stay in the hollow?" Toria scoffed. "And miss a thousand cavalrymen looking like idiots? Not a chance. Tove and I went straight back up to the ditch."</p>
+<p>Tiata sat on a flat rock and set her falx beside her. "You went back to Dalkingen?"</p>
+<p>"Crept right through the scrub west of the wall," Tove said, a wide grin spreading across her broad face. "Sat sixty paces out in the brush with the wind in our faces. We saw the whole fiasco."</p>
+<p>"Go on, then," Taran said, leaning against a pine. "Tell it."</p>
+<p>"Raeticus rode up like he was marching on Rome itself," Toria said, her dark eyes alight. "Lances in the air, silver armor polished bright enough to blind you, a thousand horsemen four abreast filling the road. He looked ready to break an entire war-band."</p>
+<p>"And?" Thilda asked.</p>
+<p>"And there was nothing there," Toria laughed. "Just eighty miserable foot soldiers from Buch leaning on shovels, two carts, and eight dead men under wagon-cloths. The wall was untouched."</p>
+<p>"His face," Tove chuckled, shaking her head. "He dismounted to look at the bronze in the passage. Caracalla was face down in the ash, bent double and melted like an old candle. Severus sent twelve men in with pry-bars and ropes to drag him out."</p>
+<p>"Did they move him?" Thana asked.</p>
+<p>"Move him?" Tove barked a laugh. "They wedged an iron lever under his ribs, and the whole roof came down on their heads!"</p>
+<p>The group went completely still.</p>
+<p>"The arch collapsed?" Tiata asked.</p>
+<p>"Blew right out," Tove said, slapping her knee. "Sounded like a thunderclap. The pillars buckled, the platform dropped, and the entire vault fell straight into the passage. Tons of yellow stone. The dust cloud blew thirty paces down the road and choked the front three ranks of cavalry."</p>
+<p>"Where's the statue?" Taran asked, leaning forward.</p>
+<p>"Under six feet of solid rock," Toria gloated. "Buried right to the threshold. Raeticus stood there covered in stone dust from helmet to spurs, staring at a pile of rocks with a thousand horsemen sitting behind him in dead silence."</p>
+<p>"What did he do?" Thilda asked.</p>
+<p>"Told them to leave thirty men to watch the rubble, turned his horse around, and marched the whole lot back south," Toria said. "Didn't even stay to dig out a finger."</p>
+<p>Thana let out a dry, appreciative whistle. "An imperial monument turned into a pile of gravel. Not bad for two draft horses and a swingle-tree."</p>
+<p>"That's only half of it," Taran said, a grin breaking across her face. "You should hear what Raeticus is riding home to."</p>
+<p>Toria looked from Taran to Thilda. "What happened at Aalen?"</p>
+<p>"We took the spur above the north wall," Thilda said. "The fort is completely stripped. Forty men left inside a fifteen-acre base. Clerks, stable-boys, and cripples. The south gate wasn't even manned."</p>
+<p>"Taran gave them two arrows," Thana said. "First one went into the north gatehouse railing."</p>
+<p>"Who was on watch?" Tove asked.</p>
+<p>"Two old auxiliaries and a fellow sitting on an upturned tub with his leg in splints," Taran said. "The arrow split the wood right beside his ear. The two guards dropped flat on their faces, and the invalid threw himself backward off the tub and scrambled across the yard like a frightened toad."</p>
+<p>"Cured his leg in a second flat," Thilda added, deadpan.</p>
+<p>Toria burst into laughter, clutching her ribs with her good hand.</p>
+<p>"And the second?" Tove asked, grinning.</p>
+<p>"Dropped right into the yard," Thana said. "Two stable-boys were shoveling horse manure by the principia. Shaft stuck in the door frame twenty paces away, and they dropped their shovels in the dung and ran screaming for their lives."</p>
+<p>"The best part was the gate," Taran laughed. "One of the guards was too terrified to look over the stone. He lay flat on his belly on the catwalk, reached an arm up blind, and started frantically hammering a bronze alarm gong with the butt of his spear."</p>
+<p>"Banging it for who?" Toria gasped, wiping tears from her eyes. "The horse-lines were empty!"</p>
+<p>"Clanging loud enough to wake the dead," Thana smirked. "While the boys hid in the cellar. When Raeticus finally brings that thousand tired horses back to his gate, he's going to find a broken monument behind him and a garrison convinced three hundred Alemanni are hiding in the latrines."</p>
+<p>Even Tacita let out a soft, breathy chuckle from the shadows, her dark eyes gleaming in the dusk.</p>
+<p>Tiata looked around the circle as the laughter died away into the trees.</p>
+<p>"So Raeticus lost his bronze emperor to a collapsed roof," Tiata said quietly. "And his home base spent the afternoon jumping at two arrows."</p>
+<p>"He'll be writing dispatches until midnight," Tigratavā said from the horse line. "And not a word of it will make any sense to the governor."</p>
+<p>"Let him write," Tiata said, picking up her whetstone. "Tomorrow, Raetia will be looking everywhere except right where we're sitting."</p>
+<div class="section-header" id="ch-19">19 — The Vow</div> <a class="back-to-top" href="#toc">↑ Back to top</a>
+<p>Raeticus entered through the north gate, where Decurion Marcius had forced the watchmen to slide back the oak timbers. Auxiliaries stood along the ramparts, their shields drawn up behind the stone merlons. The bronze signal plate hung dented from its iron bracket above the walkway. At the granary, the broadhead arrow remained wedged into the oak jamb, just above the threshold. Raeticus wrenched it free from the timber. He rubbed the splintered wood between his fingers. The shaft was shaved ash, fletched with goose feather, carrying an iron broadhead. He looked back along the angle it had come from — the wooded spur beyond the ditch, two hundred paces off. "One man, on high ground, while the whole ala was twelve miles north."</p>
+<p>"One archer doesn't account for Dalkingen," Marcius said.</p>
+<p>"No," said Raeticus. "But whoever put this here had time to walk up, loose twice, and walk away without any of my forty men inside these walls seeing a thing."</p>
+<p>He turned to face Marcius. "It's a lot smaller than an Alamanni war-band," he said, tersely, "but not so small that we won't find them."</p>
+<p>Raeticus turned and carried the iron head across the flagstones into the central hall of the principia, with Marcius a few paces behind. He walked past the administrative offices directly to the regimental shrine at the rear of the basilica.</p>
+<p>Marcius quickened his pace and touched his arm, just as he reached the shrine. "Sir, do we stand the men down for the night?"</p>
+<p>Raeticus paused on the threshold, and wheeled around to face Marcius, his face pale with zealous indignation. "Stand the men down?" His voice was low and thin. "We haven't even begun."</p>
+<p>"But sir, we have nothing solid to go on —"</p>
+<p>Raeticus cut him off. "For four days now, my garrison has faced derision and ridicule at the hands of these insolent men, whoever they may be. Senecio and his riders were harassed for twenty miles on the road. The search we sent west was fruitless. The stillness yesterday was more ominous than a direct attack, only to be followed, this morning, by two draft horses appearing at my gates. But the desecration of Dalkingen cannot go unanswered. You know how deeply I feel my responsibility for the safeguarding of that shrine, and for it to have met with total destruction right before my eyes —"</p>
+<p>He turned and entered the shrine.</p>
+<p>Inside the vaulted alcove stood the bronze bust of Divus Antoninus on a pedestal of Raetian marble. An oil flame burned on the stone altar of Mars Ultor.</p>
+<p>Raeticus laid his spatha on the altar slab. He drew his pugio, laid the edge across the heel of his left hand, and cut the skin. He pressed his bleeding palm against the base of the bronze bust, leaving his print across the carved dedication.</p>
+<p>"Divus Antoninus," Raeticus said. "Mars Ultor. Witness this obligation. I bind myself and this ala to your vengeance. I pledge to destroy the perpetrators, and to leave their remains exposed to the carrion birds. This command stays in the field until this desecration is expiated."</p>
+<p>He sheathed his dagger and turned to Decurion Marcius and the camp cornicularius waiting at the sanctuary gate.</p>
+<p>"Issue orders to the turmae," Raeticus said. "Four days' hard bread and oil, mounts fed and shod before we move. The first division of eight turmae takes the high ground between the Kocher and the wall, moving in line abreast with fifty paces between riders. The second division blocks the tracks leading east toward Buch and the Jagst crossings. The third division holds the north road in reserve. Order the armorers to mount ballistae on the north towers and issue twenty broadheads to every horse archer. We march at dusk."</p>
+<p>Marcius saluted, his right fist striking his cuirass. "The horses covered twenty-four miles on dry roads today. They require rest."</p>
+<p>"The horses will endure with the men," Raeticus said. "The gods require retribution. Form the squadrons."</p>
+<div class="section-header" id="ch-20">20 — Fire the Rest</div> <a class="back-to-top" href="#toc">↑ Back to top</a>
+<p>Tigratavā climbed down through the cleft in the rocks, stepping from one limestone shelf to the next until she reached the stream. Thilda followed, holding her spear balance-point forward to clear the low branches.</p>
+<p>Beside the water, Tove had Toria seated on a boulder, working a damp cloth along the torn skin of her forearm.</p>
+<p>"Sit still," Tove said. "The edge of the scab is full of leaf mould. If you want this cut to heal clean, the dirt has to come out."</p>
+<p>"You have been scrubbing the same spot for half an hour," Toria said, looking away toward the horses. "You are peeling the skin off."</p>
+<p>"Then stop rolling your arm in the brush every time you turn over," Tove replied, her tone even. "You treat your limbs as though you have spares in your saddle-roll."</p>
+<p>Thana sat against a fallen birch, paring kindling with her xiphidion. "Leave her be, Tove. Iberians prefer to bleed. It saves them the trouble of thinking."</p>
+<p>"At least some of us wanted to fight today," Toria retorted, though she held her arm still while Tove rinsed the rag. "You five spent the whole afternoon throwing two arrows at an empty gate and laughing about it."</p>
+<p>"The arrows did their work," Thana said, turning the stick in her fingers. "The entire fort jumped into the ditch."</p>
+<p>Tiata sat on a flat stone with her falx across her knees. She looked over at Tigratavā as the Roxolani woman took a drink from the creek.</p>
+<p>"What is happening at the north gate?" Tiata asked.</p>
+<p>"Raeticus is moving," Tigratavā said. "Every squadron in the compound is out on the gravel apron. Twenty-four turmae, saddled and mounted by torchlight."</p>
+<p>"Twenty-four?" Tove looked up from Toria's arm. "He's turning out the whole Ala for the second time in one day."</p>
+<p>"Every rider," Thilda confirmed, leaning her framea against the rock. "The lead column is already pushing into the woods above the road, eight abreast until the track forces them into single files. A second division is swinging east toward the Jagst crossings. Raeticus is sweeping the entire ridge between the river and the frontier wall."</p>
+<p>"Through hazel thickets in the dark?" Thana let out a short laugh. "The horses will break their legs in the rabbit burrows, and the troopers will spend the night cursing their decurions."</p>
+<p>"He has fifty paces between riders," Tigratavā said. "You can hear them half a mile off. Iron shoes ringing on the rocks, branches cracking, and officers shouting to keep their lines straight."</p>
+<p>"If he has a thousand horsemen on this ridge," Tiata said, looking up through the timber, "they will cross this hollow before the third watch."</p>
+<p>"Then this hollow is finished," Tove said. "We need our gear packed and the hearth cold before their pickets reach the crest."</p>
+<p>"What sits inside the walls?" Toria asked, pushing herself up from the boulder. "If all his troopers are in the woods, who is holding the fort?"</p>
+<p>"A single reserve squadron sits outside the north portal, watching the road toward Buch," Tigratavā said. "Inside the perimeter, I counted five watchmen on the catwalks, a few stable-grooms, and the men from the sick list. The south and west gates have empty towers."</p>
+<p>Taran looked up from checking the fletching on her yew arrows. "The south gate is the supply depot."</p>
+<p>The group turned toward her.</p>
+<p>"At Lorch, the officers talked about Aalen's supply line," Taran said. "The Ala needs hundreds of bushels of grain and wagonloads of iron every month to keep a thousand horses shod and fed. It all comes up the Kocher by barge from the Danube and unloads straight into the south postern. The granaries, the armory workshops, and the storehouses sit right along that wall."</p>
+<p>"What is inside the workshops?" Thana asked.</p>
+<p>"Iron arrowheads," Taran said. "Crates of broadheads, and heavy bodkins meant to punch through iron plate. And medical supplies for the cavalry. Rolls of woven linen for bandaging torn muscles, jars of rendered grease, and vinegar for cleaning wounds."</p>
+<p>Tove held up the frayed, dirty scrap of wool she had pulled from Toria's arm. "Clean linen would be welcome. This wool is stiff, and Toria's cut needs a proper binding."</p>
+<p>"We are short on iron broadheads as well," Tigratavā added. "I have six left in my gorytos."</p>
+<p>"Then why are we just talking about it?" Toria said, her dark eyes wide. "Raeticus rode into the hills to hunt us. His back is bare. We can walk into his storehouse, take the linen and the iron, and fire the rest. Let him come home to find his winter supplies in ashes."</p>
+<p>Tiata turned toward Thilda. "How close does the river cover get to that south gate?"</p>
+<p>"The Kocher runs through a deep gravel trench two hundred paces west of the wall," Thilda said. "The banks are dense with willow and alder scrub. If we follow the runoff gully down from this hollow, we can lead the mounts right along the water in the shadow of the terrace. The sentries on the north wall have no line of sight down into the riverbed."</p>
+<p>Tiata considered the ground, looking from Thilda to Taran. "Raeticus is looking three miles north. His supplies are sitting behind an unmanned gate. We will not find a better hour than this."</p>
+<p>"I will clear the hearth," Tove said, already rising.</p>
+<p>They packed their bundles in silence. Tove carried creek water to the fire-pit, soaking the stones and throwing wet sand over the ash before raking dead birch leaves across the clearing. Toria gathered the lead ropes with her sound hand, holding the leather in her teeth to tie the hitch, while Thana slung the water skins across the pack saddles.</p>
+<p>Within minutes the hollow was bare. They led the five horses down the dry gully, the limestone banks rising on either side to hide their movement. Above them, the heavy rumble of the Roman sweep carried through the trees—decurions calling out interval markers, lances rattling against branches, and horses stumbling on the rocky shelves.</p>
+<p>They reached the valley bottom where the Kocher ran over grey gravel shoals. The water was knee-deep and cold, swirling around the horses' legs as they moved downstream through the thick alder screen.</p>
+<p>The high stone curtain of Aalen rose on the terrace above them, grey against the night sky.</p>
+<p>Thilda checked her horse in the shadow of an overhanging willow. "The postern is fifty paces up the bank. Right beside the corner tower."</p>
+<p>"Toria stays with the horses," Tove said, stepping down into the gravel. "Her arm is no good for climbing, and I will stay with her to watch the river track."</p>
+<p>"I can hold a blade," Toria muttered, though she stayed by the mount.</p>
+<p>"You can hold the reins," Tove told her, pressing the leather lines into her hand. "Thilda, keep your spear ready by the trees."</p>
+<p>"I have the track covered," Thilda said, turning her mount to face the upstream approach.</p>
+<p>Tiata unslung her falx. Tacita, Taran, Thana, and Tigratavā fell in beside her. They climbed the river terrace on the balls of their feet, keeping low against the clay bank, and dropped into the dry outer ditch beneath the south wall.</p>
+<p>The timber postern door was three paces high, built of solid oak planks. Tacita slid the flat of her gladius into the seam between the door and the stone jamb. She felt for the internal timber latch-bar, worked the steel beneath it, and eased the oak beam upward until it cleared the iron bracket. The door pushed inward on greased bronze pivots.</p>
+<p>The yard beyond lay in deep shadow. The stable blocks stood empty, their stall half-doors unlatched. Across the open gravel path sat the low stone foundation and timber walls of the secondary horreum.</p>
+<p>Tacita slipped through first, her gladius held low. Tiata and Tigratavā took positions on either side of the postern frame, watching the lane between the stables.</p>
+<p>Taran reached the storehouse wall and lifted the heavy wooden shutter. She boosted Thana up through the opening, then caught the timber sill and pulled herself through.</p>
+<p>Inside, the storeroom smelled of dry grain, pitch, and cured bacon.</p>
+<p>Taran moved along the timber racks, her fingers finding the wicker arrow crates stacked near the entrance. She pulled bundles of ash shafts fletched with goose feather and passed three dozen heavy iron bodkin points down through the window to Tigratavā. Thana found the medical stores on the secondary shelf, taking four large rolls of bleached linen, two sealed earthenware jars of goose fat, and two cured hams.</p>
+<p>Footsteps scraped on the gravel outside.</p>
+<p>An older auxiliary rounded the corner of the granary, carrying a horn oil lantern and a heavy ring of keys on his belt. He was adjusting his tunic as he walked, head down against the chill. He raised his eyes, caught sight of the open postern door, and stopped.</p>
+<p>Tacita stepped out from the shadow of the stone buttress behind him, and her gladius silently slid across his throat. The auxiliary went limp in her grip. Tacita supported his weight, easing his body down against the stone footing, and pinched out the lantern flame.</p>
+<p>Thana dropped out through the window into the yard, the canvas bags of linen, iron points, and meat slung across her shoulders.</p>
+<p>She had found the workshop's stores. Taran and Thana tipped over three large storage jars of linseed oil, sending the thick amber liquid washing across the dry timber floor, the wicker hampers, and the stacked bundles of seasoned wood. Taran struck her steel against the flint, caught the spark in a nest of dry tow, and dropped the burning bundle into the pool.</p>
+<p>The flames spread with a violent, hollow roar. A sheet of orange light burst across the ceiling, catching the dry pine bins and instantly driving a choking wave of resinous black smoke down through the rafters.</p>
+<p>Taran swung back through the window sill and dropped to the turf beside Thana.</p>
+<p>"Out!" Tiata hissed from the postern frame. "Move!"</p>
+<p>They turned for the postern, but the sudden blaze had already betrayed them.</p>
+<p>From the shadow of the adjacent stable block, three auxiliaries burst into the lane at a run—two carrying iron-shod pitchforks from the horse stalls, the third with his spatha drawn. They took in the roaring window, the dead watchman crumpled by the buttress, and the women at the postern.</p>
+<p>The lead man opened his lungs in a roar that echoed off the stone granary: <em>"Fire! At the postern! Arms! To the south wall!"</em></p>
+<p>As the swordsman lunged at Tiata, the falx came around in a wide, vicious arc, catching him across the chest with enough concussive force to lift him off his feet, smashing his body back against the timber wall of the stable.</p>
+<p>The second man ran at Thana, his pitchfork leveled at her throat. She ducked at the last moment, and drove her xiphos upward under his ribcage.</p>
+<p>As the third auxiliary turned to bolt back toward the courtyard, the tuagh caught the back of his head, sending him sprawling in a pool of his own blood.</p>
+<p>Taran dashed across and retrieved her tuagh, then slid into the dry ditch just as the others were scrambling up the opposite lip.</p>
+<p>Tiata leaned down and hoisted her up. <em>"Run!"</em> she urged, breaking into a sprint behind Taran.</p>
+<p>Above them on the south rampart, a sentry shouted into the darkness. From across the central yard came the urgent, rapid hammering of a spear butt against the bronze alarm plate, its frantic, clanging rhythm shattering the night.</p>
+<p>"Down! Slide!" Thilda’s voice rose from the willow screen below.</p>
+<p>They threw themselves down the steep clay terrace. Stones and dislodged gravel rained into the riverbed as they hit the shallows with a heavy splash.</p>
+<p>Tiata paused momentarily, glancing back as the sound of raised voices rounded the corner of the fort. Torchlight spilled across the ditch, catching the blade of her falx, before she turned and followed the others down the bank.</p>
+<div class="section-header" id="ch-21">21 — Nefas</div> <a class="back-to-top" href="#toc">↑ Back to top</a>
+<p>The bronze alarm plate clanged across the valley while Raeticus held his mount on the northern ridge. Through the pines, the south gate horn sounded the general alert, and an orange glare climbed above the stone perimeter of Aalen.</p>
+<p>Raeticus wheeled his horse, shouting down the line for the turmae to reverse.</p>
+<p>At dawn, the vanguard entered through the south gate.</p>
+<p>Smoke hung thick across the yard. The secondary horreum was a mass of glowing charcoal. Buckets of ditch water hissed as work details threw them across the collapsed rafters.</p>
+<p>Decurion Marcius stood by the open postern door. Beside him, four shapes lay stretched on the flagstones beneath coarse horse-cloths.</p>
+<p>"The oil stores caught first," Marcius said. "Three earthenware jars of linseed oil were emptied across the floorboards. The fire climbed the wicker bins and reached the roof before the bucket line could form."</p>
+<p>Raeticus walked past the smouldering beams to the oak postern. The wood bore a clean score mark where a thin blade had lifted the internal latch bar from the outside.</p>
+<p>He stopped before the four covered bodies and pulled back the first cloth.</p>
+<p>It was the veteran storehouse guard. The man lay flat on his back. A single horizontal cut crossed his throat, severing the windpipe down to the bone.</p>
+<p>"We found him by the granary buttress," Marcius said.</p>
+<p>Raeticus stepped to the second cloth and pulled it back.</p>
+<p>The swordsman lay with his chest caved in by a massive, concussive blow.</p>
+<p>Beside him lay the second auxiliary, taken with an upward thrust beneath the ribs that had pierced his heart.</p>
+<p>The fourth man lay face down. The back of his skull was split open, the bone splintered by the clean wedge of a heavy blade.</p>
+<p>"The strongbox in the corner bay is untouched," Marcius said. "Forty pounds of silver payroll, locked and unmarked. They took four rolls of bleached linen, two jars of goose fat, two cured hams, and three dozen heavy iron arrowheads."</p>
+<p>"The sentry on the wall," Raeticus said. "What did he see?"</p>
+<p>"Nothing, sir," Marcius said. "He heard the shout from the lane—<em>Fire at the postern, arms to the south wall</em>—and he ran to the rail, but the smoke was already rolling off the eaves."</p>
+<p>"And the men who answered the shout?" Raeticus turned to look Marcius in the eye. "The detail that ran from the stables with torches?"</p>
+<p>Marcius hesitated. He glanced towards the river terrace.</p>
+<p>"Marcius?"</p>
+<p>"Yes sir, they brought six torches around the corner of the wall, sir. The fire was roaring behind the postern, and they found these three lying in the dirt." Marcius swallowed hard. "They swear there was no band of raiders."</p>
+<p>"Then who killed them?" Raeticus demanded. "Who set the fire?"</p>
+<p>"They swear they saw only one figure, sir."</p>
+<p>"One! Are you mad?"</p>
+<p>"That's what they said, sir, only one. Across the ditch, standing on the crest of the river terrace in the torchlight," Marcius said. "They swear it was a woman. An enormous woman, holding a great, curved scythe."</p>
+<p>"A woman with a scythe," Raeticus said, scathingly. "So one woman with a scythe did all this. And where is she now?"</p>
+<p>"Before they could cross the ditch, she vanished, sir," Marcius said. "They ran to the lip with the torches, and looked down into the riverbed. There was nothing, sir. Only the river mist rising off the shallows. The men... the men said it seemed as though she... as though she..."</p>
+<p>"She what?"</p>
+<p>"As though she slid into the ground," Marcius said.</p>
+<p>Raeticus stood in the falling ash, surrounded by the ruins of his storehouse.</p>
+<p>His mind was a maelstrom of conflicting thoughts. Mortal raiders worked in bands. They coveted gold, shouted in barbarian tongues, broke weapons, left bloody heel prints, dragged off livestock.</p>
+<p>This being had bypassed forty pounds of coin to take bandages and iron points. This being had entered locked stonework, put four soldiers to death with four distinct, terrifying strokes, and left behind men so paralyzed with dread that they babbled of a giantess with a reaper's scythe melting into the underworld fog.</p>
+<p>Every strike had left physical proof of its reality. The trilobate heads Senecio had returned with. The broadheads embedded in the north gate timber. The dead draft horse at his gate. The tons of yellow sandstone burying Caracalla at Dalkingen. And here lay four corpses on the gravel.</p>
+<p>Yet every report brought to him dissolved into the impossible.</p>
+<p>Raeticus turned and walked across the courtyard. He climbed the principia steps, pushed past the sentries without a word, and entered the regimental shrine.</p>
+<p>The oil flame on the altar of Mars Ultor had sputtered out completely. In the center of the vaulted alcove, the bronze bust of Divus Antoninus scowled down from its marble pedestal. Across the white stone, the bloody imprint of Raeticus's palm from the night before had dried into a blackened, flaking crust.</p>
+<p>He held up his left hand and tore away the linen wrap he had bound over the cut. The wound was festering. The edge had split wide, the skin swollen tight, weeping a foul, yellowish fluid across the heel of his palm, and a dull, thrumming ache pulsed up his arm.</p>
+<p>Footsteps sounded on the flagstones outside the shrine and Decurion Marcius entered.</p>
+<p>"Praefectus," Marcius said, his voice hushed in the sacred chamber. "The morning watch is mounted on the north apron. The horses have water. Which sector do we sweep?"</p>
+<p>Raeticus stood before the silent bronze bust of his emperor, his throbbing, poisoned hand clenched tight against his breastplate, his back to the door.</p>
+<p>"Sir?"</p>
+<div class="section-header" id="ch-22">22 — Castra Regina</div> <a class="back-to-top" href="#toc">↑ Back to top</a>
+<p>The courier reached the west gate of Castra Regina an hour past noon.</p>
+<p>He had ridden from Aalen in twenty-six hours, swapping mounts twice at the postal stations along the Danube road, at Submuntorium and Abusina. He gave the reins to the sentry at the barrier, asked for the duty officer, and walked straight down the paved street toward the principia.</p>
+<p>Legatus Quintus Caecilius Flaccus was in the record room behind the basilica with the camp prefect, Calpurnius.</p>
+<p>Tribune Valerius brought the dispatch in himself.</p>
+<p>"From Aalen," Valerius said, laying the sheet on the table. "Dispatched at dawn yesterday."</p>
+<p>Flaccus picked it up and read it through without speaking.</p>
+<p>"Raeticus has turned out the Ala," Flaccus said, setting the papyrus down.</p>
+<p>Calpurnius looked up from the tally. "How many?"</p>
+<p>"All of it. Twenty-four turmae."</p>
+<p>Calpurnius frowned. "A thousand horse? For what?"</p>
+<p>Flaccus turned the sheet so Calpurnius could see the lines. "Two draft horses from the wall pen at Dalkingen turned up at his north gate at first light yesterday. One died as soon as it stopped; they had an iron swingle-tree trailing behind them. He saw smoke to the north. Buch didn't answer his signal, and neither did the towers along the road. He marched north to relieve the gate."</p>
+<p>"Buch is two miles from Dalkingen," Calpurnius said. "If the gate was on fire, the cohort there should have reached it inside an hour."</p>
+<p>"Buch didn't send a rider," Flaccus said. "That is why he turned out the Ala."</p>
+<p>Calpurnius turned the letter over in his hands, checking the cornicularius's mark at the bottom. "That was yesterday morning. Dalkingen is twelve miles from Aalen. At a trot, he would have been at the wall before midday."</p>
+<p>"Yes," Flaccus said.</p>
+<p>"Then if he fought yesterday afternoon and sent word at dusk, that rider has only had eighteen hours on the road," Calpurnius said. "He won't hit our gates before midnight at the earliest. More likely tomorrow's dawn."</p>
+<p>"If a second rider is coming at all," Flaccus said.</p>
+<p>Calpurnius looked at him.</p>
+<p>"Consider the ground," Flaccus said, his voice flat. "If Raeticus broke an ordinary raid yesterday, a courier arrives tomorrow morning with the tally, and all is well. But what if the valley road was cut behind him? What if he was drawn into the timber north of the wall and ambushed? If we sit here until tomorrow morning waiting for a courier who is lying in a ditch, we have lost another full day while Aalen sits empty."</p>
+<p>He looked at the wall map. It was sheepskin, stretched on pine stretchers, showing the frontier from the Danube north to the Main. The border line was marked in red ink, with the fort sites indicated by square black blocks. At the western edge, where the Raetian stone wall met the Upper Germanic palisade at a sharp angle, the ink was slightly smudged.</p>
+<p>"There was a report two days ago from the merchants' post at Günzburg," Flaccus said, his finger resting on the smudged angle. "A trader coming through from Moguntiacum said the watch-station at Fort Lorch had burned. We had nothing from the Germanic command, so I put it down to rumor."</p>
+<p>"Lorch belongs to Upper Germany," Calpurnius said.</p>
+<p>"It belongs to the frontier," Flaccus said. "And it sits thirty miles west of Dalkingen. If Lorch is gone, the knee is open. If the knee is open, whoever came through it may not have hit Dalkingen from the north."</p>
+<p>Calpurnius looked at the map, then back at the letter. "Then Raeticus rode straight into it."</p>
+<p>"We don't know what he rode into," Flaccus said. "That is the problem. We have one letter twenty-six hours old telling us the premier cavalry unit of this province emptied its fort and marched to the gate. If he is engaged in the valley, he cannot hold it indefinitely without infantry."</p>
+<p>He turned away from the sheepskin and looked at Tribune Valerius.</p>
+<p>"How many men in the cavalry detachment here have their horses shod?"</p>
+<p>"Thirty, sir," Valerius said. "The second decuria finished their rotation this morning."</p>
+<p>"Take nine others," Flaccus said. "Good mounts, and two remounts per man from the post stables. Take the paved road west through Submuntorium to the Brenz junction, then turn north for Aalen. Do not take the hill tracks."</p>
+<p>"Understood, sir."</p>
+<p>"You ride until you find the Ala," Flaccus said. "If the Ala is engaged and needs infantry support, you send a rider back to me at once. If the road north of Aalen is blocked, you hold at the fort and do not go into the timber."</p>
+<p>"And if Aalen is empty?" Valerius asked.</p>
+<p>"Then the province is in trouble," Flaccus said, without raising his voice. "And you will bar the gates and wait for me."</p>
+<p>He turned back to Calpurnius.</p>
+<p>"Tell the tribunes of the First and Second Cohorts to inspect kit this afternoon. Full field packs, four days' hard bread, six mules per century. The baggage carts stay in the park, but I want the draft oxen brought up from pasture."</p>
+<p>"You want the legion ready to move?" Calpurnius asked.</p>
+<p>"I want eight hundred men ready to march west the moment Valerius sends word," Flaccus said. "I will not have two cohorts sitting in barracks eating barley while an auxiliary prefect loses his cavalry in the brush."</p>
+<p>"Yes, Legate."</p>
+<p>"Move, both of you," Flaccus said, sitting back down at the table. "The day is half gone."</p>
+<div class="section-header" id="ch-23">23 — The Omen</div> <a class="back-to-top" href="#toc">↑ Back to top</a>
+<p>For two days, not a single horse had left the fort.</p>
+<p>Raeticus had grounded the Ala at first light on the morning after the storehouse burned. When Marcius had asked which sector to sweep, Raeticus had given no orders. He had looked at the charred beams of the horreum, looked down at his swollen, weeping palm, and ordered the gates barred and the squadrons kept in their lines. To ride out into the timber while an offended god stood against him was leading twenty-four turmae to destruction.</p>
+<p>A thousand cavalrymen and their mounts, idle for two days behind stone walls, turned restless. The stables grew foul, and the men sat along the barrack verandahs in the cold air, trading rumors about the figure seen on the river terrace.</p>
+<p>The cleansing of the sanctuary had taken the whole day, scrubbing the marble plinth and the altar stone with vinegar, lustral water, and sand to scour away the dried blood of the vow.</p>
+<p>The following day, Raeticus had ordered the expiatory sacrifice be made.</p>
+<p>A black ram had been led up the principia steps, and the formal <em>piaculum</em> offered to Mars Ultor to lift the curse from the command. But the reading of the entrails had settled the matter. When the belly was opened, the principal lobe of the liver—the <em>caput</em>—was missing entirely, withered to a knot of gristle. The haruspex had dropped his bronze knife, backed out of the alcove on his knees, and refused to speak the ritual blessing.</p>
+<p>The god had not accepted the offering. The curse remained, and Raeticus knew he was doomed.</p>
+<p>By evening, Raeticus was in the room off the basilica. The lamp smoked on the table, casting shadows across the unread rosters. His left arm hung stiffly beneath his cloak, wrapped in thick linen, steeped in the yellow fluid weeping from the wound, the fever burning behind his eyes.</p>
+<p>A cavalry horn sounded from the south gate — the three-note call of an imperial salute.</p>
+<p>Marcius turned toward the yard as iron-shod hooves clattered across the gravel apron, moving at the steady, hard trot of fresh mounts. Voices called out at the barrier, and boots rang on the flagstones of the great hall.</p>
+<p>Tribune Valerius came into the room. His face was lined with the fatigue of twenty-eight hours in the saddle. Behind him on the steps, nine legionary troopers held the reins of their remounts.</p>
+<p>Valerius halted three paces from the table and brought his fist to his armor.</p>
+<p>"Praefectus Raeticus."</p>
+<p>Raeticus got to his feet, using the timber edge to steady himself. He pulled his cloak around his left side to conceal the bandaged hand.</p>
+<p>"Tribune Valerius," Raeticus said, his voice hoarse. "You've ridden from Castra Regina."</p>
+<p>"Dispatched yesterday at noon," Valerius said. His eyes took in the room, the smell of vinegar, and the fever-sweat on the prefect's forehead. "Legatus Flaccus received your dispatch. Two draft horses at your gate, smoke to the north, and the Ala marching for Dalkingen."</p>
+<p>Valerius looked past him, through the window, toward the blackened wreckage of the south horreum.</p>
+<p>"The Legatus sent me to find the Ala," Valerius said. "If you were engaged and needed infantry support, I was ordered to send a rider back to him at once. He has eight hundred men of the First and Second Cohorts ready to move the moment I send word."</p>
+<p>Valerius kept his voice level. "What is the situation here, Praefectus?"</p>
+<p>Raeticus swallowed, his throat dry.</p>
+<p>"We reached Dalkingen," he said. "The post was destroyed. Eight auxiliaries dead. While we were attempting to recover the bronze from the archway, the vault gave way. Heat-stress. The stone collapsed into the passage and buried the statue."</p>
+<p>"And the force that burned the post?"</p>
+<p>Raeticus paused before answering. "We found no tracks."</p>
+<p>"And your storehouse?"</p>
+<p>"A night raid," Raeticus said, his uninjured hand tightening on the edge of the table. "While the Ala was returning. Four dead at the postern. They took medical stores, iron points, and provisions. The fire took the timber roof."</p>
+<p>Valerius listened in silence, his gaze resting on the stained linen wrapping showing beneath Raeticus's cloak.</p>
+<p>"And since then?" Valerius asked. "Have you pursued?"</p>
+<p>"The Ala has been held in quarters," Raeticus said.</p>
+<p>Valerius looked at him for a long moment. "A thousand horse held inside the walls for two days, and no patrols on the road."</p>
+<p>Raeticus said nothing.</p>
+<p>"Legatus Flaccus is holding two cohorts under arms at Castra Regina waiting for my rider," Valerius said. "I need to know what word to send him, Praefectus. Are you in contact with an enemy, and do you require the infantry?"</p>
+<p>Raeticus stood stiffly in the lamplight, the fever throbbing through his arm, the memory of the empty platter in the shrine still hanging over him.</p>
+<p>"There is no enemy in sight, Tribune," Raeticus said quietly. "The frontier stone stands. The road is open. Tell the Legatus there is nothing here for his cohorts to fight."</p>
+<div class="section-header" id="ch-24">24 — Acting Command</div> <a class="back-to-top" href="#toc">↑ Back to top</a>
+<p>Tribune Valerius looked at the man standing before him in the lamplight. Raeticus was shaking with fever, clutching a rotting wrist beneath his cloak, and claiming the frontier stood secure.</p>
+<p>A legionary staff officer riding twenty-eight hours under the direct seal of Legio III Italica dealt in visible facts. Within an hour of his arrival, Valerius had the camp <em>medicus</em> brought to the principia to shear away the soiled linen. The cut showed black and putrid to the bone, and Raeticus’s speech had already dissolved into delirium. By sunrise, Valerius had relieved the Praefectus Alae of duty and transferred him under armed guard to a cot in the fort’s <em>valetudinarium</em>.</p>
+<p>Command of an auxiliary cavalry regiment lay outside a legionary tribune's authority. Valerius held the governor’s mandate by extension, empowered to establish order and name a temporary commander until the governor appointed a new Praefectus Alae. He assembled the decurions in the principia and placed Decurion Senecio in charge of the garrison. Senecio had shown steady judgment on the road from Lorch and possessed the spine to speak the truth.</p>
+<p>Three of Valerius’s troopers rode south along the paved highway to Castra Regina at first light. The dispatch to Legatus Flaccus laid out the facts: Praefectus Raeticus lay incapacitated by blood-poison; Decurion Senecio stood in as temporary commander of the Ala; Valerius remained at Aalen to oversee the inquiry and await the governor’s appointments or the arrival of the legionary cohorts.</p>
+<p>Valerius and Senecio turned their combined authority toward the unraveling of the garrison. They summoned Decurion Marcius to the record room to lay bare the mechanics of every engagement, paring away rumors of omens and forest specters.</p>
+<p>Senecio reviewed the western road. He described an enemy who paced an armed cavalry column from absolute concealment, planting heavy shafts into harness buckles, saddle horns, and water skins with cold, exacting precision. They had spared the troopers' lives purely to seed panic, leaving an intact, abandoned fort behind them and a hearth built for a mere handful of riders.</p>
+<p>Marcius followed with the disaster at Dalkingen. He detailed an entire cavalry wing lured twelve miles up the valley to find the gate collapsed into a mountain of smoking rubble, an imperial shrine felled by the post’s own draft beasts, and an exhausted Ala returning to find its home ramparts trembling at two arrows dropped into an empty courtyard.</p>
+<p>Valerius listened in silence, rolling a recovered broadhead across his knuckles. To a trained legionary staff officer, the pattern stood out in sharp relief. A handful of lethal, highly disciplined adversaries had dissected the command from within. They had measured Raeticus’s pride, manipulated his obsessions, and tricked the garrison into defeating itself.</p>
+<p>Senecio and Valerius halted every pursuit into the surrounding timber, directing all available manpower toward the interior of the base. They suppressed rumors of curses and underworld reapers with the vine-staff, punishing superstition with docked pay and hard bread rations. To protect the thousand mounts from lameness and colic, Senecio broke the stall confinement through structured, heavily guarded rotations. Squadrons moved under archer overwatch to muck stalls, air bedding, and walk the horses down to the gravel shallows of the Kocher for water. Work crews cleared the charred timbers of the south horreum, blacksmiths refired the armory forges to repair damaged tack, and sentry rosters on the ramparts doubled.</p>
+<p>Over the next three days, Aalen hardened into a disciplined redoubt. Routine and physical labor drove out fear. Behind barred gates and vigilant walls, Senecio held the Ala in readiness while Valerius sat in the principia, awaiting word from Castra Regina.</p>
+<div class="section-header" id="ch-25">25 — Minor Disturbances</div> <a class="back-to-top" href="#toc">↑ Back to top</a>
+<p>Five days after Valerius reached Aalen, the courier from Castra Regina arrived with orders from the Legatus.</p>
+<p>Valerius received the dispatch in the record room. Flaccus approved the removal of Praefectus Raeticus to the <em>valetudinarium</em>, and confirmed Decurion Senecio in temporary command of the Ala. Valerius was instructed to remain at Aalen to assist Senecio until the governor appointed a new Praefectus Alae. At the foot of the sheet, Flaccus added a clear command: send regular accounts of the true situation along the limes. The two cohorts of the Third Legion remained in their quarters at the Danube, awaiting word of the enemy before marching west.</p>
+<p>The return courier prepared to ride south that same afternoon, bearing Valerius's official accounting of the disaster at Dalkingen.</p>
+<p>Valerius had refused to set the shameful truth to wax. To report that two runaway draft horses had dragged the bronze emperor into a bonfire, and auxiliary pry-bars had collapsed the vault into rubble, invited disgrace upon the entire provincial command. Instead, Valerius invented a conventional engagement. An Alemannic war-band had crossed the palisade at dawn, set fire to the timber guardhouse, and battered the monument from its plinth. The infantry of Cohors III Thracum from Buch had advanced from their fort, driving the raiders back into the northern forests before the Ala arrived on the road. The cavalry had secured the valley, arriving, unfortunately, too late to salvage the imperial bronze. The dispatch assured Flaccus that the enemy stood repelled, the border remained quiet, and the Ala held the sector in hand.</p>
+<p>The quiet lasted a single day. Then the reports began arriving every morning, turning the record room into a clearinghouse of misery.</p>
+<p>The day after the courier departed, a rider galloped in from Fort Böbingen. A timber wagon hauling seasoned oak from the Rems valley had been ambushed in a narrow defile four miles west of the fort. An arrow from the scrub had killed the lead escort instantly. Before the other two horsemen could clear their scabbards, attackers swarmed the road from both flanks. The auxiliary escort lay dead in the ditch, their chests split by heavy spears, the teamster dead across his seat. The attackers had sliced the traces, leaving the oxen wandering and the wagon standing abandoned in the road surrounded by corpses.</p>
+<p>The following morning brought word of a strike along the northern wall. The watchtower near the collapsed Dalkingen arch had gone dark at dusk. A relief party from Fort Buch, twelve miles up the valley road, found both sentries dead on the catwalk, each pierced through the throat by a heavy trilobate arrow loosed from the timber three hundred paces off. The iron fire-basket lay quenched in the ditch.</p>
+<p>At sunset the next day, simultaneous alarms struck opposite flanks of the district. Both garrisons kept their gates barred through the dark, their couriers galloping out at first light to reach Aalen before mid-morning.</p>
+<p>From Fort Buch came word of a grain wagon hit outside the fort's own gates: the teamster killed, five sacks of barley slit open across the road, the draft mules cut loose into the scrub.</p>
+<p>From Fort Böbingen arrived an account of pure butchery. A mounted patrol of four auxiliaries had been ambushed in the rocky defile three miles west of the fort. The strike had bypassed the men to slaughter the mounts. Low blades swept through the scrub, houghing every horse at the hock. All four beasts crashed screaming to the gravel, their hamstrings severed clean. Two riders died crushed beneath their mounts; a third was run through with a spear as he struggled to rise. The surviving auxiliary was stripped of armor and spatha, left standing in his under-tunic, and ordered to walk back to Böbingen on foot with a message: <em>Walk. Keep walking. Tell your decurion Rome has lost its legs.</em></p>
+<p>The next day brought word from the high western ridge. A dispatch courier riding from Fort Schirenhof toward Aalen had been killed on the road. The rider lay dead in the scrub with a fractured skull, his leather case slit and cohort manifests scattered into the dirt, his horse houghed at the tendon and left thrashing in a ditch.</p>
+<p>By the close of the week, the tactical signatures swapped ground entirely. Midday brought couriers from opposite flanks within an hour of each other.</p>
+<p>From Fort Schirenhof, high on the western ridge, came word of the northern long-range archery and silent stealth. An auxiliary on the rampart had been dropped across the gorge by a heavy trilobate arrow through the shoulder. Simultaneously, in the morning mist, the fort's postern gate stood ajar, the guard dead against the stone from a lead-weighted Roman <em>plumbata</em> driven through his throat.</p>
+<p>At that exact morning hour, the western horse-butchery struck the northern plain twelve miles away outside Buch. At a narrow culvert where the road dipped through marshy scrub, a mounted patrol of six horsemen riding toward Dalkingen had slowed to a walk. Figures burst from the roadside hazel. Low curved blades and heavy axes struck at the legs, houghing four cavalry horses in the road. An attacker dropped from an overhanging branch with a piercing cry, twin daggers flashing, gutting two riders before their boots touched the dirt. The surviving auxiliaries fled back to Buch on foot, their mounts dying behind them.</p>
+<p>The attacks continued day after day. A supply cart overturned in a creek, its escort slaughtered in the shallows. Two remounts found dead in an outer paddock with severed hocks. An auxiliary scout picked off by an archer shooting from concealment while scouting a ford. Every morning brought fresh wax tablets to Aalen, each bearing news of dead auxiliaries, butchered mounts, and terrorized commanders.</p>
+<p>Valerius dispatched riders back to Buch and Böbingen with an urgent order: interrogate the survivors and obtain exact descriptions of the assailants—their numbers, armor, and tribal origins.</p>
+<p>The answers arrived by dusk.</p>
+<p>From Böbingen, the commander forwarded the testimony of the stripped auxiliary. The soldier swore his patrol had fallen to women—fighters with braided hair, bronze armor, and curved blades.</p>
+<p>From Buch, the report grew wilder still. The horsemen who fled the culvert insisted the screaming attacker in the tree canopy was a red-haired woman bearing blue paint across her cheekbones.</p>
+<p>Valerius tossed the tablets onto the cedar table with an exasperated laugh.</p>
+<p>"Women," Valerius said, his voice sharp with disgust. "Our cavalry breaks in panic, and the survivors invent fairy tales to excuse their shame."</p>
+<p>"The guards at our own south postern swore to a woman holding a curved blade," Senecio observed.</p>
+<p>"Raeticus indulged that superstition, and fever consumed his command," Valerius replied. "A Roman officer records military reality, Senecio. We face disciplined deserters who disguise their tracks, while our auxiliaries fabricate fables to mask their disgrace."</p>
+<p>"Deserters or fables, they are bleeding us daily," Senecio said, his voice flat with anger. "They butcher our horses at the hock. They shoot sentries from three hundred paces, drop out of trees, and slip postern gates with Roman darts. Buch has barred its gates at noon. Schirenhof's horsemen refuse to mount patrols. Our outposts are crippled, stranded on foot, while the Ala sits behind stone."</p>
+<p>"We preserve the Ala," Valerius insisted, his hand flattening against the timber. "If we send squadrons into those gorges, our mounts will be houghed in the defiles just like the rest."</p>
+<p>"Then Aalen is an island," Senecio said. "A cavalry fort that leaves its satellite posts to be butchered on foot surrenders the border."</p>
+<p>Senecio turned and walked out, his boots striking the flagstones.</p>
+<p>Valerius sat alone in the lamplight. Two weeks had passed since his arrival, and the courier for Castra Regina was to ride at dawn. Flaccus awaited his accounting.</p>
+<p>Valerius drew a fresh diptych across the table and smoothed the black wax with his stylus.</p>
+<p>A Roman military dispatch required order: names of the fallen, tribes engaged, breaches in the line, banners taken. Here, the facts formed an impossible tally. Daily butcheries along the roads. Scores of auxiliaries dead. Cavalry mounts houghed at the tendon. Gatekeepers killed by Roman darts. Sentries dropped on catwalks. Messengers sent walking in their tunics. Tactical signatures trading ground across twenty miles of wilderness.</p>
+<p>The sole description provided by the survivors named a band of women.</p>
+<p>To set that claim to wax invited instant mockery from the Legatus. Flaccus would judge Valerius deranged, infected by provincial fever. To invent an invading army contradicted his own report from five days prior, when he had assured the Legatus that the Alemanni were driven off and the border stood secure.</p>
+<p>Yet to report the true collapse of the frontier invited ruin upon his own career. A staff officer who confessed that twenty-four turmae of heavy horse sat paralyzed inside stone while auxiliary outposts bled daily would face immediate dismissal.</p>
+<p>Valerius lowered the point of the iron stylus. He pressed the metal into the black wax and carved a second lie.</p>
+<p>He set down words of measured calm. The limes stood firm. The wall remained intact. The casualties represented isolated friction among the native settlements—occasional local disputes causing minor disturbances along the roads. The Ala held the district in hand, and the two cohorts of the Third Legion could remain at their posts on the Danube.</p>
+<div class="section-header" id="ch-26">26 — Don&#x27;t Dawdle</div> <a class="back-to-top" href="#toc">↑ Back to top</a>
+<p>Winter had set in along the Kocher, and the stream in the hollow ran under a thin layer of ice. Under the limestone ledge, Tove had a small, smokeless fire going between flat stones, heating strips of salted meat.</p>
+<p>Toria sat near the coals, flexing her fingers.</p>
+<p>"It barely pulls now," Toria said. "I could hold a blade today."</p>
+<p>"You will still take it easy, my dear," Tove said, turning the meat with her knife. "We could try a bit of sparring to see if you can swing iron in the cold without splitting the scab."</p>
+<p>"She'll be alright, Tove," Thana said. "The locals aren't likely to put up much of a fight anyway. Thilda and I had to listen to two teamsters at the lower ford yesterday swearing an entire war-band of forest ghosts is haunting the road."</p>
+<p>"They were shouting at their oxen like men possessed," Thilda said. "One swore he'd seen thirty horsemen in the mist, and the other swore it was fifty. Neither of them had actually seen anything, but they'd heard about the dead horses outside Lorch and decided every tree was armed."</p>
+<p>Thana laughed. "And Schirenhof?"</p>
+<p>"Barred tight," said Taran. "I watched from the ridge yesterday at midday. Two woodcutters came down with a cart and had to hammer on the oak timbers for half an hour before a sentry would even poke his nose over the wall. They wouldn't open the gate. The sentry lowered a basket on a rope to haul up their axes so they could prove they were Romans."</p>
+<p>"Good," said Tiata. "A garrison that won't open its gates to its own woodcutters is doing our work for us."</p>
+<p>Just then, Tigratavā dropped down through the cleft in the rock.</p>
+<p>"Movement," she said. "On the valley track, heading north toward this ridge."</p>
+<p>Tiata stood. "How many?"</p>
+<p>"Eight," Tigratavā said. "Heavy cavalry from Aalen, riding two abreast at an easy walk. They left the fort about five minutes ago. I watched them to see which way they were headed, and their path brings them right past our hollow."</p>
+<p>"We can't have that," Tove said. "We're too settled for the winter."</p>
+<p>"We need to take them on the lower bend," said Thilda. "The rock shelf pinches the track there—hazel on the right, the drop into the creek on the left. The ground is frozen hard, and they won't be able to turn."</p>
+<p>"That sounds perfect," said Tiata. "We'll go down there and greet them."</p>
+<p class="scene-break">⁂</p>
+<p>The trail bent sharply around a shoulder of limestone about half a mile below the crest. On the uphill side, bare hazel and birch hung out over the path. On the downhill side, the ground dropped twenty feet into frozen briars leading to the creek bed.</p>
+<p>Decurion Marcius rode at the head of the file. He wore his scale cuirass over a thick red tunic, his crested helmet buckled tight beneath his chin. His eyes were dark with exhaustion, but he sat his bay stallion with the ease of twenty years in the saddle. Behind him, seven troopers rode single file as they passed through the narrow defile, their cloaks pinned at the shoulder, round shields resting against their thighs.</p>
+<p>At the narrowest part of the bend, Marcius drew rein, his breath misting before him as he scanned the quiet timber ahead.</p>
+<p>A heavy trilobate struck the bronze girth buckle, shearing the plate clean through. A second shaft from a shelf above buried its point into the stallion's rump.</p>
+<p>The bay squealed and reared; the four-horned saddle tore loose and slid backward over the tail. Marcius lost his balance and tumbled backward, landing flat on his back in the frozen bracken with a thud that knocked the wind from his lungs.</p>
+<p>The horse kicked out, iron shoes clattering on the rime, and bolted up the track into the timber.</p>
+<p>Marcius rolled over and got to his knees, but before he could rise to his feet, the cold edge of a gladius pressed against his throat.</p>
+<p>At that moment, the forest erupted.</p>
+<p>Tiata appeared through the brush, swinging the falx to take out the forelegs of the leading two mounts. Both beasts collapsed forward with shrill, wet screams, throwing their riders into the rocks. Tove followed on their heels, her axe shattering the skull of a third mount, then sweeping back to take the rider.</p>
+<p>Taran dropped from the shelf above onto the shoulders of an auxiliary struggling to unsheath his sword, knocking him to the ground. Thilda stepped into the path with her tower shield, slamming a rearing mare backward down the slope into the briars, while Thana darted under a panicked horse to thrust upward with her xiphos.</p>
+<p>It was over in under a minute.</p>
+<p>The thrashing died into the wet rasp of dying mounts and the twitching of boots in the frost.</p>
+<p>Marcius remained kneeling, Tacita’s blade biting into his skin. He had watched seven men and their mounts butchered before his eyes.</p>
+<p>Thana stepped over a dead mount and crouched beside Marcius with a thin smirk.</p>
+<p>"You really shouldn't ride in the woods in winter, Decurion," she said. "The frost makes the leather so brittle."</p>
+<p>She unbuckled his sword-belt, drew his spatha, and tossed it down the twenty-foot drop into the creek. She pulled his pugio from his hip and flicked it across the track, burying it deep into a tree trunk.</p>
+<p>"A decurion of the Ala," Thana murmured. "Such fine scales. But not very good at keeping your seat, are you?"</p>
+<p>Tiata stepped up, resting the butt of her falx on the turf. "Get him up."</p>
+<p>Tacita eased the blade back a finger's breadth, caught him by the shoulder-guard, and pulled him to his feet.</p>
+<p>Tove walked over with a length of stiff rawhide.</p>
+<p>"Hands behind your back, lad," Tove said cheerfully. "Don't make me break cold fingers."</p>
+<p>Marcius, trembling so hard his scales rattled, brought his wrists together behind his back. Tove bound them tight, pulling the leather until his knuckles went pale.</p>
+<p>"Leave his armor on," Taran said. "He might need some protection if he trips on his way home."</p>
+<p>Tiata spun him by the shoulders so he was facing down the track.</p>
+<p>"Go," she said, thrusting him between the shoulders.</p>
+<p>Marcius stumbled forward, then regained his footing and began his descent.</p>
+<p>"Off you trot now, Decurion," Tove called after him. "Don't dawdle."</p>
+<div class="section-header" id="ch-27">27 — Defiance</div> <a class="back-to-top" href="#toc">↑ Back to top</a>
+<p>The north watch caught sight of him around midday, where the valley track came out of the hazel scrub.</p>
+<p>The sentry on the gate tower watched the figure for several minutes before calling down into the yard. At that distance, it looked like a carter or a straggler from one of the outposts, moving slowly along the frozen ruts. Then the sun caught the crest of a helmet and the iron scale of an officer's cuirass.</p>
+<p>Tribune Valerius was crossing from the armory workshops when the call came down. He climbed the rampart stair without hurrying, took the sentry’s place at the railing, and looked north.</p>
+<p>The man was three hundred paces out. He was stumbling awkwardly, and his hands were pulled tight behind his back.</p>
+<p>Valerius recognised him immediately.</p>
+<p>"Hold the gate," Valerius told the sentry. "Do not raise the alarm."</p>
+<p>He went down the stairs and headed directly to the north portal. He ordered the watch to slide the oak wicket back just wide enough for him to pass, then he squeezed through, and met Marcius as he approached the gate.</p>
+<p>The decurion’s face was gray with frost and exhaustion, and his hands had gone white from the tension of the rawhide.</p>
+<p>Valerius cut the binding, and helped him through the wicket.</p>
+<p>"Keep your hands under your cloak," Valerius said quietly. "Keep your head down, and walk beside me."</p>
+<p>Valerius motioned the gate guards back to their posts, and led Marcius down the narrow lane behind the granary wall to the principia.</p>
+<p>They entered the record room off the basilica, and Valerius shut the heavy oak door behind them.</p>
+<p>Decurion Senecio was at the table, checking an inventory of fodder. He looked up, took in the absence of Marcius’s sword belt, the gray pallor of his skin, and the raw red creases across his wrists, and laid his stylus down.</p>
+<p>Marcius sat down and gave them a full account. He recalled pausing at the narrow defile before being thrown, saddle and all, from his mount, and scrambling to his knees only to be halted by a blade at his throat and a hoarse "Don't!" in his ear. He recounted watching as the other seven horses were mercilessly cut down under their riders, and how the seven troopers were ruthlessly dispatched in cold blood. He told of six women who had stepped from the brush to disarm him, and the callous way they had dismissed him.</p>
+<p>When he finished, the room remained silent for a long time.</p>
+<p>Valerius walked to the window. Outside, the yard was quiet, troopers leading horses to the water troughs in orderly pairs.</p>
+<p>"You need to stay in here, Marcius," Valerius said, turning from the sill.</p>
+<p>Marcius looked up. "Custody, sir?"</p>
+<p>"Not through any misdemeanour of yours," Valerius said. "We cannot afford to have the men hearing that six or seven women butchered a contubernium barely a mile from this gate and sent you home with your wrists tied. You need to stay out of sight for now."</p>
+<p>"A full turma," Senecio said. "Thirty heavy horse. We must ride up that gorge, recover our dead, and comb the northeast ridges until we find them."</p>
+<p>"No," Valerius said.</p>
+<p>Senecio looked at him. "Seven troopers from this garrison are lying in the snow just over a mile from our gate."</p>
+<p>"And if you ride thirty heavy horse into that same rocky gorge, you will give them thirty more carcasses to butcher," Valerius replied, his tone dry and cold. "Have you forgotten Dalkingen? Have you forgotten the defile at Böbingen? They choose narrow ground because our cavalry cannot form. The moment your column enters that brush, your mounts will be hamstrung in the rocks, and you will achieve nothing."</p>
+<p>"Then we dismount and sweep the ridge on foot."</p>
+<p>"I won't allow it," Valerius said.</p>
+<p>"We cannot leave seven Roman soldiers to rot in the brush." Senecio took a step toward the table. "You sent a dispatch to Castra Regina telling the Legatus that the limes was quiet and the disturbances were minor. You told him the Third Legion could sit on the Danube. Now our senior decurion wanders home on foot like a stray mule, and you want to sit behind stone and pretend it never happened."</p>
+<p>Valerius met Senecio's gaze with a cold stare. "I told the Legatus what the provincial administration needed to hear. An officer does not panic the high command over rumors and broken patrols."</p>
+<p>"You lied to save your standing," Senecio said, his voice rising, "and you are hiding behind these walls because you cannot explain what stands outside them. I am acting commander of this Ala. The tactical disposition of these twenty-four turmae is my responsibility."</p>
+<p>"You hold acting command by my appointment," Valerius said coldly. "I hold the seal of Legio III Italica and the mandate of the governor by extension. My authority over this sector is clear. If you order a squadron out of that gate against my judgment, I will relieve you of command immediately and place you under arrest for insubordination."</p>
+<p>The two men stood across the cedar boards, the lamplight falling between them.</p>
+<p>"You can relieve me when I return," Senecio said, turning on his heel and leaving the chamber.</p>
+<p>"Senecio," Valerius called after him. "Stand fast."</p>
+<p>Senecio did not check his stride. He crossed the flagged floor of the basilica, pushed through the bronze doors, and walked out onto the principia steps.</p>
+<p>"Cornicularius," Senecio called down into the yard.</p>
+<p>The duty clerk came running from the administrative office.</p>
+<p>"Sound the muster for the Third Turma."</p>
+<div class="section-header" id="ch-28">28 — Foolish Lads</div> <a class="back-to-top" href="#toc">↑ Back to top</a>
+<p>They made their way back to the hollow after watching Marcius begin his solitary return.</p>
+<p>Toria stood by the frozen stream, opening and closing her hand.</p>
+<p>"It didn't pull once," she said, looking down at her arm. "Not even when that bastard tried to block me."</p>
+<p>Tove came over and peeled back the linen to inspect the skin.</p>
+<p>"It's looking good," she said, smoothing the cloth back down. "Just don't go trying anything too heroic."</p>
+<p>"We really can't stay here," said Tiata. "Marcius will be at the north gate by noon, and they'll know we're up here somewhere."</p>
+<p>Taran looked up from checking her bow. "I'd like to check in on Lorch's northern neighbours."</p>
+<p>Tiata turned to her. "The Upper Germanic line?"</p>
+<p>"The garrisons north of the Knee," Taran said. "The Praefectus at Lorch was always complaining about them. Said they were undermanned and half-asleep, and that Rome was wasting good grain keeping them fed."</p>
+<p>Thilda nodded. "The country north of the Knee is broken forest. I know the tracks through the high ground. We can bypass Aalen completely if we take the limestone ridge above the Kocher. The cavalry can't follow us up there very easily."</p>
+<p>They cleared the camp quickly. Tove kicked dirt over the hearth stones, and they led the five horses up the rocky cleft toward the crest.</p>
+<p>At the ridge, Tigratavā paused to look back down into the valley.</p>
+<p>"It looks like they're sending out a full turma," she said. "And a couple of wagons for the dead."</p>
+<p>"They're in for a cold, fruitless afternoon," said Tove.</p>
+<p>They turned the horses and kept moving.</p>
+<p class="scene-break">⁂</p>
+<p>Senecio led the cavalry up the same path the others had taken that morning, and soon found the scene of carnage.</p>
+<p>Senecio dismounted. "First squad, load the dead onto the wagons," he said. "The rest of you, scour the ridge. They will have left tracks somewhere up there."</p>
+<p>Ten men climbed up into the scrub on foot, shields slung, working their way up the rock shelves.</p>
+<p>Senecio waited by the track while the troopers loaded the bodies. It was cold, and the dead were already stiffening in the frost.</p>
+<p>Two hours passed before the scouts came back down.</p>
+<p>The optio in charge shook his head. "Nothing, sir. We found a hollow half a mile up, but there's no camp. No fire, no tether marks, no gear left behind. Just cold rock."</p>
+<p>"Tracks?" Senecio asked.</p>
+<p>"The ground above is solid limestone, so there's nothing to follow."</p>
+<p>Senecio looked at the dead men in the wagons. "Form up," he said. "We're going back."</p>
+<p class="scene-break">⁂</p>
+<p>It was late afternoon when the turma rode back into Aalen.</p>
+<p>At the gate, another party was already mounted. Tribune Valerius was at the head of the six remaining legionaries he had brought from Castra Regina.</p>
+<p>He pulled up when Senecio’s column blocked the passage.</p>
+<p>For a moment neither man spoke. Senecio sat his horse, looking at Valerius, with the seven bodies clearly visible behind him.</p>
+<p>Valerius looked away from the dead.</p>
+<p>"A courier arrived from Castra Regina," Valerius said. "Legatus Flaccus has requested my return. Administrative matters on the Danube."</p>
+<p>Senecio looked at him for a long moment. He understood well enough what had happened. He couldn't face the truth of what was happening to the garrison. What he would tell Flaccus when he reached Castra Regina, he couldn't imagine, but it would be far from the truth.</p>
+<p>"Ride safe, Tribune," Senecio said.</p>
+<p>He reined his mount aside, and the troopers behind him parted to let the legionaries through.</p>
+<p>Valerius rode past without another word, his six men following, and headed for the open road.</p>
+<p class="scene-break">⁂</p>
+<p>A few miles to the west, five horses were keeping to the high ground above the road.</p>
+<p>Thilda led the way along the crest, well out of sight of the valley floor. As they passed Böbingen, they could see the gate was barred and the sentry on the tower was standing alone in his cloak, watching the empty road.</p>
+<p>Shortly after, they skirted Schirenhof, looking much the same as Böbingen.</p>
+<p>Beyond Schirenhof, the road dropped toward the dark valley where Lorch lay empty, the way open into the deep forests of Upper Germania.</p>
+<p>Tove looked back toward line of Raetian forts, shaking her head.</p>
+<p>"Foolish lads," she said, with a quiet laugh. "They outdo themselves. At this rate they'll have the whole empire down around their ears."</p>
+<div class="section-header" id="authors-note">Author’s Note</div> <a class="back-to-top" href="#toc">↑ Back to top</a>
+<p>Aalen was the largest cavalry garrison on the Raetian limes, covering roughly fifteen acres as the base for the <em>Ala II Flavia milliaria</em>—an elite regiment of one thousand heavy cavalry. It stood on the military highway connecting Augsburg (<em>Augusta Vindelicum</em>) across the Danube to the frontier. Nearby Fort Buch, home to the <em>Cohors III Thracum veterana</em> (a 500-strong part-mounted auxiliary cohort), lay a little over a mile from the frontier and guarded the same approach.</p>
+<p>The Limes Gate at Dalkingen (<em>Limestor Dalkingen</em>) is the only monument of its kind discovered along the entire Upper Germanic-Raetian frontier. Following Emperor Caracalla’s Germanic campaign around 213 AD, an existing border gatehouse was transformed into an opulent triumphal arch of dressed sandstone. Over 140 fragments of a larger-than-life gilded bronze statue of the emperor in military cuirass were recovered from the site and are now preserved in the Limesmuseum in Aalen.</p>
+<p>Excavations confirm that the gate and its timber guardhouse were destroyed by fire and abandoned during the frontier turmoil around 233–234 AD. Archaeological evidence also shows that the portal itself had been permanently walled off and blocked around this period, ending its function as a gateway. Since 2010, the conserved ruins have stood protected under a striking glass-and-steel enclosure.</p>
+<p>The wider collapse of the frontier is described in the Author’s Note to <em>The Fall of Lorch</em>.</p>
+</div>
+</div>
+</body>
+</html>
