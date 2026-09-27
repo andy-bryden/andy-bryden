@@ -1,3 +1,4 @@
+
 Pride before Limesfall
 An empire undermined by hubris
 
@@ -840,7 +841,7 @@ For two days, not a single horse had left the fort.
 Raeticus had grounded the Ala at first light on the morning after the storehouse burnt. When Marcius had asked which sector to sweep, Raeticus had given no orders. He had looked at the charred beams of the horreum, looked down at his swollen, weeping palm, and ordered the gates barred and the squadrons kept in their lines. To ride out into the timber while an offended god stood against him was leading twenty-four turmae to destruction.
 A thousand cavalrymen and their mounts, idle for two days behind stone walls, turned restless. The stables grew foul, and the men sat along the barrack verandahs in the cold air, trading rumours about the figure seen on the river terrace.
 The cleansing of the sanctuary had taken the whole day, scrubbing the marble plinth and the altar stone with vinegar, lustral water, and sand to scour away the dried blood of the vow.
-The following day, Raeticus had ordered the expiatory sacrifice be made.
+The following day, a courier had arrived from Moguntiacum carrying the first official dispatch confirming what Raeticus had feared. Lorch had suffered an attack and the garrison had retreated to the Rhine. Raeticus had then ordered the expiatory sacrifice be made.
 A black ram had been led up the principia steps, and the formal piaculum offered to Mars Ultor to lift the curse from the command. But the reading of the entrails had settled the matter. When the belly was opened, the principal lobe of the liver—the caput—was missing entirely, withered to a knot of gristle. The haruspex had dropped his bronze knife, backed out of the alcove on his knees, and refused to speak the ritual blessing.
 The god had not accepted the offering. The curse remained, and Raeticus knew he was doomed.
 By evening, Raeticus was in the room off the basilica. The lamp smoked on the table, casting shadows across the unread rosters. His left arm hung stiffly beneath his cloak, wrapped in thick linen, steeped in the yellow fluid weeping from the wound, the fever burning behind his eyes.
@@ -880,21 +881,82 @@ Senecio reviewed the western road. He described an enemy who paced an armed cava
 Marcius followed with the disaster at Dalkingen. He detailed an entire cavalry wing lured twelve miles up the valley to find the gate collapsed into a mountain of smoking rubble, an imperial shrine felled by the post's own draught beasts, and an exhausted Ala returning to find its home ramparts trembling at two arrows dropped into an empty courtyard.
 Valerius listened in silence, rolling a recovered broadhead across his knuckles. To a trained legionary staff officer, the pattern stood out in sharp relief. A handful of lethal, highly disciplined adversaries had dissected the command from within. They had measured Raeticus's pride, manipulated his obsessions, and tricked the garrison into defeating itself.
 Senecio and Valerius halted every pursuit into the surrounding timber, directing all available manpower towards the interior of the base. They suppressed rumours of curses and underworld reapers with the vine-staff, punishing superstition with docked pay and hard bread rations. To protect the thousand mounts from lameness and colic, Senecio broke the stall confinement through structured, heavily guarded rotations. Squadrons moved under archer overwatch to muck stalls, air bedding, and walk the horses down to the gravel shallows of the Kocher for water. Work crews cleared the charred timbers of the south horreum, blacksmiths refired the armoury forges to repair damaged tack, and sentry rosters on the ramparts doubled.
-Over the next three days, Aalen hardened into a disciplined redoubt. Routine and physical labour drove out fear. Behind barred gates and vigilant walls, Senecio held the Ala in readiness while Valerius sat in the principia, awaiting word from Castra Regina.
-
-25 — Minor Disturbances
+Over the next few days, Aalen hardened into a disciplined redoubt. Routine and physical labour drove out fear.
 Five days after Valerius reached Aalen, the courier from Castra Regina arrived with orders from the Legatus.
 Valerius received the dispatch in the record room. Flaccus approved the removal of Praefectus Raeticus to the valetudinarium, and confirmed Decurion Senecio in temporary command of the Ala. Valerius was instructed to remain at Aalen to assist Senecio until the governor appointed a new Praefectus Alae. At the foot of the sheet, Flaccus added a clear command: send regular accounts of the true situation along the limes. The two cohorts of the Third Legion remained in their quarters at the Danube, awaiting word of the enemy before marching west.
 The return courier prepared to ride south that same afternoon, bearing Valerius's official accounting of the disaster at Dalkingen.
 Valerius had refused to set the shameful truth to wax. To report that two runaway draught horses had dragged the bronze emperor into a bonfire, and auxiliary pry-bars had collapsed the vault into rubble, invited disgrace upon the entire provincial command. Instead, Valerius invented a conventional engagement. An Alemannic war-band had crossed the palisade at dawn, set fire to the timber guardhouse, and battered the monument from its plinth. The infantry of Cohors III Thracum from Buch had advanced from their fort, driving the raiders back into the northern forests before the Ala arrived on the road. The cavalry had secured the valley, arriving, unfortunately, too late to salvage the imperial bronze. The dispatch assured Flaccus that the enemy stood repelled, the border remained quiet, and the Ala held the sector in hand.
-The quiet lasted a single day. Then the reports began arriving every morning, turning the record room into a clearinghouse of misery.
+
+25 — Rome
+Vettius worked through the morning intake in the Tabularium. With early winter rains keeping the Tiber high, grain barges from Ostia were held up downriver, and Magistrate Caecilius was already at his elbow demanding harbor manifests before the urban prefect called for them.
+The courier from Moguntiacum arrived before the fourth hour, his leather dispatch satchel water-stained from the road. The packet from Germania Superior carried the green wax of the provincial governor.
+Vettius cracked the seal and brought the tallow lamp closer to read the hurried scrawl.
+The forwarded notice was brief. Fort Lorch, the stone auxiliary base anchoring the limes bend where Germania Superior met Raetia, had suffered an attack. Fires had consumed the stables, granary, and stores beyond control. The Praefectus had ordered an immediate retreat toward Moguntiacum, abandoning the stone fort with the surviving cohort. The text omitted the numbers, tactics, and identity of the assailants.
+Vettius passed the sheet across to Caecilius.
+"Lorch has fallen," Vettius said. "The stone garrison at the bend."
+Caecilius held it near the lamp, squinting through the smudged lines to the signature block.
+"Lorch holds five hundred men behind stone ramparts and ditch lines," Caecilius said.
+"The Praefectus evacuated the post," Vettius said. "He reports internal fires destroyed his quarters."
+Caecilius dropped the sheet back onto the table.
+"He abandoned permanent stone defenses because timber sheds caught fire," Caecilius said. "A brazier overturns in the straw, the stables burn, and the commander panics in the smoke. He flees thirty leagues to the Rhine, and leaves the enemy unnamed to excuse his cowardice."
+"The governor forwarded it as an urgent loss," Vettius said.
+"The governor wants coin to rebuild his stables," Caecilius replied. "I have sixty grain barges tied to the bank downstream, and the crowd at the Porticus Minucia will start throwing cobbles by sunset if the bread ovens go cold. If a real host had broken the frontier wall, the beacon towers along the Rems would have alarmed Raetia, and the cavalry at Aalen would have ridden. This is an auxiliary officer fleeing his own kitchen fire."
+"Prepare the digest for Syria?" Vettius asked.
+"Follow standard protocol," Caecilius said. "Draft the summary transmittal for the imperial court at Antioch. Note it as an internal post fire under investigation by the governor, and route the copy to the eastern post."
+
+26 — Clearinghouse of Misery 
+The quiet at Aalen lasted a single day before reports began arriving, turning the record room into a clearinghouse of misery.
 The day after the courier departed, a rider galloped in from Fort Böbingen. A timber wagon hauling seasoned oak from the Rems valley had been ambushed in a narrow defile four miles west of the fort. An arrow from the scrub had killed the lead escort instantly. Before the other two horsemen could clear their scabbards, attackers swarmed the road from both flanks. The auxiliary escort lay dead in the ditch, their chests split by heavy spears, the teamster dead across his seat. The attackers had sliced the traces, leaving the oxen wandering and the wagon standing abandoned in the road surrounded by corpses.
 The following morning brought word of a strike along the northern wall. The watchtower near the collapsed Dalkingen arch had gone dark at dusk. A relief party from Fort Buch, twelve miles up the valley road, found both sentries dead on the catwalk, each pierced through the throat by a heavy trilobate arrow loosed from the timber three hundred paces off. The iron fire-basket lay quenched in the ditch.
 At sunset the next day, simultaneous alarms struck opposite flanks of the district. Both garrisons kept their gates barred through the dark, their couriers galloping out at first light to reach Aalen before mid-morning.
 From Fort Buch came word of a grain wagon hit outside the fort's own gates: the teamster killed, five sacks of barley slit open across the road, the draught mules cut loose into the scrub.
 From Fort Böbingen arrived an account of pure butchery. A mounted patrol of four auxiliaries had been ambushed in the rocky defile three miles west of the fort. The strike had bypassed the men to slaughter the mounts. Low blades swept through the scrub, houghing every horse at the hock. All four beasts crashed screaming to the gravel, their hamstrings severed clean. Two riders died crushed beneath their mounts; a third was run through with a spear as he struggled to rise. The surviving auxiliary was stripped of armour and spatha, left standing in his under-tunic, and ordered to walk back to Böbingen on foot with a message: Walk. Keep walking. Tell your decurion Rome has lost its legs.
 The next day brought word from the high western ridge. A dispatch courier riding from Fort Schirenhof towards Aalen had been killed on the road. The rider lay dead in the scrub with a fractured skull, his leather case slit and cohort manifests scattered into the dirt, his horse houghed at the tendon and left thrashing in a ditch.
-By the close of the week, the tactical signatures swapped ground entirely. Midday brought couriers from opposite flanks within an hour of each other.
+
+27 — Moguntiacum
+The sentry on the south gate tower of Moguntiacum leaned over the stone parapet, watching the road through the river fog. Along the southern approach, figures moved through the grey slush. 
+The sentry called down to Tribune Cassius on the walkway below.
+"Sir! Movement on the south road. A crowd on foot with horses and carts."
+Cassius climbed the rampart stair to the railing.
+"Carters?" the sentry asked. "They move in a cluster. Some carry shields."
+Cassius looked through the mist at the lead files, his eyes fixing on the tarnished brass of auxiliary helmets.
+"That is Lorch," Cassius said.
+Cassius leaned over the timber rail, calling down to the guard detail in the passage.
+"Clear the barrier. Open the main portal."
+Cassius descended the stone stairs as the column reached the outer ditch. The report received ten days earlier had announced the retreat, but the reality shocked the gate guards into silence. Auxiliary infantry filed past the barrier, their sandals worn to the raw leather and their legs caked in freezing clay. Mounted troopers rode alongside the foot soldiers, their cloaks stained with soot.
+Centurion Rufinus marched at the head of the file. Cassius halted him on the gravel.
+"Centurion. Report," Cassius ordered.
+"Lorch garrison, Tribune," Rufinus answered, his breath steaming in the damp air. "Centurion Rufinus. Three hundred effective men remaining."
+Behind the soldiers creaked seven farm carts, their axles groaning in the slush. Cassius stepped to the nearest cart, where dark fluid dripped through the floorboards.
+"What is this cargo?" Cassius asked.
+"Eighty casualties, sir," Rufinus said. "Men burned in the stables, and men struck by arrows during the night assault. The frost on the road turned the wounds foul."
+The stench of gangrene drifted from the straw bedding. Cassius walked to the third cart. Centurion Marcellus sat propped against the timber rail, wrapped in coarse horse blankets, his jaw slack and his stare fixed on the axle hub.
+"Marcellus," Cassius said.
+The centurion kept his eyes on the iron hub, his mouth shut tight.
+"He maintains that silence since his recovery in the woods," Rufinus said. "He remains mute."
+Behind the wagons rode the Praefectus on a gaunt horse, his head hanging over the saddle horn, his face grey beneath dried road silt. Beside the mount walked Beneficiarius Ligarius, his leather document case strapped across his ribs.
+"Ligarius," Cassius said, stepping before the horse.
+Ligarius halted on the gravel.
+"Tribune," Ligarius said.
+"Bring the Praefectus," Cassius ordered. "The headquarters requires an immediate accounting."
+Cassius led both men through the fortress to the record hall of Legio XXII Primigenia. Cornicularius Priscus sat at the cedar table with three staff centurions standing along the stone wall. Across the desk lay the dispatches from the previous weeks.
+The Praefectus sank onto an oak stool, his hands trembling against his thighs.
+Cassius tapped the upper documents with his finger.
+"Your first dispatch arrived twelve days ago," Cassius said, looking at Ligarius. "It reported your investigation well in hand. A contained situation. Then, two days later, a second courier arrives announcing the fort is burning and the garrison is in full retreat. Explain this disparity."
+Ligarius stood straight, clay flaking from his boots onto the flagstones.
+"The assault fell after the first courier departed," Ligarius said, his voice hard. "The enemy held their main strength in reserve until our patrol was committed to the trees. The Alemanni crossed the limes in massive numbers. Thousands of warriors broke through the forest at dusk, surrounded the stone ramparts, and discharged volleys of fire arrows into the interior buildings."
+"Did you identify their tribal banners?" Cassius asked.
+"The assault hit four sectors simultaneously," Ligarius replied. "They deployed heavy archers in the tree line, targeted the mounts to restrict our cavalry, and forced the western approach. When the timber stores burned beyond control and the ramparts fell into confusion, the position collapsed. The Praefectus ordered the retreat to preserve the remaining force."
+Cassius studied Ligarius, then looked down at the Praefectus, who sat nodding in dull agreement.
+"Thousands," Cassius repeated.
+"A general tribal uprising," Ligarius said. "The opening blow of a coordinated invasion."
+Cassius turned to Priscus at the table.
+"Enter the testimony into the provincial record," Cassius ordered. "Classify Lorch as destroyed by an overwhelming Alemannic force. Draft a dispatch for the governor and the legate. Tell them the frontier wall at the bend has fallen, and the barbarian tribes are massing in the forest."
+"And Rome?" Priscus asked, his reed poised over the ledger.
+"A priority dispatch for the capital," Cassius said. "The previous courier carried only the bare notice of the retreat. Draft the full operational accounting for the Senate and the chancellery. State that the limes at the bend has buckled under an invading horde, the auxiliary garrison has fallen back to the Rhine, and the province requires legionary reinforcement."
+
+28 — Minor Disturbances
+At Aalen, Valerius had no relief. By the close of the week, the pattern of the strikes reversed. Midday brought couriers from opposite flanks within an hour of each other.
 From Fort Schirenhof, high on the western ridge, came word of the northern long-range archery and silent stealth. An auxiliary on the rampart had been dropped across the gorge by a heavy trilobate arrow through the shoulder. Simultaneously, in the morning mist, the fort's postern gate stood ajar, the guard dead against the stone from a lead-weighted Roman plumbata driven through his throat.
 At that exact morning hour, the western horse-butchery struck the northern plain twelve miles away outside Buch. At a narrow culvert where the road dipped through marshy scrub, a mounted patrol of six horsemen riding towards Dalkingen had slowed to a walk. Figures burst from the roadside hazel. Low curved blades and heavy axes struck at the legs, houghing four cavalry horses in the road. An attacker dropped from an overhanging branch with a piercing cry, twin daggers flashing, gutting two riders before their boots touched the dirt. The surviving auxiliaries fled back to Buch on foot, their mounts dying behind them.
 The attacks continued day after day. A supply cart overturned in a creek, its escort slaughtered in the shallows. Two remounts found dead in an outer paddock with severed hocks. An auxiliary scout picked off by an archer shooting from concealment while scouting a ford. Every morning brought fresh wax tablets to Aalen, each bearing news of dead auxiliaries, butchered mounts, and terrorised commanders.
@@ -918,8 +980,36 @@ To set that claim to wax invited instant mockery from the Legatus. Flaccus would
 Yet to report the true collapse of the frontier invited ruin upon his own career. A staff officer who confessed that twenty-four turmae of heavy horse sat paralysed inside stone while auxiliary outposts bled daily would face immediate dismissal.
 Valerius lowered the point of the iron stylus. He pressed the metal into the black wax and carved a second lie.
 He set down words of measured calm. The limes stood firm. The wall remained intact. The casualties represented isolated friction among the native settlements—occasional local disputes causing minor disturbances along the roads. The Ala held the district in hand, and the two cohorts of the Third Legion could remain at their posts on the Danube.
+The courier had departed for Castra Regina barely an hour before another dispatch arrived from Moguntiacum detailing the scale of the attack that had forced the garrison to retreat from Lorch.
 
-26 — Don't Dawdle
+29 — The Warning
+In the Tabularium at Rome, ten days after the first Lorch courier arrived, the post from Raetia reached the intake desk. Vettius took the sealed cylinder from the rider, checking the imprint in the red wax. It bore the eagle and the capricorn of Legio III Italica from Castra Regina.
+Vettius cracked the wax and spread the papyrus across his desk. The dispatch carried the signature of Legatus Quintus Caecilius Flaccus.
+Vettius read the text, his finger tracing the lines down the sheet. An Alemannic war-band had forced the palisade at dawn near Dalkingen. The raiders had torched the timber guardhouse, killed the eight auxiliaries on detachment, and battered the bronze monument of Divus Antoninus from its stone plinth. The infantry of Cohors III Thracum had advanced from Fort Buch, driving the host back into the northern forests. Praefectus Raeticus had deployed the entire cavalry force of Ala II Flavia from Aalen, marching a thousand heavy horse to secure the valley road, arriving after the bronze had suffered fatal damage.
+Vettius stood and carried the sheet to Caecilius’s table. Caecilius looked up from a requisition for grain storage.
+"From Raetia," Vettius said, laying the sheet before him. "Castra Regina forwards a battle report from the frontier."
+Caecilius read the dispatch, his mouth tightening. He leaned over the table, his gaze locked on the lines detailing the cavalry deployment.
+"The entire Ala," Caecilius said. "A thousand horse called into the field."
+"And the monument at Dalkingen destroyed," Vettius added. "The bronze emperor toppled."
+Caecilius pushed his grain requisition aside and drew the frontier ledger closer.
+"Bring the map of the northern limes," Caecilius said.
+Vettius brought the rolled sheepskin from the archive rack and spread it across the desk, anchoring the corners with bronze weights.
+Caecilius traced the boundary line with an iron stylus. His stylus halted at the sharp angle where the split-oak palisade of Germania Superior met the stone wall of Raetia.
+"Ten days ago, we received the report that Lorch had fallen," Caecilius said, tapping the ink mark on the Germanic side of the bend. "Thirty miles to the east sits Dalkingen, on the Raetian side. That is two provincial sectors struck within a few weeks of each other."
+"Lorch was reported as an internal fire," Vettius said.
+"That was our assumption," Caecilius said, his voice hard. "Now Raetia reports an assault on an imperial shrine, eight dead soldiers, and a general muster of the largest cavalry unit on the Danube border. Barbarians are crossing the boundary at will. They strike Lorch, and then they strike Dalkingen."
+Caecilius looked up from the sheepskin, his eyes sharp.
+"This is an organized offensive across two commands," Caecilius said. "The frontier wall is breached."
+"Legatus Flaccus reports the raiders repelled," Vettius observed. "He states the border stands secure."
+"He states his cavalry arrived after the gate was destroyed," Caecilius countered. "When an auxiliary commander sends a thousand horse to chase raiders into the brush, he is frightened. The tribes know the bend of the limes is weak."
+Caecilius stood and paced the flagstones behind the table.
+"The Senate convenes at noon in the Curia," Caecilius said. "The urban prefect will require this intelligence before the senators debate the grain distributions. An open war in the north will divert the Rhine legions and strain the Italic supply roads."
+"The previous transmittal to Antioch went by ordinary post," Vettius said.
+"This dispatch changes the priority," Caecilius said. "Draft an urgent imperial packet for Antioch. Inform the chancellery that the Limes Germanicus is engaged. State that two frontier posts have fallen to tribal assaults across Germania Superior and Raetia, and the barbarian war-bands are testing the legionary lines. Append the full text from Castra Regina and the preliminary Lorch report again."
+"Under whose authority?" Vettius asked.
+"Endorse it under the joint seal of the Urban Prefecture and the Senate," Caecilius ordered. "Instruct the courier master to send it by accelerated relay to Brundisium. A fast military galley must carry it across the sea to Seleucia Pieria. The Emperor must have this on his table in Antioch with every possible speed."
+
+30 — Don't Dawdle
 Winter had set in along the Kocher, and the stream in the hollow ran under a thin layer of ice. Under the limestone ledge, Tove had a small, smokeless fire going between flat stones, heating strips of salted meat.
 Toria sat near the coals, flexing her fingers.
 "It barely pulls now," Toria said. "I could hold a blade today."
@@ -966,7 +1056,7 @@ Tiata spun him by the shoulders so he was facing down the track.
 Marcius stumbled forwards, then regained his footing and began his descent.
 "Off you trot now, Decurion," Tove called after him. "Don't dawdle."
 
-27 — Defiance
+31 — Defiance
 The north watch caught sight of him around midday, where the valley track came out of the hazel scrub.
 The sentry on the gate tower watched the figure for several minutes before calling down into the yard. At that distance, it looked like a carter or a straggler from one of the outposts, moving slowly along the frozen ruts. Then the sun caught the crest of a helmet and the iron scale of an officer's cuirass.
 Tribune Valerius was crossing from the armoury workshops when the call came down. He climbed the rampart stair without hurrying, took the sentry's place at the railing, and looked north.
@@ -1004,7 +1094,7 @@ Senecio did not check his stride. He crossed the flagged floor of the basilica, 
 The duty clerk came running from the administrative office.
 "Sound the muster for the Third Turma."
 
-28 — Foolish Lads
+32 — Foolish Lads
 They made their way back to the hollow after watching Marcius begin his solitary return.
 Toria stood by the frozen stream, opening and closing her hand.
 "It didn't pull once," she said, looking down at her arm. "Not even when that bastard tried to block me."
@@ -1049,8 +1139,177 @@ Beyond Schirenhof, the road dropped towards the dark valley where Lorch lay empt
 Tove looked back towards line of Raetian forts, shaking her head.
 "Foolish lads," she said, with a quiet laugh. "They outdo themselves. At this rate they'll have the whole empire down around their ears."
 
-Author's Note
-Aalen was the largest cavalry garrison on the Raetian limes, covering roughly fifteen acres as the base for the Ala II Flavia milliaria—an elite regiment of one thousand heavy cavalry. It stood on the military highway connecting Augsburg (Augusta Vindelicum) across the Danube to the frontier. Nearby Fort Buch, home to the Cohors III Thracum veterana (a 500-strong part-mounted auxiliary cohort), lay a little over a mile from the frontier and guarded the same approach.
-The Limes Gate at Dalkingen (Limestor Dalkingen) is the only monument of its kind discovered along the entire Upper Germanic-Raetian frontier. Following Emperor Caracalla's Germanic campaign around 213 AD, an existing border gatehouse was transformed into an opulent triumphal arch of dressed sandstone. Over 140 fragments of a larger-than-life gilded bronze statue of the emperor in military cuirass were recovered from the site and are now preserved in the Limesmuseum in Aalen.
-Excavations confirm that the gate and its timber guardhouse were destroyed by fire and abandoned during the frontier turmoil around 233–234 AD. Archaeological evidence also shows that the portal itself had been permanently walled off and blocked around this period, ending its function as a gateway. Since 2010, the conserved ruins have stood protected under a striking glass-and-steel enclosure.
-The wider collapse of the frontier is described in the Author's Note to The Fall of Lorch.
+33 — General Alarm
+Two weeks after the collapse of the gate at Dalkingen, the courier from Aalen rode through the west gate of Castra Regina. Legatus Quintus Caecilius Flaccus sat in the basilica with Camp Prefect Calpurnius when the dispatch reached the table. The sheet bore the official seal of Tribune Valerius. Flaccus cracked the wax and read the lines in the morning light.
+The dispatch stated that the limes stood firm and the stone wall remained intact. There had been a few losses along the roads, but they represented isolated friction between native settlements. Valerius affirmed that the Ala held the sector in hand, and the two cohorts of the Third Legion could remain in their quarters along the Danube.
+Calpurnius took the sheet, his eyes scanning the summary.
+"Senecio holds the command together," Calpurnius said. "The cavalry maintains the border, and the timber roads remain open."
+"Valerius handles his duties with proper discipline," Flaccus said, placing the letter into the provincial archive box. "He restores order to an auxiliary garrison and prevents false alarms."
+⁂
+The following afternoon, seven horses clattered across the flagstones of the west gate. Tribune Valerius rode into the courtyard at the head of the six legionary troopers he had taken to Aalen. Clay caked the horses to their withers, and the riders moved with stiff, aching limbs.
+Calpurnius watched the arrival from the principia portico. Valerius dismounted, his boots striking the cobbles with a heavy, stumbling gait. His skin showed grey beneath the dried silt of the road, and his eyes stayed fixed on the gravel.
+"Tribune," Calpurnius said. "Your dispatch arrived yesterday."
+"I must report to the Legatus," Valerius said, his voice hoarse and thin.
+"Flaccus attends the cavalry stables," Calpurnius said. "You look spent from the saddle."
+"The road was hard," Valerius murmured. "I require rest before I speak."
+He surrendered his reins to a groom and walked toward the staff quarters, keeping his gaze fixed on the flagstones.
+At dawn the following morning, Flaccus summoned Valerius to the record room behind the basilica. Calpurnius stood beside the window with the provincial map laid out on the cedar boards. Valerius entered in a clean tunic, yet his face retained a sickly grey cast. Tremors shook his fingers as he stood before the table.
+Flaccus leaned forwards, his hands resting flat on the timber.
+"Your written report described a quiet frontier, Tribune," Flaccus said, his voice even. "You stated the Ala held the sector and the only trouble was minor friction among farmers. Yet you rode through my gates twenty-four hours behind your own courier, leaving Senecio alone with a thousand horses. Explain your presence in Castra Regina."
+Valerius swallowed hard. He clutched his belt with shaking hands.
+"The written report preserved public order, Legatus," Valerius said, his breath coming fast. "The reality on the limes is slaughter."
+Flaccus straightened, his brow furrowing.
+"Speak plainly," Flaccus ordered.
+"Alemannic war-bands occupy the entire timber belt between the Rems and the frontier wall," Valerius said, his voice rising. "They strike from deep cover in the rocky defiles. They ambush every patrol. They butcher the cavalry mounts at the hock, severing the hamstrings with heavy blades and leaving the horses screaming in the rocks. They drop from overhead branches onto mounted troopers. They slaughter whole squads and leave the dead to rot in the brush."
+"And the Ala?" Calpurnius demanded. "A thousand heavy horse?"
+"Paralyzed," Valerius said, sweat glistening on his temples. "Senecio keeps the squadrons behind the stone ramparts because the mounts are butchered the moment they enter the trees. Buch bars its gates at midday. Böbingen and Schirenhof keep their gates shut and abandon the road. The outposts are cut off and bleeding every morning. I rode south to deliver the true scale of the disaster before the enemy surrounds Aalen."
+The room fell into heavy quiet. Flaccus studied the young officer. Valerius stood swaying on his heels, his chest heaving, his fingers digging into his palms. Dread filled the tribune's face.
+Flaccus saw a dedicated staff officer broken by the horror of savage warfare. He viewed the shaking limbs and hollow stare as the physical toll of extreme combat strain. In his eyes, Valerius had endured the terrors of a crumbling border while Raeticus lay dying and auxiliary commanders succumbed to panic. Flaccus felt profound sympathy for the man. Here stood a tribune who had fulfilled his duty in a violent province and possessed the fortitude to bring the brutal truth in person.
+Flaccus stepped around the table and placed a firm hand on Valerius's shoulder.
+"You endured severe strain at Aalen, Valerius," Flaccus said, his voice softening with respect. "You held the command steady while Raeticus collapsed, and you brought the truth through hostile roads. That required true virtus."
+Valerius blinked, tears wetting his eyes as he absorbed the praise.
+"Rest in your quarters, Tribune," Flaccus added kindly. "You served the legion well. The medics will tend to you."
+Valerius bowed his head, offered a quiet salute, and walked out into the corridor.
+Flaccus turned to Calpurnius, his expression severe.
+"Raetia faces an organized barbarian invasion," Flaccus said. "The Alemanni are systematically destroying our auxiliary outposts and crippling our cavalry."
+"Shall I assemble the cohorts?" Calpurnius asked.
+"Place the First and Second Cohorts under arms immediately," Flaccus commanded. "Issue field rations, check the draught oxen, and prepare the baggage train for a forced march to the Brenz junction."
+"The chancellery must receive the full operational reality," Flaccus said. "I will draft the general alarm for the Senate and the imperial court."
+
+34 — The Palisade
+North of the burned ruins of Lorch, the ground rose into dense stands of spruce and beech. Freezing fog hung in the upper branches, trapping the winter chill against the forest floor.
+Thilda led the file along the exposed limestone ridges. High winds kept the rock shelves clear of powder, allowing the five horses to tread on bare grey stone.
+In the crisp mountain air, scents traveled far. Two miles out, the smell of burning pine and damp oak drifted from the valleys below, marking the cooking fires of the auxiliary posts at Welzheim long before timber palisades came into view.
+They halted in a cleft between two limestone boulders to rest the horses.
+Tove set her pack on a flat boulder and caught Toria by the wrist.
+"Give me that arm," Tove said.
+Toria pulled back her woolen sleeve, revealing the long scar across her forearm. The flesh had knit tight and pink under the cold air, firm and clean.
+"I could split a Roman helmet with it right now," Toria said, grinning.
+Tove pressed her thumb along the healed seam, testing the muscle.
+"The tendon holds," Tove acknowledged, slapping Toria's shoulder with a broad palm. "Good. You can carry your own firewood tonight."
+"Firewood?" Thana remarked from the saddle of the bay horse, her smirk visible beneath her fur hood. "Tove intends to roast us an ox in the snow. She dreams of hearth fires while the rest of us chew cold lard."
+"Lard keeps blood flowing in this frost," Tove replied, tossing a block of salted fat to Thana. "Chew on that, Greek. It will sweeten your temper."
+Thana caught the slab cleanly with one hand.
+"Arithmetic keeps my blood flowing," Thana said, paring a slice with her xiphidion. "Cold slows the brain, which explains why Roman commanders build stone monuments in deep woods."
+Tacita stood near the mouth of the cleft, her round shield slung across her back, watching the slope below. Her hand rested on the pommel of her gladius. When Taran stepped up beside her, offering a skin of spring water.
+Tigratavā returned from the ridge above on foot, leading her mare by the rein. She stepped into the hollow and joined Tiata.
+"The track stays clear ahead," Tigratavā reported. "The split-oak palisade runs three miles north along the crest. Thilda is on the high shelf above the valley."
+"Show me," Tiata said.
+They ascended the rocky spur, stepping through thickets of dwarf pine. At the summit, Thilda crouched behind an outcrop of weathered limestone. Tiata, Tigratavā, and Toria dropped down beside her, peering through the brush.
+Below them, the Upper Germanic frontier cut a wide swath through the wilderness. The split-oak palisade stretched across the hills, heavy timber trunks split down the center and driven deep into an earthen rampart. A wide ditch fronted the wooden wall, the dark soil frosted with rime.
+To the northwest, the double garrison of Welzheim occupied the valley floor. Thick plumes of hearth smoke rose from the barracks of both the eastern and western forts, hanging heavy over the tile roofs.
+Thilda pointed toward the cleared patrol track along the palisade.
+"Look at the timber towers," Thilda said, her voice steady. "Two sentries on the upper platforms, huddled over braziers. The ground patrol routes are empty."
+"They pulled their scouts back," Tigratavā observed, studying the snowy apron. "Normal patrols walk this road twice between sunrise and noon. The snow on the path shows old tracks from yesterday's muster, frosted over."
+"The silence from Lorch has reached them," Tiata said.
+"It has," Thilda agreed. "When Lorch burned and the garrison retreated to the Rhine, the communication severed completely. Welzheim stands isolated."
+Toria watched the distant ramparts, her eyes sharp.
+"They are cowering behind their oak logs," Toria said.
+"They are bracing for an assault," Thilda corrected. "They keep their men close to the gates, conserving their strength. That leaves the outlying sectors open to us."
+
+35 — Panic in Rome
+One month after the fall of Lorch, the official dispatch from Moguntiacum reached the Tabularium in Rome. Vettius received the leather pouch at his desk, breaking the green seal of the governor of Germania Superior. The contents overturned the earlier assessment. The forwarded sheets contained the formal testimony of the Lorch garrison, setting down the operational disaster in full detail.
+Vettius read the casualty lists, his brow furrowing as the numbers climbed. The report detailed an overwhelming Alemannic invasion force breaking across the frontier wall. Hundreds of auxiliaries lay dead in the ashes of the fort. The cavalry mounts were butchered in their stalls. Eighty mangled survivors had reached the Rhine on farm carts, their wounds rotting from the winter frost. Centurion Marcellus sat struck dumb by combat shock, his mind broken by the slaughter.
+Vettius brought the dispatch directly to Caecilius. Caecilius read every line, his face turning pale. The memory of his earlier mockery returned to him.
+"This was an actual siege," Caecilius said, his voice flat.
+"A general tribal assault," Vettius replied. "The Praefectus retreated to preserve the three hundred men still capable of bearing arms."
+Caecilius laid the report onto the central table.
+"A permanent stone fort destroyed," Caecilius said. "The Rhine command has pulled back to the river."
+Seven days later, a second courier reached the intake desk from the north. The rider wore the badges of Legio III Italica, his cloak caked in white road dust from the Alpine passes. He delivered the general alarm from Legatus Flaccus at Castra Regina.
+Vettius spread the papyrus before Caecilius. The Raetian report confirmed the expanding crisis. Flaccus reported that the Alemanni had breached the frontier defenses and were hunting inside the province. The thousand cavalry of the Ala II Flavia remained confined behind the stone walls of Aalen. Patrols were butchered in rocky gorges. The auxiliary outposts at Buch, Böbingen, and Schirenhof kept their gates barred at midday, cut off from the main road. Flaccus had ordered two cohorts of the Third Legion under arms and requested immediate imperial mobilization along the Danube.
+The reality stood visible across the maps. Two separate commanders, divided by provincial boundaries and administrative rivalries, described the same coordinated collapse. Germania Superior reported its frontier anchor burned and evacuated. Raetia reported its elite cavalry crippled and its outposts surrounded.
+Panic spread through the administrative quarters. Word reached the Forum before noon. The urban prefect called an emergency session of the Senate at the Curia. Senators gathered in the hall, their speeches filled with alarm over the open northern border.
+Caecilius prepared the imperial packet for the East. He bundled the Moguntiacum casualty manifests with Flaccus's general alarm and the urgent appeals of the Senate. He rolled the heavy collection into a lead-lined cylinder, sealing the cap with the red wax of the urban prefecture.
+
+36 — Murrhardt
+The ridge above Murrhardt gave a clear view of the frontier ditch. Deep snow blanketed the northern slope, clinging to the spruce boughs and weighting the birch thickets along the boundary apron. Down in the valley, the split-oak palisade ran between two timber watchtowers, its sharpened stakes iced over in the midwinter frost.
+A blast from an aurochs horn echoed from the northern timber. Shouts carried across the cleared apron, followed by the crash of heavy boots breaking through frozen crust. Over a hundred Alemannic warriors burst into the open ground, brandishing iron axes, framea spears, and burning pitch brands. They ran straight for the palisade in a dense mass, their war cries rolling up the valley.
+The auxiliary watchtower came alive with frantic movement. Two Roman sentries scrambled to the timber railing, loosing arrows into the advancing crowd. Three raiders took shafts in the chest and tumbled into the ditch, their blood staining the trampled snow. The charge kept moving over the fallen bodies. Warriors threw heavy scaling hooks over the split oak, while half a dozen men attacked the wooden palisade with felling axes, wood chips flying across the clay rampart.
+The sentries on the platform threw javelins into the crush below, killing two more axemen, but the defense was hurried and chaotic. Pitch brands arced through the freezing air, landing on the dry shingles of the tower roof. Flames caught immediately, fed by the resinous spruce timbers. Below the catwalk, the oak stakes gave way under the repeated blows, splintering inward with a loud snap.
+Alemanni swarmed through the breach, howling and hacking at the tower supports. The garrison inside the lower gatehouse tried to form a shield wall, but the mass of warriors overwhelmed the threshold. Iron blades rose and fell in a brutal clash. Auxiliaries died against the stone footings while their roof collapsed in a shower of burning thatch. The survivors fled south toward the main fort at Murrhardt, running on foot through the snow. The raiders plundered the storehouse, hauling out cured hams, bronze kettles, and bundles of cohort blankets, cheering around the blazing ruins while twelve of their own men lay dead in the ditch.
+In the spruce cover on the ridge, the women watched the smoke rise into the grey sky.
+Thana laughed.
+"Twelve dead warriors and six wounded for a stack of horse blankets and four sacks of barley," she said. "A brilliant piece of arithmetic."
+Tigratavā crouched on the frozen rock, her eyes fixed on the ditch.
+"They sent their men across two hundred paces of open snow in broad daylight," Tigratavā observed. "A single disciplined century with archers on the flank would have wiped them out in the ditch."
+"That is how my northern neighbors fight," Thilda said. "They want glory and immediate iron. They throw thirty lives at an oak wall because they believe numbers and noise settle everything."
+"It was loud and clumsy," Toria said. "Yet it worked. The Romans broke within ten minutes."
+"Look at why they broke," Tiata said.
+The others turned to her.
+"Six months ago, that tower garrison would have held," Tiata said, pointing toward the burning timbers. "They had good stone footings, clear fire lines, and Roman armor. They broke because their nerve was already gone. They heard about the ashes of Lorch, the ruined gate at Dalkingen, and the cavalry trapped at Aalen. They believed an overwhelming horde stood in the woods. When a hundred howling men appeared, it was just what they were dreading."
+
+37 — Antioch
+Emperor Marcus Aurelius Severus Alexander had held the purple for twelve years, elevated as a youth of fourteen after the Praetorian Guard killed his cousin Elagabalus in Rome. His mother, Julia Mamaea, directed the government of the empire. Holding the title of Augusta, she managed the treasury, selected the provincial governors, and controlled access to the throne. Alexander deferred to her judgement in all decisions. He had grown to manhood inside palace corridors, accustomed to silk garments, warm baths, and soft Syrian winters. For two years, the court had occupied the imperial palace at Antioch, overseeing the Persian war through dispatches while the army endured the campaign in Mesopotamia. Alexander dreaded the rough company of soldiers, trembling whenever military delegations entered the audience hall.
+Midwinter brought heavy, steady rain to the Levant. The Orontes river flooded the pastures along the valley floor, turning the military cantonments outside Antioch into deep fields of red mud. Cold dampness seeped through the wet wool and saturated leather of the legionary tents, rotting kit and bringing fever to the ranks.
+Inside the palace on the river island, charcoal braziers heated the private chambers with burning cedar and frankincense. Thick tapestries covered the limestone walls, blocking the draft. Alexander sat beside the coals in a silk robe lined with Persian sable, shivering whenever the gale rattled the shutters.
+The first news of the unrest on the Limes Germanicus arrived from Rome by courier galley through Seleucia Pieria. 
+Julia Mamaea took the cylinder from the messenger, breaking the chancellery seal. She read the report from the Tabularium detailing the evacuation of Fort Lorch.
+Alexander stared at his mother, his hands shaking against his fur trim.
+"The Germanic frontier has broken," Alexander said, tears welling in his eyes. "The barbarians will cross the Alps."
+"A single fort suffered a fire," Mamaea replied, tossing the papyrus onto an ebony table. "The local commander fled his own shadows. The provincial governor has sufficient auxiliary cohorts to rebuild a burned stable. The court remains in Syria to conclude the Persian treaties."
+Alexander wiped his cheeks with his silk sleeve and pulled his feet closer to the brazier.
+⁂
+Ten days later, as the rain fell in torrents across the valley, a second courier from Rome reached the palace, escorted by palace guards.
+The dispatch carried the joint seal of the Senate and the Urban Prefecture, enclosing the report from Castra Regina.
+Mamaea spread the sheet before the imperial council. The news was grave. An Alemannic war-band had destroyed the gate at Dalkingen, killed the auxiliary detachment, and battered down the bronze monument of Caracalla. The Ala at Aalen had marched in full strength, finding only smoldering ruins.
+Alexander gripped the arms of his ivory chair, his voice rising in panic.
+"Raetia is burning," Alexander wept. "The tribes are inside the province! We must send gold. We must buy peace before they reach Rome!"
+Mamaea scowled at her son, her fingers tightening on the dispatch.
+"We buy peace when it suits our treasury," Mamaea said sharply. "Raetia has eight hundred legionaries at Castra Regina and a thousand heavy horse at Aalen. They can patrol their own woods. Our legions stay here until the eastern borders are secure."
+⁂
+The army stationed around Antioch held thousands of veterans from the Rhine and Danube legions, transferred east two years earlier for the Persian war. They lived in waterlogged tents, their boots caked in thick clay and their armor rusting in the damp air.
+A third packet of dispatches arrived ten days after the second, carried by an imperial relay that had ridden hard from Brundisium. 
+This packet contained the formal casualty report from Moguntiacum and the general alarm from Legatus Flaccus. Lorch was destroyed, with hundreds of auxiliaries dead and the survivors huddled behind the Rhine. In Raetia, the cavalry was crippled, outposts were cut off, and barbarian war-bands roamed the interior defiles.
+Word spread from the palace chancellery to the military camps before midday. Scribes and quartermasters passed the accounts down to the centurions, and on to the ranks.
+Fury swept through the tents. Rhine legionaries threw aside their trenching tools and gathered in the muddy avenues of the camp. Their homelands were burning in the winter snow, their families were exposed to barbarian axes, and their Emperor kept them wallowing in Syrian mud to flatter eastern court officials.
+The anger turned to mutiny.
+Hundreds of armed legionaries marched through the rain to the palace gates, banging their spathas against their bronze shield bosses. Centurions who attempted to restore order were shoved aside in the red mud. The shouts of the soldiers echoed across the Orontes island, demanding an urgent march to the West and threatening to proclaim a new emperor if their homes were abandoned to the tribes.
+Inside the great hall, the clamor of the soldiers shook the palace guards.
+Alexander collapsed onto a cushioned couch, sobbing openly into his hands, completely overwhelmed by the roaring crowd outside the walls.
+"They will kill me," Alexander stammered, his body shaking with dread. "The soldiers will tear down the gates."
+Julia Mamaea stepped between the Emperor and the cowering magistrates, her face set hard.
+"Quiet yourself," Mamaea commanded her son.
+She turned to the Praetorian prefect and the assembled tribunes.
+"The Emperor has heard the will of the army," Mamaea said, her voice carrying across the marble hall. "We will march for the West."
+
+38 — Soft Underbelly
+Smoke from the fallen tower rose straight into the grey sky as the Alemanni vanished into the northern spruce, dragging their plunder over the frozen turf.
+On the crest, Tigratavā lowered herself flat against the limestone shelf, watching the valley floor below.
+"The main gates at Murrhardt are barred tight," Tigratavā said. "Every sentry stands on the north parapet, shields raised, watching the smoke."
+"They expect the whole forest to follow," Thana said. "They are bracing for a war-band that's just run off with their breakfast."
+"After losing Lorch, they're expecting the worst," said Thilda. "It wouldn't surprise me if they're like this all the way along the limes."
+"Then I'd say we've achieved what we set out to achieve," Tove said. "They've rolled over, leaving their soft underbelly exposed. We can let the Alemanni tear them apart now, if they don't tear themselves apart first."
+Thilda moved a bit further along, peering down through another gap.
+"What have you found?" asked Tiata.
+"Horses. Looks like a watering detail. There’s a river pen below the south wall."
+Tiata looked down at the river terrace. "How many horses are there?"
+"Six," Thilda said. "They're saddled and all."
+"Aren't the grooms with them?" asked Toria. "Or did they all run like rabbits?"
+Thana laughed. "They didn't all run like rabbits," she said. "Some ran like hairy goats."
+"No, I saw them run when the horn blew," said Tigratavā.
+"All we need is another three sound mounts," said Tiata. "Then we can travel a lot easier."
+They led their five mounts down the gully through the dwarf spruce, the limestone banks hiding their descent. At the valley floor, the Murr river ran over grey boulders, fringed by dense alder and willow scrub.
+Upstream, Fort Murrhardt sat on its low river terrace. From inside the stone curtain came the blare of horns and the shouting of decurions forming ranks along the north walkway.
+"We'll need to be quick," said Tigratavā. "It looks like they're going to be coming out shortly."
+Just ahead of them, the log rails of the paddock held six sturdy auxiliary horses, their winter coats rough against the cold air.
+Tove, Toria and Tacita moved cautiously into the open ground, while the others waited out of sight. 
+The three women moved along the frozen mud of the riverbank, keeping low below the lip of the terrace. They reached the timber rails and climbed through. Tove approached the nearest three, murmuring softly. The horses stood calmly as Tacita gathered the reins.
+Toria lifted the drop-bar of the paddock gate, holding the oak beam firmly with both hands as the iron pins cleared the brackets.
+They led the three horses through the gap and guided them into the willow brush, leaving the pen open behind them.
+Each woman now held the reins of her own mount. They swung up into their saddles, and rode back up to the ridge.
+The breach opened twenty paces wide where the Alemanni had hacked through the oak. Around the breach, the frozen ditch held the bodies of the twelve fallen warriors, stripped of their weapons, lying among splintered oak posts and blood-stained rime.
+The eight horses picked their way down the ditch bank, stepping over the split timbers, and climbed the far slope onto the boundary apron, through the shattered wall and on into the northern forest.
+Toria glanced over her shoulder, where the noise of the Roman column could be heard approaching the breach in the palisade. 
+"It's a pity they caved so easily," she said. "I was hoping to join in the fun again once my arm healed."
+"There's plenty more where they came from," said Thana. "In Dacia, they don't even keep them behind a wall."
+
+Historical Epilogue
+Severus Alexander's war against the Sassanid king Ardashir I had kept him and much of the Rhine and Danube armies in the East since 231. The Persian campaign wound down without a decisive victory by 233, and it was against that backdrop that reports of the collapsing Rhine frontier reached his court at Antioch. In 234 he marched north to deal with it, making his headquarters at Moguntiacum — where, rather than force a battle, he chose to buy peace from the Alemanni. His own troops, already resentful after an inconclusive Persian campaign and now humiliated at being asked to pay off the enemy instead of fight, mutinied under one of their own officers, Maximinus Thrax, and killed Alexander and his mother together near the fortress in March 235, ending the Severan dynasty and opening the Crisis of the Third Century.
+
+Historical Note
+The fort at Aalen housed the largest cavalry garrison on the Raetian limes, covering roughly fifteen acres as the base for the "Ala II Flavia milliaria" — an elite regiment of one thousand heavy cavalry. It stood on the military highway connecting Augusta Vindelicum, known today as Augsburg, across the Danube to the frontier. The nearby fort at Buch, home to the "Cohors III Thracum veterana" (a 500-strong part-mounted auxiliary cohort), lay a little over a mile from the frontier and guarded the same approach.
+The Limes Gate at Dalkingen is the only monument of its kind discovered along the entire Upper Germanic-Raetian frontier. Following Emperor Caracalla's Germanic campaign around 213 AD, an existing border gatehouse was transformed into an opulent triumphal arch of dressed sandstone. Over 140 fragments of a larger-than-life gilded bronze statue of the emperor in military cuirass were recovered from the site and are now preserved in the Limesmuseum in Aalen. Excavations confirm that the gate and its timber guardhouse were destroyed by fire and abandoned during the frontier turmoil around 233–234 AD. Archaeological evidence also shows that the portal itself had been permanently walled off and blocked around this period, ending its function as a gateway. Since 2010, the conserved ruins have stood protected under a striking glass-and-steel enclosure.
+Moguntiacum was the provincial capital of Germania Superior. Its double legionary fortress, established under Augustus, remained in use into the fourth century. Little of it survives above ground, but the Drususstein — a monument raised by the garrison for the general Drusus after his death in 9 BC — still stands within the grounds of the city's later citadel, and the remains of the legionary aqueduct and the Roman theatre, the largest known north of the Alps, can still be seen in the modern city, known today as Mainz.
+Although the official provincial capital of Raetia was Augusta Vindelicum, the effective seat of military command lay at Castra Regina. Built in 179 AD as the base of "Legio III Italica" — the only legion stationed in the province — the fortress served as the headquarters of the governor, who held both military and civil authority. Its northern gate, the Porta Praetoria, still stands largely intact in the old town of the city now known as Regensburg — one of only two Roman city gates left standing anywhere in Germany.
+The wider collapse of the frontier depicted across this book is historical, known as the Limesfall. The worst of it came later than the book's setting, mainly in the 250s AD, but pressure from the Alemanni had already begun by 233, and several forts near Lorch were burned and abandoned around this same period. That unrest did not stay contained to the frontier — word of it reached the emperor himself, at the far end of the empire, and the final part of this book follows that chain to where it led.
+Today, the Upper Germanic-Raetian frontier is preserved as part of the UNESCO World Heritage "Frontiers of the Roman Empire".

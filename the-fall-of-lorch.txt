@@ -1,4 +1,5 @@
 
+
  The Fall of Lorch
  When Rome was hamstrung in 233 AD
 
@@ -1140,11 +1141,6 @@ They all sat silent, waiting for her to go on.
  Then Tacita spoke.
  "Let it burn," she said. "Let all of Rome burn."
 
- Author's Note
- Fort Lorch was a real Roman garrison. It sat at a point known today as the Limesknie — literally, the "limes-knee," the bend where the Upper Germanic limes turned sharply east to meet the Raetian limes on its way to the Danube. Genu is the Latin word for knee, and it's the word Taran uses for it in this book.
- The site lies beneath the present-day town of Lorch, which has prevented the same kind of full excavation carried out at other forts along the frontier, such as Zugmantel and the Limes Gate at Dalkingen. The only part of the fort still visible above ground is a single tower base at the west gate. The last significant excavation was carried out in the 1980s, and found the remains preserved under about 1.5 metres of hillside silt and more recent construction.
- The wider collapse of the frontier referenced in this book is also historical, known as the Limesfall. The worst of it came later than this book's setting, mainly in the 250s AD, but pressure from the Alemanni had already begun by 233. Several forts near Lorch, including the Limes Gate at Dalkingen, were burned and abandoned around this same period.
-
  Character Index
 
  Thana
@@ -1210,3 +1206,9 @@ They all sat silent, waiting for her to go on.
  Taran is the last of the eight, first seen while still in captivity at Fort Lorch, standing silent by a wall as the Praefectus displays her to visiting officers as proof of Rome's control even beyond the frontiers. Taken from Caledonia as an exotic curiosity, she has spent three years treated, in her own words, like a hound that had learned to heel. She breaks her captivity the night a frightened soldier's account of an ambush reaches the household, lifting weapons from the Praefectus's own armoury before scaling the fort wall in the dead of night.
  From the little we are told about her life in Caledonia, we can see that her speed and dexterity was more than a match for a Roman soldier. This fiery-tempered nature never burned out during her captivity, and even the practice blades she was proffered were used to keep her skills sharp. Over the three years of captivity, she learned a unique cold patience that now acts as a faucet through which she channels her frenzy, however, it never chilled her natural warmth which resurfaces the moment she allows herself to relax into Tove's embrace.
  In combat, Taran appears to be the embodiment of a contradiction. She has the immense patience required to be a highly skilled archer, and other times, she's a screaming banshee who drops from overhead onto five armed men with her twin blades already flying. The tuagh she has at her belt has not yet seen action since Caledonia, but would no doubt prove as deadly in her hands as her other weapons.
+
+Historical Note
+Female gladiators were a genuine feature of the Roman arena, recorded by historians such as Tacitus, Suetonius, and Cassius Dio, and depicted on contemporary stone reliefs. Although Emperor Septimius Severus officially banned women from combat around 200 AD, private and provincial spectacles continued to stage bouts in defiance of imperial decree.
+The fort at Lorch was a real Roman fortress. It sat at a point known today as the Limesknie — literally, the "limes-knee," the bend where the Upper Germanic limes turned sharply east to meet the Raetian limes on its way to the Danube. "Genu" is the Latin word for knee. The site lies beneath the present-day town of Lorch, which has prevented the same kind of full excavation carried out at other forts along the frontier, such as Zugmantel. The only part of the fort still visible above ground is a single tower base at the west gate. The last significant excavation was carried out in the 1980s, and found the remains preserved under about 1.5 metres of hillside silt and more recent construction.
+Lorch was located at the point where two distinct border construction styles met: while Upper Germania fortified its line with an earthen rampart and split-oak palisade, Raetia constructed a continuous wall of plastered limestone, remembered in folklore as the "Teufelsmauer" (Devil's Wall). 
+ The wider collapse of the frontier referenced in this book is also historical, known as the Limesfall. Further details are provided in the Historical Note at the end of the sequel to this book.
