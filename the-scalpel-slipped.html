@@ -2,85 +2,79 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>The Scalpel Slipped ...and the world bled out — Andreas Breidenthal</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>The Scalpel Slipped</title>
+<meta content="...and the world bled out" name="description"/>
+<meta content="ADB" name="author"/>
+<meta content="The Scalpel Slipped" property="og:title"/>
+<meta content="...and the world bled out" property="og:description"/>
+<meta content="article" property="og:type"/>
+<link href="favicon.ico" rel="icon" type="image/x-icon"/>
+<link href="https://fonts.googleapis.com" rel="preconnect"/>
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300;1,400&amp;family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&amp;family=Inconsolata:wght@300;400;500&amp;display=swap" rel="stylesheet"/>
 <style>
   :root {
-    --text-color: #222222;
-    --bg-color: #fbfbf9;
-    --accent-color: #7b1e1e;
-    --muted-color: #666666;
-    --border-color: #e2e0d8;
-    --teletype-bg: #f4f3ee;
-    --font-serif: "Georgia", "Baskerville", "Times New Roman", serif;
+    /* Shared book palette (matches "The Fall of Lorch" / "Victoria Unpublished") */
+    --ink: #1a1410;
+    --paper: #f4efe6;
+    --aged: #e8dfc8;
+    --rust: #8b3a2a;
+    --gold: #a07830;
+    --faded: #7a6e5f;
+    --rule: #c8bda8;
+    --shadow: rgba(26, 20, 16, 0.12);
+    --noise: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='300' height='300'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='300' height='300' filter='url(%23n)' opacity='0.04'/%3E%3C/svg%3E");
+
+    /* Original variable names kept so every special/dossier style below
+       keeps working untouched -- only the values are re-pointed at the
+       shared palette above. */
+    --text-color: var(--ink);
+    --bg-color: var(--paper);
+    --accent-color: var(--rust);
+    --muted-color: var(--faded);
+    --border-color: var(--rule);
+    --teletype-bg: var(--aged);
+    --font-serif: "Libre Baskerville", Georgia, "Baskerville", "Times New Roman", serif;
     --font-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-    --font-mono: "Courier New", Courier, monospace;
+    --font-mono: "Inconsolata", "Courier New", Courier, monospace;
   }
 
   body {
+    max-width: 860px;
+    margin: 0 auto;
     background-color: var(--bg-color);
+    background-image: var(--noise);
     color: var(--text-color);
     font-family: var(--font-serif);
-    font-size: 1.075rem;
+    font-size: 16px;
     line-height: 1.7;
-    margin: 0;
-    padding: 2rem 1rem;
+    box-shadow: 0 0 60px rgba(0, 0, 0, 0.55), inset 0 0 120px rgba(139, 105, 20, 0.04);
     display: flex;
-    justify-content: center;
+    flex-direction: column;
+    min-height: 100vh;
+    padding: 0;
   }
 
   .book-container {
-    max-width: 740px;
-    width: 100%;
-    background: #ffffff;
-    padding: 3.5rem 4rem;
-    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
-    border: 1px solid var(--border-color);
-    border-radius: 4px;
+    background-color: var(--aged);
+    padding: 40px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     box-sizing: border-box;
   }
 
   @media (max-width: 680px) {
     .book-container {
-      padding: 2rem 1.5rem;
-      border: none;
-      box-shadow: none;
+      padding: 1.5rem 1rem;
     }
   }
 
   /* Title & Front Matter */
   .title-page {
     text-align: center;
-    padding: 3rem 0 4rem 0;
-    border-bottom: 2px solid var(--border-color);
-    margin-bottom: 3.5rem;
-  }
-
-  h1.book-title {
-    font-size: 2.3rem;
-    font-weight: 700;
-    letter-spacing: 0.05em;
-    color: var(--text-color);
-    margin-bottom: 0.35rem;
-    text-transform: uppercase;
-  }
-
-  .book-subtitle {
-    font-size: 1.3rem;
-    font-style: italic;
-    color: var(--accent-color);
-    margin-bottom: 2rem;
-  }
-
-  .author-name {
-    font-family: var(--font-sans);
-    font-size: 1.15rem;
-    letter-spacing: 0.1em;
-    text-transform: uppercase;
-    font-weight: 600;
-    color: var(--muted-color);
-    margin-bottom: 3rem;
+    padding: 0 0 2rem 0;
+    margin-bottom: 0;
   }
 
   .epigraph {
@@ -88,7 +82,7 @@
     margin: 0 auto;
     font-style: italic;
     font-size: 1.05rem;
-    color: #444;
+    color: var(--ink);
     text-align: center;
   }
 
@@ -98,6 +92,121 @@
     font-size: 0.95rem;
     color: var(--muted-color);
     display: block;
+  }
+
+  /* Collapsible TOC styles */
+  .toc {
+    background-color: var(--paper);
+    padding: 14px 15px;
+    margin: 30px 0;
+    border-radius: 8px;
+    border-left: 5px solid var(--rust);
+    width: auto;
+    box-sizing: border-box;
+  }
+
+  .toc[open] {
+    padding: 15px;
+  }
+
+  .toc > summary {
+    list-style: none;
+    cursor: pointer;
+    color: var(--ink);
+    font-size: 1.25em;
+    font-weight: 700;
+    margin: 0;
+    outline: none;
+  }
+
+  .toc[open] > summary {
+    margin: 0 0 10px 0;
+  }
+
+  .toc > summary::marker {
+    content: "";
+  }
+
+  .toc > summary::-webkit-details-marker {
+    display: none;
+  }
+
+  .toc > summary::before {
+    content: "▾";
+    display: inline-block;
+    margin-right: 8px;
+    transition: transform 150ms ease;
+    color: var(--rust);
+  }
+
+  .toc[open] > summary::before {
+    transform: rotate(0deg);
+  }
+
+  .toc:not([open]) > summary::before {
+    transform: rotate(-90deg);
+  }
+
+  .toc ul {
+    list-style: none;
+    padding-left: 0;
+    margin: 10px 0 0 0;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-auto-flow: column;
+    grid-template-rows: repeat(7, auto);
+    column-gap: 30px;
+    row-gap: 10px;
+    width: 100%;
+  }
+
+  .toc li {
+    margin: 0;
+  }
+
+  .toc a {
+    color: var(--ink);
+    text-decoration: none;
+    transition: color 0.2s;
+    font-size: 0.7em;
+    line-height: 1.3;
+    display: block;
+    white-space: nowrap;
+  }
+
+  .toc a:hover {
+    color: var(--rust);
+    text-decoration: underline;
+  }
+
+  @media (max-width: 700px) {
+    .toc ul {
+      grid-template-columns: repeat(2, 1fr);
+      grid-template-rows: repeat(11, auto);
+      column-gap: 16px;
+      row-gap: 6px;
+    }
+    .toc a {
+      font-size: 0.62em;
+    }
+  }
+
+  .toc > summary:focus-visible {
+    box-shadow: 0 0 60px rgba(0, 0, 0, 0.55), inset 0 0 120px rgba(139, 105, 20, 0.04);
+    border-radius: 6px;
+  }
+
+  .back-to-top {
+    display: block;
+    text-align: right;
+    margin: 8px 0 10px 0;
+    color: var(--ink);
+    font-size: 0.7em;
+    text-decoration: none;
+  }
+
+  .back-to-top:hover {
+    color: var(--rust);
   }
 
   /* Parts & Chapters */
@@ -114,7 +223,7 @@
     letter-spacing: 0.15em;
     text-transform: uppercase;
     font-weight: 700;
-    color: #1e3a5f;
+    color: var(--ink);
     margin: 0;
   }
 
@@ -123,11 +232,13 @@
   }
 
   h2.chapter-title {
-    font-size: 1.45rem;
-    font-weight: 600;
-    margin-top: 2.5rem;
+    color: var(--ink);
+    font-size: 1.25em;
+    font-weight: bold;
+    margin-top: 50px;
     margin-bottom: 0.3rem;
-    color: var(--text-color);
+    padding-top: 30px;
+    border-top: 3px solid var(--rust);
   }
 
   .chapter-meta {
@@ -146,7 +257,7 @@
     text-justify: inter-word;
   }
 
-  /* Telegrams, Memoranda & Transcripts */
+  /* Telegrams, Memoranda & Transcripts -- special styles, left untouched */
   .telegram {
     font-family: var(--font-mono);
     font-size: 0.9rem;
@@ -260,13 +371,41 @@
     </div>
   </header>
 
+<br id="toc"/>
+<details class="toc">
+<summary>Table of Contents</summary>
+<ul>
+<li><a href="#ch-1">1. The Telegram</a></li>
+<li><a href="#ch-2">2. Architecture</a></li>
+<li><a href="#ch-3">3. The Keystone</a></li>
+<li><a href="#ch-4">4. The First Reports</a></li>
+<li><a href="#ch-5">5. The Silence</a></li>
+<li><a href="#ch-6">6. The Ultimatum</a></li>
+<li><a href="#ch-7">7. The Cascade</a></li>
+<li><a href="#ch-8">8. Dismissal</a></li>
+<li><a href="#ch-9">9. Flight</a></li>
+<li><a href="#ch-10">10. Exile</a></li>
+<li><a href="#ch-11">11. The Memoirs</a></li>
+<li><a href="#ch-12">12. The Interview</a></li>
+<li><a href="#ch-13">13. The Death</a></li>
+<li><a href="#epi-1">Epilogue: The Silence</a></li>
+<li><a href="#ch-14">14. The Bookshop</a></li>
+<li><a href="#ch-15">15. Authentication</a></li>
+<li><a href="#ch-16">16. Moscow</a></li>
+<li><a href="#ch-17">17. Vienna</a></li>
+<li><a href="#ch-18">18. The Choice</a></li>
+<li><a href="#epi-2">Epilogue: Six Months Later</a></li>
+<li><a href="#historical-note">Historical Note</a></li>
+</ul>
+</details>
+
   <!-- PART I -->
   <div class="part-header">
     <h2 class="part-title">Part I: Positioning (1912-1914)</h2>
   </div>
 
   <section class="chapter">
-    <h2 class="chapter-title">Chapter One: The Telegram</h2>
+    <h2 class="chapter-title" id="ch-1">Chapter One: The Telegram</h2> <a class="back-to-top" href="#toc">↑ Back to top</a>
     <div class="chapter-meta">St. Petersburg, 28th June 1914</div>
 
     <p>The telegram arrived at 1:47 PM.</p>
@@ -315,7 +454,7 @@
   </section>
 
   <section class="chapter">
-    <h2 class="chapter-title">Chapter Two: Architecture</h2>
+    <h2 class="chapter-title" id="ch-2">Chapter Two: Architecture</h2> <a class="back-to-top" href="#toc">↑ Back to top</a>
     <div class="chapter-meta">St. Petersburg, 14th February 1912</div>
 
     <p>The Foreign Ministry after midnight was no longer a place of policy. It was a place of clarity.</p>
@@ -353,7 +492,7 @@
   </section>
 
   <section class="chapter">
-    <h2 class="chapter-title">Chapter Three: The Keystone</h2>
+    <h2 class="chapter-title" id="ch-3">Chapter Three: The Keystone</h2> <a class="back-to-top" href="#toc">↑ Back to top</a>
     <div class="chapter-meta">St. Petersburg, January 1914</div>
 
     <p>The dossier on Franz Ferdinand was thinner than the others, yet it carried the weight of a linchpin.</p>
@@ -386,7 +525,7 @@
   </section>
 
   <section class="chapter">
-    <h2 class="chapter-title">Chapter Four: The First Reports</h2>
+    <h2 class="chapter-title" id="ch-4">Chapter Four: The First Reports</h2> <a class="back-to-top" href="#toc">↑ Back to top</a>
     <div class="chapter-meta">St. Petersburg, March-April 1914</div>
 
     <p>The reports began in March—manila folders, cipher notations, the routine bureaucratic cadence of intelligence work.</p>
@@ -454,7 +593,7 @@
   </section>
 
   <section class="chapter">
-    <h2 class="chapter-title">Chapter Five: The Silence</h2>
+    <h2 class="chapter-title" id="ch-5">Chapter Five: The Silence</h2> <a class="back-to-top" href="#toc">↑ Back to top</a>
     <div class="chapter-meta">St. Petersburg, May-June 1914</div>
 
     <p>Two months passed. Spring turned to early summer. Reports continued from Belgrade Station—some routine, some concerning, all filed according to the protocol Sazonov had established.</p>
@@ -544,7 +683,7 @@
   </section>
 
   <section class="chapter">
-    <h2 class="chapter-title">Chapter Six: The Ultimatum</h2>
+    <h2 class="chapter-title" id="ch-6">Chapter Six: The Ultimatum</h2> <a class="back-to-top" href="#toc">↑ Back to top</a>
     <div class="chapter-meta">St. Petersburg, 24th July 1914</div>
 
     <p>The Foreign Ministry had gone quiet in the way buildings do when history is about to change hands.</p>
@@ -584,7 +723,7 @@
   </section>
 
   <section class="chapter">
-    <h2 class="chapter-title">Chapter Seven: The Cascade</h2>
+    <h2 class="chapter-title" id="ch-7">Chapter Seven: The Cascade</h2> <a class="back-to-top" href="#toc">↑ Back to top</a>
     <div class="chapter-meta">St. Petersburg/Tsarskoye Selo, 24th July - 30th July 1914</div>
 
     <p>The week following the ultimatum was not a timeline of events but a slow-motion catastrophe, each day collapsing into the next like dominoes falling in a pattern Sazonov could see but not stop.</p>
@@ -717,7 +856,7 @@
   </div>
 
   <section class="chapter">
-    <h2 class="chapter-title">Chapter Eight: Dismissal</h2>
+    <h2 class="chapter-title" id="ch-8">Chapter Eight: Dismissal</h2> <a class="back-to-top" href="#toc">↑ Back to top</a>
     <div class="chapter-meta">Tsarskoye Selo, 10th July 1916</div>
 
     <p>Two years into the war, Sazonov received the summons.</p>
@@ -782,7 +921,7 @@
   </section>
 
   <section class="chapter">
-    <h2 class="chapter-title">Chapter Nine: Flight</h2>
+    <h2 class="chapter-title" id="ch-9">Chapter Nine: Flight</h2> <a class="back-to-top" href="#toc">↑ Back to top</a>
     <div class="chapter-meta">Petrograd/Southern Russia, February-October 1917</div>
 
     <p>Six months after his dismissal, an offer arrived: Ambassador to the Court of St. James's. The most prestigious posting in Russian diplomacy.</p>
@@ -831,7 +970,7 @@
   </section>
 
   <section class="chapter">
-    <h2 class="chapter-title">Chapter Ten: Exile</h2>
+    <h2 class="chapter-title" id="ch-10">Chapter Ten: Exile</h2> <a class="back-to-top" href="#toc">↑ Back to top</a>
     <div class="chapter-meta">Paris/Nice, 1919-1925</div>
 
     <p>The Allied leaders at the peace conference were polite.</p>
@@ -871,7 +1010,7 @@
   </section>
 
   <section class="chapter">
-    <h2 class="chapter-title">Chapter Eleven: The Memoirs</h2>
+    <h2 class="chapter-title" id="ch-11">Chapter Eleven: The Memoirs</h2> <a class="back-to-top" href="#toc">↑ Back to top</a>
     <div class="chapter-meta">Nice, January-August 1925</div>
 
     <p>In early 1925, a publisher approached Sazonov about writing his memoirs.</p>
@@ -943,7 +1082,7 @@
   </section>
 
   <section class="chapter">
-    <h2 class="chapter-title">Chapter Twelve: The Interview</h2>
+    <h2 class="chapter-title" id="ch-12">Chapter Twelve: The Interview</h2> <a class="back-to-top" href="#toc">↑ Back to top</a>
     <div class="chapter-meta">Nice, October 1926</div>
 
     <p>A young Russian &eacute;migr&eacute; named Dmitri Gordeyev came to interview Sazonov for a historical study of the July Crisis.</p>
@@ -1054,7 +1193,7 @@
   </section>
 
   <section class="chapter">
-    <h2 class="chapter-title">Chapter Thirteen: The Death</h2>
+    <h2 class="chapter-title" id="ch-13">Chapter Thirteen: The Death</h2> <a class="back-to-top" href="#toc">↑ Back to top</a>
     <div class="chapter-meta">Nice, 25th December 1927</div>
 
     <p>Sergei Dmitrievich Sazonov died on Christmas morning.</p>
@@ -1151,7 +1290,7 @@
   </section>
 
   <section class="chapter">
-    <h2 class="chapter-title">Epilogue: The Silence</h2>
+    <h2 class="chapter-title" id="epi-1">Epilogue: The Silence</h2> <a class="back-to-top" href="#toc">↑ Back to top</a>
 
     <p>The funeral was small.</p>
     <p>A few dozen Russian &eacute;migr&eacute;s stood in cold sunshine outside the Orthodox church in Nice, listening to prayers in Old Church Slavonic, watching as Sazonov's coffin was carried to the Cimit&egrave;re du Ch&acirc;teau.</p>
@@ -1295,7 +1434,7 @@
   </div>
 
   <section class="chapter">
-    <h2 class="chapter-title">Chapter Fourteen: The Bookshop</h2>
+    <h2 class="chapter-title" id="ch-14">Chapter Fourteen: The Bookshop</h2> <a class="back-to-top" href="#toc">↑ Back to top</a>
     <div class="chapter-meta">Saint-Paul-de-Vence, France, June 2025</div>
 
     <p>The bookshop was the kind you find by accident—tucked down a narrow alley in Saint-Paul-de-Vence, single grimy window, the smell of old paper and mildew and time itself, if time has a smell.</p>
@@ -1369,7 +1508,7 @@
   </section>
 
   <section class="chapter">
-    <h2 class="chapter-title">Chapter Fifteen: Authentication</h2>
+    <h2 class="chapter-title" id="ch-15">Chapter Fifteen: Authentication</h2> <a class="back-to-top" href="#toc">↑ Back to top</a>
     <div class="chapter-meta">Paris, June-July 2025</div>
 
     <p>I didn't sleep on the train back to Paris.</p>
@@ -1432,7 +1571,7 @@
   </section>
 
   <section class="chapter">
-    <h2 class="chapter-title">Chapter Sixteen: Moscow</h2>
+    <h2 class="chapter-title" id="ch-16">Chapter Sixteen: Moscow</h2> <a class="back-to-top" href="#toc">↑ Back to top</a>
     <div class="chapter-meta">Russian State Archive, Moscow, July 2025</div>
 
     <p>The Rosarkhiv building on Bolshaya Pirogovskaya Street looked exactly like every other Soviet-era institutional structure—grey concrete, narrow windows, the architectural equivalent of bureaucratic indifference.</p>
@@ -1692,7 +1831,7 @@
   </section>
 
   <section class="chapter">
-    <h2 class="chapter-title">Chapter Seventeen: Vienna</h2>
+    <h2 class="chapter-title" id="ch-17">Chapter Seventeen: Vienna</h2> <a class="back-to-top" href="#toc">↑ Back to top</a>
     <div class="chapter-meta">Austrian State Archive, Vienna, August 2025</div>
 
     <p>After Moscow, Vienna felt almost comically civilized.</p>
@@ -1787,7 +1926,7 @@
   </section>
 
   <section class="chapter">
-    <h2 class="chapter-title">Chapter Eighteen: The Choice</h2>
+    <h2 class="chapter-title" id="ch-18">Chapter Eighteen: The Choice</h2> <a class="back-to-top" href="#toc">↑ Back to top</a>
     <div class="chapter-meta">Paris, September 2025</div>
 
     <p>I returned to Paris with folders full of documents, a laptop filled with encrypted files, and a notebook that had become the heaviest thing I'd ever carried.</p>
@@ -1878,7 +2017,7 @@
   </section>
 
   <section class="chapter">
-    <h2 class="chapter-title">Epilogue: Six Months Later</h2>
+    <h2 class="chapter-title" id="epi-2">Epilogue: Six Months Later</h2> <a class="back-to-top" href="#toc">↑ Back to top</a>
 
     <p>The article was published in March 2026.</p>
     <p>The response was exactly what Professor Duval had predicted: immediate, polarizing, overwhelming.</p>
@@ -1912,8 +2051,8 @@
   </section>
 
   <!-- Historical Note -->
-  <section class="historical-note">
-    <h2>Historical Note</h2>
+  <section class="historical-note" id="historical-note">
+    <h2>Historical Note</h2> <a class="back-to-top" href="#toc">↑ Back to top</a>
     <p>Sergei Dmitrievich Sazonov served as Foreign Minister of Imperial Russia from 1910 to 1916. He was dismissed during wartime reorganization and lived in exile in France after the Bolshevik Revolution. His published memoirs, <em>Fateful Years</em> (1928), provide valuable insight into Russian diplomatic thinking before the Great War, but they are notably reticent about intelligence operations and internal decision-making processes.</p>
 
     <h3>What is documented:</h3>
@@ -1951,6 +2090,7 @@
   </section>
 
 </div>
-
+<script src="universal-header.js"></script>
+<script src="universal-footer.js"></script>
 </body>
 </html>

@@ -5,20 +5,37 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Operation Seamless: A Recovered Archive 1888–1901</title>
+  <meta name="description" content="A recovered Victorian archive of letters, reports, and testimony surrounding a cover-up in the Jack the Ripper case">
+  <meta name="author" content="Andreas Breidenthal">
+  <meta property="og:title" content="Operation Seamless: A Recovered Archive 1888–1901">
+  <meta property="og:description" content="A recovered Victorian archive of letters, reports, and testimony surrounding a cover-up in the Jack the Ripper case">
+  <meta property="og:type" content="article">
+  <link rel="icon" href="favicon.ico" type="image/x-icon">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&family=EB+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=Lora:ital,wght@0,400;0,600;1,400&family=Special+Elite&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&family=EB+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=Lora:ital,wght@0,400;0,600;1,400&family=Special+Elite&family=Inter:wght@300;400;500;600&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
   <style>
     :root {
-      --bg-parchment: #fdfbf7;
-      --bg-card: #f8f4ec;
-      --text-main: #231f20;
-      --text-muted: #55504d;
-      --ink-blue: #1c2e42;
-      --crimson: #7c1a22;
-      --accent-gold: #9c7c38;
-      --border-light: #ded6c8;
-      --border-dark: #8c8275;
+      --ink: #1a1410;
+      --paper: #f4efe6;
+      --aged: #e8dfc8;
+      --rust: #8b3a2a;
+      --gold: #a07830;
+      --faded: #7a6e5f;
+      --rule: #c8bda8;
+      --shadow: rgba(26, 20, 16, 0.12);
+      --noise: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='300' height='300'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='300' height='300' filter='url(%23n)' opacity='0.04'/%3E%3C/svg%3E");
+
+      /* Legacy Operation Seamless variable names, remapped onto the shared palette above */
+      --bg-parchment: var(--paper);
+      --bg-card: var(--aged);
+      --text-main: var(--ink);
+      --text-muted: var(--faded);
+      --ink-blue: var(--ink);
+      --crimson: var(--rust);
+      --accent-gold: var(--gold);
+      --border-light: var(--rule);
+      --border-dark: var(--faded);
       --font-serif: 'EB Garamond', Garamond, 'Times New Roman', Georgia, serif;
       --font-display: 'Cinzel', serif;
       --font-reading: 'Lora', Georgia, serif;
@@ -31,30 +48,30 @@
     }
 
     body {
-      margin: 0;
-      padding: 0;
-      background-color: #2b2725;
-      color: var(--text-main);
-      font-family: var(--font-serif);
-      font-size: 18px;
+      max-width: 860px;
+      margin: 0 auto;
+      background-color: var(--paper);
+      background-image: var(--noise);
+      color: var(--ink);
+      font-family: 'Libre Baskerville', Georgia, serif;
+      font-size: 16px;
       line-height: 1.7;
+      box-shadow: 0 0 60px rgba(0, 0, 0, 0.55), inset 0 0 120px rgba(139, 105, 20, 0.04);
+      display: flex;
+      flex-direction: column;
+      min-height: 100vh;
       -webkit-font-smoothing: antialiased;
     }
 
     .book-container {
-      max-width: 900px;
-      margin: 30px auto;
-      background: var(--bg-parchment);
-      padding: 60px 75px;
-      box-shadow: 0 10px 40px rgba(0, 0, 0, 0.45);
-      border-radius: 4px;
+      background-color: var(--aged);
+      padding: 40px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     }
 
     @media (max-width: 820px) {
       .book-container {
-        padding: 30px 22px;
-        margin: 0;
-        border-radius: 0;
+        padding: 20px;
       }
     }
 
@@ -101,68 +118,91 @@
       margin: 45px 0;
     }
 
-    /* Navigation TOC */
-    .toc-card {
-      background: #f4ede1;
-      border: 1px solid var(--border-light);
-      border-left: 4px solid var(--accent-gold);
-      padding: 24px 30px;
-      margin: 35px 0;
-      border-radius: 2px;
+    /* Collapsible TOC styles */
+    .toc {
+      background-color: var(--paper);
+      padding: 14px 15px;
+      margin: 30px 0;
+      border-radius: 8px;
+      border-left: 5px solid var(--rust);
+      width: auto;
+      box-sizing: border-box;
     }
-    .toc-card h3 {
-      margin-top: 0;
+
+    .toc[open] {
+      padding: 15px;
+    }
+
+    .toc > summary {
+      list-style: none;
+      cursor: pointer;
+      color: var(--ink);
       font-family: var(--font-display);
-      color: var(--crimson);
-    }
-    .toc-card ul {
-      list-style-type: none;
-      padding-left: 0;
+      font-size: 1.25em;
+      font-weight: 700;
       margin: 0;
+      outline: none;
+    }
+
+    .toc[open] > summary {
+      margin: 0 0 10px 0;
+    }
+
+    .toc > summary::marker {
+      content: "";
+    }
+
+    .toc > summary::-webkit-details-marker {
+      display: none;
+    }
+
+    .toc > summary::before {
+      content: "▾";
+      display: inline-block;
+      margin-right: 8px;
+      transition: transform 150ms ease;
+      color: var(--rust);
+    }
+
+    .toc[open] > summary::before {
+      transform: rotate(0deg);
+    }
+
+    .toc:not([open]) > summary::before {
+      transform: rotate(-90deg);
+    }
+
+    .toc ul {
+      list-style: none;
+      padding-left: 0;
+      margin: 10px 0 0 0;
       display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-      gap: 8px 16px;
-      font-size: 0.95rem;
+      grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+      gap: 8px 24px;
+      width: 100%;
+      font-size: 0.85em;
     }
-    .toc-card a {
-      color: var(--ink-blue);
+
+    .toc li {
+      margin: 0;
+    }
+
+    .toc a {
+      color: var(--ink);
       text-decoration: none;
-      transition: color 0.15s ease;
+      transition: color 0.2s;
+      line-height: 1.4;
+      display: block;
     }
-    .toc-card a:hover {
-      color: var(--crimson);
+
+    .toc a:hover {
+      color: var(--rust);
       text-decoration: underline;
     }
 
-    /* Book Covers & Title Page */
-    .title-page {
-      text-align: center;
-      padding: 60px 20px 40px;
-      margin-bottom: 40px;
-      border-bottom: 2px solid var(--accent-gold);
-    }
-    .title-page .main-title {
-      font-size: 3rem;
-      letter-spacing: 0.12em;
-      text-transform: uppercase;
-      color: var(--crimson);
-      margin: 0 0 10px;
-      font-family: var(--font-display);
-      font-weight: 700;
-    }
-    .title-page .sub-title {
-      font-size: 1.25rem;
-      letter-spacing: 0.08em;
-      color: var(--text-muted);
-      margin-bottom: 30px;
-      font-style: italic;
-    }
-    .title-page .author {
-      font-size: 1.1rem;
-      text-transform: uppercase;
-      letter-spacing: 0.15em;
-      color: var(--ink-blue);
-      font-weight: 600;
+    .toc > summary:focus-visible {
+      box-shadow: 0 0 60px rgba(0, 0, 0, 0.55), inset 0 0 120px rgba(139, 105, 20, 0.04);
+      border-radius: 6px;
     }
 
     /* Archival Metadata Box (Archivist's Notes) */
@@ -418,51 +458,48 @@
     }
 
     .back-to-top {
-      text-align: center;
-      margin: 40px 0 10px;
-      font-size: 0.85rem;
+      display: block;
+      text-align: right;
+      margin: 8px 0 10px 0;
+      font-size: 0.7em;
       font-family: var(--font-sans);
     }
     .back-to-top a {
-      color: var(--accent-gold);
+      color: var(--ink);
       text-decoration: none;
     }
     .back-to-top a:hover {
-      text-decoration: underline;
+      color: var(--rust);
     }
   </style>
 </head>
 <body>
 
-<div class="book-container" id="top">
+<div class="book-container">
 
-  <!-- TITLE PAGE -->
-  <section class="title-page">
-    <img alt="Operation Seamless — A Recovered Archive 1888-1901" src="images/operation-seamless.jpg" style="display:block; margin:0 auto 20px auto; max-width:100%; height:auto; border-radius: 4px;"/>
-  </section>
-
-  <!-- TABLE OF CONTENTS -->
-  <nav class="toc-card">
-    <h3>Archive Contents</h3>
-    <ul>
-      <li><a href="#about">About This Work &amp; Foreword</a></li>
-      <li><a href="#aldgate-archive">Part I: The Aldgate Manuscript</a></li>
-      <li><a href="#article-beyond-the-fog">Scholarly Paper: Beyond the Fog</a></li>
-      <li><a href="#swift-archive">Part II: Swift’s Account &amp; Document Cache</a></li>
-      <li><a href="#swift-account">Swift’s Account (Complete Transcript)</a></li>
-      <li><a href="#swift-dockets">Supplementary Documents (Transcripts)</a></li>
-      <li><a href="#article-ripper-suppression">Scholarly Paper: Ripper Suppression</a></li>
-      <li><a href="#article-into-the-archive">Scholarly Paper: Beyond the Fog and Into the Archive</a></li>
-      <li><a href="#kerr-archive">Part III: Invisible Martyr (Memoir by P. Kerr)</a></li>
-      <li><a href="#kerr-memoir">Memoir Text: Chapters 1–14 &amp; Postscripts</a></li>
-      <li><a href="#article-fog-thickens">Scholarly Paper: The Fog Thickens</a></li>
-      <li><a href="#afterword">Afterword: The Creation of Operation Seamless</a></li>
-    </ul>
-  </nav>
+  <img alt="Operation Seamless — A Recovered Archive 1888-1901" src="images/operation-seamless.jpg" style="display:block; margin:0 auto 20px auto; max-width:100%; height:auto; border-radius: 4px;"/>
+  <br id="toc"/>
+  <details class="toc">
+  <summary>Table of Contents</summary>
+  <ul>
+    <li><a href="#about">About This Work &amp; Foreword</a></li>
+    <li><a href="#aldgate-archive">Part I: The Aldgate Manuscript</a></li>
+    <li><a href="#article-beyond-the-fog">Scholarly Paper: Beyond the Fog</a></li>
+    <li><a href="#swift-archive">Part II: Swift’s Account &amp; Document Cache</a></li>
+    <li><a href="#swift-account">Swift’s Account (Complete Transcript)</a></li>
+    <li><a href="#swift-dockets">Supplementary Documents (Transcripts)</a></li>
+    <li><a href="#article-ripper-suppression">Scholarly Paper: Ripper Suppression</a></li>
+    <li><a href="#article-into-the-archive">Scholarly Paper: Beyond the Fog and Into the Archive</a></li>
+    <li><a href="#kerr-archive">Part III: Invisible Martyr (Memoir by P. Kerr)</a></li>
+    <li><a href="#kerr-memoir">Memoir Text: Chapters 1–14 &amp; Postscripts</a></li>
+    <li><a href="#article-fog-thickens">Scholarly Paper: The Fog Thickens</a></li>
+    <li><a href="#afterword">Afterword: The Creation of Operation Seamless</a></li>
+  </ul>
+  </details>
 
   <!-- ABOUT THIS WORK -->
   <section id="about">
-    <h2>About This Work</h2>
+    <h2>About This Work</h2> <a class="back-to-top" href="#toc">↑ Back to top</a>
     <p><em>Operation Seamless</em> is a work of fiction presented as a recovered Victorian archive. It gathers letters, reports, and personal testimonies surrounding a violent incident in Bishopsgate in 1888 — and the covert effort to erase it from history. Blending historical detail with invented voices, the book explores how silence, secrecy, and missing records shape what we believe to be true. Every document is imagined, yet grounded in real streets, institutions, and archival practices. What begins as a fragmentary record becomes a story of erasure, obsession, and the fragile seams of history.</p>
   </section>
 
@@ -483,7 +520,7 @@
 
   <!-- PART I: THE ALDGATE MANUSCRIPT -->
   <section id="aldgate-archive">
-    <h1>Part I: The Aldgate Manuscript</h1>
+    <h1>Part I: The Aldgate Manuscript</h1> <a class="back-to-top" href="#toc">↑ Back to top</a>
 
     <div class="archivist-card">
       <div class="archivist-header">Archivist’s Note</div>
@@ -595,7 +632,7 @@
 
   <!-- ACADEMIC PAPER 1 -->
   <article class="academic-article" id="article-beyond-the-fog">
-    <h2 class="paper-title">Beyond the Fog:</h2>
+    <h2 class="paper-title">Beyond the Fog:</h2> <a class="back-to-top" href="#toc">↑ Back to top</a>
     <div class="paper-subtitle">A Critical Analysis of The Aldgate Manuscript and Its Claims of 1888</div>
     
     <div class="author-block">
@@ -685,7 +722,7 @@
 
   <!-- PART II: THE SWIFT ARCHIVE -->
   <section id="swift-archive">
-    <h1>Part II: Swift’s Account &amp; Document Cache</h1>
+    <h1>Part II: Swift’s Account &amp; Document Cache</h1> <a class="back-to-top" href="#toc">↑ Back to top</a>
 
     <div class="archivist-card">
       <div class="archivist-header">Archivist’s Note</div>
@@ -753,7 +790,7 @@
 
     <!-- SWIFT'S ACCOUNT TRANSCRIPT -->
     <div class="transcript-box" id="swift-account">
-      <h2>Swift’s Account (Transcript)</h2>
+      <h2>Swift’s Account (Transcript)</h2> <a class="back-to-top" href="#toc">↑ Back to top</a>
 
       <h3>1. My Early Years</h3>
       <p>I do not know the name I was given at birth, nor the face of the woman who bore me. They told me I arrived at the parish workhouse in London sometime in the winter of 1881, swaddled in a blanket too fine for the place and too clean for the story they told. No one claimed me. No one came back. I was entered into the ledger as “Boy, Approx. Age: 0,” and that was the last time anyone tried to define me.</p>
@@ -1281,7 +1318,7 @@
 
     <!-- NINE SUPPLEMENTARY DOCUMENTS -->
     <div id="swift-dockets">
-      <h2>Supplementary Documents (Transcripts)</h2>
+      <h2>Supplementary Documents (Transcripts)</h2> <a class="back-to-top" href="#toc">↑ Back to top</a>
 
       <!-- 1. Draft Outline -->
       <div class="facsimile-report">
@@ -1609,7 +1646,7 @@
 
   <!-- ACADEMIC PAPER 2 -->
   <article class="academic-article" id="article-ripper-suppression">
-    <h2 class="paper-title">Operation Seamless and the Ripper Suppression:</h2>
+    <h2 class="paper-title">Operation Seamless and the Ripper Suppression:</h2> <a class="back-to-top" href="#toc">↑ Back to top</a>
     <div class="paper-subtitle">Uncovering a Hidden Archive</div>
 
     <div class="author-block">
@@ -1772,7 +1809,7 @@
 
   <!-- ACADEMIC PAPER 3 -->
   <article class="academic-article" id="article-into-the-archive">
-    <h2 class="paper-title">Beyond the Fog and Into the Archive:</h2>
+    <h2 class="paper-title">Beyond the Fog and Into the Archive:</h2> <a class="back-to-top" href="#toc">↑ Back to top</a>
     <div class="paper-subtitle">Reassessing The Aldgate Manuscript in the Light of the Swift Document Cache</div>
 
     <div class="author-block">
@@ -1851,7 +1888,7 @@
 
   <!-- PART III: INVISIBLE MARTYR -->
   <section id="kerr-archive">
-    <h1>Part III: Invisible Martyr</h1>
+    <h1>Part III: Invisible Martyr</h1> <a class="back-to-top" href="#toc">↑ Back to top</a>
 
     <div class="archivist-card">
       <div class="archivist-header">Archivist’s Note</div>
@@ -1906,7 +1943,7 @@
 
     <!-- MEMOIR TEXT TRANSCRIPT -->
     <div class="transcript-box" id="kerr-memoir">
-      <h2>Invisible Martyr:</h2>
+      <h2>Invisible Martyr:</h2> <a class="back-to-top" href="#toc">↑ Back to top</a>
       <div style="font-size: 1.25rem; font-style: italic; margin-bottom: 25px;">An Autobiographical Memoir by Percival Kerr</div>
 
       <h3>Author’s Note</h3>
@@ -2451,7 +2488,7 @@
 </div>
 </section>
 <article class="academic-article" id="article-fog-thickens">
-<h2 class="paper-title">The Fog Thickens:</h2>
+<h2 class="paper-title">The Fog Thickens:</h2> <a class="back-to-top" href="#toc">↑ Back to top</a>
 <div class="paper-subtitle">Analysing Invisible Martyr in the Light of The Aldgate Manuscript and the Swift Archive</div>
 <div class="author-block">
   <span class="author-name">Dr Charlotte Sablier</span>
@@ -2622,7 +2659,7 @@ These two interpretations offer starkly different conclusions:</p>
 </article>
 <hr class="section-divider">
 <section id="afterword" style="background: #fdfbf7; padding: 25px 30px; border-left: 3px solid var(--crimson);">
-<h2 style="margin-top: 0;">Afterword</h2>
+<h2 style="margin-top: 0;">Afterword</h2> <a class="back-to-top" href="#toc">↑ Back to top</a>
 <h3>The creation of “Operation Seamless”</h3>
 <p><em>Operation Seamless</em> was never an accident. It was built — deliberately, precisely — within the silences of the historical record. Every name, every document, every institutional echo was chosen not to deceive, but to evoke. The realism was intentional. The ambiguity, earned.</p>
 <p>It began as a game. Then a structure. Then a system. Then a question: How far could fiction go before it became indistinguishable from the archive?</p>
@@ -2641,8 +2678,10 @@ These two interpretations offer starkly different conclusions:</p>
 </blockquote>
 </section>
 <div class="back-to-top">
-<a href="#top">▲ Return to Top of Archive</a>
+<a href="#toc">▲ Return to Top of Archive</a>
 </div>
 </div>
+<script src="universal-header.js"></script>
+<script src="universal-footer.js"></script>
 </body>
 </html>

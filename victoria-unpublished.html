@@ -2,21 +2,44 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Victoria Unpublished - Andreas Breidenthal</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Victoria Unpublished</title>
+<meta content="Does fiction restore what history omits?" name="description"/>
+<meta content="ADB" name="author"/>
+<meta content="Victoria Unpublished" property="og:title"/>
+<meta content="Does fiction restore what history omits?" property="og:description"/>
+<meta content="article" property="og:type"/>
+<link href="favicon.ico" rel="icon" type="image/x-icon"/>
+<link href="https://fonts.googleapis.com" rel="preconnect"/>
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300;1,400&amp;family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&amp;family=Inconsolata:wght@300;400;500&amp;display=swap" rel="stylesheet"/>
 <style>
   :root {
-    --text-color: #222;
-    --bg-color: #fcfbf9;
-    --card-bg: #ffffff;
-    --border-color: #e2ded5;
-    --accent-red: #7c2d12;
+    /* Shared book palette (matches "The Fall of Lorch") */
+    --ink: #1a1410;
+    --paper: #f4efe6;
+    --aged: #e8dfc8;
+    --rust: #8b3a2a;
+    --gold: #a07830;
+    --faded: #7a6e5f;
+    --rule: #c8bda8;
+    --shadow: rgba(26, 20, 16, 0.12);
+    --noise: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='300' height='300'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='300' height='300' filter='url(%23n)' opacity='0.04'/%3E%3C/svg%3E");
+
+    /* Original variable names kept so every special/dossier style below
+       keeps working untouched -- only the values are re-pointed at the
+       shared palette above. */
+    --text-color: var(--ink);
+    --bg-color: var(--paper);
+    --card-bg: #fffdf6;
+    --border-color: var(--rule);
+    --accent-red: var(--rust);
     --pencil-color: #555555;
-    --font-serif: "Georgia", "Cambria", "Times New Roman", Times, serif;
+    --font-serif: "Libre Baskerville", Georgia, "Cambria", "Times New Roman", Times, serif;
     --font-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-    --font-mono: "Consolas", "Monaco", "Courier New", Courier, monospace;
-    --max-width: 780px;
+    --font-mono: "Inconsolata", "Consolas", "Monaco", "Courier New", Courier, monospace;
+    --max-width: 860px;
   }
 
   *, *::before, *::after {
@@ -24,109 +47,42 @@
   }
 
   body {
-    margin: 0;
+    max-width: var(--max-width);
+    margin: 0 auto;
     padding: 0;
     background-color: var(--bg-color);
+    background-image: var(--noise);
     color: var(--text-color);
     font-family: var(--font-serif);
     font-size: 16px;
     line-height: 1.68;
     -webkit-font-smoothing: antialiased;
+    box-shadow: 0 0 60px rgba(0, 0, 0, 0.55), inset 0 0 120px rgba(139, 105, 20, 0.04);
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
   }
 
   .container {
-    max-width: var(--max-width);
-    margin: 0 auto;
-    padding: 2.5rem 1.5rem 5rem 1.5rem;
+    background-color: var(--aged);
+    padding: 40px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
   }
 
-  /* Cover & Title Section */
-  .book-cover {
-    background: #e9e4d0;
-    border: 1px solid #d5cfb9;
-    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.08);
-    border-radius: 4px;
-    padding: 4rem 2rem;
-    text-align: center;
-    margin-bottom: 4rem;
-  }
-
-  .book-cover .crown {
-    font-size: 2.5rem;
-    color: #9c9279;
-    margin-bottom: 1rem;
-    display: block;
-  }
-
-  .book-cover h1 {
-    font-size: 3.5rem;
-    font-weight: 700;
-    margin: 0;
-    letter-spacing: -0.02em;
-    color: #1a1a1a;
-  }
-
-  .book-cover .subtitle-large {
-    font-family: var(--font-sans);
-    font-size: 2.3rem;
-    font-weight: 800;
-    text-transform: uppercase;
-    color: #8c3b28;
-    letter-spacing: 0.05em;
-    margin: 0.5rem 0 2rem 0;
-    position: relative;
-    display: inline-block;
-  }
-
-  .book-cover .tagline {
-    font-style: italic;
-    font-size: 1.35rem;
-    color: #2b2b2b;
-    margin: 1.5rem 0 3.5rem 0;
-  }
-
-  .book-cover .author {
-    font-family: var(--font-sans);
-    font-weight: 700;
-    font-size: 1.4rem;
-    letter-spacing: 0.12em;
-    color: #1a1a1a;
-    text-transform: uppercase;
-  }
-
-  /* Title Page & Front Matter */
+  /* Cover */
   .title-page {
     text-align: center;
-    padding: 4rem 1rem 3rem 1rem;
-    border-bottom: 1px solid var(--border-color);
-    margin-bottom: 3.5rem;
+    margin-bottom: 0;
   }
 
-  .title-page h1 {
-    font-size: 2.2rem;
-    font-weight: normal;
-    margin-bottom: 0.5rem;
-    color: #1a365d;
-  }
-
-  .title-page .tagline {
-    font-weight: bold;
-    font-family: var(--font-sans);
-    font-size: 1rem;
-    margin-bottom: 2rem;
-  }
-
-  .title-page .author {
-    font-size: 1.1rem;
-    font-family: var(--font-sans);
-  }
-
+  /* About This Work */
   .disclaimer-box {
-    background: #fdfdfc;
+    background: var(--paper);
     border: 1px solid var(--border-color);
-    border-left: 4px solid #4a5568;
+    border-left: 5px solid var(--rust);
+    border-radius: 4px;
     padding: 1.5rem 1.8rem;
-    margin-bottom: 4rem;
+    margin: 2rem 0 3rem 0;
     font-size: 0.95rem;
   }
 
@@ -134,17 +90,132 @@
     margin-top: 0;
     font-size: 1.3rem;
     font-family: var(--font-sans);
-    color: #2d3748;
+    color: var(--ink);
+  }
+
+  /* Collapsible TOC styles (from Lorch) */
+  .toc {
+    background-color: var(--paper);
+    padding: 14px 15px;
+    margin: 30px 0;
+    border-radius: 8px;
+    border-left: 5px solid var(--rust);
+    width: auto;
+    box-sizing: border-box;
+  }
+
+  .toc[open] {
+    padding: 15px;
+  }
+
+  .toc > summary {
+    list-style: none;
+    cursor: pointer;
+    color: var(--ink);
+    font-size: 1.25em;
+    font-weight: 700;
+    margin: 0;
+    outline: none;
+  }
+
+  .toc[open] > summary {
+    margin: 0 0 10px 0;
+  }
+
+  .toc > summary::marker {
+    content: "";
+  }
+
+  .toc > summary::-webkit-details-marker {
+    display: none;
+  }
+
+  .toc > summary::before {
+    content: "▾";
+    display: inline-block;
+    margin-right: 8px;
+    transition: transform 150ms ease;
+    color: var(--rust);
+  }
+
+  .toc[open] > summary::before {
+    transform: rotate(0deg);
+  }
+
+  .toc:not([open]) > summary::before {
+    transform: rotate(-90deg);
+  }
+
+  .toc ul {
+    list-style: none;
+    padding-left: 0;
+    margin: 10px 0 0 0;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-auto-flow: column;
+    grid-template-rows: repeat(10, auto);
+    column-gap: 30px;
+    row-gap: 10px;
+    width: 100%;
+  }
+
+  .toc li {
+    margin: 0;
+  }
+
+  .toc a {
+    color: var(--ink);
+    text-decoration: none;
+    transition: color 0.2s;
+    font-size: 0.7em;
+    line-height: 1.3;
+    display: block;
+    white-space: nowrap;
+  }
+
+  .toc a:hover {
+    color: var(--rust);
+    text-decoration: underline;
+  }
+
+  @media (max-width: 700px) {
+    .toc ul {
+      grid-template-columns: repeat(2, 1fr);
+      grid-template-rows: repeat(15, auto);
+      column-gap: 16px;
+      row-gap: 6px;
+    }
+    .toc a {
+      font-size: 0.62em;
+    }
+  }
+
+  .toc > summary:focus-visible {
+    box-shadow: 0 0 60px rgba(0, 0, 0, 0.55), inset 0 0 120px rgba(139, 105, 20, 0.04);
+    border-radius: 6px;
+  }
+
+  .back-to-top {
+    display: block;
+    text-align: right;
+    margin: 8px 0 10px 0;
+    color: var(--ink);
+    font-size: 0.7em;
+    text-decoration: none;
+  }
+
+  .back-to-top:hover {
+    color: var(--rust);
   }
 
   /* Structural Typography */
   h1, h2, h3, h4, h5, h6 {
-    color: #1a1a1a;
+    color: var(--ink);
   }
 
   .part-heading {
-    border-top: 2px solid #1a1a1a;
-    border-bottom: 1px solid #1a1a1a;
+    border-top: 2px solid var(--ink);
+    border-bottom: 1px solid var(--rust);
     padding: 1rem 0;
     margin: 5rem 0 2.5rem 0;
     text-transform: uppercase;
@@ -156,13 +227,13 @@
   }
 
   .chapter-title {
-    font-family: var(--font-sans);
-    font-size: 1.35rem;
-    font-weight: 600;
-    color: #1e3a5f;
-    margin: 3.5rem 0 1.25rem 0;
-    padding-bottom: 0.25rem;
-    border-bottom: 1px solid var(--border-color);
+    color: var(--ink);
+    font-size: 1.25em;
+    font-weight: bold;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    padding-top: 30px;
+    border-top: 3px solid var(--rust);
   }
 
   p {
@@ -183,8 +254,8 @@
   blockquote {
     margin: 1.25rem 0 1.25rem 1.5rem;
     padding-left: 1rem;
-    border-left: 3px solid #cbd5e0;
-    color: #4a5568;
+    border-left: 3px solid var(--rule);
+    color: var(--faded);
     font-style: italic;
   }
 
@@ -266,7 +337,7 @@
     font-weight: bold;
   }
 
-  /* Pencil annotations & strikes */
+  /* Pencil annotations & strikes -- special styles, left untouched */
   del.pencil-del {
     text-decoration: line-through;
     color: #555;
@@ -391,15 +462,6 @@
     .container {
       padding: 1rem 0.75rem;
     }
-    .book-cover {
-      padding: 2.5rem 1rem;
-    }
-    .book-cover h1 {
-      font-size: 2.5rem;
-    }
-    .book-cover .subtitle-large {
-      font-size: 1.6rem;
-    }
     .metadata-grid {
       grid-template-columns: 1fr;
       row-gap: 0.2rem;
@@ -429,12 +491,48 @@
     <p>Again, this is a work of fiction. Although some real names and places are used as setting references, all other events, procedures, and characters are invented, and any custodial steps or workflows described are fictionalised. No institution or company referenced endorses this work.</p>
   </aside>
 
+<br id="toc"/>
+<details class="toc">
+<summary>Table of Contents</summary>
+<ul>
+<li><a href="#ch1">1. The Sale</a></li>
+<li><a href="#ch2">2. The Making</a></li>
+<li><a href="#ch3">3. The Shadow</a></li>
+<li><a href="#ch4">4. The Journal</a></li>
+<li><a href="#ch5">5. The Book</a></li>
+<li><a href="#ch6">6. The Confrontation</a></li>
+<li><a href="#ch7">7. The Papers</a></li>
+<li><a href="#ch8">8. The Gatekeepers</a></li>
+<li><a href="#ch9">9. The Bedchamber</a></li>
+<li><a href="#ch10">10. The Meeting</a></li>
+<li><a href="#ch11">11. The Appointment</a></li>
+<li><a href="#ch12">12. The Client</a></li>
+<li><a href="#ch13">13. The Terms</a></li>
+<li><a href="#ch14">14. The Job</a></li>
+<li><a href="#ch15">15. The Archives</a></li>
+<li><a href="#ch16">16. The Cellars</a></li>
+<li><a href="#ch17">17. The Window</a></li>
+<li><a href="#ch18">18. The Favour</a></li>
+<li><a href="#ch19">19. The Placement</a></li>
+<li><a href="#ch20">20. The Process</a></li>
+<li><a href="#ch21">21. The Rhythm</a></li>
+<li><a href="#ch22">22. The Anomaly</a></li>
+<li><a href="#ch23">23. The Leaves</a></li>
+<li><a href="#ch24">24. The Wait</a></li>
+<li><a href="#ch25">25. The Custody</a></li>
+<li><a href="#ch26">26. The Decision</a></li>
+<li><a href="#foreword">Foreword to Transcripts and Analysis</a></li>
+<li><a href="#dossier-analysis">Scholarly Analysis</a></li>
+<li><a href="#afterword">Afterword</a></li>
+</ul>
+</details>
+
   <!-- Part I: Narrative -->
   <main>
     <div class="part-heading">Part I: The Narrative</div>
 
     <article id="ch1">
-      <h2 class="chapter-title">1. The Sale</h2>
+      <h2 class="chapter-title">1. The Sale</h2> <a class="back-to-top" href="#toc">↑ Back to top</a>
       <p>The Sussex sale smelled of dust and damp wood, the kind of scent that clings to your clothes long after you’ve left. Rows of tables sagged under the weight of other people’s endings: chipped china, bent cutlery, boxes of paper gone soft at the edges. Most people saw rubbish. I saw possibility.</p>
       <p>I moved slowly, hands in my coat pockets, eyes tuned for the little misfits — a spine too fine for its company, a watermark that shouldn’t be there, a stationer’s crest gone out with the century. Lists are useless at places like this. The good things — the real things — never announce themselves.</p>
       <p>Lot 47 crouched at the back, half-hidden under a table leg propped with a brick. A wooden box, scuffed and unremarkable, its lid tied with fraying twine. Someone had chalked a single word across the top: <em>Misc.</em> I crouched, ran a finger along the grain. Cobbler’s box, by the look of it — oak, late Victorian, maybe early Edwardian. I loosened the twine and lifted the lid.</p>
@@ -464,7 +562,7 @@
     </article>
 
     <article id="ch2">
-      <h2 class="chapter-title">2. The Making</h2>
+      <h2 class="chapter-title">2. The Making</h2> <a class="back-to-top" href="#toc">↑ Back to top</a>
       <p>People think it’s luck. That I just happen to pick the right box, the right case, the right dusty ledger from a heap of junk. They don’t see the years behind it — the hours spent with my nose in other people’s paper, learning the weight of history in my hands.</p>
       <p>It started when I was ten. My mother dragged me to a church jumble sale one Saturday, the kind where everything smells faintly of damp hymnals and lavender polish. I was bored stiff until I saw a tray of trinkets — costume brooches, broken chains, a few odd buttons. Buried among them was a tiny silver box, no bigger than a matchbook, with a grille on the lid. I didn’t know the word then, but it was a vinaigrette — Victorian, late Regency at a stretch. I bought it for fifty pence. Sold it a week later for fifty pounds. That was the first time I felt the spark.</p>
       <p>By twelve, I was hunting for it. At a parish fair, I found a railway timetable tucked inside a family Bible — printed for the opening week of the Metropolitan Railway. The stallholder thought it was a bookmark. I knew better. At fourteen, a neighbour clearing out her loft called me over. She thought the old trunk in the corner was full of rags. I pulled out a bundle of letters tied with fraying ribbon — Crimean War, written in a hand so fine it looked etched. She gave me the lot for nothing. I still have one of those letters. Not for sale.</p>
@@ -473,7 +571,7 @@
     </article>
 
     <article id="ch3">
-      <h2 class="chapter-title">3. The Shadow</h2>
+      <h2 class="chapter-title">3. The Shadow</h2> <a class="back-to-top" href="#toc">↑ Back to top</a>
       <p>The reputation I was building really helped when it came to selling the items I found, but it came with something I hadn’t expected: eyes on me. At first, I thought it was coincidence — familiar faces turning up at the same sales. But after a while, I started to notice a pattern.</p>
       <p>And patterns were my thing. That was the skill everything rested on — recognising anomalies, spotting the one detail that didn’t belong. It was why I could pull a Victorian vinaigrette out of a tray of junk or find a brewer’s log in a box of mouldy ledgers.</p>
       <p>That same instinct is what made me pick up on him so quickly. He wasn’t like the regulars — the dealers who nodded over tea urns or the hobbyists who rummaged for curios. He moved differently, like someone rehearsing casual. He’d arrive just after me, every time, as if my shadow set his clock. Sit in his Audi until I was inside, then drift in and hover — not browsing, not buying, just orbiting. If he’d spent half as much effort pretending to care about the stock, he might have pulled it off. But he didn’t. And once I’d seen the pattern, I couldn’t unsee it.</p>
@@ -484,7 +582,7 @@
     </article>
 
     <article id="ch4">
-      <h2 class="chapter-title">4. The Journal</h2>
+      <h2 class="chapter-title">4. The Journal</h2> <a class="back-to-top" href="#toc">↑ Back to top</a>
       <p>I’d skimmed the journal at the sale, but this was the first time I could read it properly. The cobbler’s box sat on my kitchen table, the journal on top, its spine still carrying that unfinished thought: 1909–. No end date. Just a dash.</p>
       <p>The first pages were neat, almost formal. Full sentences, careful loops. The man knew his pen. The lines were spare but telling:</p>
       <p>“Money low. Work none. Rain all day.”</p>
@@ -525,7 +623,7 @@
     </article>
 
     <article id="ch5">
-      <h2 class="chapter-title">5. The Book</h2>
+      <h2 class="chapter-title">5. The Book</h2> <a class="back-to-top" href="#toc">↑ Back to top</a>
       <p>I ordered the book that night — <em>The Girlhood of Queen Victoria</em>. A few clicks, a second-hand copy from a dealer in Kent. Delivery in two days. That gave me time to keep working the circuit — sales, auctions, charity shops. The rhythm of my life.</p>
       <p>The next morning, I drove out to a village hall sale. The usual mix: chipped china, hymnals, boxes of paper gone soft at the edges. I was halfway through a stack of ledgers when I felt it — that prickle at the back of the neck. I looked up. Through the window, across the car park, an Audi idled in the shade of a sycamore. Same car. Same man. He didn’t come in. Just sat there, engine running, as if waiting for something that wasn’t me.</p>
       <p>I tested him on the next trip. Took a back road, doubled back through a lane barely wide enough for a bicycle. Ten minutes later, he was behind me again, two cars back, keeping his distance. I pulled into a petrol station and watched him glide past without a glance. If he was trying to be invisible, he’d picked the wrong quarry. Patterns are my trade.</p>
@@ -539,7 +637,7 @@
     </article>
 
     <article id="ch6">
-      <h2 class="chapter-title">6. The Confrontation</h2>
+      <h2 class="chapter-title">6. The Confrontation</h2> <a class="back-to-top" href="#toc">↑ Back to top</a>
       <p>I couldn’t sit still after that. The Audi was still there when I checked the window again — two doors down, engine off, like a patient predator. I told myself to ignore it, but the thought of being watched gnawed at me. So I put on my coat and stepped outside.</p>
       <p>The evening was cool, the street quiet. I walked slowly, hands in my pockets, listening for the sound of a door or an engine. Nothing. When I reached the corner, I stopped and looked back. The Audi was still there, black paint catching the last of the light. And then the door opened.</p>
       <p>He got out like a man who’d decided something. Tall, well-cut coat, hair neat, face calm. Not a thug. Not a dealer. He walked toward me with the easy stride of someone who doesn’t expect trouble.</p>
@@ -578,7 +676,7 @@
     </article>
 
     <article id="ch7">
-      <h2 class="chapter-title">7. The Papers</h2>
+      <h2 class="chapter-title">7. The Papers</h2> <a class="back-to-top" href="#toc">↑ Back to top</a>
       <p>The Churchill Archives sits at the edge of the city like a clean-lined fortress: glass, brick, restraint. Inside, the air smelled of polish and old paper. I signed the register, locked my bag, surrendered my pen for a pencil. Rules are rules. History doesn’t forgive carelessness.</p>
       <p>A trolley arrived with the first boxes. Not treasure — <em>infrastructure</em>. Letters on Murray’s paper about length and tone. Benson’s notes in a tidy hand. Slip after slip asking whether this or that paragraph “tried the patience,” whether “domestics” belonged in print, whether one could “keep the constitutional thread clear.” Nothing theatrical. No red ink. Just a method that never raised its voice.</p>
       <p>I read fast, then slower. Correspondence sketched the shape of the work: how to memorialise without provoking; how to compress without unseating the image that was wanted; how to nudge the eye toward ministers and away from the rooms behind the doors. It wasn’t the diary itself on the table. It was the apparatus that had decided what the diary was allowed to be.</p>
@@ -606,7 +704,7 @@
     </article>
 
     <article id="ch8">
-      <h2 class="chapter-title">8. The Gatekeepers</h2>
+      <h2 class="chapter-title">8. The Gatekeepers</h2> <a class="back-to-top" href="#toc">↑ Back to top</a>
       <p>The Royal Archives website looked as polished as the Round Tower it lived in — formal, immaculate, and faintly intimidating. I scrolled through the access page twice before I started drafting my email. Keep it vague, I told myself. “Research into Victorian editorial practices.” That sounded safe enough. I hit send and waited.</p>
       <p>The reply came the next morning. Polite, precise, and about as welcoming as a locked gate:</p>
       <blockquote>
@@ -624,7 +722,7 @@
     </article>
 
     <article id="ch9">
-      <h2 class="chapter-title">9. The Bedchamber</h2>
+      <h2 class="chapter-title">9. The Bedchamber</h2> <a class="back-to-top" href="#toc">↑ Back to top</a>
       <p>I started with the one fixed line I trusted:</p>
       <p><em>The real cutting is elsewhere: the Household made to match the Whigs, the reliance on Melbourne named, the pledge of silence.</em></p>
       <p><em>If this were known, the beginning would read differently. And later — when Peel made the Bedchamber a condition of office in 1839, and Melbourne stood behind the Queen — how sharp the irony would bite.</em></p>
@@ -647,7 +745,7 @@
     </article>
 
     <article id="ch10">
-      <h2 class="chapter-title">10. The Meeting</h2>
+      <h2 class="chapter-title">10. The Meeting</h2> <a class="back-to-top" href="#toc">↑ Back to top</a>
       <p>The café on St. John’s Lane was half-empty, the hiss of the espresso machine filling the gaps in conversation. Mercer was already there, back to the wall, coat folded neatly on the chair beside him. He looked like a man who never had to hurry.</p>
       <p>“Mr Breidenthal.” He stood as I approached, offered a hand. I ignored it and sat down.</p>
       <p>“First,” I said, “thanks for giving me the week. I needed it.”</p>
@@ -679,7 +777,7 @@
     </article>
 
     <article id="ch11">
-      <h2 class="chapter-title">11. The Appointment</h2>
+      <h2 class="chapter-title">11. The Appointment</h2> <a class="back-to-top" href="#toc">↑ Back to top</a>
       <p>Mercer’s email landed mid-morning. No subject line, just two sentences:</p>
       <blockquote>
         Client is available next week. Confirm if you’re ready to meet.
@@ -702,7 +800,7 @@
     </article>
 
     <article id="ch12">
-      <h2 class="chapter-title">12. The Client</h2>
+      <h2 class="chapter-title">12. The Client</h2> <a class="back-to-top" href="#toc">↑ Back to top</a>
       <p>The meeting room at the National Gallery looked temporary and expensive, the way pop-up rooms do. Mercer stood when I walked in. The woman beside him didn’t. She had a folder and a pen and a way of not smiling that said she worked with problems, not people.</p>
       <p>“Mr Breidenthal,” Mercer said.</p>
       <p>She offered a hand. “Head of Collections,” she said. No name. Just the job.</p>
@@ -729,7 +827,7 @@
     </article>
 
     <article id="ch13">
-      <h2 class="chapter-title">13. The Terms</h2>
+      <h2 class="chapter-title">13. The Terms</h2> <a class="back-to-top" href="#toc">↑ Back to top</a>
       <p>We met again in a smaller room with worse air and better coffee. I placed a single sheet between us. She didn’t touch it.</p>
       <p>“Let’s save time,” I said. “I’ll take the brief — on five conditions.”</p>
       <p>“One at a time,” she said.</p>
@@ -758,7 +856,7 @@
     </article>
 
     <article id="ch14">
-      <h2 class="chapter-title">14. The Job</h2>
+      <h2 class="chapter-title">14. The Job</h2> <a class="back-to-top" href="#toc">↑ Back to top</a>
       <p>Legal tidied the commas. The emails came through in the right order: the scope letter, the timetable, the confidentiality, the references promised “by week’s end,” and the line that mattered — the National Gallery would sponsor Windsor. That would take time. I didn’t have to wait to begin.</p>
       <p>I asked for fresh images of the picture’s back — verso, frame, stretcher — and opened them one by one. Old frames confess more than forewords. Three labels, none generous. The newest had a telephone number that put it in the twentieth century. The middle label was over-pasted, a dealer tidy-up. The oldest was thin stock, a rectangle with a ghosted oval where a seal had once been; enough ink survived to suggest a workshop and a district, but not a name.</p>
       <p>Labels lie by omission, not commission. I listed what could be known without guessing: paper weight, cut, the way the adhesive bled into the grain, the faint track of a knife where someone had lifted a corner and thought better of it. Then I built a map that began where such things usually begin — framers — and ran outward: apprentices who opened their own shops, firms swallowed in partnerships, the dealers who bought back pictures to move them on.</p>
@@ -781,7 +879,7 @@
     </article>
 
     <article id="ch15">
-      <h2 class="chapter-title">15. The Archives</h2>
+      <h2 class="chapter-title">15. The Archives</h2> <a class="back-to-top" href="#toc">↑ Back to top</a>
       <p>The Round Tower makes you quieter as you climb. You sign, you locker, you surrender your pen and keep your hands where everyone can see them. Pencils only. Paper on cradles. Pages turned like you mean it.</p>
       <p>I lodged the call slips I’d drafted by the kettle and pretended not to watch the desk. The first box took its time and arrived with the calm inevitability of a tide. I breathed once, then opened it.</p>
       <p>Not treasure. Procedure.</p>
@@ -819,7 +917,7 @@
     </article>
 
     <article id="ch16">
-      <h2 class="chapter-title">16. The Cellars</h2>
+      <h2 class="chapter-title">16. The Cellars</h2> <a class="back-to-top" href="#toc">↑ Back to top</a>
       <p>The National Gallery’s memo template didn’t care about adjectives, so I gave it what it wanted:</p>
       <blockquote>
         Week 3: Carrier ledgers cross-checked; one run confirmed to the same street as the framer’s invoice; Household equerry name corroborated in Round Tower warrants; no anomalies detected.<br><br>
@@ -837,7 +935,7 @@
     </article>
 
     <article id="ch17">
-      <h2 class="chapter-title">17. The Window</h2>
+      <h2 class="chapter-title">17. The Window</h2> <a class="back-to-top" href="#toc">↑ Back to top</a>
       <p>The National Gallery liked meetings that started on time and ended before anyone got comfortable. This one ran to type: a room, a screen, a list. I gave my two minutes — carrier ledger aligned; equerry presence corroborated; next steps in hand — and slid back into the quiet.</p>
       <p>They moved to publicity. A donor supper. A lenders’ breakfast. Then the curator said, almost as an aside, “We’re pacing the press cycle to play nicely with St James’s — Berry Bros. &amp; Rudd have their 325th in 2023. Short films, anniversary content. That part of town will be noisy.”</p>
       <p>No one in the room cared about noise. I did. Noise pulls old paper into daylight.</p>
@@ -862,7 +960,7 @@
     </article>
 
     <article id="ch18">
-      <h2 class="chapter-title">18. The Favour</h2>
+      <h2 class="chapter-title">18. The Favour</h2> <a class="back-to-top" href="#toc">↑ Back to top</a>
       <p>I closed the National Gallery job the way I like to close jobs — quietly. The provenance memo ran to three pages: ledger, carrier, warrants; the equerry’s name where it needed to be; a chain that wouldn’t wobble when counsel pressed it. Facts first, adjectives later. I filed the images, licensed the reproductions, and delivered the lenders’ one-pager with room to breathe.</p>
       <p>Mercer read it standing up. “This will hold,” he said, and meant it.</p>
       <p>“Good,” I said. “One more favour.”</p>
@@ -880,7 +978,7 @@
     </article>
 
     <article id="ch19">
-      <h2 class="chapter-title">19. The Placement</h2>
+      <h2 class="chapter-title">19. The Placement</h2> <a class="back-to-top" href="#toc">↑ Back to top</a>
       <p>The project manager had the practised calm of someone who spends their life negotiating with deadlines. We shook hands across a desk with a neat stack of barcodes in one corner and a roll of cotton tape in the other.</p>
       <p>“Mercer says you like anomalies,” she said.</p>
       <p>“I don’t like them,” I said. “I notice them. And I move them off other people’s desks.”</p>
@@ -900,7 +998,7 @@
     </article>
 
     <article id="ch20">
-      <h2 class="chapter-title">20. The Process</h2>
+      <h2 class="chapter-title">20. The Process</h2> <a class="back-to-top" href="#toc">↑ Back to top</a>
       <p>They gave me a lanyard, a locker, and the rules that matter: no ink, no scarves, no jewellery that can snag, no assumptions. Pencils only. Hands clean. If you find metal in paper, you don’t be a hero — you call Conservation.</p>
       <p>The project manager walked me through the run: intake &rarr; condition check &rarr; capture &rarr; metadata &rarr; QC &rarr; return. Tables in a long room, bright and even, cameras at their stations, grey cards and cradles set the way they should be. A whiteboard tracked batches and series moving upstairs from the cellars; a second board tracked people — who was on intake, who on QC, who on lunch. I shadowed intake for an hour and kept my hands behind the line.</p>
       <p>First win came on something small, which is how it should be. A barcode didn’t match the box list — numbers transposed in a scrawl. The operator was about to scan a folder labelled 1890 into a series that began 1909. It would have sailed through capture and created a ghost in the catalogue that would haunt someone else six months from now. I asked for the list, read it out loud back to front, and caught the twin digits where the handwriting drifted. Intake fixed it in pencil and the room moved on.</p>
@@ -928,7 +1026,7 @@
     </article>
 
     <article id="ch21">
-      <h2 class="chapter-title">21. The Rhythm</h2>
+      <h2 class="chapter-title">21. The Rhythm</h2> <a class="back-to-top" href="#toc">↑ Back to top</a>
       <p>They put me on intake shadow for the first hour and didn’t hover. That was the promotion: not a title, just the absence of eyes.</p>
       <p>The morning run was already stacked — three trolleys queued, a fourth at the lift doors. I stood to the left of the operator and kept my hands clear of the line. He unstrung a cotton tie, opened an old archive packet, and laid the first sheaf on the cradle. The room’s rhythm set in: cradle, camera, barcode, note. Breaths matched shutters.</p>
       <p>The first thing I caught was almost nothing — two leaves reversed inside an otherwise neat bundle. The pencil paginations read 3-2-4. He would have captured them in that order and fixed it later in metadata, losing ten minutes and creating one more place for a mistake to hide.</p>
@@ -964,7 +1062,7 @@
     </article>
 
     <article id="ch22">
-      <h2 class="chapter-title">22. The Anomaly</h2>
+      <h2 class="chapter-title">22. The Anomaly</h2> <a class="back-to-top" href="#toc">↑ Back to top</a>
       <p>I was in ten minutes before the lift. The room woke in stages: lights; a monitor glow; the dry click of a barcode gun checking its own pulse. Intake laid out cord, cotton ties, a roll of tabs. We didn’t talk. We didn’t need to.</p>
       <p>At eight-thirty the doors opened, and the pre-1914 trolley arrived — two tiers, packets stacked like careful bread. The top slip read <em>MISC. (pre-1914)</em> in the same lazy hand as yesterday. The project manager glanced at me, then at the operator. “Shadow first packet,” she said. “Then QC.”</p>
       <p>The first packet behaved. <em>Misc. Corr. — Staff &amp; Offices (pre-war)</em> in a modern label, the ghost of <em>Staff/Private</em> still pressing through in pencil. Pagination neat. Capture clean. I stood left of the cradle and kept my hands out of the fall line. The operator kept his rhythm, put down his soft ticks in the upper corner as he turned pages, and never broke step.</p>
@@ -1011,7 +1109,7 @@
     </article>
 
     <article id="ch23">
-      <h2 class="chapter-title">23. The Leaves</h2>
+      <h2 class="chapter-title">23. The Leaves</h2> <a class="back-to-top" href="#toc">↑ Back to top</a>
       <p>I cleared my desk and made it ordinary: no ink, unbuffered tissue, two small weights, the Temporary Custody form in sight — no copying, no publication, return on demand. Wrapper first. Then the twelve leaves, face-down to face-up, light, clean-cut wove. Each carried its graphite 1–12 in the top-right corner, steady as a metronome.</p>
       <p>I didn’t start with the words. I started with the object — leaf by leaf: edge nicks, old fold-memory eased, a faint pressure-shine where someone had once written on the page above. Then the lamp went to raking light, and the pencil came up out of the paper the way pencil does when you let it.</p>
       <p>The hand in the margins didn’t dither. It instructed. Short imperatives that match what the transcript is: the diary’s living texture pared down for print:</p>
@@ -1050,7 +1148,7 @@
     </article>
 
     <article id="ch24">
-      <h2 class="chapter-title">24. The Wait</h2>
+      <h2 class="chapter-title">24. The Wait</h2> <a class="back-to-top" href="#toc">↑ Back to top</a>
       <p>The week settled into a steady, professional quiet. I left the packet alone each morning long enough to know I could; then I went to the studio and did the work that doesn’t leave fingerprints on a story — intake, QC, small frictions taken out of a line. A wrong February tried to sit in a year that wouldn’t have it; the operator corrected it without looking up. I rewrote the duplicate-identifier note so a junior could resolve collisions in three steps instead of nine. A header from one sub-series had ridden onto the next; I sent it back with a clean route: <em>header retained; series corrected; cross-note added</em>. The project manager initialled the margin with a pencil tap and moved on. Rooms improve by habit, not speeches.</p>
       <p>In the evenings I checked the hygrometer, read the Temporary Custody line again — no copying, no publication, return on demand — and did nothing that would quarrel with it. Handling stayed conservation-light: sleeves, four-flap, no ink in the same room. I added two dull sentences to my private catalogue and closed the book before I could be tempted to write anything clever.</p>
       <p>By Friday, the crib under the desk edge had gone grey with fingerprints — proof it was earning its keep — and the week shut its own door. I locked the packet in the safe and left it there.</p>
@@ -1071,7 +1169,7 @@
     </article>
 
     <article id="ch25">
-      <h2 class="chapter-title">25. The Custody</h2>
+      <h2 class="chapter-title">25. The Custody</h2> <a class="back-to-top" href="#toc">↑ Back to top</a>
       <p>Legal likes clear paper and tidy verbs. The email arrived late morning: approved. The archivist brought the form up after lunch — no ceremony, just the weight of what it allowed.</p>
       <p>“Transfer of physical custody,” she said. “No warranties. No publicity during the 325th. Copying and transcription permitted for preservation and research; no page-image publication during the embargo. Conserve. If custody ever changes, tell us.”</p>
       <p>We stood at the bench we’d used for nothing more consequential than a torn docket last week. I read the lines once, then again, then signed where people sign when they mean to be believed. She countersigned, stamped, and slid the sheet into a folder that had been waiting before I knew I was coming.</p>
@@ -1094,7 +1192,7 @@
     </article>
 
     <article id="ch26">
-      <h2 class="chapter-title">26. The Decision</h2>
+      <h2 class="chapter-title">26. The Decision</h2> <a class="back-to-top" href="#toc">↑ Back to top</a>
       <p>I thought the hard part would be finding it. I was wrong.</p>
       <p>The packet is here. Twelve leaves, graphite numbers steady in the corners, the pencil’s weather still visible under raking light. The thing I chased for months is now a quiet weight in a safe box. And with it comes the wisdom of a phrase I used to dismiss as melodrama: <em>be careful what you wish for</em>.</p>
       <p>Because now I’m in the same position Lionel Ashcombe was in — only with better lighting and a better hygrometer. He had a cellar and a conscience. I have a cupboard and a clock. The difference is that I know what happens when you hesitate: the paper goes to pulp, the story goes to fog, and the truth becomes a rumour no one can prove.</p>
@@ -1114,7 +1212,7 @@
     <div class="part-heading">Part II: The Dossier &amp; Transcripts</div>
 
     <section id="foreword">
-      <h2 class="chapter-title">Foreword to Transcripts and Analysis</h2>
+      <h2 class="chapter-title">Foreword to Transcripts and Analysis</h2> <a class="back-to-top" href="#toc">↑ Back to top</a>
       <p><strong>Presented by Andreas Breidenthal</strong></p>
       <p>Between 1910 and 1912, Lionel Ashcombe removed a small set of typescript leaves from a waste bundle and later hid them in a cellar archive labelled <em>Miscellaneous Correspondence</em>. Each act was deliberate. Each was meant to keep the papers from vanishing.</p>
       <p>The materials include a working journal and a twelve-leaf transcript of Queen Victoria’s diary for June–July 1837, over-written in pencil with editorial instructions and closed by a note in Esher’s hand. They show not only what was written, but what was omitted.</p>
@@ -1378,9 +1476,9 @@
     <!-- Part III: Scholarly Dossier & Analysis -->
     <div class="part-heading">Part III: Scholarly Analysis</div>
 
-    <article class="academic-paper">
+    <article class="academic-paper" id="dossier-analysis">
       <header>
-        <h1 class="academic-title">The Queen Unpublished:</h1>
+        <h1 class="academic-title">The Queen Unpublished:</h1> <a class="back-to-top" href="#toc">↑ Back to top</a>
         <div class="academic-subtitle">Sanitising Victoria’s Voice; The Necessity (or Not)</div>
         <div class="author-info">
           <strong>Author Information</strong><br>
@@ -1661,7 +1759,7 @@
     <div class="part-heading">Part IV: Afterword</div>
 
     <section id="afterword">
-      <h2 class="chapter-title">Afterword</h2>
+      <h2 class="chapter-title">Afterword</h2> <a class="back-to-top" href="#toc">↑ Back to top</a>
       <p><strong>The making of “Victoria Unpublished”</strong></p>
       <p>This book declares its hand. The narrative and the dossier are composed works: a pursuit and its consequences, followed by an apparatus that behaves like scholarship so the argument can unfold on the page.</p>
       <p>The question set for the dossier is narrow: how a young sovereign’s private pages might be shaped into a public voice &mdash; what is erased, what is substituted, how a hinge can close one chapter and open another &mdash; and how far such shaping can go before it becomes authorship. Two premises frame that inquiry. Much of Victoria’s journal for the years most read no longer survives in her hand; what endured in print was edited. Early in that history stands Lord Esher, a principal public mediator of her voice.</p>
@@ -1677,11 +1775,8 @@
     </section>
   </main>
 
-  <footer style="margin-top: 5rem; text-align: center; font-size: 0.85rem; color: #888; border-top: 1px solid var(--border-color); padding-top: 1.5rem;">
-    &copy; Andreas Breidenthal. <em>Victoria Unpublished: Does fiction restore what history omits?</em>
-  </footer>
-
 </div>
-
+<script src="universal-header.js"></script>
+<script src="universal-footer.js"></script>
 </body>
 </html>
