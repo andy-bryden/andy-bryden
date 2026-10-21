@@ -1,3 +1,140 @@
+Cast
+
+NARRATOR
+I speak with the voice of Charon
+Narrator. Mid-Atlantic accent, cinematic, resonant, grave, and evocative
+
+TRONSTAD
+I speak with the voice of Iapetus
+Tronstad. Trøndelag Norwegian accent, professorial, analytical, measured, and quietly intense
+
+SKINNARLAND
+I speak with the voice of Achird
+Skinnarland. Rural Telemark Norwegian dialect, raspy, grounded, weather-beaten, and calm
+
+WILSON
+I speak with the voice of Orus
+Wilson. British RP accent, seasoned, paternal, deliberate, and authoritative senior officer
+
+PERRIN
+I speak with the voice of Puck
+Perrin. British RP accent, intellectual, precise, clinical, and urbane scientific liaison
+
+HAUGLAND
+I speak with the voice of Achird
+Haugland. Eastern Norwegian accent, quiet, disciplined, focused, and steady radio operator
+
+POULSSON
+I speak with the voice of Orus
+Poulsson. Eastern Norwegian accent, calm, methodical, stoic, and resolute military leader
+
+KJELSTRUP
+I speak with the voice of Fenrir
+Kjelstrup. Telemark Norwegian dialect, gritty, pragmatic, blunt, and tough hunter-plumber
+
+HELBERG
+I speak with the voice of Puck
+Helberg. Telemark Norwegian mountain dialect, sharp, agile, daring, and wryly confident
+
+RONNEBERG
+I speak with the voice of Fenrir
+Rønneberg. Sunnmøre Western Norwegian dialect, quiet, steely, economical, and unshakeably calm
+
+STROEMSHEIM
+I speak with the voice of Charon
+Strømsheim. Ålesund Western Norwegian dialect, deep, massive, deliberate, and craftsman-like
+
+HAUKELID
+I speak with the voice of Orus
+Haukelid. Norwegian-American accent, rugged, commanding, fierce, and aggressively capable
+
+KAYSER
+I speak with the voice of Puck
+Kayser. Bergen Western Norwegian dialect, rhythmic, alert, swift, and dryly humorous
+
+IDLAND
+I speak with the voice of Achird
+Idland. Rogaland Southwestern Norwegian dialect, stoic, strained, fiercely enduring, and resolute
+
+PILOT
+I speak with the voice of Puck
+Pilot. Scottish accent, clipped, tense, and professional RAF bomber pilot
+
+DISPATCHER
+I speak with the voice of Achird
+Dispatcher. Northern English accent, loud, urgent, and shouting over aircraft roar
+
+STORHAUG
+I speak with the voice of Iapetus
+Storhaug. Southwestern Norwegian dialect, burly, powerful, grounded, and laconic soldier
+
+JOHANSEN
+I speak with the voice of Iapetus
+Johansen. Telemark Norwegian dialect, terrified, stammering, pleading, and working-class watchman
+
+STOKER
+I speak with the voice of Orus
+Stoker. Telemark Norwegian dialect, stunned, hushed, and obedient factory worker
+
+GERMAN SERGEANT
+I speak with the voice of Fenrir
+German Sergeant. German accent, barking, aggressive, suspicious, and military patrol sergeant
+
+MEDICAL OFFICER
+I speak with the voice of Orus
+Medical Officer. German accent, brisk, clinical, authoritative, and professional army surgeon
+
+SWEDISH CORPORAL
+I speak with the voice of Charon
+Swedish Corporal. Swedish accent, startled, formal, compassionate, and frontier guard
+
+BOMBARDIER
+I speak with the voice of Achird
+Bombardier. American accent, flat, focused, and disciplined military aviation voice
+
+FALKENHORST
+I speak with the voice of Charon
+Falkenhorst. German accent, commanding, aristocratic, grim, and world-weary Prussian general
+
+SORLIE
+I speak with the voice of Puck
+Sørlie. Telemark Norwegian dialect, hushed, alert, sharp, and local underground surveyor
+
+LIER-HANSEN
+I speak with the voice of Puck
+Lier-Hansen. Telemark Norwegian dialect, smooth, quick, persuasive, and cooperative bus driver
+
+WATCHMAN
+I speak with the voice of Achird
+Watchman. Telemark Norwegian dialect, cautious, suspicious, tired, and bribable night watchman
+
+MATE
+I speak with the voice of Fenrir
+Mate. Norwegian maritime dialect, panicked, desperate, and screaming across water
+
+LANDSVERK
+I speak with the voice of Achird
+Landsverk. Telemark Norwegian dialect, young, urgent, breathless, and weeping partisan scout
+
+JOHANS LOGNVIK
+I speak with the voice of Fenrir
+Johans Lognvik. Rustic Telemark Norwegian dialect, roaring, volatile, panicked, and violent gunman
+
+RADIO ANNOUNCER
+I speak with the voice of Orus
+Radio Announcer. British RP accent, formal, dry, detached, and historic BBC broadcast voice
+
+HEISENBERG
+I speak with the voice of Charon
+Heisenberg. German accent, stunned, disbelieving, intellectual, and shaken physicist
+
+WEIZSACKER
+I speak with the voice of Iapetus
+Weizsäcker. German accent, hushed, philosophical, solemn, and analytical scientist
+
+
+
+
 NARRATOR
 Gunnerside
 The heavy water sabotage, Norway, 1943

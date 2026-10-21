@@ -1,3 +1,121 @@
+Cast
+
+NARRATOR
+I speak with the voice of Charon
+Narrator. Mid-Atlantic accent, cinematic, resonant, grave, and evocative
+
+PADDY
+I speak with the voice of Puck
+Paddy. British RP accent, charismatic, literate, passionate, and boldly energetic
+
+BILLY
+I speak with the voice of Fenrir
+Billy. British RP accent, aristocratic Coldstream Guardsman, dry, sharp, and confident
+
+TAMPLIN
+I speak with the voice of Orus
+Tamplin. British RP accent, rigid, skeptical, and commanding senior staff officer
+
+FLIGHT SERGEANT
+I speak with the voice of Achird
+Flight Sergeant. Cockney accent, brisk, practical, and loud over aircraft noise
+
+DISPATCHER
+I speak with the voice of Iapetus
+Dispatcher. Northern English accent, disciplined, gritty, and booming over the slipstream
+
+KIMON
+I speak with the voice of Orus
+Kimon. Greek Cretan accent, fierce, gravelly, defiant, and alert mountain fighter
+
+FLEMING
+I speak with the voice of Orus
+Fleming. Scottish accent, blunt, exhausted, defensive, and weather-beaten RAF pilot
+
+LIAISON OFFICER
+I speak with the voice of Achird
+Liaison Officer. British RP accent, weary, fatalistic, and bureaucratic staff officer
+
+ANTONIOS
+I speak with the voice of Iapetus
+Antonios. Greek Cretan accent, breathless, earnest, urgent, and loyal partisan courier
+
+PATERAKIS
+I speak with the voice of Fenrir
+Paterakis. Greek Cretan accent, rugged, low-pitched, stoic, and lethal
+
+MICKY
+I speak with the voice of Achird
+Micky. Greek Cretan accent, sharp, intelligent, hushed, and tactical underground operative
+
+TYRAKIS
+I speak with the voice of Orus
+Tyrakis. Greek Cretan accent, intense, predatory, stealthy, and grimly humorous
+
+FENSKE
+I speak with the voice of Achird
+Fenske. German accent, irritated, startled, and sharp Wehrmacht staff driver
+
+KREIPE
+I speak with the voice of Charon
+Kreipe. German accent, aristocratic Prussian general, formal, haughty, yet cultured and world-weary
+
+SAVIOLAKIS
+I speak with the voice of Charon
+Saviolakis. Greek Cretan accent, quiet, grounded, somber, and steady mountaineer
+
+BRÄUER
+I speak with the voice of Orus
+Bräuer. German accent, thunderous, imperious, furious, and venomous commanding general
+
+TOWN COMMANDANT
+I speak with the voice of Fenrir
+Town Commandant. German accent, stammering, defensive, anxious, and rattled garrison officer
+
+HARTMAN
+I speak with the voice of Iapetus
+Hartman. German accent, cold, analytical, measured, and academic Abwehr intelligence officer
+
+BARBA GIORGI
+I speak with the voice of Charon
+Barba Giorgi. Greek Cretan accent, deep, ancient, patriarchal, and fearlessly hospitable
+
+GUIDE
+I speak with the voice of Achird
+Guide. Greek Cretan accent, young, nimble, urgent, and focused alpine pathfinder
+
+BARNES
+I speak with the voice of Achird
+Barnes. Cockney accent, modest, focused, professional, and technical radio signaller
+
+CICLITIRA
+I speak with the voice of Iapetus
+Ciclitira. British RP accent, wry, seasoned, dryly sarcastic, and unflappable SOE veteran
+
+NAVAL OFFICER
+I speak with the voice of Achird
+Naval Officer. British RP accent, clipped, efficient, and watchful Royal Navy beach officer
+
+RATING
+I speak with the voice of Orus
+Rating. Cockney accent, wide-eyed, working-class, and breathlessly surprised sailor
+
+RUNNER
+I speak with the voice of Iapetus
+Runner. Greek Cretan accent, passionate, rugged, fatalistic, and proud mountain runner
+
+COLEMAN
+I speak with the voice of Achird
+Coleman. British RP accent, calm, breezy, wryly humorous, and unflappable RNVR skipper
+
+PROVOST-MARSHAL
+I speak with the voice of Orus
+Provost-Marshal. British RP accent, formal, respectful, crisp, and senior military police officer
+
+
+
+
+
 NARRATOR
 Bricklayer
 The abduction of General Kreipe, Crete, 1944

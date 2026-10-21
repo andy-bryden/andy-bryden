@@ -1,3 +1,177 @@
+Cast
+
+
+NARRATOR
+I speak with the voice of Charon
+Narrator. Mid-Atlantic accent, cinematic, resonant, grave, and evocative
+
+COLONEL
+I speak with the voice of Orus
+Colonel. British RP accent, understated, cold, deliberate, and senior SOE officer
+
+MACPHERSON
+I speak with the voice of Puck
+Macpherson. Patrician Scottish accent, educated, razor-sharp, unflappable, and boldly commanding
+
+BROWN
+I speak with the voice of Fenrir
+Brown. Geordie accent, dry, stoic, technical, and laconic Newcastle signalman
+
+MICHEL
+I speak with the voice of Achird
+Michel. Aristocratic French accent, refined, poised, elegant, and fearless young prince
+
+CAPTAIN
+I speak with the voice of Orus
+Captain. British RP accent, formal, crisp, and administrative staff officer
+
+DISPATCHER
+I speak with the voice of Orus
+Dispatcher. British Cockney accent, loud, gruff, and booming over aircraft roar
+
+COURNIL
+I speak with the voice of Iapetus
+Cournil. French Auvergne accent, earthy, rough, seasoned, and pragmatic Maquis leader
+
+PARTISAN
+I speak with the voice of Fenrir
+Partisan. French accent, volatile, raw, angry, and youthful resistance fighter
+
+CHAPOU
+I speak with the voice of Orus
+Chapou. French accent, intense, cutting, intellectual, and uncompromising communist commander
+
+COURIER
+I speak with the voice of Puck
+Courier. French accent, breathless, traumatized, trembling, and exhausted teenage runner
+
+GERMAN CORPORAL
+I speak with the voice of Iapetus
+German Corporal. German accent, terrified, desperate, and pleading Wehrmacht captive
+
+GASPARD
+I speak with the voice of Orus
+Gaspard. French Auvergne accent, bombastic, strained, exhausted, and loud resistance colonel
+
+BOUSSAC
+I speak with the voice of Iapetus
+Boussac. French accent, gravelly, practical, and veteran garage mechanic
+
+GERMAN SENTRY
+I speak with the voice of Orus
+German Sentry. German accent, startled, panicked, and screaming military sentry
+
+GERMAN CAPTAIN
+I speak with the voice of Fenrir
+German Captain. German accent, weary, soot-stained, cornered, and desperate garrison officer
+
+ROQUEMAUREL
+I speak with the voice of Iapetus
+Roquemaurel. French accent, formal, reserved, and provincial bourgeois resistance leader
+
+ERNST
+I speak with the voice of Iapetus
+Ernst. German accent, anxious, formal, strained, and dutiful operations major
+
+ELSTER
+I speak with the voice of Charon
+Elster. German Prussian accent, deep, gravelly, formal, dignified, and world-weary general
+
+LIEUTENANT
+I speak with the voice of Orus
+Lieutenant. German accent, breathless, agitated, and saluting motorcycle scout
+
+BLACKSMITH
+I speak with the voice of Iapetus
+Blacksmith. French Berry accent, rustic, awestruck, weathered, and reverent village elder
+
+MACON
+I speak with the voice of Orus
+Macon. American Southern drawl, weathered, leathery, authoritative, and experienced division commander
+
+JAMES
+I speak with the voice of Iapetus
+James. American accent, cynical, analytical, and brisk intelligence lieutenant colonel
+
+MAGILL
+I speak with the voice of Achird
+Magill. American Midwestern accent, nasal, sharp, pragmatic, and fearless reconnaissance leader
+
+COX
+I speak with the voice of Iapetus
+Cox. British RP accent, calm, professional, and understated airborne officer
+
+GALLEY
+I speak with the voice of Orus
+Galley. French accent, crisp, disciplined, modern, and capable liaison officer
+
+DR. HASSEL
+I speak with the voice of Achird
+Dr. Hassel. German accent, exhausted, trembling, professional, and compassionate army doctor
+
+OBERFELDWEBEL
+I speak with the voice of Fenrir
+Oberfeldwebel. German accent, barking, disciplined, stunned, and seasoned patrol sergeant
+
+SOLDIERS
+I speak with the voice of Orus
+Soldiers. German accent, awestruck, hushed, and murmuring Wehrmacht ranks
+
+LUFTWAFFE CAPTAIN
+I speak with the voice of Fenrir
+Luftwaffe Captain. German accent, haughty, shrill, arrogant, and defensive young officer
+
+WEBER
+I speak with the voice of Iapetus
+Weber. German accent, furious, venomous, insubordinate, and fanatical rearguard colonel
+
+SS CAPTAIN
+I speak with the voice of Fenrir
+SS Captain. German accent, snarling, aggressive, and fanatical SS security officer
+
+SENTRY
+I speak with the voice of Orus
+Sentry. German accent, alarmist, panicked, and shouting flak sentry
+
+FRENCH WOMAN
+I speak with the voice of Leda
+French Woman. French accent, elderly, grief-stricken, furious, and shrieking mourning villager
+
+SS SERGEANT
+I speak with the voice of Orus
+SS Sergeant. German accent, harsh, volatile, aggressive, and barking security sergeant
+
+CLEVELAND CORPORAL
+I speak with the voice of Puck
+Cleveland Corporal. American Midwestern accent, young, rattled, and shouting military policeman
+
+PARTISAN CAPTAIN
+I speak with the voice of Orus
+Partisan Captain. French accent, bitter, vengeful, furious, and traumatized Maquis captain
+
+CROWD
+I speak with the voice of Iapetus
+Crowd. French accent, enraged, mutinous, and bloodthirsty partisan mob
+
+SCHEELE
+I speak with the voice of Orus
+Scheele. German accent, stern, resonant, harsh, and formal military tribunal judge
+
+SACK
+I speak with the voice of Iapetus
+Sack. German accent, dry, pedantic, legalistic, and monotonous military prosecutor
+
+COMMISSAR
+I speak with the voice of Orus
+Commissar. Montenegrin Slavic accent, booming, aggressive, arrogant, and hard partisan commander
+
+WIRELESS OPERATOR
+I speak with the voice of Achird
+Wireless Operator. British RP accent, young, trembling, awestruck, and relieved signaller
+
+
+
+
 NARRATOR
 Quinine
 The Massif Central and the Loire, 1944

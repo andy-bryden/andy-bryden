@@ -1,3 +1,139 @@
+Cast
+
+NARRATOR
+I speak with the voice of Charon
+Narrator. Mid-Atlantic accent, cinematic, resonant, grave, and evocative
+
+LOWENSTEIN
+I speak with the voice of Iapetus
+Lowenstein. German-accented American accent, measured, intellectual, weary, and authoritative
+
+MAYER
+I speak with the voice of Puck
+Mayer. Brooklyn American accent with southwest-German undertones, scrappy, blunt, resilient, and bold
+
+WIJNBERG
+I speak with the voice of Achird
+Wijnberg. Dutch-accented American accent, steady, disciplined, youthful, and calm
+
+BRITISH SERGEANT
+I speak with the voice of Orus
+British Sergeant. British Cockney accent, brisk, routine, and gruff
+
+WEBER
+I speak with the voice of Fenrir
+Weber. Austrian Tyrolean accent, rugged, clipped, quiet, and stubbornly resolute
+
+CREW CHIEF
+I speak with the voice of Orus
+Crew Chief. American Midwestern accent, loud, booming, and urgent over aircraft noise
+
+LEAD SERGEANT
+I speak with the voice of Orus
+Lead Sergeant. German accent, harsh, barking, arrogant, and suspicious military policeman
+
+ALOISIA
+I speak with the voice of Leda
+Aloisia. Austrian Tyrolean accent, elderly, fearful, loving, and breathless maternal tone
+
+LUISE
+I speak with the voice of Vega
+Luise. Austrian Tyrolean accent, youthful, startled, hushed, and cautious
+
+ABENTHUNG
+I speak with the voice of Iapetus
+Abenthung. Austrian Tyrolean accent, mature, heavy, blunt, and calculating
+
+MARIA
+I speak with the voice of Capella
+Maria. Austrian Tyrolean accent, dry, practical, sharp, and focused village seamstress
+
+OLDER CAPTAIN
+I speak with the voice of Charon
+Older Captain. German accent, world-weary, cynical, deep, and resigned transport officer
+
+YOUNGER CAPTAIN
+I speak with the voice of Achird
+Younger Captain. German accent, anxious, fretful, and complaining Wehrmacht officer
+
+MOSER
+I speak with the voice of Achird
+Moser. Austrian Tyrolean accent, rapid, nervous, technical, and hushed radio repairman
+
+SS SENTRY
+I speak with the voice of Orus
+SS Sentry. German accent, arrogant, sneering, dismissive, and harsh sentry
+
+SS GUARD
+I speak with the voice of Fenrir
+SS Guard. German accent, gruff, barked, and routine security guard
+
+LUFTWAFFE SERGEANT
+I speak with the voice of Puck
+Luftwaffe Sergeant. German accent, frustrated, urgent, and technically stressed
+
+FOREMAN
+I speak with the voice of Orus
+Foreman. Austrian/German accent, disgruntled, cynical, overworked, and sharp
+
+GRUBER
+I speak with the voice of Orus
+Gruber. Austrian accent, commanding, articulate, dignified, and resolute resistance chief
+
+EVA
+I speak with the voice of Kore
+Eva. Austrian Tyrolean accent, tense, quiet, brave, and resolute young courier
+
+GESTAPO AGENT
+I speak with the voice of Fenrir
+Gestapo Agent. German accent, violent, barked, and sudden secret police agent
+
+GUTTNER
+I speak with the voice of Fenrir
+Güttner. German accent, menacing, cold, methodical, and sadistic interrogator
+
+PRIMBS
+I speak with the voice of Achird
+Primbs. German accent, clinical, detached, nervous, and shaken police doctor
+
+HILLIGES
+I speak with the voice of Iapetus
+Hilliges. German accent, dry, bureaucratic, calculating, and cold Gestapo chief
+
+MATULL
+I speak with the voice of Orus
+Matull. German/British accent, theatrical, biting, condescending, and boldly confident
+
+HOFER
+I speak with the voice of Fenrir
+Hofer. Austrian/German accent, defensive, aristocratic, haughty, yet cornered Gauleiter
+
+RAHN
+I speak with the voice of Iapetus
+Rahn. German accent, cultured, diplomatic, smooth, and melodic ambassador
+
+BOHAIMB
+I speak with the voice of Charon
+Böhaimb. German/Austrian accent, dignified, elderly, weary, and honorable Wehrmacht general
+
+RUNNER
+I speak with the voice of Achird
+Runner. Austrian Tyrolean accent, breathless, panicked, gasping, and frantic messenger
+
+AMERICAN GI
+I speak with the voice of Achird
+American GI. American accent, panicked, screaming, and high-adrenaline infantry scout
+
+SERGEANT
+I speak with the voice of Fenrir
+Sergeant. American accent, harsh, suspicious, barking, and aggressive combat sergeant
+
+WEST
+I speak with the voice of Orus
+West. American accent, authoritative, sharp, stunned, and commanding division G-2 major
+
+
+
 NARRATOR
 Greenup
 OSS agents in the Tyrol, 1945

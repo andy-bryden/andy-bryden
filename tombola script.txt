@@ -1,3 +1,184 @@
+Cast
+
+
+NARRATOR
+I speak with the voice of Charon
+Narrator. Mid-Atlantic accent, cinematic, resonant, grave, and evocative
+
+RADIO ANNOUNCER
+I speak with the voice of Orus
+Radio Announcer. Italian accent, crisp, formal, detached, and authoritative broadcast announcer
+
+CORRADO
+I speak with the voice of Achird
+Corrado. Italian accent, sharp, bitter, resilient, and watchful mountain partisan
+
+YOUNG PARTISAN
+I speak with the voice of Puck
+Young Partisan. Italian accent, raw, angry, impetuous, and grief-stricken youth
+
+LEES
+I speak with the voice of Iapetus
+Lees. British RP accent, quiet, gravelly, weary, stoic, and unshakeably resolute
+
+GUIDO
+I speak with the voice of Fenrir
+Guido. Italian accent, sharp, grating, intense, and combative communist commissar
+
+DON CARLO
+I speak with the voice of Charon
+Don Carlo. Italian accent, deep, serene, grounded, paternal, and commanding priest-partisan
+
+FARRAN
+I speak with the voice of Fenrir
+Farran. British RP accent, crisp, confident, audacious, predatory, and darkly humorous
+
+AMERICAN COLONEL
+I speak with the voice of Puck
+American Colonel. American accent, blunt, skeptical, gravelly, and unhurried staff officer
+
+BRIGADIER
+I speak with the voice of Orus
+Brigadier. British RP accent, cold, aristocratic, bureaucratic, and uncompromising senior commander
+
+DISPATCHER
+I speak with the voice of Orus
+Dispatcher. British Cockney accent, loud, gruff, and shouting over aircraft slipstream
+
+PARTISAN
+I speak with the voice of Achird
+Partisan. Italian accent, tense, suspicious, hushed, and nervous mountain sentry
+
+BALERDI
+I speak with the voice of Orus
+Balerdi. Spanish Basque accent, raspy, cynical, dark, fearless, and hardened veteran
+
+RAMOS
+I speak with the voice of Charon
+Ramos. Spanish accent, deep, powerful, resonant, loyal, and rugged exile fighter
+
+GUARD
+I speak with the voice of Iapetus
+Guard. Russian accent, gruff, cautious, low, and laconic Soviet sentry
+
+PIROGOV
+I speak with the voice of Fenrir
+Pirogov. Russian accent, deep, booming, savage, charismatic, and formidable Red Army captain
+
+TARASOV
+I speak with the voice of Achird
+Tarasov. Russian accent, intense, sharp, ideological, and vigilant political commissar
+
+SCHMIDT
+I speak with the voice of Achird
+Schmidt. German Alsatian accent, trembling, exhausted, desperate, and cooperative conscript
+
+MONDUCCI
+I speak with the voice of Puck
+Monducci. Italian accent, youthful, sharp, tactical, and fearless reconnaissance leader
+
+MILITIA BOY
+I speak with the voice of Puck
+Militia Boy. Italian accent, arrogant, harsh, petty, and aggressive fascist sentry
+
+GIOVANNA
+I speak with the voice of Vega
+Giovanna. Italian accent, young, breathless, observant, and courageously composed courier
+
+GERMAN FELDGENDARM
+I speak with the voice of Orus
+German Feldgendarm. German accent, gruff, flat, bored, and suspicious military policeman
+
+KIRKPATRICK
+I speak with the voice of Puck
+Kirkpatrick. Scottish Ayrshire accent, earthy, gritty, stubborn, and proudly energetic
+
+HUGHES
+I speak with the voice of Achird
+Hughes. British RP accent, subdued, focused, and professional under signals room pressure
+
+GERMAN SENTRY
+I speak with the voice of Achird
+German Sentry. German accent, flat, bored, and routine with military brusqueness
+
+RICCOMINI
+I speak with the voice of Orus
+Riccomini. British RP accent, urgent, fierce, resolute, and courageous airborne subaltern
+
+GURNEY
+I speak with the voice of Orus
+Gurney. British working-class accent, loud, practical, hearty, and seasoned artillery sergeant
+
+WILLIAMS
+I speak with the voice of Achird
+Williams. Spanish accent, cool, focused, gravelly, and methodical demolition specialist
+
+SD OFFICER
+I speak with the voice of Fenrir
+SD Officer. German accent, clipped, venomous, arrogant, and ruthless Gestapo agent
+
+HAUCK
+I speak with the voice of Charon
+Hauck. German Prussian accent, aristocratic, commanding, dignified, and honorable mountain general
+
+FELDGENDARME MAJOR
+I speak with the voice of Orus
+Feldgendarme Major. German accent, nervous, formal, stammering, and dutiful staff officer
+
+FASCIST COMMANDER
+I speak with the voice of Iapetus
+Fascist Commander. Italian accent, dumbfounded, defensive, submissive, and rattled militia leader
+
+GORRIERI
+I speak with the voice of Orus
+Gorrieri. Italian accent, passionate, strained, emotionally raw, and resolute resistance leader
+
+CARITA
+I speak with the voice of Puck
+Carità. Italian accent, clinical, urgent, exhausted, and grimly determined surgeon
+
+AMERICAN GUNNER
+I speak with the voice of Puck
+American Gunner. American accent, sharp, high-strung, alert, and watchful Buffalo Soldier
+
+AMERICAN SERGEANT
+I speak with the voice of Orus
+American Sergeant. American accent, deep, compassionate, steady, and commanding combat sergeant
+
+GALLAGHER
+I speak with the voice of Puck
+Gallagher. Irish accent, cheerful, rough, energetic, and spirited gunner
+
+MILLER
+I speak with the voice of Puck
+Miller. American Midwestern accent, stunned, laughing, disbelieving, and young armor lieutenant
+
+AMGOT MAJOR
+I speak with the voice of Orus
+AMGOT Major. British RP accent, dry, administrative, indifferent, and bureaucratic military governor
+
+YOUNG GARIBALDINO
+I speak with the voice of Puck
+Young Garibaldino. Italian accent, disillusioned, bitter, trembling, and grieving partisan youth
+
+QUARTERMASTER
+I speak with the voice of Puck
+Quartermaster. British Cockney accent, flat, barking, indifferent, and routine dock sergeant
+
+BRITISH MP
+I speak with the voice of Orus
+British MP. British military accent, brisk, loud, and unyielding military police corporal
+
+SMERSH OFFICER
+I speak with the voice of Iapetus
+SMERSH Officer. Russian accent, cold, deadpan, expressionless, and ruthless counter-intelligence officer
+
+CLERK
+I speak with the voice of Achird
+Clerk. British English accent, indifferent, pedantic, functional, and detached hospital clerk
+
+
+
 NARRATOR
 Tombola
 The Northern Apennines, 1944-45
