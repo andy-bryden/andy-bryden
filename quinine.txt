@@ -4,8 +4,8 @@
  Chapter One
  The Library at Milton Hall
  Late May 1944
-Special Training School 54 (STS 54)
-Milton Hall, near Peterborough, Northamptonshire
+  Special Training School 54 (STS 54)
+  Milton Hall, near Peterborough, Northamptonshire
  The damp had worked into the limestone of the south wing long before the War Office requisitioned the estate, but three years of military occupation had given it an institutional permanence. It clung to the high, dark wainscoting and gathered in the folds of the blacked-out velvet draperies, smelling of sulfur coal-smoke, wet serge, cold tea, and floor wax. 
  Across the parkland beyond the terrace, where Earl Fitzwilliam’s tenant cattle had grazed before the war, three dozen men in denim fatigues were running the perimeter ditch in full marching order. Through the leaded panes of the library’s tall casements, the rhythmic, gravelly crunch of their ammunition boots carried across the lawn, rising and falling with the gusts of an unseasonably cold Northamptonshire rain.
  Inside, the room was quiet. 
@@ -37,12 +37,12 @@ Milton Hall, near Peterborough, Northamptonshire
  "And if the communist commanders refuse to take orders from a British officer?"
  Macpherson reached down, picked up his leather gloves from the corner of the table, and pulled them slowly over his knuckles.
  "I don't intend to give them orders, Colonel," Macpherson said. "I intend to show them how to derail trains."
+
  Chapter Two
- ↑ Back to top
  The Cameron of Erracht
  1 June 1944
-Quarters of Jedburgh Team QUININE
-Milton Hall, Northamptonshire
+  Quarters of Jedburgh Team QUININE
+  Milton Hall, Northamptonshire
  The deal table in the former groom’s quarters smelled of linseed oil, dry battery acid, and soldering flux. 
  Sergeant Oswald Arthur Brown sat on a backless wooden stool, leaning low over the open chassis of a Type B Mk II wireless transceiver. The set sat in its brown vulcanized-fiber suitcase like a surveyor’s leveling kit, its enameled front panel crowded with black bakelite dials, knurled brass binding posts, and the twin ceramic sockets for the quartz frequency crystals. 
  Brown worked with the mechanical, unhurried concentration of a man who had stripped magneto coils by tallow light in the shipyards of Wallsend before he was sixteen. He held a small camel-hair camel brush between his teeth while his right hand, blackened around the cuticles by graphite and transformer oil, guided a pair of long-nosed pliers into the power pack to tighten a rubber-seated terminal.
@@ -95,12 +95,12 @@ Milton Hall, Northamptonshire
  "Staff car is at the east courtyard," the captain said, checking his clipboard. "The road to RAF Tempsford is clear. Transport departs at nineteen hundred hours sharp. Supreme Headquarters has confirmed the northern landings for the morning of the sixth. Your aircraft is scheduled for the night of the eighth."
  The captain’s eyes drifted to the kilt on the cot. His brow knitted. He opened his mouth, clearly searching his memory for a section of the King's Regulations or the Special Operations Executive field manual that prohibited Scottish highland dress on clandestine airborne insertions, caught Macpherson’s unblinking, slate-gray stare, and thought better of it.
  "Good luck, gentlemen," the captain said, and pulled the door shut.
+
  Chapter Three
- ↑ Back to top
  The Halifax from Tempsford
  Night of 8/9 June 1944 — 23:15 Hours
-RAF Tempsford, Bedfordshire
-Handley Page Halifax Mk V, Special Duties, No. 138 Squadron RAF
+  RAF Tempsford, Bedfordshire
+  Handley Page Halifax Mk V, Special Duties, No. 138 Squadron RAF
  The runway lights at Tempsford were nothing more than hooded paraffin goose-neck flares set into the damp turf, casting narrow pools of yellow soot-light across the pierced-steel planking of the taxiway. 
  From the dispersal bay beside Gibraltar Farm—the seventeenth-century brick barn where clandestine operatives were stripped of their civilian identity cards and issued their foreign currency—the black-painted Handley Page Halifax Mk V rumbled out into the darkness. 
  The aircraft carried no roundels on its upper wings, no squadron codes, and no white invasion stripes. Its belly and flanks had been sprayed with dead matte-black night-camouflage, streaked around the exhaust cowlings with pale gray plumes of leaded fuel ash.
@@ -153,12 +153,12 @@ Handley Page Halifax Mk V, Special Duties, No. 138 Squadron RAF
  Brown threw his hands forward, dropped through the floor, and was sucked instantly into the black roaring slipstream.
  Michel stepped straight to the edge without breaking stride, crossed his arms tight over his harness, and plunged headfirst into the darkness.
  Macpherson took one step. The propeller blast struck his face like a sheet of corrugated zinc, ripping the air from his mouth. He looked straight into the dark void beneath the fuselage, crossed his gloved hands over the brass box of his harness, tucked his chin into the coarse collar of his smock, and threw himself into the night.
+
  Chapter Four
- ↑ Back to top
  The Reception at Cantal
  02:15 Hours — Dawn, 9 June 1944
-Drop Zone "Aubépine"
-High Basalt Plateau, near Saint-Flour, Department of Cantal
+  Drop Zone "Aubépine"
+  High Basalt Plateau, near Saint-Flour, Department of Cantal
  The ground came up out of the darkness like a thrown stone.
  Macpherson had barely four seconds under canopy. The Type X static line had cracked open above him with a dry, whip-like report that snapped his head forward against the chest webbing. Before his gloved fingers could reach the canvas risers to spill the air, the dark, jagged shoulder of the plateau rushed into his boots.
  He struck a thirty-degree slope of loose volcanic basalt at twenty-five miles an hour.
@@ -221,12 +221,12 @@ High Basalt Plateau, near Saint-Flour, Department of Cantal
  "We are not caching this ordnance in caves," Macpherson commanded, his voice ringing with absolute authority. "Unpack the containers here in the hollow. Crack the crates with the axes. Strip the grease-paper from the Stens, load the magazines, distribute the Mills bombs, and hand out the Nobel 808 to every man who has two hands and a belt."
  Macpherson reached into his breast pocket, drew out his silk Michelin map, and snapped it open against the flat tin hood of Cournil’s lantern.
  "The 2nd SS Panzer Division left its barracks in Montauban twenty-four hours ago," Macpherson said, tapping the red line of Route Nationale 20 with his thumb. "Their reconnaissance battalion is already past Cahors. The railway line between Figeac and Aurillac is five miles to our south. We do not bury British weapons in holes in the ground, Monsieur Cournil. Tonight, we begin to cut their throat."
+
  Chapter Five
- ↑ Back to top
  The Red Flag and the Cross of Lorraine
  10 June 1944 — 14:00 Hours
-Forest of Saint-Geniez, border of Cantal and Corrèze
-Encampment of the Maquis FTP
+  Forest of Saint-Geniez, border of Cantal and Corrèze
+  Encampment of the Maquis FTP
  The camp smelled of wet leaf mold, boiled cabbage, rancid lard, and the acrid, stale stench of cheap Caporal tobacco.
  Deep in a natural amphitheater of sweet chestnut and sessile oak, half a dozen low, sod-roofed charcoal-burners’ huts were half-submerged in the damp earth. Sacks of requisitioned wheat flour were stacked beneath greasy tarpaulins lashed to birch trunks. Around the perimeter, two dozen young men stood guard—or what passed for guard among the Francs-Tireurs et Partisans. 
  They wore blue mechanic's overalls, patched corduroys, or threadbare railway workers' jackets. Every man had a strip of red flannel ribbon pinned to his left sleeve with a rusty safety pin. Their weapons—an uneven assortment of 1886 Lebels, rusted 12-gauge hunting shotguns, and two oily MP 40s taken from dead gendarmes—were pointed not toward the departmental highway two miles south, but directly at Bernard Cournil’s five Secret Army guides who had escorted Team Quinine through the timber.
@@ -284,12 +284,12 @@ Encampment of the Maquis FTP
  "Tell me something, Major," the communist commander asked quietly, the match burning out between his fingers. "Does that skirt make you run faster when the SS open fire?"
  Macpherson looked down at him, his face as flat and unyielding as a basalt ledge.
  "I have no intention of running, Monsieur Chapou," Macpherson said. "And neither do you."
+
  Chapter Six
- ↑ Back to top
  The Mobilization of Das Reich
  Dawn, 11 June 1944 — 05:30 Hours
-Limestone escarpment above Route Nationale 20
-North of Cahors, Department of Lot
+  Limestone escarpment above Route Nationale 20
+  North of Cahors, Department of Lot
  The vibration did not come through the morning air. It traveled through thirty feet of solid limestone.
  Tommy Macpherson lay prone in the wild rosemary, his chest pressed flat against the pale, wind-scoured flint of the causse. Through the brass barrels of his 6x30 service binoculars, the narrow ribbon of Route Nationale 20 uncoiled through the bottom of the gorge four hundred feet below like a strip of damp linen tape.
  Beside him, Michel de Bourbon-Parme had his field notebook propped open against a flat slab of shale, a silver pencil moving with mechanical speed across the gridded paper.
@@ -321,12 +321,12 @@ North of Cahors, Department of Lot
  "Monsieur Cournil. Send two runners into the woods near Souillac. Find Jacques Chapou and his FTP detachment. Tell them to bring two crowbars, thirty feet of Cordtex detonating cord, and ten pounds of Nobel 808."
  Cournil blinked. "And your wireless operator?"
  "Sergeant Brown is two miles behind us in a shepherd’s hut," Macpherson said, rising to a low crouch in the juniper scrub. "He is transmitting our first operational contact report to London. By noon, the Allied High Command will know Lammerding is committed to Route Nationale 20. And by dusk, Lammerding’s forward scouts will discover that the road to Normandy has teeth."
+
  Chapter Seven
- ↑ Back to top
  The Level-Crossing Guillotine
  12 June 1944 — 17:15 Hours
-Passage à Niveau 142, south of Cressensac
-Intersection of the Paris-Toulouse rail line and Route Nationale 20
+  Passage à Niveau 142, south of Cressensac
+  Intersection of the Paris-Toulouse rail line and Route Nationale 20
  The crossing keeper’s stone cottage stood abandoned beside the tracks, its green wooden shutters hanging crooked on broken iron hinges. On the kitchen table inside, half a loaf of sourdough bread had hardened into green mold beside an open tin of sardines covered in black flies.
  Outside, the midsummer heat hung over the steel rails like grease on an anvil.
  Tommy Macpherson knelt in the tall nettles beside the massive, cast-iron stanchion of the level-crossing barrier. The barrier itself was a thirty-foot beam of solid French oak, reinforced along its length with riveted flat-strap iron, designed to keep cattle and carts off the mainline tracks. On the short end, anchored behind a heavy steel pivot pin, hung a six-hundred-pound cast-iron counterweight shaped like a blacksmith's block.
@@ -389,12 +389,12 @@ Intersection of the Paris-Toulouse rail line and Route Nationale 20
  "Place four pounds of plastic on each rail," Macpherson ordered. "Cut the Paris-Toulouse mainline in two places. Blow the telegraph lines across the highway, and haul this motorcycle directly across the grade."
  He turned his back on the wreck, checking the dial of his pocket watch.
  "When Lammerding’s lead tanks arrive," Macpherson said, "they can spend two hours clearing the corpses of their own scouts before they can move an inch."
+
  Chapter Eight
- ↑ Back to top
  The Ashes of Oradour
  14 June 1944 — 21:00 Hours
-Dense oak scrub north of Brive-la-Gaillarde
-Department of Corrèze
+  Dense oak scrub north of Brive-la-Gaillarde
+  Department of Corrèze
  The rain had come down without pause since noon—a thick, lukewarm drizzle that smelled of rotting leaves, wet slate, and stagnant ditch-water.
  Inside a ruined limestone barn with half its roof slates caved in, Sergeant Arthur Brown had strung sixty feet of enameled copper aerial wire between two rusted hay forks in the rafters. The glass valves of the B2 transmitter cast a faint, amber luminescence across the damp stones. Beside the suitcase, Brown’s grease pencil moved across a silk-backed cipher pad, recording five-letter groups arriving from London in short, rhythmic bursts of static.
  At the far end of the barn, illuminated by a sputtering carbide lamp, a bicycle lay on its side in the straw, its front tire flat, the wheel rim caked in red clay.
@@ -451,12 +451,12 @@ STOP THEM.
  "Through the Le Lioran railway tunnel," Macpherson said. "Nearly a mile of solid basalt."
  He turned and picked up his Sten gun from the table, checking the thirty-two-round magazine with a sharp slap of his palm.
  "We don't need a cleaver, Monsieur Chapou," Macpherson said. "We need fifty pounds of Nobel 808. We are going to bury four hundred of them inside the mountain."
+
  Chapter Nine
- ↑ Back to top
  The Cork in the Tunnel
  18 June 1944 — 03:30 Hours
-Le Lioran Railway Tunnel, western portal
-Figeac-Aurillac-Arvant Line, High Cantal
+  Le Lioran Railway Tunnel, western portal
+  Figeac-Aurillac-Arvant Line, High Cantal
  The tunnel portal was a black masonry horseshoe cut into the basal wall of the Plomb du Cantal, wet with seepage and smelling of stagnant coal soot. Above the dressed granite arch, nearly two thousand feet of fractured volcanic rock climbed into the mountain fog.
  Inside the bore, the air was dead, cold, and heavy.
  Tommy Macpherson knelt on the creosote-soaked timber ties thirty paces inside the entrance, the rough wool of his Cameron of Erracht kilt caked with wet cinder dust. In his mouth, he held a shielded pencil torch, directing its thin amber beam onto the web of the seventy-pound steel rail. 
@@ -508,12 +508,12 @@ Figeac-Aurillac-Arvant Line, High Cantal
  "They don't have two months, Michel," Macpherson said, slinging his Sten across his chest. "And they don't have steam shovels. Lammerding is out of rail options. He has to drive every remaining vehicle up Route Nationale 20."
  Tommy turned and looked down into the valley toward Aurillac.
  "Now," he said quietly, "we go find ourselves an automobile."
+
  Chapter Ten
- ↑ Back to top
  The Battle of Mont-Mouchet
  20 June 1944 — 11:30 Hours
-High ridges of Mont-Mouchet, Margeride Mountains
-Border of Cantal and Haute-Loire
+  High ridges of Mont-Mouchet, Margeride Mountains
+  Border of Cantal and Haute-Loire
  The pine forest along the northern crest was burning with a high, resinous hiss that drowned the voices of the runners.
  Every twenty seconds, the rhythmic, mechanical hammer of a German 20-millimeter FlaK 38 anti-aircraft cannon echoed up from the defile near Clavières: thump-thump-thump-thump. The high-explosive rounds detonated in the timber canopy sixty feet overhead, showering the shallow slit trenches with jagged steel fragments and foot-long wooden splinters that struck the earth like thrown bayonets.
  Tommy Macpherson crouched behind the root ball of an uprooted Scots pine, his Cameron of Erracht kilt caked with gray mountain clay and scorched pine needles. Through the drifting blue smoke, four hundred yards down the slope, four-wheeled armored cars and camouflaged halftracks belonging to Brigade Jesser were methodically grinding their way up the forestry track in low gear.
@@ -532,12 +532,11 @@ Border of Cantal and Haute-Loire
  The Newcastle signalman was carrying the vulcanized B2 case against his ribs like a football, his Sten gun slung muzzle-down across his chest, his boots sliding wildly on the greasy pine needles. He dropped into the hollow beside Macpherson, gasping for air, his face gray with fatigue.
  "Message from London, sir," Brown wheezed, thrusting a damp, penciled cipher strip into Macpherson’s hand. "Decoded it ten minutes ago behind the forestry shed before a mortar splinter took the aerial down."
  Macpherson flattened the slip of paper against his knee.
-SHAEF TO QUININE.
-FORWARD ELEMENTS 2ND SS PANZER DIVISION IDENTIFIED IN COMBAT SOUTH OF CAEN AND SAINT-LO.
-DIVISION TOOK OVER FOURTEEN DAYS TO TRANSIT FROM MONTAUBAN.
-CRITICAL STRATEGIC DELAY FULLY ACHIEVED.
-MULBERRY HARBORS ANCHORED. NORMANDY LODGEMENT SECURE.
-CONGRATULATIONS TO QUININE AND RESISTANCE FORCES.
+  SHAEF TO QUININE.
+  FORWARD ELEMENTS 2ND SS PANZER DIVISION IDENTIFIED IN COMBAT SOUTH OF CAEN AND SAINT-LO.
+  DIVISION TOOK OVER FOURTEEN DAYS TO TRANSIT FROM MONTAUBAN.
+  CRITICAL STRATEGIC DELAY FULLY ACHIEVED. MULBERRY HARBORS ANCHORED. NORMANDY LODGEMENT SECURE.
+  CONGRATULATIONS TO QUININE AND RESISTANCE FORCES.
  Macpherson stared at the block letters.
  Fourteen days.
  SS-Brigadeführer Heinz Lammerding had boasted from his headquarters in Montauban that his panzergrenadiers would reach the Normandy beaches within seventy-two hours of the invasion. 
@@ -554,12 +553,12 @@ CONGRATULATIONS TO QUININE AND RESISTANCE FORCES.
  "Arthur and I will hold the forestry track with the Bren until the stretchers clear the western gully," Macpherson said. 
  He looked down at the volcanic mud caked on his bare knees, then up through the burning pines at the German armored scout cars edging along the track below.
  "We have spent two weeks walking through these mountains on foot, gentlemen," Macpherson said quietly. "Tomorrow, we get ourselves some wheels."
+
  Chapter Eleven
- ↑ Back to top
  The Traction Avant
  2 July 1944 — 14:20 Hours
-Automotive repair shop of Marcel Boussac
-Outskirts of Vic-sur-Cère, ten miles northeast of Aurillac
+  Automotive repair shop of Marcel Boussac
+  Outskirts of Vic-sur-Cère, ten miles northeast of Aurillac
  The garage smelled of carbide gas, rancid sheep fat, stale transmission oil, and old hay.
  Behind a false partition of split chestnut boards, wedged between a disassembled threshing machine and three tiers of dry oak cordwood, sat a mound of gray canvas tarpaulins buried beneath two feet of loose rye straw.
  Marcel Boussac, a fifty-year-old mechanic whose forearms bore the faded blue anchor tattoos of the 1918 colonial infantry, drove a four-tine pitchfork into the straw and dragged it clear. He seized the corner of the stiff, grease-impregnated canvas and heaved it back.
@@ -593,12 +592,12 @@ Outskirts of Vic-sur-Cère, ten miles northeast of Aurillac
  Michel looked at the paint tins, then at the aggressive, low-slung prow of the Citroën. A slow, reckless smile spread across his face.
  "A calling card," Michel said.
  "A declaration of sovereignty," Macpherson corrected. He picked up a stiff horsehair brush from the bench and pressed it into the Prince of Bourbon’s hand. "Paint the Cross of Lorraine first, Michel. Make certain the double bars are symmetrical. We have an operational reconnaissance to run along Route Nationale 122 tomorrow morning, and I do not intend to arrive in disguise."
+
  Chapter Twelve
- ↑ Back to top
  Daylight Insolence
  11 July 1944 — 10:45 Hours
-Route Nationale 122, between Aurillac and Figeac
-Approach to the canton of Laroquebrou, Department of Cantal
+  Route Nationale 122, between Aurillac and Figeac
+  Approach to the canton of Laroquebrou, Department of Cantal
  The straight-six engine beneath the louvred hood of the Citroën 15-Six did not cough; it roared with the deep, resonant drone of an aircraft engine on a takeoff run.
  Michel de Bourbon-Parme had both hands locked at ten and two on the black Bakelite steering wheel. His sleeves were rolled past his elbows, his chin thrust forward in a line of hard concentration as he guided the heavy sedan down the camber of Route Nationale 122 at sixty miles an hour. 
  The front-wheel drive dragged the long chassis through the gravel-strewn curves of the Cère valley as if running on steel rails, the heavy Michelin tires protesting with a sharp, rhythmic squeal against the hot asphalt. On the offside front fender, the hand-painted Union Jack flapped stiffly in the hundred-kilometer-an-hour gale; on the nearside, the French Tricolour and the red Cross of Lorraine caught the blazing midday sun.
@@ -673,12 +672,12 @@ Approach to the canton of Laroquebrou, Department of Cantal
  "Radiator’s holding temperature, sir," Brown said, his Tyneside voice bone-dry. "And the mayor knows who owns the town."
  Macpherson climbed back into the front seat, adjusting his Glengarry bonnet.
  "Drive on, Michel," Tommy said, pointing the Citroën’s chrome chevrons toward the high plateau. "Let us see how much the Gestapo is willing to pay for this uniform."
+
  Chapter Thirteen
- ↑ Back to top
  Le Diable Écossais
  26 July 1944 — 16:00 Hours
-Courtyard of the Presbytery, Saint-Céré
-Department of Lot
+  Courtyard of the Presbytery, Saint-Céré
+  Department of Lot
  The afternoon heat hung over the valley like wet wool, smelling of horse manure, dry limestone dust, and scorched engine oil.
  In the deep shade of a plane tree, the black Citroën 15-Six sat with its dual-hinged hood propped open, its straight-six block ticking softly as the iron manifold cooled. The twin-tone pneumatic horns behind the chevron grille were choked with pale yellow dust from the mountain switchbacks, and along the lower sheet metal of the driver’s door, three parallel gray furrows marked where a burst of 7.92-millimeter fire from an MG 34 had grazed the black lacquer during a running fight on the road out of Figeac three days before.
  Sergeant Arthur Brown sat on an upturned wooden wash-tub against the rectory wall, his web belt unbuckled, the Bakelite headphones of the B2 set clamped over his ears. His pencil moved in a slow, rhythmic cadence across a silk-backed cipher pad, logging three-letter groups received from London.
@@ -694,18 +693,11 @@ Department of Lot
  Macpherson did not put his needle down. He finished the knot on the linen thread, pulled the stitch taut, and severed the excess with the edge of his thumbnail. He slid the needle into the lapel of his khaki service tunic, rose to his full height, and walked over to the car, his ammunition boots crunching on the gravel.
  Michel leaned over the fender, his eyes tracking down the bold gothic lines of the proclamation, whistling softly through his teeth.
  The poster was set in condensed, heavy type: German Fraktur on the left, an official French administrative translation on the right. Across the top, stamped in dull purple indelible ink, was the circular seal of the Kommandeur der Sicherheitspolizei und des SD for the Auvergne:
-AVIS / BEKANNTMACHUNG
-REWARD: 300,000 FRANCS
-A sum of three hundred thousand French francs will be paid
-for the capture, or information leading to the immediate death,
-of the terrorist ringleader operating in the Departments of
-Cantal, Lot, and Corrèze.
-The bandit is an English agent masquerading in a Scottish skirt
-(in einem schottischen Rock). He is heavily armed, dangerous,
-and operates a black Citroën passenger car bearing illegal
-foreign markings.
-Any civilian providing shelter, fuel, or assistance to this
-individual will be shot immediately under martial law.
+  AVIS / BEKANNTMACHUNG
+  REWARD: 300,000 FRANCS
+  A sum of three hundred thousand French francs will be paid for the capture, or information leading to the immediate death, of the terrorist ringleader operating in the Departments of Cantal, Lot, and Corrèze.
+  The bandit is an English agent masquerading in a Scottish skirt (in einem schottischen Rock). He is heavily armed, dangerous, and operates a black Citroën passenger car bearing illegal foreign markings.
+  Any civilian providing shelter, fuel, or assistance to this individual will be shot immediately under martial law.
  Michel looked up from the paper, his aristocratic eyebrows arching high.
  "Three hundred thousand francs, Tommy," Michel said, a slow, wry smile touching the corners of his mouth. "At the current black market rate for gold sovereigns, that is forty prime dairy cows, fifteen hectares of fertile pasture along the Lot, or three stone houses in the center of Aurillac. You are becoming an exceptionally expensive commodity."
  "It's an insult, sir," Arthur Brown said from the washtub, not breaking the rhythmic movement of his pencil on the cipher pad. "A good riveter in the Tyne shipyards earns three pounds ten a week. Three hundred thousand French francs is barely fifteen hundred quid at the official exchange rate. The bloody Germans are being cheap."
@@ -734,12 +726,12 @@ individual will be shot immediately under martial law.
  "Signal cleared, sir."
  Macpherson picked up his blue Glengarry bonnet from the step, adjusted the silver Cameron crest until it sat square above his right temple, and buckled his sporran around his waist.
  "Michel," Tommy said, nodding toward the open courtyard gates. "Start the six-cylinder. Let us go pay our respects to Major von Wachter."
+
  Chapter Fourteen
- ↑ Back to top
  The Siege of Aurillac
  12 August 1944 — 05:15 Hours
-Perimeter of Caserne Delzons
-Aurillac, Department of Cantal
+  Perimeter of Caserne Delzons
+  Aurillac, Department of Cantal
  The morning mist rising off the gravel shallows of the Jordanne river carried the bitter, oily stench of burning paper.
  Inside the perimeter of Caserne Delzons—the sprawling nineteenth-century stone infantry barracks that anchored the northern approach to Aurillac—the German garrison was burning five years of occupation records in the motor pool courtyard. Dense black flakes of scorched requisition ledgers, postal censorship logs, and informant dossiers drifted across the slate rooftops of the town like charred crows, settling in the stone gutters of the Rue des Carmes.
  From the bell tower of the Church of Notre-Dame-aux-Neiges, four hundred yards to the south, an FFI sniper fired a single round from a Mauser 98k. The 7.92-millimeter bullet chipped a sharp spray of yellow limestone from the parapet above the main iron gates of the barracks, the crack echoing down the empty boulevard.
@@ -816,12 +808,12 @@ Aurillac, Department of Cantal
  He turned to Arthur Brown, who was packing the aerial wire into the trunk of the Citroën.
  "Arthur. Signal London. Aurillac is liberated. Ask for the strategic picture south of the Loire."
  Within thirty minutes, the answer came back from Baker Street—a transmission that would change the course of their war.
+
  Chapter Fifteen
- ↑ Back to top
  The Pincers of Dragoon
  17 August 1944 — 14:00 Hours
-The Prefect’s Office, Hôtel de la Préfecture
-Aurillac, Department of Cantal
+  The Prefect’s Office, Hôtel de la Préfecture
+  Aurillac, Department of Cantal
  Through the tall casement windows of the prefecture, the thin, brassy notes of the Marseillaise drifted up from the Place du Square, played out of tempo by the municipal fire brigade band.
  In the sunlit streets below, the celebration had reached its third day. Tricolour rosettes were pinned to every lapel, church bells chimed on the quarter-hour, and a queue of citizens snaked outside the iron gates of the courtyard, clutching handwritten denunciations against neighbors who had sold butter to the German garrison or identified local youths for the forced labor drafts.
  Inside the mahogany-paneled office of the departed Vichy prefect, there was no celebration.
@@ -831,13 +823,13 @@ Aurillac, Department of Cantal
  Brown ripped the cipher strip from the pad, set his pencil down, and looked up, blinking through red-rimmed eyes.
  "It is not just Normandy, sir," Brown said. "The south is wide open."
  Macpherson took the paper.
-SHAEF TO ALL JEDBURGH TEAMS AND FFI COMMANDS.
-OPERATION DRAGOON COMMENCED 15 AUGUST.
-US SEVENTH ARMY AND FRENCH ARMY B LANDED BETWEEN CANNES AND TOULON.
-BRIDGEHEAD EXPANDING RAPIDLY INLAND.
-DE LATTRE PUSHING FOR MARSEILLE AND TOULON.
-TRUSCOTT DRIVING UP RHONE VALLEY.
-ENEMY ARMY GROUP G IN GENERAL RETREAT.
+  SHAEF TO ALL JEDBURGH TEAMS AND FFI COMMANDS.
+  OPERATION DRAGOON COMMENCED 15 AUGUST.
+  US SEVENTH ARMY AND FRENCH ARMY B LANDED BETWEEN CANNES AND TOULON.
+  BRIDGEHEAD EXPANDING RAPIDLY INLAND.
+  DE LATTRE PUSHING FOR MARSEILLE AND TOULON.
+  TRUSCOTT DRIVING UP RHONE VALLEY.
+  ENEMY ARMY GROUP G IN GENERAL RETREAT.
  Michel stepped to the map, his finger tracing the Mediterranean coastline from Saint-Tropez to the delta of the Rhône.
  "De Lattre and the Americans," Michel murmured, his voice tight with excitement. "A second front in the south. That means Johannes Blaskowitz is caught in the vise."
  "Not just caught," Macpherson said, walking to the wall. He tapped the city of Toulouse, then swept his finger west toward Bordeaux, Bayonne, and the Atlantic coast. "Look at the order of battle for Army Group G. Blaskowitz has two armies: the Nineteenth along the Mediterranean, and the First holding the Atlantic Wall and the southwest."
@@ -872,12 +864,12 @@ ENEMY ARMY GROUP G IN GENERAL RETREAT.
  Michel did not hesitate. "Where are we going, Tommy?"
  Macpherson placed the bonnet on his head, adjusting the silver Cameron badge until it sat square above his temple.
  "We are going to the Loire," Macpherson said. "General Elster has twenty thousand men and a two-day head start. I want to be waiting for him when he reaches the river."
+
  Chapter Sixteen
- ↑ Back to top
  The Gathering of Group Elster
  28 August 1944 — 18:30 Hours
-Field Command Post, Feldkommandantur 541
-North of Angoulême, Route Nationale 10
+  Field Command Post, Feldkommandantur 541
+  North of Angoulême, Route Nationale 10
  The dust did not settle; it baked into the coarse field-gray wool of twenty thousand uniforms.
  Along the white ribbon of Route Nationale 10, stretching as far south as the eye could see toward the vineyards of the Gironde, crawled the retreat of an army. It was twenty-five miles long—a groaning, clattering, exhausted serpent of men, draft beasts, and iron crawling through the August heat toward the northeast.
  It possessed none of the mechanical symmetry of the blitzkrieg that had rolled across these same plains four summers earlier. 
@@ -915,12 +907,12 @@ North of Angoulême, Route Nationale 10
  "Send an urgent wireless to Armeegruppe G," Elster ordered Ernst. "Inform them that Marschgruppe Elster is underway. Destination: the Loire bridges. And tell them that if they do not provide fuel and fighter cover over the crossing points, they can write off twenty thousand men from the order of battle."
  He turned back toward his staff car, muttering under his breath as the endless column of gray uniforms shuffled past into the dust:
  "Gott mit uns. Because nobody else is."
+
  Chapter Seventeen
- ↑ Back to top
  The Northward Dash
  30 August 1944 — 11:20 Hours
-Route Nationale 20, northbound
-Crossing into the Department of Indre, south of Argenton-sur-Creuse
+  Route Nationale 20, northbound
+  Crossing into the Department of Indre, south of Argenton-sur-Creuse
  The mountains were gone.
  For nearly three months, the jagged volcanic basalt, narrow ravines, and dense sweet-chestnut forests of the Cantal and Corrèze had been Team Quinine’s fortress. Now, as the black Citroën 15-Six crested the rolling limestone ridges of the southern Indre, the country flattened out into the vast, sun-bleached agricultural plains of the Berry—miles of pale wheat stubble, parched sunflower fields, and long, ruler-straight avenues of Lombardy poplars bisecting the heat shimmer.
  It was tank country. Open ground where a man with a Sten gun could be spotted from three miles away.
@@ -970,12 +962,12 @@ Crossing into the Department of Indre, south of Argenton-sur-Creuse
  "When a wounded bear discovers he is trapped against a river, Michel," Tommy said, his voice cold as slate, "he either charges the hunter, or he dies."
  He reached out and checked the action of his Sten gun, sliding the bolt back half an inch to verify the brass nine-millimeter round sitting in the chamber.
  "Our job," Tommy added, "is to make General Elster believe the hunter has teeth."
+
  Chapter Eighteen
- ↑ Back to top
  Macon’s Open Flank
  1 September 1944 — 09:15 Hours
-Forward Command Post, Headquarters, US 83rd Infantry Division
-Château north of Vendôme, Loir-et-Cher
+  Forward Command Post, Headquarters, US 83rd Infantry Division
+  Château north of Vendôme, Loir-et-Cher
  The ballroom of the requisitioned eighteenth-century château smelled of damp upholstery, wet canvas, grease pencils, and stale Chesterfields.
  Where crystal chandeliers had once illuminated the nobility of the Orléanais, black field-telephone wires now sagged from gilded plaster cherubs, tacked into the boiserie panels with insulated staples. On the gravel terrace outside the tall French windows, the twin heavy generators of an SCR-399 mobile radio truck droned in a monotonous, vibrating baritone that set the high sash panes shivering in their frames.
  Major General Robert C. Macon, commanding the 83rd "Thunderbolt" Infantry Division, stood with both hands resting flat upon the walnut expanse of a formal dining table. He was fifty-four years old, a Virginian with a weathered, leathery face and deep-set, hooded eyes that had seen his regiments torn to pieces in the hedgerow slaughter of Carentan and Sainteny two months before.
@@ -1017,12 +1009,12 @@ Château north of Vendôme, Loir-et-Cher
  "If he wants to fight, we use every 105 and 155-millimeter battery in the 83rd Division artillery and call in the Ninth Air Force to turn the south bank of the Loire into a charcoal pit," Macon said. "But if he wants to live, tell him the United States Army is prepared to accept his unconditional surrender. But tell him he surrenders to me, and he surrenders north of the river."
  Macon crushed his cigarette butt into the porcelain saucer.
  "Go find the man in the skirt, Sam. Let us see if he can pull off one more miracle before this entire flank comes apart."
+
  Chapter Nineteen
- ↑ Back to top
  The Broken Bridges
  4 September 1944 — 06:15 Hours
-South bank of the Loire River, overlooking the bridge at Beaugency
-Department of Loiret
+  South bank of the Loire River, overlooking the bridge at Beaugency
+  Department of Loiret
  The river was three hundred yards wide, a shallow, braided ribbon of gray-green water cutting through pale sandbars and willow shallows. Dawn broke through the river mist in cold, pastel streaks of slate and pearl.
  Tommy Macpherson stood with his back pressed against the peeling trunk of a black poplar, sixty paces from the southern abutment of the Pont de Beaugency. 
  Through his 6x30 service binoculars, he studied the crossing. The medieval stone bridge had once spanned the Loire on fourteen elegant masonry arches. Now, arches four, five, and six were missing. In their place, broken slabs of dressed ashlar limestone lay tumbled into the swirling current like giant shattered dominoes, with twisted strands of steel tramway rail dangling into the white foam.
@@ -1057,12 +1049,12 @@ Department of Loiret
  "An honorable way out," Macpherson said. "He wants an Allied general to take his sword so he does not have to surrender to French partisans with pitchforks."
  Macpherson opened the passenger door, reaching for his Glengarry bonnet.
  "Michel. Start the car. We are going to find Lieutenant Magill and his Americans. It is time to set the stage for General Elster’s exit."
+
  Chapter Twenty
- ↑ Back to top
  Platoon International
  6 September 1944 — 14:45 Hours
-Forestry clearing south of Romorantin-Lanthenay
-Department of Loir-et-Cher
+  Forestry clearing south of Romorantin-Lanthenay
+  Department of Loir-et-Cher
  The American jeeps came down the sandy track through the Sologne pines in a dispersed tactical wedge, moving with the quiet, aggressive rhythm of men who operated on the knife-edge of reconnaissance.
  There were four Willys MBs, stripped of windshields, canvas tops, and bumper brackets, their olive-drab sheet metal caked with the white dust of the Loire valley. Welded to the passenger dashboard of each vehicle was a dual-mount for .30-caliber Browning machine guns; in the rear bed of the lead jeep, an M2 .50-caliber heavy machine gun was bolted to an aircraft pedestal mount, its olive-drab ammunition belt draped into a zinc feeder tray like a segmented brass serpent.
  First Lieutenant Samuel W. Magill sat in the front passenger seat of the lead vehicle, an M1 carbine resting between his knees, his jump boots propped on the cowl.
@@ -1107,12 +1099,12 @@ Department of Loir-et-Cher
  "He needs to believe that he is entirely surrounded by three Allied divisions, that heavy corps artillery is already registered on his schoolhouse, and that six wings of Royal Air Force fighter-bombers are circling the overcast waiting for my wireless signal to wipe his twenty thousand boys off the face of the earth."
  Tommy looked up at Magill, his voice dropping into a razor-sharp whisper.
  "I am going to provide that excuse, Lieutenant. And you will be there to accept the surrender on behalf of the United States Army."
+
  Chapter Twenty-One
- ↑ Back to top
  The Ditches of the Cher
  8 September 1944 — 07:30 Hours
-The vineyards north of Châteauroux, along the Cher River
-Department of Indre
+  The vineyards north of Châteauroux, along the Cher River
+  Department of Indre
  The dead artillery horse in the roadside drainage ditch had swollen in the late-summer heat until its belly resembled a drum of tight, gray canvas, vibrating with a shimmering carpet of metallic green blowflies.
  Ten yards farther down the ditch lay two German soldiers from a Luftwaffe airfield construction battalion. They were boys of eighteen, dressed in threadbare blue-gray wool tunics stripped of buttons, belt buckles, and shoulder straps. Their boots had been slashed from their feet; their wrists were bound behind their backs with rusted telegraph wire; each had a blackened, powder-burned entry wound behind the left ear.
  Standing in the rows of ripening Pinot Noir grapes twenty paces away, two young FFI partisans from the Indre-Nord battalion leaned on their British-dropped Sten guns, chewing on hard green pears. 
@@ -1149,12 +1141,12 @@ Department of Indre
  "Take our last operational staff car," Elster ordered Hassel. "Tie a white bedsheet across the hood. Mount two Geneva Red Cross flags to the front wings. Drive north toward the Cher along Route Nationale 20 until you encounter the Allied outposts."
  Elster leaned down, his eyes locking onto the doctor’s.
  "Tell the British major that General Botho Elster is prepared to discuss the disposition of nineteen thousand men. But tell him this: if the Allies demand that we surrender to the French Maquis, we will fight until our last cartridge is spent and burn every village between here and the Loire. We surrender to regular soldiers. Not to butchers."
+
  Chapter Twenty-Two
- ↑ Back to top
  The Red Cross Flag
  9 September 1944 — 11:40 Hours
-Roadblock outside Vatan, Route Nationale 20
-Between the Cher River and Issoudun
+  Roadblock outside Vatan, Route Nationale 20
+  Between the Cher River and Issoudun
  The roadblock was held by fifty FFI partisans from the Indre-Nord battalion, crouched in the roadside ditch behind three tiers of felled telephone poles and heavy creosoted railway sleepers. Every weapon was cocked: British Lee-Enfields, four Bren guns rested on dirt parapets, and an uneven assortment of captured German Kar98ks trained down the white glare of the asphalt.
  Creeping around the bend half a mile south, traveling at barely fifteen miles an hour, was an open German Adler staff car.
  Tied across its gray sheet-metal hood was a torn white linen bedsheet, whipping violently in the slipstream. From the passenger-side front wing flapped a square cotton pennant bearing the red cross of the Geneva Convention. In the front passenger seat sat a German medical officer, his white linen surgical tunic stark against the dark upholstery, his hands held high above his head, palms pressed flat against the glass of the windshield.
@@ -1200,12 +1192,12 @@ Between the Cher River and Issoudun
  "Splendid," Macpherson said, adjusting his blue Glengarry bonnet until the silver Cameron badge caught the midday glare. "Then drive right down the center of the road. And do not, under any circumstances, touch the brakes."
  The Adler’s engine sputtered to life.
  With the white bedsheet whipping across the hood and the Geneva Red Cross flag fluttering from the wing, the German staff car accelerated past the fanned logs of the French roadblock, rolling out onto the empty, silent asphalt of Route Nationale 20, straight into the muzzle of twenty thousand waiting guns.
+
  Chapter Twenty-Three
- ↑ Back to top
  The Pickets of Issoudun
  10 September 1944 — 12:15 Hours
-Northern approaches and town perimeter
-Issoudun, Department of Indre
+  Northern approaches and town perimeter
+  Issoudun, Department of Indre
  The open Adler staff car rattled over the stone cobbles of the outer bridge, its radiator spitting steam around the frayed corners of the tied-down bedsheet.
  At the northern entrance to the town, where the poplar-lined highway narrowed into the Rue de la République, the Germans had thrown an anti-tank barrier across both lanes using two overturned steam threshers, three farm harrows, and four felled lime trees. Behind the iron boiler of the lead thresher, half-concealed beneath a brown burlap camouflage net, the long, tapered barrel of a 75-millimeter PaK 40 anti-tank gun pointed dead down the center of the asphalt.
  Flanking the gun, six Wehrmacht sentries from the 95th Security Regiment lay prone behind double rows of sandbags, their MG 42 resting on its bipod, the feed belt of brass cartridges gleaming in the midday glare.
@@ -1253,12 +1245,12 @@ Issoudun, Department of Indre
  Ernst swallowed hard, withdrew his hand from his pistol holster, and clicked his heels together with stiff, Prussian formality.
  "The General is waiting inside, Major," Ernst said quietly.
  Macpherson adjusted his Glengarry bonnet, turned his back on the armed sentries, and walked up the stone steps into the schoolhouse, his kilt swinging in time with his boots.
+
  Chapter Twenty-Four
- ↑ Back to top
  The Schoolhouse at Issoudun
  10 September 1944 — 12:40 Hours
-The Headmaster’s Study, Municipal Boys' School
-Issoudun, Department of Indre
+  The Headmaster’s Study, Municipal Boys' School
+  Issoudun, Department of Indre
  The headmaster’s study smelled of dry chalk, wet wool, liniment, and stale pipe tobacco.
  Behind the wide oak desk, pinned directly over a blackboard that still bore the faint, ghost-like chalk outlines of third-year Latin declensions, hung a 1:200,000 War Department map of the Department of Indre. Concentric rings of blue grease pencil converged around the rail junction at Issoudun like the iron hoops of a barrel.
  Generalmajor Botho Henning Elster stood beneath the blackboard. He had not removed his service cap. His silver-braided general’s collar patches gleamed against the coarse field-gray of his tunic, and his hands were clasped firmly behind the small of his back in the classic posture of the Prussian officer corps. 
@@ -1297,12 +1289,12 @@ Issoudun, Department of Indre
  "You will not defend Issoudun for an hour, Major Ernst," Macpherson said, the chill in his voice filling every corner of the study.
  He reached up to the lapel of his service tunic, his fingers resting lightly on the silver Cameron badge pinned to his Glengarry bonnet.
  "Because if you do not sign the instruments of unconditional surrender within thirty minutes, I will walk out of this schoolhouse, step into my staff car, and unleash an annihilation from which none of you will ever walk away."
+
  Chapter Twenty-Five
- ↑ Back to top
  The Three Lies
  10 September 1944 — 13:10 Hours
-The Headmaster’s Study, Municipal Boys' School
-Issoudun, Department of Indre
+  The Headmaster’s Study, Municipal Boys' School
+  Issoudun, Department of Indre
  The ticking of the octagonal school clock sounded like a dry branch snapping underfoot.
  Major Ernst took half a step back from the desk, his eyes darting to the leather holster at his hip, then to the unreadable face of his General. The young Luftwaffe captain let out a short, contemptuous laugh, though his knuckles were white where he gripped his gloves.
  "You are bluffing, Major," the captain said, his voice pitched high and tight. "You drove into this garrison in a skirt, with a medical orderly and a white bedsheet. You have no armor. You have no artillery. You have nothing but a handful of communist bandits hiding in the blackberry bushes."
@@ -1346,12 +1338,12 @@ Issoudun, Department of Indre
  Fourteen minutes.
  The General reached up with trembling fingers, unhooked the top horn button of his field-gray tunic, and let out a long, ragged breath that sounded like the collapse of an empire.
  "Major Macpherson," Elster whispered, his Prussian stiffness crumbling into raw, human grief. "What are your terms?"
+
  Chapter Twenty-Six
- ↑ Back to top
  The Terms of Prussian Honor
  10 September 1944 — 13:16 Hours
-The Headmaster’s Study, Municipal Boys' School
-Issoudun, Department of Indre
+  The Headmaster’s Study, Municipal Boys' School
+  Issoudun, Department of Indre
  The second hand on Tommy Macpherson’s silver pocket watch swept past the Roman numeral four. Fourteen minutes remained before his invented deadline expired, and forty-four minutes remained before Arthur Brown, waiting by the orchard at Vatan, was under orders to transmit Caledonia to Baker Street.
  Macpherson reached down to the desk with two fingers, clicked the watch’s silver hunter case shut with a sharp, metallic snick, and slid it back into his breast pocket. He did not button the flap.
  "Terms, General," Macpherson said. His German was quiet, unhurried, and as cold as an iron stanchion. "First and foremost: the capitulation is unconditional, and it is made to the regular armed forces of the Western Allies—specifically to Major General Robert C. Macon, commanding the United States Eighty-Third Infantry Division."
@@ -1422,12 +1414,12 @@ Issoudun, Department of Indre
  Hassel wiped sweat from his chin, his knuckles locking hard onto the Bakelite steering wheel. "Yes, Major?"
  "You have twenty-five minutes to reach the Cher," Macpherson said calmly, tapping the dashboard with his glove. "If you value your life, do not take your foot off the accelerator."
  The Adler surged forward, its tires screaming against the limestone cobbles of the Place du Marché, throwing a blizzard of white dust across the empty square as it accelerated dead north, racing against its own destruction.
+
  Chapter Twenty-Seven
- ↑ Back to top
  The Thunderbolt Demonstration
  10 September 1944 — 13:52 Hours
-Roadblock outside Vatan, Route Nationale 20
-Department of Indre
+  Roadblock outside Vatan, Route Nationale 20
+  Department of Indre
  The steam escaping the radiator cap of the Adler staff car blew back across the windshield in a scalding, white vapor that tasted of rusted copper and antifreeze.
  Dr. Hassel took the final sweeping curve south of Vatan on screaming rubber, the car’s rear tires drifting through the loose roadside gravel before biting the asphalt. Fifty paces ahead, past the fanned pine logs and the creosoted railway sleepers of the French roadblock, three Willys jeeps sat half-concealed beneath the poplars, their pedestal-mounted .50-calibers tracking the radiator.
  Beside the road-mender’s stone hut, Sergeant Arthur Brown stood with his back to the road, his knees bent over the open chassis of the B2 wireless set balanced on an empty ammunition crate. His headphones were clamped tight over his wool cap, his right thumb resting flat on the Morse key. His eyes were glued to the dial of an olive-drab pocket watch propped against the crystal sockets.
@@ -1505,12 +1497,12 @@ Department of Indre
  "That," Michel said quietly, "was rather more persuasive than an administrative lecture, Tommy."
  Macpherson climbed into the passenger seat, sliding his Sten gun behind his shoulder.
  "The American air corps has its uses, Michel," Tommy said, looking down the long, dust-choked highway leading north toward the river. "Now comes the hard part. We have to walk twenty thousand armed enemies sixty miles through a country that wants to kill them, and bring them all to the bridge alive."
+
  Chapter Twenty-Eight
- ↑ Back to top
  The Agonizing Escort
  14 September 1944 — 14:15 Hours
-Departmental Road 765, between Romorantin and Mur-de-Sologne
-Heading north through the Sologne toward the Loire
+  Departmental Road 765, between Romorantin and Mur-de-Sologne
+  Heading north through the Sologne toward the Loire
  The dust did not dissipate; it hung between the pine trees like a curtain of yellow brimstone.
  Beneath that suffocating fog crawled an army in its death throes. Stretched twelve miles along the narrow departmental road, nineteen thousand, eight hundred and fifty-four men marched four abreast in three staggered tactical echelons. It was a massive, groaning serpent of iron, horseflesh, and gray wool, moving at barely two and a half miles an hour through the sweltering September heat.
  The sound of the march was an unending, low-frequency roar: the scuff and shuffle of eighty thousand worn boot soles grinding the asphalt into powder, the metallic rattle of iron tire rims on cracked roadbeds, the rhythmic clink of horse harness, and the deep, coughing backfire of two hundred wood-gas and alcohol-burning lorries struggling uphill on failing cylinders.
@@ -1572,12 +1564,12 @@ Heading north through the Sologne toward the Loire
  "Two seconds is a luxury, Sam," Macpherson replied, his voice completely steady as he climbed back onto the passenger seat of the Citroën.
  He checked his pocket watch. It was 14:48 hours.
  "Eighteen miles to the river," Macpherson said, looking down the endless, dust-choked corridor of the road. "Keep the jeeps in the intervals, Sam. If this column stops moving before we see the water of the Loire, we will never get them restarted."
+
  Chapter Twenty-Nine
- ↑ Back to top
  The Bridge at Beaugency
  16 September 1944 — 09:15 Hours
-Southern abutment, Pont de Beaugency
-Department of Loiret
+  Southern abutment, Pont de Beaugency
+  Department of Loiret
  The morning mist rising off the Loire had begun to burn away under a pale autumn sun, leaving the fractured limestone piers of the medieval bridge stark against the gray-green current. 
  Four arches of the ancient bridge lay collapsed into the shallows where demolition charges had dropped them in the summer, but the engineers of the American 83rd Infantry Division had bridged the western gap with a pontoon treadway, its heavy rubber pontoons tugging at their anchor cables in the swirling silt.
  Along the crushed limestone gravel of the southern quayside, a simple wooden trestle table requisitioned from the terrace of the Hôtel Saint-Étienne had been set facing the river approach. 
@@ -1631,12 +1623,12 @@ Department of Loiret
  "In thirty years of soldiering, Major," General Macon said quietly, "I have never seen anything like it. You pulled this division's flank out of an open grave."
  Macpherson looked past Macon's shoulder toward the southern approach road, where the dust of twenty thousand men was finally beginning to settle over the pastures.
  "The parley worked, General," Macpherson said, his gray eyes turning cold as he smoothed the pleats of his kilt. "Now comes the hard work. We have to disarm twenty thousand men before the French partisans decide they want their revenge."
+
  Chapter Thirty
- ↑ Back to top
  The Wall of Iron
  17 September 1944 — 11:00 Hours
-Pastures along the north bank of the Loire
-Beaugency sector, Department of Loiret
+  Pastures along the north bank of the Loire
+  Beaugency sector, Department of Loiret
  The sound was like an iron scrap yard being emptied into a dry quarry: a continuous, rhythmic clack-clang-shiver of polished steel and walnut stocks tumbling onto crushed stone.
  Across twenty acres of river pasture north of the pontoon treadway, American combat engineers had staked out four fenced processing lanes using barbed wire and wooden surveyor’s laths. Down each corridor shuffled a double file of gray uniforms—exhausted, unshaven men in field-gray, navy blue, and Luftwaffe wool, their eyes hollow with forty-eight hours of sleepless march.
  At the head of each lane stood a squad of American GIs from the 329th Infantry Regiment wearing heavy leather work gloves, flanked by idling two-and-a-half-ton GMC trucks.
@@ -1671,12 +1663,12 @@ Beaugency sector, Department of Loiret
  "They were cheated the day the Germans walked into Paris four years ago, Michel," Macpherson said, his voice flat and unyielding. "Regular armies make peace with signatures and holding pens. The Maquis have to live in the burned villages."
  He turned back to the Citroën, unbuttoning his holster to check the seating of the Colt.
  "The bridge is closed," Tommy said. "Let's go find out what London wants to do with Team Quinine."
+
  Chapter Thirty-One
- ↑ Back to top
  The Shadows of Beaugency
  18 September 1944 — 14:00 Hours
-The Quayside and Town Hall, Beaugency
-Department of Loiret
+  The Quayside and Town Hall, Beaugency
+  Department of Loiret
  The newsreel cameras arrived in two open Dodge command cars, their olive-drab bodywork stenciled with the bold white markings of the Supreme Headquarters Allied Expeditionary Force Public Relations Division.
  American army cameramen in clean khakis and pressed overseas caps were already setting up heavy, brass-geared Bell &amp; Howell 35-millimeter cameras on folding wooden tripods along the limestone levee. Flanking them, a dozen war correspondents from the London dailies, the American wire services, and the newly liberated Parisian press scrambled across the pontoon treadway, their field notebooks open, eager to witness the spectacle of twenty thousand German soldiers surrendering to a single American division.
  In front of the lenses stood Major General Robert C. Macon, his steel helmet strapped tight, flanked by First Lieutenant Sam Magill. 
@@ -1718,20 +1710,20 @@ Department of Loiret
  In the back of an abandoned railway freight wagon on the siding behind the depot, Arthur Brown had set up the Type B Mk II wireless transceiver for the eighty-fourth and final time.
  The glass valves cast their faint amber glow across the deal floorboards. Brown’s headphones were clamped over his ears, his fingers moving across the brass Morse key with the effortless, blistering speed of a master telegraphist.
  He tapped out the four-letter preamble, followed by the five-letter cipher groups that closed the ledger:
-QUININE TO BAKER STREET.
-MARSCHGRUPPE ELSTER DISARMED AND PROCESSED AT BEAUGENCY SECTOR.
-19,854 PERSONNEL IN ALLIED CUSTODY.
-AXIS ADVANCE AND WITHDRAWAL CORRIDORS PERMANENTLY INTERDICTED.
-NO CASUALTIES SUSTAINED BY MISSION.
-TEAM QUININE CEASING FIELD OPERATIONS THIS STATION.
+  QUININE TO BAKER STREET.
+  MARSCHGRUPPE ELSTER DISARMED AND PROCESSED AT BEAUGENCY SECTOR.
+  19,854 PERSONNEL IN ALLIED CUSTODY.
+  AXIS ADVANCE AND WITHDRAWAL CORRIDORS PERMANENTLY INTERDICTED.
+  NO CASUALTIES SUSTAINED BY MISSION.
+  TEAM QUININE CEASING FIELD OPERATIONS THIS STATION.
  Brown waited forty seconds.
  Through the static scoured by the evening thermals came the high, thin, rhythmic chirping of the home station in Oxfordshire:
-BAKER STREET TO QUININE.
-RECEIPT CONFIRMED.
-SHAEF AND WAR OFFICE CONVEY HIGHEST COMMENDATION TO ALL RANKS.
-MISSION TERMINATED.
-STAND DOWN AND REPORT TO RECEPTION BASE UPON ARRIVAL.
-OUT.
+  BAKER STREET TO QUININE.
+  RECEIPT CONFIRMED.
+  SHAEF AND WAR OFFICE CONVEY HIGHEST COMMENDATION TO ALL RANKS.
+  MISSION TERMINATED.
+  STAND DOWN AND REPORT TO RECEPTION BASE UPON ARRIVAL.
+  OUT.
  Arthur Brown reached out with his thumb and forefinger, took the ceramic crystal from its spring clips, and snapped the master knife-switch on the power pack. 
  The amber glow in the glass valves died.
  The signalman sat in the darkness of the boxcar for a long moment, listening to the quiet of the river flats outside. He unhooked the enameled aerial lead-in, rolled the seven-strand copper wire onto its wooden spool, nested the spare valves into their carded cotton beds, and swung the vulcanized-fiber lid shut.
@@ -1751,12 +1743,12 @@ OUT.
  Major Tommy Macpherson stood alone on the gravel levee of the Loire, the evening breeze off the river stirring the dark green and black pleats of the Cameron of Erracht kilt against his boots.
  Behind him lay three months of sabotage, burned bridges, derailed trains, and twenty thousand captured enemies. 
  Ahead lay London, a new briefing, and another mountain range.
+
  Chapter Thirty-Two
- ↑ Back to top
  The Sentence in Absentia
  7 March 1945 — 10:30 Hours
-The First Senate, Reich Military Court (Reichskriegsgericht)
-Fort Zinna, Torgau on the Elbe, Saxony
+  The First Senate, Reich Military Court (Reichskriegsgericht)
+  Fort Zinna, Torgau on the Elbe, Saxony
  The air in the casemate of Fort Zinna smelled of wet lime, coal dust, and old river damp. 
  Following the destruction of the court’s permanent complex on the Witzlebenstraße in Berlin by Allied air raids, the Reichskriegsgericht had evacuated south to the brick bastions of Torgau. Outside the barred embrasures, gray slush was breaking up along the banks of the Elbe under a cold, relentless sleet.
  Inside the vaulted stone hall, three judges in the field-gray service dress of the General Staff sat behind a pine trestle table draped in black wool. Mounted against the whitewashed brick behind them hung an iron Reich eagle, flanked by a framed portrait of Adolf Hitler.
@@ -1791,11 +1783,11 @@ Fort Zinna, Torgau on the Elbe, Saxony
  Across the American South, in the vast holding facilities from Mississippi to Arkansas, the nineteen thousand, eight hundred and fifty-four young sailors, clerks, and infantrymen of March Group South were eating white bread, writing letters to their mothers, and resting in the spring sunshine.
  In Fort Zinna, the judges of the Reich had condemned Elster to a firing squad for the crime of keeping nineteen thousand, eight hundred and fifty-four men alive.
  In Torgau, the regime that had passed the sentence had forty-nine days left before Soviet and American soldiers shook hands on the shattered bridge of the Elbe, barely a mile from the prison gates.
+
  Chapter Thirty-Three
- ↑ Back to top
  The Echoes of the Causse
  Spring 1945 – Post-War
-The Valleys of the Lot and the High Cantal
+  The Valleys of the Lot and the High Cantal
  The silence that returned to Route Nationale 20 was not the silence of peace; it was the hollow, echoing quiet of a graveyard scrubbed by mountain rain.
  Along the limestone bluffs north of Cahors, the pale dust that had choked the wild rosemary during the passage of Das Reich washed down into the gorges of the Lot and the Dordogne. At Passage à Niveau 142, south of Cressensac, where the counterweight of the level-crossing gate had dropped out of the sky to crush the Adler staff car, the splintered oak beam had been hauled into the nettles, replaced by a fresh pine spar painted in dull white lead. Railway maintenance crews from Brive had relaid the severed mainline rails, their pneumatic riveters hammering fresh fishplates into the creosoted ties, though along the ballast ditch, rusted fragments of German radiator steel still lay buried in the blackberry briars.
  Forty miles to the east, beneath the towering basalt crest of the Plomb du Cantal, the Le Lioran railway tunnel remained sealed for months. 
@@ -1805,7 +1797,7 @@ The Valleys of the Lot and the High Cantal
  De Gaulle refused the municipal plans to clear the rubble. By official decree of the Provisional Government, the settlement was declared a national martyr village—Village Martyr—ordered to remain forever untouched, preserved in perpetuity as an open wound of stone, rust, and ash.
  * * *
  Gemona del Friuli, Northeast Italy
-3 May 1945 — 14:00 Hours
+  3 May 1945 — 14:00 Hours
  For Tommy Macpherson, the war did not end on the banks of the Loire.
  When Team Quinine was officially stood down at Milton Hall in October 1944, the twenty-four-year-old major refused a staff appointment at the War Office. He was transferred immediately to the Special Operations Executive Italian Section. 
  In late November 1944, beneath an overcast alpine sky, Macpherson parachuted into the freezing valleys of the Friuli in northeast Italy to command the Allied military mission known as Operation Ferdinand—operating under the field code name Missione Eolo.
@@ -1867,20 +1859,20 @@ The Valleys of the Lot and the High Cantal
  Requisitioned into the motor pool of the American military government in Orléans, its stripped floorboards were fitted with replacement velour cushions, its heavy front-wheel-drive transaxle serviced with standard motor oil, and its scarred sheet metal painted over in drab army olive. 
  Yet for fifty years after the summer of 1944, in the hill parishes between Figeac, Murat, and the valleys of the Loire, elderly farmers would gather in village bistros to tell their children of the summer the roads went wild. 
  They spoke of the great gray serpent of Das Reich stalled in the defiles, of bridges falling into the water without an airplane in the sky, and of the ghost who had dropped through the clouds into the volcanic basalt: an officer of the King of England in eight yards of clan wool, who drove in broad daylight through the checkpoints, challenged an empire to battle, and made them die laughing.
+
  Chapter Thirty-Four
- ↑ Back to top
  Roll of Honor
  The Ledger of the Massif
  Irregular warfare is planned in the quiet, map-lined rooms of ministries, but it is executed in the dark by men without the protection of front lines, supply depots, or heavy artillery. 
  In the National Archives at Kew, filed under Special Operations Executive reference HS 6/553, rests the carbon-copied operational summary for Jedburgh Team QUININE. It is a dry, procedural document, bound with a rusted brass split-pin, detailing one hundred and two days of clandestine warfare across the Massif Central and the valley of the Loire between 9 June and 18 September 1944.
  The operational ledger records:
-Mainline railway demolitions executed: 34
-Motorized road convoys interdicted: 18
-Enemy rolling stock neutralized: 1 military train entombed (Le Lioran tunnel)
-Strategic delay imposed on 2nd SS Panzer Division Das Reich: 14 days
-Axis personnel surrendered at Beaugency: 19,854
-Hostages saved from summary execution along the Loire: 300+
-Friendly casualties sustained by Team QUININE: Nil
+  Mainline railway demolitions executed: 34
+  Motorized road convoys interdicted: 18
+  Enemy rolling stock neutralized: 1 military train entombed (Le Lioran tunnel)
+  Strategic delay imposed on 2nd SS Panzer Division Das Reich: 14 days
+  Axis personnel surrendered at Beaugency: 19,854
+  Hostages saved from summary execution along the Loire: 300+
+  Friendly casualties sustained by Team QUININE: Nil
  Behind those figures stands the human balance sheet of the campaign: the irregulars who took up arms in the chestnut woods, the soldiers who executed the bluff, and the civilian populations that bore the vengeance of an empire in retreat.
  * * *
  The Planners and Architects
