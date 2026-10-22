@@ -179,6 +179,7 @@ Military Prosecutor. German bureaucratic military accent, dry, clipped, relentle
 NARRATOR 
 Quinine 
 Jedburgh in the Massif Central, 1944
+
 Chapter One
 The Library at Milton Hall
 
@@ -897,6 +898,7 @@ I have no intention of running, Monsieur Chapou. <pause> And neither do you.
 
 
 
+NARRATOR
 Chapter Six
 The Mobilization of Das Reich
 
@@ -2535,6 +2537,7 @@ Our job is to make General Elster believe the hunter has teeth.
 
 
 
+NARRATOR
 Chapter Eighteen
 Macon’s Open Flank
 
