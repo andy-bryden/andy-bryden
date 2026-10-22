@@ -183,7 +183,7 @@ NARRATOR
 Tombola
 The Northern Apennines, 1944-45
 Chapter One
-THE ALEXANDER PROCLAMATION
+The Alexander Proclamation
 
 NARRATOR
 November 13, 1944. Monte Cusna, Northern Apennines.
@@ -269,7 +269,7 @@ Outside, the November wind howled over the bare rock of Cusna, driving the first
 
 NARRATOR
 Chapter Two
-CHESTNUT WINTER
+Chestnut Winter
 
 NARRATOR
 January 6, 1945. The Upper Secchia Valley.
@@ -376,7 +376,7 @@ Not in the rocks. Down in the valley.
 
 NARRATOR
 Chapter Three
-THE FLORENCE VETO
+The Florence Veto
 
 NARRATOR
 February 26, 1945. 15th Army Group Headquarters, Florence.
@@ -481,7 +481,7 @@ Farran turned on his polished boot-heels and walked out of the salon, his heels 
 
 NARRATOR
 Chapter Four
-THE JUMP AT ROSIGNANO
+The Jump at Rosignano
 
 NARRATOR
 March 4, 1945 – twenty-two thirty hours. Rosignano Airfield, Tuscany.
@@ -570,7 +570,7 @@ Farran slammed his snap-hook onto the overhead cable, didn't wait for the safety
 
 NARRATOR
 Chapter Five
-THE MEETING AT FEBBIO
+The Meeting at Febbio
 
 NARRATOR
 March 5, 1945 – zero-one fifteen hours. The Slopes Below Monte Cusna.
@@ -695,7 +695,7 @@ I didn't throw myself out of an aeroplane at four thousand feet to fight for not
 
 NARRATOR
 Chapter Six
-SPANISH VETERANS
+Spanish Veterans
 
 NARRATOR
 March 8, 1945 – zero-two fifteen hours. Drop Zone 'Cusna Plateau,' Altitude 5,800 Feet.
@@ -795,7 +795,7 @@ Take me to these Russians.
 
 NARRATOR
 Chapter Seven
-CAPTAIN PIROGOV'S RED STAR
+Captain Pirogov's Red Star
 
 NARRATOR
 March 12, 1945. The Gola delle Fontanacce, Below Monte Cusna.
@@ -916,7 +916,7 @@ Let them. Now we have a strike force. Tomorrow, we pick the throat we’re going
 
 NARRATOR
 Chapter Eight
-DESERTER'S MAP
+Deserter's Map
 
 NARRATOR
 March 18, 1945 – twenty-one hundred hours. Cellar Headquarters, Minozzo.
@@ -1024,7 +1024,7 @@ Give the prisoner some food and keep him under guard. Get your courier on the ro
 
 NARRATOR
 Chapter Nine
-BICYCLE SCOUT
+Bicycle Scout
 
 NARRATOR
 March 20, 1945 – zero-eight thirty hours. Road to Albinea, Foothills of Reggio Emilia.
@@ -1129,7 +1129,7 @@ We have sixty hours before the moon turns. Tell Kirkpatrick to grease his pipes.
 
 NARRATOR
 Chapter Ten
-THE PIPER'S DROP
+The Piper's Drop
 
 NARRATOR
 March 23, 1945 – twenty-three forty-five hours. Drop Zone 'Cusna Plateau,' Altitude 5,800 Feet.
@@ -1220,7 +1220,7 @@ Get him down to Febbio. We have one more message to send to Florence. Then we ma
 
 NARRATOR
 Chapter Eleven
-MUTINOUS CABLE
+Mutinous Cable
 
 NARRATOR
 March 24, 1945 – fourteen hundred hours. Safehouse Radio Room, Febbio.
@@ -1333,7 +1333,7 @@ Battalion! Fall in! Forty miles to the plains. March!
 
 NARRATOR
 Chapter Twelve
-THE 40-MILE MARCH
+The Forty-mile March
 
 NARRATOR
 March 25, 1945 – eighteen thirty hours. The Northern Slopes of the Apennines.
@@ -1422,7 +1422,7 @@ The wait began. Twelve hours of absolute stillness in the freezing Emilian mud, 
 
 NARRATOR
 Chapter Thirteen
-INFILTRATION AT BOTTEGHE
+Infiltration at Botteghe
 
 NARRATOR
 March 26, 1945 – twenty-two hundred hours. The Vineyards South of Botteghe d'Albinea.
@@ -1483,7 +1483,7 @@ Now, David! Blow!
 
 NARRATOR
 Chapter Fourteen
-HIGHLAND LADDIE
+Highland Laddie
 
 NARRATOR
 March 27, 1945 – zero-two hundred hours. The Lawn, Villa Rossi.
@@ -1528,7 +1528,7 @@ Right behind him, Farran and Lees leaped through the cloud of plaster dust, boot
 
 NARRATOR
 Chapter Fifteen
-ASSAULT ON VILLA ROSSI
+Assault on Villa Rossi
 
 NARRATOR
 March 27, 1945 – zero-two zero-five hours. Ground Floor, Villa Rossi.
@@ -1592,7 +1592,7 @@ Up on the dark landing, thirty feet above them, a German machine-gun barrel slid
 
 NARRATOR
 Chapter Sixteen
-THE FALL OF LEES AND RICCOMINI
+The Fall of Lees and Riccomini
 
 NARRATOR
 March 27, 1945 – zero-two twenty-five hours. The Grand Staircase, Villa Rossi.
@@ -1660,7 +1660,7 @@ Outside, Ramos hauled Lees out into the cold night air, dragging him across the 
 
 NARRATOR
 Chapter Seventeen
-VILLA CALVI
+Villa Calvi
 
 NARRATOR
 March 27, 1945 – zero-two ten to zero-two fifty hours. Villa Calvi and Botteghe Crossroads.
@@ -1749,7 +1749,7 @@ Fall back! Form the rearguard! To the hills!
 
 NARRATOR
 Chapter Eighteen
-RETREAT INTO THE FOOTHILLS
+Retreat into the Foothills
 
 NARRATOR
 March 27, 1945 – zero-three hundred to zero-six hundred hours. The Fields South of Botteghe d'Albinea.
@@ -1855,7 +1855,7 @@ He’s alive, Rafael. Now we have to keep him that way.
 
 NARRATOR
 Chapter Nineteen
-THE DEAD ON THE LAWN
+The Dead on the Lawn
 
 NARRATOR
 March 28, 1945 – zero-eight thirty hours. The Grounds of Villa Rossi, Botteghe d'Albinea.
@@ -1953,7 +1953,7 @@ David Kirkpatrick’s bagpipes had done their work. The people of Albinea were a
 
 NARRATOR
 Chapter Twenty
-FIRE AT CIVAGO
+Fire at Civago
 
 NARRATOR
 March 30, 1945 – eleven hundred hours. The Upper Secchia Valley, Civago.
@@ -2040,7 +2040,7 @@ Ramos and the partisans leaned into the cart, hauling the wooden wheels through 
 
 NARRATOR
 Chapter Twenty-One
-SURGERY BY GRAPPA
+Surgery by Grappa
 
 NARRATOR
 April 2, 1945 – twenty-one thirty hours. The Cellar at Case Balocchi, Altitude 3,600 Feet.
@@ -2156,7 +2156,7 @@ The US Fifth Army is on the other side, down in the Garfagnana. Eight men. A woo
 
 NARRATOR
 Chapter Twenty-Two
-THE 6,000-FOOT LITTER
+The Six-thousand-foot Litter
 
 NARRATOR
 April 5, 1945 – zero-four thirty hours. The High Ridges of Monte Cusna, Altitude 5,900 Feet.
@@ -2253,7 +2253,7 @@ From the other side of the world, Sergeant. From the other side of the world.
 
 NARRATOR
 Chapter Twenty-Three
-MOLTO STANCO
+Molto Stanco
 
 NARRATOR
 Night of April 8/9, 1945 – twenty-three thirty hours. Drop Zone 'Secchia Meadow,' Below Monte Valestra.
@@ -2326,7 +2326,7 @@ Across the valley, the high peak of Monte Valestra was silhouetted by the first 
 
 NARRATOR
 Chapter Twenty-Four
-THE BATTLE OF MONTE VALESTRA
+The Battle of Monte Valestra
 
 NARRATOR
 April 10, 1945 – zero-six forty-five hours. The Crest of Monte Valestra, Altitude 4,300 Feet.
@@ -2420,7 +2420,7 @@ Pack the gun. The Germans are running for the Po. We are going down to Highway 1
 
 NARRATOR
 Chapter Twenty-Five
-THE THROAT OF HIGHWAY 12
+The Throat of Highway Twelve
 
 NARRATOR
 April 14, 1945 – eleven thirty hours. The Bluffs Overlooking Strada Statale 12, South of Pavullo nel Frignano.
@@ -2502,7 +2502,7 @@ Balerdi! Ramos! Mount the Jeeps! We’re heading down to the river crossings. Do
 
 NARRATOR
 Chapter Twenty-Six
-RIVER AMBUSH
+River Ambush
 
 NARRATOR
 April 18, 1945 – fifteen hundred hours. Secchia River Crossing, South of Sassuolo.
@@ -2579,7 +2579,7 @@ Then we beat them to Torre Maino.
 
 NARRATOR
 Chapter Twenty-Seven
-THE DEATH OF JUSTO BALERDI
+The Death of Justo Balerdi
 
 NARRATOR
 April 21, 1945 – zero-seven fifteen hours. Road Junction North of Torre Maino.
@@ -2679,7 +2679,7 @@ By midday, under the cover of the poplar groves, the commandos carried their com
 
 NARRATOR
 Chapter Twenty-Eight
-ARTILLERY BLUFF AT REGGIO
+Artillery Bluff at Reggio
 
 NARRATOR
 April 21, 1945 – fourteen hundred hours. Southern Outskirts of Reggio Emilia, Buco del Signore.
@@ -2746,7 +2746,7 @@ Reggio Emilia’s defense had collapsed—ignited not by a division of heavy tan
 
 NARRATOR
 Chapter Twenty-Nine
-LINK-UP
+Link-up
 
 NARRATOR
 April 24, 1945 – zero-nine thirty hours. The Via Emilia, Highway 9, East of Reggio Emilia.
@@ -2816,7 +2816,7 @@ Now, the reckoning was about to begin.
 
 NARRATOR
 Chapter Thirty
-SURRENDER OF THE ARMS
+Surrender of the Arms
 
 NARRATOR
 April 28, 1945 – eleven hundred hours. Piazza Prampolini, Reggio Emilia.
@@ -2909,7 +2909,7 @@ And across the square, a British military police sergeant in a red cap was march
 
 NARRATOR
 Chapter Thirty-One
-YALTA BETRAYAL
+Yalta Betrayal
 
 NARRATOR
 May 12, 1945 – zero-six hundred hours. The Docks of Taranto, Southern Italy.
@@ -3023,7 +3023,7 @@ The train whistled once—a long, mournful shriek across the ruins of Odessa—a
 
 NARRATOR
 Chapter Thirty-Two
-BUREAUCRATIC RECKONING
+Bureaucratic Reckoning
 
 NARRATOR
 July 1945. Allied Headquarters, Florence.
@@ -3130,7 +3130,7 @@ Outside, the Somerset rain fell steadily onto the dead grass, while four hundred
 
 NARRATOR
 Chapter Thirty-Three
-EPILOGUE OF THE APENNINES
+Epilogue of the Apennines
 
 NARRATOR
 Autumn 1946 – Post-War. The Colliery at Girvan, Ayrshire, Scotland.

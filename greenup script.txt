@@ -138,7 +138,7 @@ NARRATOR
 Greenup
 OSS agents in the Tyrol, 1945
 Chapter One
-THE FILE FROM CINECITTA
+The File from Cinecittà
 
 NARRATOR
 The villa on the outskirts of Bari smelled of damp limestone, stale Adriatic brine, and cigarette smoke.
@@ -265,7 +265,7 @@ Get the jeep. We're going to Rome.
 
 NARRATOR
 Chapter Two
-DESERTER OF OBERPERFUSS
+Deserter of Oberperfuss
 
 NARRATOR
 The sound stage smelled of unwashed wool, damp straw, and carbolic soap.
@@ -418,7 +418,7 @@ If you can jump into nine feet of powder without breaking your necks, I can get 
 
 NARRATOR
 Chapter Three
-THE BROOKLYN GRID
+The Brooklyn Grid
 
 NARRATOR
 The staging house in Brindisi was a requisitioned stone villa surrounded by olive groves that rattled in the damp sea wind.
@@ -537,7 +537,7 @@ Get your kit stowed, Hans. We're going to Flatbush.
 
 NARRATOR
 Chapter Four
-THE JOE HOLE AT MIDNIGHT
+The Joe Hole at Midnight
 
 NARRATOR
 The stripped-down B-24 Liberator had no gun turrets, no armor plating, and no interior heating. Its outer skin was painted dead matte black.
@@ -585,7 +585,7 @@ The blast of four propellers hammered his ribs, spinning him blind into the free
 
 NARRATOR
 Chapter Five
-CREVASSE ON THE GLACIER
+Crevasse on the Glacier
 
 NARRATOR
 The canopy cracked open, snapping Mayer’s head back against the nylon risers with the force of a hammer blow.
@@ -656,7 +656,7 @@ One agonizing, lung-searing stride at a time, their boots soaked and numb, their
 
 NARRATOR
 Chapter Six
-HORN-SLED TO LÄNGENFELD
+Horn-sled to Längenfeld
 
 NARRATOR
 The timber walls of the Amberger Hütte emerged from the gray predawn gloom like a stranded barge in an ocean of snow.
@@ -718,7 +718,7 @@ Pick up the radio case. Act like you've been riding this route your whole life.
 
 NARRATOR
 Chapter Seven
-INSPECTION AT TELFS
+Inspection at Telfs
 
 NARRATOR
 The post-bus dropped them at Ötztal-Bahnhof under a slate-gray afternoon sky.
@@ -789,7 +789,7 @@ Lead the way, Franz.
 
 NARRATOR
 Chapter Eight
-THE HAYLOFT AT SCHATZ FARM
+The Hayloft at Schatz Farm
 
 NARRATOR
 The farmhouse sat on a rise above Oberperfuss, its heavy wooden eaves banked with snow.
@@ -886,7 +886,7 @@ Ten minutes later, guided by Abenthung through the shadows of the orchard, Hans 
 
 NARRATOR
 Chapter Nine
-FROZEN CLOTHESLINE
+Frozen Clothesline
 
 NARRATOR
 Dawn brought an iron frost that turned the mud in the farmyards hard as concrete.
@@ -948,7 +948,7 @@ Good. Now I need a uniform.
 
 NARRATOR
 Chapter Ten
-THE SEAMSTRESS OF OBERPERFUSS
+The Seamstress of Oberperfuss
 
 NARRATOR
 Luise came back up the mountain road on the evening bus from Innsbruck, carrying her nurse’s tin lunch canister inside a straw basket.
@@ -1003,7 +1003,7 @@ I'm catching the first bus down.
 
 NARRATOR
 Chapter Eleven
-THE FOOTBRIDGE AT EBBETS FIELD
+The Footbridge at Ebbets Field
 
 NARRATOR
 In Oberperfuss, Anna Niederkircher—the sharp-eyed, fiercely anti-Nazi landlady of the Gasthof Zur Krone and mother of Franz Weber’s fiancée, Anni—quietly arranged the urban logistics for Mayer’s entry into Innsbruck.
@@ -1068,7 +1068,7 @@ He walked out into the blackout cold, heading directly to the apartment on Anich
 
 NARRATOR
 Chapter Twelve
-THUNDER OVER THE BRENNER
+Thunder over the Brenner
 
 NARRATOR
 The slip of onionskin paper reached Oberperfuss inside Luise’s woolen sock.
@@ -1100,7 +1100,7 @@ The officer’s coat had done its job. If he wore it another twelve hours, it wo
 
 NARRATOR
 Chapter Thirteen
-JEAN MARCEL
+Jean Marcel
 
 NARRATOR
 In the kitchen stove at Anichstraße 19, the Wehrmacht officer's uniform went into the fire. The coarse gray wool smoldered with a thick, greasy stench before the draft caught it, roaring into white ash.
@@ -1186,7 +1186,7 @@ He shuffled through the sandbag gap, keeping his eyes on the cobblestones, headi
 
 NARRATOR
 Chapter Fourteen
-STOLLEN Four
+Stollen Four
 
 NARRATOR
 The tunnel mouth at Kematen had been blasted directly into the sheer limestone base of the mountain, shielded from aerial photography by heavy camouflage netting and evergreen boughs.
@@ -1239,7 +1239,7 @@ Bari received it without a repeat request. Across Italy, the strategic calculato
 
 NARRATOR
 Chapter Fifteen
-THE REDOUBT THAT NEVER WAS
+The Redoubt that Never was
 
 NARRATOR
 In mid-April, the snow began to pull back from the lower slopes, leaving the meadows black and greasy with meltwater.
@@ -1291,7 +1291,7 @@ Two days later, the report was on the desk of General William J. Donovan in Wash
 
 NARRATOR
 Chapter Sixteen
-SAFEHOUSE AT RUM
+Safehouse at Rum
 
 NARRATOR
 The safehouse was a shuttered hunting lodge above Rum, nestled against the foot of the Nordkette where the pine forest met the upper pastures.
@@ -1367,7 +1367,7 @@ Stay in touch through Moser's shop. When the time comes, don't miss.
 
 NARRATOR
 Chapter Seventeen
-RAID ON ANICHSTRASSE
+Raid on Anichstraße
 
 NARRATOR
 On the morning of April 18, Robert Moser did not open his radio shop on the Leopoldstraße.
@@ -1404,7 +1404,7 @@ Down on the street, Mayer and Eva were thrown into the rear of a black Gestapo v
 
 NARRATOR
 Chapter Eighteen
-THE WATER TUB IN HERRENGASSE
+The Water Tub in Herrengasse
 
 NARRATOR
 The basement of Herrengasse 1 was cold, damp, and smelled of wet lime, carbolic acid, and sewage.
@@ -1478,7 +1478,7 @@ Realizing they were holding a high-value American operative rather than an ordin
 
 NARRATOR
 Chapter Nineteen
-GALLOWS WARNING
+Gallows Warning
 
 NARRATOR
 They dragged him up the narrow basement stairs by his armpits, his boots leaving wet streaks on the stone risers.
@@ -1571,7 +1571,7 @@ Good decision, Herr Kriminalrat. You might live to see forty-six.
 
 NARRATOR
 Chapter Twenty
-WE ARE NOT LEAVING
+We are not Leaving
 
 NARRATOR
 The mountain rain came down in gray sheets, turning the dirt tracks of Oberperfuss into ruts of black mud.
@@ -1646,7 +1646,7 @@ They were still alive.
 
 NARRATOR
 Chapter Twenty-One
-THE MATULL BLUFF
+The Matull Bluff
 
 NARRATOR
 In the second-floor administrative wing of Herrengasse 1, Gestapo Kriminalrat Werner Hilliges held a fresh five-by-seven photograph under the green glass shade of his desk lamp.
@@ -1739,7 +1739,7 @@ Gauleiter Franz Hofer. His car is waiting in the courtyard.
 
 NARRATOR
 Chapter Twenty-Two
-DINNER AT GUT LACHHOF
+Dinner at Gut Lachhof
 
 NARRATOR
 The black Mercedes-Benz 770 rolled east along the south bank of the Inn, its blue blackout headlamps cutting narrow slits in the fog.
@@ -1826,7 +1826,7 @@ Draft the proclamation, Hofer. You sign it tonight, or I walk out that gate and 
 
 NARRATOR
 Chapter Twenty-Three
-THE OPEN CITY DECREE
+The Open City Decree
 
 NARRATOR
 At zero-six hundred on the morning of May 2, the Telefunken cabinet radio in the study of Gut Lachhof hissed through three bars of funeral music from Wagner’s Götterdämmerung.
@@ -1883,7 +1883,7 @@ The decree is signed. Hofer has stood down. Take the Landhaus.
 
 NARRATOR
 Chapter Twenty-Four
-SEIZING THE LANDHAUS
+Seizing the Landhaus
 
 NARRATOR
 Rain slicked the stone flags of the Landhausplatz in central Innsbruck.
@@ -1971,7 +1971,7 @@ They're at Zirl! A full combat command of the 103rd Infantry Division. Tanks, ha
 
 NARRATOR
 Chapter Twenty-Five
-THE WHITE BED-SHEET AT ZIRL
+The White Bed-sheet at Zirl
 
 NARRATOR
 At zero-five thirty on May 3, a gray Mercedes staff car tore west down the Inn Valley highway toward Zirl.
@@ -2058,7 +2058,7 @@ Hofer offered no resistance. He held out his wrists, his eyes lingering on Mayer
 
 NARRATOR
 Chapter Twenty-Six
-ON THE PORCH AT OBERPERFUSS
+On the Porch at Oberperfuss
 
 NARRATOR
 The mountain thaw came fast in the second week of May, turning the slopes above Oberperfuss into carpets of green rye and dandelions.

@@ -139,7 +139,7 @@ NARRATOR
 Gunnerside
 The heavy water sabotage, Norway, 1943
 Chapter One
-THE STEAMER FROM TELEMARK
+The Steamer from Telemark
 
 NARRATOR
 Orchard Court, London. 19 March 1942.
@@ -297,7 +297,7 @@ You are going home to your brother's cabin. You will set up a transmitter in the
 
 NARRATOR
 Chapter Two
-BLUEPRINTS OF JOMAR BRUN
+Blueprints of Jomar Brun
 
 NARRATOR
 Orchard Court, London. June 1942.
@@ -418,7 +418,7 @@ I have four men in Kompani Linge. Poulsson, Kjelstrup, Haugland, and Helberg. Tw
 
 NARRATOR
 Chapter Three
-Four FROM KOMPANI LINGE
+Four from Kompani Linge
 
 NARRATOR
 STS 61, Audley End House, Essex. Early October 1942.
@@ -517,7 +517,7 @@ We will have the flares lit on the ice, Captain. Tell the gliders to follow the 
 
 NARRATOR
 Chapter Four
-DROPPED IN THE BLIND
+Dropped in the Blind
 
 NARRATOR
 Fjærefit, Songadalen. Zero-one thirty, 19 October 1942.
@@ -620,7 +620,7 @@ Then we’d better start pulling.
 
 NARRATOR
 Chapter Five
-BOULDERS OF SONGADALEN
+Boulcers of Songadalen
 
 NARRATOR
 Southern Hardangervidda. 4 November 1942.
@@ -698,7 +698,7 @@ The four men leaned into their harnesses. The damaged runner groaned, scraped ag
 
 NARRATOR
 Chapter Six
-THE FLARE PATH AT SKOLAND
+The Flare Path at Skoland
 
 NARRATOR
 Skoland, Lake Møsvatn. Twenty-two forty-five, 19 November 1942.
@@ -803,7 +803,7 @@ Put out the flares. Put them out before the Germans see the smoke.
 
 NARRATOR
 Chapter Seven
-THE MOUNTAIN AT HÆSTAD
+The Mountain at Hæstad
 
 NARRATOR
 Sandvatn Hut, Hardangervidda. Zero-six hundred, 20 November 1942.
@@ -949,7 +949,7 @@ Poulsson, Kjelstrup, Helberg, and Skinnarland crowded around the small table, wa
 
 NARRATOR
 Chapter Eight
-CIPHER OF DEATH
+Cipher of Death
 
 NARRATOR
 Sandvatn Hut, Hardangervidda. 22 November 1942.
@@ -1034,7 +1034,7 @@ UNDERSTOOD. SWALLOW WILL REMAIN.
 
 NARRATOR
 Chapter Nine
-THE REINDEER STOMACH
+The Reindeer Stomach
 
 NARRATOR
 Svensbu Hut, Hardangervidda. 18 December 1942.
@@ -1148,7 +1148,7 @@ They have to drop in January. We can hold out on reindeer moss for another four 
 
 NARRATOR
 Chapter Ten
-MOCK-UP AT ARISAIG
+Mock-up at Arisaig
 
 NARRATOR
 STS 17, Arisaig, Scottish Highlands. 6 January 1943.
@@ -1281,123 +1281,7 @@ The men pulled the black silk down over their eyes. The barn plunged into silenc
 
 NARRATOR
 Chapter Eleven
-BATTERY ON THE ICE
-
-NARRATOR
-Svensbu, Hardangervidda. 15 January 1943.
-The hydrometer floated limp in the glass cylinder, refusing to rise.
-Knut Haugland wiped a crust of frost from the glass with his knuckle. The red indicator bead remained sunken at the bottom of the sulfuric acid. Specific gravity—1.120. In thirty degrees of frost, an accumulator with an electrolyte that weak did not produce twelve volts; it produced ice.
-
-HAUGLAND
-(hoarse, rattling cough)
-It’s freezing inside the casings. The lead plates will buckle. If the paste drops out of the grids, the cell shorts out, and we are deaf and dumb until spring.
-
-NARRATOR
-The heavy six-volt car battery—smuggled up from the Møsvatn dam workshops by Torstein Skinnarland wrapped in a sacking sack—sat on a flat stone right against the embers of the hearth. Arne Kjelstrup was on his knees with the iron bellows, feeding dry mountain-willow roots to the embers to keep the air around the battery casing just above freezing.
-On the other side of the dirt floor, bolted to a heavy pine log that Poulsson and Helberg held down with their boots, sat the hand-driven generator.
-
-POULSSON
-How many ampere-hours do we need to clear traffic?
-
-HAUGLAND
-Six. Six ampere-hours gives the valves four minutes of plate voltage at full power. That is two minutes to establish contact with Grendon Underwood, one minute to send the weather cypher, and sixty seconds to copy the reply.
-
-KJELSTRUP
-Then we turn the crank. Claus. Take the left handle.
-
-NARRATOR
-The hand generator was a British army Mark II dynamo, known universally in the field as the 'coffee grinder.' It had two opposing iron crank handles designed to be turned by two men working in tandem at eighty revolutions per minute.
-Helberg took the north handle; Kjelstrup took the south.
-
-POULSSON
-Go.
-
-NARRATOR
-The two sergeants threw their weight into the cranks. The internal reduction gears began to whine, a high-pitched, metallic shriek that filled the cramped hut. Inside the heavy iron casing, the armature spun between the field coils, biting into the magnetic resistance.
-Within two minutes, the sound of their breathing filled the room—harsh, ragged gasps. The physical strain of turning a geared dynamo against a dead lead-acid load at minus twenty-five was equivalent to chopping frozen oak with a dull axe. Sweat broke out on Helberg’s forehead, freezing into beads of rime along his eyebrows.
-
-HAUGLAND
-(eyes glued to ammeter)
-Keep the cadence. Seventy-eight RPM. You’re dropping. Two point one amps... two point four... hold it there!
-
-KJELSTRUP
-(grunted through clenched teeth)
-The right crank is slipping. The grease has turned to tar.
-
-HAUGLAND
-(shouting)
-Don't stop! If you drop below seventy RPM, the back-EMF from the battery trips the cut-out relay! You lose the charge!
-
-NARRATOR
-For twenty minutes, the rhythmic whir-clack-whir-clack of the dynamo went on without pause. When Kjelstrup’s grip gave out, his palms blistered and raw from the bare iron handles, Poulsson stepped in without losing a beat, grabbing the spinning grip as Kjelstrup rolled clear.
-At thirty minutes, a sharp smell of boiling acid—sulfur and ozone—drifted from the battery on the hearth.
-
-POULSSON
-(gasping)
-Voltmeter!
-
-NARRATOR
-Haugland touched the test leads to the lead posts. The needle kicked, hovered, and climbed over the red line, settling at eleven point eight volts.
-
-HAUGLAND
-Break!
-
-NARRATOR
-Poulsson and Helberg let go of the handles. Both men slumped against the stone wall, chest-heaving, their hands dangling between their knees, shaking uncontrollably from lactic acid and bitter cold.
-Haugland didn't lose five seconds. He lifted the warm accumulator off the hearth stone and placed it beside the green metal case of the Type 3 Mark II wireless. He connected the spade terminals.
-He clicked the primary toggle. The tiny filament indicator bulb inside the transmitter flared into a dull, amber life. The glass valves began to warm, driving the condensation off their internal grids.
-
-HAUGLAND
-Schedule is nineteen hundred. Two minutes to window.
-
-NARRATOR
-Helberg pulled his greaseproof notebook from his smock.
-
-HELBERG
-Read the surface report, Jens.
-
-POULSSON
-Visibility—fifteen kilometers. Wind—north-northwest at six knots, dropping. Cloud cover—two-tenths, base at four thousand feet. Lake Skryken ice—seventy centimeters, hard wind-scoured crust, no drifts over eighteen inches. Ideal for parachute insertion.
-
-NARRATOR
-Haugland nodded. He opened his one-time pad. The cipher was already encoded into groups of five letters, memorized to save precious seconds of transmission time.
-He watched the second hand hit the twelve.
-His index finger settled onto the cold brass key. With a light, fluid touch that belied his blackened, frost-bitten knuckles, he began to tap.
-Dit-dit-dah-dit... dit-dah...
-The frequency was 3,840 kilocycles. Across the North Sea, at the SOE receiving station in Grendon Underwood, Buckinghamshire, a British WRNS operator sat with headphones clamped to her ears, hunting for the faint, fragile carrier wave of a six-watt transmitter buried in the snows of southern Norway.
-Haugland sent the callsign three times—SWL - SWL - SWL.
-Silence. The headphones hissed with the vast, static crackle of the aurora borealis dancing across the polar sky.
-Haugland tapped the key again—SWL V HME K. Swallow from Home Station, go ahead.
-A response cracked in the earpieces—faint, thin, like the scratching of a needle on slate, but unmistakable—
-HME V SWL... QRK 3... GA... Receiving you strength three. Go ahead.
-
-HAUGLAND
-(whispering)
-They have us.
-
-NARRATOR
-His finger danced on the key. The cipher clattered into the air—
-TO TRONSTAD FROM SWALLOW.
-WEATHER HARDANGERVIDDA EXCELLENT. BAROMETER RISING. ICE ON LAKE SKRYKEN INSPECTED AND SOLID. DROP ZOne CLEAR OF GERMAN PATROLS.
-RECOMMEND IMMEDIATE INSERTION GUNNERSIDE FIRST MOON PERIOD.
-AWAITING DROP.
-He threw the knife-switch to receive.
-The transmitter valves hummed. The voltage on the car battery began to sag, the indicator needle trembling down toward ten volts as the cold of the room reasserted itself.
-Then the key at Grendon Underwood clicked back. Five letters. Then five more.
-Haugland scribbled the decoded letters directly onto the wooden bench top—
-MESSAGE RECEIVED. HALIFAX NO. 138 SQUADRON ALERTED TEMPSFORD. GUNNERSIDE DEPARTS NIGHT Twenty-Three JANUARY. MAINTAIN WATCH.
-The signal cut off. The filament in the transmitter flickered, turned dull orange, and died as the accumulator gave up its last reserve of power.
-Haugland pulled off the headphones and looked up. In the dim, smoky light of the turf hut, Poulsson, Kjelstrup, and Helberg were watching him.
-
-HAUGLAND
-Twenty-third of January. Eight days.
-
-NARRATOR
-Poulsson reached for his ski wax and the iron scraper on the bench.
-
-POULSSON
-Eight days to ski across to Lake Skryken. Get the packs ready. We meet them on the ice.Chapter Eleven
-BATTERY ON THE ICE
+Battery on the Ice
 
 NARRATOR
 Svensbu, Hardangervidda. 15 January 1943.
@@ -1519,7 +1403,7 @@ Eight days to ski across to Lake Skryken. Get the packs ready. We meet them on t
 
 NARRATOR
 Chapter Twelve
-ABORTED FLIGHT
+Aborted Flight
 
 NARRATOR
 RAF Tempsford and Skies over Southern Norway. 23–24 January 1943.
@@ -1608,7 +1492,7 @@ Three weeks. The February moon. Swallow will have to survive on that plateau unt
 
 NARRATOR
 Chapter Thirteen
-CYANIDE AND SILK
+Cyanide and Silk
 
 NARRATOR
 SOE Holding House, Gaynes Hall, Cambridgeshire. 10 February 1943.
@@ -1703,7 +1587,7 @@ Tell Tempsford to fuel the aircraft. We drop on the sixteenth.
 
 NARRATOR
 Chapter Fourteen
-THE DROP ON LAKE SKRYKEN
+The Drop on Lake Skryken
 
 NARRATOR
 Lake Skryken, Hardangervidda. Twenty-three fifty-five, 16 February 1943.
@@ -1798,7 +1682,7 @@ Outside, the full fury of the Arctic gale struck the roof with the roar of an ex
 
 NARRATOR
 Chapter Fifteen
-ENTOMBMENT
+Entombment
 
 NARRATOR
 Jansbu Hut, Lake Skryken. 19 February 1943.
@@ -1904,7 +1788,7 @@ Get the pulks up. The weather has broken. We ski for Swallow.
 
 NARRATOR
 Chapter Sixteen
-MEETING OF THE GHOSTS
+Meeting of the Ghosts
 
 NARRATOR
 Sandvatn Hut, Hardangervidda. Sixteen hundred, 23 February 1943.
@@ -2023,7 +1907,7 @@ The bridge is impassable. If you try to cross that plank, you will die before yo
 
 NARRATOR
 Chapter Seventeen
-THE BRIDGE IS OUT
+The Bridge is Out
 
 NARRATOR
 Sandvatn Hut, Hardangervidda. 24–26 February 1943.
@@ -2140,85 +2024,7 @@ Tomorrow night. Saturday, the twenty-seventh of February. We ski to the advance 
 
 NARRATOR
 Chapter Eighteen
-STRIPPED FOR ACTION AT FJØSBUDALEN
-
-NARRATOR
-Fjøsbudalen Cabin. Nineteen thirty, 27 February 1943.
-The cabin was little more than a hunter's shack perched on the mountain shelf high above the Vestfjord valley, four miles northwest of the plant. Inside, nine men moved with the quiet, ritualized efficiency of men preparing for an execution or their own funerals.
-On the pine bunks lay the discarded equipment of survival—heavy canvas pulks, sleeping bags, spare sweaters, emergency rations, and cooking pots. Everything non-essential to killing and demolition was stripped away.
-Each man was cutting his load down to fighting weight—weapons, ammunition, knives, toggle ropes, and high explosives.
-Arne Kjelstrup sat on an overturned firewood crate, working the jaws of a thirty-inch industrial bolt-cutter. He tested the tempered steel blades against a strand of heavy fence wire. With a dry, brittle snip, the steel snapped cleanly and fell to the floorboards.
-
-KJELSTRUP
-(wiping pivot)
-Blades are true. It will go through a German padlock like butter.
-
-NARRATOR
-Beside him, Birger Strømsheim and Kasper Idland packed the demolition charges into two canvas haversacks. Eighteen shaped charges of Nobel 808, each encased in yellow oilcloth, each pre-fitted with a brass detonator tube. Strømsheim coiled forty feet of red instantaneous cordtex between the packs, wrapping the explosive cord in greasy butcher's paper to protect it from moisture.
-Joachim Rønneberg stood by the cabin’s single oil lamp, checking the chamber of his Colt .45 automatic. He slapped the seven-round magazine into the butt, racked the slide to chamber a round, and thumbed the safety catch down.
-
-RONNEBERG
-(quiet)
-Check your uniforms.
-
-NARRATOR
-The nine men unbuttoned the collars of their thin white windproof smocks. Beneath the white camouflage, every man wore standard British Army battle dress—heavy khaki wool with the red-and-blue NORWAY slip-ons on the shoulders and British rank chevrons sewn to the sleeves. On their heads they wore dark British wool commando caps or berets tucked beneath white hoods.
-
-RONNEBERG
-If you are cut off and forced to fight in the open, you strip off your white smocks immediately. Let the Germans see the khaki. Let them see British infantry insignia. If a single German officer suspects this was done by locals, the Gestapo will burn Rjukan to the ground before morning.
-
-NARRATOR
-He looked at Fredrik Kayser, who was wrapping a British-issue Thompson submachine gun in dry canvas.
-
-RONNEBERG
-The sacrificial gun, Fredrik?
-
-KAYSER
-(holding up Thompson)
-Here. One thirty-round box magazine loaded. Clean receiver. No serial numbers filed off. The Germans will find it lying right across the main drain.
-
-NARRATOR
-Knut Haukelid stepped to the center of the cabin. His white smock was belted tightly with British webbing, holding four thirty-round magazines for his own Thompson, two Mills No. 36 grenades, and a Fairbairn-Sykes fighting knife sheathed along his left thigh.
-
-HAUKELID
-The Covering Party. Let us review the assignments. The moment Kjelstrup cuts the railway gate, we move into the factory yard. Poulsson and Kjelstrup take the high ground along the railway embankment, covering the German barracks. Helberg and Storhaug cover the suspension bridge from sixty yards out behind the transformer blast walls. I take the main railway line to intercept any foot patrol from the guardhouse.
-
-RONNEBERG
-Under what conditions do you fire, Knut?
-
-HAUKELID
-Only under two. One—if the demolition team is discovered and attacked inside the plant. Two—if the explosion goes off and the German garrison tries to cross the yard to cut off your withdrawal. Otherwise, we do not shoot. Even if a German sentry walks within five paces of our barrels, we let him pass or we take him with the knife.
-
-RONNEBERG
-The noise of the turbines is our cover. Use it. If a single shot is fired before the charges are primed, the entire garrison will be on the rail spur within ninety seconds.
-
-NARRATOR
-He paused, his gaze moving across each of the eight men.
-
-RONNEBERG
-(clinical, cold, steady)
-One final matter. The retreat. If a man takes a bullet in the leg, we haul him up the ravine if we have the strength. If we are pursued and the Covering Party is broken, every man is on his own. You have your L-tablets. No man is to be taken alive. There are no exceptions. If you are cornered and out of ammunition, you take the pill. If you are incapacitated and cannot swallow, the man nearest to you is under operational orders to put a bullet through your head. We all know what happened to the men of Freshman. None of us will undergo what they endured in the cellar at Stavanger.
-
-POULSSON
-(grim)
-Understood, Lieutenant.
-
-RONNEBERG
-Synchronize watches.
-
-NARRATOR
-The nine men checked their wrist dials against Rønneberg’s sweep hand.
-
-RONNEBERG
-Nineteen forty-five. We have four miles of skiing through the birch woods to reach the road above the gorge. We leave our skis in the timber at the highway level. At midnight, we drop down the cliff.
-
-NARRATOR
-Strømsheim shouldered the first pack of Nobel 808. Idland took the second. Kjelstrup took the heavy bolt-cutters, slinging them by a leather strap across his back.
-Rønneberg turned down the wick of the oil lamp.
-The flame curled, sputtered, and died, plunging the cabin into blackness.
-A moment later, the pine door swung outward into the sub-zero night. The nine commandos stepped out into the crisp, hard-packed snow. Above them, the stars were sharp and cold, wheeling over the black silhouette of Mount Gausta. Below, hidden in the pitch-black slit of the gorge three miles to the south, lay the faint, humming presence of Vemork.
-They clicked their boot toes into their ski bindings, threw their weight onto their poles, and glided silently down through the dwarf birch into the dark.Chapter Eighteen
-STRIPPED FOR ACTION AT FJØSBUDALEN
+Stripped for Action at Fjøsbudalen
 
 NARRATOR
 Fjøsbudalen Cabin. Nineteen thirty, 27 February 1943.
@@ -2302,7 +2108,7 @@ They clicked their boot toes into their ski bindings, threw their weight onto th
 
 NARRATOR
 Chapter Nineteen
-THE 600-FOOT FALL
+The Six-hundred-foot Fall
 
 NARRATOR
 Southern Rim of the Måna Ravine. Twenty-two fifteen, 27 February 1943.
@@ -2393,7 +2199,7 @@ We cross the water. Then we climb.
 
 NARRATOR
 Chapter Twenty
-THE RIVER AND THE ROCK WALL
+The River and the Rock Wall
 
 NARRATOR
 Floor of the Måna Ravine. Twenty-three thirty-five, 27 February 1943.
@@ -2475,7 +2281,7 @@ Let’s cut the gate.
 
 NARRATOR
 Chapter Twenty-One
-THE SNAPPED CHAIN
+The Snapped Chain
 
 NARRATOR
 Vemork Perimeter, Industrial Railway Spur. Zero-zero thirty-five, 28 February 1943.
@@ -2561,7 +2367,7 @@ He dropped flat onto the frozen ballast stone, reached his arms forward into the
 
 NARRATOR
 Chapter Twenty-Two
-JOHANSEN'S SPECTACLES
+Johansen's Spectacles
 
 NARRATOR
 High-Concentration Plant, Vassstoffabrikken Basement. Zero-zero forty-five, 28 February 1943.
@@ -2673,7 +2479,7 @@ It was time to set the fuses.
 
 NARRATOR
 Chapter Twenty-Three
-Two MINUTES OF FUSE
+Two Minutes of Fuse
 
 NARRATOR
 High-Concentration Plant, Vassstoffabrikken Basement. Zero-one zero-eight, 28 February 1943.
@@ -2791,7 +2597,7 @@ The cells are gone.
 
 NARRATOR
 Chapter Twenty-Four
-SENTRY IN THE DARK
+Sentry in the Dark
 
 NARRATOR
 Vemork Factory Yard and The Måna Ravine. Zero-one fourteen to zero-three hundred, 28 February 1943.
@@ -2863,7 +2669,7 @@ The nine commandos planted their poles in the crust. With powerful, rhythmic thr
 
 NARRATOR
 Chapter Twenty-Five
-THE ERASING BLIZZARD
+The Erasing Blizzard
 
 NARRATOR
 The Southern Plateau, Hardangervidda. Dawn, 28 February – 1 March 1943.
@@ -2967,7 +2773,7 @@ The five white-smocked figures thrust forward into the storm. Within twenty pace
 
 NARRATOR
 Chapter Twenty-Six
-TOMMY GUN IN THE RUBBLE
+Tommy Gun in the Rubble
 
 NARRATOR
 Turf Shelter, Møsvatn Ridge. 2 March 1943.
@@ -3090,7 +2896,7 @@ He pushed open the sod door, stepped out into the freezing fog, and vanished int
 
 NARRATOR
 Chapter Twenty-Seven
-CLAUS HELBERG'S PISTOL DUEL
+Claus Helberg's Pistol Duel
 
 NARRATOR
 Central Hardangervidda, Near Lake Langesjø. 25 March 1943.
@@ -3185,7 +2991,7 @@ With his right arm strapped tightly across his chest, he lowered himself out int
 
 NARRATOR
 Chapter Twenty-Eight
-ACROSS THE WHITE DESERT
+Across the White Desert
 
 NARRATOR
 The Mountains of Eastern Buskerud. 7 March 1943.
@@ -3290,7 +3096,7 @@ The five men pulled their white hoods low over their faces, leaned their backs a
 
 NARRATOR
 Chapter Twenty-Nine
-THE ROAD CHECKPOINTS
+The Road Checkpoints
 
 NARRATOR
 Hallingdal Valley. Zero-zero fifteen, 10 March 1943.
@@ -3360,7 +3166,7 @@ Forty miles. Two nights of skiing. The next ridge line we cross is the Kingdom o
 
 NARRATOR
 Chapter Thirty
-RED AND YELLOW POSTS
+Red and Yellow Posts
 
 NARRATOR
 The Norwegian-Swedish Frontier, Dalarna Border. 14 March 1943.
@@ -3478,7 +3284,7 @@ It was not luck, Colonel. It was the best skiing in the world.
 
 NARRATOR
 Chapter Thirty-One
-THE CHIMNEYS REBUILT
+The Chimneys Rebuilt
 
 NARRATOR
 Orchard Court, London. July 1943.
@@ -3551,7 +3357,7 @@ God help our people.
 
 NARRATOR
 Chapter Thirty-Two
-THUNDER OVER VESTFJORD
+Thunder over Vestfjord
 
 NARRATOR
 Vemork and Rjukan, Telemark. Eleven forty-five, 16 November 1943.
@@ -3605,7 +3411,7 @@ VEMORK DAMAGED BUT CELLS INTACT. Twenty-One CIVILIANS KILLED RJUKAN. GERMANS ABA
 
 NARRATOR
 Chapter Thirty-Three
-THE WATCH ON LAKE TINN
+The Watch on Lake Tinn
 
 NARRATOR
 Lake Tinn and Rjukan. Early February 1944.
@@ -3702,7 +3508,7 @@ He has the company truck. He knows the night watchman on the slip at Mælen. We 
 
 NARRATOR
 Chapter Thirty-Four
-THE DEPTHS OF LAKE TINN
+The Depths of Lake Tinn
 
 NARRATOR
 Mælen Quay and Lake Tinn. Night of 19–20 February 1944.
@@ -3804,7 +3610,7 @@ Haukelid turned his back to the valley, stepped his boots into his ski bindings,
 
 NARRATOR
 Chapter Thirty-Five
-DEATH OF THE PROFESSOR
+Death of the Professor
 
 NARRATOR
 Syrebekkstølen, Telemark. 11 March 1945.
@@ -3884,7 +3690,7 @@ Fifty-eight days later, the German forces in Norway surrendered without firing a
 
 NARRATOR
 Chapter Thirty-Six
-FARM HALL AND THE HIGH FELLS
+Farm Hall and the High Fells
 
 NARRATOR
 Farm Hall, Godmanchester, England. 6 August 1945.
@@ -3941,7 +3747,7 @@ High above them all, untouched by time, the Hardangervidda stretched unbroken be
 
 NARRATOR
 Chapter Thirty-Seven
-THE SILT AND THE STOne
+The Silt and the Stone
 
 NARRATOR
 Lake Tinn, Telemark. June 2004.
@@ -3981,7 +3787,7 @@ The Arctic wind lifts the fresh powder, sweeping across the barren rocks of Fjæ
 
 NARRATOR
 Chapter Thirty-Eight
-UNBROKEN ROOM
+Unbroken Room
 
 NARRATOR
 Vemork, Vestfjord Valley. June 2022.
@@ -4009,7 +3815,7 @@ There is only the cold, unadorned concrete, the faint drip of groundwater trickl
 
 NARRATOR
 Chapter Thirty-Nine
-ROLL OF HONOR
+Roll of Honor
 
 NARRATOR
 The Ledger of Telemark.
@@ -4051,7 +3857,7 @@ Above them, the Hardangervidda remains as it was—vast, indifferent, cold, and 
 
 NARRATOR
 Chapter Forty
-ATOMIC LEDGER
+Atomic Ledger
 
 NARRATOR
 For more than half a century after the guns fell silent, a single question echoed through the corridors of military academies, historical archives, and physics laboratories across the world—

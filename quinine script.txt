@@ -180,7 +180,7 @@ NARRATOR
 Quinine 
 Jedburgh in the Massif Central, 1944
 Chapter One
-THE LIBRARY AT MILTON HALL
+The Library at Milton Hall
 
 Late May 1944
 Special Training School 54 (STS 54)
@@ -271,7 +271,7 @@ I don't intend to give them orders, Colonel. <pause> I intend to show them how t
 
 NARRATOR 
 Chapter Two
-THE CAMERON OF ERRACHT
+The Cameron of Erracht
 
 1 June 1944
 Quarters of Jedburgh Team QUININE
@@ -424,7 +424,7 @@ Good luck, gentlemen.
 
 NARRATOR 
 Chapter Three
-THE HALIFAX FROM TEMPSFORD
+The Halifax from Tempsford
 
 Night of 8/9 June 1944 — 2315 Hours
 RAF Tempsford, Bedfordshire
@@ -563,7 +563,7 @@ Macpherson took one step. The propeller blast struck his face like a sheet of co
 
 NARRATOR 
 Chapter Four
-THE RECEPTION AT CANTAL
+The Reception at Cantal
 
 0215 Hours — Dawn, 9 June 1944
 Drop Zone Aubépine
@@ -741,7 +741,7 @@ The 2nd SS Panzer Division left its barracks in Montauban twenty-four hours ago.
 
 NARRATOR 
 Chapter Five
-THE RED FLAG AND THE CROSS OF LORRAINE
+The Red Flag and the Cross of Lorraine
 
 10 June 1944 — 1400 Hours
 Forest of Saint-Geniez, border of Cantal and Corrèze
@@ -898,7 +898,7 @@ I have no intention of running, Monsieur Chapou. <pause> And neither do you.
 
 
 Chapter Six
-THE MOBILIZATION OF DAS REICH
+The Mobilization of Das Reich
 
 Dawn, 11 June 1944 — 0530 Hours
 Limestone escarpment above Route Nationale 20
@@ -994,7 +994,7 @@ Sergeant Brown is two miles behind us in a shepherd’s hut. He is transmitting 
 
 NARRATOR 
 Chapter Seven
-THE LEVEL-CROSSING GUILLOTINE
+The Level-crossing Guillotine
 
 12 June 1944 — 1715 Hours
 Passage à Niveau 142, south of Cressensac
@@ -1154,7 +1154,7 @@ When Lammerding’s lead tanks arrive, they can spend two hours clearing the cor
 
 NARRATOR 
 Chapter Eight
-THE ASHES OF ORADOUR
+The Ashes of Oradour
 
 14 June 1944 — 2100 Hours
 Dense oak scrub north of Brive-la-Gaillarde
@@ -1302,7 +1302,7 @@ We don't need a cleaver, Monsieur Chapou. We need fifty pounds of Nobel 808. We 
 
 NARRATOR 
 Chapter Nine
-THE CORK IN THE TUNNEL
+The Cork in the Tunnel
 
 18 June 1944 — 0330 Hours
 Le Lioran Railway Tunnel, western portal
@@ -1443,7 +1443,7 @@ Now, we go find ourselves an automobile.
 
 NARRATOR 
 Chapter Ten
-THE BATTLE OF MONT-MOUCHET
+The Battle of Mont-Mouchet
 
 20 June 1944 — 1130 Hours
 High ridges of Mont-Mouchet, Margeride Mountains
@@ -1544,7 +1544,7 @@ We have spent two weeks walking through these mountains on foot, gentlemen. Tomo
 
 NARRATOR 
 Chapter Eleven
-THE TRACTION AVANT
+The Traction Avant
 
 2 July 1944 — 1420 Hours
 Automotive repair shop of Marcel Boussac
@@ -1654,7 +1654,7 @@ A declaration of sovereignty. Paint the Cross of Lorraine first, Michel. Make ce
 
 NARRATOR 
 Chapter Twelve
-DAYLIGHT INSOLENCE
+Daylight Insolence
 
 11 July 1944 — 1045 Hours
 Route Nationale 122, between Aurillac and Figeac
@@ -1847,7 +1847,7 @@ Drive on, Michel. Let us see how much the Gestapo is willing to pay for this uni
 
 NARRATOR 
 Chapter Thirteen
-LE DIABLE ÉCOSSAIS
+Le Diable Écossais
 
 26 July 1944 — 1600 Hours
 Courtyard of the Presbytery, Saint-Céré
@@ -1975,7 +1975,7 @@ Michel. Start the six-cylinder. Let us go pay our respects to Major von Wachter.
 
 NARRATOR 
 Chapter Fourteen
-THE SIEGE OF AURILLAC
+The Siege of Aurillac
 
 12 August 1944 — 0515 Hours
 Perimeter of Caserne Delzons
@@ -2179,7 +2179,7 @@ Arthur. Signal London. Aurillac is liberated. Ask for the strategic picture sout
 
 NARRATOR 
 Chapter Fifteen
-THE PINCERS OF DRAGOON
+The Pincers of Dragoon
 
 17 August 1944 — 1400 Hours
 The Prefect’s Office, Hôtel de la Préfecture
@@ -2289,7 +2289,7 @@ We are going to the Loire. General Elster has twenty thousand men and a two-day 
 
 NARRATOR 
 Chapter Sixteen
-THE GATHERING OF GROUP ELSTER
+The Gathering of Group Elster
 
 28 August 1944 — 1830 Hours
 Field Command Post, Feldkommandantur 541
@@ -2400,7 +2400,7 @@ Gott mit uns. Because nobody else is.
 
 NARRATOR 
 Chapter Seventeen
-THE NORTHWARD DASH
+The Northward Dash
 
 30 August 1944 — 1120 Hours
 Route Nationale 20, northbound
@@ -2536,7 +2536,7 @@ Our job is to make General Elster believe the hunter has teeth.
 
 
 Chapter Eighteen
-MACON’S OPEN FLANK
+Macon’s Open Flank
 
 1 September 1944 — 0915 Hours
 Forward Command Post, Headquarters, US 83rd Infantry Division
@@ -2652,7 +2652,7 @@ Go find the man in the skirt, Sam. Let us see if he can pull off one more miracl
 
 NARRATOR 
 Chapter Nineteen
-THE BROKEN BRIDGES
+The Broken Bridges
 
 4 September 1944 — 0615 Hours
 South bank of the Loire River, overlooking the bridge at Beaugency
@@ -2740,7 +2740,7 @@ Michel. Start the car. We are going to find Lieutenant Magill and his Americans.
 
 NARRATOR 
 Chapter Twenty
-PLATOON INTERNATIONAL
+Platoon International
 
 6 September 1944 — 1445 Hours
 Forestry clearing south of Romorantin-Lanthenay
@@ -2869,7 +2869,7 @@ I am going to provide that excuse, Lieutenant. And you will be there to accept t
 
 NARRATOR 
 Chapter Twenty-One
-THE DITCHES OF THE CHER
+The Ditches of the Cher
 
 8 September 1944 — 0730 Hours
 The vineyards north of Châteauroux, along the Cher River
@@ -2979,7 +2979,7 @@ Tell the British major that General Botho Elster is prepared to discuss the disp
 
 NARRATOR 
 Chapter Twenty-Two
-THE RED CROSS FLAG
+The Red Cross Flag
 
 9 September 1944 — 1140 Hours
 Roadblock outside Vatan, Route Nationale 20
@@ -3112,7 +3112,7 @@ With the white bedsheet whipping across the hood and the Geneva Red Cross flag f
 
 NARRATOR 
 Chapter Twenty-Three
-THE PICKETS OF ISSOUDUN
+The Pickets of Issoudun
 
 10 September 1944 — 1215 Hours
 Northern approaches and town perimeter
@@ -3244,7 +3244,7 @@ Macpherson adjusted his Glengarry bonnet, turned his back on the armed sentries,
 
 NARRATOR 
 Chapter Twenty-Four
-THE SCHOOLHOUSE AT ISSOUDUN
+The Schoolhouse at Issoudun
 
 10 September 1944 — 1240 Hours
 The Headmaster’s Study, Municipal Boys' School
@@ -3331,7 +3331,7 @@ You will not defend Issoudun for an hour, Major Ernst. Because if you do not sig
 
 NARRATOR 
 Chapter Twenty-Five
-THE Three LIES
+The Three Lies
 
 10 September 1944 — 1310 Hours
 The Headmaster’s Study, Municipal Boys' School
@@ -3437,7 +3437,7 @@ Major Macpherson. What are your terms?
 
 NARRATOR 
 Chapter Twenty-Six
-THE TERMS OF PRUSSIAN HONOR
+The Terms of Prussian Honor
 
 10 September 1944 — 1316 Hours
 The Headmaster’s Study, Municipal Boys' School
@@ -3624,7 +3624,7 @@ The Adler surged forward, its tires screaming against the limestone cobbles of t
 
 NARRATOR 
 Chapter Twenty-Seven
-THE THUNDERBOLT DEMONSTRATION
+The Thunderbolt Demonstration
 
 10 September 1944 — 1352 Hours
 Roadblock outside Vatan, Route Nationale 20
@@ -3826,7 +3826,7 @@ The American air corps has its uses, Michel. Now comes the hard part. We have to
 
 NARRATOR 
 Chapter Twenty-Eight
-THE AGONIZING ESCORT
+The Agonizing Escort
 
 14 September 1944 — 1415 Hours
 Departmental Road 765, between Romorantin and Mur-de-Sologne
@@ -3998,7 +3998,7 @@ Eighteen miles to the river. Keep the jeeps in the intervals, Sam. If this colum
 
 NARRATOR 
 Chapter Twenty-Nine
-THE BRIDGE AT BEAUGENCY
+The Bridge at Beaugency
 
 16 September 1944 — 0915 Hours
 Southern abutment, Pont de Beaugency
@@ -4137,7 +4137,7 @@ The parley worked, General. Now comes the hard work. We have to disarm twenty th
 
 NARRATOR 
 Chapter Thirty
-THE WALL OF IRON
+The Wall of Iron
 
 17 September 1944 — 1100 Hours
 Pastures along the north bank of the Loire
@@ -4235,7 +4235,7 @@ The bridge is closed. Let's go find out what London wants to do with Team Quinin
 
 NARRATOR 
 Chapter Thirty-One
-THE SHADOWS OF BEAUGENCY
+The Shadows of Beaugency
 
 18 September 1944 — 1400 Hours
 The Quayside and Town Hall, Beaugency
@@ -4406,7 +4406,7 @@ Ahead lay London, a new briefing, and another mountain range.
 
 NARRATOR 
 Chapter Thirty-Two
-THE SENTENCE IN ABSENTIA
+The Sentence in Absentia
 
 7 March 1945 — 1030 Hours
 The First Senate, Reich Military Court (Reichskriegsgericht)
@@ -4492,7 +4492,7 @@ In Torgau, the regime that had passed the sentence had forty-nine days left befo
 
 NARRATOR 
 Chapter Thirty-Three
-THE ECHOES OF THE CAUSSE
+The Echoes of the Causse
 
 Spring 1945 – Post-War
 The Valleys of the Lot and the High Cantal
@@ -4633,8 +4633,8 @@ They spoke of the great gray serpent of Das Reich stalled in the defiles, of bri
 
 NARRATOR 
 Chapter Thirty-Four
-ROLL OF HONOR
-THE LEDGER OF THE MASSIF
+Roll of Honor
+The Ledger of the Massif
 
 NARRATOR
 Irregular warfare is planned in the quiet, map-lined rooms of ministries, but it is executed in the dark by men without the protection of front lines, supply depots, or heavy artillery.
