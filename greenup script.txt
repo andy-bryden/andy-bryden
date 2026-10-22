@@ -137,7 +137,7 @@ West. American accent, authoritative, sharp, stunned, and commanding division G-
 NARRATOR
 Greenup
 OSS agents in the Tyrol, 1945
-CHAPTER ONE
+Chapter One
 THE FILE FROM CINECITTA
 
 NARRATOR
@@ -264,7 +264,7 @@ Get the jeep. We're going to Rome.
 
 
 NARRATOR
-CHAPTER TWO
+Chapter Two
 DESERTER OF OBERPERFUSS
 
 NARRATOR
@@ -417,7 +417,7 @@ If you can jump into nine feet of powder without breaking your necks, I can get 
 
 
 NARRATOR
-CHAPTER THREE
+Chapter Three
 THE BROOKLYN GRID
 
 NARRATOR
@@ -536,7 +536,7 @@ Get your kit stowed, Hans. We're going to Flatbush.
 
 
 NARRATOR
-CHAPTER FOUR
+Chapter Four
 THE JOE HOLE AT MIDNIGHT
 
 NARRATOR
@@ -584,7 +584,7 @@ The blast of four propellers hammered his ribs, spinning him blind into the free
 
 
 NARRATOR
-CHAPTER FIVE
+Chapter Five
 CREVASSE ON THE GLACIER
 
 NARRATOR
@@ -655,7 +655,7 @@ One agonizing, lung-searing stride at a time, their boots soaked and numb, their
 
 
 NARRATOR
-CHAPTER SIX
+Chapter Six
 HORN-SLED TO LÄNGENFELD
 
 NARRATOR
@@ -717,7 +717,7 @@ Pick up the radio case. Act like you've been riding this route your whole life.
 
 
 NARRATOR
-CHAPTER SEVEN
+Chapter Seven
 INSPECTION AT TELFS
 
 NARRATOR
@@ -788,7 +788,7 @@ Lead the way, Franz.
 
 
 NARRATOR
-CHAPTER EIGHT
+Chapter Eight
 THE HAYLOFT AT SCHATZ FARM
 
 NARRATOR
@@ -885,7 +885,7 @@ Ten minutes later, guided by Abenthung through the shadows of the orchard, Hans 
 
 
 NARRATOR
-CHAPTER NINE
+Chapter Nine
 FROZEN CLOTHESLINE
 
 NARRATOR
@@ -928,7 +928,7 @@ NARRATOR
 Hans waited thirty seconds. The protocol demanded strict radio discipline—no continuous transmission longer than two minutes, then a mandatory break to keep the German direction-finders from obtaining a clean bearing.
 At zero-seven seventeen, he keyed the transmitter again.
 Dah-dah-dit... dit-dit-dah...
-PACKAGE DELIVERED. THREE PIECES ON SHELF. EBBETS FIELD IN SIGHT.
+PACKAGE DELIVERED. Three PIECES ON SHELF. EBBETS FIELD IN SIGHT.
 He cut the power and switched back to the headphones.
 For ten seconds, there was only the cold roar of the ether. Then, cutting cleanly through the crackle of static, came the rhythmic, mechanical chime of high-speed Morse, sent with the crisp, unmistakable rhythm of an American military operator at Bari—
 VICTOR TO GREENUP. WE HEAR YOU. GODSPEED.
@@ -947,7 +947,7 @@ Good. Now I need a uniform.
 
 
 NARRATOR
-CHAPTER TEN
+Chapter Ten
 THE SEAMSTRESS OF OBERPERFUSS
 
 NARRATOR
@@ -1002,7 +1002,7 @@ I'm catching the first bus down.
 
 
 NARRATOR
-CHAPTER ELEVEN
+Chapter Eleven
 THE FOOTBRIDGE AT EBBETS FIELD
 
 NARRATOR
@@ -1067,14 +1067,14 @@ He walked out into the blackout cold, heading directly to the apartment on Anich
 
 
 NARRATOR
-CHAPTER TWELVE
+Chapter Twelve
 THUNDER OVER THE BRENNER
 
 NARRATOR
 The slip of onionskin paper reached Oberperfuss inside Luise’s woolen sock.
 At twenty-three hundred, Hans sat under the crawlspace rafters with the SSTR-1 humming against his shins. He translated Mayer’s notes into four-digit groups, substituting Brooklyn landmarks for the switch tracks, the flak nests, and the ammunition sidings.
 His thumb worked the key in steady, rhythmic bursts—
-TARGET EBBETS FIELD. TWENTY-ONE ASSEMBLIES STATIONARY. TRACKS SEVEN THROUGH ELEVEN. HIGH EXPLOSIVE CARS CENTRAL SPUR. FLAK SUPPRESSION SILL GORGE. EXECUTE IMMEDIATE.
+TARGET EBBETS FIELD. Twenty-One ASSEMBLIES STATIONARY. TRACKS Seven THROUGH Eleven. HIGH EXPLOSIVE CARS CENTRAL SPUR. FLAK SUPPRESSION SILL GORGE. EXECUTE IMMEDIATE.
 Bari acknowledged with three short clicks.
 Fourteen hours later, at thirteen-twenty, the air raid sirens across Innsbruck began their mechanical wail.
 The sound bounced off the sheer limestone cliffs of the Nordkette, multiplying until the entire valley hummed with the vibration. On the streets below, pedestrians scrambled for cellar grates and concrete blast shelters. Mayer stood in the doorway of a bakery two hundred yards from the freight yards, his service cap pulled down against the soot falling from the railway chimneys.
@@ -1099,7 +1099,7 @@ The officer’s coat had done its job. If he wore it another twelve hours, it wo
 
 
 NARRATOR
-CHAPTER THIRTEEN
+Chapter Thirteen
 JEAN MARCEL
 
 NARRATOR
@@ -1185,8 +1185,8 @@ He shuffled through the sandbag gap, keeping his eyes on the cobblestones, headi
 
 
 NARRATOR
-CHAPTER FOURTEEN
-STOLLEN FOUR
+Chapter Fourteen
+STOLLEN Four
 
 NARRATOR
 The tunnel mouth at Kematen had been blasted directly into the sheer limestone base of the mountain, shielded from aerial photography by heavy camouflage netting and evergreen boughs.
@@ -1231,14 +1231,14 @@ There was no hidden armada. The underground factory was a hollow shell, strangle
 At eighteen hundred, the shift siren wailed through the cavern.
 Mayer packed his tools, latched the wooden box, and shuffled out into the cold mountain drizzle with the evening labor crew. He caught the local commuter train back toward Inzing, keeping his eyes on the floorboards.
 By midnight, the message was coded and transmitted from the Oberperfuss attic—
-KEMATEN PRODUCTION NEGLIGIBLE. TWENTY-FOUR AIRFRAMES INCOMPLETE. ZERO JET ENGINES AVAILABLE. FACTORY GROUNDED BY LACK OF RAIL LOGISTICS. DISMISS THREAT.
+KEMATEN PRODUCTION NEGLIGIBLE. Twenty-Four AIRFRAMES INCOMPLETE. ZERO JET ENGINES AVAILABLE. FACTORY GROUNDED BY LACK OF RAIL LOGISTICS. DISMISS THREAT.
 Bari received it without a repeat request. Across Italy, the strategic calculators at Allied Air Command crossed the Kematen jet threat off their target ledgers.
 
 
 
 
 NARRATOR
-CHAPTER FIFTEEN
+Chapter Fifteen
 THE REDOUBT THAT NEVER WAS
 
 NARRATOR
@@ -1290,7 +1290,7 @@ Two days later, the report was on the desk of General William J. Donovan in Wash
 
 
 NARRATOR
-CHAPTER SIXTEEN
+Chapter Sixteen
 SAFEHOUSE AT RUM
 
 NARRATOR
@@ -1366,7 +1366,7 @@ Stay in touch through Moser's shop. When the time comes, don't miss.
 
 
 NARRATOR
-CHAPTER SEVENTEEN
+Chapter Seventeen
 RAID ON ANICHSTRASSE
 
 NARRATOR
@@ -1403,7 +1403,7 @@ Down on the street, Mayer and Eva were thrown into the rear of a black Gestapo v
 
 
 NARRATOR
-CHAPTER EIGHTEEN
+Chapter Eighteen
 THE WATER TUB IN HERRENGASSE
 
 NARRATOR
@@ -1477,7 +1477,7 @@ Realizing they were holding a high-value American operative rather than an ordin
 
 
 NARRATOR
-CHAPTER NINETEEN
+Chapter Nineteen
 GALLOWS WARNING
 
 NARRATOR
@@ -1570,7 +1570,7 @@ Good decision, Herr Kriminalrat. You might live to see forty-six.
 
 
 NARRATOR
-CHAPTER TWENTY
+Chapter Twenty
 WE ARE NOT LEAVING
 
 NARRATOR
@@ -1630,7 +1630,7 @@ He slipped the heavy bakelite headphones over his ears. He switched on the recei
 At zero-eight thirty, he took the brass telegraph key between his thumb and index finger.
 Dit-dit-dit... dah-dit-dah...
 He used the emergency double-transposition silk cipher, tapping the keys with rapid, mechanical precision—
-GREENUP TO VICTOR. MAYER CAPTURED INNSBRUCK APRIL TWENTY. EVA WEBER CAPTURED. MOSER DEAD OR COMPROMISED. REPEAT—MAYER CAPTURED.
+GREENUP TO VICTOR. MAYER CAPTURED INNSBRUCK APRIL Twenty. EVA WEBER CAPTURED. MOSER DEAD OR COMPROMISED. REPEAT—MAYER CAPTURED.
 Hans paused. He drew in a long, cold breath of barn air, smelling the dust and the timber.
 His fingers went back to the key—
 WEBER AND WIJNBERG SECURE. ENEMY UNAWARE OF TRANSMITTER LOCATION. ATTIC REMAINS FULLY OPERATIONAL. SEND FURTHER TARGET INSTRUCTIONS. WE ARE NOT LEAVING.
@@ -1645,7 +1645,7 @@ They were still alive.
 
 
 NARRATOR
-CHAPTER TWENTY-ONE
+Chapter Twenty-One
 THE MATULL BLUFF
 
 NARRATOR
@@ -1738,7 +1738,7 @@ Gauleiter Franz Hofer. His car is waiting in the courtyard.
 
 
 NARRATOR
-CHAPTER TWENTY-TWO
+Chapter Twenty-Two
 DINNER AT GUT LACHHOF
 
 NARRATOR
@@ -1825,7 +1825,7 @@ Draft the proclamation, Hofer. You sign it tonight, or I walk out that gate and 
 
 
 NARRATOR
-CHAPTER TWENTY-THREE
+Chapter Twenty-Three
 THE OPEN CITY DECREE
 
 NARRATOR
@@ -1882,7 +1882,7 @@ The decree is signed. Hofer has stood down. Take the Landhaus.
 
 
 NARRATOR
-CHAPTER TWENTY-FOUR
+Chapter Twenty-Four
 SEIZING THE LANDHAUS
 
 NARRATOR
@@ -1970,7 +1970,7 @@ They're at Zirl! A full combat command of the 103rd Infantry Division. Tanks, ha
 
 
 NARRATOR
-CHAPTER TWENTY-FIVE
+Chapter Twenty-Five
 THE WHITE BED-SHEET AT ZIRL
 
 NARRATOR
@@ -2057,7 +2057,7 @@ Hofer offered no resistance. He held out his wrists, his eyes lingering on Mayer
 
 
 NARRATOR
-CHAPTER TWENTY-SIX
+Chapter Twenty-Six
 ON THE PORCH AT OBERPERFUSS
 
 NARRATOR

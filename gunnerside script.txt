@@ -138,7 +138,7 @@ Weizsäcker. German accent, hushed, philosophical, solemn, and analytical scient
 NARRATOR
 Gunnerside
 The heavy water sabotage, Norway, 1943
-CHAPTER ONE
+Chapter One
 THE STEAMER FROM TELEMARK
 
 NARRATOR
@@ -296,7 +296,7 @@ You are going home to your brother's cabin. You will set up a transmitter in the
 
 
 NARRATOR
-CHAPTER TWO
+Chapter Two
 BLUEPRINTS OF JOMAR BRUN
 
 NARRATOR
@@ -417,8 +417,8 @@ I have four men in Kompani Linge. Poulsson, Kjelstrup, Haugland, and Helberg. Tw
 
 
 NARRATOR
-CHAPTER THREE
-FOUR FROM KOMPANI LINGE
+Chapter Three
+Four FROM KOMPANI LINGE
 
 NARRATOR
 STS 61, Audley End House, Essex. Early October 1942.
@@ -516,7 +516,7 @@ We will have the flares lit on the ice, Captain. Tell the gliders to follow the 
 
 
 NARRATOR
-CHAPTER FOUR
+Chapter Four
 DROPPED IN THE BLIND
 
 NARRATOR
@@ -619,7 +619,7 @@ Then we’d better start pulling.
 
 
 NARRATOR
-CHAPTER FIVE
+Chapter Five
 BOULDERS OF SONGADALEN
 
 NARRATOR
@@ -697,7 +697,7 @@ The four men leaned into their harnesses. The damaged runner groaned, scraped ag
 
 
 NARRATOR
-CHAPTER SIX
+Chapter Six
 THE FLARE PATH AT SKOLAND
 
 NARRATOR
@@ -802,14 +802,14 @@ Put out the flares. Put them out before the Germans see the smoke.
 
 
 NARRATOR
-CHAPTER SEVEN
+Chapter Seven
 THE MOUNTAIN AT HÆSTAD
 
 NARRATOR
 Sandvatn Hut, Hardangervidda. Zero-six hundred, 20 November 1942.
 The paraffin wick inside the stone hut flickered in the draft between the granite slabs. On a crude bench of pine planks, Knut Haugland sat wrapped in his sleeping bag, his fingers stiff inside woolen mittens with the index tips sheared away.
 His hand tapped the brass key of the Type 3 Mark II wireless in rapid, metronomic bursts, sending an urgent, enciphered string of five-letter groups into the ether—
-GROUSE TO HOME STATION—NO GLIDERS SIGHTED. ONE AIRCRAFT HEARD OVERHEAD 2250 HOURS FLYING BLIND. FLARES DISPLAYED. BEACON ACTIVE. AIRCRAFT TURNED SOUTHWEST. ADVISE STATUS IMMEDIATELY.
+GROUSE TO HOME STATION—NO GLIDERS SIGHTED. One AIRCRAFT HEARD OVERHEAD 2250 HOURS FLYING BLIND. FLARES DISPLAYED. BEACON ACTIVE. AIRCRAFT TURNED SOUTHWEST. ADVISE STATUS IMMEDIATELY.
 Poulsson stood by the single tiny window, scraping rime from the lower pane with the blade of his jackknife. Arne Kjelstrup was on his knees near the turf hearth, blowing life into a handful of dried mountain birch twigs to boil a pot of meltwater. Claus Helberg was stripping and oiling his Krag-Jørgensen rifle, the clean smell of mineral oil cutting through the damp stench of wet wool and sweat.
 Outside, the crunch of ski skins on hard crust broke the wind's hum.
 Kjelstrup froze, his hand dropping to the Colt .45 sitting on a ration crate. Helberg’s rifle bolt snapped shut with a sharp clack.
@@ -948,7 +948,7 @@ Poulsson, Kjelstrup, Helberg, and Skinnarland crowded around the small table, wa
 
 
 NARRATOR
-CHAPTER EIGHT
+Chapter Eight
 CIPHER OF DEATH
 
 NARRATOR
@@ -1033,7 +1033,7 @@ UNDERSTOOD. SWALLOW WILL REMAIN.
 
 
 NARRATOR
-CHAPTER NINE
+Chapter Nine
 THE REINDEER STOMACH
 
 NARRATOR
@@ -1121,7 +1121,7 @@ NARRATOR
 Haugland read directly from his raw cipher pad—
 HOME STATION TO SWALLOW.
 HOLD POSITIONS. DO NOT ATTEMPT ACTION AGAINST VEMORK.
-ALL-NORWEGIAN STRIKE FORCE CODE-NAMED GUNNERSIDE FORMED SPECIAL TRAINING SCHOOL SEVENTEEN SCOTLAND. SIX MEN VOLUNTEERED UNDER LIEUTENANT JOACHIM ROENNEBERG.
+ALL-NORWEGIAN STRIKE FORCE CODE-NAMED GUNNERSIDE FORMED SPECIAL TRAINING SCHOOL Seventeen SCOTLAND. Six MEN VOLUNTEERED UNDER LIEUTENANT JOACHIM ROENNEBERG.
 FULL SCALE REPLICA PLANT CONSTRUCTED ARISAIG. TEAM UNDER INTENSIVE DEMOLITION DRILLS.
 DROP SCHEDULED FIRST MOON PERIOD JANUARY.
 KEEP WATCH.
@@ -1147,7 +1147,7 @@ They have to drop in January. We can hold out on reindeer moss for another four 
 
 
 NARRATOR
-CHAPTER TEN
+Chapter Ten
 MOCK-UP AT ARISAIG
 
 NARRATOR
@@ -1280,7 +1280,7 @@ The men pulled the black silk down over their eyes. The barn plunged into silenc
 
 
 NARRATOR
-CHAPTER ELEVEN
+Chapter Eleven
 BATTERY ON THE ICE
 
 NARRATOR
@@ -1378,14 +1378,14 @@ They have us.
 NARRATOR
 His finger danced on the key. The cipher clattered into the air—
 TO TRONSTAD FROM SWALLOW.
-WEATHER HARDANGERVIDDA EXCELLENT. BAROMETER RISING. ICE ON LAKE SKRYKEN INSPECTED AND SOLID. DROP ZONE CLEAR OF GERMAN PATROLS.
+WEATHER HARDANGERVIDDA EXCELLENT. BAROMETER RISING. ICE ON LAKE SKRYKEN INSPECTED AND SOLID. DROP ZOne CLEAR OF GERMAN PATROLS.
 RECOMMEND IMMEDIATE INSERTION GUNNERSIDE FIRST MOON PERIOD.
 AWAITING DROP.
 He threw the knife-switch to receive.
 The transmitter valves hummed. The voltage on the car battery began to sag, the indicator needle trembling down toward ten volts as the cold of the room reasserted itself.
 Then the key at Grendon Underwood clicked back. Five letters. Then five more.
 Haugland scribbled the decoded letters directly onto the wooden bench top—
-MESSAGE RECEIVED. HALIFAX NO. 138 SQUADRON ALERTED TEMPSFORD. GUNNERSIDE DEPARTS NIGHT TWENTY-THREE JANUARY. MAINTAIN WATCH.
+MESSAGE RECEIVED. HALIFAX NO. 138 SQUADRON ALERTED TEMPSFORD. GUNNERSIDE DEPARTS NIGHT Twenty-Three JANUARY. MAINTAIN WATCH.
 The signal cut off. The filament in the transmitter flickered, turned dull orange, and died as the accumulator gave up its last reserve of power.
 Haugland pulled off the headphones and looked up. In the dim, smoky light of the turf hut, Poulsson, Kjelstrup, and Helberg were watching him.
 
@@ -1396,7 +1396,7 @@ NARRATOR
 Poulsson reached for his ski wax and the iron scraper on the bench.
 
 POULSSON
-Eight days to ski across to Lake Skryken. Get the packs ready. We meet them on the ice.CHAPTER ELEVEN
+Eight days to ski across to Lake Skryken. Get the packs ready. We meet them on the ice.Chapter Eleven
 BATTERY ON THE ICE
 
 NARRATOR
@@ -1494,14 +1494,14 @@ They have us.
 NARRATOR
 His finger danced on the key. The cipher clattered into the air—
 TO TRONSTAD FROM SWALLOW.
-WEATHER HARDANGERVIDDA EXCELLENT. BAROMETER RISING. ICE ON LAKE SKRYKEN INSPECTED AND SOLID. DROP ZONE CLEAR OF GERMAN PATROLS.
+WEATHER HARDANGERVIDDA EXCELLENT. BAROMETER RISING. ICE ON LAKE SKRYKEN INSPECTED AND SOLID. DROP ZOne CLEAR OF GERMAN PATROLS.
 RECOMMEND IMMEDIATE INSERTION GUNNERSIDE FIRST MOON PERIOD.
 AWAITING DROP.
 He threw the knife-switch to receive.
 The transmitter valves hummed. The voltage on the car battery began to sag, the indicator needle trembling down toward ten volts as the cold of the room reasserted itself.
 Then the key at Grendon Underwood clicked back. Five letters. Then five more.
 Haugland scribbled the decoded letters directly onto the wooden bench top—
-MESSAGE RECEIVED. HALIFAX NO. 138 SQUADRON ALERTED TEMPSFORD. GUNNERSIDE DEPARTS NIGHT TWENTY-THREE JANUARY. MAINTAIN WATCH.
+MESSAGE RECEIVED. HALIFAX NO. 138 SQUADRON ALERTED TEMPSFORD. GUNNERSIDE DEPARTS NIGHT Twenty-Three JANUARY. MAINTAIN WATCH.
 The signal cut off. The filament in the transmitter flickered, turned dull orange, and died as the accumulator gave up its last reserve of power.
 Haugland pulled off the headphones and looked up. In the dim, smoky light of the turf hut, Poulsson, Kjelstrup, and Helberg were watching him.
 
@@ -1518,7 +1518,7 @@ Eight days to ski across to Lake Skryken. Get the packs ready. We meet them on t
 
 
 NARRATOR
-CHAPTER TWELVE
+Chapter Twelve
 ABORTED FLIGHT
 
 NARRATOR
@@ -1607,7 +1607,7 @@ Three weeks. The February moon. Swallow will have to survive on that plateau unt
 
 
 NARRATOR
-CHAPTER THIRTEEN
+Chapter Thirteen
 CYANIDE AND SILK
 
 NARRATOR
@@ -1702,7 +1702,7 @@ Tell Tempsford to fuel the aircraft. We drop on the sixteenth.
 
 
 NARRATOR
-CHAPTER FOURTEEN
+Chapter Fourteen
 THE DROP ON LAKE SKRYKEN
 
 NARRATOR
@@ -1797,7 +1797,7 @@ Outside, the full fury of the Arctic gale struck the roof with the roar of an ex
 
 
 NARRATOR
-CHAPTER FIFTEEN
+Chapter Fifteen
 ENTOMBMENT
 
 NARRATOR
@@ -1903,7 +1903,7 @@ Get the pulks up. The weather has broken. We ski for Swallow.
 
 
 NARRATOR
-CHAPTER SIXTEEN
+Chapter Sixteen
 MEETING OF THE GHOSTS
 
 NARRATOR
@@ -2022,7 +2022,7 @@ The bridge is impassable. If you try to cross that plank, you will die before yo
 
 
 NARRATOR
-CHAPTER SEVENTEEN
+Chapter Seventeen
 THE BRIDGE IS OUT
 
 NARRATOR
@@ -2139,7 +2139,7 @@ Tomorrow night. Saturday, the twenty-seventh of February. We ski to the advance 
 
 
 NARRATOR
-CHAPTER EIGHTEEN
+Chapter Eighteen
 STRIPPED FOR ACTION AT FJØSBUDALEN
 
 NARRATOR
@@ -2217,7 +2217,7 @@ Strømsheim shouldered the first pack of Nobel 808. Idland took the second. Kjel
 Rønneberg turned down the wick of the oil lamp.
 The flame curled, sputtered, and died, plunging the cabin into blackness.
 A moment later, the pine door swung outward into the sub-zero night. The nine commandos stepped out into the crisp, hard-packed snow. Above them, the stars were sharp and cold, wheeling over the black silhouette of Mount Gausta. Below, hidden in the pitch-black slit of the gorge three miles to the south, lay the faint, humming presence of Vemork.
-They clicked their boot toes into their ski bindings, threw their weight onto their poles, and glided silently down through the dwarf birch into the dark.CHAPTER EIGHTEEN
+They clicked their boot toes into their ski bindings, threw their weight onto their poles, and glided silently down through the dwarf birch into the dark.Chapter Eighteen
 STRIPPED FOR ACTION AT FJØSBUDALEN
 
 NARRATOR
@@ -2301,7 +2301,7 @@ They clicked their boot toes into their ski bindings, threw their weight onto th
 
 
 NARRATOR
-CHAPTER NINETEEN
+Chapter Nineteen
 THE 600-FOOT FALL
 
 NARRATOR
@@ -2392,7 +2392,7 @@ We cross the water. Then we climb.
 
 
 NARRATOR
-CHAPTER TWENTY
+Chapter Twenty
 THE RIVER AND THE ROCK WALL
 
 NARRATOR
@@ -2474,7 +2474,7 @@ Let’s cut the gate.
 
 
 NARRATOR
-CHAPTER TWENTY-ONE
+Chapter Twenty-One
 THE SNAPPED CHAIN
 
 NARRATOR
@@ -2560,7 +2560,7 @@ He dropped flat onto the frozen ballast stone, reached his arms forward into the
 
 
 NARRATOR
-CHAPTER TWENTY-TWO
+Chapter Twenty-Two
 JOHANSEN'S SPECTACLES
 
 NARRATOR
@@ -2672,8 +2672,8 @@ It was time to set the fuses.
 
 
 NARRATOR
-CHAPTER TWENTY-THREE
-TWO MINUTES OF FUSE
+Chapter Twenty-Three
+Two MINUTES OF FUSE
 
 NARRATOR
 High-Concentration Plant, Vassstoffabrikken Basement. Zero-one zero-eight, 28 February 1943.
@@ -2790,7 +2790,7 @@ The cells are gone.
 
 
 NARRATOR
-CHAPTER TWENTY-FOUR
+Chapter Twenty-Four
 SENTRY IN THE DARK
 
 NARRATOR
@@ -2862,7 +2862,7 @@ The nine commandos planted their poles in the crust. With powerful, rhythmic thr
 
 
 NARRATOR
-CHAPTER TWENTY-FIVE
+Chapter Twenty-Five
 THE ERASING BLIZZARD
 
 NARRATOR
@@ -2966,7 +2966,7 @@ The five white-smocked figures thrust forward into the storm. Within twenty pace
 
 
 NARRATOR
-CHAPTER TWENTY-SIX
+Chapter Twenty-Six
 TOMMY GUN IN THE RUBBLE
 
 NARRATOR
@@ -3089,7 +3089,7 @@ He pushed open the sod door, stepped out into the freezing fog, and vanished int
 
 
 NARRATOR
-CHAPTER TWENTY-SEVEN
+Chapter Twenty-Seven
 CLAUS HELBERG'S PISTOL DUEL
 
 NARRATOR
@@ -3184,7 +3184,7 @@ With his right arm strapped tightly across his chest, he lowered himself out int
 
 
 NARRATOR
-CHAPTER TWENTY-EIGHT
+Chapter Twenty-Eight
 ACROSS THE WHITE DESERT
 
 NARRATOR
@@ -3289,7 +3289,7 @@ The five men pulled their white hoods low over their faces, leaned their backs a
 
 
 NARRATOR
-CHAPTER TWENTY-NINE
+Chapter Twenty-Nine
 THE ROAD CHECKPOINTS
 
 NARRATOR
@@ -3359,7 +3359,7 @@ Forty miles. Two nights of skiing. The next ridge line we cross is the Kingdom o
 
 
 NARRATOR
-CHAPTER THIRTY
+Chapter Thirty
 RED AND YELLOW POSTS
 
 NARRATOR
@@ -3452,7 +3452,7 @@ FROM—BRITISH MILITARY ATTACHE, STOCKHOLM.
 DATE—15 MARCH 1943.
 PRIORITY—MOST SECRET.
 ROENNEBERG, KAYSER, STROEMSHEIM, STORHAUG, AND IDLAND ARRIVED SWEDISH FRONTIER SAFELY. CURRENTLY INTERNED UNDER PROTECTIVE CUSTODY AWAITING REPATRIATION VIA RAF TRANSPORT.
-REPORT CONFIRMED—HIGH CONCENTRATION FACILITY AT VEMORK ENTIRELY DESTROYED. ALL EIGHTEEN PEHKRANZ CELLS RUPTURED. ENTIRE HEAVY WATER INVENTORY OF FIVE HUNDRED KILOGRAMS DRAINED INTO SEWERS.
+REPORT CONFIRMED—HIGH CONCENTRATION FACILITY AT VEMORK ENTIRELY DESTROYED. ALL Eighteen PEHKRANZ CELLS RUPTURED. ENTIRE HEAVY WATER INVENTORY OF Five HUNDRED KILOGRAMS DRAINED INTO SEWERS.
 GUNNERSIDE FORCE—ZERO CASUALTIES.
 SWALLOW FORCE—ZERO CASUALTIES.
 CIVILIAN CASUALTIES IN RJUKAN—ZERO.
@@ -3477,7 +3477,7 @@ It was not luck, Colonel. It was the best skiing in the world.
 
 
 NARRATOR
-CHAPTER THIRTY-ONE
+Chapter Thirty-One
 THE CHIMNEYS REBUILT
 
 NARRATOR
@@ -3550,7 +3550,7 @@ God help our people.
 
 
 NARRATOR
-CHAPTER THIRTY-TWO
+Chapter Thirty-Two
 THUNDER OVER VESTFJORD
 
 NARRATOR
@@ -3598,13 +3598,13 @@ The plant is finished. Hitler has ordered the immediate dismantling of the High 
 NARRATOR
 Five miles away, in his turf-roofed cabin above the dam, Einar Skinnarland watched the black smoke drift down the valley.
 With shaking fingers, he sat down at his telegraph key, connected the battery terminals, and tapped out the urgent cipher that would reach Tronstad’s desk before nightfall—
-VEMORK DAMAGED BUT CELLS INTACT. TWENTY-ONE CIVILIANS KILLED RJUKAN. GERMANS ABANDONING FACILITY. ENTIRE STOCKPILE ORDERED TRANSPORTED TO REICH. REPEAT—STOCKPILE MOVING TO GERMANY.
+VEMORK DAMAGED BUT CELLS INTACT. Twenty-One CIVILIANS KILLED RJUKAN. GERMANS ABANDONING FACILITY. ENTIRE STOCKPILE ORDERED TRANSPORTED TO REICH. REPEAT—STOCKPILE MOVING TO GERMANY.
 
 
 
 
 NARRATOR
-CHAPTER THIRTY-THREE
+Chapter Thirty-Three
 THE WATCH ON LAKE TINN
 
 NARRATOR
@@ -3701,7 +3701,7 @@ He has the company truck. He knows the night watchman on the slip at Mælen. We 
 
 
 NARRATOR
-CHAPTER THIRTY-FOUR
+Chapter Thirty-Four
 THE DEPTHS OF LAKE TINN
 
 NARRATOR
@@ -3803,7 +3803,7 @@ Haukelid turned his back to the valley, stepped his boots into his ski bindings,
 
 
 NARRATOR
-CHAPTER THIRTY-FIVE
+Chapter Thirty-Five
 DEATH OF THE PROFESSOR
 
 NARRATOR
@@ -3883,7 +3883,7 @@ Fifty-eight days later, the German forces in Norway surrendered without firing a
 
 
 NARRATOR
-CHAPTER THIRTY-SIX
+Chapter Thirty-Six
 FARM HALL AND THE HIGH FELLS
 
 NARRATOR
@@ -3940,8 +3940,8 @@ High above them all, untouched by time, the Hardangervidda stretched unbroken be
 
 
 NARRATOR
-CHAPTER THIRTY-SEVEN
-THE SILT AND THE STONE
+Chapter Thirty-Seven
+THE SILT AND THE STOne
 
 NARRATOR
 Lake Tinn, Telemark. June 2004.
@@ -3980,7 +3980,7 @@ The Arctic wind lifts the fresh powder, sweeping across the barren rocks of Fjæ
 
 
 NARRATOR
-CHAPTER THIRTY-EIGHT
+Chapter Thirty-Eight
 UNBROKEN ROOM
 
 NARRATOR
@@ -4008,7 +4008,7 @@ There is only the cold, unadorned concrete, the faint drip of groundwater trickl
 
 
 NARRATOR
-CHAPTER THIRTY-NINE
+Chapter Thirty-Nine
 ROLL OF HONOR
 
 NARRATOR
@@ -4050,7 +4050,7 @@ Above them, the Hardangervidda remains as it was—vast, indifferent, cold, and 
 
 
 NARRATOR
-CHAPTER FORTY
+Chapter Forty
 ATOMIC LEDGER
 
 NARRATOR

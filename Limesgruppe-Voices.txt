@@ -1,0 +1,52 @@
+THANA
+Capella 
+Staccato Koine Greek accented English. A thick, rhythmic cadence with sharp, elongated vowels and a hard, dental-stopped pronunciation of consonants. Sardonic personality 
+
+
+TORIA 
+Aoede 
+Neutral International 
+Rapid Iberian Spanish accented English. A high-velocity, syllable-timed cadence marked by crisp, rolled 'r's and sharp, dentalized 't' and 'd' sounds. Fierce, impatient personality 
+
+
+TACITA 
+Leda 
+Neutral International 
+Strong Roman Italian accented English. A rhythmic, vowel-heavy cadence marked by trilled "r" sounds, explosive consonants, and extra vowels attached to the ends of words. Quiet, hoarse, rasping voice
+
+
+TIGRATAVA 
+Zephyr 
+Neutral International 
+Breathy Sarmatian accented English. A guttural, ancient Iranian cadence layered with sharp, archaic Eurasian consonants and a rhythmic, nomadic lilt. Patient, watchful personality 
+
+
+TIATA 
+Kore 
+Neutral International 
+Paletal Balkan Dacian  accented English. A deeply resonant, rhythmically abrupt speech style marked by sharply rolled Rs, clipped vowels, and heavily hardened consonant sounds. Dominant, decisive personality 
+
+
+TOVE 
+Vega 
+Neutral International 
+Melodic Swedish accented English. A sing-song, lilting cadence with soft, breathy consonants and rhythmic, bouncing vowels. Happy, jovial personality 
+
+
+THILDA 
+Polaris 
+Neutral International 
+Thick, guttural Alemannic German accented English. A heavy, throaty Germanic accent marked by raspy, friction-heavy consonants and deeply resonant vowels. Solid, steady personality 
+
+
+TARAN 
+Achernar 
+Scottish 
+Heavily Rhotic Doric Scottish accented English. A heavily rhotic dialect, with a strong, percussive phonetic quality, and a pronounced alveolar tap. Excitable, outspoken personality 
+
+
+NARRATOR 
+Iapetus 
+Scottish 
+
+

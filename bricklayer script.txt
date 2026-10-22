@@ -119,7 +119,7 @@ Provost-Marshal. British RP accent, formal, respectful, crisp, and senior milita
 NARRATOR
 Bricklayer
 The abduction of General Kreipe, Crete, 1944
-CHAPTER ONE
+Chapter One
 THE VILLA TARA
 
 NARRATOR
@@ -204,7 +204,7 @@ Let him. We're going to Rustum Buildings, and we aren't leaving until Force 133 
 
 
 NARRATOR
-CHAPTER TWO
+Chapter Two
 PITCH TO FORCE 133
 
 NARRATOR
@@ -278,7 +278,7 @@ You speak very poetically about fires in the Aegean, Leigh Fermor. Now let us ta
 
 
 NARRATOR
-CHAPTER THREE
+Chapter Three
 THE BRITISH-ONLY RULE
 
 NARRATOR
@@ -346,7 +346,7 @@ It is outrageous. It borders on madness. But if you pull it off, it will be the 
 
 
 NARRATOR
-CHAPTER FOUR
+Chapter Four
 PROCURING THE DECEPTION KIT
 
 NARRATOR
@@ -399,7 +399,7 @@ With a final satisfying thud, the heavy lid was clamped shut. The kit was sealed
 
 
 NARRATOR
-CHAPTER FIVE
+Chapter Five
 FLIGHT INTO THE DARK
 
 NARRATOR
@@ -453,7 +453,7 @@ The dispatcher slapped Paddy hard across the shoulder. Paddy threw his arms forw
 
 
 NARRATOR
-CHAPTER SIX
+Chapter Six
 DROP ONTO THE KATHARO PLATEAU
 
 NARRATOR
@@ -502,7 +502,7 @@ Paddy looked up one last time into the swirling gray mist where his comrades had
 
 
 NARRATOR
-CHAPTER SEVEN
+Chapter Seven
 MOSS GROUNDED
 
 NARRATOR
@@ -554,7 +554,7 @@ The bombers were done. The sky had failed them. He sprinted into the billet, sho
 
 
 NARRATOR
-CHAPTER EIGHT
+Chapter Eight
 MÜLLER LEAVES
 
 NARRATOR
@@ -623,7 +623,7 @@ Müller is gone. But his division is still here. And its new master has just wal
 
 
 NARRATOR
-CHAPTER NINE
+Chapter Nine
 THE DECISION TO PROCEED
 
 NARRATOR
@@ -688,7 +688,7 @@ Now, we send word to the coast, and wait for Billy, Manolis, and George to come 
 
 
 NARRATOR
-CHAPTER NINE
+Chapter Nine
 THE DECISION TO PROCEED
 
 NARRATOR
@@ -753,7 +753,7 @@ Now, we send word to the coast, and wait for Billy, Manolis, and George to come 
 
 
 NARRATOR
-CHAPTER TEN
+Chapter Ten
 MOSS LANDS BY SEA
 
 NARRATOR
@@ -821,7 +821,7 @@ With Billy, Paterakis, and Tyrakis marching beside Paddy in their drying woolen 
 
 
 NARRATOR
-CHAPTER TWELVE
+Chapter Twelve
 PROFILING KREIPE'S ROUTINE
 
 NARRATOR
@@ -880,7 +880,7 @@ Which means we need terrain. We need a spot between here and Ano Archanes that f
 
 
 NARRATOR
-CHAPTER THIRTEEN
+Chapter Thirteen
 SELECTING THE T-JUNCTION
 
 NARRATOR
@@ -938,7 +938,7 @@ This is the spot. This is where we take him.
 
 
 NARRATOR
-CHAPTER FOURTEEN
+Chapter Fourteen
 REHEARSALS IN THE SHADOWS
 
 NARRATOR
@@ -1020,7 +1020,7 @@ The moon wanes tomorrow. Dark skies, clear roads. We move into the ditch tomorro
 
 
 NARRATOR
-CHAPTER FIFTEEN
+Chapter Fifteen
 FALSE ALARM
 
 NARRATOR
@@ -1098,7 +1098,7 @@ Wednesday. The night of the twenty-sixth. We go back into the ditch.
 
 
 NARRATOR
-CHAPTER SIXTEEN
+Chapter Sixteen
 ZERO HOUR AT ARCHANES
 
 NARRATOR
@@ -1143,7 +1143,7 @@ The headlights swung around the final bend from Archanes, two blazing shafts of 
 
 
 NARRATOR
-CHAPTER SEVENTEEN
+Chapter Seventeen
 THE AMBUSH
 
 NARRATOR
@@ -1207,7 +1207,7 @@ The Opel's rear tires shrieked against the tarmac, spitting flint and dust into 
 
 
 NARRATOR
-CHAPTER EIGHTEEN
+Chapter Eighteen
 BLUFFING HERAKLION
 
 NARRATOR
@@ -1288,7 +1288,7 @@ The Opel surged into the pitch-black freedom of the open coastal highway, leavin
 
 
 NARRATOR
-CHAPTER NINETEEN
+Chapter Nineteen
 HELIANA BEACH
 
 NARRATOR
@@ -1389,7 +1389,7 @@ Turning their backs on the sea, Paddy and Tyrakis tightened their pack straps, g
 
 
 NARRATOR
-CHAPTER TWENTY
+Chapter Twenty
 INTO THE RAVINES
 
 NARRATOR
@@ -1476,7 +1476,7 @@ Then the hunt is on. Up into the ravines. Before the Luftwaffe puts wings in the
 
 
 NARRATOR
-CHAPTER TWENTY-ONE
+Chapter Twenty-One
 THE GARRISON MOBILIZES
 
 NARRATOR
@@ -1546,7 +1546,7 @@ As the paper blizzard settled over the rocks, the lead Storch banked steeply ove
 
 
 NARRATOR
-CHAPTER TWENTY-TWO
+Chapter Twenty-Two
 SANCTUARY IN ANOGEIA
 
 NARRATOR
@@ -1635,7 +1635,7 @@ Barba Giorgi pushed the back door open to the bitter mountain wind. Stepping out
 
 
 NARRATOR
-CHAPTER TWENTY-THREE
+Chapter Twenty-Three
 THE SNOWS OF MOUNT IDA
 
 NARRATOR
@@ -1698,7 +1698,7 @@ No one spoke. Wrapped in their heavy sheepskins, huddled together against the fr
 
 
 NARRATOR
-CHAPTER TWENTY-FOUR
+Chapter Twenty-Four
 HORACE AT DAWN
 
 NARRATOR
@@ -1763,7 +1763,7 @@ Side by side on the precipice of Mount Ida, the British major and the German gen
 
 
 NARRATOR
-CHAPTER TWENTY-FIVE
+Chapter Twenty-Five
 WIRELESS CONTACT
 
 NARRATOR
@@ -1821,7 +1821,7 @@ The rhythmic, metallic clatter of the key echoed softly off the damp limestone r
 
 
 NARRATOR
-CHAPTER TWENTY-SIX
+Chapter Twenty-Six
 THE WAIT AT PERISTERES BEACH
 
 NARRATOR
@@ -1934,7 +1934,7 @@ Sugar Baker. Now pray to heaven Coleman is awake.
 
 
 NARRATOR
-CHAPTER TWENTY-SEVEN
+Chapter Twenty-Seven
 ARRIVAL OF ML 842
 
 NARRATOR
@@ -2007,7 +2007,7 @@ The German coastal radar at Plakias sweeps this bay every twenty minutes, gentle
 
 
 NARRATOR
-CHAPTER TWENTY-EIGHT
+Chapter Twenty-Eight
 EMBARKATION
 
 NARRATOR
@@ -2074,7 +2074,7 @@ As the motor launch raced south toward the safety of the Egyptian coast, the tow
 
 
 NARRATOR
-CHAPTER TWENTY-NINE
+Chapter Twenty-Nine
 HANDOVER AT CAIRO
 
 NARRATOR
@@ -2135,7 +2135,7 @@ Tamplin slowly rose to his feet. His pen slipped from his fingers, rolling acros
 
 
 NARRATOR
-CHAPTER THIRTY
+Chapter Thirty
 THE AFTERMATH
 
 NARRATOR
@@ -2155,7 +2155,7 @@ Paddy opened it with cold, unsteady hands. Inside was the translated transcript 
 ORDER OF THE FORTRESS COMMANDER CRETE — 13 AUGUST 1944
 SINCE THE TOWN OF ANOGEIA IS THE CENTRE OF PERMANENT ENGLISH ESPIONAGE, AND WHEREAS THE INHABITANTS OF ANOGEIA CARRIED OUT THE SABOTAGE AT DAMASTA, AND WHEREAS THE ABDUCTORS OF GENERAL KREIPE FOUND ASYLUM THERE AND USED IT AS A TRANSIT CAMP...
 WE ORDER THE COMPLETE, LEVELED ERADICATION OF THE AFORESAID VILLAGE.
-EVERY HOUSE IS TO BE DESTROYED BY DYNAMITE AND FIRE. EVERY MALE INHABITANT FOUND WITHIN A RADIUS OF THREE KILOMETERS IS TO BE EXECUTED ON SIGHT.
+EVERY HOUSE IS TO BE DESTROYED BY DYNAMITE AND FIRE. EVERY MALE INHABITANT FOUND WITHIN A RADIUS OF Three KILOMETERS IS TO BE EXECUTED ON SIGHT.
 Paddy lowered the page, staring blind into the dust motes dancing in the Cairo sunlight. The laughter from the officers' mess down the corridor, the cheerful rattle of typewriters, and the triumphant clink of glasses in Garden City seemed to recede into a bottomless, freezing silence.
 The operational cables that followed over the next three weeks confirmed the full, sickening horror.
 German pioneer battalions of the 22nd Division systematically encircled Anogeia. For twenty-three consecutive days, the soldiers blew apart every one of its nine hundred stone houses, dynamiting the ancient schoolhouse, burning the churches, and slaughtering the elderly who were too infirm to climb into the high caves of Mount Ida. The proud mountain stronghold that had offered hot goat meat and dark sourdough to an enemy general was reduced to a smoking, pulverized desert of ash and shattered limestone.
