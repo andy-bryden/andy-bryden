@@ -1,44 +1,10 @@
-Table of Contents
-1. Mr. Strong in the Heat
-2. The Departure of Mission 101
-3. The Gathering in the Caves
-4. The Outcast in Cairo
-5. The Grand Hotel Encounter
-6. The Sakala Flight and the Belaya Trail
-7. The Soba Muster
-8. The Flesh of the Camel
-9. The Naming of Gideon
-10. The Crossing at Um Idla
-11. The Tsetse Corridor
-12. The Slaughter of the Escarpment
-13. The Fortress of Belaya
-14. The Feudal Council
-15. The Approach to Matakal
-16. The Forts of Burye
-17. Phantoms in the Wire
-18. The Taking of Fort Upper
-19. Natale’s Collapse
-20. Overrun at the Charaka
-21. The Gates of Dembecha
-22. The Wake of the Column
-23. The Fortresses of Debra Markos and the Traitor Prince
-24. The Investment of Gulit
-25. The Redoubt in the Rain
-26. The Flight of Maraventano
-27. The Submission of Ras Hailu
-28. The Cairo Cables
-29. Thesiger into the Gorge
-30. Defying the Roadblocks
-31. May 5, 1941: The Return of the Lion
-32. The Bluff at Agibor
-33. The Cashiering
-34. The Blade at the Continental
-35. The Scars of the Covenant
+ Gideon
+ Ethiopia, 1940-1941
+
  Chapter One
- ↑ Back to top
  Mr. Strong in the Heat
  Khartoum, Anglo-Egyptian Sudan
-July 3–8, 1940
+  July 3–8, 1940
  The temperature inside the shuttered villa on the southern bank of the Blue Nile hovered at one hundred and twelve degrees Fahrenheit. Outside, the midday sun burned the silt flats of Khartoum to a blinding, chalky white. Two sentries of the Sudan Defence Force, dressed in khaki drill and green wool puttees, stood motionless beneath the corrugated iron eaves of the gatehouse, their rifles held at the port. They had orders from the Kaid—Lieutenant-General William Platt—that no unauthorized person, civilian or military, was to enter the compound, and that the diminutive gentleman residing inside was not to step past the gravel driveway under any circumstances.
  In the official movement logs of British Middle East Command in Cairo, the passenger who had stepped off the Short Sunderland flying boat onto the river at dawn on July 3 did not exist. The manifests from RAF Hendon through Gibraltar, Malta, Alexandria, and Wadi Halfa recorded only the transit of a "Mr. E. Strong," a colonial civil servant traveling on priority imperial business.
  Inside the drawing room, beneath a slowly circling three-bladed ceiling fan that did nothing more than displace the dead heat, Emperor Haile Selassie I sat upright in a high-backed cane chair. He was forty-seven years old, slight of bone, with an immaculate black beard trimmed close to the jawline and dark, hooded eyes that gave nothing away. He wore a dark, heavy European suit, refusing the concession of open-collared tropical linen. Across the low table sat Edwin Chapman-Andrews, a former British vice-consul in Addis Ababa, now commissioned as a major in the field intelligence branch and appointed as the political liaison officer to the exiled monarch.
@@ -70,11 +36,11 @@ July 3–8, 1940
  He collected his cap, saluted, and stepped out onto the blinding verandah. The heavy teak door closed behind him, leaving the Emperor standing alone in the dim, stifling silence beneath the slow turning of the fan.
  At the bottom of the verandah steps, Chapman-Andrews climbed into his Ford staff car, the leather seats burning hot through his uniform. He tapped the Sudanese driver on the shoulder.
  "To the signals depot," Chapman-Andrews said. "Route the traffic to Roseires. Colonel Sandford."
+
  Chapter Two
- ↑ Back to top
  The Departure of Mission 101
  Roseires, Anglo-Egyptian Sudan
-August 12, 1940
+  August 12, 1940
  The rains of the late summer monsoon had turned the black cotton soil along the Blue Nile into a glue that sucked the boots off men and immobilized pack animals up to their hocks. At the frontier outpost of Roseires, four hundred miles southeast of Khartoum, the river was running eighty yards wide and swollen fifteen feet above its dry-season bed, churning with uprooted acacia trunks and dead cattle swept down from the Abyssinian foothills.
  Tied beneath the dripping thatch of an open pole-barn stood fifty-four pack mules and sixty donkeys, their flanks shivering under coarse burlap horse-blankets. Nailed to the wooden pack-saddles were heavy deal boxes lined with sheet zinc. Inside the boxes, packed in greasepaper to prevent corrosion from the damp, were ten thousand silver Maria Theresa thalers—minted with the dead Austrian empress’s likeness and the frozen date of 1780, the only currency recognized by the highland chiefs—alongside two Mark III portable wireless sets, spare dry-cell batteries, morphia ampoules, and three hundred bundles of printed imperial proclamations wrapped in oilcloth.
  Colonel Daniel Arthur Sandford stood at the edge of the clearing, watching his muleteers adjust the rope cinches. He was fifty-eight years old, a retired artillery officer with a weathered face, calm blue eyes, and thin gray hair plastered to his forehead by the downpour. For nearly two decades before the Italian invasion, Sandford had lived as a gentleman farmer at Mulu, north of Addis Ababa, cultivating coffee, speaking fluent Amharic, and advising the imperial court on agricultural reform. When Mussolini’s armies had driven Haile Selassie into exile in 1936, Sandford had been evacuated through Djibouti. He was now returning to a country officially declared an Italian colony, heading an operational party of five British officers, one warrant officer, and thirty Ethiopian soldiers and muleteers.
@@ -104,11 +70,11 @@ MISSION 101 CROSSED FRONTIER AT ROSEIRES. ALL OFFICERS SAFE. LOSSES: ONE PACK AN
  Sandford turned and looked east into the darkness. There was no horizon—only the black wall of rain where, sixty miles distant, the mountains of Gojjam rose straight out of the lowlands to ten thousand feet. Somewhere up on those cold, sodden ridges, hidden in deep volcanic caves, the guerrilla armies of Dejazmach Mengesha Jembere were waiting.
  Sandford swung his wet rucksack onto his shoulders and clicked his flashlight on, shielding the lens with his fingers so that only a pencil-thin slit of yellow light touched the mud.
  "Move out," he told Kabada. "Take the point. Keep off the caravan tracks."
+
  Chapter Three
- ↑ Back to top
  The Gathering in the Caves
  Matakal and the Gojjam Highlands
-September 18 – October 12, 1940
+  September 18 – October 12, 1940
  It took Mission 101 thirty-seven days to drag its pack train through the bamboo swamps and rising basalt shelves of the western escarpment. By the third week of September, the lowland heat had given way to the damp, bone-chilling mist of the Ethiopian highlands, eight thousand feet above sea level. Sixteen more mules had died along the razorback ridges—their lungs wrecked by pleuropneumonia, their backs stripped raw to the gristle by slipping saddles.
  The mission had established a dispersed camp in the forested ravines near the Dabus River before climbing toward the mountain redoubts of Matakal. Here, in the limestone caves and eucalyptus groves that ringed the heights, the guerrilla army of Dejazmach Mengesha Jembere had survived five years of Italian punitive expeditions. The ground bore the deep craters of 100-kilogram aerial bombs dropped by Italian Savoia-Marchetti trimotors; among the children tending the scrawny zebu cattle in the scrub, several bore the distinctive, milky corneal scarring of yperite vapor from the mustard-gas canisters sprayed across the Gojjam valleys in the spring of 1936.
  On the morning of October 8, beneath the dripping overhang of a cavern large enough to shelter two hundred head of cattle, Colonel Sandford and Captain Drew were brought before Mengesha Jembere.
@@ -141,16 +107,16 @@ September 18 – October 12, 1940
  "You may pitch your tents in the valley below, Colonel. My men will bring you teff and mutton. But send your radio machine to work. Tell the English generals in Cairo that if they send us words, the Italians will stay in Addis Ababa forever. Tell them to send the guns, send the Emperor, and send a man who knows how to use them."
  Late that night, high on a wind-scoured basalt ridge above the cloud layer, Warrant Officer Grey cranked the generator of the Mark III set. The blue arc leaped inside the radio housing.
  Sandford stood beside him with his pencil and notepad, shielding the paper from the icy mist with his waterproof coat. He looked down at the cipher he had composed for General Wavell in Cairo and General Platt in Khartoum.
-PATRIOT SPIRIT FORMIDABLE BUT STARVED OF MATERIAL. MENGESHA AND NAGASH CAN BE BROUGHT TO COMMON ACTION ONLY BY PRESENCE OF EMPEROR. ENEMY GARRISONS ISOLATED BUT HEAVILY ENTRENCHED IN FORTS WITH ARTILLERY AND AIR COOPERATION. GUERRILLA HARASSMENT INSUFFICIENT TO DISLODGE THEM.
+  PATRIOT SPIRIT FORMIDABLE BUT STARVED OF MATERIAL. MENGESHA AND NAGASH CAN BE BROUGHT TO COMMON ACTION ONLY BY PRESENCE OF EMPEROR. ENEMY GARRISONS ISOLATED BUT HEAVILY ENTRENCHED IN FORTS WITH ARTILLERY AND AIR COOPERATION. GUERRILLA HARASSMENT INSUFFICIENT TO DISLODGE THEM.
  He paused, then added the final, decisive sentences:
-REQUISITE FOR SUCCESS IS IMMEDIATE DISPATCH OF TRAINED REGULAR CADRE WITH HIGH-EXPLOSIVE MORTARS TO ACT AS STRIKING SPEARHEAD. STRONGLY URGE IMMEDIATE APPOINTMENT OF A COMMANDER OF EXCEPTIONAL DRIVE AND IRREGULAR CAPACITY TO TAKE DIRECTION OF THE ENTIRE NORTHERN FRONT.
+  REQUISITE FOR SUCCESS IS IMMEDIATE DISPATCH OF TRAINED REGULAR CADRE WITH HIGH-EXPLOSIVE MORTARS TO ACT AS STRIKING SPEARHEAD. STRONGLY URGE IMMEDIATE APPOINTMENT OF A COMMANDER OF EXCEPTIONAL DRIVE AND IRREGULAR CAPACITY TO TAKE DIRECTION OF THE ENTIRE NORTHERN FRONT.
  "Send it, Grey," Sandford said, his breath steaming in the thin air. "Priority cipher to Cairo. Action: Commander-in-Chief, Middle East."
+
  Chapter Four
- ↑ Back to top
  The Outcast in Cairo
  General Headquarters, Middle East Command
-Grey Pillars, Garden City, Cairo
-October 26–28, 1940
+  Grey Pillars, Garden City, Cairo
+  October 26–28, 1940
  The headquarters of British Middle East Command occupied a requisitioned block of flats in the shaded, affluent quarter of Garden City, wrapped in sandbags and barbed wire against the possibility of Italian air raids from Libya. Inside the cool, marble-tiled corridors of "Grey Pillars," typewriters clattered behind closed doors as hundreds of staff officers in immaculate starched drill and polished Sam Browne belts plotted the defense of Egypt.
  To the west, across the Libyan desert, Marshal Graziani’s Tenth Army had ground to a halt at Sidi Barrani after invading western Egypt six weeks earlier. General Sir Archibald Wavell was secretly preparing a counterstroke—Operation Compass—with every tank and 25-pounder gun he could muster. To the south, in Italian East Africa, three hundred thousand Italian and colonial troops under Prince Amedeo, Duke of Aosta, remained an intact, looming threat against the Sudan, Kenya, and the Red Sea shipping lanes through which British convoys from India and Australia had to pass.
  Wavell sat behind a broad mahogany desk on the second floor. He was fifty-seven, thickset, with a weathered, impassive face and a blind left eye lost at Ypres in 1915. Across the blotter lay the signal that had arrived thirty-six hours earlier from the high ridges of Matakal—the cipher signed by Daniel Sandford demanding a striking spearhead and an irregular commander of exceptional drive.
@@ -191,11 +157,11 @@ October 26–28, 1940
  General Smith stared at the closed door, shaking his head. "The man is completely mad, Archie. He will either be court-martialed within ninety days or he will get himself murdered by his own irregulars."
  "Perhaps," Wavell said softly, pulling a fresh operational map of the Western Desert across his blotter. "But he has a fire in his belly, Arthur. And out in that scrub, fire is the only thing that burns."
  Two hours later, under the yellow sodium floodlights of Heliopolis airfield, an RAF Lockheed Hudson transport aircraft coughed into life, twin radial engines churning up clouds of Nile dust. Wingate sat inside the unheated aluminum fuselage, his back against an ammunition case, a battered map of Gojjam pinned across his knees by his thumbs as the aircraft turned south into the African night, following the silver thread of the Nile toward Khartoum.
+
  Chapter Five
- ↑ Back to top
  The Grand Hotel Encounter
  The Grand Hotel and the Palace Gardens, Khartoum
-November 6, 1940
+  November 6, 1940
  The winter dry season had begun to settle over the confluence of the two Niles. The blinding dust of the haboob had thinned, leaving the river flats baking under a pale, vitreous sky. At the Grand Hotel—an imposing colonial edifice of whitewashed brick, wide colonnades, and deep shaded verandas fronting the Blue Nile—the officers of the Sudan Defence Force and the British military mission gathered for evening drinks in starched mess kit, their conversations muffled by the rhythmic thrum of the ceiling fans.
  At the far end of the terrace garden, screened from the dining room by a dense hedge of bougainvillea, a private salon had been requisitioned by order of the Military Governor.
  Colonel Daniel Sandford sat near the open French doors. He had returned from the Gojjam highlands only three days prior, flown out of an improvised dirt landing strip near Dangila in a fabric-winged RAF Vickers Wellesley. His skin was burnt dark by the mountain sun, his hands calloused and scarred from the rock climbs of Matakal, his bush tunic faded to a pale mustard.
@@ -241,11 +207,11 @@ November 6, 1940
  Wingate pulled his grease-stained pith helmet from under his arm and jammed it onto his head.
  "I leave for the frontier tomorrow at dawn," Wingate said to Platt, without waiting for the Kaid’s dismissal. "I will take five men, ten mules, and twenty camels. I will walk the route to Mount Belaya myself, locate the waterholes, and climb the rock wall. When I return, we will assemble the battalions."
  He snapped another violent, vibrating salute to the Emperor, turned on his heel, and strode out through the French doors into the heavy, cooling dusk of the hotel gardens, leaving the room in stunned, absolute silence.
+
  Chapter Six
- ↑ Back to top
- The Sakala Flight and the Belaya Trail
+ The Sakala Flight
  Sakala, Gojjam Province, and Roseires, Sudan
-November 20 – December 4, 1940
+  November 20 – December 4, 1940
  At dawn on November 20, a single fabric-covered RAF Vickers Wellesley of No. 47 Squadron bounced across the rutted dirt strip at Roseires, climbed steeply through the thermal haze of the Blue Nile basin, and turned east into Italian airspace.
  Inside the narrow, unheated cockpit behind the pilot sat Orde Wingate, a sheepskin coat pulled over his faded drill tunic, a folded ordnance survey map clamped between his knees. Wedged beside him was Makonnen Desta, an American-educated Ethiopian royalist who had spent four years in exile and now served as Haile Selassie’s political secretary. Below the starboard wing, the brown savannah of the border lowlands rolled past, giving way without warning to the colossal volcanic wall of the Gojjam escarpment—thousands of feet of gray and black basalt, gashed by labyrinthine ravines and draped in heavy morning cloud.
  Ninety minutes into the flight, the pilot cut the throttle, banking into a narrow, high-altitude valley near Sakala, close to the sacred source of the Little Abbai. On a sloping, grass-covered meadow cleared by Arbegnoch axes between two eucalyptus groves, a row of smoky smudge-pots burned. The Wellesley’s tires touched down hard on the hummocky turf, skidding sixty yards through the wet wild clover before halting near a cluster of hidden thatched huts.
@@ -282,17 +248,17 @@ November 20 – December 4, 1940
  Wingate stood in the boiling sun, his chest heaving, staring at the long lines of grunting, recalcitrant animals. He knew the numbers. Between the Blue Nile and the foot of Mount Belaya lay seventy miles of waterless scrub, where water holes were separated by thirty-mile intervals of thornbush. Between Belaya and the high plateau lay thousands of feet of sheer volcanic rock.
  The British regular staff in Khartoum had provided him with an army of refugees, a single battalion of Sudanese regulars, and three thousand pack animals condemned by the incompetence of contractor timber to die on the trail.
  Wingate turned on his heel and strode toward the post telegraph tent. He pulled a message pad from his haversack, uncapped his fountain pen, and drafted his final operational memorandum for General Wavell in Cairo:
-BELAYA RECONNOITRED. POSITION ADMIRABLE FOR ADVANCED BASE. CAMEL TRANSPORT SUFFICIENT TO CARRY MINIMUM RESERVE TO FOOT OF ESCARPMENT, BUT SYSTEM CANNOT BE MAINTAINED LONG-TERM. ESCARPMENT WILL EXPEND ANIMALS AT RATE EXCEEDING FIFTY PERCENT. WE MUST ACCEPT CATASTROPHIC LOGISTICAL LOSSES AS NECESSARY CAPITAL EXPENDITURE TO ACHIEVE MORAL ASCENDANCY.
+  BELAYA RECONNOITRED. POSITION ADMIRABLE FOR ADVANCED BASE. CAMEL TRANSPORT SUFFICIENT TO CARRY MINIMUM RESERVE TO FOOT OF ESCARPMENT, BUT SYSTEM CANNOT BE MAINTAINED LONG-TERM. ESCARPMENT WILL EXPEND ANIMALS AT RATE EXCEEDING FIFTY PERCENT. WE MUST ACCEPT CATASTROPHIC LOGISTICAL LOSSES AS NECESSARY CAPITAL EXPENDITURE TO ACHIEVE MORAL ASCENDANCY.
  He added the final, decisive line:
-FORCE MUST STRIKE BEFORE DRY SEASON BREAKS. I PROCEED TO SOBA TO COMPLETE BATTALION DRILL. REQUISITION ALL AVAILABLE CAMELS IN BLUE NILE PROVINCE IMMEDIATELY.
+  FORCE MUST STRIKE BEFORE DRY SEASON BREAKS. I PROCEED TO SOBA TO COMPLETE BATTALION DRILL. REQUISITION ALL AVAILABLE CAMELS IN BLUE NILE PROVINCE IMMEDIATELY.
  He shoved the pad into the hands of the telegraphist.
  "Transmit that to Grey Pillars, Cairo. Priority cipher."
  Wingate stepped out of the tent into the blinding noon glare, climbed into his open Ford utility truck, and pointed the driver north toward Khartoum and the muster camp at Soba.
+
  Chapter Seven
- ↑ Back to top
  The Soba Muster
  Soba Training Camp, Anglo-Egyptian Sudan
-December 6–22, 1940
+  December 6–22, 1940
  Six miles south of Khartoum, on a flat pan of baked alluvial clay between the railway line and the Blue Nile, lay the cantonment of Soba. In December, the dry north wind blew fine, alkaline dust through the gaps in the mud-brick barracks and billowed the fly-sheets of hundreds of canvas ridge tents.
  Here, British Middle East Command had concentrated the regular spearhead of what was now formally designated Gideon Force.
  The force consisted of two distinct infantry formations. The first was the 4th Sudan Frontier Battalion, an elite unit of the Sudan Defence Force commanded by Lieutenant-Colonel Hugh Boustead. The battalion numbered roughly eight hundred men organized into four rifle companies, recruited primarily from Sudanese and border tribesmen, with British company commanders and Sudanese subalterns (mulazimin). They were disciplined, experienced desert soldiers, armed with standard Lee-Enfield .303 rifles and Lewis guns, trained in conventional infantry maneuvers.
@@ -328,11 +294,11 @@ December 6–22, 1940
  Boustead stared at Wingate, then gave a brief, stiff nod. "God help the camels, Wingate. And God help the men who have to drive them."
  He turned on his heel, pushed aside the grass mat, and stepped back out into the dry, swirling dust of Soba.
  Behind him, from the dim interior of the mud hut, came the steady, rhythmic scratching of the wire brush against flesh, accompanied by the muffled, relentless ticking of the brass alarm clock.
+
  Chapter Eight
- ↑ Back to top
  The Flesh of the Camel
  Gedaref and Roseires Staging Depots, Anglo-Egyptian Sudan
-January 2–14, 1941
+  January 2–14, 1941
  The dust along the railway siding at Gedaref hung in a motionless, copper-colored fog that smelled of dry manure, rancid suet, and carbolic acid. Under the scorching midday sun, spread across two square miles of scrub cleared between the railhead and the seasonal Atbara tributaries, was the greatest assembly of pack animals gathered in the Nile Valley since Kitchener’s march on Omdurman.
  Nearly fifteen thousand camels, requisitioned by the Sudan Political Service from the Shukriya, Hadendoa, and Beni Amer nomads of the eastern provinces, were tethered in sprawling picket lines by their head-ropes.
  Beside them lay vast open dumps of ordnance shipped south from the British supply depots in Alexandria and Port Sudan: twelve thousand wooden crates of Lee-Enfield .303 ammunition; four thousand galvanized zinc tins of 6.5-millimeter Italian rifle cartridges; five thousand cases of high-explosive and smoke bombs for 3-inch mortars; bundles of picks, shovels, and barbed wire; and hundreds of wicker hampers packed with medical supplies, morphia, and field dressings.
@@ -372,11 +338,11 @@ January 2–14, 1941
  He jabbed his cane toward the river.
  "Get the ammunition lashed onto those saddles, Donald. Use whatever felt you can tear from the blanket rolls. Tar the open sores to keep the flies off. And tell the company commanders that from this moment, the column moves forward. We do not look back."
  Wingate turned on his heel and strode back toward his command tent, leaving Drew and Campbell standing in the sweltering heat beside the shuddering bull camel, as the first clouds of evening flies descended upon the open meat of its spine.
+
  Chapter Nine
- ↑ Back to top
  The Naming of Gideon
  The Roseires Compound, Anglo-Egyptian Sudan
-January 15–19, 1941
+  January 15–19, 1941
  The arrival of the imperial convoy on the evening of January 15 transformed the frontier outpost of Roseires into an armed camp taut with political and military tension. Emperor Haile Selassie had traveled the four hundred miles south from Khartoum over bone-jarring dirt roads in a convoy of requisitioned Humber staff cars, escorted by a detachment of Sudanese motor-machine-gun troops. With him came the Crown Prince, Asfaw Wossen, his personal chaplain, and his small royal household.
  Across the compound, beneath the vast, dry canopies of wild fig trees along the riverbank, the officers of the operational spearhead were summoned to the mud-brick headquarters on the night of January 17.
  Inside the mess room, lit by the yellow, smoky flare of three hurricane lanterns hanging from the roof beams, the operational staff of the expedition gathered around a trestle table covered with linen-backed maps.
@@ -419,11 +385,11 @@ January 15–19, 1941
  He slapped the table with his leather cane.
  "Dismissed."
  The officers filed out into the warm, dust-laden darkness. Outside, the camp fires of the 4th Sudan Frontier Battalion were being stamped into the dirt. Along the riverbank, the long, groaning line of camels was already being hauled to its feet by the head-ropes, their pack-loads of three-inch mortar shells clanking in the night as the vanguard pointed its faces eastward toward the dry watercourse of Um Idla.
+
  Chapter Ten
- ↑ Back to top
  The Crossing at Um Idla
  Um Idla, Sudan-Abyssinia Frontier
-January 20, 1941
+  January 20, 1941
  At dawn on January 20, the temperature in the dry watercourse of the Khor Um Idla had already reached ninety degrees. The international frontier between the Anglo-Egyptian Sudan and Italian East Africa was marked here not by wire or trenches, but by a wide expanse of dry, white river sand, flanked on both banks by dense brakes of gray thornbush and towering dom palms.
  Drawn up in the sand on the Sudanese bank was a guard of honor formed by one company of the 4th Sudan Frontier Battalion, their Lee-Enfields held at the carry, and fifty men of the 2nd Ethiopian Battalion wearing fresh khaki shirts and bandoliers. Behind them, screened from the glare of the eastern horizon under the palm fronds, waited thirty overloaded 15-cwt Ford trucks, four staff cars, and the leading echelon of eight hundred baggage camels, their wooden saddles groaning under tins of mortar ammunition.
  At 08:30 hours, an open Humber staff car pulled to a halt at the edge of the dry riverbed.
@@ -455,11 +421,11 @@ January 20, 1941
  The engines of the Ford utility trucks roared into life, tires spinning in the soft sand as the convoy surged across the dry riverbed. Behind them, prodded by the bayonets of the Sudanese guards, the long string of baggage camels lurched down into the white gravel of Um Idla, their pack-boxes of mortar ammunition clattering in the furnace heat.
  One by one, the iron-rimmed tires and the wide, padded hooves pressed into the eastern bank, crossing the invisible frontier line.
  Before them lay the vast, unexplored furnace of the Dinder River basin—seventy miles of roadless scrub, suffocating heat, and swarming tsetse fly that guarded the approaches to the great rock of Mount Belaya.
+
  Chapter Eleven
- ↑ Back to top
  The Tsetse Corridor
  The Dinder River Basin, Western Lowlands
-January 21–27, 1941
+  January 21–27, 1941
  East of Um Idla, the map ceased to have meaning. The country was a vast, unmapped furnace of flat savannah, fractured by dry, boulder-strewn watercourses (khors) and covered in dense, suffocating thickets of gray thornbush, dry bamboo, and razor-sharp elephant grass that stood eight feet high. The temperature reached one hundred and ten degrees by mid-morning, radiating upward from the hard, cracked silt until the horizon dissolved into a shimmering lake of heat mirages.
  The mechanized echelon of Gideon Force survived less than forty-eight hours.
  The thirty requisitioned 15-cwt Ford trucks and staff cars had been intended to ferry the imperial luggage, wireless generators, and the heavy 3-inch mortar ammunition as far as the advanced supply dumps. There were no tracks, only overgrown elephant paths blocked by fallen baobabs and jagged basalt outcroppings. The trucks moved by brute force: soldiers of the 2nd Ethiopian Battalion marched ahead with axes and machetes, hacking pathways through the thorn, while Sudanese infantry dragged timber baulks under spinning rear wheels.
@@ -505,11 +471,11 @@ January 21–27, 1941
  Wingate halted on a low gravel ridge, leaned on his cane, and took off his pith helmet. Behind him, Haile Selassie sat upright on his mule, his dust-caked face turned upward toward the towering rock.
  Wingate turned to the Emperor, pointing his cane at the colossal black wall.
  "There is your citadel, Your Majesty," Wingate said, his voice raw and cracked with thirst. "Now comes the climb."
+
  Chapter Twelve
- ↑ Back to top
  The Slaughter of the Escarpment
  The Kigol Cleft, Mount Belaya
-January 28 – February 4, 1941
+  January 28 – February 4, 1941
  At the base of Mount Belaya, the water was as cold and sweet as Sandford had promised, bubbling from volcanic fissures into deep, clear basalt basins before disappearing into the sand of the Balas. For twenty-four hours, the men of Gideon Force and the surviving animals drank until their bellies swelled.
  Then began the ascent of the rock.
  Mount Belaya rose nearly three thousand feet above the yellow scrub of the lowlands in an unbroken wall of black and gray volcanic basalt. Its slopes were not dirt, but a chaotic avalanche of loose shale, jagged boulders, and vertical rock ledges tilted at angles of forty-five to sixty degrees. The only route to the high plateau was the Kigol Cleft—a narrow, serpentine ravine cut by seasonal torrents, barely wide enough in places for two men to walk abreast.
@@ -553,11 +519,11 @@ January 28 – February 4, 1941
  Abba Hanna lowered the heavy brass cross to the mountain turf. The Emperor knelt on the cold grass, bowed his head until his brow touched the soil of the plateau, and crossed himself three times.
  Wingate rolled onto his side, his face smeared with grease, sweat, and stone dust, looking up at the kneeling monarch.
  "We are on the plateau, Your Majesty," Wingate whispered, his voice broken and hoarse. "The gate is open."
+
  Chapter Thirteen
- ↑ Back to top
  The Fortress of Belaya
  Mount Belaya Plateau
-February 5–10, 1941
+  February 5–10, 1941
  On the summit of Mount Belaya, seven thousand feet above sea level, the climate punished bodies already wrecked by the lowlands. At midday, the mountain sun burned clear and hot through the thin air; by midnight, the temperature plunged into the low thirties, sending freezing ground mists rolling across the damp wild clover. The men of the 4th Sudan Frontier Battalion and the 2nd Ethiopian Battalion, who had marched through one hundred and ten degrees forty-eight hours earlier in thin drill cotton, had abandoned most of their heavy blankets on the bloody ledges of the Kigol cleft. They spent the nights huddled in shivering clusters around smoky cedar-root fires inside deep volcanic fissures.
  By the morning of February 6, Wingate had established his operational headquarters beneath a sprawling canopy of giant wild fig trees near the southern rim of the plateau.
  Beside a canvas bivouac fly, Lieutenant Abraham Akavia and Captain Donald Drew sat on two upturned packing cases, compiling the operational inventory from the surviving unit quartermasters.
@@ -597,11 +563,11 @@ February 5–10, 1941
  "Listen, Colonel," the Emperor said, his eyes brightening. "That is the war horn of Dejazmach Mengesha Jembere. The chiefs have seen the standard on the mountain. They are coming up the passes."
  Along the eastern crest of the plateau, the Sudanese sentries raised their rifles, shouting into the wind.
  Emerging from the mist of the lower clefts, climbing barefoot over the rock with their rifles held high above their heads, were the first vanguards of the Arbegnoch—hundreds of highland warriors wrapped in black sheepskins, their white shammas streaming like banners in the cold mountain gale.
+
  Chapter Fourteen
- ↑ Back to top
  The Feudal Council
  The Belaya Plateau
-February 11–13, 1941
+  February 11–13, 1941
  By the morning of February 11, the cold green summit of Mount Belaya had become the camp of an ancient, feudal empire. Nearly four thousand Arbegnoch warriors, led up from the river chasms by Dejazmach Mengesha Jembere, had pitched their rough brushwood shelters across the meadows. They were joined by the detachments of minor Gojjami chiefs—men who had lived for half a decade as outlaws in the limestone caves: Lij Hailu Belew, Dejazmach Negash Bezabeh’s envoys, and guerrilla leaders from the Lake Tana basin.
  The camp was a spectacle of medieval African chivalry. Highland warriors wore capes of black sheepskin or the manes of Ethiopian lions, their curved gurade swords strapped over their hips, their shoulders draped in silver-fringed shields of rhinoceros hide.
  Before the Emperor’s royal tent—a large double-fly canvas marquee dropped by an RAF Wellesley three days earlier—the warriors performed the fukera: the traditional boast of martial fealty. One by one, barefoot chieftains rushed toward the tent, leaping into the air, brandishing antique Gras rifles, stabbing their spears into the turf at Haile Selassie’s feet, and screaming their lineages, their battle names, and the count of Italian Ascari they had killed in the mountain passes.
@@ -642,11 +608,11 @@ February 11–13, 1941
  Wingate pulled his pocket Bible from his shirt, touched the cover with his thumb, and looked at the Emperor.
  "Order the battalions to pack their haversacks, Donald," Wingate told Drew. "Leave the reserve ammunition cases under guard here on Belaya. We march on Burye tomorrow night."
  Outside the marquee, the long, haunting wail of the kudu horns sounded across the seven-thousand-foot plateau, signaling the great descent of the phantom army into the contested valleys of Gojjam.
+
  Chapter Fifteen
- ↑ Back to top
  The Approach to Matakal
  The Matakal Trail, Western Gojjam
-February 14–19, 1941
+  February 14–19, 1941
  The descent from the eastern rim of the Belaya plateau was a vertical scramble through loose basalt scree and dry thorn. Over forty-eight hours, the fourteen hundred regulars of Gideon Force slipped and slid down three thousand feet of rock into the rolling, undulating scrub of the Matakal district.
  Behind them, on the cold summit of Belaya, Emperor Haile Selassie remained with his royal household, his imperial bodyguard, and a rearguard detachment of the 2nd Ethiopian Battalion under Captain Donald Drew, guarding the emergency landing strip and the surviving reserve stores. Ahead, moving three days in advance through the tangled river valleys, four thousand Arbegnoch under Dejazmach Mengesha Jembere had fanned out like a screen of wolves, cutting telegraph lines between Dangila and Burye and ambushing isolated Italian road patrols.
  Wingate marched at the head of the main body, accompanied by the 4th Sudan Frontier Battalion and the assault companies of the 2nd Ethiopians.
@@ -684,11 +650,11 @@ February 14–19, 1941
  Wingate lowered his glasses. His face was caked with white dust and dried sweat, his beard stubble thick and gray, but his eyes were gleaming with cold, predatory triumph.
  He glanced over his shoulder at Lieutenant Akavia, who was crawling up beside him with the field telephone wire.
  "There they are, Abraham," Wingate whispered, his voice trembling with manic intensity. "Seven thousand men trapped in their own cages. Bring up the mortar teams. Tonight, we ring the bell."
+
  Chapter Sixteen
- ↑ Back to top
  The Forts of Burye
  Burye Perimeter, Gojjam
-February 20–25, 1941
+  February 20–25, 1941
  The fortified position of Burye sat across the principal trade route connecting Lake Tana with the Blue Nile, straddling a high volcanic ridge surrounded by terraced slopes and cultivated valleys. To turn the town into an unassailable bastion, Colonel Leopoldo Natale had constructed five self-contained redoubts atop the dominating hills: Fort Upper, Fort Lower, Church Hill, East Fort, and West Fort.
  Each redoubt was an engineering work of dry-stone breastworks, timber-reinforced firing trenches, and sandbagged pillboxes, protected by concentric belts of triple-apron concertina wire and minefields laid with Italian Breda anti-personnel shrapnel charges. In the center of the perimeter lay the open dirt landing strip and the stone barracks of the Italian resident. Natale commanded four regular colonial infantry battalions—mostly veteran Eritrean Ascari—two companies of Blackshirt militia (Camicie Nere), a squadron of colonial cavalry, and two batteries of 65-millimeter and 75-millimeter pack artillery: over five thousand men with unlimited ammunition and direct telephone lines connecting every bunker.
  Against this fortress, Wingate had brought down to the immediate perimeter barely four hundred and fifty combat effectives of the 4th Sudan Frontier Battalion and a handful of Ethiopian scouts. Major Boyle’s 2nd Ethiopian Battalion had been detached to screen the trails from Dangila to the north and threaten the road toward Jigga.
@@ -719,11 +685,11 @@ February 20–25, 1941
  Wingate pulled his pocket watch from his breeches. The hands stood at 13:15 hours.
  "Disperse the mortar tubes to their jump-off points along the western ridges," Wingate ordered. "Akavia, set the loudspeakers in the gully beneath Church Hill, screened by the bamboo. No man moves until the sun is entirely below the horizon. Tonight, we begin the siege."
  As the afternoon sun dipped toward the western escarpment, long shadows stretched across the valley floor. On the parapets of the Italian redoubts, sentries manned the Breda machine guns, searching the quiet yellow scrub where four hundred and fifty men lay buried in the red earth, waiting for the coming of the dark.
+
  Chapter Seventeen
- ↑ Back to top
  Phantoms in the Wire
  Burye Perimeter, Gojjam
-February 26 – March 1, 1941
+  February 26 – March 1, 1941
  At twenty-one hundred hours on February 26, the temperature in the valley of Burye dropped into the high forties, and a cold mountain wind began to whistle through the dry eucalyptus branches. Total darkness covered the basin; by Wingate’s standing order, not a single match was struck across the four miles of scrub held by the 4th Sudan Frontier Battalion.
  Inside the perimeter of Fort Upper, eight hundred yards up the terraced slope, Italian searchlights on high timber towers snapped on, sweeping long, brilliant beams of blue-white light back and forth across the acacia gullies. The Italian garrison had been placed on maximum alert: telegraph lines to Debra Markos had been severed three times during the previous forty-eight hours by Mengesha Jembere’s Arbegnoch, and the distant crump of mortar fire from the northern tracks toward Dangila had kept the colonial command awake for three consecutive nights.
  In a dry wash five hundred yards west of the Italian airstrip, Lieutenant Abraham Akavia knelt in the gravel beside a single 3-inch mortar tube. Beside him, two Sudanese soldiers held high-explosive bombs, their brass percussion fuzes gleaming in the dark.
@@ -755,9 +721,9 @@ February 26 – March 1, 1941
  Major Johnson crawled up the scrape on his elbows. "Wingate, the snipers are in position along the western ridge."
  "Give the order," Wingate replied immediately.
  Along a dry terrace three hundred yards from Fort Upper's main concrete blockhouse, six snipers of the Sudan Frontier Battalion lay behind heavy, .55-caliber Boyes anti-tank rifles, their thick, ribbed barrels rested on flat sandbags.
-CRACK-BOOM.
+  CRACK-BOOM.
  The massive rifle discharged with a deafening, bone-jarring concussion. The hardened steel core of the half-inch armor-piercing bullet struck the narrow concrete vision slit of the Italian machine-gun bunker with a shower of white sparks, penetrating the embrasure and detonating the ammunition belt inside. A scream echoed from the bunker, followed by the clatter of a shattered tripod.
-CRACK-BOOM.
+  CRACK-BOOM.
  A second Boyes rifle fired, tearing through a timber observation post and collapsing a searchlight tower into the trench below in a tangle of wire and sparking cables.
  For four hours, until the first gray light of dawn began to touch the eastern mountains, the torment continued. Whenever the Italian fire slackened, a mortar bomb detonated on a barracks roof; whenever their searchlights swept the trees, a Boyes anti-tank round shattered the glass; and through every pause in the firing, the giant voice from the dark reminded the Eritrean troops that their Emperor was waiting in the hills.
  By zero-five hundred hours on March 1, the firing from the forts died away into an exhausted, uneasy silence. A thick pall of cordite smoke hung low over the valley, smelling of burned sulfur and scorched brush.
@@ -767,11 +733,11 @@ CRACK-BOOM.
  "The wire is loose, Hugh," Wingate said, his rasping voice dropping into a flat, deadly command. "They are exhausted. They have been awake for seventy-two hours. They have shot away a hundred thousand rounds at nothing, and they believe they are surrounded by two divisions."
  Wingate drew his Service revolver from its webbing holster.
  "Pass the word to Johnson and Nott. Assembly for the assault companies. Tonight, we do not fire from a distance. Tonight, the Fourth Battalion takes Fort Upper with the bayonet."
+
  Chapter Eighteen
- ↑ Back to top
  The Taking of Fort Upper
  Fort Upper, Burye
-March 1–2, 1941
+  March 1–2, 1941
  At twenty-two thirty hours on the night of March 1, the wind died away, leaving the hillside beneath Fort Upper shrouded in heavy mountain mist. The redoubt occupied a steep, terraced volcanic knoll rising four hundred feet above the valley floor. Its outer defenses consisted of two concentric aprons of double-strand barbed wire, reinforced with low coils of concertina wire anchored to iron pickets driven deep into the basalt shale. Behind the wire lay a dry ditch three feet deep, fronting a continuous stone breastwork with sandbagged embrasures housing heavy Breda automatics.
  In the dead ground two hundred yards below the outer wire, eighty men of No. 2 Company, 4th Sudan Frontier Battalion, lay flat on their stomachs in the cold gravel. They had stripped off their heavy webbing and packs, carrying only their Lee-Enfields, five-round chargers in their cloth bandoliers, and canvas pouches of No. 36 Mills fragmentation grenades. Their bayonets were fixed, the dull blackened steel wrapped in greasy rag strips to prevent glint under star shells.
  Major Ronnie Johnson crawled on his elbows along the line of riflemen, stopping beside Captain Donald Nott.
@@ -790,7 +756,7 @@ March 1–2, 1941
  Behind him, eighty Sudanese soldiers rose out of the rocks with a collective, terrifying roar.
  The forward parapet of Fort Upper erupted into flame. A Breda heavy machine gun opened up from a sandbagged revetment, its heavy 8-millimeter rounds snapping through the grass and ricocheting off the basalt boulders with violent whines. Two Sudanese riflemen running beside Johnson pitched forward onto their faces, their chests torn open by automatic fire.
  Nott’s platoon reached the second wire apron at a full sprint. Sapping teams dropped canvas mattresses across the coils; men vaulted over the wire, boots tearing through the fabric, throwing themselves directly down into the Italian perimeter ditch.
-CRASH.
+  CRASH.
  Johnson pulled the pin from a Mills grenade, counted one second, and lobbed it over the stone breastwork. The concussion shook the stone wall, throwing up a shower of dirt and shredded sandbags. A second grenade exploded inside an open dugout, followed by the high-pitched screams of wounded men and the frantic shouting of Italian officers: "Granate! Rientrate nelle casematte!"
  The Sudanese swarmed over the parapet with fixed bayonets.
  What followed in the narrow, zigzagging trenches of Fort Upper was twenty minutes of savage, hand-to-hand butchery in the pitch black. The Eritrean Ascari fought with their curved bayonets and rifle butts, defending their sandbagged traverses with desperate bravery. Men grappled on the trench floor, choking each other in the mud, firing blindly at point-blank range.
@@ -801,7 +767,7 @@ CRASH.
  The surviving Italian garrison—roughly sixty Blackshirts and Eritreans—fled down the eastern communication trench into the open valley, abandoning their dead, twelve heavy Breda machine guns, two 45-millimeter mortars, and forty thousand rounds of belted ammunition. Fort Upper, the tactical linchpin of the Burye defenses, was in the hands of Gideon Force.
  The victory, however, carried an immediate, deadly price.
  From the summit of Church Hill, two miles across the basin, Colonel Natale’s artillery observers had watched the green signal flares of their own fleeing troops. Natale did not hesitate. He realized that the lost redoubt commanded his airstrip, his vehicle park, and his headquarters.
-CRACK-BOOM.
+  CRACK-BOOM.
  The Italian 75-millimeter batteries opened fire with concentrated divisional fury.
  Within three minutes, Fort Upper was enveloped in a rolling, deafening inferno of high-explosive shells. The heavy projectiles slammed into the stone breastworks, blasting tons of shattered basalt and shrapnel into the open trenches. Sudanese soldiers pressed their bodies flat against the trench walls, covering their heads with their arms as the parapets disintegrated under direct impacts.
  Lieutenant-Colonel Hugh Boustead scrambled over the rear stones into the captured command post, a deep dugout built from railway sleepers and basalt boulders. Blood dripped from a shrapnel gouge across his left temple, staining his collar crimson.
@@ -818,11 +784,11 @@ CRACK-BOOM.
  "He is preparing to evacuate the entire garrison. He will run for Dembecha before the sun clears the ridges."
  Wingate grabbed Boustead’s arm, his fingers digging like iron claws into the cloth of the colonel's bush jacket.
  "Get Akavia on the runner. Signal Dejazmach Mengesha on the eastern trails. Natale is coming out onto the road. Tell the Arbegnoch the wolves can eat."
+
  Chapter Nineteen
- ↑ Back to top
  Natale’s Collapse
  Italian Sector Command Headquarters, Burye
-March 2–3, 1941
+  March 2–3, 1941
  Inside the whitewashed stone compound of the Residenza, half a mile south of the burning airstrip, the air smelled of scorched paper and sulfur. The headquarters of the 7th Colonial Brigade was in a state of controlled panic. In the courtyard beneath the jacaranda trees, Italian clerks hurled armfuls of personnel dossiers, cypher books, and colonial land registers into roaring gasoline fires. Outside the perimeter gates, the engines of fifty Fiat and Alfa Romeo heavy diesel lorries idled in a continuous, shuddering roar, their flatbeds crowded with wounded Ascari, Blackshirt militia, and Italian civilian settlers evacuated from the agricultural concessions.
  In the operations room, where the plaster had cracked from the concussions of Akavia’s three-inch mortars, Colonel Leopoldo Natale leaned over his mahogany command desk.
  Natale was a veteran colonial officer who had served in Libya and through the 1935 campaign. His eyes were red-rimmed from seventy-two hours without sleep, his field tunic unbuttoned at the throat. Across the table stood Major Mario de Dominicis, commanding the 2nd Blackshirt Battalion (Camicie Nere), and Captain Rossi of the 75-millimeter artillery group.
@@ -863,11 +829,11 @@ March 2–3, 1941
  Drew caught Wingate’s sleeve. "The men have been fighting and marching for six straight days, Orde. They have no water, and the mules are five miles behind us."
  "The water is in the canteens of the dead Italians on that road, Donald!" Wingate snarled, tearing his arm free. "If we stop to sleep, Natale consolidates at Dembecha! We march now! On their heels! Into their blood!"
  Wingate ran down the rocky slope toward the smoking ruins of Burye, leaving Drew and Akavia in the flickering orange glare of the burning magazines, as the Sudan Frontier Battalion moved out into the darkness behind him in relentless, running pursuit.
+
  Chapter Twenty
- ↑ Back to top
  Overrun at the Charaka
  The Burye–Dembecha Road and the Charaka River Crossing
-March 4–6, 1941
+  March 4–6, 1941
  The all-weather road constructed by the Italian Genio Militare cut through the volcanic foothills of the Choke Mountains like an open red ditch. Along its verges, the signs of Colonel Leopoldo Natale’s sudden evacuation of Burye lay strewn for twenty miles: discarded ration tins stamped with the Fascist fasces, shattered wicker artillery baskets, bloated pack mules with their bellies split by the midday heat, and the smoldering timber skeletons of supply lorries torched by Italian rearguard pioneers when their axles snapped in the gravel ruts. At the crossroads hamlet of Jigga, the stone post-house and the thatch roofs of the market stalls were still throwing up pillars of greasy yellow smoke when the vanguard scouts of Gideon Force crept past the perimeter wire.
  Natale’s formation had not dissolved into the bush. It had coiled itself into an armored, moving bastion. Halting on the night of March 4 beneath the volcanic dome of Amba Tullo to water its thousands of animals and reorganize its marching order, the 7th Colonial Brigade resumed its retreat at first light on March 5, grinding inexorably southeast toward the fortified garrison town of Dembecha.
  Between Natale and safety sat a microscopic, isolated detachment of the phantom army.
@@ -890,25 +856,25 @@ March 4–6, 1941
  Rolling down the center of the road at twenty miles an hour came the iron vanguard of the 7th Colonial Brigade: two Italian light armored cars (autoblindo) followed by a pair of Fiat-Ansaldo CV-35 tankettes, their twin 8-millimeter machine guns sweeping the roadside scrub. Behind the armor came fifty heavy diesel lorries crowded with two thousand Eritrean Ascari, flanked on both sides of the roadway by four hundred mounted colonial banda cavalry riding highland ponies, their carbines balanced across their saddle bows.
  Natale was not creeping forward in demoralized panic; he was marching down the road in full divisional order of battle, with the crushing mass of an army sweeping aside an obstacle on the pavement.
  The lead armored car spotted the Ethiopian bivouac beside the bridge. Its riveted turret traversed with a grinding screech of gears.
-TAT-TAT-TAT-TAT-TAT.
+  TAT-TAT-TAT-TAT-TAT.
  Heavy bursts of 8-millimeter Breda fire slashed through the acacia boughs, chipping jagged shards of concrete from the culvert rim and tearing through the canvas covers of the ammunition dumps. Two Ethiopian sentries standing by the roadside pitched backward into the creek bed, their chests ripped open by armor-piercing bullets.
  "Where is the Boys rifle?" Boyle shouted, pressing his face flat against the road embankment as tracer rounds snapped through the dirt inches above his helmet. "Falaka! Bring up the rifle!"
  From a shallow scrape in the red clay forty yards north of the culvert, Corporal Wandafresh Falaka dragged himself forward. He was a veteran of the Imperial Bodyguard who had fought through the northern retreat from Shire in 1936, his face scarred by old powder burns. In his calloused hands he gripped the massive, forty-pound Boys .55-caliber anti-tank rifle, resting its heavy muzzle brake over an abandoned wooden pack-saddle.
  Falaka chambered a five-inch steel-cored cartridge, driving the bolt home with a sharp, heavy clank. Through the offset iron sights, he centered the flat, riveted radiator plate of the leading armored car, now eighty yards away and accelerating toward the bridge.
-CRACK-BOOM.
+  CRACK-BOOM.
  The rifle discharged with a deafening, bone-shattering roar that kicked up a whirlwind of red dust around the gunner. The five-inch recoil cylinder slammed back against Falaka's shoulder, bruising the joint.
  The heavy, hardened-steel projectile struck the center of the armored car's radiator grille at over three thousand feet per second. It punched clean through the face-hardened armor plating, shattered the water jacket, smashed into the four-cylinder diesel block, and sprayed white-hot fragments of cast iron into the driving cab.
  Steam and black oil vapor erupted from the hood. The vehicle swerved violently to the left, its tires screaming on the asphalt, before ramming into the ditch and flipping onto its side with a catastrophic screech of torn metal.
  "Hit the second one, Falaka!" Tutton screamed from the creek bed, firing three-round bursts from a Bren gun into the following lorries. "Don't let them close the ditch!"
  Falaka threw his weight against the bolt handle, ejecting the smoking brass casing. He slammed the bolt home on a fresh cartridge, traversing the heavy barrel toward the second armored car as its turret swung toward his muzzle flash.
-CRACK-BOOM.
+  CRACK-BOOM.
  The second armor-piercing projectile struck the vision visor of the vehicle, blinding the driver with spalling metal. The car braked violently, tires skidding on the road, its machine guns chattering wild arcs into the morning sky.
  For ninety seconds, a single Ethiopian corporal with an anti-tank rifle brought the vanguard of an entire Italian brigade to a dead halt on the highway.
  Then the numerical weight of five thousand men was brought to bear.
  Colonel Natale did not attempt to force the bridge with his remaining armor. Standing in the open hatch of his command car six hundred yards to the rear, he realized he was facing an isolated blocking party. Natale swung his gloved arm outward to the flanks.
  "Battaglioni in linea! Aggirare le ali! Subito!"
  Three full battalions of Eritrean regulars—seasoned veterans of the colonial service who knew how to use terrain—deployed from the beds of the rear lorries in long, disciplined skirmish lines, fanning out into the dense bamboo thickets five hundred yards to the left and right of the culvert. Behind them, two batteries of 65-millimeter pack guns unlimbered directly on the road surface, dropping their trail-spades onto the asphalt.
-BANG-BANG-BANG-BANG.
+  BANG-BANG-BANG-BANG.
  The mountain guns opened fire at point-blank range—barely four hundred yards. The high-explosive shells screamed through the mist and burst directly into the soft clay banks of the Charaka, throwing up geysers of black mud, severed bamboo, and pulverized basalt.
  Simultaneously, four hundred mounted banda cavalry galloped through the dry pastures north of the road, sweeping around Boyle’s right flank like a scythe, firing their carbines from the saddle and screaming their highland battle cries.
  Boyle raised his head from the ditch, his face covered in soot.
@@ -934,11 +900,11 @@ BANG-BANG-BANG-BANG.
  "We have lost the transport, Alan," Boyle whispered, his voice hollow with shock. "Every wretched box. If Wingate doesn't take Dembecha, we are going to starve in these rocks."
  He turned to his surviving sergeant, motioning toward the deep southern gorges.
  "Bandage the wounded with torn shirts," Boyle ordered quietly. "We stay in the bamboo until nightfall. Then we head for Dembecha by the goat tracks. Pray the town has fallen before we get there."
+
  Chapter Twenty-One
- ↑ Back to top
  The Gates of Dembecha
  Dembecha Cantonment and Debra Markos
-March 6–11, 1941
+  March 6–11, 1941
  The dust thrown up by Colonel Leopoldo Natale’s retreating column hung over the red clay basin of Dembecha for three miles before the trucks reached the outer wire.
  The town sat twelve hundred feet higher than Burye, nestled in the cold, rolling foothills beneath the southern shoulder of the Choke Mountains. For five years, the Italian military administration had maintained Dembecha as a vital communications link along the provincial highway connecting Lake Tana with Debra Markos and the Blue Nile crossing. The stronghold was defended by an entrenched stone fort on a dominating knoll, reinforced with masonry machine-gun casemates, deep communication trenches, and double belts of concertina wire, garrisoned by five hundred colonial Ascari and a company of Italian Blackshirt militia.
  When the lead Fiat diesel lorries of the 7th Colonial Brigade roared past the roadblock at midday on March 6, accompanied by mounted banda dragging two hundred captured British baggage camels under the whip, the garrison commander did not receive a victorious vanguard. He received an exhausted, demoralized army running on empty fuel tanks.
@@ -1016,11 +982,11 @@ March 6–11, 1941
  Wingate pointed his leather swagger cane eastward, toward the jagged, snow-capped peaks of the Choke range.
  "We will give them no time to dig! We will give them no time to pray! Pack your kits! Form the column! We march to Debra Markos!"
  With a synchronized clatter of rifle bolts and the heavy crunch of boots on clay, the column swung out of the broken gates of Dembecha, taking the road toward the high plateau, while twenty miles behind them, the imperial motorcade of Haile Selassie rolled across the charred crossing of the Charaka.
+
  Chapter Twenty-Two
- ↑ Back to top
  The Wake of the Column
  The Provincial Highway between Burye, Jigga, and Dembecha
-March 9–16, 1941
+  March 9–16, 1941
  The trail of the retreat had become a trench of putrefaction thirty miles long. Under a ferocious sun that baked the red clay of Gojjam into cracked pottery, the provincial highway was lined on both verges with the swollen, blackening carcasses of hundreds of baggage camels and artillery mules. Their bellies, bloated by internal gases, had split open in the heat, spilling gray intestines into the dust to be torn apart by flocks of marabou storks, Egyptian vultures, and packs of yellow pariah dogs that snarled at passing vehicles from the thorn thickets.
  Every culvert smelled of human excrement and untreated gangrene. Where the Italian 7th Colonial Brigade had bivouacked in its panicked withdrawal, discarded uniforms, empty Chianti bottles, and wooden packing slats were mingled with the unburied corpses of colonial banda—killed by Arbegnoch snipers, stripped naked by local peasants, and left to dry like leather in the highland air.
  Through this charnel house moved the imperial caravan of Emperor Haile Selassie I.
@@ -1075,18 +1041,18 @@ March 9–16, 1941
  Chapman-Andrews broke the red wax seal and unfolded the single sheet of ruled field-notebook paper inside.
  The Emperor looked up from his administrative registers, his pen suspended over the inkpot. "Wingate?"
  "Yes, Sire," Chapman-Andrews said, reading the frantic, sprawling handwriting penciled in Wingate’s unmistakable, violent script.
-COLONEL MARAVENTANO HAS CONCENTRATED TWELVE THOUSAND MEN INSIDE DEBRA MARKOS. POSITION STRONGLY FORTIFIED WITH ARTILLERY AND MASONRY WORKS ON MOUNT GULIT. FORCE DISPERSED IN SURROUNDING SCRUB. CASUALTIES FROM MALARIA AND EXHAUSTION SEVERE. FOURTH BATTALION DOWN TO BARELY THREE HUNDRED RIFLES. AMMUNITION CRITICAL.
+  COLONEL MARAVENTANO HAS CONCENTRATED TWELVE THOUSAND MEN INSIDE DEBRA MARKOS. POSITION STRONGLY FORTIFIED WITH ARTILLERY AND MASONRY WORKS ON MOUNT GULIT. FORCE DISPERSED IN SURROUNDING SCRUB. CASUALTIES FROM MALARIA AND EXHAUSTION SEVERE. FOURTH BATTALION DOWN TO BARELY THREE HUNDRED RIFLES. AMMUNITION CRITICAL.
  Chapman-Andrews looked up from the paper, his jaw tightening.
  "He continues, Sire: 'WE HAVE INVESTED THE WESTERN APPROACHES. NIGHT HARASSMENT COMMENCED. I HAVE ORDERED THE THREE-INCH MORTARS TO OPEN UPON THEIR COMMUNICATIONS. IF MARAVENTANO REALIZES WE ARE A PHANTOM, HE WILL CRUSH US AGAINST THE CLIFFS. TELL THE EMPEROR TO ADVANCE HIS HEADQUARTERS TO THE CHOKE PASSES IMMEDIATELY. HIS PRESENCE IS THE ONLY WEAPON THAT CAN PARALYZE THE GARRISON.'"
  Haile Selassie rose slowly from his folding chair. He walked to the tent entrance, pulling the canvas flap aside to look out into the raging mountain storm.
  To the east, the black, jagged silhouettes of the Choke Mountains were illuminated by sheets of blue-white lightning. Somewhere beyond those jagged basalt crests, perched on its high, cold plateau seven thousand feet in the sky, sat the fortress city of Debra Markos, where twelve thousand Italian troops and the collaborationist army of Ras Hailu waited behind their barbed wire.
  The Emperor turned back to Chapman-Andrews, his dark eyes burning with calm, unshakeable resolution.
  "Order the bodyguards to strike the tents at dawn, Major," Haile Selassie said quietly. "We have rested long enough. The path to the capital runs through Debra Markos, and Colonel Wingate is waiting for us in the dark."
+
  Chapter Twenty-Three
- ↑ Back to top
- The Fortresses of Debra Markos and the Traitor Prince
+ The Fortresses of Debra Markos
  Debra Markos, Gojjam Province
-March 14–22, 1941
+  March 14–22, 1941
  Perched at eight thousand feet on a rolling basalt plateau beneath the southern spires of the Choke range, Debra Markos was the administrative and feudal heart of Gojjam. For five years, the Italian Viceroyalty had poured millions of lire into transforming the ancient provincial seat into an unassailable bastion of empire.
  The military complex was anchored by Fort Dux, a massive masonry and reinforced-concrete citadel constructed on a high knoll east of the town, commanding the road to the Blue Nile gorge with tiered artillery revetments and sandbagged machine-gun pillboxes. To the north and northwest, dominating the approaches from Dembecha, rose the terraced crest of Mount Gulit—a jagged basalt ridge converted into a fortress of dry-stone sangars, anti-tank ditches, and double belts of concertina wire. In the open ground between the ridges lay the regional high-power radio station, its twin steel aerial towers soaring three hundred feet into the thin mountain air, maintaining direct wireless connection with General Nasi at Gondar, Viceroy the Duke of Aosta in Addis Ababa, and the supreme command in Rome.
  Inside this perimeter, Colonel Saverio Maraventano commanded a garrison of formidable strength: twelve thousand officers and men.
@@ -1148,11 +1114,11 @@ March 14–22, 1941
  "If he sorties in daylight, Hugh, we will die on this shale," Wingate said, his voice dropping into a solemn, liturgical whisper. "But he will not sortie. Because God has put fear into his heart, and the Emperor is on the road behind us."
  Wingate closed his eyes for three seconds, his body shaking with a violent malaria tremor, before strapping his cane to his wrist.
  "Pass the word to Boyle and Johnson," Wingate ordered. "Bring the hunter sections forward into the dead ground. Night has fallen. Tonight, we ring the bell at Debra Markos."
+
  Chapter Twenty-Four
- ↑ Back to top
  The Investment of Gulit
  The Heights of Gulit, Northwest of Debra Markos
-March 22–31, 1941
+  March 22–31, 1941
  The camp of Gideon Force clung to the reverse slope of a razorback basalt ridge two miles northwest of Debra Markos, six hundred yards below the forward Italian wire of Mount Gulit.
  The position was an ordeal of physical misery. At eight thousand feet, the dry season was ending; freezing mountain gales alternated with sudden, violent cloudbursts that turned the red volcanic clay into a grease that fouled rifle bolts and flooded the shallow two-man scrapes where the men slept. There were no tents. Men lived beneath shelter-halves rigged between wild heather bushes, shivering in sodden blankets that never dried, chewing cold porridge made from ground parched barley stirred into rainwater.
  By March 25, the medical state of the force had reached the point of operational collapse.
@@ -1163,7 +1129,7 @@ March 22–31, 1941
  Wingate threw his pen onto the rock floor, clutching the blanket around his shoulders.
  "Read it to me again, Abraham," Wingate rasped, his voice a dry, rasping wheeze that barely carried over the steady dripping of groundwater from the cave roof. "The signal from Cairo."
  Akavia adjusted his spectacles, reading from his deciphered notepad:
-HEADQUARTERS MIDDLE EAST COMMAND TO LIEUTENANT-COLONEL WINGATE. REPEAT: NO FURTHER AIR DROPS OF THREE-INCH MORTAR AMMUNITION OR MEDICAL STORES POSSIBLE FROM KHARTOUM DUE TO OPERATIONAL COMMITMENTS AT KEREN. YOU ARE DIRECTED TO MAINTAIN PRESSURE ON DEBRA MARKOS PERIMETER BUT AVOID DECISIVE ENGAGEMENT UNTIL REGULAR ADVANCE FROM SOUTH REACHES CAPITAL. END.
+  HEADQUARTERS MIDDLE EAST COMMAND TO LIEUTENANT-COLONEL WINGATE. REPEAT: NO FURTHER AIR DROPS OF THREE-INCH MORTAR AMMUNITION OR MEDICAL STORES POSSIBLE FROM KHARTOUM DUE TO OPERATIONAL COMMITMENTS AT KEREN. YOU ARE DIRECTED TO MAINTAIN PRESSURE ON DEBRA MARKOS PERIMETER BUT AVOID DECISIVE ENGAGEMENT UNTIL REGULAR ADVANCE FROM SOUTH REACHES CAPITAL. END.
  Wingate erupted into a coughing fit that shook his entire body, spitting yellow phlegm into the dirt. He lunged forward, snatching the paper from Akavia’s hand and crumpling it in his fist.
  "Clerks!" Wingate hissed, his dilated blue eyes burning with feverish hatred. "Colonial clerks sitting under electric fans in the Turf Club! 'Maintain pressure!' They want me to maintain pressure on twelve thousand men with eighty mortar shells and two hundred malaria cases! They do not want us in Debra Markos, Abraham! Wavell does not want the Emperor on his throne! They want Cunningham’s white South Africans to take Addis Ababa so they can paint the whole country red on their imperial maps!"
  He tossed the crumpled paper into a corner of the cave, reaching for his battered King James Bible.
@@ -1200,9 +1166,9 @@ HEADQUARTERS MIDDLE EAST COMMAND TO LIEUTENANT-COLONEL WINGATE. REPEAT: NO FURTH
  A battery of 81-millimeter Breda mortars on the reverse slope of Gulit opened fire. The heavy bombs whistled down through the dark, exploding in the bamboo two hundred yards to the left of the speaker, throwing up fountains of black dirt and shredded wood.
  Wingate did not move. He lay in the mud, clutching his swagger cane, his face lit by the flash of bursting mortar shells, his body shaking with a wild, manic joy.
  Beside him, two snipers of the 4th Frontier Battalion lay behind heavy Boys .55 anti-tank rifles rested on flat basalt boulders.
-CRACK-BOOM.
+  CRACK-BOOM.
  The massive rifle discharged with a blinding muzzle flash. The half-inch hardened steel round slammed directly into the steel housing of an Italian searchlight tower on the crest. The carbon-arc lamp exploded in a brilliant shower of blue-white sparks, its shattered glass raining down into the Italian trenches as the beam vanished into pitch blackness.
-CRACK-BOOM.
+  CRACK-BOOM.
  The second rifle fired, punching an armor-piercing hole through the sandbagged embrasure of a machine-gun pillbox, followed by the clatter of a shattered tripod and the agonizing shrieks of wounded gunners.
  For six hours, until the first pale light of dawn began to touch the jagged spires of the Choke range, the phantom siege continued. Mortar shells dropped at twenty-minute intervals; sniper fire cracked every time an Italian helmet showed above the parapet; and through every lull in the shelling, the voice from the scrub reminded twelve thousand men that their empire was turning to ashes behind them.
  At dawn on March 31, the firing from Gulit ceased. A thick mountain fog rolled down from the heights, blanketing both armies in a cold, white silence.
@@ -1212,7 +1178,7 @@ CRACK-BOOM.
  Wingate turned his head slowly. "What is it?"
  "A wireless signal from Fort Dux to Gondar, intercepted five minutes ago," Akavia said, handing over the deciphered form. "Maraventano has cracked under the strain. But he is not running."
  Wingate snatched the paper, holding it close to his bloodshot eyes.
-SECTOR COMMAND DEBRA MARKOS TO COMMANDER-IN-CHIEF GONDAR. ENEMY CONCENTRATION ON GULIT HEIGHTS POSES IMMEDIATE THREAT TO FORTRESS COMMUNICATIONS. CANTONMENT CANNOT SURVIVE CONTINUOUS ARTILLERY INTERDICTION. HAVE ORDERED GENERAL SORTIE FOR FIRST LIGHT TOMORROW. TWO BATTALIONS ASCARI AND ONE BATTALION CAMICIE NERE WITH FIELD ARTILLERY WILL ATTACK GULIT RIDGE IN FORCE TO CLEAR ENEMY FORMATIONS AND SEIZE WATERHEADS. MARAVENTANO.
+  SECTOR COMMAND DEBRA MARKOS TO COMMANDER-IN-CHIEF GONDAR. ENEMY CONCENTRATION ON GULIT HEIGHTS POSES IMMEDIATE THREAT TO FORTRESS COMMUNICATIONS. CANTONMENT CANNOT SURVIVE CONTINUOUS ARTILLERY INTERDICTION. HAVE ORDERED GENERAL SORTIE FOR FIRST LIGHT TOMORROW. TWO BATTALIONS ASCARI AND ONE BATTALION CAMICIE NERE WITH FIELD ARTILLERY WILL ATTACK GULIT RIDGE IN FORCE TO CLEAR ENEMY FORMATIONS AND SEIZE WATERHEADS. MARAVENTANO.
  Wingate stood frozen, the paper trembling in his fingers. The silence in the cave was absolute, save for the steady dripping of the roof.
  Boustead stepped up beside him, reading the cipher over Wingate’s shoulder.
  "The bluff is over, Wingate," Boustead said, his voice flat, steady, and devoid of fear. "Maraventano is coming out. He is bringing three thousand men with pack artillery against this ridge tomorrow morning. We have two hundred and seventy rifles and sixty rounds of small-arms ammunition per man."
@@ -1220,11 +1186,11 @@ SECTOR COMMAND DEBRA MARKOS TO COMMANDER-IN-CHIEF GONDAR. ENEMY CONCENTRATION ON
  The fever in his eyes had cleared, replaced by a cold, terrible lucidity.
  "Then we will fight them on this shale, Hugh," Wingate said softly. "Form the companies on the crest. Sandbag the sangars. Put McDonald and Nott on the forward spurs. Tomorrow, we show Maraventano the price of Mount Gulit."
  Wingate stepped to the cave mouth, looking out through the drifting fog toward the silent, looming bulk of the mountain, as the distant, brassy notes of Italian infantry bugles began to echo across the plateau.
+
  Chapter Twenty-Five
- ↑ Back to top
  The Redoubt in the Rain
  The Northern Perimeter, Debra Markos
-April 1–3, 1941
+  April 1–3, 1941
  By the final afternoon of March, the grand Italian sortie had died on the map tables of Fort Dux. Colonel Saverio Maraventano’s planned pincer offensive—four thousand infantry intended to sweep the scrub down to the Piccolo Abbai—had been frozen by the wireless dispatches from the north. General Carnimeo had broken at Keren; the passes of Mount Dologorodoc had been carried by the 4th Indian Division; and across five hundred miles of mountain telegraph wire, the Italian empire in the north had begun its final unraveling. Rather than marching into the open scrub, Maraventano pulled his battalions tighter into their concrete revetments, waiting behind double belts of barbed wire for an assault that did not exist.
  On the reverse slope of the western ridges, Gideon Force had no time to wait.
  The phantom army was dying of attrition. Two hundred and seventy sick men could not maintain an open siege against twelve thousand indefinitely; every dawn that broke without an action gave the Italian artillery observers an opportunity to count the empty ravines and realize there was no second echelon behind the scrub. To maintain the paralysis of the garrison, the illusion of an impending divisional storm had to be driven directly into the perimeter forts.
@@ -1245,7 +1211,7 @@ April 1–3, 1941
  From the dark ten yards ahead came the sudden, sharp scrape of a rifle bolt being thrown home, followed by an Italian challenge half-muffled by the downpour: "Chi va là?"
  The outer trench had been manned.
  MacDonald did not pause. He wrenched the pin from a Mills grenade with his teeth, rose to his knees in the mud, and hurled the iron bomb directly into the trench.
-CRASH.
+  CRASH.
  The blast illuminated the water-filled ditch in an incandescent flash of orange, spraying pulverized mud and jagged metal into the darkness. A second and third Mills bomb exploded in rapid succession, followed by the screams of Italian colonial sentries and the frantic clatter of a shattered Breda automatic.
  "Hujum!" MacDonald shouted into the teeth of the rain. "Forward!"
  The Sudanese swarmed through the low wire, firing their rifles into the collapsed trench, clearing the forward outwork in two minutes of close-quarters violence. The surviving Italian pickets scrambled back through a communication sap toward the main redoubt, shouting panic-stricken warnings into the night: "Allarme! Assalto inglese! Granate!"
@@ -1275,11 +1241,11 @@ CRASH.
  Boustead closed the book. He stepped to the edge of the pit, took a handful of the cold red basalt soil, and let it fall upon the blanket below.
  "Rest well, Colin," Boustead murmured.
  He straightened, pulled his hat down tight over his brow, and turned his back upon the churchyard, walking toward the forward ridges where the black plumes of smoke were already beginning to rise from the burning ammunition dumps of Debra Markos.
+
  Chapter Twenty-Six
- ↑ Back to top
  The Flight of Maraventano
  Debra Markos to the Blue Nile Gorge
-April 3–5, 1941
+  April 3–5, 1941
  At midday on April 3, the radio room inside the subterranean concrete bunker of Fort Dux intercepted the broadcast that sealed the fate of Italian rule in Shoa.
  The transmission came not from Rome, but from the municipal station at Addis Ababa: Viceroy Prince Amedeo, Duke of Aosta, had formally declared the imperial capital an open city to spare its European population from aerial bombardment and native insurrection. The Viceroy and General Claudio Trezzani had already begun the evacuation of forty thousand troops northeast along the paved Strada Imperiale toward the mountain bastion of Dessie. To the south, the armored vanguard of the 1st South African Brigade under Brigadier Dan Pienaar was thirty miles from the capital, its scout cars sweeping up the railway line from Dire Dawa without resistance.
  For Colonel Saverio Maraventano, the operational map of East Africa had ceased to exist.
@@ -1339,11 +1305,11 @@ April 3–5, 1941
  Thesiger looked down the track toward the abyss, a faint, cold smile touching his lips.
  "It will be an interesting march, Colonel," Thesiger said quietly.
  He turned on his heel, unholstering his compass, and walked toward the northern gate, while five miles behind him on the Dembecha road, the sirens of the imperial convoy announced that Emperor Haile Selassie was approaching the gates of Debra Markos.
+
  Chapter Twenty-Seven
- ↑ Back to top
  The Submission of Ras Hailu
  Debra Markos, Gojjam Province
-April 6, 1941
+  April 6, 1941
  The morning of Palm Sunday, April 6, broke over the Gojjam plateau in a sharp, crystalline light that burned away the dawn frost from the eucalyptus boughs. In the ancient church of Saint Mark, perched on the highest knoll of the town beneath towering cedar trees, the bronze bells began to toll—a slow, resonant rhythm that had not sounded across the valley since the Italian occupation began in the summer of 1936.
  Along the broad avenue leading from the Dembecha gate to the municipal square, thousands of highland peasants, townspeople, and Arbegnoch fighters lined the ditches. The red mud was littered with branches of wild olive and green palm fronds thrown down by weeping women dressed in the white cotton shammas of mourning and celebration. Flanking the road, a guard of honor from the 4th Sudan Frontier Battalion stood at present-arms, their blackened bayonets catching the cold morning sun, their uniforms stiff with dried mud and cordite.
  At 10:00 hours, the imperial motorcade entered the town.
@@ -1387,8 +1353,8 @@ April 6, 1941
  Wingate snatched the folder. "Is it Cunningham? Has he crossed the Awash?"
  "He hasn't just crossed the Awash, Orde," Chapman-Andrews said, pointing at the decoded text. "General Wetherall’s 11th African Division and the South Africans entered Addis Ababa this morning. At zero-nine thirty hours. The Duke of Aosta has fled to the north. Addis Ababa has fallen."
  Wingate’s eyes widened, a terrible, suffocating fury instantly replacing his composure. He read the lines of uppercase print:
-FROM GENERAL HEADQUARTERS, EAST AFRICA FORCE, ADDIS ABABA, TO BRIGADIER SANDFORD AND LIEUTENANT-COLONEL WINGATE, MISSION 101. REPEAT TO WAR OFFICE AND GHQ CAIRO.
-CAPITAL SECURED BY REGULAR FORCES WITHOUT CIVIL DISTURBANCE. LARGE ITALIAN CIVILIAN POPULATION UNDER BRITISH MILITARY PROTECTION. IN VIEW OF DELICATE INTERNAL SECURITY SITUATION AND PENDING DECISION REGARDING ESTABLISHMENT OF OCCUPIED ENEMY TERRITORY ADMINISTRATION (OETA), EMPEROR HAILE SELASSIE IS STRICTLY DIRECTED TO REMAIN AT DEBRA MARKOS. HE MUST NOT ATTEMPT TO ADVANCE TOWARD THE CAPITAL UNTIL FORMAL CLEARANCE IS ISSUED BY LIEUTENANT-GENERAL CUNNINGHAM. REPEAT: HE MUST NOT MOVE. ACKNOWLEDGE IMMEDIATELY.
+  FROM GENERAL HEADQUARTERS, EAST AFRICA FORCE, ADDIS ABABA, TO BRIGADIER SANDFORD AND LIEUTENANT-COLONEL WINGATE, MISSION 101. REPEAT TO WAR OFFICE AND GHQ CAIRO.
+  CAPITAL SECURED BY REGULAR FORCES WITHOUT CIVIL DISTURBANCE. LARGE ITALIAN CIVILIAN POPULATION UNDER BRITISH MILITARY PROTECTION. IN VIEW OF DELICATE INTERNAL SECURITY SITUATION AND PENDING DECISION REGARDING ESTABLISHMENT OF OCCUPIED ENEMY TERRITORY ADMINISTRATION (OETA), EMPEROR HAILE SELASSIE IS STRICTLY DIRECTED TO REMAIN AT DEBRA MARKOS. HE MUST NOT ATTEMPT TO ADVANCE TOWARD THE CAPITAL UNTIL FORMAL CLEARANCE IS ISSUED BY LIEUTENANT-GENERAL CUNNINGHAM. REPEAT: HE MUST NOT MOVE. ACKNOWLEDGE IMMEDIATELY.
  Wingate stood frozen in the bright mountain sunlight, his hands trembling so violently that the paper rattled against his knuckles. The color drained from his face, leaving his malaria-yellowed skin ashen and ghastly.
  "Strictly directed," Wingate whispered, his voice cracking like dry bamboo. "Strictly directed to remain in Gojjam."
  He looked toward the platform where Haile Selassie was blessing a group of kneeling priests, the imperial standard fluttering proudly in the breeze above the liberated town.
@@ -1398,17 +1364,17 @@ CAPITAL SECURED BY REGULAR FORCES WITHOUT CIVIL DISTURBANCE. LARGE ITALIAN CIVIL
  Chapman-Andrews grabbed Wingate’s shoulders, his voice hard and urgent. "Orde, listen to me! That is an order from a full General! If you defy Cunningham now, it is mutiny!"
  Wingate tore himself from Chapman-Andrews's grip, his swagger cane raised like a club.
  "Then it is mutiny, Major! It is mutiny against a gang of imperial thieves! We cross the Blue Nile tomorrow!"
+
  Chapter Twenty-Eight
- ↑ Back to top
  The Cairo Cables
  Debra Markos, Gojjam Province
-April 7–12, 1941
+  April 7–12, 1941
  The signals tent behind the former Italian Residenza smelled of battery acid, damp canvas, and burning paraffin. Outside, the rain drummed against the eucalyptus boles in a cold, ceaseless downpour, while inside, the hand-cranked generator whined as Lieutenant Abraham Akavia pulled sheets of decoded cipher from the receiver clip.
  Major Orde Wingate stood over the trestle table, his fists clenched so tightly that his knuckles were white. He was wrapped in a frayed woolen scarf, shivering from a recurring wave of malaria, his eyes sunken and yellowed from quinacrine. Spread across the map were three yellow cable forms transmitted through the Cairo relay from General Headquarters, Middle East Command, and General Alan Cunningham’s forward headquarters in Addis Ababa.
  Brigadier Daniel Sandford sat on an empty ration box, cleaning the mud from his spectacle frames with a dry corner of his handkerchief. Beside him stood Edwin Chapman-Andrews, holding his leather dispatch case like a shield.
  "Read the second paragraph again, Chapman-Andrews," Wingate rasped, his voice harsh with suppressed rage. "Read the exact phrasing from Cairo."
  Chapman-Andrews hesitated, looking down at the typewritten lines:
-...FOREIGN OFFICE ADVISES THAT PENDING FORMAL REGULATION OF OCCUPIED ENEMY TERRITORY ADMINISTRATION (OETA), ETHIOPIA CANNOT BE TREATED AS A SOVEREIGN BELLIGERENT. THE POSITION OF THE EMPEROR MUST REMAIN UNDER DIRECT MILITARY SCRUTINY. GENERAL CUNNINGHAM IS AUTHORIZED TO WITHHOLD RECOGNITION OF IMPERIAL AUTHORITY IN CIVIL MATTERS UNTIL AN ALLIED PROTOCOL IS CONCLUDED. EMPEROR'S PROCEEDING TO ADDIS ABABA IS CATEGORICALLY VETOED ON GROUNDS OF MILITARY SECURITY AND THE PROTECTION OF FORTY THOUSAND ITALIAN CIVILIANS IN THE CAPITAL.
+  ...FOREIGN OFFICE ADVISES THAT PENDING FORMAL REGULATION OF OCCUPIED ENEMY TERRITORY ADMINISTRATION (OETA), ETHIOPIA CANNOT BE TREATED AS A SOVEREIGN BELLIGERENT. THE POSITION OF THE EMPEROR MUST REMAIN UNDER DIRECT MILITARY SCRUTINY. GENERAL CUNNINGHAM IS AUTHORIZED TO WITHHOLD RECOGNITION OF IMPERIAL AUTHORITY IN CIVIL MATTERS UNTIL AN ALLIED PROTOCOL IS CONCLUDED. EMPEROR'S PROCEEDING TO ADDIS ABABA IS CATEGORICALLY VETOED ON GROUNDS OF MILITARY SECURITY AND THE PROTECTION OF FORTY THOUSAND ITALIAN CIVILIANS IN THE CAPITAL.
  Wingate brought his open palm down upon the table with a crash that rattled the oil lamps.
  "Categorically vetoed!" he snarled, stepping around the table until his face was inches from Sandford's. "Five years! For five years, Daniel, the Foreign Office recognized the Duke of Aosta as the lawful master of this country! They permitted Mussolini to pump poison gas into these valleys because they feared offending Rome! And now, when our men have dragged three-inch mortars across seventy miles of waterless thorn and climbed seven thousand feet of basalt on parched grain, Cunningham marches his white South Africans through the front door and informs the King of Kings that he is an inconvenient native!"
  Sandford did not flinch. His pale blue eyes were tired, lined with the deep crow's-feet of nine months in the bush, but his voice maintained the unruffled, deliberate calm of a seasoned colonial gunner.
@@ -1452,11 +1418,11 @@ April 7–12, 1941
  "Get the Emperor’s staff car fueled, Chapman-Andrews," Wingate ordered, his voice dropping into a cold, flat cadence. "Draw every gallon of petrol left in the Italian underground tanks. We march Thesiger to the gorge, and then we take Haile Selassie to Addis Ababa."
  Chapman-Andrews stared at him. "Cunningham’s order—"
  "Forget Cunningham's order!" Wingate barked, striking his swagger cane against his boot. "The Emperor enters his capital on his own feet! If the British army wishes to stop him, they will have to plant a machine gun in the middle of the road!"
+
  Chapter Twenty-Nine
- ↑ Back to top
  Thesiger into the Gorge
  The Blue Nile Gorge and the Bichena Defiles
-April 14 – May 2, 1941
+  April 14 – May 2, 1941
  The trail from Debra Markos toward the Blue Nile dropped through four thousand feet of basalt chimneys into a subterranean furnace. On the plateau rim at eight thousand feet, the April gales were wet and freezing; on the canyon floor, locked between sheer volcanic cliffs that trapped the heat like an oven, the temperature rose past one hundred and twelve degrees. The vegetation shifted violently from high-altitude wild clover and giant heather to suffocating brakes of dry mountain bamboo, whistling thorn, and dense thickets of stinging nettle that tore through drill cotton.
  Down this vertical gully moved Captain Wilfred Thesiger’s pursuit column.
  It was a microscopic detachment: Captain Donald Drew with fifty Sudanese riflemen of the 4th Frontier Battalion, Captain Alan Rowe with forty Ethiopian regulars of the 2nd Battalion, two 3-inch mortar tubes, and sixty donkeys carrying parched barley, ammunition boxes, and medical panniers.
@@ -1514,19 +1480,19 @@ April 14 – May 2, 1941
  The Italians were slowing down. The eight thousand men were collapsing from typhus and exhaustion, their ammunition running low, moving at barely four miles a day through cold, rain-swept ravines.
  On the evening of May 2, sitting beside a smoky cedar fire beneath a rock overhang two miles behind the Italian rearguard, Thesiger pulled a pad of field-service message forms from his haversack.
  By the light of a wax candle, he drafted an urgent, priority cipher to Major Orde Wingate at Debra Markos, to be carried back across the river by two barefoot runners:
-MARAVENTANO CROSSED ABBAI OWING TO INACTION OF BELAI ZELLEKE. PURSUIT CONTINUES ON NORTHERN BANK. ENEMY COLUMN DECELERATING RAPIDLY THROUGH AGIBOR SECTOR. COMBAT VALUE OF ENEMY TROOPS NEARING EXHAUSTION DUE TO TYPHUS AND FAMINE.
-REGULAR PURSUIT FORCE NUMBERS EIGHTY-FIVE RIFLES, TWO MORTARS. WE ARE MAINTAINING CONTINUOUS PRESSURE ON REARGUARD AND CLOSING THEIR COMMUNICATIONS TOWARD GONDAR.
+  MARAVENTANO CROSSED ABBAI OWING TO INACTION OF BELAI ZELLEKE. PURSUIT CONTINUES ON NORTHERN BANK. ENEMY COLUMN DECELERATING RAPIDLY THROUGH AGIBOR SECTOR. COMBAT VALUE OF ENEMY TROOPS NEARING EXHAUSTION DUE TO TYPHUS AND FAMINE.
+  REGULAR PURSUIT FORCE NUMBERS EIGHTY-FIVE RIFLES, TWO MORTARS. WE ARE MAINTAINING CONTINUOUS PRESSURE ON REARGUARD AND CLOSING THEIR COMMUNICATIONS TOWARD GONDAR.
  He paused, then added the decisive strategic advice:
-PURSUIT TO FINAL REDUCTION WILL REQUIRE THREE TO FOUR WEEKS IN THIS TERRAIN. DO NOT DELAY EMPEROR’S ADVANCE ON ACCOUNT OF THIS FORCE. MARCH ON ADDIS ABABA IMMEDIATELY. OCCUPY THE CAPITAL BEFORE CUNNINGHAM CAN ESTABLISH ADMINISTRATIVE CONTROL. WE WILL HOLD MARAVENTANO HERE.
+  PURSUIT TO FINAL REDUCTION WILL REQUIRE THREE TO FOUR WEEKS IN THIS TERRAIN. DO NOT DELAY EMPEROR’S ADVANCE ON ACCOUNT OF THIS FORCE. MARCH ON ADDIS ABABA IMMEDIATELY. OCCUPY THE CAPITAL BEFORE CUNNINGHAM CAN ESTABLISH ADMINISTRATIVE CONTROL. WE WILL HOLD MARAVENTANO HERE.
  Thesiger folded the slip, sealed it with candle wax, and handed it to the Ethiopian runner.
  "Run through the night," Thesiger ordered in Amharic. "Cross the Abbai at the low ford. Put this into Colonel Wingate's hand."
  The runner vanished into the black, rain-swept bamboo of the ravine.
  Thesiger turned back to the embers of the fire, pulling his rifle across his knees, listening to the distant, hollow crump of an Italian mortar bomb exploding in the dark defiles of Agibor.
+
  Chapter Thirty
- ↑ Back to top
  Defying the Roadblocks
  The Debra Markos–Addis Ababa Highway and Mount Entoto
-May 2–4, 1941
+  May 2–4, 1941
  The runner from the Blue Nile gorge reached the former Italian residency at Debra Markos at midnight on May 2.
  Orde Wingate sat at the mahogany conference table, wrapped in his sodden army blanket, a kerosene hurricane lamp casting long, flickering shadows across his hollow, malaria-scored cheeks. He broke the wax seal on Captain Wilfred Thesiger’s dispatch form, read the penciled lines once, and let out a harsh, rasping bark of laughter that caused the Sudanese sentry at the door to jump.
  Wingate looked across the table at Edwin Chapman-Andrews and Lieutenant-Colonel Hugh Boustead.
@@ -1589,11 +1555,11 @@ May 2–4, 1941
  "There is your capital, Your Majesty," Wingate whispered, his rasping voice trembling with exhaustion and triumphant awe. "We have kept the faith. Tomorrow is May fifth."
  Haile Selassie did not speak for a long moment. He adjusted the collar of his overcoat against the cold gale, looking down at the silent city.
  "Five years to the day, Colonel Wingate," the Emperor said quietly in French. "Marshal Badoglio entered the city on the fifth of May. Tomorrow, we enter in the name of God."
+
  Chapter Thirty-One
- ↑ Back to top
- May 5, 1941: The Return of the Lion
+ The Return of the Lion
  Mount Entoto and Addis Ababa
-May 5, 1941
+  May 5, 1941
  At zero-six hundred hours on May 5, the high ridge of Mount Entoto was wrapped in a freezing, wet mountain fog that dripped steadily from the blue-gum eucalyptus leaves.
  Before the stone portals of the Church of Saint Mary—the mountain sanctuary where his cousin, Emperor Menelik II, had prayed before marching north to defeat the Italian army at Adwa in 1896—Emperor Haile Selassie I knelt in the dirt. He had spent the final hours of the night in prayer, attended only by his chaplain, Abba Hanna Jimma, and the Crown Prince, Asfaw Wossen. The Emperor was dressed in the formal service dress of an Ethiopian Field Marshal: a tailored khaki tunic, dark breeches, riding boots, and the crimson sash of the Order of Solomon across his breast.
  He rose from his knees, touched the silver-plated threshold of the church with his knuckles, and kissed the hand of the officiating priest.
@@ -1659,11 +1625,11 @@ May 5, 1941
  Chapman-Andrews stared at him in disbelief. "Orde, you are burning with fever. You can barely stand on your feet. Cunningham will be issuing the military administration decrees tomorrow; you must be here to protect the Emperor’s political position!"
  Wingate halted at the edge of the terrace, looking down at his car with a cold, savage grin.
  "The Emperor has his throne, Chapman-Andrews. Now I am going to take Maraventano’s army."
+
  Chapter Thirty-Two
- ↑ Back to top
  The Bluff at Agibor
  Agibor and the Begemder Escarpment
-May 16–23, 1941
+  May 16–23, 1941
  The northern drive from Addis Ababa back across the Blue Nile gorge was a five-day descent into exhaustion. Orde Wingate traveled in an open Italian staff car, shivering continuously beneath an army blanket as his malaria returned in violent, rhythmic cycles. His skin had taken on the dull, greenish-yellow cast of chronic quinacrine saturation; his voice was reduced to a raw whisper. He stopped only to requisition petrol at the abandoned road posts and to swallow dry handfuls of parched barley.
  By May 16, Wingate had crossed the Abbai, climbed the vertical scree of the northern escarpment into Begemder, and reached the forward bivouac of the pursuit force at Agibor.
  The position occupied a desolate basalt ridge nine thousand feet above sea level, wrapped in freezing cloud. Clinging to the reverse slope was the entire regular force that had hounded an Italian army for two hundred miles: Captain Wilfred Thesiger, Captain Donald Drew, Lieutenant Alan Rowe, and thirty-six surviving Sudanese and Ethiopian riflemen of the 4th Frontier Battalion and the 2nd Ethiopians. They were hollow-cheeked, barefoot, and dressed in shredded rags, their ammunition down to twelve rounds per man and two high-explosive 3-inch mortar bombs.
@@ -1681,12 +1647,12 @@ May 16–23, 1941
  He lowered his glasses, reaching into his pocket to pull out a crumpled wireless intercept handed to him by a courier at Debra Markos two days earlier.
  "Read that."
  Thesiger took the slip:
-AMBA ALAGI. 19 MAY 1941. HIS ROYAL HIGHNESS THE DUKE OF AOSTA, VICEROY OF ITALIAN EAST AFRICA, HAS SURRENDERED UNCONDITIONALLY TO LIEUTENANT-GENERAL SIR WILLIAM PLATT. ALL AXIS FORCES IN THE NORTHERN SECTOR ORDERED TO LAY DOWN ARMS.
+  AMBA ALAGI. 19 MAY 1941. HIS ROYAL HIGHNESS THE DUKE OF AOSTA, VICEROY OF ITALIAN EAST AFRICA, HAS SURRENDERED UNCONDITIONALLY TO LIEUTENANT-GENERAL SIR WILLIAM PLATT. ALL AXIS FORCES IN THE NORTHERN SECTOR ORDERED TO LAY DOWN ARMS.
  Thesiger looked from the paper back to the Italian redoubts. "Maraventano’s wireless masts were smashed during the crossing of the Abbai. He doesn't know."
  "He knows nothing," Wingate whispered, his eyes gleaming with cold, manic brilliance. "He knows only that Addis Ababa has fallen, that his food is gone, and that an invisible enemy has followed him through two hundred miles of wilderness. We will tell him the news ourselves."
  On the morning of May 20, Wingate dispatched an Italian prisoner of war across the neutral zone carrying a white flag and a letter addressed to Colonel Maraventano.
  The document, typed on an old portable machine rested on an ammunition crate, was a masterpiece of psychological warfare. Wingate wrote as the commander of an overwhelming Allied investment:
-COLONEL: THE DUKE OF AOSTA HAS SURRENDERED AT AMBA ALAGI. ADDIS ABABA IS OCCUPIED BY TWO DIVISIONS. YOU ARE ENTIRELY ENCIRCLED BY REGULAR BRITISH BRIGADES AND TWENTY THOUSAND ETHIOPIAN PATRIOTS. YOU CANNOT REACH GONDAR. IF YOU COMMENCE ARTILLERY FIRE, I WILL WITHDRAW MY REGULAR FORMATIONS AND LEAVE YOUR WOUNDED AND CIVILIANS TO THE MERCY OF THE ARBEGNOCH, WHO WILL MASSACRE EVERY SOUL IN YOUR LINES. I DEMAND YOUR UNCONDITIONAL SURRENDER BEFORE MIDDAY ON MAY TWENTY-SECOND.
+  COLONEL: THE DUKE OF AOSTA HAS SURRENDERED AT AMBA ALAGI. ADDIS ABABA IS OCCUPIED BY TWO DIVISIONS. YOU ARE ENTIRELY ENCIRCLED BY REGULAR BRITISH BRIGADES AND TWENTY THOUSAND ETHIOPIAN PATRIOTS. YOU CANNOT REACH GONDAR. IF YOU COMMENCE ARTILLERY FIRE, I WILL WITHDRAW MY REGULAR FORMATIONS AND LEAVE YOUR WOUNDED AND CIVILIANS TO THE MERCY OF THE ARBEGNOCH, WHO WILL MASSACRE EVERY SOUL IN YOUR LINES. I DEMAND YOUR UNCONDITIONAL SURRENDER BEFORE MIDDAY ON MAY TWENTY-SECOND.
  For forty-eight hours, the two armies sat in agonizing silence in the mountain mist.
  Inside the Italian camp, Maraventano convened a council of his battalion commanders. The officers were divided: the Blackshirt majors demanded a final, suicidal sortie toward Lake Tana; the regular army officers and the colonial doctors pointed to the typhus hospital, where five hundred men lay dying without morphia, and warned that if the Arbegnoch broke into the lines, the Italian women and nurses would be butchered.
  At 10:00 hours on May 22, a small group of figures carrying a white bedsheet on a bamboo pole emerged from the Italian wire.
@@ -1716,11 +1682,11 @@ COLONEL: THE DUKE OF AOSTA HAS SURRENDERED AT AMBA ALAGI. ADDIS ABABA IS OCCUPIE
  He turned away from the meadow, coughing blood into his handkerchief, and walked toward the wireless tent.
  "Send the cipher to Cairo and Addis Ababa," Wingate told the signals sergeant. "Maraventano has surrendered. The northern front is liquidated. Gideon Force has completed its operational mission."
  He stepped inside the dim canvas shelter, collapsing onto an empty ammunition crate as the high, thin whine of the radio generator began to spark back toward civilization.
+
  Chapter Thirty-Three
- ↑ Back to top
  The Cashiering
  British Military Mission Headquarters, Addis Ababa
-May 28 – June 8, 1941
+  May 28 – June 8, 1941
  The administrative offices of British East Africa Force occupied the requisitioned stone villa of the former Italian Director of Posts, half a mile down the eucalyptus avenue from the Grand Palace. The air inside smelled of freshly unrolled carbon paper, floor wax, and the dry, clipped authority of staff officers who had arrived by transport plane from Nairobi and Cairo.
  On the morning of June 2, Orde Wingate walked through the wrought-iron gates.
  He looked like an apparition dragged from a trench. He had lost thirty pounds since crossing the frontier at Um Idla five months earlier; his cheekbones jutted sharply through yellowed, waxen skin, and his khaki drill bush jacket hung loosely from his round shoulders like a rag on a scarecrow. His service cap was stained with salt rings, its brass artillery badge tarnished black. In his right hand he carried an battered leather dispatch case held together by green string; tucked beneath his left arm was his pocket Bible.
@@ -1784,11 +1750,11 @@ May 28 – June 8, 1941
  Inside the unheated, vibrating fuselage, Wingate pressed his forehead against the small, scratched perspex window.
  Below him, through a sudden tear in the clouds, the vast, jagged wall of the Gojjam escarpment appeared for a single, fleeting second—the black volcanic cliffs of Mount Belaya, where the bones of two thousand pack camels lay sinking into the stone.
  Then the clouds closed in, swallowing the mountains in white, suffocating fog, as the aircraft turned down the Nile toward the sweltering heat of Cairo.
+
  Chapter Thirty-Four
- ↑ Back to top
  The Blade at the Continental
  The Continental Hotel, Opera Square, Cairo
-June 14 – July 4, 1941
+  June 14 – July 4, 1941
  The dry, furnace heat of Cairo in midsummer beat against the wooden shutters of the third-floor room at the Continental Hotel like a physical weight. Below, in the dusty expanse of Ezbekiyya Square, the clatter of British military lorries, the brass bells of overloaded electric trams, and the cries of shoe-shine boys rose through the dead air. In the lounge downstairs and across at the Long Bar of Shepheard’s, officers of Middle East Command in pristine gabardine tunics sipped iced gin and discussed General Claude Auchinleck’s impending replacement of Wavell.
  Inside the shuttered room, the ceiling fan spun in slow, useless revolutions, displacing a stench of sweat, stale tea, and raw onion.
  Major Orde Wingate sat naked at a small writing table, his gaunt ribs protruding beneath skin turned a sickly, saffron yellow. Over the preceding three weeks, as tertian malaria raged through his nervous system, he had swallowed massive, unsupervised doses of mepacrine and quinine sulphate—accumulating a level of chemical toxicity that produced continuous ringing in his ears, blinding migraine headaches, and vivid, waking hallucinations of the Gojjam escarpment.
@@ -1840,11 +1806,11 @@ June 14 – July 4, 1941
  He looked down at the horn-handled hunting knife lying in the gore, then clicked his case shut.
  "Not this time, gentlemen," Thornhill muttered to the empty room.
  He turned on his heel and walked out into the corridor, heading toward the intelligence offices of the British Embassy, while far below in the blinding glare of Ezbekiyya Square, the siren of the military ambulance wailed as it raced toward the British Military Hospital at Abbassia.
+
  Chapter Thirty-Five
- ↑ Back to top
  The Scars of the Covenant
  Cairo, London, and Addis Ababa
-Autumn 1941 – January 31, 1942
+  Autumn 1941 – January 31, 1942
  The scar on the left side of Orde Wingate’s neck was a jagged, raised seam of violet tissue four inches long, running from beneath the angle of his jaw down to the clavicle. On the right side, where the blade had sliced through the muscle sheath, a puckered indentation pulled his chin slightly off-center, giving his harsh, angular face a permanent, hawkish tilt. When he spoke, his gravelly baritone was deeper than before, broken by a dry, whistling rasp where the steel had nicked the cartilage of the larynx.
  In late September 1941, inside a private consultation room at the British Military Hospital in Abbassia on the northern edge of Cairo, Wingate stood before a medical discharge board.
  The three Royal Army Medical Corps colonels sat behind a baize-covered table, reviewing the psychiatric evaluation and the official entry in his service ledger: Wounds, self-inflicted while in a state of temporary insanity induced by cerebral malaria and mepacrine intoxication.
@@ -1852,7 +1818,7 @@ Autumn 1941 – January 31, 1942
  "The board's recommendation is clear, Major Wingate," the medical officer said, his voice flat, devoid of emotion. "You are to be graded Category E—permanently unfit for general military service. You will be placed on a hospital transport to Liverpool within forty-eight hours and transferred to the retired list on arrival in the United Kingdom."
  Wingate did not look at the medical certificate. He reached into his tunic pocket, pulled out an official telegram bearing the red crest of the War Cabinet, and tossed it onto the baize.
  The colonel picked up the paper, read the four typewritten lines, and his face went completely white.
-PRIME MINISTER'S PERSONAL MINUTE TO WAR OFFICE AND COMMANDER-IN-CHIEF MIDDLE EAST. MAJOR O. C. WINGATE WILL NOT BE DISCHARGED OR PLACED ON RETIRED LIST. HE IS TO REPORT TO LONDON FORTHWITH FOR DIRECT INTERVIEW WITH PRIME MINISTER REGARDING EMPLOYMENT IN INDEPENDENT COMMAND. W. S. C.
+  PRIME MINISTER'S PERSONAL MINUTE TO WAR OFFICE AND COMMANDER-IN-CHIEF MIDDLE EAST. MAJOR O. C. WINGATE WILL NOT BE DISCHARGED OR PLACED ON RETIRED LIST. HE IS TO REPORT TO LONDON FORTHWITH FOR DIRECT INTERVIEW WITH PRIME MINISTER REGARDING EMPLOYMENT IN INDEPENDENT COMMAND. W. S. C.
  The colonel looked from the signature back to the yellow-skinned, scarred major standing rigid before the table.
  "Where did this come from, Major?"
  "From Ten Downing Street, Colonel," Wingate rasped, the violet scar along his neck darkening with blood. "While your staff was calculating the pension of a madman, Winston Churchill was reading my operational report."
