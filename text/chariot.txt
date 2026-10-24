@@ -4,7 +4,7 @@
  Chapter One
  The Shadow of Tirpitz
  Whitehall, London
-  Winter, 1941–1942
+ Winter, 1941–1942
  The Admiralty War Room smelled of damp wool, pipe tobacco, and the ozone off teleprinter ribbons. Down here, beneath feet of reinforced concrete, the war was reduced to coloured grease pencils crawling across the Atlantic basin.
  Every officer who stood before the central wall map was haunted by a single ghost: Bismarck. Eight months earlier, it had taken the better part of the entire Royal Navy—three battleships, two battlecruisers, two aircraft carriers, thirteen cruisers, and twenty-one destroyers—to hunt down and batter the German behemoth into the sea off Brest. Even then, it had turned on a razor’s edge. One lucky torpedo from an obsolete biplane had jammed her rudders; without that, she would have made the safety of the French coast.
  Now, her sister was awake.
@@ -42,7 +42,7 @@
  Chapter Two
  The Sacrificial Destroyer
  HM Dockyard Devonport, Plymouth
-  February 1942
+ February 1942
  The oxyacetylene torches hissed with a pale, blinding blue flame, spitting showers of white-hot slag into the dark waters of the basin.
  For two decades, she had been hull number 131 of the United States Navy—the USS Buchanan, laid down in Maine during the final months of the First World War. She had a narrow, knife-like beam of barely thirty feet, four spindly funnels rising like iron stovepipes from her flush deck, and an Atlantic roll that could turn a veteran sailor’s stomach inside out. In September 1940, President Roosevelt had traded her and forty-nine of her rusting sisters to a desperate Britain in exchange for ninety-nine-year leases on Caribbean naval bases.
  Recommissioned into the Royal Navy as HMS Campbeltown, she had spent eighteen months shivering through the grey heaving swells of the Atlantic, escorting lumbering convoys, surviving collisions, and wearing her machinery down to the bearings.
@@ -74,7 +74,7 @@
  Chapter Three
  4.5 Tons of Amatol
  HM Dockyard Devonport
-  First Week of March 1942
+ First Week of March 1942
  The lorries came through the dockyard gates under military escort, their tarpaulins tied down tight against the mist. Royal Navy red-caps cleared the cobblestones, waving off the dockyard mateys until the heavy Leylands backed down onto the quay alongside Campbeltown.
  Inside the cargo beds were twenty-four steel cylinders, painted dull green, each weighing over four hundred pounds: Mark VII naval depth charges. Together, they contained four and a quarter tons of amatol—an unstable mixture of ammonium nitrate and TNT.
  Lieutenant Nigel Tibbits stood by the hatchway on the forecastle, an unlit cigarette clamped between his teeth, checking the serial numbers against his clipboard. Beside him, Chief Engine Room Artificer H.K. Howard directed the dockyard crane’s wire sling.
@@ -109,7 +109,7 @@
  Chapter Four
  The Men of No. 2 Commando
  Southampton &amp; Burford
-  Mid-March 1942
+ Mid-March 1942
  The King George V Graving Dock in Southampton was a cavernous trench of grey granite, draining forty-eight million gallons of Solent water when pumped dry. In the freezing blackness at the bottom of the basin, thirty men moved without flashlights.
  They had greasepaint smeared across their faces and strips of black friction tape bound around every brass buckle to stop the clink of metal. They moved by touch, their palms running over frozen steel pipes, hydraulic valves, and the colossal cast-iron casings of the centrifugal pump impellers.
  "Hands off the torch," Captain W.H. "Bill" Pritchard of the Royal Engineers whispered from the darkness. His voice had the dry, clipped authority of an instructor who tolerated no mistakes. "If you need a lamp to find the intake manifold in Southampton, you’ll be a corpse on the floor of Saint-Nazaire before you find the detonator well. Do it again. By feel."
@@ -142,7 +142,7 @@
  Chapter Five
  The Wooden Flotilla
  Carrick Roads, Falmouth
-  24–25 March 1942
+ 24–25 March 1942
  The broad, sheltered anchorage of Carrick Roads was slick with an oily sheen under an overcast Cornish sky.
  As the lighters ferried the men of No. 2 Commando out from the railway quays, they got their first look at the fleet that was supposed to carry them home.
  At the center of the roads lay Campbeltown, looking alien and menacing. Her two raked funnels and sliced superstructure gave her the crouched, predatory silhouette of a German Möwe. But around her, riding high on the swell like water-beetles, were the vessels of the 28th and 7th Motor Launch Flotillas.
@@ -152,7 +152,7 @@
  To make the four-hundred-mile passage across the Bay of Biscay, run up the Loire, and return to England, their internal fuel tanks were insufficient. Strapped to the open upper deck of each Fairmile were two five-hundred-gallon galvanized steel auxiliary tanks, plumbed directly into the engines.
  They were filled with high-octane aviation petrol.
  The commandos climbed aboard their assigned launches in heavy silence. The smell was suffocating: wood stain, salt damp, and the sharp, volatile vapor of high-octane gasoline leaking from fuel lines.
- "God Almighty," muttered Lance-Sergeant Arnold Howarth, setting his 70-pound kitbag down on the deck of ML 262. He tapped the thin galvanized skin of an auxiliary tank with the butt of his Fairbairn-Sykes knife. "One tracer into this and we won't need to land in France. We'll be halfway to heaven in three seconds."
+ "Good grief," muttered Lance-Sergeant Arnold Howarth, setting his 70-pound kitbag down on the deck of ML 262. He tapped the thin galvanized skin of an auxiliary tank with the butt of his Fairbairn-Sykes knife. "One tracer into this and we won't need to land in France. We'll be halfway to heaven in three seconds."
  The soldiers quickly christened the Fairmiles "The Flying Coffins."
  Aboard MGB 314, which was to serve as the operational flagship, Commander Robert Edward Dudley Ryder, Royal Navy, reviewed the final dispositions with Lieutenant Colonel Newman.
  Ryder was thirty-four years old, lean, sharp-featured, and an experienced polar explorer who had commanded expeditions to Antarctica before the war. He was methodical, quiet, and possessed an encyclopedic knowledge of navigation in foul waters.
@@ -184,7 +184,7 @@
  Chapter Six
  Force Z Put to Sea
  The Western Approaches
-  26 March, 14:00 – Night of 26/27 March 1942
+ 26 March, 14:00 – Night of 26/27 March 1942
  Once clear of the Black Rock at the entrance to Falmouth, the shelter of the Cornish headlands fell away. The Atlantic opened before them: a vast, rolling slate-grey wilderness topped with breaking whitecaps.
  Force Z formed into its cruising order.
  Out in front, screening the formation against U-boats, steamed the two Hunt-class escort destroyers, HMS Atherstone and HMS Tynedale. Behind them, the raiders fell into three parallel columns.
@@ -214,7 +214,7 @@
  Chapter Seven
  The Periscope at 07:20
  Bay of Biscay
-  27 March 1942, 07:20 – 09:00
+ 27 March 1942, 07:20 – 09:00
  Two miles off the port bow of HMS Tynedale, a slim, dark blade cut a furrow through the low morning swell. Behind it rose the rounded iron lip of a conning tower, shedding a sheet of grey foam.
  Aboard Tynedale, the starboard bridge lookout yelled into his voicepipe: "Submarine! Bearing red four-zero! Two miles!"
  Lieutenant Commander H.E.F. Tweedie did not hesitate. "Alarm starboard. Ring on full ahead. Stand by forward four-inch!"
@@ -252,7 +252,7 @@
  Chapter Eight
  The Breton Trawlers
  Bay of Biscay, 50 Miles off Saint-Nazaire
-  27 March 1942, 11:50 – 14:00
+ 27 March 1942, 11:50 – 14:00
  Through the thinning sea haze, tan canvas sails caught the pale midday sun.
  They were Breton fishing smacks, heavy-hulled wooden vessels out from Le Croisic and Belle-Île, drifting over their nets in the rich fishing grounds of the continental shelf. By noon, lookouts had counted fourteen separate sails scattered across the eastern arc of the horizon.
  Aboard MGB 314, Ryder trained his glasses on the nearest craft. Through the lenses, he could see two men in oilskins hauling hand-lines over a wooden gunwale.
@@ -287,7 +287,7 @@
  Chapter Nine
  The Beacon in the Shallows
  Point 'Z', Approaches to the Loire Estuary
-  27 March 1942, 22:00 – 22:45
+ 27 March 1942, 22:00 – 22:45
  The shadow on the water did not rise and fall with the sea. It sat motionless, low and flat, a dark blade of wet steel cutting the surface forty miles off the French coast.
  On the open bridge of MGB 314, Leading Signalman Pike did not speak. He unlatched the brass cowl of the small Aldis lamp, exposing the dark red filter. Keeping the beam pointed strictly over the port bow, shielded by his body to prevent any side-glare, he triggered the mechanical shutter with two light taps of his thumb.
  A dull crimson pulse cut the dark.
@@ -318,7 +318,7 @@
  Chapter Ten
  The Mud of the Flats
  The Chaussée des Paysans, Loire Estuary
-  27 March, 23:00 – 28 March, 00:30
+ 27 March, 23:00 – 28 March, 00:30
  The leadsman in the chains on Campbeltown’s starboard bow leaned far out over the black water, swinging the seven-pound lead weight in a rhythmic, silent pendulum. He let the line fly forward into the dark, feeling the wet hemp slip through his numb fingers until the weight tapped the riverbed.
  He hauled in the slack, reading the markers by touch.
  "By the mark, three," he hissed up toward the bridge. Eighteen feet.
@@ -355,7 +355,7 @@
  Chapter Eleven
  The Sky Betrayal
  Airspace over Saint-Nazaire &amp; German Naval HQ
-  28 March 1942, 00:00 – 01:00
+ 28 March 1942, 00:00 – 01:00
  Above the Loire, the sky was a blind, frozen vault.
  A solid bank of stratus cloud, ten-tenths unbroken, stretched from two thousand feet down to within a thousand feet of the ground. Through this freezing murk droned sixty-two twin-engine aircraft from RAF Bomber Command: thirty-five Armstrong Whitworth Whitleys of No. 4 Group and twenty-seven Vickers Wellingtons of Nos. 1 and 3 Groups.
  The airframes shuddered in the crosswinds, ice crusting across the leading edges of their wings.
@@ -382,7 +382,7 @@
  Chapter Twelve
  The Estuary Gates
  The Lower Loire, off Villès-Martin
-  28 March 1942, 01:15 – 01:21
+ 28 March 1942, 01:15 – 01:21
  The water deepened beneath the keels. The brown, dragging silt of the flats gave way to the black, slate-smooth surface of the main navigation trench.
  Aboard MGB 314, Commander Ryder raised his right hand, two fingers extended toward the engine-room voicepipe. "Ring on fifteen knots."
  Down in the small engine space, the throttles of the three supercharged Packard engines were eased forward. The exhaust pitch shifted from a muffled gurgle to a hard, hollow roar that beat against the low water. Behind the gunboat, Campbeltown’s coal-fired boilers answered, a plume of dark, greasy smoke tumbling from her two raked funnels as her twin screws bit deep.
@@ -415,7 +415,7 @@
  Chapter Thirteen
  The Five-Minute Bluff
  The Inner Loire, off Villès-Martin
-  28 March 1942, 01:22 – 01:27
+ 28 March 1942, 01:22 – 01:27
  Leading Signalman Pike did not blink against the blue-white glare of the carbon-arcs.
  Kneeling on the steel grating of MGB 314’s bridge, he aimed his Aldis lamp directly into the blinding center of the German projector at Villès-Martin. His thumb worked the mechanical shutter lever with rhythmic, staccato snaps.
  Clack-clack. Clack. Clack-clack-clack.
@@ -459,7 +459,7 @@
  Chapter Fourteen
  The Estuary Ignites
  The Loire Channel, Approaching the Avant-Port
-  28 March 1942, 01:28 – 01:33
+ 28 March 1942, 01:28 – 01:33
  A star-shell burst directly over Campbeltown’s mainmast, bathing the river in a harsh, cold magnesium daylight.
  At 01:28, the bluff died.
  From both shores, the dark erupted. FlaK batteries along the submarine pens, the cliff positions at Villès-Martin, and the fortified towers lining the Avant-Port opened fire simultaneously. Strings of 20mm and 37mm tracer shells—green, yellow, and red—crossed the water in low, intersecting arcs, while heavy coastal guns on the southern bank sent high-explosive rounds screaming overhead.
@@ -491,7 +491,7 @@
  Chapter Fifteen
  Twenty Knots into the Gate
  Normandie Dock Outer Caisson, Saint-Nazaire
-  28 March 1942, 01:34
+ 28 March 1942, 01:34
  The stem of HMS Campbeltown struck the outer caisson of the Normandie Dock at nineteen knots.
  There was no immediate halt, but a prolonged, tearing screech of structural failure that lasted three full seconds. The destroyer’s knife-edge prow hit the heavy steel caisson three feet above the low-water mark. The caisson’s outer plating bowed inward under the two-thousand-ton impact, and the first thirty-three feet of the destroyer’s bow concertinaed backward, frames snapping and deck plates shearing along their rivet lines.
  The forward anchor windlass was wrenched from the deck and thrown into the forward mess deck.
@@ -520,7 +520,7 @@
  Chapter Sixteen
  Disembarking into Hell
  Normandie Dock Outer Caisson &amp; Quayside
-  28 March 1942, 01:35 – 01:45
+ 28 March 1942, 01:35 – 01:45
  The bamboo scaling ladders clattered against the caisson plating.
  Over the crushed forecastle rail of Campbeltown, Captain Donald Roy and the six men of his assault party dropped eight feet onto the wet steel deck of the gate. They wore rubber-soled plimsolls that squeaked on the damp plating, dark cap comforters pulled low over their ears, and carried Thompson submachine guns slung short across their chests.
  The caisson was forty feet wide: a roadway of riveted steel spanning the entrance of the dry dock. At its southern root, nestled against the granite quay wall, an MG 34 machine-gun nest was raking the destroyer’s upper works.
@@ -552,7 +552,7 @@
  Chapter Seventeen
  Forty Feet Underground
  Main Pumping Station, Normandie Dock
-  28 March 1942, 01:45 – 02:00
+ 28 March 1942, 01:45 – 02:00
  The external entrance to the Main Pumping Station was a pair of heavy iron double doors set flush into a blast wall.
  Lieutenant Stuart Chant gripped the iron handle with his uninjured left hand and threw his weight against it. The lock did not yield.
  Behind him, Sergeant A. Dockerill dropped his rucksack onto the cobblestones, unhitched a twelve-pound sledgehammer from his webbing, and stepped up. Dockerill planted his boots and swung with full rotational force against the locking bar.
@@ -599,7 +599,7 @@
  Chapter Eighteen
  Winding Houses and Winches
  Normandie Dock, North and South Quays
-  28 March 1942, 01:50 – 02:15
+ 28 March 1942, 01:50 – 02:15
  The subterranean shockwave from Chant’s detonation rumbled through the granite coping stones, vibrating up through the soles of Captain Bob Montgomery’s boots.
  Montgomery stood on the western lip of the dock, his face illuminated by the burning upper works of Campbeltown. The destruction of the pumps guaranteed the dock could not be emptied. Now, the caissons—the two massive floating steel gates at the north and south ends that sealed the basin—had to be permanently immobilized.
  Fifty yards from where Campbeltown’s buckled bow remained wedged into the gate stood the South Winding House.
@@ -632,7 +632,7 @@
  Chapter Nineteen
  The Slaughter at the Old Mole
  The River Loire, off the Old Mole
-  28 March 1942, 01:40 – 02:15
+ 28 March 1942, 01:40 – 02:15
  Four hundred yards south of the Normandie Dock, jutting two hundred feet into the Loire like an outstretched stone finger, lay the Old Mole—La Vieille Jetée.
  At its tip stood a small stone lighthouse and a concrete pillbox; along its spine ran a flight of granite slipway steps leading down to the water. In Commander Ryder’s operational plan, this narrow stone jetty was the linchpin of survival: it was the primary embarkation point where the entire commando force was supposed to reboard the launches after completing their demolitions.
  To secure it, six Fairmile launches had been ordered to storm the jetty steps, disembark assault teams to clear the German pillboxes, and hold the stone pier as an open gate to the sea.
@@ -661,7 +661,7 @@
  Chapter Twenty
  The Crushed Landing at the Old Entrance
  The Old Entrance (Vieille Entrée), Saint-Nazaire
-  28 March 1942, 01:45 – 02:20
+ 28 March 1942, 01:45 – 02:20
  Three hundred yards upriver from the butchery at the Old Mole, the river opened into the narrow channel of the Old Entrance—the original tidal lock leading into the Saint-Nazaire basin.
  Here, the second column of Fairmiles was tasked with landing the demolition teams assigned to blow the outer lock gates, destroy the hydraulic swing bridge, and extract Campbeltown’s naval crew.
  Leading the line was ML 192, skippered by Lieutenant Commander Bill Stephens, RNVR, senior officer of the 20th Motor Launch Flotilla. On her deck stood Captain Michael "Micky" Burn and fourteen commandos of No. 6 Troop.
@@ -693,7 +693,7 @@
  Chapter Twenty-One
  Savage at the Pom-Pom
  The River Loire &amp; Avant-Port
-  28 March 1942, 01:45 – 02:25
+ 28 March 1942, 01:45 – 02:25
  At 01:45, MGB 314 nosed her mahogany stem against the stone slipway of the Old Entrance just long enough for Lieutenant Colonel Newman and his five headquarters staff to leap ashore onto the quay.
  The moment their boots cleared the coaming, Lieutenant Dunstan Curtis, RNVR, threw the throttles astern, backing the wooden gunboat into the open current. Commander Ryder stayed aboard on the open bridge. As overall Naval Force Commander, his post was on the water, orchestrating the scattered launches and keeping the riverway open for the evacuation.
  With Ryder on the exposed bridge were Curtis, Leading Signalman Pike, and Lieutenant A.R. Green, RNR—the navigator whose dead-reckoning over the mudflats had delivered the flotilla to the target.
@@ -718,7 +718,7 @@
  Chapter Twenty-Two
  The Submerged Torpedoes
  The Avant-Port &amp; Old Entrance
-  28 March 1942, 02:15 – 02:35
+ 28 March 1942, 02:15 – 02:35
  Sub-Lieutenant Mickey Wynn handled MTB 74 like an offshore racing boat.
  The seventy-foot wooden craft skimmed the black river on a plane, her three supercharged Packard engines screaming at four thousand revolutions per minute. With her high-compression exhausts barking flame, she threw two sheets of white spray into the dark, carving a hard turn around the flaming wreckage of ML 447.
  Wynn stood behind the wheel, his right eye socket covered by a black patch, his left eye squinting through the salt spray and smoke.
@@ -752,7 +752,7 @@
  Chapter Twenty-Three
  Scuttling the Ram
  HMS Campbeltown, Normandie Dock Caisson
-  28 March 1942, 02:20 – 02:40
+ 28 March 1942, 02:20 – 02:40
  In the forward mess deck, the air was choking with cordite smoke, the smell of burning lagging, and the sharp, almond scent of high explosive.
  Lieutenant Nigel Tibbits knelt on the buckled deckplates directly above the collision bulkhead. Beneath his knees, encased within tons of set concrete, lay the twenty-four Mark VII depth charges.
  From his webbing pocket, Tibbits drew a pair of flat-nosed pliers and a hooded red inspection lamp.
@@ -792,7 +792,7 @@
  Chapter Twenty-Four
  The Empty River
  The Quayside &amp; Old Entrance
-  28 March 1942, 02:30 – 02:45
+ 28 March 1942, 02:30 – 02:45
  Lieutenant Colonel Charles Newman stood by the brick wall of a transit shed near the Old Entrance, his Thompson submachine gun resting against his hip.
  Around him in the shadows, the raid’s military headquarters was operating by the light of burning timber. A medical orderly was kneeling over a wounded corporal, cutting away a blood-soaked trouser leg with heavy shears, while two signallers knelt by an iron bollard, watching the perimeter for German counter-attacks.
  From the direction of the dry dock, men were filtering back through the gloom.
@@ -824,7 +824,7 @@
  Chapter Twenty-Five
  The Three Orders
  Transit Shed, Old Entrance
-  28 March 1942, 02:45 – 03:00
+ 28 March 1942, 02:45 – 03:00
  Inside the transit shed, the air was cold, smelling of raw concrete, damp cardboard, and iodine.
  A single red-shielded torch was set on an upturned wooden crate, casting long, sharp shadows against the corrugated iron walls. Around it sat roughly one hundred commandos and thirty Royal Navy ratings from Campbeltown, their backs propped against cargo pallets, reloading magazines by touch.
  There was little brass left to pass around. Men pulled loose .45 ACP cartridges from their tunic pockets and pressed them into Thompson stick magazines, counting the clicks until the springs bottomed out. Most men were down to two magazines; some had only what remained in their guns.
@@ -864,7 +864,7 @@
  Chapter Twenty-Six
  The Charge Across Pont Roulant
  Pont Roulant, Saint-Nazaire
-  28 March 1942, 03:00 – 03:30
+ 28 March 1942, 03:00 – 03:30
  The transit shed’s corrugated sliding door ground open four feet.
  Captain Donald Roy went through first. He kept low, his rubber-soled plimsolls moving silently across the damp granite cobblestones. Behind him came the seven surviving commandos of his assault party, their submachine guns gripped with fingers stiff from the estuary wind.
  Ahead of them, two hundred yards across an empty expanse of railway sidings and dockside paving, sat the bridge: the Pont Roulant.
@@ -900,7 +900,7 @@
  Chapter Twenty-Seven
  Street Fighting in the Dark
  Saint-Nazaire Town
-  28 March 1942, 03:30 – 05:00
+ 28 March 1942, 03:30 – 05:00
  The town was a maze of high granite walls, narrow cobblestone streets, and shuttered two-story houses smelling of coal ash and wet slate.
  Once off the Pont Roulant, the unified British force ceased to exist. Small groups of four, six, and eight men vanished down divergent alleyways, their rubber plimsolls and hobnailed boots slapping rhythmically against the stone paving.
  To the east, the night was split by the roar of German transport lorries. The commander of the 679th Infantry Regiment, reacting to Mecke’s alarms, was throwing battalions of infantry into the streets. Wehrmacht patrols were establishing a triple cordon across every major avenue, throwing roadblocks of sandbags and barbed wire across the railway crossings leading out toward the open marshes of the Grande Brière.
@@ -932,7 +932,7 @@
  Chapter Twenty-Eight
  The Last Stand of ML 306
  The Outer Estuary, Bay of Biscay
-  28 March 1942, 05:30 – 06:30
+ 28 March 1942, 05:30 – 06:30
  Four miles west of the Pointe de Chémoulin, where the brown river water met the long, rolling swell of the open Atlantic, ML 306 was limping toward England.
  Her mahogany hull was riddled with splinter holes from the river run-in. Driven off from the Old Mole by a wall of fire, her commander, Lieutenant Ian B. Henderson, RNVR, had managed to nurse his twin Hall-Scott petrol engines through the coastal battery gauntlet in the dark.
  Now, in the open sea, she was down by the head, trailing a pale slick of oil, her engines wheezing at barely eight knots. Aboard her were twenty-eight men—commandos and sailors—nearly all of them wounded, lying wedged between ammunition lockers on the blood-slick deck.
@@ -973,7 +973,7 @@
  Chapter Twenty-Nine
  The Trapped and the Cordon
  Saint-Nazaire Town
-  28 March 1942, 06:00 – 08:30
+ 28 March 1942, 06:00 – 08:30
  The dawn brought no warmth, only a flat, grey light that exposed the narrow layout of the streets.
  With the coming of daylight, the tactical advantage held by the British commandos vanished. The dark alleys that had concealed their movements for four hours became deadly funnels under the observation of German snipers stationed in church steeples, water towers, and harbor crane cabs.
  The German 679th Infantry Regiment moved with methodical, textbook discipline.
@@ -1011,7 +1011,7 @@
  Chapter Thirty
  The Inspection Party
  The Normandie Dock &amp; German Naval Headquarters, Saint-Nazaire
-  28 March 1942, 08:30 – 10:34
+ 28 March 1942, 08:30 – 10:34
  By mid-morning, the estuary fog had thinned under a pale spring sun, laying bare the physical wreckage of the night.
  Along the river approaches, the charred skeletons of three Fairmile launches rested on the mudbanks, their mahogany ribs picked clean by fire. The oily stench of four thousand gallons of burned aviation fuel hung over the water, trapped beneath the low maritime ceiling. But within the port basin itself, the gunfire had ceased entirely. A heavy, ringing silence replaced the roar of the batteries.
  At the entrance to the Normandie Dock, the falling tide transformed the geometry of the harbor.
@@ -1058,7 +1058,7 @@
  Chapter Thirty-One
  10:35 – The Amatol Thunderclap
  The Normandie Dock &amp; Saint-Nazaire
-  28 March 1942, 10:35
+ 28 March 1942, 10:35
  Inside the brass sleeve of the Number Ten Delay Switch, submerged beneath five feet of stagnant bilge water in Campbeltown’s lower hold, the cupric chloride acid finished its work.
  The last fraction of a millimeter of high-tensile steel wire thinned to the breaking point. The tension of the coiled striker spring overcame the corroded metal with a sharp, microscopic snap.
  The firing pin struck the percussion cap.
@@ -1090,7 +1090,7 @@
  Chapter Thirty-Two
  The Panic Massacres
  Saint-Nazaire Port &amp; Town
-  28–29 March 1942
+ 28–29 March 1942
  The column of smoke from the Normandie Dock rose two thousand feet into the sky, a black, oily smear visible from thirty miles across the plains of the Loire-Inférieure.
  In the minutes following the 10:35 detonation, the command structure of the German garrison fractured. The blast had not merely destroyed the caisson; it had killed the harbor salvage staff, wiped out senior naval engineering officers, and decapitated port communications.
  To the headquarters of the 333rd Infantry Division and Seekommandant Mecke, the delayed explosion appeared impossible as a mechanical trick. The initial assumption inside the bunkers was catastrophic: the blast was the opening signal for an armed insurrection by the French civilian population, coordinated with a second wave of British airborne landings.
@@ -1117,7 +1117,7 @@
  Chapter Thirty-Three
  The Second Detonation
  The Old Entrance, Saint-Nazaire
-  Monday, 30 March 1942, 16:30
+ Monday, 30 March 1942, 16:30
  For two days, the two 18-inch torpedoes lay undisturbed in the cold silt forty feet beneath the surface of the Loire.
  They rested nose-down against the granite sill of the Old Entrance, buried in estuarine mud, their bronze propellers fouled with kelp. Inside their warheads, protected by watertight casings, the brass balance-wheels of the clockwork delay mechanisms had been ticking in steady, mechanical isolation since 02:25 on Saturday morning.
  By Monday afternoon, a semblance of routine had returned to the German naval command.
@@ -1148,7 +1148,7 @@
  Chapter Thirty-Four
  The Long Walk to Gibraltar
  France, Spain, and Whitehall
-  April 1942 – 1948
+ April 1942 – 1948
  They moved by night, keeping off the paved roads.
  Of the more than one hundred men who had charged across the Pont Roulant into the streets of Saint-Nazaire, only five slipped through the Wehrmacht’s triple cordon before dawn broke. They were scattered across the countryside: Lance-Sergeant Arnold Howarth of the Grenadier Guards; Corporal George Wheeler and Lance-Corporal Richard Sims of No. 2 Commando; Lance-Corporal Douglas; and Private Harding.
  They had followed Lieutenant Colonel Newman’s three orders to the letter.
