@@ -45,7 +45,7 @@
  "Four," Varley said. "One commanding officer at the periscope and controls. One sub-lieutenant for dead reckoning and hydroplanes. One engine-room artificer. One diver. None of them may be over five feet eight inches in height. None of them may be broad across the shoulders. A tall man will not be able to sit upright on the battery casings without bowing his head."
  The layout of X3 was a masterpiece of ruthless mechanical economy. The vessel was fifty-one feet, four inches long, displacing twenty-seven tons on the surface and not quite thirty submerged. It was divided into four functional sections by three transverse bulkheads, but there were no privacy doors—only circular escape hatches cut into the steel walls, through which a grown man had to slide like an eel.
  Forward lay the battery compartment. Here sat a bank of Exide lead-acid submarine cells, identical in chemistry to those in fleet submarines, but shrunk into a space so cramped that the crew’s food rations—tins of corned beef, condensed milk, boiled sweets—had to be stowed directly on top of the cell tops, warm from electrical charging.
- Behind the battery was the innovation that made the X-craft unique: the "Wet-and-Dry" compartment, known simply as the W&amp;D.
+ Behind the battery was the innovation that made the X-craft unique: the "Wet-and-Dry" compartment, known simply as the W&D.
  It was a steel chamber barely large enough for two men to crouch in together. It served two purposes. In an emergency, it was an escape trunk using Davis Submerged Escape Apparatus (DSEA). Offensively, it was a diver’s airlock. By isolating the compartment, opening sea valves to flood it, and venting the internal air pressure, a trained diver could unbolt the top hatch while the submarine remained completely submerged on the sea floor, climb outside into the freezing water to cut through anti-torpedo netting with hydraulic shears, crawl back inside, close the hatch, pump out the water, and return to the warm control room.
  Amidships sat the control room. It contained the single brass steering wheel, the hydroplane controls, the gyro-compass repeater, a high-pressure blowing panel for the ballast tanks, and the periscope. Because a standard submarine periscope would weigh more than the X-craft itself, Varley had fitted an instrument barely an inch and an eighth in external diameter at the tip—little thicker than a broom handle. Through it, the commanding officer had a field of view of only a few degrees; it had no magnification, threw an image that was dim in anything less than brilliant sunlight, and leaked around its packing gland the moment depth exceeded sixty feet.
  Aft lay the engine room.
@@ -164,7 +164,7 @@
   February–March 1943
  The suit was officially designated the "Submarine Diver's Surface-Breathing and Shallow-Water Diving Dress."
  The men who had to wear it called it "Clammy Death."
- Manufactured by Siebe, Gorman &amp; Company to a design by Commander Sladen, it was a one-piece coverall made of thin, bottle-green sheet rubber backed with fine twill. It had no internal heating, no thermal padding, and offered zero insulation against the Scottish winter. A diver pulled it on over two or three layers of thick Shetland wool long-johns and sweaters. You stepped in through an expansive neck aperture, pulled the rubber over your shoulders, and had an assistant clamp a rigid brass neck-ring and heavy rubber collar around your throat with wing-nuts.
+ Manufactured by Siebe, Gorman & Company to a design by Commander Sladen, it was a one-piece coverall made of thin, bottle-green sheet rubber backed with fine twill. It had no internal heating, no thermal padding, and offered zero insulation against the Scottish winter. A diver pulled it on over two or three layers of thick Shetland wool long-johns and sweaters. You stepped in through an expansive neck aperture, pulled the rubber over your shoulders, and had an assistant clamp a rigid brass neck-ring and heavy rubber collar around your throat with wing-nuts.
  If the suit leaked—and it almost always leaked around the cuffs or the crutch—the near-freezing seawater of Loch Striven saturated the woolens instantly. The water was trapped against the skin, growing cold, sour, and heavy.
  Inside X3, resting on the muddy floor of the loch at forty feet during the late-winter trials of 1943, Sub-Lieutenant Robert Aitken was wedged into the Wet-and-Dry compartment.
  He was twenty-two years old, an RNVR officer who had worked in an Edinburgh bank before the war. He stood five feet seven inches, his back pressed hard against the steel forward bulkhead of the compartment, his knees knocked against the internal casing of the high-pressure air manifold. Beside him hung the breathing set: a modified Davis Submerged Escape Apparatus (DSEA) strapped across his chest, fitted with an oxygen bottle, a corrugated rubber breathing tube, a spring-loaded nose clip, and a rectangular canister of Protosorb soda-lime.
@@ -174,14 +174,14 @@
  "Oxygen correct, sir. Commencing flood."
  Place turned to the trim controls. "Stand by on compensating tank three. Richardson, be ready on the main pump."
  This was the mechanical crisis of every lock-out.
- The W&amp;D compartment was not merely a room; it was an integral part of the submarine's displacement. Empty, it held roughly a ton of air. Flooded with seawater, it added two thousand two hundred pounds of dead weight directly ahead of the craft’s center of gravity. Unless that weight was instantly offset by pumping a corresponding volume of water from the internal compensating tanks into the sea, the submarine would tip forward on her nose and drive herself like a chisel into the seabed mud.
+ The W&D compartment was not merely a room; it was an integral part of the submarine's displacement. Empty, it held roughly a ton of air. Flooded with seawater, it added two thousand two hundred pounds of dead weight directly ahead of the craft’s center of gravity. Unless that weight was instantly offset by pumping a corresponding volume of water from the internal compensating tanks into the sea, the submarine would tip forward on her nose and drive herself like a chisel into the seabed mud.
  Aitken reached down in the dark and cranked open the lower flood valve—the sea-cock that led directly to the loch.
  Seawater roared through the pipe with the sound of a ruptured boiler. It hit Aitken's ankles, then rose past his knees, icy and black. The air inside the closed chamber had nowhere to escape; as the water level mounted toward his waist, the air compressed, screaming out through the overhead vent cock Aitken was feathering with his right hand.
  The pressure inside the chamber climbed sharply. Aitken felt the familiar, brutal hammer against his eardrums. He swallowed violently, forcing air into his sinuses, fighting to equalize before an ear-drum burst.
  Inside the control room, the bow tilted downward three degrees.
  "Blow compensating three," Place ordered quietly. "Half-ahead on the motor."
  The electric motor hummed; the screw bit into the water. Engine Room Artificer Richardson worked the brass levers of the air blowing panel. High-pressure air screeched as water was forced out of the tanks beneath their deckboards. The depth gauge needle flickered, dipped to forty-two feet, and then stabilized. The trim held.
- Inside the W&amp;D, the water was at Aitken’s chest. Then his chin.
+ Inside the W&D, the water was at Aitken’s chest. Then his chin.
  He pulled the rubber mouthpiece tight, clamped the spring clip over his nostrils, and adjusted the glass goggles over his eyes. As the water closed over his head, he reached up into the darkness above him, grasped the dog-clamps of the topside circular escape hatch, and shoved.
  Hydrostatic pressure held the steel hatch sealed until the internal water level was completely equalized with the loch outside. With a dull metallic clunk, the pressure balanced. Aitken threw his weight upward.
  The hatch popped open.
@@ -204,7 +204,7 @@
  Three feet too deep.
  He let go of the cutter, kicked his legs, and floated upward along the steel mesh until his gauge showed twenty-eight feet. He grabbed the wire with numb fingers, hauled the heavy cropper back into position, and began to pump again.
  Forty-five minutes later, exhausted, his forearms cramping and his hands devoid of sensation, Aitken crawled back down the rounded hull of X3.
- He slid his legs through the upper hatch of the W&amp;D, hauled the cutters in after him, pulled the steel hatch down, and dog-bolted the clamps.
+ He slid his legs through the upper hatch of the W&D, hauled the cutters in after him, pulled the steel hatch down, and dog-bolted the clamps.
  He opened the blow-valve. High-pressure air from the boat's storage bottles shrieked into the chamber, forcing the water out through the bottom discharge pipe into the sea. As the water dropped below his waist, Aitken tore the mouthpiece from his jaw, ripped off his goggles, and hammered his fist against the internal bulkhead door.
  "Hatch secured," he croaked, coughing violently as the cold, dry air hit his lungs. "Wire cut. Opening made."
  Inside the control room, Godfrey Place smiled faintly, checked the chronometer, and marked the log.
@@ -239,7 +239,7 @@
  The targets were now three.
  Back in Scotland, between January and July 1943, the six operational X-craft arrived at Loch Striven from the shipyards:
  X5 arrived first from Vickers-Armstrongs at Barrow-in-Furness.
- X6 and X7 followed, along with X8, X9, and X10, built partly by Vickers and partly by industrial subcontractors Markham &amp; Company in Chesterfield and Broadbent in Huddersfield.
+ X6 and X7 followed, along with X8, X9, and X10, built partly by Vickers and partly by industrial subcontractors Markham & Company in Chesterfield and Broadbent in Huddersfield.
  These production boats were identical in layout to the battered prototype X3, but featured critical modifications: slightly thicker plating, improved high-pressure air manifolds, and improved magnetic gyro-compasses.
  In late August 1943, Commander Fell called the commanding officers into the briefing room aboard HMS Bonaventure.
  On the center of the mahogany table sat a detailed, three-dimensional plaster-of-Paris relief model of Kåfjord and Langfjord, built to exact scale by Medmenham’s model-makers using Raaby’s data and aerial photography. Every contour, every anti-torpedo buoy line, and every known hydrophone station was painted in matte enamel.
@@ -305,7 +305,7 @@
  The motion was neither that of a surface ship nor a free-running submarine.
  Towed at eight knots by twelve hundred feet of nylon line, an X-craft behaved like an iron sinker dragged behind a cart. When the parent submarine crested an ocean roller forty feet above, the hawser snatched tight with a mechanical groan that reverberated directly through the steel ribs of the midget’s hull. The bow surged upward; then, as the line plunged back into the trough, the bow dropped violently, corkscrewing through thirty degrees of list before the rudder could bite.
  Inside, daylight did not exist. The passage crews lived in an amber twilight cast by two low-amperage instrument bulbs shielded with wire mesh.
- The routine was dictated by the parent submarines’ defensive profile. During the day, to evade the long-range Junkers Ju 88 and Blohm &amp; Voss Bv 138 reconnaissance aircraft patrolling from Banak and Tromsø, the mother submarines dived to eighty feet. The X-craft followed them down.
+ The routine was dictated by the parent submarines’ defensive profile. During the day, to evade the long-range Junkers Ju 88 and Blohm & Voss Bv 138 reconnaissance aircraft patrolling from Banak and Tromsø, the mother submarines dived to eighty feet. The X-craft followed them down.
  Submerged towing was an ordeal of active, exhausting concentration. The X-craft did not simply trail passively. Because she had minimal longitudinal stability, the helmsman had to sit strapped to his iron seat, his hands locked around the hydroplane control wheel, continuously fighting the trim.
  If the parent boat altered speed by half a knot, the tow angle changed. If the bow tilted three degrees down, the midget submarine began to plane downward toward the crushing depths of the Norwegian Trench. The passage officer sat hunched over the depth-gauge needle, calling out corrections:
  "Up-planes. Half-degree rise. Catch her."
@@ -1561,7 +1561,7 @@
  Their fresh water was exhausted; they drank melted frost scraped from the internal hull framing.
  Their food was down to hard ship's biscuits and cold tinned corned beef.
  The Gardner diesel was beginning to misfire, its fuel injectors fouled with carbon and condensation.
- Every six hours, German Blohm &amp; Voss Bv 138 three-engine flying boats droned low over the horizon, forcing X10 to dive to eighty feet to sit motionless in the ocean swell, freezing in total darkness while the crew fought off anoxia and carbon-dioxide headaches.
+ Every six hours, German Blohm & Voss Bv 138 three-engine flying boats droned low over the horizon, forcing X10 to dive to eighty feet to sit motionless in the ocean swell, freezing in total darkness while the crew fought off anoxia and carbon-dioxide headaches.
  By the predawn hours of 25 September, Hudspeth realized the truth:
  In an ocean patrol area spanning several hundred square miles, the odds of a fifty-foot midget submarine—riding with six inches of freeboard in a sea running six-foot swells—intercepting a conventional submarine that was diving by day were practically zero.
  Worse, their fuel was down to twenty gallons. If they burned their remaining diesel searching the empty sea, they would lose all electrical power to pump the bilges or run the scrubbers.
@@ -1763,7 +1763,7 @@
 
  Chapter Thirty-Six
  The Crippled Beast
- Admiralty, Whitehall, London &amp; Kåfjord, Norway
+ Admiralty, Whitehall, London & Kåfjord, Norway
   Late September 1943 – February 1944
  The first confirmation arrived not through naval signals, but on twelve-inch photographic plates developed in a darkroom at RAF Leuchars.
  On 29 September 1943, an unarmed De Havilland Mosquito PR.IV of No. 544 Squadron staged out of the Soviet airfield at Vaenga, climbed through freezing cloud to twenty-eight thousand feet, and made a single, high-speed camera run down the length of Kåfjord.

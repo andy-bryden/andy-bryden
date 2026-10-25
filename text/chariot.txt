@@ -108,13 +108,13 @@
 
  Chapter Four
  The Men of No. 2 Commando
- Southampton &amp; Burford
+ Southampton & Burford
  Mid-March 1942
  The King George V Graving Dock in Southampton was a cavernous trench of grey granite, draining forty-eight million gallons of Solent water when pumped dry. In the freezing blackness at the bottom of the basin, thirty men moved without flashlights.
  They had greasepaint smeared across their faces and strips of black friction tape bound around every brass buckle to stop the clink of metal. They moved by touch, their palms running over frozen steel pipes, hydraulic valves, and the colossal cast-iron casings of the centrifugal pump impellers.
  "Hands off the torch," Captain W.H. "Bill" Pritchard of the Royal Engineers whispered from the darkness. His voice had the dry, clipped authority of an instructor who tolerated no mistakes. "If you need a lamp to find the intake manifold in Southampton, you’ll be a corpse on the floor of Saint-Nazaire before you find the detonator well. Do it again. By feel."
  Watching from the catwalk forty feet above was Lieutenant Colonel Augustus Charles Newman.
- At thirty-seven, Newman did not fit the swashbuckling caricature of the newly formed Commandos. He wore a neat mustache, carried himself with quiet, unhurried dignity, and was an officer of the Territorial Army’s 4th Battalion, The Essex Regiment. In civilian life, he was a civil engineer with Peter Lind &amp; Company, specializing in heavy reinforced concrete, docks, and wharves.
+ At thirty-seven, Newman did not fit the swashbuckling caricature of the newly formed Commandos. He wore a neat mustache, carried himself with quiet, unhurried dignity, and was an officer of the Territorial Army’s 4th Battalion, The Essex Regiment. In civilian life, he was a civil engineer with Peter Lind & Company, specializing in heavy reinforced concrete, docks, and wharves.
  It was precisely this civilian background that had caused Combined Operations to give him command of the military force. Newman understood the tensile strength of pre-stressed concrete, the shear points of hydraulic caissons, and the vital organs of a modern dry dock. He knew that steel could be replaced, but custom-cast pump impellers took years to forge.
  Under his command was No. 2 Commando—two hundred and twenty-six men—reinforced by forty demolition specialists hand-picked from Nos. 1, 3, 4, 5, 9, and 12 Commandos. Total strength: two hundred and sixty-six soldiers.
  Newman had organized them into three distinct groups with surgical precision:
@@ -354,7 +354,7 @@
 
  Chapter Eleven
  The Sky Betrayal
- Airspace over Saint-Nazaire &amp; German Naval HQ
+ Airspace over Saint-Nazaire & German Naval HQ
  28 March 1942, 00:00 – 01:00
  Above the Loire, the sky was a blind, frozen vault.
  A solid bank of stratus cloud, ten-tenths unbroken, stretched from two thousand feet down to within a thousand feet of the ground. Through this freezing murk droned sixty-two twin-engine aircraft from RAF Bomber Command: thirty-five Armstrong Whitworth Whitleys of No. 4 Group and twenty-seven Vickers Wellingtons of Nos. 1 and 3 Groups.
@@ -519,7 +519,7 @@
 
  Chapter Sixteen
  Disembarking into Hell
- Normandie Dock Outer Caisson &amp; Quayside
+ Normandie Dock Outer Caisson & Quayside
  28 March 1942, 01:35 – 01:45
  The bamboo scaling ladders clattered against the caisson plating.
  Over the crushed forecastle rail of Campbeltown, Captain Donald Roy and the six men of his assault party dropped eight feet onto the wet steel deck of the gate. They wore rubber-soled plimsolls that squeaked on the damp plating, dark cap comforters pulled low over their ears, and carried Thompson submachine guns slung short across their chests.
@@ -692,7 +692,7 @@
 
  Chapter Twenty-One
  Savage at the Pom-Pom
- The River Loire &amp; Avant-Port
+ The River Loire & Avant-Port
  28 March 1942, 01:45 – 02:25
  At 01:45, MGB 314 nosed her mahogany stem against the stone slipway of the Old Entrance just long enough for Lieutenant Colonel Newman and his five headquarters staff to leap ashore onto the quay.
  The moment their boots cleared the coaming, Lieutenant Dunstan Curtis, RNVR, threw the throttles astern, backing the wooden gunboat into the open current. Commander Ryder stayed aboard on the open bridge. As overall Naval Force Commander, his post was on the water, orchestrating the scattered launches and keeping the riverway open for the evacuation.
@@ -717,7 +717,7 @@
 
  Chapter Twenty-Two
  The Submerged Torpedoes
- The Avant-Port &amp; Old Entrance
+ The Avant-Port & Old Entrance
  28 March 1942, 02:15 – 02:35
  Sub-Lieutenant Mickey Wynn handled MTB 74 like an offshore racing boat.
  The seventy-foot wooden craft skimmed the black river on a plane, her three supercharged Packard engines screaming at four thousand revolutions per minute. With her high-compression exhausts barking flame, she threw two sheets of white spray into the dark, carving a hard turn around the flaming wreckage of ML 447.
@@ -791,7 +791,7 @@
 
  Chapter Twenty-Four
  The Empty River
- The Quayside &amp; Old Entrance
+ The Quayside & Old Entrance
  28 March 1942, 02:30 – 02:45
  Lieutenant Colonel Charles Newman stood by the brick wall of a transit shed near the Old Entrance, his Thompson submachine gun resting against his hip.
  Around him in the shadows, the raid’s military headquarters was operating by the light of burning timber. A medical orderly was kneeling over a wounded corporal, cutting away a blood-soaked trouser leg with heavy shears, while two signallers knelt by an iron bollard, watching the perimeter for German counter-attacks.
@@ -1010,7 +1010,7 @@
 
  Chapter Thirty
  The Inspection Party
- The Normandie Dock &amp; German Naval Headquarters, Saint-Nazaire
+ The Normandie Dock & German Naval Headquarters, Saint-Nazaire
  28 March 1942, 08:30 – 10:34
  By mid-morning, the estuary fog had thinned under a pale spring sun, laying bare the physical wreckage of the night.
  Along the river approaches, the charred skeletons of three Fairmile launches rested on the mudbanks, their mahogany ribs picked clean by fire. The oily stench of four thousand gallons of burned aviation fuel hung over the water, trapped beneath the low maritime ceiling. But within the port basin itself, the gunfire had ceased entirely. A heavy, ringing silence replaced the roar of the batteries.
@@ -1057,7 +1057,7 @@
 
  Chapter Thirty-One
  10:35 – The Amatol Thunderclap
- The Normandie Dock &amp; Saint-Nazaire
+ The Normandie Dock & Saint-Nazaire
  28 March 1942, 10:35
  Inside the brass sleeve of the Number Ten Delay Switch, submerged beneath five feet of stagnant bilge water in Campbeltown’s lower hold, the cupric chloride acid finished its work.
  The last fraction of a millimeter of high-tensile steel wire thinned to the breaking point. The tension of the coiled striker spring overcame the corroded metal with a sharp, microscopic snap.
@@ -1089,7 +1089,7 @@
 
  Chapter Thirty-Two
  The Panic Massacres
- Saint-Nazaire Port &amp; Town
+ Saint-Nazaire Port & Town
  28–29 March 1942
  The column of smoke from the Normandie Dock rose two thousand feet into the sky, a black, oily smear visible from thirty miles across the plains of the Loire-Inférieure.
  In the minutes following the 10:35 detonation, the command structure of the German garrison fractured. The blast had not merely destroyed the caisson; it had killed the harbor salvage staff, wiped out senior naval engineering officers, and decapitated port communications.

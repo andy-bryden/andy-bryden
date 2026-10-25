@@ -838,7 +838,7 @@
  "Drink," Page commanded gently. "Small sips. Just wet the tongue."
  Marsh pushed the tin away with a trembling hand, his knuckles gray with weakness. "Can't keep it down, Bob. Tastes like iron filings. It just rips right through me."
  "You drink it anyway," Page said, his tone firm with medical authority. "You've lost three quarts of fluid since yesterday dawn. If your kidneys shut down in this heat, I can't restart them with sulfaguanidine."
- Page drew two white tablets of M&amp;B 693 from a sealed brown glass bottle, crushed them between two metal spoons, and mixed the powder into the water. He held Marsh’s head with one hand, easing the rim against the rating’s cracked, peeling lips.
+ Page drew two white tablets of M&B 693 from a sealed brown glass bottle, crushed them between two metal spoons, and mixed the powder into the water. He held Marsh’s head with one hand, easing the rim against the rating’s cracked, peeling lips.
  Marsh swallowed, his throat working with agonizing slowness, then collapsed back onto the canvas with a low, shuddering groan.
  Corporal Ronald Morris crouched on the far side of the timber stringer, his medical haversack open on his thighs. He was boiling a pair of surgical tweezers over the blue flame of a small methylated spirit stove, the faint alcohol vapor momentarily cutting through the reek of stagnant bilge and rotting tuna grease.
  "That's four of them down with it now, Lieutenant," Morris murmured, nodding toward the dark forward frames where Joe Jones and Andrew Huston lay motionless in their sarongs. "Bacillary dysentery. The rice Crilley boiled three days ago went sour in the locker. The humidity's breeding bacteria faster than the gut can shed them."
@@ -959,7 +959,7 @@
 
  Chapter Twenty-One
  The Ghost Shift
- Temiang Strait &amp; Lingga Archipelago
+ Temiang Strait & Lingga Archipelago
   19–21 September 1943
  The Krait did not anchor. In the narrow, shallow channels south of the Riau Strait, a stationary vessel was an invitation to an inspection launch.
  Instead, Ted Carse kept her moving at three knots—barely above steerageway. She became a phantom craft, drifting along the mangrove-fringed coasts of Lingga, down through the Temiang Strait, and into the muddy, shallow shelf off western Borneo.
@@ -976,7 +976,7 @@
  "He's slipping, Mr Carse," Morris called quietly toward the wheelhouse.
  Carse stepped down from the steering deck, barefoot, his faded sarong hitched up to keep it out of the bilge sludge. He had a stub of cold charcoal between his teeth. He squatted beside Marsh, placing two calloused fingers against the seaman's carotid artery.
  The pulse was fast, thready, and weak.
- "Can you give him more of the M&amp;B, Taffy?" Carse asked.
+ "Can you give him more of the M&B, Taffy?" Carse asked.
  "I’ve given him twelve tablets in forty-eight hours, sir," Morris whispered, his Welsh voice tight with strain. "His stomach won't hold the powder. It comes right back up. He needs intravenous saline. Two pints. But we don't have the glass giving-sets, and even if we did, the water in those drums would kill him with septicemia in ten minutes."
  Carse looked down at the dying boy. Marsh had volunteered out of Flinders Naval Depot in Melbourne, nineteen years old, thinking he was heading for a motor torpedo boat crew in Darwin. Now he lay in the scuppers of a stolen tuna boat, thirty miles from an enemy naval base, rotting from the inside out.
  "Keep him in the shade, Morris," Carse said, his voice flat with forced detachment. "Wet his forehead with vinegar. If he starts raving, put a gag in his mouth. If an Imperial patrol boat comes within earshot and hears an Australian accent shouting for his mother, we'll have to put a bullet through his ear before we blow the magazine."
@@ -1614,7 +1614,7 @@
 
  Chapter Thirty-Five
  The Moral Ledger
- Changi Gaol &amp; The YMCA, Singapore
+ Changi Gaol & The YMCA, Singapore
   10 October 1943 – Aftermath
  The Japanese military police did not believe in ghosts.
  To Lieutenant Colonel Haruzo Sumida, commander of the Kempeitai’s Singapore branch, the idea that an Allied military unit had sailed a wooden fishing boat two thousand miles from Western Australia, slipped through the Lombok Strait, paddled canvas canoes into Keppel Harbour, and vanished without leaving a trace was not merely improbable—it was a military impossibility.
@@ -1640,7 +1640,7 @@
  The six men who had clamped the limpets to the hulls of the Kazan Maru and the Taihei Maru were already fifteen hundred miles away, running south across the Indian Ocean toward cold beer and medals in Melbourne.
  Special Operations Australia had kept the mission so entirely secret—even from the Allied clandestine networks inside Malaya—that the innocent civilian population of Singapore had been left completely defenseless, offered up as unwitting hostages to the inevitable, feral fury of the Japanese military.
  Before the interrogations ended months later, fifteen innocent civilians and internees would die in the Kempeitai cells—their bodies broken by torture, starvation, and dysentery, buried in unmarked graves behind the Outram Road Gaol. Dozens more would be crippled for life.
- * * *
+
  Melbourne, Australia
   November 1943
  In the quiet, wood-paneled office of the Inter-Allied Services Department, Lieutenant-Colonel G.E. Mott set down the final operational report for Operation Jaywick.
