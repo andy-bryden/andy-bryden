@@ -41,7 +41,7 @@ It would be some time before Byzantium realised that their search party was not 
 3 — The Wrong Wind
 Traversing the goat tracks through the Haemus mountains took almost three weeks. The deep ravines and limestone scree was ground the three women soon mastered, learning how to use the natural landscape to hide their movement from Roman patrols. Several isolated waypoints along the military road unwittingly provided sustenance, and there were many Roman sentries whose last conscious sensation was cold steel on the throat.
 As they reached the northern slopes, the rock fell away, opening out onto the steppe, where the ground flattened into wide pasture cut by dry washes, with long swells of yellow grass stretching toward the Danube. There were no limestone clefts to break sightlines here, so the women needed to alter their tactics, keeping low along the folds of the land and timing their movement between the ridges.
-They picked up a patrol two hours before midday: six auxiliary infantrymen and a junior officer, marching west along an unpaved border trail. Thana, Toria, and Tacita shadowed the file from a shallow gully running parallel to the track, assessing their spacing and waiting for a bend in the road to close the distance. They kept below the rim of the wash, careful of their footing and maintaining absolute silence.
+They picked up a patrol two hours before midday - six auxiliary infantrymen and a junior officer, marching west along an unpaved border trail. Thana, Toria, and Tacita shadowed the file from a shallow gully running parallel to the track, assessing their spacing and waiting for a bend in the road to close the distance. They kept below the rim of the wash, careful of their footing and maintaining absolute silence.
 The patrol was approaching the bend, and the three women were preparing for the strike, when a voice spoke from the crest of the ridge directly behind them.
 "You're standing in the wrong wind. They'll smell you before they see you."
 Three heads turned together, but none of them flinched. These weren't women who startled.
@@ -206,7 +206,7 @@ They halted to study it.
 "But out here we run into whatever tribes are pushing south," Toria pointed out.
 "We can handle them," Thana said. "Whether they can handle us is for them to discover."
 They tracked the wall westward through the forest, keeping just far enough in the trees to stay off the cleared apron along the ditch. Stone watchtowers stood every thousand paces, but the auxiliaries on the timber catwalks were sluggish in the midday warmth, watching the tree line without expecting anything to come out of it.
-Near Dalkingen, the wall had something they had never seen on a frontier before: a gate built on the scale of an imperial palace.
+Near Dalkingen, the wall had something they had never seen on a frontier before - a gate built on the scale of an imperial palace.
 It was fine sandstone, wide-arched and finished with carved mouldings, with an imperial shrine set over the main entrance. A bronze statue of the emperor Caracalla stood high above the portal, his back turned to the northern wilderness as he commanded the road leading into the province, the metal gleaming in the clear early autumn sun.
 "That’s a lot of work for a gate in the woods," Toria remarked.
 "It's an advertisement," Thana said, looking up at the bronze. "Rome builds things like that when it needs to convince the border it isn't losing control. It’s cheaper than marching three more legions up from the south."
@@ -345,7 +345,7 @@ She waited once more. The footsteps met and passed again. She crossed the open g
 She held there a moment longer, Fort Lorch behind her for the first time in three years.
 
 17 — Unfamiliar Ground
-For three years she had been an object of curiosity in a household of military men. She had never set foot outside the walls of the fort. She had no idea what to expect here, apart from what one frightened soldier's account had told her: seven women, and four Roman dead, west of the fort.
+For three years she had been an object of curiosity in a household of military men. She had never set foot outside the walls of the fort. She had no idea what to expect here, apart from what one frightened soldier's account had told her - seven women, and four Roman dead, west of the fort.
 When she judged she was deep enough into the cover of the trees, she turned west, and held that line.
 The sky was beginning to turn from black to grey behind her, the outline of the fort falling further behind, to her left.
 After several minutes, she turned south, keeping the fort to her left.
@@ -527,7 +527,7 @@ In the middle of a heaving mass of screaming horseflesh and struggling cavalryme
 
 24 — Cold Captive
 Tigratavā caught the movement at first light.
-Torches were lit at the gate, but there were more of them than a normal muster needed. She watched long enough to assess: more men than yesterday, nobody riding out ahead of the rest. She then went back for Tiata and Thilda without waking anyone else.
+Torches were lit at the gate, but there were more of them than a normal muster needed. She watched long enough to assess - more men than yesterday, nobody riding out ahead of the rest. She then went back for Tiata and Thilda without waking anyone else.
 "They're moving again," she said. "Same ground as yesterday, by the look of the column. More men this time."
 Tiata was on her feet in an instant. "How many more?"
 "They're not expecting an easy morning, I'll put it that way."
@@ -708,7 +708,7 @@ The Praefectus received him immediately and didn't try to hide his relief. Most 
 "Then you already know most of it." He said it without shame. "Ask what you need. I've nothing left to hide."
 
 30 — The Rider
-Tigratavā had watched the fort from the same ridge for eleven days, taking the dawn hours because that was when a gate crew was most likely to be tired and careless. Most of what she'd seen in that time hadn't changed: a sentry walking the rampart, smoke starting from the kitchen fires, no patrol willing to cross the western ground. This morning a rider came down a trail from the northwest.
+Tigratavā had watched the fort from the same ridge for eleven days, taking the dawn hours because that was when a gate crew was most likely to be tired and careless. Most of what she'd seen in that time hadn't changed - a sentry walking the rampart, smoke starting from the kitchen fires, no patrol willing to cross the western ground. This morning a rider came down a trail from the northwest.
 He rode alone. A packhorse followed him on a lead, loaded with two hide cases and a bedroll. No escort came with him, and his pace didn't match a courier's — couriers rode fast and pushed their mounts hard; this man came on at a walk.
 His horse was better fed and better shod than anything she'd seen a common soldier ride. He wore a plain travelling cloak, no armour visible under it, and carried a leather document case slung across his back.
 The gate opened for him when he reached it. She had watched that gate for weeks. Every other arrival — patrol, courier, muster — had been made to stop and answer a series of questions before the gate moved. This one was barely stopped at all.
@@ -746,11 +746,11 @@ After he had combed the ambush site, he asked the escort to take him to the plac
 He stepped cautiously out of the tree line, into the clearing that was clearly a lived-in camp, laid out exactly as the second dispatch had described it — the fire was burning low, eight bedrolls arranged around it, five horses tethered nearby, calm and well-cared-for.
 He looked again — eight bedrolls.
 The lad had said seven. Ligarius had gone back over that testimony more carefully than any other he'd taken, because it was the only account not given in the middle of a fight, yet here were eight bedrolls. Either the lad had been in error, or an eighth had joined them. Could this be the Caledonian captive who vanished?
-He knew the woman only by report: three years a captive, taken from Caledonia, kept for display rather than labour. He had built his working picture of this band from the only material available to him — local, frontier-born women, if they were indeed women, who shared a grudge against the local Roman fort, but a Caledonian would have no place among them.
+He knew the woman only by report - three years a captive, taken from Caledonia, kept for display rather than labour. He had built his working picture of this band from the only material available to him — local, frontier-born women, if they were indeed women, who shared a grudge against the local Roman fort, but a Caledonian would have no place among them.
 She had no kin on this frontier. No tribe here that he knew of had connections with Caledonia. By every account, she had stood three years at a wall in that fort and said nothing to anyone beyond what was required of her. He couldn't fathom how a foreigner could join a band of locals, who would then trust her enough to fight beside her the very next day. In his experience, that kind of loyalty took years to build.
 Even granting the eight — granting Taran, granting whatever local grievance had raised the rest — he could not make the numbers answer for what had been done to Marcellus's century. Two ambush points had worked in coordination, timed apart just far enough to split the response. Every horse in a mounted division had gone down inside minutes, in a fight fifty men had not been able to hold together long enough to protect their own mounts. A centurion had been taken from under the noses of his own escort, and not one man among fifty had seen it happen. This was command — someone reading the ground, dividing the labour, timing the strikes to land when the confusion was thickest. He had questioned officers, in three provinces, who could not have managed that with a century of trained men under them.
 He walked back to the fort as the light went, putting the report into its final order in his head. He would write what he had, plainly, the way a report should be written. Seven confirmed at the first engagement, on the word of a released witness he judged reliable. A camp, found after, showing eight. A captive missing from the Praefectus's own household that same night — the timing noted, the connection unproven. Coordination in the second engagement beyond what he would expect of an undisciplined local band, suggesting direction from a source not yet identified.
-He would leave one thing out of the report: that eight women alone might have done all of it. He turned the sentence over as he walked and could not make himself set it to wax. The ground had told him plainly enough. What he lacked was a place in his own mind to hold it.
+He would leave one thing out of the report - that eight women alone might have done all of it. He turned the sentence over as he walked and could not make himself set it to wax. The ground had told him plainly enough. What he lacked was a place in his own mind to hold it.
 
 32 — Watched in Turn
 Thilda held the ridge above the fort's west gate, the morning after the outsider had arrived.
@@ -786,7 +786,7 @@ Tacita lifted her gladius and pointed it due east.
 "There's an eastern patrol that usually returns to the fort just on sundown," Thilda said. "I've already got a good ambush site in mind."
 "I know a couple of good vantage points, north and south, where the sentries on the ramparts are easily within striking distance," Tigratavā said. "The wind around sundown is usually from the north-west, so the north shot will probably be the easier of the two. Do you have any preference, Taran?"
 Taran thought for a moment. "I'd like to try the south shot."
-Tiata looked around the group. "The plan will be: strike the patrol, release a witness, split north and south." She paused. "We need to synchronise these two shots, so I'm thinking Tacita could tail the witness to the fort, then signal the two of you the moment he enters the eastern gate."
+Tiata looked around the group. "The plan will be - strike the patrol, release a witness, split north and south." She paused. "We need to synchronise these two shots, so I'm thinking Tacita could tail the witness to the fort, then signal the two of you the moment he enters the eastern gate."
 Tacita looked across at Tiata, and nodded.
 Tove had been quiet through the planning, turning something over. "There's a second part to this, if you want it," she said. "They've been in this camp twice now. If we accompany tonight's strike with a camp shift, they won't know where to look for us next."
 Tiata considered that. "You might be onto something there. Any suggestions of where to go?"
@@ -894,7 +894,7 @@ After several more shots, two trilobate heads from Tigratavā and a solid hit fr
 They found another rise close enough to watch both the fort and the road the column had taken, and waited.
 
 36 — Seven Fires
-Draco had watched the column go, the gate barred behind it. The morning should be simple enough: hold the walls and wait for word.
+Draco had watched the column go, the gate barred behind it. The morning should be simple enough - hold the walls and wait for word.
 The yard settled quickly once the dust from the column's departure cleared. What remained of the garrison went back to its rhythms — the ovens, the stores. Draco walked the wall himself once, start to finish. The column was in the field now, chasing down whatever had been haunting them. By evening, or tomorrow at the latest, it would be finished.
 A short time later, he was in the record room, going through the week's requisitions with the clerk, when the first shout was raised.
 "Fire!"
@@ -972,71 +972,71 @@ Then Tacita spoke.
 Historical Note
 Female gladiators were a genuine feature of the Roman arena, recorded by historians such as Tacitus, Suetonius, and Cassius Dio, and depicted on contemporary stone reliefs. Although Emperor Septimius Severus officially banned women from combat around 200 AD, private and provincial spectacles continued to stage bouts in defiance of imperial decree.
 The fort at Lorch was a real Roman fortress. It sat at a point known today as the Limesknie — literally, the "limes-knee," the bend where the Upper Germanic limes turned sharply east to meet the Raetian limes on its way to the Danube. "Genu" is the Latin word for knee. The site lies beneath the present-day town of Lorch, which has prevented the same kind of full excavation carried out at other forts along the frontier, such as Zugmantel. The only part of the fort still visible above ground is a single tower base at the west gate. The last significant excavation was carried out in the 1980s, and found the remains preserved under about 1.5 metres of hillside silt and more recent construction.
-Lorch was located at the point where two distinct border construction styles met: while Upper Germania fortified its line with an earthen rampart and split-oak palisade, Raetia constructed a continuous wall of plastered limestone, remembered in folklore as the "Teufelsmauer" (Devil's Wall).
+Lorch was located at the point where two distinct border construction styles met - while Upper Germania fortified its line with an earthen rampart and split-oak palisade, Raetia constructed a continuous wall of plastered limestone, remembered in folklore as the "Teufelsmauer" (Devil's Wall).
 The wider collapse of the frontier referenced in this book is also historical, known as the Limesfall. Further details are provided in the Historical Note at the end of the sequel to this book.
 
 Character Index
 
 Thana
-Pronunciation: tHAH-nuh
-Origin: Greek
-Meaning: "death"
+Pronunciation - tHAH-nuh
+Origin - Greek
+Meaning - "death"
 Thana is the first of the eight introduced to us on the sand of the Kynegion arena in Byzantium. One of Servius's many gladiatrices, she had been taken by pirates from her hometown on the coast of Greece. She was fourteen at the time, from a family of good standing and modest means.
 As a child, she had excelled in her lessons, her exacting and analytical nature finding its true passion in arithmetica. This preternatural ability to solve problems instantly, using any means available, served her well in her role as gladiatrix, allowing her to walk victorious from eleven death matches. Over time, her ruthless calculating directness hardened into a smug, cynical outlook on life.
 In combat, she handles her xiphos with calculated dexterity, unafraid to step into close hand-to-hand bouts, prepared to fall back on her xiphidion if required. Even at a distance, she is deadly accurate with her akontia.
 
 Toria
-Pronunciation: toh-RREE-uh
-Origin: Iberian
-Meaning: "conqueror"
+Pronunciation - toh-RREE-uh
+Origin - Iberian
+Meaning - "conqueror"
 Toria is the second of the eight we see, first shown to us as opponent of Thana, set to battle to the death, before Tacita intervenes. She has been under the brutal hand of Servius for longer than the others, having been taken as a small child when Roman soldiers were sent to quell unrest in her native province on the Iberian Peninsula. She remembers little more than the sound of her mother's voice being cut off mid-word, and the smoke that did not belong in that hillside village.
 Her outgoing, fun-loving nature was severely curtailed during her years at the Kynegion in Byzantium, forcing an underlying dominance to the fore. This served her well during those years, building in her a fiery spontaneity, a quick eye and a lethally fast hand.
 In combat, she will face down the toughest of enemies, her falcata leaving a trail of destruction. Through her hastiness, she is prone to put herself in harm's way, but rarely does she remain there long enough for harm to reach her. So ready is she to lead in close combat, that the spear she carries seldom serves any greater purpose than to simply be there if required.
 
 Tacita
-Pronunciation: TA-sih-tuh
-Origin: Roman
-Meaning: "silent" or "secret"
+Pronunciation - TA-sih-tuh
+Origin - Roman
+Meaning - "silent" or "secret"
 Tacita is introduced in the Kynegion arena in Byzantium. Owned by Servius, she has been a gladiatrix there for three years, after being sold by her father to settle a debt.
 Although she was already a quiet girl by nature, the betrayal of paternal duty forced her to build an unbreakable resilience through silence. She has an unplumbed depth of emotion — a unique understanding of hardship that, though silent, does not refrain from offering her own peculiar form of compassion. She had always been steady and precise, but due to her past and her extreme self-discipline, these features have sharpened to lethality.
 Her role in combat is never on display. She is the silent steady hand holding the blade that doesn't so much appear as just suddenly exist at a throat. She acts as the silencer of the survivor, and the extractor of the hostage. Her gladius is more an extension of her presence than a weapon, when in close combat, and a handful of plumbatae carried at the belt are reserved for silencing from a distance.
 
 Tigratavā
-Pronunciation: tee-grah-tah-VAH
-Origin: Sarmatian
-Meaning: "with the strength of an arrow"
+Pronunciation - tee-grah-tah-VAH
+Origin - Sarmatian
+Meaning - "with the strength of an arrow"
 We first see Tigratavā as she tracks a Roman patrol on the Sarmatian steppes. Born into the Roxolani tribe, she is the sole survivor of her family, after her father and the forty men who rode with him were disarmed and killed by the Roman officers they had ridden with for the previous eleven years. The blame for a Roman raid on a village north of their territory was laid on them, and Tigratavā, who had been moving herds to the east at the time, returned to a burned camp and forty unburied dead. From that time on, she had fended for herself, surviving by pillaging passing Roman patrols and supply trains.
 Her natural analytical precision served her well through those lonely years, and her patient observation allowed her to choose her battles well. This same reserved caution has made her the ideal scout for the band.
 Tigratavā is often the one to open combat, precisely placing one of her trilobate arrow heads through the throat of an enemy, sending it from her composite recurve bow, and usually from concealment. When called upon to assist in close combat, she is no less adept at wielding her long sword.
 
 Tiata
-Pronunciation: tee-AH-tuh
-Origin: Dacian
-Meaning: "daughter of the strong"
+Pronunciation - tee-AH-tuh
+Origin - Dacian
+Meaning - "daughter of the strong"
 Tiata is a larger-than-life mystery, first seen openly displaying her latest victim. The mystery is her past, which she has never cared to share, and has never been asked to reveal, however, hints of it are visible in her unmitigated vendetta against the Roman surveyor — any Roman surveyor. It hints at a past that has built in her a controlled yet bitter resentment of the Roman partitioning of the Dacian territory.
 Her self-sufficiency is predominant when we are introduced to her personal campsite, where everything is arranged decisively to serve its most practical use. She wears her dominance openly, yet her natural conscientiousness leads her to seek the opinions of others before making her final decisions. This habit of leading by listening softens her otherwise superior bearing, making of her a trusted and trusting unranked commander.
 In combat, her initial role is in planning. Her direct and decisive manner ensures everyone plays their part correctly. When it comes to the battlefield, her size and her two-handed falx leave nothing standing before her. So meticulous is she in her preparedness that she also carries a long sword at her left hip, though she rarely finds cause to use it.
 
 Tove
-Pronunciation: TOH-veh
-Origin: Scandinavian
-Meaning: "beautiful thunder"
+Pronunciation - TOH-veh
+Origin - Scandinavian
+Meaning - "beautiful thunder"
 Tove is first seen in the forest between the Iazyges pastures and the Hasdingi holdings, unbothered by an hour of being watched from the tree line. Rugii by birth, from a cold coastal homeland far to the north, she was taken by Gothic raiders and traded onward to Hasdingi hands. She allowed her captors to underestimate her until the opportunity presented itself for her to flee, and had been alone in the forest since.
 Tove's warmth and affability are her most disarming traits, inviting the band to join her on their first meeting and willingly sharing her meal. She's the first to welcome a newcomer, and the first to offer help to the wounded.
 In combat, Tove is willing to lead the strike, her raw focus and the brutality of her axe carrying the weight of her past into every battle. She discovered that revenge alone offered no relief to the pain of her past, and even her affability can be weaponised by using it as a patronising corrosion to an enemy iron soul.
 
 Thilda
-Pronunciation: THIL-duh
-Origin: Germanic
-Meaning: "strength in battle"
+Pronunciation - THIL-duh
+Origin - Germanic
+Meaning - "strength in battle"
 Thilda comes onto view scouting along a stretch of border, when she comes across the campfire of the band of six women. Born to a people who held relatively resource-poor ground in Upper Germania, she fought first under self-important commanders, and later alone, coming to know both Rome's patient encroachment from the south and the raiding tribes pressing down from the north. We are not told what happened to her people other than that she had buried more of her own than she could remember.
 Whatever the hardships were that she faced during her early years, they had only served to strengthen and stabilise a quiet confidence in her own ability to read the landscape. The caution first seen in her covert observation of the others around their campfire was no less present in her bold approach, after deciding they were worth investigating.
 In combat, Thilda holds the line, her tower shield planted as solidly as herself, an immovable object against which seemingly unstoppable forces break themselves. She is unafraid to use her framea in direct attacks and will turn to the spatha when close combat requires it.
 
 Taran
-Pronunciation: TAHRR-uhn
-Origin: Caledonian
-Meaning: "thunder"
+Pronunciation - TAHRR-uhn
+Origin - Caledonian
+Meaning - "thunder"
 Taran is the last of the eight, first seen while still in captivity at Fort Lorch, standing silent by a wall as the Praefectus displays her to visiting officers as proof of Rome's control even beyond the frontiers. Taken from Caledonia as an exotic curiosity, she has spent three years treated, in her own words, like a hound that had learned to heel. She breaks her captivity the night a frightened soldier's account of an ambush reaches the household, lifting weapons from the Praefectus's own armoury before scaling the fort wall in the dead of night.
 From the little we are told about her life in Caledonia, we can see that her speed and dexterity was more than a match for a Roman soldier. This fiery-tempered nature never burned out during her captivity, and even the practice blades she was proffered were used to keep her skills sharp. Over the three years of captivity, she learned a unique cold patience that now acts as a faucet through which she channels her frenzy, however, it never chilled her natural warmth which resurfaces the moment she allows herself to relax into Tove's embrace.
 In combat, Taran appears to be the embodiment of a contradiction. She has the immense patience required to be a highly skilled archer, and other times, she's a screaming banshee who drops from overhead onto five armed men with her twin blades already flying. The tuagh she has at her belt has not yet seen action since Caledonia, but would no doubt prove as deadly in her hands as her other weapons.

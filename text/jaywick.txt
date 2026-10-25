@@ -8,7 +8,7 @@
  The smoke of the oil tanks had taken three weeks to wash out of Ivan Lyon’s lungs, but the smell had never left him. Even here, three thousand miles south in the damp, bluestone chill of Melbourne, the tang of high-octane fuel and burning rubber seemed to cling to the wool of his uniform.
  Lieutenant-Colonel G.E. Mott did not look at the map immediately. He looked at Lyon.
  The Gordon Highlander sat upright on the leather-backed chair, his tunic buttons polished to a razor shine, his posture rigid. Lyon was thirty-six, but his frame had been pared down by malaria, dysentery, and six weeks of dodging Japanese patrols across Sumatra. His face had the taut, waxy sheen of skin stretched too thin over bone, dominated by pale eyes that rarely blinked.
- On the mahogany desk between them lay a typed dossier, five pages long, bound with a brass split-pin. Its title was typed in purple carbon: Operation Jaywick: Proposal for Offensive Action Against Enemy Shipping in the Singapore Area.
+ On the mahogany desk between them lay a typed dossier, five pages long, bound with a brass split-pin. Its title was typed in purple carbon - Operation Jaywick - Proposal for Offensive Action Against Enemy Shipping in the Singapore Area.
  Mott tapped the brass pin with the tip of an unlit pipe.
  "I have read your paper, Ivan."
  "Then you understand the geography, sir," Lyon said. His voice was clipped, quiet, completely devoid of inflection.
@@ -58,7 +58,7 @@
  Cairns, Far North Queensland
   November 1942
  The smell hit Ivan Lyon fifty yards before he reached the slipway.
- It was not the honest salt-and-tar smell of an Australian port. It was a thick, rancid stench that sat heavily in the damp, ninety-degree heat of the Cairns tidal flats: old shark liver oil, rotting tuna guts dried into timber seams, diesel sludge, and stagnant bilge water.
+ It was not the honest salt-and-tar smell of an Australian port. It was a thick, rancid stench that sat heavily in the damp, ninety-degree heat of the Cairns tidal flats - old shark liver oil, rotting tuna guts dried into timber seams, diesel sludge, and stagnant bilge water.
  A man in a grease-stained singlet and faded khaki shorts sat on an upturned kerosene tin beneath the shelter of a corrugated iron shed, paring a plug of black pipe tobacco with a pocketknife. He had skin like salt-cured hide and squinted through the midday glare at Lyon’s immaculate jungle greens.
  "You're the Major," the man said. It was not a question.
  "You are William Reynolds," Lyon replied, stopping at the edge of the slip.
@@ -202,7 +202,7 @@
  The Canvas Skin
  Fraser Island, Queensland
   May 1943
- The sand on the western shore of Fraser Island was as fine as ground glass, and it got into everything: the breechblocks of the Brens, the threads of the brass wingnuts, and the raw blisters on Walter Falls’s palms.
+ The sand on the western shore of Fraser Island was as fine as ground glass, and it got into everything - the breechblocks of the Brens, the threads of the brass wingnuts, and the raw blisters on Walter Falls’s palms.
  "Time," Donald Davidson’s voice cut through the dark. "Eighteen minutes, forty seconds. Unacceptable."
  Able Seaman Walter Falls knelt in the freezing shallows of the Great Sandy Strait, salt water soaking through his canvas trousers. In the pitch blackness—no torches, no matches, not even the shielded glow of a radium compass—his bleeding fingers searched the inside of the canoe's timber frame.
  His hand found the cross-frame bulkhead. A brass butterfly nut had cross-threaded in the grit.
@@ -250,8 +250,8 @@
  "It is a precision instrument," Davidson replied, setting the micrometer against the collar. "Provided the ambient water temperature does not exceed sixty-five degrees Fahrenheit."
  "And when it does?"
  "The chemical reaction accelerates exponentially," Davidson said evenly. "At eighty-four degrees—which is precisely what the Admiralty charts give for the Singapore Roads in September—a nominally twelve-hour delay pin dissolves in six. Or five. If the brass casing has suffered saltwater corrosion, the internal spring tension can shear the weakened wire in under two hours."
- Beside them, Able Seaman Andrew Huston—a lanky, twenty-four-year-old Queenslander with broad shoulders and quiet hands—sat cross-legged over an open wooden crate stenciled in yellow paint: MINES, CLAM, HIGH EXPLOSIVE.
- Resting on a square of oily sacking was the operational weapon: the Mark III Limpet.
+ Beside them, Able Seaman Andrew Huston—a lanky, twenty-four-year-old Queenslander with broad shoulders and quiet hands—sat cross-legged over an open wooden crate stenciled in yellow paint - MINES, CLAM, HIGH EXPLOSIVE.
+ Resting on a square of oily sacking was the operational weapon - the Mark III Limpet.
  It was a domed, hemispherical iron shell, roughly ten inches across and five inches thick, packed with four and a half pounds of high-density cyclonite and TNT. Arranged around its perimeter were six heavy, horseshoe-shaped Alnico permanent magnets, protected from accidental attachment by thick brass keeper-strips.
  "Three on each shaft," Huston said, running a thumb over the cold, gray-painted belly of the mine. "One limpet on the port shaft bracket, one on the starboard, one dead center against the thrust bearing under the engine room. If she’s riding light, that’s four and a half pounds of explosive punching a three-foot hole straight through five-eighths-inch boiler plate."
  "And if the sentry hears the magnets strike?" Page asked, still holding the brass fuse steady while Davidson calibrated the ampoule.
@@ -437,7 +437,7 @@
  "The Gardner is narrower," McDowell muttered, running his thumb along the oily timber stringers. "Longer by six inches, but narrower across the mountings. We'll have to lay down four-inch ironbark packing balks. Drill through the floors for new holding-down bolts. And the shaft alignment—" He stopped, looking up at Carse. "The reduction gear. If she’s a direct-drive industrial block, she’ll turn the screw too fast. We'll cavitate in every seaway."
  "There’s a three-to-one marine reversing gearbox coming on the second truck," Page added. "Stripped out of a wrecked auxiliary schooner in Sydney Harbour."
  "Can you mount it, Jim?" Lyon asked.
- The stoker looked at the wreckage of the Deutz, then at Lyon’s pale, unblinking eyes. He knew what the question really meant: Can you mount it before Headquarters finds an excuse to pull the plug?
+ The stoker looked at the wreckage of the Deutz, then at Lyon’s pale, unblinking eyes. He knew what the question really meant - Can you mount it before Headquarters finds an excuse to pull the plug?
  "Give me Cain, Young, and two shipwrights from the Townsville slip," McDowell said, his jaw setting hard. "We cut the old engine out with oxy-acetylene torches by midnight. We bore the new bed logs tomorrow. If the crane holds, we lower the Gardner into the hole by Thursday dawn."
  "You have forty-eight hours, McDowell," Lyon said.
  "And what about sea trials?" Carse challenged, pointing a thick thumb at the open sea beyond the breakwater. "You drop a raw, untried engine into a timber boat, you need fifty hours of running to seat the rings, check the cooling pump, and dial in the fuel injectors. You can't just point her bow at Timor and hope for the best."
@@ -467,7 +467,7 @@
  "Where on earth are you heading in that scow?" the American asked, his curiosity breaking through the official silence. "Broome? Port Hedland?"
  Carse looked up, his grey eyes dead and flat as slate.
  "We're on a coastal patrol, son," Carse said. "Looking for stray dugongs."
- On the afterdeck, Donald Davidson and Robert Page were supervising the stowage of three long, narrow crates stenciled with innocuous naval inventory marks: CANVAS TENTS, MK II.
+ On the afterdeck, Donald Davidson and Robert Page were supervising the stowage of three long, narrow crates stenciled with innocuous naval inventory marks - CANVAS TENTS, MK II.
  Inside each crate lay the dismantled ash frames, ribbed floorboards, and rubberized outer skins of the Mark II folboats, packed in greaseproof paper and lashed with hemp cords. Stacked beside them were eighteen Mark III limpet mines, thirty spare chemical time pencils, four Bren guns wrapped in petroleum-soaked greasecloth, six Thompson submachine guns, and fourteen rubber-jacketed cyanide ampoules already hanging beneath the men's shirts.
  "Watch the stern line, Bob," Davidson said quietly, testing the tension of the rope holding the crates beneath a patched tarpaulin. "If that tarpaulin lifts in a following sea, the whole profile is ruined. From the air, she must look completely flat. A native deck loaded with salt-fish sacks and copra."
  Page wiped sweat from his eyes. His skin dye was burning in the ninety-five-degree midday heat, the copper sulphate mordant reacting violently with the sweat trickling down his spine.
@@ -592,7 +592,7 @@
  Approaching the Lombok Strait
   6 September 1943
  The flag lay on the chart table like a fresh pool of blood.
- It was made of coarse, cheap cotton, roughly four feet by three: a stark white field dominated by a heavy crimson sun disc in the center. Donald Davidson smoothed the fabric flat with the palms of his hands, his knuckles brushing against the edge of the brass parallel rule.
+ It was made of coarse, cheap cotton, roughly four feet by three - a stark white field dominated by a heavy crimson sun disc in the center. Donald Davidson smoothed the fabric flat with the palms of his hands, his knuckles brushing against the edge of the brass parallel rule.
  "Where did you get it?" Robert Page asked, leaning his elbows on the chart table. He was wearing only a faded, grease-streaked sarong, his dyed chest glistening with sweat in the suffocating heat of the wheelhouse.
  "Special Operations Australia had an intelligence section in Melbourne run off twenty copies from a captured coaster at Broome," Davidson replied quietly. His English accent was subdued, as if the very presence of the cloth demanded silence. "It is the standard maritime merchant ensign of the Japanese Empire."
  Ted Carse stood at the wheel, his eyes tracking the long, rolling swell ahead. His right hand rested on the teak spokes, adjusting half an inch to counter the drift.
@@ -609,12 +609,12 @@
  "Bend it on, Cobber," Davidson ordered.
  Cain hitched the white bunting to the toggle with two quick, practiced twists of his fingers. He paused for half a second, staring at the red sun against the white field, his jaw working against his cheek. Then, hauling hand over hand, he ran the flag up the gaff.
  The cotton snapped once in the steady southeast trade wind, then streamed out over the white wake of the Krait.
- The crew stood in total silence. Nobody spoke. For eighteen months, that crimson disc had represented the catastrophic collapse of their world: the burning docks of Singapore, the sinking of Prince of Wales and Repulse, the long, hopeless death marches of their mates through the jungles of Malaya and New Britain. Now, it flew over their own heads, flapping lazily against the pale Indian Ocean sky.
+ The crew stood in total silence. Nobody spoke. For eighteen months, that crimson disc had represented the catastrophic collapse of their world - the burning docks of Singapore, the sinking of Prince of Wales and Repulse, the long, hopeless death marches of their mates through the jungles of Malaya and New Britain. Now, it flew over their own heads, flapping lazily against the pale Indian Ocean sky.
  "Right," Carse barked, breaking the spell with the rasp of a boatswain's file. "Look at it. Get used to the sight of it. Because from this minute until we clear Lombok on the return, that rag is our life insurance."
  Carse walked forward, stopping by the main hatch where Falls, Huston, and Jones were sitting.
  "Now listen to me, every mother's son of you," Carse said, pointing a blunt, stained finger at their chests. "We are eighty miles south of the strait. Tomorrow afternoon, we enter coastal airspace. That means Mitsubishi floatplanes from Denpasar and navy patrols from Surabaya."
  He tapped the bulwark with his bare heel.
- "Rule one: From dawn tomorrow, there are never more than three men on this deck at any one time. Ever. Two deckhands forward, one at the wheel. That’s it."
+ "Rule one - From dawn tomorrow, there are never more than three men on this deck at any one time. Ever. Two deckhands forward, one at the wheel. That’s it."
  "Where do the rest of us go, Ted?" Jones asked, wiping sweat from his stinging chest.
  "Down in the hole," Carse snapped, pointing at the narrow, unventilated companionway leading to the forward hold. "Down in the dark, jammed between the limpet crates and the bilge floorboards. You lie there on your bellies in the heat, in the flies, in the diesel stink. If you have to piss, you piss in an empty tin. You do not come up for air. You do not stick your nose out of the hatch to see what the weather's doing."
  "And the men on deck?" Falls asked.
@@ -626,7 +626,7 @@
  "If an aircraft opens fire," Lyon said, "we do not return fire with the Brens until the machine has committed to a low-altitude pass. If they intend to board us with a patrol craft, we allow them to close to fifty yards. Davidson will hold the starboard Bren; Cain will hold the port. We sweep their bridge. We kill every man on their deck within six seconds."
  Lyon pulled his pocket watch from his sarong waistband, checked the time, and looked out over the northern horizon.
  A thin, dark line was beginning to form where the pale blue of the sky met the deep cobalt of the sea—a faint, jagged shadow rising like a row of broken teeth above the curve of the earth.
- It was the southern spine of the Lesser Sunda Islands: the high volcanic peaks of Bali and Lombok, guarding the narrow, current-choked throat through which they had to pass.
+ It was the southern spine of the Lesser Sunda Islands - the high volcanic peaks of Bali and Lombok, guarding the narrow, current-choked throat through which they had to pass.
  "General drill," Lyon ordered, his voice cutting through the thrum of the Gardner diesel. "Clear the deck. Three minutes to battle stations. Move."
  Within sixty seconds, ten men had vanished down the narrow hatchway, swallowed by the black, stifling belly of the ship. The wooden hatch cover slid shut above them, leaving only Ted Carse at the wheel, Ivan Lyon slumped like an exhausted coolie against the mainmast, and Walter Falls trailing a dirty hemp fishing line over the stern, beneath the lazy flutter of the Rising Sun.
 
@@ -683,7 +683,7 @@
  "He’s right," Lyon said quietly. "They haven't seen us."
  "Not from twenty miles, they haven't," Carse grunted, his eyes fixed on the black shoreline creeping closer to starboard. "It’s when we get into the throat that the trouble starts. Look over there."
  He nodded toward the dark base of the Lombok cliffs, three miles off the beam.
- Small, yellow pinpricks of light were crawling along the edge of the water. They moved in pairs, dipping and rising with the contours of the coastal track: motor trucks and military staff cars, their headlights unshielded, running between the Japanese garrison garrisons at Labuan Tereng and the naval installations to the north.
+ Small, yellow pinpricks of light were crawling along the edge of the water. They moved in pairs, dipping and rising with the contours of the coastal track - motor trucks and military staff cars, their headlights unshielded, running between the Japanese garrison garrisons at Labuan Tereng and the naval installations to the north.
  The strait was not an empty wilderness. It was an active, populated military corridor.
  "Davidson," Lyon called down softly. "Take a sounding."
  Davidson slipped back to the port rail, taking the lead-line from Walter Falls. The seven-pound lead weight dropped into the black water, the hemp line singing out through Davidson's dye-stained fingers.
@@ -898,7 +898,7 @@
  "Soundings, Donald?" Lyon asked without looking back.
  "Three and a half fathoms right in the gut, Major," Davidson replied. "Soft mud bottom. No coral heads inside the mouth. It deepens to five fathoms behind the first bend."
  Lyon looked at Carse. "We take her in, Ted. Just far enough to mask our profile from the strait. We drop the canoes, offload the stores, and you clear the inlet before the evening ebb."
- Carse chewed hard on the stem of his unlit pipe, staring into the dark green gloom of the creek. He knew the risks. He had spent twenty years reading the treacherous, shallow waters of these archipelagos. But he also knew the mathematics of the operation: they were thirty miles south of Singapore, in the absolute center of the enemy's maritime traffic. Every minute Krait spent in open water increased the probability of interception exponentially.
+ Carse chewed hard on the stem of his unlit pipe, staring into the dark green gloom of the creek. He knew the risks. He had spent twenty years reading the treacherous, shallow waters of these archipelagos. But he also knew the mathematics of the operation - they were thirty miles south of Singapore, in the absolute center of the enemy's maritime traffic. Every minute Krait spent in open water increased the probability of interception exponentially.
  "All right," Carse conceded grimly. "We drop the hook in three fathoms behind the bend. But we keep the Gardner ticking over in neutral. If the lookout spots mastheads in the strait, I'm cutting the hemp cable and hauling her out under power, canoes or no canoes."
  "Understood," Lyon said.
  The Krait glided into the narrow inlet.
@@ -922,18 +922,18 @@
  On the cramped well deck of the Krait, Walter Falls and Joe Jones worked by muscle memory. Their dye-stained fingers found the numbered ash ribs, sliding them into the grooved stringers of the three Mark II folboats, listening for the faint, oily click of the brass locking pins. Over the skeletal wooden ribbing, they stretched the heavy Egyptian cotton skins, coated in black vulcanized rubber, until the hulls grew drum-tight beneath their palms.
  Alongside the low bulwark, the three collapsible canoes rested in the black, oily water of the inlet, secured by light coir painters.
  Each craft drew barely four inches:
-  Canoe One: Major Ivan Lyon and Able Seaman Andrew Huston.
-  Canoe Two: Lieutenant Donald Davidson and Able Seaman Walter Falls.
-  Canoe Three: Lieutenant Robert Page and Able Seaman Arthur "Joe" Jones.
+  Canoe One - Major Ivan Lyon and Able Seaman Andrew Huston.
+  Canoe Two - Lieutenant Donald Davidson and Able Seaman Walter Falls.
+  Canoe Three - Lieutenant Robert Page and Able Seaman Arthur "Joe" Jones.
  Into the center cargo wells, packed beneath waterproofed canvas spray decks, the men loaded the tools of the strike. Eighteen Mark III limpet mines—six to each craft—their horseshoe magnets separated by lead keeper-plates and soft rubber buffers. Canvas pouches containing thirty chemical time pencils, flat-nosed ordnance pliers, roll-up tool kits, camouflage scrim nets, and three-gallon tins of freshwater. For each man, there was a Colt .45 automatic, a Fairbairn-Sykes fighting knife in an oiled leather sheath, and the black rubber capsule of potassium cyanide resting on the skin of his chest.
  At 2300 hours, Ivan Lyon stood at the foot of the Krait’s wheelhouse ladder.
  Ted Carse stood on the timber deck above him, a dark, heavy silhouette against the star-dusted opening of the creek mouth. He was chewing his unlit pipe, hands thrust deep into the pockets of his faded shorts.
  "The dates, Ted," Lyon said, his voice a low, clipped murmur that barely carried two feet.
- Carse took the pipe from his teeth. "First rendezvous: night of the first and second of October. Zero-one-hundred to zero-four-hundred hours."
+ Carse took the pipe from his teeth. "First rendezvous - night of the first and second of October. Zero-one-hundred to zero-four-hundred hours."
  "Location?"
  "Pompong Island," Carse said, his gravelly voice flat as slate. "Forty-five miles south of here. North-west cove, beneath the granite bluffs."
  "And if the strike is delayed by weather or patrol craft?"
- "Second rendezvous: night of the third and fourth of October. Same anchorage. Same hours." Carse leaned his forearms against the timber rail, looking down into Lyon’s upturned face. "If you aren't at Pompong by dawn on the fourth, I clear the archipelago and set course for Lombok."
+ "Second rendezvous - night of the third and fourth of October. Same anchorage. Same hours." Carse leaned his forearms against the timber rail, looking down into Lyon’s upturned face. "If you aren't at Pompong by dawn on the fourth, I clear the archipelago and set course for Lombok."
  "Under no circumstances do you linger past dawn on the fourth, Ted," Lyon said. The order was absolute. "If a Japanese patrol boat challenges Krait while we are in the roads, you do not attempt extraction. You do not search the islands. You blow the scuttling charges, take your men into the water, and swallow your capsules."
  Carse gave a short, cynical grunt in the dark. "Don't worry about my skin, Ivan. If the Imperial Navy corners this tub, we won't be hanging around to answer questions. What happens to you six if we don't show?"
  Lyon did not hesitate. His reply was as cold as the sea.
@@ -997,7 +997,7 @@
  Riau Archipelago
   Night of 19/20 September 1943
  The weight of the boat was a dead, dragging iron in the shoulders.
- Fully loaded, each Mark II folboat carried nearly seven hundred pounds: two men, six magnetic limpet mines, thirty pounds of explosive primers, tools, weapons, freshwater tins, and iron rations. The rubberized canvas belly sank deep into the sea, leaving barely five inches of freeboard between the dark water and the cockpit coaming.
+ Fully loaded, each Mark II folboat carried nearly seven hundred pounds - two men, six magnetic limpet mines, thirty pounds of explosive primers, tools, weapons, freshwater tins, and iron rations. The rubberized canvas belly sank deep into the sea, leaving barely five inches of freeboard between the dark water and the cockpit coaming.
  In Canoe One, Major Ivan Lyon held the forward cockpit. His paddle dipped with mechanical, inhuman regularity—thirty-two strokes to the minute, the flat spruce blades entering the water at an angle that created no splash, slicing through the surface like cold grease.
  Behind him in the stern, Able Seaman Andrew Huston was paddling through a haze of blinding pain.
  Every time his torso rotated to complete a stroke, the raw, lanced boils on his buttocks ground against the folded life-preserver he was using as a cushion. The salt water that had seeped into the bottom of the canoe soaked through his sarong, burning the open wounds until his vision blurred. He did not cry out. He didn't miss a beat. His paddle caught the water in exact synchronization with Lyon’s blade, their wooden shafts moving like the pistons of a silent engine.
@@ -1100,7 +1100,7 @@
  Page let out a low, disbelieving whistle. "Good grief."
  "Count them, Donald," Lyon said, his voice dropping into that terrifying, icy calm that came over him whenever the enemy was within sight.
  Davidson adjusted the focus ring on his 7x50s, his thumbs steadying the brass barrels against the rock.
- "In the western anchorage, off Bukom: four large tankers. Ten to twelve thousand tons apiece. Two auxiliary repair ships. In the eastern roads, off Tanjong Katong: fifteen freighters. Three modern engines-aft motor vessels, minimum eight thousand tons. Two older coal-burners. A continuous line of coastal coasters anchored inside the mole."
+ "In the western anchorage, off Bukom - four large tankers. Ten to twelve thousand tons apiece. Two auxiliary repair ships. In the eastern roads, off Tanjong Katong - fifteen freighters. Three modern engines-aft motor vessels, minimum eight thousand tons. Two older coal-burners. A continuous line of coastal coasters anchored inside the mole."
  "Thirty-seven targets," Page murmured, his eyes sweeping the vast fleet. "Thirty-seven fat, sitting ducks."
  "They aren't sitting," Davidson corrected softly, his glasses tracking a three-thousand-ton freighter crawling past the St John’s Island gate. "The harbor is operating on full peacetime routine. Look at the lighters moving between the wharves and the outer berths. Coal barges, water tenders, fuel lighters. It’s an open market."
  "And the lights?" Page asked, pointing with a stained forefinger.
@@ -1119,9 +1119,9 @@
  "My wife is either alive in Changi, Bob," Lyon said, his voice flat, completely devoid of sentiment, "or she is buried on Bangka Island. Neither condition changes the displacement of those tankers."
  Lyon pulled the pencil from Davidson’s fingers.
  With three quick, heavy strokes, he drew three small circles in the center of the Singapore Roads.
- "Canoe One: Lyon and Huston. We take the deep-draft vessels in the western roads, off Pulau Bukom.
- Canoe Two: Davidson and Falls. You take the heavy freighters in the central anchorage.
- Canoe Three: Page and Jones. You work the eastern line off Tanjong Katong."
+ "Canoe One - Lyon and Huston. We take the deep-draft vessels in the western roads, off Pulau Bukom.
+ Canoe Two - Davidson and Falls. You take the heavy freighters in the central anchorage.
+ Canoe Three - Page and Jones. You work the eastern line off Tanjong Katong."
  Lyon set the pencil down and looked at the two officers.
  "Six limpets per boat. Two per ship. That is nine Japanese bottoms at the bottom of the roads by Monday noon."
  He rolled up the chart, slipped it back into its oilskin sleeve, and turned back to the scramble down the ridge.
@@ -1132,7 +1132,7 @@
  Pulau Dongas, Riau Archipelago
   25 September 1943
  The heat radiating off the granite ledge was like the top plate of an iron stove.
- Donald Davidson lay flat on his stomach, his bare elbows calloused and raw against the stone, a ruled notebook open before him. Every twenty minutes, he recorded an entry with a stub of indelible pencil: time, bearing, vessel type, estimated displacement, state of load, and patrol activity.
+ Donald Davidson lay flat on his stomach, his bare elbows calloused and raw against the stone, a ruled notebook open before him. Every twenty minutes, he recorded an entry with a stub of indelible pencil - time, bearing, vessel type, estimated displacement, state of load, and patrol activity.
  Beside him, Ivan Lyon had not lowered his 7x50 binoculars for nearly two hours. His eyes were bloodshot, the skin around the eyepieces stained yellow with dried sweat and dust, his jaw set in a rigid line.
  "Logging zero-nine-forty," Davidson whispered, writing without looking down. "Auxiliary motor launch cleared St John’s Island gate. Speed ten knots. Rounding the eastern anchorage toward Tanjong Katong."
  "A sub-chaser," Lyon murmured, his voice dry as wood shavings. "Wooden hull, thirty meters. Single mount forward—twenty-millimeter. No hydrophone gear visible. She’s running a fixed visual sweep every two hours on the even hour."
@@ -1204,7 +1204,7 @@
  Eighteen times, the strikers held.
  At 1648 hours, Davidson set the pliers down on the canvas.
  The eighteen mines were loaded. The chemical clocks were running. There was no safety catch. There was no reversing the acid. In roughly nine hours, eighteen charges of high explosive would detonate, whether they were clamped to the hull of a ten-thousand-ton Japanese tanker or resting in the bottom of a canvas canoe.
- Ivan Lyon looked at the three ratings: Falls, Huston, and Jones.
+ Ivan Lyon looked at the three ratings - Falls, Huston, and Jones.
  "Eat your chocolate now," Lyon said quietly. "Drink your half-pint of water. Once we launch from these rocks, there is no food, no water, and no speaking until we return to this cove."
  Huston reached into his sarong pocket, pulled out a crumbling bar of tropical ration chocolate, and broke it in half with dirty, trembling fingers. He offered a piece to Walter Falls.
  "Good luck, Wally," Huston whispered.
@@ -1264,7 +1264,7 @@
  Under the Keels
  Singapore Roads
   Night of 26/27 September 1943, Midnight – 0200 Hours
- The smell of the ship was overwhelming: warm Bunker C fuel oil, stale cabbage from the galley vents, and the scorched-grease breath of an auxiliary generator thrumming behind three-quarter-inch boiler plate.
+ The smell of the ship was overwhelming - warm Bunker C fuel oil, stale cabbage from the galley vents, and the scorched-grease breath of an auxiliary generator thrumming behind three-quarter-inch boiler plate.
  Canoe Two drifted into the narrow slot of black water between the sheer iron side of the Nasu Maru and the ship’s timber rubbing strake.
  Above them, thirty feet up the riveted flank, an electric cluster-lamp illuminated the forward cargo boom. The light cast a yellow glare across the oily harbor swell, but beneath the curve of the freighter’s counter stern, the shadow was as absolute as a tomb.
  "Hold the plate, Wally," Donald Davidson breathed, his lips an inch from Walter Falls’s ear.
@@ -1366,7 +1366,7 @@
  "Wait for it," Davidson breathed.
 
  Chapter Thirty
- 0515: The Crump
+ 0515 - The Crump
  Singapore Strait
   27 September 1943, 0515 Hours
  The shock came not through the air, but through the sea.
@@ -1434,7 +1434,7 @@
  "It's only worth it if we make the boat, Andrew," Page cut in quietly, checking the bandage on Huston’s thigh. "If we're taken on these flats, the Kempeitai won't care about their tonnage. They’ll string us from a beam at Outram Road until we tell them where Krait is."
  The mention of the ship hung heavily in the suffocating heat of the scrub.
  Pompong Island lay twenty-five miles to the south-south-east.
- Under the extraction order, Ted Carse was scheduled to bring the Krait into the cove on the north-west side of Pompong on two nights: the first window was tonight, the night of 1/2 October; the backup was the night of 3/4 October.
+ Under the extraction order, Ted Carse was scheduled to bring the Krait into the cove on the north-west side of Pompong on two nights - the first window was tonight, the night of 1/2 October; the backup was the night of 3/4 October.
  If Krait was delayed, or if she had been intercepted during her drift along the Borneo shelf, the men on the island would be alone. Six men with three canvas canoes, four pints of water, eighteen rounds of .45 ammunition, and six black rubber capsules.
  "We move at nineteen-hundred hours," Lyon said, breaking the silence.
  Page looked at him through swollen eyelids. "The moon rises at twenty-twenty, Ivan. It’s a waxing crescent. If the floatplanes are flying night patrols with flares, the Chombol channel will be lit like day."
@@ -1518,7 +1518,7 @@
  "Ted," Lyon whispered. The word barely stirred the air.
  Carse didn't answer. His eyes were already locked on the silver expanse of water two miles off the port bow.
  A sharp, black wedge had broken the horizon.
- It was moving fast, throwing a brilliant, phosphorescent bow-wave that flashed like white fire in the moonlight: an Imperial Japanese Navy auxiliary patrol boat—an eighty-foot, steel-hulled sub-chaser running north from the coastal station at Labuan Tereng.
+ It was moving fast, throwing a brilliant, phosphorescent bow-wave that flashed like white fire in the moonlight - an Imperial Japanese Navy auxiliary patrol boat—an eighty-foot, steel-hulled sub-chaser running north from the coastal station at Labuan Tereng.
  "Range fifteen hundred yards," Lyon murmured, his voice as cold as ice. "Closing at fourteen knots. Bearing constant."
  "She’s coming straight for us," Cain whispered from the scuppers, his knuckles turning white on the Bren's pistol grip.
  "Hold your fire, Cain," Lyon commanded without raising his voice. "No man fires until their searchlight hits our bridge and their deck gun opens. We let them close to twenty yards. If they intend to board, Davidson fires the magazine."
@@ -1529,7 +1529,7 @@
  The Japanese vessel closed with terrifying speed.
  A thousand yards. Eight hundred. Six hundred.
  The sound of her twin diesel engines carried across the flat water—a high-pitched, metallic roar that vibrated through the Krait’s camphor-wood hull.
- Through the cracked glass of the wheelhouse, Carse could see the details of the enemy warship with horrifying clarity: the rounded steel bow throwing sheets of silver spray, the single 13.2-millimeter twin-mount machine gun mounted on the forward platform, the black figures of Japanese naval ratings in white gaiters and canvas helmets standing beside the rail.
+ Through the cracked glass of the wheelhouse, Carse could see the details of the enemy warship with horrifying clarity - the rounded steel bow throwing sheets of silver spray, the single 13.2-millimeter twin-mount machine gun mounted on the forward platform, the black figures of Japanese naval ratings in white gaiters and canvas helmets standing beside the rail.
  High on the sub-chaser’s bridge wing, an officer was training a long-barrelled pair of naval binoculars directly onto the Krait’s wheelhouse.
  On the Krait’s well deck, Walter Falls and Andrew Huston lay motionless beneath a filthy piece of coir matting, their noses pressed into the oily timber, their hands wrapped around the rubber casings of their cyanide tablets.
  The sub-chaser did not alter course. She came on like a charging bull, her bow pointed directly at the Krait’s port beam, as if intending to ram the decrepit wooden tub and slice her in half.
@@ -1541,7 +1541,7 @@
  The sub-chaser’s helm went over.
  Her stern kicked out, throwing a massive rooster-tail of white water as she sheared off to port, carving a tight, violent circle around the Krait’s counter stern.
  The distance between the two vessels shrank to thirty yards.
- The men on the Krait could smell the Japanese ship: the sharp tang of aviation exhaust, clean engine oil, and the faint smell of cooking rice drifting from her galley ventilator.
+ The men on the Krait could smell the Japanese ship - the sharp tang of aviation exhaust, clean engine oil, and the faint smell of cooking rice drifting from her galley ventilator.
  An Imperial seaman on her afterdeck, wearing a dark blue naval tunic, stood with his hands on his hips, staring down at the filthy, black-hulled wooden ketch.
  He saw sixty-eight feet of battered camphor-wood timber, its paint peeling to grey rot. He saw deck-cargo of rusty fuel drums lashed with rotting hemp. He saw the tattered Japanese merchant ensign flapping lazily from the mizzen gaff in the moonlight.
  And he saw a solitary, dark-skinned, slumped figure standing motionless at the wheel, looking back at him with the stupid, blank indifference of the conquered.
@@ -1631,7 +1631,7 @@
  "I don't know what you mean," Elizabeth whispered, her lips swollen. "I only brought food. Bread. Cheroots for the sick men in the hospital."
  Monai did not raise his voice. He made a small, delicate gesture with two fingers.
  The two sergeants seized her by the hair, dragging her backward across the concrete toward a wooden bench fitted with iron leg-irons.
- From the interrogation room down the corridor came the sounds that had filled the building since dawn: the rhythmic, wet thud of rubber hoses striking bare flesh, the sudden, piercing shriek of a man receiving six hundred volts of electric shock through his earlobes, and the sickening gurgle of the "water treatment"—gallons of foul water forced through a hose into a victim’s stomach until the belly swelled like a balloon, followed by a guard jumping onto the swollen abdomen with combat boots.
+ From the interrogation room down the corridor came the sounds that had filled the building since dawn - the rhythmic, wet thud of rubber hoses striking bare flesh, the sudden, piercing shriek of a man receiving six hundred volts of electric shock through his earlobes, and the sickening gurgle of the "water treatment"—gallons of foul water forced through a hose into a victim’s stomach until the belly swelled like a balloon, followed by a guard jumping onto the swollen abdomen with combat boots.
  A door down the hall opened.
  Anglican Bishop Leonard Wilson was dragged past the open threshold. The forty-five-year-old clergyman was unrecognizable. His cassock was shredded to ribbons of crimson rags; his bare back had been beaten for seven continuous hours with three-ply rattan canes until the flesh had split to the ribs, exposing white bone beneath bruised, purple pulp. He was mumbling the words of the twenty-third psalm through shattered teeth.
  The Kempeitai wanted the names of the spies.
