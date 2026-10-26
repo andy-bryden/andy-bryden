@@ -263,8 +263,24 @@
       transition: transform 0.3s ease;
     }
 
-    .game-tile:hover .game-face {
+    .game-face:hover {
       transform: translateY(-3px);
+    }
+
+    .tile-image-link {
+      display: block;
+      width: 100%;
+    }
+
+    .tile-image-link img {
+      margin-bottom: 0 !important;
+    }
+
+    .game-tile .tile-body audio {
+      display: block;
+      width: 100%;
+      max-width: 420px;
+      margin-top: 0.4rem;
     }
 
     .game-clue .game-face {
@@ -385,6 +401,29 @@
       margin-bottom: 0.8rem;
     }
 
+    .game-tile .tile-body .playlist {
+      max-width: 420px;
+    }
+
+    .game-tile .tile-body .playlist audio {
+      margin-top: 0.4rem;
+      max-width: 100%;
+    }
+
+    .track-select {
+      display: block;
+      width: 100%;
+      margin-top: 0.5rem;
+      padding: 0.35rem 0.5rem;
+      font-family: 'Inconsolata', monospace;
+      font-size: 0.78rem;
+      letter-spacing: 0.08em;
+      color: var(--faded);
+      background: var(--paper);
+      border: 1px solid var(--rule);
+      border-radius: 4px;
+    }
+
     @keyframes fadeUp {
       to {
         opacity: 1;
@@ -442,20 +481,24 @@
   </header>
   <section class="gallery-section fade-in">
     <div class="tile-grid-2">
-      <a href="bricklayer.html" target="_blank" class="game-tile">
+      <div class="game-tile">
         <div class="game-face">
-          <img alt="Bricklayer — The abduction of General Kreipe, Crete, 1944" src="images/bricklayer.png" style="display:block; margin:0 auto 20px auto; max-width:100%; height:auto; border-radius: 4px;"/>
+          <a href="bricklayer.html" target="_blank" class="tile-image-link"><img alt="Bricklayer — The abduction of General Kreipe, Crete, 1944" src="images/bricklayer.png" style="display:block; margin:0 auto 20px auto; max-width:100%; height:auto; border-radius: 4px;"/></a>
         </div>
         <div class="tile-body">
           <p class="tile-excerpt">
           <h2>1. Bricklayer</h2>
           </p>
           <p class="tile-excerpt">The abduction of General Kreipe, Crete, 1944</p>
+          <div class="playlist" data-tracks="audio/bricklayer/bricklayer_01.mp3,audio/bricklayer/bricklayer_02.mp3,audio/bricklayer/bricklayer_03.mp3,audio/bricklayer/bricklayer_04.mp3,audio/bricklayer/bricklayer_05.mp3,audio/bricklayer/bricklayer_06.mp3" data-label="Part">
+            <audio controls preload="none">Your browser doesn't support audio playback.</audio>
+            <select class="track-select" aria-label="Choose track"></select>
+          </div>
         </div>
-      </a>
-      <a href="greenup.html" target="_blank" class="game-tile">
+      </div>
+      <div class="game-tile">
         <div class="game-face">
-          <img alt="Greenup — OSS agents in the Tyrol, 1945" src="images/greenup.png" style="display:block; margin:0 auto 20px auto; max-width:100%; height:auto; border-radius: 4px;"/>
+          <a href="greenup.html" target="_blank" class="tile-image-link"><img alt="Greenup — OSS agents in the Tyrol, 1945" src="images/greenup.png" style="display:block; margin:0 auto 20px auto; max-width:100%; height:auto; border-radius: 4px;"/></a>
         </div>
         <div class="tile-body">
           <p class="tile-excerpt">
@@ -463,10 +506,10 @@
           </p>
           <p class="tile-excerpt">OSS agents in the Tyrol, 1945</p>
         </div>
-      </a>
-      <a href="tombola.html" target="_blank" class="game-tile">
+      </div>
+      <div class="game-tile">
         <div class="game-face">
-          <img alt="Tombola — The Northern Apennines, 1944-45" src="images/tombola.png" style="display:block; margin:0 auto 20px auto; max-width:100%; height:auto; border-radius: 4px;"/>
+          <a href="tombola.html" target="_blank" class="tile-image-link"><img alt="Tombola — The Northern Apennines, 1944-45" src="images/tombola.png" style="display:block; margin:0 auto 20px auto; max-width:100%; height:auto; border-radius: 4px;"/></a>
         </div>
         <div class="tile-body">
           <p class="tile-excerpt">
@@ -474,10 +517,10 @@
           </p>
           <p class="tile-excerpt">The Northern Apennines, 1944-45</p>
         </div>
-      </a>
-      <a href="gunnerside.html" target="_blank" class="game-tile">
+      </div>
+      <div class="game-tile">
         <div class="game-face">
-          <img alt="Gunnerside — The heavy water sabotage, Norway, 1943" src="images/gunnerside.png" style="display:block; margin:0 auto 20px auto; max-width:100%; height:auto; border-radius: 4px;"/>
+          <a href="gunnerside.html" target="_blank" class="tile-image-link"><img alt="Gunnerside — The heavy water sabotage, Norway, 1943" src="images/gunnerside.png" style="display:block; margin:0 auto 20px auto; max-width:100%; height:auto; border-radius: 4px;"/></a>
         </div>
         <div class="tile-body">
           <p class="tile-excerpt">
@@ -485,32 +528,40 @@
           </p>
           <p class="tile-excerpt">The heavy water sabotage, Norway, 1943</p>
         </div>
-      </a>
-      <a href="quinine.html" target="_blank" class="game-tile">
+      </div>
+      <div class="game-tile">
         <div class="game-face">
-          <img alt="Quinine — The Massif Central and the Loire, 1944" src="images/quinine.png" style="display:block; margin:0 auto 20px auto; max-width:100%; height:auto; border-radius: 4px;"/>
+          <a href="quinine.html" target="_blank" class="tile-image-link"><img alt="Quinine — The Massif Central and the Loire, 1944" src="images/quinine.png" style="display:block; margin:0 auto 20px auto; max-width:100%; height:auto; border-radius: 4px;"/></a>
         </div>
         <div class="tile-body">
           <p class="tile-excerpt">
           <h2>5. Quinine</h2>
           </p>
           <p class="tile-excerpt">The Massif Central and the Loire, 1944</p>
+          <div class="playlist" data-tracks="audio/quinine/quinine_01.mp3,audio/quinine/quinine_02.mp3,audio/quinine/quinine_03.mp3,audio/quinine/quinine_04.mp3,audio/quinine/quinine_05.mp3,audio/quinine/quinine_06.mp3,audio/quinine/quinine_07.mp3" data-label="Part">
+            <audio controls preload="none">Your browser doesn't support audio playback.</audio>
+            <select class="track-select" aria-label="Choose track"></select>
+          </div>
         </div>
-      </a>
-      <a href="jaywick.html" target="_blank" class="game-tile">
+      </div>
+      <div class="game-tile">
         <div class="game-face">
-          <img alt="Jaywick —  Z Special Unit and the Raid on Singapore Harbour, 1943" src="images/jaywick.png" style="display:block; margin:0 auto 20px auto; max-width:100%; height:auto; border-radius: 4px;"/>
+          <a href="jaywick.html" target="_blank" class="tile-image-link"><img alt="Jaywick —  Z Special Unit and the Raid on Singapore Harbour, 1943" src="images/jaywick.png" style="display:block; margin:0 auto 20px auto; max-width:100%; height:auto; border-radius: 4px;"/></a>
         </div>
         <div class="tile-body">
           <p class="tile-excerpt">
           <h2>6. Jaywick</h2>
           </p>
           <p class="tile-excerpt">Z Special Unit and the Raid on Singapore Harbour, 1943</p>
+          <div class="playlist" data-tracks="audio/jaywick/jaywick_01.mp3,audio/jaywick/jaywick_02.mp3,audio/jaywick/jaywick_03.mp3,audio/jaywick/jaywick_04.mp3,audio/jaywick/jaywick_05.mp3,audio/jaywick/jaywick_06.mp3,audio/jaywick/jaywick_07.mp3" data-label="Part">
+            <audio controls preload="none">Your browser doesn't support audio playback.</audio>
+            <select class="track-select" aria-label="Choose track"></select>
+          </div>
         </div>
-      </a>
-      <a href="gideon.html" target="_blank" class="game-tile">
+      </div>
+      <div class="game-tile">
         <div class="game-face">
-          <img alt="Gideon —  Gideon Force in Ethiopia, 1940-1941" src="images/gideon.jpg" style="display:block; margin:0 auto 20px auto; max-width:100%; height:auto; border-radius: 4px;"/>
+          <a href="gideon.html" target="_blank" class="tile-image-link"><img alt="Gideon —  Gideon Force in Ethiopia, 1940-1941" src="images/gideon.jpg" style="display:block; margin:0 auto 20px auto; max-width:100%; height:auto; border-radius: 4px;"/></a>
         </div>
         <div class="tile-body">
           <p class="tile-excerpt">
@@ -518,10 +569,10 @@
           </p>
           <p class="tile-excerpt">Gideon Force in Ethiopia, 1940-1941</p>
         </div>
-      </a>
-      <a href="postmaster.html" target="_blank" class="game-tile">
+      </div>
+      <div class="game-tile">
         <div class="game-face">
-          <img alt="Postmaster —  The Fernando Po raid, January 1942" src="images/postmaster.jpg" style="display:block; margin:0 auto 20px auto; max-width:100%; height:auto; border-radius: 4px;"/>
+          <a href="postmaster.html" target="_blank" class="tile-image-link"><img alt="Postmaster —  The Fernando Po raid, January 1942" src="images/postmaster.jpg" style="display:block; margin:0 auto 20px auto; max-width:100%; height:auto; border-radius: 4px;"/></a>
         </div>
         <div class="tile-body">
           <p class="tile-excerpt">
@@ -529,10 +580,10 @@
           </p>
           <p class="tile-excerpt">The Fernando Po raid, January 1942</p>
         </div>
-      </a>
-      <a href="biting.html" target="_blank" class="game-tile">
+      </div>
+      <div class="game-tile">
         <div class="game-face">
-          <img alt="Biting —  The Bruneval radar raid, February 1942" src="images/biting.jpg" style="display:block; margin:0 auto 20px auto; max-width:100%; height:auto; border-radius: 4px;"/>
+          <a href="biting.html" target="_blank" class="tile-image-link"><img alt="Biting —  The Bruneval radar raid, February 1942" src="images/biting.jpg" style="display:block; margin:0 auto 20px auto; max-width:100%; height:auto; border-radius: 4px;"/></a>
         </div>
         <div class="tile-body">
           <p class="tile-excerpt">
@@ -540,10 +591,10 @@
           </p>
           <p class="tile-excerpt">The Bruneval radar raid, February 1942</p>
         </div>
-      </a>
-      <a href="chariot.html" target="_blank" class="game-tile">
+      </div>
+      <div class="game-tile">
         <div class="game-face">
-          <img alt="Chariot —  The raid on Saint-Nazaire, 1942" src="images/chariot.jpg" style="display:block; margin:0 auto 20px auto; max-width:100%; height:auto; border-radius: 4px;"/>
+          <a href="chariot.html" target="_blank" class="tile-image-link"><img alt="Chariot —  The raid on Saint-Nazaire, 1942" src="images/chariot.jpg" style="display:block; margin:0 auto 20px auto; max-width:100%; height:auto; border-radius: 4px;"/></a>
         </div>
         <div class="tile-body">
           <p class="tile-excerpt">
@@ -551,10 +602,10 @@
           </p>
           <p class="tile-excerpt">The raid on Saint-Nazaire, 1942</p>
         </div>
-      </a>
-      <a href="frankton.html" target="_blank" class="game-tile">
+      </div>
+      <div class="game-tile">
         <div class="game-face">
-          <img alt="Frankton —  The Bordeaux raid, 1942" src="images/frankton.jpg" style="display:block; margin:0 auto 20px auto; max-width:100%; height:auto; border-radius: 4px;"/>
+          <a href="frankton.html" target="_blank" class="tile-image-link"><img alt="Frankton —  The Bordeaux raid, 1942" src="images/frankton.jpg" style="display:block; margin:0 auto 20px auto; max-width:100%; height:auto; border-radius: 4px;"/></a>
         </div>
         <div class="tile-body">
           <p class="tile-excerpt">
@@ -562,10 +613,10 @@
           </p>
           <p class="tile-excerpt">The Bordeaux raid, 1942</p>
         </div>
-      </a>
-      <a href="source.html" target="_blank" class="game-tile">
+      </div>
+      <div class="game-tile">
         <div class="game-face">
-          <img alt="Source —  The X-craft attack on Tirpitz, 1943" src="images/source.jpg" style="display:block; margin:0 auto 20px auto; max-width:100%; height:auto; border-radius: 4px;"/>
+          <a href="source.html" target="_blank" class="tile-image-link"><img alt="Source —  The X-craft attack on Tirpitz, 1943" src="images/source.jpg" style="display:block; margin:0 auto 20px auto; max-width:100%; height:auto; border-radius: 4px;"/></a>
         </div>
         <div class="tile-body">
           <p class="tile-excerpt">
@@ -573,10 +624,10 @@
           </p>
           <p class="tile-excerpt">The X-craft attack on Tirpitz, 1943</p>
         </div>
-      </a>
-      <a href="caravan.html" target="_blank" class="game-tile">
+      </div>
+      <div class="game-tile">
         <div class="game-face">
-          <img alt="Caravan —  The Long Range Desert Group raid on Barce, 1942" src="images/caravan.png" style="display:block; margin:0 auto 20px auto; max-width:100%; height:auto; border-radius: 4px;"/>
+          <a href="caravan.html" target="_blank" class="tile-image-link"><img alt="Caravan —  The Long Range Desert Group raid on Barce, 1942" src="images/caravan.png" style="display:block; margin:0 auto 20px auto; max-width:100%; height:auto; border-radius: 4px;"/></a>
         </div>
         <div class="tile-body">
           <p class="tile-excerpt">
@@ -584,10 +635,10 @@
           </p>
           <p class="tile-excerpt">The Long Range Desert Group raid on Barce, 1942</p>
         </div>
-      </a>
-      <a href="creek.html" target="_blank" class="game-tile">
+      </div>
+      <div class="game-tile">
         <div class="game-face">
-          <img alt="Creek —  The raid on Mormugao Harbor, Goa, 1943" src="images/creek.jpg" style="display:block; margin:0 auto 20px auto; max-width:100%; height:auto; border-radius: 4px;"/>
+          <a href="creek.html" target="_blank" class="tile-image-link"><img alt="Creek —  The raid on Mormugao Harbor, Goa, 1943" src="images/creek.jpg" style="display:block; margin:0 auto 20px auto; max-width:100%; height:auto; border-radius: 4px;"/></a>
         </div>
         <div class="tile-body">
           <p class="tile-excerpt">
@@ -595,10 +646,10 @@
           </p>
           <p class="tile-excerpt">The raid on Mormugao Harbor, Goa, 1943</p>
         </div>
-      </a>
-      <a href="semut.html" target="_blank" class="game-tile">
+      </div>
+      <div class="game-tile">
         <div class="game-face">
-          <img alt="Semut —  The Z Special Unit campaign in Borneo, 1945" src="images/semut.jpg" style="display:block; margin:0 auto 20px auto; max-width:100%; height:auto; border-radius: 4px;"/>
+          <a href="semut.html" target="_blank" class="tile-image-link"><img alt="Semut —  The Z Special Unit campaign in Borneo, 1945" src="images/semut.jpg" style="display:block; margin:0 auto 20px auto; max-width:100%; height:auto; border-radius: 4px;"/></a>
         </div>
         <div class="tile-body">
           <p class="tile-excerpt">
@@ -606,9 +657,34 @@
           </p>
           <p class="tile-excerpt">The Z Special Unit campaign in Borneo, 1945</p>
         </div>
-      </a>
+      </div>
     </div>
   </section>
+  <script>
+    document.querySelectorAll('.playlist').forEach(pl => {
+      const audio = pl.querySelector('audio');
+      const select = pl.querySelector('.track-select');
+      const tracks = pl.dataset.tracks.split(',');
+      const label = pl.dataset.label || 'Track';
+      let i = 0;
+
+      tracks.forEach((t, n) => select.add(new Option(label + ' ' + (n + 1), n)));
+
+      const load = (n, play) => {
+        i = n;
+        audio.src = tracks[i];
+        select.value = i;
+        if (play) audio.play();
+      };
+
+      select.addEventListener('change', () => load(+select.value, true));
+      audio.addEventListener('ended', () => {
+        if (i < tracks.length - 1) load(i + 1, true);
+      });
+
+      load(0, false);
+    });
+  </script>
   <script src="https://andy-bryden.github.io/andy-bryden/universal-footer.js"></script>
   <script>
     const header = document.getElementById('site-header');
