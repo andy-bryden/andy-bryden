@@ -355,6 +355,31 @@
  margin-bottom: 0.5rem;
  font-family: var(--font-sans);
  }
+
+ /* Audio playlist */
+ .playlist {
+ max-width: 420px;
+ margin: 0 auto 10px auto;
+ }
+
+ .playlist audio {
+ display: block;
+ width: 100%;
+ }
+
+ .track-select {
+ display: block;
+ width: 100%;
+ margin-top: 0.5rem;
+ padding: 0.35rem 0.5rem;
+ font-family: 'Inconsolata', monospace;
+ font-size: 0.78rem;
+ letter-spacing: 0.08em;
+ color: var(--faded);
+ background: var(--paper);
+ border: 1px solid var(--rule);
+ border-radius: 4px;
+ }
 </style>
 </head>
 <body>
@@ -365,6 +390,11 @@
  <header class="title-page">
  <img alt="Bricklayer" src="images/bricklayer.png" style="display:block; margin:0 auto 20px auto; max-width:100%; height:auto; border-radius: 4px;"/>
  </header>
+
+<div class="playlist" data-tracks="audio/bricklayer/bricklayer_01.mp3,audio/bricklayer/bricklayer_02.mp3,audio/bricklayer/bricklayer_03.mp3,audio/bricklayer/bricklayer_04.mp3,audio/bricklayer/bricklayer_05.mp3,audio/bricklayer/bricklayer_06.mp3" data-label="Part">
+ <audio controls preload="none">Your browser doesn't support audio playback.</audio>
+ <select class="track-select" aria-label="Choose track"></select>
+</div>
 
 <br id="toc"/>
 <details class="toc">
@@ -1436,6 +1466,31 @@ CONFIRM EXTRACTION NIGHT 14/15 MAY. VESSEL: HM MOTOR LAUNCH 842 (LT. BRIAN COLEM
  </section>
 
 </div>
+<script>
+ document.querySelectorAll('.playlist').forEach(pl => {
+ const audio = pl.querySelector('audio');
+ const select = pl.querySelector('.track-select');
+ const tracks = pl.dataset.tracks.split(',');
+ const label = pl.dataset.label || 'Track';
+ let i = 0;
+
+ tracks.forEach((t, n) => select.add(new Option(label + ' ' + (n + 1), n)));
+
+ const load = (n, play) => {
+ i = n;
+ audio.src = tracks[i];
+ select.value = i;
+ if (play) audio.play();
+ };
+
+ select.addEventListener('change', () => load(+select.value, true));
+ audio.addEventListener('ended', () => {
+ if (i < tracks.length - 1) load(i + 1, true);
+ });
+
+ load(0, false);
+ });
+</script>
 <script src="universal-header.js"></script>
 <script src="universal-footer.js"></script>
 </body>

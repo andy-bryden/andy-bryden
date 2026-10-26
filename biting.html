@@ -355,6 +355,31 @@
  margin-bottom: 0.5rem;
  font-family: var(--font-sans);
  }
+
+ /* Audio playlist */
+.playlist {
+  max-width: 420px;
+  margin: 0 auto 10px auto;
+}
+
+.playlist audio {
+  display: block;
+  width: 100%;
+}
+
+.track-select {
+  display: block;
+  width: 100%;
+  margin-top: 0.5rem;
+  padding: 0.35rem 0.5rem;
+  font-family: 'Inconsolata', monospace;
+  font-size: 0.78rem;
+  letter-spacing: 0.08em;
+  color: var(--faded);
+  background: var(--paper);
+  border: 1px solid var(--rule);
+  border-radius: 4px;
+}
 </style>
 </head>
 <body>
@@ -365,6 +390,11 @@
  <header class="title-page">
  <img alt="Biting" src="images/biting.jpg" style="display:block; margin:0 auto 20px auto; max-width:100%; height:auto; border-radius: 4px;"/>
  </header>
+
+<div class="playlist" data-tracks="audio/biting/biting_01.mp3,audio/biting/biting_02.mp3,audio/biting/biting_03.mp3,audio/biting/biting_04.mp3,audio/biting/biting_05.mp3,audio/biting/biting_06.mp3,audio/biting/biting_07.mp3" data-label="Part">
+ <audio controls preload="none">Your browser doesn't support audio playback.</audio>
+ <select class="track-select" aria-label="Choose track"></select>
+</div>
 
 <br id="toc"/>
 <details class="toc">
