@@ -1,5 +1,110 @@
 Frankton cast
 
+NARRATOR
+I speak with the voice of Charon
+Narrator. British documentary style, deep, resonant, dramatic, and solemn
+
+HASLER
+I speak with the voice of Orus
+Major Herbert Hasler. Upper-middle-class British RP accent, detached, analytical, authoritative, and unflappably calm under extreme pressure
+
+SPARKS
+I speak with the voice of Puck
+Marine Bill Sparks. East London Cockney accent, gritty, youthful, resilient, grounded, and wry
+
+MACKINNON
+I speak with the voice of Achird
+Lieutenant John Mackinnon. Lowland Scottish accent, reserved, methodical, steady, and quietly robust
+
+WALLACE
+I speak with the voice of Fenrir
+Sergeant Samuel Wallace. Argyll Scottish accent, gruff, hardened, resolute, and strictly disciplined regular soldier
+
+MILLS
+I speak with the voice of Iapetus
+Marine William Mills. English East Midlands accent, deep, quiet, stoic, and unshakeable
+
+LAVER
+I speak with the voice of Fenrir
+Corporal Albert Laver. Birkenhead Merseyside accent, quiet, grounded, steady, and naturally authoritative as an NCO
+
+SHEARD
+I speak with the voice of Iapetus
+Corporal George Sheard. Devon West Country accent, mature, deliberate, strained and breathless with hypothermic shock
+
+CONWAY
+I speak with the voice of Iapetus
+Marine James Conway. Stockport northern English accent, thick-set, working-class, urgent, and focused under crisis
+
+ELLERY
+I speak with the voice of Puck
+Marine William Ellery. British general service accent, sharp, obedient, and attentive
+
+RAIKES
+I speak with the voice of Achird
+Lieutenant Commander Richard Raikes. British Naval RP accent, clipped, professional, composed, and weary from continuous patrol operations
+
+CONTROL ROOM
+I speak with the voice of Iapetus
+Submarine Control Room. British naval rating, crisp, functional, and routine through a submarine voice-pipe
+
+CALL PIPE
+I speak with the voice of Iapetus
+Submarine Call Pipe. British naval rating, resonant, official, and sharp broadcast delivery
+
+GERMAN OFFICER
+I speak with the voice of Achird
+German Naval Intelligence Officer. German accent, precise, cultured, bureaucratic, and chillingly composed
+
+GERMAN SAILOR
+I speak with the voice of Achird
+German Sailor. German accent, harsh, flat, curt, and aggressive with military impatience
+
+GERMAN NAVAL OFFICER
+I speak with the voice of Orus
+German Naval Execution Officer. German accent, deep, formal, and unflinchingly commanding
+
+DE BAISSAC
+I speak with the voice of Achird
+Claude de Baissac. Cultured British-Mauritian accent with subtle French cadence, refined, quiet, and cold with suppressed fury
+
+LANDES
+I speak with the voice of Puck
+Roger Landes. London-French bilingual accent, clipped, quick, pragmatic, and vigilant under pressure
+
+SENIOR GENDARME
+I speak with the voice of Iapetus
+Senior French Gendarme. Regional French accent, suspicious, officious, stiff, and unyielding
+
+YVONNE MANDINAUD
+I speak with the voice of Leda
+Madame Yvonne Mandinaud. Provincial French accent, hushed, anxious, urgent, yet brave and decisive
+
+PAILLE
+I speak with the voice of Achird
+Schoolmaster Paillé. Refined French-accented English, mild, inquisitive, warm, and discerning
+
+DUBREUILLE
+I speak with the voice of Iapetus
+Armand Dubreuille. Rural French accent, deep, hushed, protective, and conspiratorial
+
+SD INTERROGATOR
+I speak with the voice of Orus
+Sicherheitsdienst Interrogator. German accent, menacing, razor-sharp, calculated, and predatory
+
+SS OFFICER
+I speak with the voice of Orus
+SS Execution Officer. German accent, guttural, rigid, loud, and brutally decisive
+
+MARY LINDELL
+I speak with the voice of Capella
+Mary Lindell. Aristocratic British RP accent, imperious, formidable, sharp, and commanding without hesitation
+
+LEAD SMUGGLER
+I speak with the voice of Fenrir
+Pyrenean Mountain Guide. Gruff Basque-accented French, terse, gravelly, wary, and uncompromising
+
+
 
 
 
