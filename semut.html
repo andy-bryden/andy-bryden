@@ -391,8 +391,8 @@
  <img alt="Semut" src="images/semut.jpg" style="display:block; margin:0 auto 20px auto; max-width:100%; height:auto; border-radius: 4px;"/>
  </header>
 
-<div class="playlist" data-tracks="audio/semut/semut_01.mp3,audio/semut/semut_02.mp3,audio/semut/semut_03.mp3,audio/semut/semut_04.mp3,audio/semut/semut_05.mp3,audio/semut/semut_06.mp3" data-label="Part">
- <audio controls preload="none">Your browser doesn't support audio playback.</audio>
+<div class="playlist" data-label="Part">
+ <audio controls preload="none"></audio>
  <select class="track-select" aria-label="Choose track"></select>
 </div>
 
@@ -1672,6 +1672,45 @@ In the first stick, aboard A72-191: Major Tom Harrisson, Lieutenant Colin Sander
  </section>
 
 </div>
+<script>
+ document.querySelectorAll('.playlist').forEach(async pl => {
+ const audio = pl.querySelector('audio');
+ const select = pl.querySelector('.track-select');
+ const label = pl.dataset.label || 'Part';
+ const book = pl.dataset.book || location.pathname.split('/').pop().replace(/\.html?$/i, '');
+ const base = `audio/${book}/${book}_`;
+ const tracks = [];
+ let i = 0;
+
+ const load = (n, play) => {
+ i = n;
+ audio.src = tracks[i];
+ select.value = i;
+ if (play) audio.play();
+ };
+
+ select.addEventListener('change', () => load(+select.value, true));
+ audio.addEventListener('ended', () => {
+ if (i < tracks.length - 1) load(i + 1, true);
+ });
+
+ const exists = async url => {
+ try { return (await fetch(url, { method: 'HEAD' })).ok; }
+ catch { return false; }
+ };
+
+ for (let n = 1; n <= 99; n++) {
+ const url = `${base}${String(n).padStart(2, '0')}.mp3`;
+ if (!(await exists(url))) break;
+ tracks.push(url);
+ select.add(new Option(`${label} ${n}`, n - 1));
+ if (n === 1) load(0, false);
+ }
+
+ if (!tracks.length) pl.style.display = 'none';
+ else if (tracks.length === 1) select.style.display = 'none';
+ });
+</script>
 <script src="universal-header.js"></script>
 <script src="universal-footer.js"></script>
 </body>
