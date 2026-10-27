@@ -8,47 +8,47 @@ HAILE SELASSIE
 I speak with the voice of Orus
 Emperor Haile Selassie I. Aristocratic Ethiopian cadence with soft, formal French diplomatic inflection, quiet, deliberate, and regal
 
-ORDE WINGATE
+WINGATE
 I speak with the voice of Fenrir
 Major Orde Wingate. Intense British baritone, harsh, raspy, gravelly, and manic with Old Testament zeal
 
-EDWIN CHAPMAN-ANDREWS
+CHAPMAN-ANDREWS
 I speak with the voice of Puck
 Major Edwin Chapman-Andrews. Polished British diplomatic RP, crisp, professional, and composed under pressure
 
-DANIEL SANDFORD
+SANDFORD
 I speak with the voice of Achird
 Colonel Daniel Sandford. Weathered British elder RP, gentleman farmer and senior gunner, calm, unhurried, and diplomatic
 
-HUGH BOUSTEAD
+BOUSTEAD
 I speak with the voice of Iapetus
 Lieutenant-Colonel Hugh Boustead. Firm British military RP, disciplined, no-nonsense line officer, steely and veteran
 
-DONALD DREW
+DREW
 I speak with the voice of Puck
 Captain Donald Drew. Crisp British military RP, practical, brisk, and dry under pressure
 
-WILFRED THESIGER
+THESIGER
 I speak with the voice of Iapetus
 Captain Wilfred Thesiger. Austere British aristocratic drawl, deep, laconic, resonant, and utterly unflappable
 
-AZAJ KABADA
+KABADA
 I speak with the voice of Orus
 Azaj Kabada Tessema. Traditional Ethiopian highland cadence, formal, blunt, and respectful
 
-DEJAZMACH MENGESHA
+MENGESHA
 I speak with the voice of Iapetus
 Dejazmach Mengesha Jembere. Deep, gravelly Ethiopian Gojjami accent, suspicious, proud, and fierce highland warlord
 
-ARTHUR SMITH
+SMITH
 I speak with the voice of Achird
 Lieutenant-General Arthur Smith. Stiff British high command RP, formal, bureaucratic, and irritated
 
-ARCHIBALD WAVELL
+WAVELL
 I speak with the voice of Iapetus
 General Sir Archibald Wavell. World-weary British general officer RP, laconic, flat, low, and penetrating
 
-WILLIAM PLATT
+PLATT
 I speak with the voice of Puck
 Lieutenant-General William Platt. Fastidious British cavalry RP, clipped, precise, skeptical, and rigid
 
@@ -56,7 +56,7 @@ SUDANESE CAPTAIN
 I speak with the voice of Puck
 Sudanese Transport Captain. Sudanese Arabic-accented military English, formal, defensive, and stiff
 
-JOCK CAMPBELL
+CAMPBELL
 I speak with the voice of Achird
 Captain Jock Campbell. Weary Scottish accent, practical, blunt, and exasperated
 
@@ -64,11 +64,11 @@ ETHIOPIAN SOLDIER
 I speak with the voice of Orus
 Ethiopian Sub-Officer. Battle-hardened Ethiopian accent, flat, stoic, and resolute
 
-ABRAHAM AKAVIA
+AKAVIA
 I speak with the voice of Puck
 Lieutenant Abraham Akavia. Central European and Palestinian Jewish-accented English, precise, quiet, and intellectual
 
-LAURENS VAN DER POST
+VAN DER POST
 I speak with the voice of Orus
 Captain Laurens van der Post. South African English accent, resonant, booming, philosophical, and dramatic
 
@@ -84,35 +84,35 @@ ITALIAN SENTRY
 I speak with the voice of Orus
 Italian Sentry. Sharp Italian accent, startled, challenging, and defensive
 
-RONNIE JOHNSON
+JOHNSON
 I speak with the voice of Puck
 Major Ronnie Johnson. Urgent British military RP, low, pragmatic, and tactical under fire
 
-DONALD NOTT
+NOTT
 I speak with the voice of Achird
 Captain Donald Nott. Focused British military RP, tense and combative
 
-LEOPOLDO NATALE
+NATALE
 I speak with the voice of Iapetus
 Colonel Leopoldo Natale. Weary Italian accent, hoarse, defensive, and panicked veteran colonial brigade commander
 
-MARIO DE DOMINICIS
+DE DOMINICIS
 I speak with the voice of Puck
 Major Mario de Dominicis. Proud Italian accent, aggressive, haughty, and sharp Blackshirt officer
 
-CAPTAIN ROSSI
+ROSSI
 I speak with the voice of Achird
 Captain Rossi. Stunned Italian accent, formal and polite under stress
 
-ALAN ROWE
+ROWE
 I speak with the voice of Achird
 Captain Alan Rowe. Stressed British military RP, exhausted, sharp, and combative
 
-TED BOYLE
+BOYLE
 I speak with the voice of Puck
 Major Edward Boyle. Dry British colonial service accent, flat, unromantic, and battle-weary
 
-B. A. TUTTON
+TUTTON
 I speak with the voice of Fenrir
 Lieutenant B. A. Tutton. Frantic British military RP, combat-stressed, shouting over machine-gun fire
 
@@ -136,19 +136,19 @@ SUDANESE SERGEANT
 I speak with the voice of Fenrir
 Sudanese Sergeant. Formal Sudanese Arabic cadence, respectful and disciplined
 
-SAVERIO MARAVENTANO
+MARAVENTANO
 I speak with the voice of Achird
 Colonel Saverio Maraventano. Stoic Italian accent, thickset, grave, and disciplined fortress commander
 
-RAS HAILU
+HAILU
 I speak with the voice of Puck
 Ras Hailu Tekle Haymanot. Silk-smooth, aged Ethiopian aristocratic cadence, cunning, velvet, and theatrical
 
-GUGLIELMO NASI
+NASI
 I speak with the voice of Iapetus
 General Guglielmo Nasi. Aristocratic Italian general officer accent, icy, razor-sharp, and coldly furious
 
-COLIN MACDONALD
+MACDONALD
 I speak with the voice of Puck
 Bimbashi Colin MacDonald. Gentle Scottish accent, quiet, resolute, and courageous
 
@@ -160,11 +160,11 @@ ITALIAN PICKETS
 I speak with the voice of Orus
 Italian Pickets. Panic-stricken Italian shouts, desperate and retreating
 
-FITARWARI BELAI
+BELAI
 I speak with the voice of Fenrir
 Fitawrari Belai Zelleke. Deep, raspy Ethiopian Gojjami warlord cadence, arrogant, guttural, and ferocious
 
-CAPTAIN HENDERSON
+HENDERSON
 I speak with the voice of Achird
 Captain Henderson. Stiff British Military Police RP, polite, bureaucratic, and unyielding until threatened
 
@@ -172,7 +172,7 @@ RAS ABEBE
 I speak with the voice of Iapetus
 Ras Abebe Aregai. Deep, rugged Ethiopian Shoan guerrilla cadence, battle-scarred and emotional
 
-ALAN CUNNINGHAM
+CUNNINGHAM
 I speak with the voice of Achird
 Lieutenant-General Sir Alan Cunningham. Aristocratic British regular high command RP, cold, formal, and detached
 
@@ -184,7 +184,7 @@ KAR CAPTAIN
 I speak with the voice of Achird
 King's African Rifles Captain. Supercilious British staff RP, polished, clean, and disdainful
 
-MAURICE LUSH
+LUSH
 I speak with the voice of Iapetus
 Brigadier Maurice Lush. Cold British colonial service RP, smooth, bureaucratic, and imperious
 
@@ -196,7 +196,7 @@ SUBALTERN
 I speak with the voice of Achird
 Administrative Subaltern. Bored, perfunctory British colonial service accent, dismissive and routine
 
-CUDBERT THORNHILL
+THORNHILL
 I speak with the voice of Iapetus
 Lieutenant-Colonel Cudbert Thornhill. Gritty British intelligence RP, decisive, seasoned, and calm in blood and crisis
 
@@ -204,7 +204,7 @@ PRESIDING COLONEL
 I speak with the voice of Achird
 Presiding Medical Colonel. Dry British medical officer RP, clinical, bureaucratic, and flat
 
-PHILIP MITCHELL
+MITCHELL
 I speak with the voice of Iapetus
 Sir Philip Mitchell. Dignified British diplomatic RP, statesmanlike, respectful, and measured
 
