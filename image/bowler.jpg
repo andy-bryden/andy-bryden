@@ -1,0 +1,160 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1200" viewBox="0 0 1600 1200" role="img" aria-label="BOWLER The Venice Harbour Raid, March 1945">
+  <defs>
+    <linearGradient id="sky" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0%" stop-color="#7e9eac"/>
+      <stop offset="36%" stop-color="#d4d8d4"/>
+      <stop offset="76%" stop-color="#a3b6bf"/>
+      <stop offset="100%" stop-color="#d7d4d0"/>
+    </linearGradient>
+    <linearGradient id="water" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0%" stop-color="#8eb4b7"/>
+      <stop offset="100%" stop-color="#3d7685"/>
+    </linearGradient>
+    <radialGradient id="smoke" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#303536" stop-opacity="0.96"/>
+      <stop offset="24%" stop-color="#5a5f5e" stop-opacity="0.78"/>
+      <stop offset="65%" stop-color="#8a8e8b" stop-opacity="0.42"/>
+      <stop offset="100%" stop-color="#8a8e8b" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="flame" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ffd76d"/>
+      <stop offset="25%" stop-color="#ffb12d"/>
+      <stop offset="55%" stop-color="#ef5a11"/>
+      <stop offset="100%" stop-color="#4c1208"/>
+    </radialGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="18" stdDeviation="14" flood-color="#000" flood-opacity="0.33"/>
+    </filter>
+  </defs>
+
+  <rect width="1600" height="1200" fill="url(#sky)"/>
+
+  <g opacity="0.68">
+    <ellipse cx="250" cy="160" rx="260" ry="68" fill="#dfe3dc"/>
+    <ellipse cx="780" cy="170" rx="420" ry="90" fill="#e7ece7"/>
+    <ellipse cx="1320" cy="170" rx="320" ry="80" fill="#dfe3dc"/>
+  </g>
+
+  <g>
+    <text x="800" y="185" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-weight="900" font-size="180" letter-spacing="-4" fill="#f0e2b4" stroke="#60461e" stroke-width="6" paint-order="stroke fill">BOWLER</text>
+    <text x="800" y="270" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-weight="700" font-size="70" fill="#f8f0d7">The Venice Harbour Raid, March 1945</text>
+  </g>
+
+  <path d="M0 490 L1600 430 L1600 1200 L0 1200 Z" fill="url(#water)" opacity="0.62"/>
+
+  <g opacity="0.82">
+    <rect x="0" y="620" width="1600" height="580" fill="#b18869" opacity="0.58"/>
+    <g fill="#8b5d49" opacity="0.54">
+      <rect x="0" y="665" width="260" height="95"/>
+      <rect x="300" y="640" width="210" height="115"/>
+      <rect x="540" y="650" width="220" height="105"/>
+      <rect x="780" y="640" width="220" height="118"/>
+      <rect x="1020" y="655" width="230" height="100"/>
+      <rect x="1280" y="645" width="260" height="120"/>
+    </g>
+    <g fill="#c08c5d" opacity="0.52">
+      <rect x="40" y="748" width="90" height="70"/>
+      <rect x="160" y="732" width="120" height="86"/>
+      <rect x="345" y="745" width="110" height="75"/>
+      <rect x="570" y="740" width="120" height="82"/>
+      <rect x="820" y="735" width="150" height="90"/>
+      <rect x="1085" y="748" width="120" height="78"/>
+      <rect x="1330" y="742" width="135" height="83"/>
+    </g>
+  </g>
+
+  <g opacity="0.77">
+    <path d="M0 1005 L1600 1005" stroke="#9f8552" stroke-width="4"/>
+    <path d="M0 1045 L1600 1045" stroke="#725b4d" stroke-width="3"/>
+  </g>
+
+  <g transform="translate(160 125)" filter="url(#shadow)">
+    <g transform="translate(0 0)">
+      <path d="M0 220 C80 160 145 118 223 108 C330 94 425 136 500 188 C451 223 414 254 378 283 C283 286 185 286 0 220 Z" fill="url(#smoke)" opacity="0.9"/>
+      <path d="M107 254 C214 189 290 199 385 219 C349 279 305 314 244 332 C189 325 140 303 107 254 Z" fill="url(#smoke)" opacity="0.7"/>
+      <path d="M150 257 C238 268 284 310 344 380 C283 404 225 410 168 401 C118 383 83 348 76 322 C98 282 122 264 150 257 Z" fill="url(#flame)" opacity="0.92"/>
+      <circle cx="220" cy="318" r="62" fill="#ffb258" opacity="0.8"/>
+    </g>
+  </g>
+
+  <g opacity="0.8" transform="translate(435 835)">
+    <path d="M0 140 L250 140 L280 175 L285 175 L285 210 L20 210 L20 175 L0 175 Z" fill="#394b4d"/>
+    <rect x="25" y="45" width="240" height="95" rx="7" fill="#3d4e55"/>
+    <rect x="60" y="10" width="130" height="72" rx="8" fill="#4d5a5e"/>
+    <path d="M178 14 H220 V68 H178 Z" fill="#4f5e60"/>
+    <rect x="153" y="115" width="57" height="102" fill="#3d4d48"/>
+    <rect x="55" y="110" width="70" height="98" fill="#3d4e55"/>
+    <rect x="226" y="118" width="18" height="95" fill="#3d4e55"/>
+    <circle cx="80" cy="210" r="18" fill="#2d2d2d"/>
+    <circle cx="228" cy="210" r="18" fill="#2d2d2d"/>
+    <circle cx="148" cy="210" r="18" fill="#2d2d2d"/>
+  </g>
+
+  <g transform="translate(610 560)" filter="url(#shadow)">
+    <g transform="rotate(2 140 120)">
+      <path d="M110 120 L330 120 L400 160 L550 160 L607 143 L678 160 L720 200 L640 232 L566 224 L468 212 L360 205 L258 210 L218 220 L170 252 L110 252 L94 200 L102 145 Z" fill="#d2b37a" stroke="#7c5d2f" stroke-width="4"/>
+      <path d="M93 150 L212 72 L355 72 L380 145 L93 150 Z" fill="#d5b87d" stroke="#7a5d2c" stroke-width="4"/>
+      <path d="M325 70 L430 67 L612 148 L512 160 L430 122 L325 70 Z" fill="#c89a5d" stroke="#7a5d2c" stroke-width="4"/>
+      <path d="M90 156 L74 186 L70 205 L120 210 L150 192 L135 160 Z" fill="#7a6038"/>
+      <path d="M610 160 L668 150 L710 170 L677 191 L610 178 Z" fill="#7a6038"/>
+      <path d="M160 150 Q260 96 340 95 Q390 106 410 150 Q342 170 256 170 Q196 170 160 150 Z" fill="#a88e62" opacity="0.8"/>
+      <path d="M280 108 L500 108 L598 178 L360 178 Z" fill="#c39d5c" opacity="0.76"/>
+      <path d="M325 74 L425 74 L556 145 L430 150 L325 74 Z" fill="#f0e2bb" stroke="#775c2b" stroke-width="4"/>
+      <g fill="#f3e7c8" stroke="#4e3a1d" stroke-width="3">
+        <circle cx="160" cy="122" r="40"/>
+        <circle cx="232" cy="100" r="40"/>
+        <circle cx="300" cy="90" r="38"/>
+        <circle cx="405" cy="95" r="42"/>
+      </g>
+      <g fill="#d8a79a" stroke="#6a300f" stroke-width="2">
+        <circle cx="160" cy="122" r="10"/>
+        <circle cx="232" cy="100" r="10"/>
+        <circle cx="300" cy="90" r="10"/>
+        <circle cx="405" cy="95" r="10"/>
+      </g>
+      <g stroke="#4d3c22" stroke-width="8" fill="none">
+        <path d="M120 108 L20 55"/>
+        <path d="M255 92 L160 38"/>
+        <path d="M335 86 L264 28"/>
+        <path d="M425 96 L505 35"/>
+      </g>
+      <g fill="#d5d7d5" opacity="0.7">
+        <path d="M120 117 L140 116 L130 171 L102 170 Z"/>
+        <path d="M222 101 L242 100 L233 160 L205 160 Z"/>
+        <path d="M296 91 L316 90 L308 150 L280 150 Z"/>
+        <path d="M400 95 L420 94 L413 156 L390 157 Z"/>
+      </g>
+      <g fill="#5a4031" stroke="#25170e" stroke-width="2">
+        <path d="M365 145 L444 150 L478 170 L405 178 Z"/>
+      </g>
+      <g stroke="#7b5a2d" stroke-width="4" stroke-linecap="round">
+        <path d="M92 202 L178 210"/>
+        <path d="M171 210 L300 210"/>
+        <path d="M300 210 L360 225"/>
+        <path d="M377 210 L479 214"/>
+        <path d="M480 214 L611 210"/>
+      </g>
+    </g>
+  </g>
+
+  <g opacity="0.82">
+    <path d="M840 730 L930 730 L1004 840 L820 840 Z" fill="#4d5351"/>
+    <path d="M800 700 L918 700 L987 830 L770 830 Z" fill="#6b716f"/>
+  </g>
+
+  <g opacity="0.9">
+    <circle cx="675" cy="602" r="32" fill="#f7ae29"/>
+    <circle cx="691" cy="580" r="25" fill="#f0bb5d"/>
+    <circle cx="664" cy="612" r="33" fill="#ff8d25" opacity="0.7"/>
+  </g>
+
+  <g opacity="0.82">
+    <path d="M1010 520 L1066 576 L1035 620 L990 602 L960 560 Z" fill="#d3d7d6"/>
+    <path d="M1020 520 L1101 565 L1061 626 L1001 610 Z" fill="#7c827e"/>
+  </g>
+
+  <g opacity="0.8">
+    <path d="M1065 570 L1215 520 L1306 559 L1167 640 Z" fill="#b2b7b4"/>
+    <path d="M1101 504 L1203 466 L1287 498 L1195 584 Z" fill="#8a908e"/>
+  </g>
+</svg>
