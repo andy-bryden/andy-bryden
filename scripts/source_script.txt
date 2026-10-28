@@ -565,7 +565,7 @@ NARRATOR
 Chapter Five
 Clammy Death
 Loch Striven, Scotland
-February–March 1943
+February-March 1943
 
 The suit was officially designated the "Submarine Diver's Surface-Breathing and Shallow-Water Diving Dress."
 
@@ -696,7 +696,7 @@ NARRATOR
 Chapter Six
 The Blue Prince and the Box
 RAF Medmenham, Buckinghamshire / Kåfjord, Norway
-April–August 1943
+April-August 1943
 
 The intelligence was built out of two fragile materials - glass photographic plates and short-wave Morse code.
 
@@ -800,7 +800,7 @@ NARRATOR
 Chapter Seven
 Port HH
 Loch Cairnbawn, Sutherland, Scotland
-11–12 September 1943
+11-12 September 1943
 
 In the extreme north-west corner of the Scottish Highlands, Loch Cairnbawn—code-named "Port HH"—was an empty, sea-sculpted cleft of salt water guarded by the cliffs of Sutherland. There was no railhead, no town, and no telephone line that had not been tapped by Naval Intelligence.
 
@@ -880,7 +880,7 @@ NARRATOR
 Chapter Eight
 Life in the Box
 The Norwegian Sea
-12–15 September 1943
+12-15 September 1943
 
 The motion was neither that of a surface ship nor a free-running submarine.
 
@@ -1080,7 +1080,7 @@ NARRATOR
 Chapter Ten
 The List to Starboard
 HMS Seanymph and X8, Barents Sea (70° N, 15° E)
-15–17 September 1943
+15-17 September 1943
 
 Forty miles south-west of Syrtis's search track, HMS Seanymph was already fighting to keep her tow alive.
 
@@ -1179,7 +1179,7 @@ NARRATOR
 Chapter Eleven
 Shockwave
 HMS Seanymph and X8, Barents Sea (71°41′ N, 18°11′ E)
-17–18 September 1943
+17-18 September 1943
 
 Sub-Lieutenant Jack Smart reached down to the brass release gear on the starboard side of the control room.
 
@@ -1313,7 +1313,7 @@ NARRATOR
 Chapter Twelve
 The Handover
 Off Sørøya, Norway
-19–20 September 1943
+19-20 September 1943
 
 At 69° North, the edge of the continental shelf drops into black water.
 
@@ -1434,7 +1434,7 @@ NARRATOR
 Chapter Thirteen
 Stjernsund
 Approaches to Stjernsund, Northern Norway
-Night of 20 September – Day of 21 September 1943
+Night of 20 September - Day of 21 September 1943
 
 The four craft separated into the dark, each maintaining an interval of several miles to prevent mutual interference or collision.
 
@@ -1538,7 +1538,7 @@ NARRATOR
 Chapter Fourteen
 The Blind Eye of X10
 Stjernsund, Northern Norway
-21 September – Predawn, 22 September 1943
+21 September - Predawn, 22 September 1943
 
 For Lieutenant Kenneth Hudspeth, the battle had ceased to be about the German battlecruiser Scharnhorst. It was an engineering war against his own hull.
 
@@ -1645,7 +1645,7 @@ NARRATOR
 Chapter Fifteen
 Fire and Salt
 Altafjord, Northern Norway
-Night of 21 September – Predawn, 22 September 1943
+Night of 21 September - Predawn, 22 September 1943
 
 Inside X6, running at thirty feet on her electric motor across the wide basin of Altafjord, the internal air temperature hovered at three degrees Celsius.
 
@@ -1747,7 +1747,7 @@ NARRATOR
 Chapter Sixteen
 The Outer Boom
 Entrance to Kåfjord (Bratteklev)
-04:00–06:00, 22 September 1943
+04:00-06:00, 22 September 1943
 
 The entrance to Kåfjord narrowed to a deep, jagged throat barely eight hundred yards wide, flanked on the western side by the dark promontory of Bratteklev.
 
@@ -1869,7 +1869,7 @@ NARRATOR
 Chapter Seventeen
 Dawn over the Battleship
 Aboard Battleship Tirpitz, Kåfjord
-06:00–07:00, 22 September 1943
+06:00-07:00, 22 September 1943
 
 The morning call—Wecken—sounded through the broadcast speakers of Tirpitz at 05:30.
 
@@ -1926,7 +1926,7 @@ NARRATOR
 Chapter Eighteen
 The Open Gate
 Inside the Inner Net Enclosure, Kåfjord
-07:05–07:15, 22 September 1943
+07:05-07:15, 22 September 1943
 
 Through the two-inch crack beneath the steel rim of X6's hatch, Donald Cameron watched the coaster's stern.
 
@@ -2008,7 +2008,7 @@ NARRATOR
 Chapter Nineteen
 The Blind Charge
 Inside the Net Enclosure, Kåfjord
-07:15–07:25, 22 September 1943
+07:15-07:25, 22 September 1943
 
 Inside X6, at thirty feet depth, the water outside the hull shifted from deep ocean black to the pale, murky bottle-green of the inner fjord.
 
@@ -2106,7 +2106,7 @@ NARRATOR
 Chapter Twenty
 Under the Armor Belt
 Alongside Battleship Tirpitz, Kåfjord
-07:20–07:35, 22 September 1943
+07:20-07:35, 22 September 1943
 
 X6 lay broadside against the armored flank of the battleship, held there by the gentle thrust of her electric motor.
 
@@ -2200,7 +2200,7 @@ NARRATOR
 Chapter Twenty-One
 The Net Maze
 The Inner Net Enclosure, Kåfjord
-07:10–07:22, 22 September 1943
+07:10-07:22, 22 September 1943
 
 While Donald Cameron was crashing X6 onto the sandbank inside the enclosure, Lieutenant Godfrey Place was approaching the outer perimeter of the same net cage from the north-west.
 
@@ -2349,7 +2349,7 @@ NARRATOR
 Chapter Twenty-Two
 Under the Keel
 Beneath Battleship Tirpitz, Kåfjord
-07:22–07:40, 22 September 1943
+07:22-07:40, 22 September 1943
 
 At seventy feet, X7 moved beneath the surface in absolute blackness.
 
@@ -2468,7 +2468,7 @@ NARRATOR
 Chapter Twenty-Three
 The Clockwork Trap
 The Inner Net Enclosure, Kåfjord
-07:40–08:00, 22 September 1943
+07:40-08:00, 22 September 1943
 
 At 07:40, seventy feet beneath the surface, X7 drove nose-first into the wire.
 
@@ -2570,7 +2570,7 @@ NARRATOR
 Chapter Twenty-Four
 Prisoners on the Quarterdeck
 Aboard Battleship Tirpitz, Kåfjord
-07:45–08:10, 22 September 1943
+07:45-08:10, 22 September 1943
 
 The four men of X6 were prodded up the teak treads of the starboard accommodation ladder at bayonet point.
 
@@ -2692,7 +2692,7 @@ NARRATOR
 Chapter Twenty-Five
 08:12
 Aboard Battleship Tirpitz, Kåfjord
-08:12–08:15, 22 September 1943
+08:12-08:15, 22 September 1943
 
 At 08:12, the seabed erupted.
 
@@ -2769,7 +2769,7 @@ NARRATOR
 Chapter Twenty-Six
 Blown Out of the Net
 Inside the Net Enclosure, Kåfjord
-08:12–08:20, 22 September 1943
+08:12-08:20, 22 September 1943
 
 Seventy-five feet down, trapped in the elastic grip of the Netzkäfig, the blow arrived without sound.
 
@@ -2910,7 +2910,7 @@ NARRATOR
 Chapter Twenty-Seven
 Surrender on the Float
 Aboard the Battle-Practice Target, Kåfjord
-08:20–08:35, 22 September 1943
+08:20-08:35, 22 September 1943
 
 The Arctic air struck Godfrey Place's face with shocking clarity.
 
@@ -3050,7 +3050,7 @@ NARRATOR
 Chapter Twenty-Eight
 Sighting at Five Hundred Meters
 Aboard Battleship Tirpitz and Kåfjord Anchorage
-08:40–09:00, 22 September 1943
+08:40-09:00, 22 September 1943
 
 The entry in the Kriegstagebuch of the battleship Tirpitz was logged with clinical precision:
 
@@ -3172,7 +3172,7 @@ NARRATOR
 Chapter Twenty-Nine
 One Hundred and Twenty Feet Down
 Sunken X7, Seabed of Kåfjord
-08:35–11:00, 22 September 1943
+08:35-11:00, 22 September 1943
 
 The hull settled into the glacial silt with a soft, sucking impact.
 
@@ -3374,7 +3374,7 @@ NARRATOR
 Chapter Thirty
 The Long Ascent
 Sunken X7 to the Surface of Kåfjord
-11:10–11:30, 22 September 1943
+11:10-11:30, 22 September 1943
 
 Hydrostatic equilibrium had been reached.
 
@@ -3505,7 +3505,7 @@ NARRATOR
 Chapter Thirty-One
 In the Shadow of Tommelholm
 Seabed off Tommelholm Island, Altafjord (69°58′ N, 23°04′ E)
-08:00–18:00, 22 September 1943
+08:00-18:00, 22 September 1943
 
 Fifty-nine meters down, on the sloping gravel shelf north of Tommelholm Island, X10 sat in dead silence.
 
@@ -3661,7 +3661,7 @@ NARRATOR
 Chapter Thirty-Two
 The Breakout of X10
 Altafjord to Sørøya, Northern Norway
-18:00, 22 September – Dusk, 27 September 1943
+18:00, 22 September - Dusk, 27 September 1943
 
 The surface broke in twilight.
 
@@ -3796,7 +3796,7 @@ Hudspeth reviewed the final operational signal table.
 
 There was one last, desperate rendezvous point logged in the Admiralty annex - Øfjord.
 
-Located twenty miles to the west, on the extreme north-western tip of Sørøya, Øfjord was a deep, fjord-cleft open to the sea. The mother submarine HMS Stubborn had been instructed to make a final, dangerous surface sweep into the mouth of Øfjord during the night of 27–28 September before abandoning the Norwegian coast and returning to Scotland.
+Located twenty miles to the west, on the extreme north-western tip of Sørøya, Øfjord was a deep, fjord-cleft open to the sea. The mother submarine HMS Stubborn had been instructed to make a final, dangerous surface sweep into the mouth of Øfjord during the night of 27-28 September before abandoning the Norwegian coast and returning to Scotland.
 
 At dawn on 27 September, X10 weighed her kedge anchor.
 
@@ -3817,7 +3817,7 @@ NARRATOR
 Chapter Thirty-Three
 The Meeting in Øfjord
 Mouth of Øfjord, Sørøya Island (70°41′ N, 22°45′ E)
-Night of 27–28 September 1943
+Night of 27-28 September 1943
 
 The dark was total. In the deep shadow cast by the two-thousand-foot granite precipices of north-western Sørøya, the sea had no horizon—only the white, phosphorescent line of breakers smashing against the jagged offshore skerries.
 
@@ -3968,7 +3968,7 @@ NARRATOR
 Chapter Thirty-Four
 The Scuttle in the Gale
 The Norwegian Sea (66°13′ N, 04°02′ E)
-28 September – 3 October 1943
+28 September - 3 October 1943
 
 For five days and five nights, HMS Stubborn dragged X10 across eight hundred miles of empty, gray ocean.
 
@@ -4099,7 +4099,7 @@ NARRATOR
 Chapter Thirty-Five
 The Shadow of the Order
 Tromsø, Norway to Dulag Luft, Oberursel, Germany
-Late September – October 1943
+Late September - October 1943
 
 The six survivors were kept separated in unheated concrete holding cells beneath the German naval command building in Tromsø.
 
@@ -4199,7 +4199,7 @@ NARRATOR
 Chapter Thirty-Six
 The Crippled Beast
 Admiralty, Whitehall, London & Kåfjord, Norway
-Late September 1943 – February 1944
+Late September 1943 - February 1944
 
 The first confirmation arrived not through naval signals, but on twelve-inch photographic plates developed in a darkroom at RAF Leuchars.
 
@@ -4301,7 +4301,7 @@ Lieutenant Donald Cameron, RNR
 
 Lieutenant Basil Charles Godfrey Place, DSC, RN
 
-The citations noted that the decorations were awarded “for most conspicuous gallantry and undaunted devotion to duty.” Because both officers were prisoners of war, the medals were formally handed to their wives by King George VI at Buckingham Palace while Cameron and Place remained in Compound 'O' at Westertimke.
+The citations noted that the decorations were awarded "for most conspicuous gallantry and undaunted devotion to duty." Because both officers were prisoners of war, the medals were formally handed to their wives by King George VI at Buckingham Palace while Cameron and Place remained in Compound 'O' at Westertimke.
 
 The remaining officers and ratings who entered the fjord received high decorations:
 

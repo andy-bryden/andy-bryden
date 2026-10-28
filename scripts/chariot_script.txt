@@ -189,7 +189,7 @@ Chariot. The raid on Saint-Nazaire, 1942.
 Chapter One
 The Shadow of Tirpitz
 Whitehall, London
-Winter, 1941–1942
+Winter, 1941-1942
 
 The Admiralty War Room smelled of damp wool, pipe tobacco, and the ozone off teleprinter ribbons. Down here, beneath feet of reinforced concrete, the war was reduced to coloured grease pencils crawling across the Atlantic basin.
 
@@ -553,7 +553,7 @@ NARRATOR
 Chapter Five
 The Wooden Flotilla
 Carrick Roads, Falmouth
-24–25 March 1942
+24-25 March 1942
 
 The broad, sheltered anchorage of Carrick Roads was slick with an oily sheen under an overcast Cornish sky.
 
@@ -663,7 +663,7 @@ NARRATOR
 Chapter Six
 Force Z Put to Sea
 The Western Approaches
-26 March, 14:00 – Night of 26/27 March 1942
+26 March, 14:00 - Night of 26/27 March 1942
 
 Once clear of the Black Rock at the entrance to Falmouth, the shelter of the Cornish headlands fell away. The Atlantic opened before them - a vast, rolling slate-grey wilderness topped with breaking whitecaps.
 
@@ -732,7 +732,7 @@ NARRATOR
 Chapter Seven
 The Periscope at 07:20
 Bay of Biscay
-27 March 1942, 07:20 – 09:00
+27 March 1942, 07:20 - 09:00
 
 Two miles off the port bow of HMS Tynedale, a slim, dark blade cut a furrow through the low morning swell. Behind it rose the rounded iron lip of a conning tower, shedding a sheet of grey foam.
 
@@ -830,7 +830,7 @@ NARRATOR
 Chapter Eight
 The Breton Trawlers
 Bay of Biscay, 50 Miles off Saint-Nazaire
-27 March 1942, 11:50 – 14:00
+27 March 1942, 11:50 - 14:00
 
 Through the thinning sea haze, tan canvas sails caught the pale midday sun.
 
@@ -920,7 +920,7 @@ NARRATOR
 Chapter Nine
 The Beacon in the Shallows
 Point 'Z', Approaches to the Loire Estuary
-27 March 1942, 22:00 – 22:45
+27 March 1942, 22:00 - 22:45
 
 The shadow on the water did not rise and fall with the sea. It sat motionless, low and flat, a dark blade of wet steel cutting the surface forty miles off the French coast.
 
@@ -988,7 +988,7 @@ NARRATOR
 Chapter Eleven
 The Sky Betrayal
 Airspace over Saint-Nazaire & German Naval HQ
-28 March 1942, 00:00 – 01:00
+28 March 1942, 00:00 - 01:00
 
 Above the Loire, the sky was a blind, frozen vault.
 
@@ -1043,7 +1043,7 @@ NARRATOR
 Chapter Twelve
 The Estuary Gates
 The Lower Loire, off Villès-Martin
-28 March 1942, 01:15 – 01:21
+28 March 1942, 01:15 - 01:21
 
 The water deepened beneath the keels. The brown, dragging silt of the flats gave way to the black, slate-smooth surface of the main navigation trench.
 
@@ -1124,7 +1124,7 @@ NARRATOR
 Chapter Thirteen
 The Five-Minute Bluff
 The Inner Loire, off Villès-Martin
-28 March 1942, 01:22 – 01:27
+28 March 1942, 01:22 - 01:27
 
 Leading Signalman Pike did not blink against the blue-white glare of the carbon-arcs.
 
@@ -1229,7 +1229,7 @@ NARRATOR
 Chapter Fourteen
 The Estuary Ignites
 The Loire Channel, Approaching the Avant-Port
-28 March 1942, 01:28 – 01:33
+28 March 1942, 01:28 - 01:33
 
 A star-shell burst directly over Campbeltown's mainmast, bathing the river in a harsh, cold magnesium daylight.
 
@@ -1360,7 +1360,7 @@ NARRATOR
 Chapter Sixteen
 Disembarking into Hell
 Normandie Dock Outer Caisson & Quayside
-28 March 1942, 01:35 – 01:45
+28 March 1942, 01:35 - 01:45
 
 The bamboo scaling ladders clattered against the caisson plating.
 
@@ -1442,7 +1442,7 @@ NARRATOR
 Chapter Seventeen
 Forty Feet Underground
 Main Pumping Station, Normandie Dock
-28 March 1942, 01:45 – 02:00
+28 March 1942, 01:45 - 02:00
 
 The external entrance to the Main Pumping Station was a pair of heavy iron double doors set flush into a blast wall.
 
@@ -1563,7 +1563,7 @@ NARRATOR
 Chapter Eighteen
 Winding Houses and Winches
 Normandie Dock, North and South Quays
-28 March 1942, 01:50 – 02:15
+28 March 1942, 01:50 - 02:15
 
 The subterranean shockwave from Chant's detonation rumbled through the granite coping stones, vibrating up through the soles of Captain Bob Montgomery's boots.
 
@@ -1632,7 +1632,7 @@ NARRATOR
 Chapter Nineteen
 The Slaughter at the Old Mole
 The River Loire, off the Old Mole
-28 March 1942, 01:40 – 02:15
+28 March 1942, 01:40 - 02:15
 
 Four hundred yards south of the Normandie Dock, jutting two hundred feet into the Loire like an outstretched stone finger, lay the Old Mole—La Vieille Jetée.
 
@@ -1692,7 +1692,7 @@ NARRATOR
 Chapter Twenty
 The Crushed Landing at the Old Entrance
 The Old Entrance (Vieille Entrée), Saint-Nazaire
-28 March 1942, 01:45 – 02:20
+28 March 1942, 01:45 - 02:20
 
 Three hundred yards upriver from the butchery at the Old Mole, the river opened into the narrow channel of the Old Entrance—the original tidal lock leading into the Saint-Nazaire basin.
 
@@ -1755,7 +1755,7 @@ NARRATOR
 Chapter Twenty-One
 Savage at the Pom-Pom
 The River Loire & Avant-Port
-28 March 1942, 01:45 – 02:25
+28 March 1942, 01:45 - 02:25
 
 At 01:45, MGB 314 nosed her mahogany stem against the stone slipway of the Old Entrance just long enough for Lieutenant Colonel Newman and his five headquarters staff to leap ashore onto the quay.
 
@@ -1804,7 +1804,7 @@ NARRATOR
 Chapter Twenty-Two
 The Submerged Torpedoes
 The Avant-Port & Old Entrance
-28 March 1942, 02:15 – 02:35
+28 March 1942, 02:15 - 02:35
 
 Sub-Lieutenant Mickey Wynn handled MTB 74 like an offshore racing boat.
 
@@ -1880,7 +1880,7 @@ NARRATOR
 Chapter Twenty-Three
 Scuttling the Ram
 HMS Campbeltown, Normandie Dock Caisson
-28 March 1942, 02:20 – 02:40
+28 March 1942, 02:20 - 02:40
 
 In the forward mess deck, the air was choking with cordite smoke, the smell of burning lagging, and the sharp, almond scent of high explosive.
 
@@ -1973,7 +1973,7 @@ NARRATOR
 Chapter Twenty-Four
 The Empty River
 The Quayside & Old Entrance
-28 March 1942, 02:30 – 02:45
+28 March 1942, 02:30 - 02:45
 
 Lieutenant Colonel Charles Newman stood by the brick wall of a transit shed near the Old Entrance, his Thompson submachine gun resting against his hip.
 
@@ -2047,7 +2047,7 @@ NARRATOR
 Chapter Twenty-Five
 The Three Orders
 Transit Shed, Old Entrance
-28 March 1942, 02:45 – 03:00
+28 March 1942, 02:45 - 03:00
 
 Inside the transit shed, the air was cold, smelling of raw concrete, damp cardboard, and iodine.
 
@@ -2159,7 +2159,7 @@ NARRATOR
 Chapter Twenty-Six
 The Charge Across Pont Roulant
 Pont Roulant, Saint-Nazaire
-28 March 1942, 03:00 – 03:30
+28 March 1942, 03:00 - 03:30
 
 The transit shed's corrugated sliding door ground open four feet.
 
@@ -2245,7 +2245,7 @@ NARRATOR
 Chapter Twenty-Seven
 Street Fighting in the Dark
 Saint-Nazaire Town
-28 March 1942, 03:30 – 05:00
+28 March 1942, 03:30 - 05:00
 
 The town was a maze of high granite walls, narrow cobblestone streets, and shuttered two-story houses smelling of coal ash and wet slate.
 
@@ -2319,7 +2319,7 @@ NARRATOR
 Chapter Twenty-Eight
 The Last Stand of ML 306
 The Outer Estuary, Bay of Biscay
-28 March 1942, 05:30 – 06:30
+28 March 1942, 05:30 - 06:30
 
 Four miles west of the Pointe de Chémoulin, where the brown river water met the long, rolling swell of the open Atlantic, ML 306 was limping toward England.
 
@@ -2407,7 +2407,7 @@ NARRATOR
 Chapter Twenty-Nine
 The Trapped and the Cordon
 Saint-Nazaire Town
-28 March 1942, 06:00 – 08:30
+28 March 1942, 06:00 - 08:30
 
 The dawn brought no warmth, only a flat, grey light that exposed the narrow layout of the streets.
 
@@ -2502,7 +2502,7 @@ NARRATOR
 Chapter Thirty
 The Inspection Party
 The Normandie Dock & German Naval Headquarters, Saint-Nazaire
-28 March 1942, 08:30 – 10:34
+28 March 1942, 08:30 - 10:34
 
 By mid-morning, the estuary fog had thinned under a pale spring sun, laying bare the physical wreckage of the night.
 
@@ -2604,7 +2604,7 @@ The regulator clock on the wall clicked forward one minute.
 
 NARRATOR
 Chapter Thirty-One
-10:35 – The Amatol Thunderclap
+10:35 - The Amatol Thunderclap
 The Normandie Dock & Saint-Nazaire
 28 March 1942, 10:35
 
@@ -2671,7 +2671,7 @@ NARRATOR
 Chapter Thirty-Two
 The Panic Massacres
 Saint-Nazaire Port & Town
-28–29 March 1942
+28-29 March 1942
 
 The column of smoke from the Normandie Dock rose two thousand feet into the sky, a black, oily smear visible from thirty miles across the plains of the Loire-Inférieure.
 
@@ -2785,7 +2785,7 @@ NARRATOR
 Chapter Thirty-Four
 The Long Walk to Gibraltar
 France, Spain, and Whitehall
-April 1942 – 1948
+April 1942 - 1948
 
 They moved by night, keeping off the paved roads.
 

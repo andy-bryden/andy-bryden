@@ -177,7 +177,7 @@ The freeze in Glenisla was clean, thin, and bitter. It rolled down off the barre
 Dalnaglar was a Victorian baronial hunting lodge of rough-hewn stone and Gothic turrets, requisitioned by the British Special Operations Executive and designated by the Office of Strategic Services as Area P. For three months, it had served as the secret winter proving ground for the eighty-odd officers and enlisted men of the Norwegian Operational Group—NORSO.
 In an unheated ground-floor study beneath a mounted stag's head, Major William Egan Colby sat at a trestle table, his army overcoat buttoned to his chin. At twenty-five, Colby possessed the spare, slight build and quiet demeanor of a scholar. Behind wire-rimmed spectacles, his pale blue eyes moved methodically down the mimeographed pages of the detachment's personnel rosters.
 He was newly appointed to command. Behind him lay a successful Jedburgh guerrilla tour in occupied France, where he had coordinated maquis ambushes in the Haute-Loire. Before him sat a dossier of men who looked nothing like the French partisans he had left behind -
-OISTAD, Leif. T/Sgt. Born Oslo, Norway, 1922. Merchant Marine, 1939–1941. Enlisted Minneapolis, MN. Languages Norwegian (fluent), English.
+OISTAD, Leif. T/Sgt. Born Oslo, Norway, 1922. Merchant Marine, 1939-1941. Enlisted Minneapolis, MN. Languages Norwegian (fluent), English.
 MORK, Glen. Sgt. Born North Dakota. Farmer/Logger. 99th Inf. Bn (Sep).
 PAULSON, Alf. T/4. Born Crosby, Minnesota. Miner/Mechanic.
 IVERSON, Bernard N. T/5. Demolitions.
@@ -410,7 +410,7 @@ Twenty minutes later, Colby was back in the sedan heading north toward Milton Ha
 NARRATOR
 Chapter Three
 RAF Harrington (Station 179)
-The convoy of olive-drab canvas GMC six-by-six trucks turned off the narrow country lane and rattled through the guarded perimeter gate of Station 179. A wooden signboard, blackened by rain and exhaust soot, marked the boundary - USAAF Station 179 – Harrington.
+The convoy of olive-drab canvas GMC six-by-six trucks turned off the narrow country lane and rattled through the guarded perimeter gate of Station 179. A wooden signboard, blackened by rain and exhaust soot, marked the boundary - USAAF Station 179 - Harrington.
 To the passing eye, Harrington looked like any of the dozens of heavy bomber installations carved out of the Northamptonshire farmland. But beneath the routine exterior, it operated under a different protocol. The runways were long concrete ribbons flanked by low Nissen huts, dispersal pens, and towering green blister hangars. Stationed here were the men of the 856th and 858th Bombardment Squadrons of the 492nd Bombardment Group—the secret air wing known throughout the European Theater simply as the Carpetbaggers.
 Colby stepped down from the cab of the lead truck into the cold wind blowing across the tarmac. Lieutenant Jones and Sergeant Oistad were already dropping the tailgates of the trucks behind him, where thirty-four men of NORSO, bundled in heavy wool overcoats and knit watch caps, began unloading duffel bags, crates of ski wax, and wooden weapons chests.
 Walking toward them across the oily concrete was a USAAF captain in a sheepskin B-3 flight jacket, an unlit cigar clamped between his teeth.
@@ -630,7 +630,7 @@ Colby turned and walked back into the rain, the heavy oak door clicking shut beh
 
 NARRATOR
 Chapter Five
-Green Light – March 24, 1945
+Green Light - March 24, 1945
 The dusk of March 24 came without rain.
 Across the flat expanse of Station 179, the wind shifted out of the northwest—clean, thin, and carrying the dry, metallic chill of high-altitude frost. In the perimeter dispersal revetments, the ground crews of the 492nd Bombardment Group worked under hooded flashlights, pulling canvas covers from the pitot tubes and running final mechanical checks on the bomb-bay shackle releases.
 At 1800 hours, the Harrington mess hall served the traditional combat meal - thick T-bone steaks, fried potatoes, and white bread with real butter. To the men of the Norwegian Operational Group, the spread was an unmistakable signal.
@@ -1959,7 +1959,7 @@ Lootenant Sather, look at the bright side. We get to do it the Army way after al
 
 NARRATOR
 Chapter Twenty-Two
-Charges on the Girders (April 14–15)
+Charges on the Girders (April 14-15)
 At 2300 hours on the night of April 14, the twenty-three men slipped down through the final belt of black spruce to the railway bed.
 The night was bitter and still, the air hovering near twenty-six degrees. The tracks ran on a raised bed of crushed rock ballast, curving gently between the granite rock face on the east and the dark, ice-fringed waters of Lake Øyningen to the west.
 Colby dropped to one knee in the brush beside the rail bed, raising his hand. Behind him, the column melted instantly into the shadow of the pines.
@@ -2207,7 +2207,7 @@ The Liberator banked steeply over the timberline, dipped its wings in salute, an
 Out on the lake, the commandos moved quickly on their skis, hauling the heavy cylindrical canisters to the farmhouse yard on sledges.
 Inside the barn, Colby, Oistad, and Farnsworth pried open the sheet-metal lids with crowbars. The containers were packed to the brim - three thousand pounds of Composition C-2 plastic explosive in fresh wooden crates, coils of yellow Primacord, blasting caps, cases of .30 caliber and 9mm ammunition, submachine guns, five complete sets of olive-drab U.S. Army field uniforms, and five pairs of heavy leather mountain combat boots.
 At the bottom of the third canister, packed between wool blankets and ration cartons, sat a wooden crate with stenciled black lettering -
-DOLE PINEAPPLE COMPANY – HONOLULU, TERRITORY OF HAWAII
+DOLE PINEAPPLE COMPANY - HONOLULU, TERRITORY OF HAWAII
 
 OISTAD
 <low whistle>
@@ -2269,7 +2269,7 @@ OISTAD
 Yes, sir.
 
 NARRATOR
-Colby turned back to the map pinned to the kitchen table. He tapped the pencil against the northern stretch of the Nordland Line—the Agle–Lurudalen sector, fifteen miles north of Snåsa.
+Colby turned back to the map pinned to the kitchen table. He tapped the pencil against the northern stretch of the Nordland Line—the Agle-Lurudalen sector, fifteen miles north of Snåsa.
 
 COLBY
 (looking at Lieutenant Glen Farnsworth)
@@ -2303,7 +2303,7 @@ The eighteen men stepped off into the mountain dusk at 1800 hours on April 23, h
 The conditions for the second raid were markedly different from the agonizing crawl to Tangen.
 Equipped with fresh, dry combat boots and re-waxed hickory skis, the commandos moved with rapid, rhythmic strides across the high plateau. The sledges—loaded with three hundred pounds of Composition C-2, wooden reels of Primacord, friction igniters, and canvas bags of British rail-cutting charges—glided smoothly over the refrozen crust.
 Colby led the column, his compass set on an azimuth of three-three-zero. Beside him skied Technical Sergeant Leif Oistad, now back in American olive-drab with his Grease Gun slung tight across his chest, and Lieutenant Glen Farnsworth, whose pockets bulged with rolls of black friction tape and brass crimping pliers.
-By 0130 hours on the morning of April 24, they reached the dense spruce forest overlooking the Lurudal–Agle rail corridor.
+By 0130 hours on the morning of April 24, they reached the dense spruce forest overlooking the Lurudal-Agle rail corridor.
 Here, fifteen miles north of Snåsa, the Nordland Line sliced through a narrow mountain defile, twisting through steep rock cuts and hugging the base of granite ledges. The terrain offered ideal tactical cover - thick timber reached down within twenty paces of the ballast, providing instant concealment for withdrawing skiers.
 Colby halted the men in the shadow of a spruce grove, fifty yards above the rail bed.
 The valley was silent, save for the whisper of the wind through the pines. Down along the tracks, the steel rails gleamed faintly in the moonlight, cold and empty.
@@ -2672,7 +2672,7 @@ The first blood had been spilled on the mountain threshold. Now, they waited for
 
 NARRATOR
 Chapter Thirty-Two
-May 8 – The Ceasefire Dilemma
+May 8 - The Ceasefire Dilemma
 On May 5, a Milorg courier arrived from the Swedish border outpost at Gäddede with news that broke the lingering dread in the farmhouse - Karle Berre was alive.
 The Swedish army surgeons had operated within hours of the pulk's arrival, extracting the 7.92mm slug from his lower intestines and sewing the perforated bowel. He was heavily dosed with penicillin and resting under guard in the county clinic.
 At Gjefsjøen, the days following the May 2 firefight had passed in agonizing tension. Every morning, Colby expected the drone of Fieseler Storch reconnaissance planes or the sight of a German mountain company advancing in extended skirmish line across the ice of the lake to avenge their missing patrol.
@@ -2745,7 +2745,7 @@ Outside, the mist was rising off Lake Gjefsjøen under a pale, triumphant sun, b
 
 NARRATOR
 Chapter Thirty-Three
-Descending the Mountain (May 10–17, 1945)
+Descending the Mountain (May 10-17, 1945)
 The evacuation of the mountain base at Gjefsjøen began at dawn on May 10.
 Around the farmstead, the paraphernalia of an unacknowledged war was disassembled and secured. In the stabbur, Technician Børge Langeland boxed the B-Mark II wireless set into its olive-drab transit case; the spare reels of Primacord and cases of Composition C-2 were inventoried and locked inside the stone potato cellar beneath the barn to await collection by the Norwegian military authorities.
 Before stepping off, the twenty-one Americans assembled in the yard.
@@ -2841,7 +2841,7 @@ In the courtyard, his men were assembling for evening muster, standing straight 
 
 NARRATOR
 Chapter Thirty-Five
-The Disarmament and the Reckoning (Late May – Early June 1945)
+The Disarmament and the Reckoning (Late May - Early June 1945)
 With the administrative friction with Force 134 resolved, the twenty-one Americans of NORSO turned to the monumental logistical task of stabilizing Trøndelag.
 Throughout the province, the scale of the capitulation was staggering. More than sixty thousand German soldiers of the 20th Mountain Army, naval personnel from the Kriegsmarine base at Trondheim, and Luftwaffe ground staff at Værnes were concentrated into designated cantonments and internment enclosures.
 Under the terms enforced by the Allied command, German units retained their internal company discipline under their own non-commissioned officers, but their teeth had been pulled. Over three weeks, Colby's detachment worked alongside Herbert Helgesen, Milorg District 21, and the arriving Norwegian police detachments to supervise the disarmament.

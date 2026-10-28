@@ -4,7 +4,7 @@
  Chapter One
  Mr. Strong in the Heat
  Khartoum, Anglo-Egyptian Sudan
-  July 3–8, 1940
+  July 3-8, 1940
  The temperature inside the shuttered villa on the southern bank of the Blue Nile hovered at one hundred and twelve degrees Fahrenheit. Outside, the midday sun burned the silt flats of Khartoum to a blinding, chalky white. Two sentries of the Sudan Defence Force, dressed in khaki drill and green wool puttees, stood motionless beneath the corrugated iron eaves of the gatehouse, their rifles held at the port. They had orders from the Kaid—Lieutenant-General William Platt—that no unauthorized person, civilian or military, was to enter the compound, and that the diminutive gentleman residing inside was not to step past the gravel driveway under any circumstances.
  In the official movement logs of British Middle East Command in Cairo, the passenger who had stepped off the Short Sunderland flying boat onto the river at dawn on July 3 did not exist. The manifests from RAF Hendon through Gibraltar, Malta, Alexandria, and Wadi Halfa recorded only the transit of a "Mr. E. Strong," a colonial civil servant traveling on priority imperial business.
  Inside the drawing room, beneath a slowly circling three-bladed ceiling fan that did nothing more than displace the dead heat, Emperor Haile Selassie I sat upright in a high-backed cane chair. He was forty-seven years old, slight of bone, with an immaculate black beard trimmed close to the jawline and dark, hooded eyes that gave nothing away. He wore a dark, heavy European suit, refusing the concession of open-collared tropical linen. Across the low table sat Edwin Chapman-Andrews, a former British vice-consul in Addis Ababa, now commissioned as a major in the field intelligence branch and appointed as the political liaison officer to the exiled monarch.
@@ -74,7 +74,7 @@ MISSION 101 CROSSED FRONTIER AT ROSEIRES. ALL OFFICERS SAFE. LOSSES - ONE PACK A
  Chapter Three
  The Gathering in the Caves
  Matakal and the Gojjam Highlands
-  September 18 – October 12, 1940
+  September 18 - October 12, 1940
  It took Mission 101 thirty-seven days to drag its pack train through the bamboo swamps and rising basalt shelves of the western escarpment. By the third week of September, the lowland heat had given way to the damp, bone-chilling mist of the Ethiopian highlands, eight thousand feet above sea level. Sixteen more mules had died along the razorback ridges—their lungs wrecked by pleuropneumonia, their backs stripped raw to the gristle by slipping saddles.
  The mission had established a dispersed camp in the forested ravines near the Dabus River before climbing toward the mountain redoubts of Matakal. Here, in the limestone caves and eucalyptus groves that ringed the heights, the guerrilla army of Dejazmach Mengesha Jembere had survived five years of Italian punitive expeditions. The ground bore the deep craters of 100-kilogram aerial bombs dropped by Italian Savoia-Marchetti trimotors; among the children tending the scrawny zebu cattle in the scrub, several bore the distinctive, milky corneal scarring of yperite vapor from the mustard-gas canisters sprayed across the Gojjam valleys in the spring of 1936.
  On the morning of October 8, beneath the dripping overhang of a cavern large enough to shelter two hundred head of cattle, Colonel Sandford and Captain Drew were brought before Mengesha Jembere.
@@ -116,7 +116,7 @@ MISSION 101 CROSSED FRONTIER AT ROSEIRES. ALL OFFICERS SAFE. LOSSES - ONE PACK A
  The Outcast in Cairo
  General Headquarters, Middle East Command
   Grey Pillars, Garden City, Cairo
-  October 26–28, 1940
+  October 26-28, 1940
  The headquarters of British Middle East Command occupied a requisitioned block of flats in the shaded, affluent quarter of Garden City, wrapped in sandbags and barbed wire against the possibility of Italian air raids from Libya. Inside the cool, marble-tiled corridors of "Grey Pillars," typewriters clattered behind closed doors as hundreds of staff officers in immaculate starched drill and polished Sam Browne belts plotted the defense of Egypt.
  To the west, across the Libyan desert, Marshal Graziani's Tenth Army had ground to a halt at Sidi Barrani after invading western Egypt six weeks earlier. General Sir Archibald Wavell was secretly preparing a counterstroke—Operation Compass—with every tank and 25-pounder gun he could muster. To the south, in Italian East Africa, three hundred thousand Italian and colonial troops under Prince Amedeo, Duke of Aosta, remained an intact, looming threat against the Sudan, Kenya, and the Red Sea shipping lanes through which British convoys from India and Australia had to pass.
  Wavell sat behind a broad mahogany desk on the second floor. He was fifty-seven, thickset, with a weathered, impassive face and a blind left eye lost at Ypres in 1915. Across the blotter lay the signal that had arrived thirty-six hours earlier from the high ridges of Matakal—the cipher signed by Daniel Sandford demanding a striking spearhead and an irregular commander of exceptional drive.
@@ -211,7 +211,7 @@ MISSION 101 CROSSED FRONTIER AT ROSEIRES. ALL OFFICERS SAFE. LOSSES - ONE PACK A
  Chapter Six
  The Sakala Flight
  Sakala, Gojjam Province, and Roseires, Sudan
-  November 20 – December 4, 1940
+  November 20 - December 4, 1940
  At dawn on November 20, a single fabric-covered RAF Vickers Wellesley of No. 47 Squadron bounced across the rutted dirt strip at Roseires, climbed steeply through the thermal haze of the Blue Nile basin, and turned east into Italian airspace.
  Inside the narrow, unheated cockpit behind the pilot sat Orde Wingate, a sheepskin coat pulled over his faded drill tunic, a folded ordnance survey map clamped between his knees. Wedged beside him was Makonnen Desta, an American-educated Ethiopian royalist who had spent four years in exile and now served as Haile Selassie's political secretary. Below the starboard wing, the brown savannah of the border lowlands rolled past, giving way without warning to the colossal volcanic wall of the Gojjam escarpment—thousands of feet of gray and black basalt, gashed by labyrinthine ravines and draped in heavy morning cloud.
  Ninety minutes into the flight, the pilot cut the throttle, banking into a narrow, high-altitude valley near Sakala, close to the sacred source of the Little Abbai. On a sloping, grass-covered meadow cleared by Arbegnoch axes between two eucalyptus groves, a row of smoky smudge-pots burned. The Wellesley's tires touched down hard on the hummocky turf, skidding sixty yards through the wet wild clover before halting near a cluster of hidden thatched huts.
@@ -258,7 +258,7 @@ MISSION 101 CROSSED FRONTIER AT ROSEIRES. ALL OFFICERS SAFE. LOSSES - ONE PACK A
  Chapter Seven
  The Soba Muster
  Soba Training Camp, Anglo-Egyptian Sudan
-  December 6–22, 1940
+  December 6-22, 1940
  Six miles south of Khartoum, on a flat pan of baked alluvial clay between the railway line and the Blue Nile, lay the cantonment of Soba. In December, the dry north wind blew fine, alkaline dust through the gaps in the mud-brick barracks and billowed the fly-sheets of hundreds of canvas ridge tents.
  Here, British Middle East Command had concentrated the regular spearhead of what was now formally designated Gideon Force.
  The force consisted of two distinct infantry formations. The first was the 4th Sudan Frontier Battalion, an elite unit of the Sudan Defence Force commanded by Lieutenant-Colonel Hugh Boustead. The battalion numbered roughly eight hundred men organized into four rifle companies, recruited primarily from Sudanese and border tribesmen, with British company commanders and Sudanese subalterns (mulazimin). They were disciplined, experienced desert soldiers, armed with standard Lee-Enfield .303 rifles and Lewis guns, trained in conventional infantry maneuvers.
@@ -298,7 +298,7 @@ MISSION 101 CROSSED FRONTIER AT ROSEIRES. ALL OFFICERS SAFE. LOSSES - ONE PACK A
  Chapter Eight
  The Flesh of the Camel
  Gedaref and Roseires Staging Depots, Anglo-Egyptian Sudan
-  January 2–14, 1941
+  January 2-14, 1941
  The dust along the railway siding at Gedaref hung in a motionless, copper-colored fog that smelled of dry manure, rancid suet, and carbolic acid. Under the scorching midday sun, spread across two square miles of scrub cleared between the railhead and the seasonal Atbara tributaries, was the greatest assembly of pack animals gathered in the Nile Valley since Kitchener's march on Omdurman.
  Nearly fifteen thousand camels, requisitioned by the Sudan Political Service from the Shukriya, Hadendoa, and Beni Amer nomads of the eastern provinces, were tethered in sprawling picket lines by their head-ropes.
  Beside them lay vast open dumps of ordnance shipped south from the British supply depots in Alexandria and Port Sudan - twelve thousand wooden crates of Lee-Enfield .303 ammunition; four thousand galvanized zinc tins of 6.5-millimeter Italian rifle cartridges; five thousand cases of high-explosive and smoke bombs for 3-inch mortars; bundles of picks, shovels, and barbed wire; and hundreds of wicker hampers packed with medical supplies, morphia, and field dressings.
@@ -342,7 +342,7 @@ MISSION 101 CROSSED FRONTIER AT ROSEIRES. ALL OFFICERS SAFE. LOSSES - ONE PACK A
  Chapter Nine
  The Naming of Gideon
  The Roseires Compound, Anglo-Egyptian Sudan
-  January 15–19, 1941
+  January 15-19, 1941
  The arrival of the imperial convoy on the evening of January 15 transformed the frontier outpost of Roseires into an armed camp taut with political and military tension. Emperor Haile Selassie had traveled the four hundred miles south from Khartoum over bone-jarring dirt roads in a convoy of requisitioned Humber staff cars, escorted by a detachment of Sudanese motor-machine-gun troops. With him came the Crown Prince, Asfaw Wossen, his personal chaplain, and his small royal household.
  Across the compound, beneath the vast, dry canopies of wild fig trees along the riverbank, the officers of the operational spearhead were summoned to the mud-brick headquarters on the night of January 17.
  Inside the mess room, lit by the yellow, smoky flare of three hurricane lanterns hanging from the roof beams, the operational staff of the expedition gathered around a trestle table covered with linen-backed maps.
@@ -425,7 +425,7 @@ MISSION 101 CROSSED FRONTIER AT ROSEIRES. ALL OFFICERS SAFE. LOSSES - ONE PACK A
  Chapter Eleven
  The Tsetse Corridor
  The Dinder River Basin, Western Lowlands
-  January 21–27, 1941
+  January 21-27, 1941
  East of Um Idla, the map ceased to have meaning. The country was a vast, unmapped furnace of flat savannah, fractured by dry, boulder-strewn watercourses (khors) and covered in dense, suffocating thickets of gray thornbush, dry bamboo, and razor-sharp elephant grass that stood eight feet high. The temperature reached one hundred and ten degrees by mid-morning, radiating upward from the hard, cracked silt until the horizon dissolved into a shimmering lake of heat mirages.
  The mechanized echelon of Gideon Force survived less than forty-eight hours.
  The thirty requisitioned 15-cwt Ford trucks and staff cars had been intended to ferry the imperial luggage, wireless generators, and the heavy 3-inch mortar ammunition as far as the advanced supply dumps. There were no tracks, only overgrown elephant paths blocked by fallen baobabs and jagged basalt outcroppings. The trucks moved by brute force - soldiers of the 2nd Ethiopian Battalion marched ahead with axes and machetes, hacking pathways through the thorn, while Sudanese infantry dragged timber baulks under spinning rear wheels.
@@ -475,7 +475,7 @@ MISSION 101 CROSSED FRONTIER AT ROSEIRES. ALL OFFICERS SAFE. LOSSES - ONE PACK A
  Chapter Twelve
  The Slaughter of the Escarpment
  The Kigol Cleft, Mount Belaya
-  January 28 – February 4, 1941
+  January 28 - February 4, 1941
  At the base of Mount Belaya, the water was as cold and sweet as Sandford had promised, bubbling from volcanic fissures into deep, clear basalt basins before disappearing into the sand of the Balas. For twenty-four hours, the men of Gideon Force and the surviving animals drank until their bellies swelled.
  Then began the ascent of the rock.
  Mount Belaya rose nearly three thousand feet above the yellow scrub of the lowlands in an unbroken wall of black and gray volcanic basalt. Its slopes were not dirt, but a chaotic avalanche of loose shale, jagged boulders, and vertical rock ledges tilted at angles of forty-five to sixty degrees. The only route to the high plateau was the Kigol Cleft—a narrow, serpentine ravine cut by seasonal torrents, barely wide enough in places for two men to walk abreast.
@@ -523,7 +523,7 @@ MISSION 101 CROSSED FRONTIER AT ROSEIRES. ALL OFFICERS SAFE. LOSSES - ONE PACK A
  Chapter Thirteen
  The Fortress of Belaya
  Mount Belaya Plateau
-  February 5–10, 1941
+  February 5-10, 1941
  On the summit of Mount Belaya, seven thousand feet above sea level, the climate punished bodies already wrecked by the lowlands. At midday, the mountain sun burned clear and hot through the thin air; by midnight, the temperature plunged into the low thirties, sending freezing ground mists rolling across the damp wild clover. The men of the 4th Sudan Frontier Battalion and the 2nd Ethiopian Battalion, who had marched through one hundred and ten degrees forty-eight hours earlier in thin drill cotton, had abandoned most of their heavy blankets on the bloody ledges of the Kigol cleft. They spent the nights huddled in shivering clusters around smoky cedar-root fires inside deep volcanic fissures.
  By the morning of February 6, Wingate had established his operational headquarters beneath a sprawling canopy of giant wild fig trees near the southern rim of the plateau.
  Beside a canvas bivouac fly, Lieutenant Abraham Akavia and Captain Donald Drew sat on two upturned packing cases, compiling the operational inventory from the surviving unit quartermasters.
@@ -567,7 +567,7 @@ MISSION 101 CROSSED FRONTIER AT ROSEIRES. ALL OFFICERS SAFE. LOSSES - ONE PACK A
  Chapter Fourteen
  The Feudal Council
  The Belaya Plateau
-  February 11–13, 1941
+  February 11-13, 1941
  By the morning of February 11, the cold green summit of Mount Belaya had become the camp of an ancient, feudal empire. Nearly four thousand Arbegnoch warriors, led up from the river chasms by Dejazmach Mengesha Jembere, had pitched their rough brushwood shelters across the meadows. They were joined by the detachments of minor Gojjami chiefs—men who had lived for half a decade as outlaws in the limestone caves - Lij Hailu Belew, Dejazmach Negash Bezabeh's envoys, and guerrilla leaders from the Lake Tana basin.
  The camp was a spectacle of medieval African chivalry. Highland warriors wore capes of black sheepskin or the manes of Ethiopian lions, their curved gurade swords strapped over their hips, their shoulders draped in silver-fringed shields of rhinoceros hide.
  Before the Emperor's royal tent—a large double-fly canvas marquee dropped by an RAF Wellesley three days earlier—the warriors performed the fukera - the traditional boast of martial fealty. One by one, barefoot chieftains rushed toward the tent, leaping into the air, brandishing antique Gras rifles, stabbing their spears into the turf at Haile Selassie's feet, and screaming their lineages, their battle names, and the count of Italian Ascari they had killed in the mountain passes.
@@ -612,7 +612,7 @@ MISSION 101 CROSSED FRONTIER AT ROSEIRES. ALL OFFICERS SAFE. LOSSES - ONE PACK A
  Chapter Fifteen
  The Approach to Matakal
  The Matakal Trail, Western Gojjam
-  February 14–19, 1941
+  February 14-19, 1941
  The descent from the eastern rim of the Belaya plateau was a vertical scramble through loose basalt scree and dry thorn. Over forty-eight hours, the fourteen hundred regulars of Gideon Force slipped and slid down three thousand feet of rock into the rolling, undulating scrub of the Matakal district.
  Behind them, on the cold summit of Belaya, Emperor Haile Selassie remained with his royal household, his imperial bodyguard, and a rearguard detachment of the 2nd Ethiopian Battalion under Captain Donald Drew, guarding the emergency landing strip and the surviving reserve stores. Ahead, moving three days in advance through the tangled river valleys, four thousand Arbegnoch under Dejazmach Mengesha Jembere had fanned out like a screen of wolves, cutting telegraph lines between Dangila and Burye and ambushing isolated Italian road patrols.
  Wingate marched at the head of the main body, accompanied by the 4th Sudan Frontier Battalion and the assault companies of the 2nd Ethiopians.
@@ -654,7 +654,7 @@ MISSION 101 CROSSED FRONTIER AT ROSEIRES. ALL OFFICERS SAFE. LOSSES - ONE PACK A
  Chapter Sixteen
  The Forts of Burye
  Burye Perimeter, Gojjam
-  February 20–25, 1941
+  February 20-25, 1941
  The fortified position of Burye sat across the principal trade route connecting Lake Tana with the Blue Nile, straddling a high volcanic ridge surrounded by terraced slopes and cultivated valleys. To turn the town into an unassailable bastion, Colonel Leopoldo Natale had constructed five self-contained redoubts atop the dominating hills - Fort Upper, Fort Lower, Church Hill, East Fort, and West Fort.
  Each redoubt was an engineering work of dry-stone breastworks, timber-reinforced firing trenches, and sandbagged pillboxes, protected by concentric belts of triple-apron concertina wire and minefields laid with Italian Breda anti-personnel shrapnel charges. In the center of the perimeter lay the open dirt landing strip and the stone barracks of the Italian resident. Natale commanded four regular colonial infantry battalions—mostly veteran Eritrean Ascari—two companies of Blackshirt militia (Camicie Nere), a squadron of colonial cavalry, and two batteries of 65-millimeter and 75-millimeter pack artillery - over five thousand men with unlimited ammunition and direct telephone lines connecting every bunker.
  Against this fortress, Wingate had brought down to the immediate perimeter barely four hundred and fifty combat effectives of the 4th Sudan Frontier Battalion and a handful of Ethiopian scouts. Major Boyle's 2nd Ethiopian Battalion had been detached to screen the trails from Dangila to the north and threaten the road toward Jigga.
@@ -689,7 +689,7 @@ MISSION 101 CROSSED FRONTIER AT ROSEIRES. ALL OFFICERS SAFE. LOSSES - ONE PACK A
  Chapter Seventeen
  Phantoms in the Wire
  Burye Perimeter, Gojjam
-  February 26 – March 1, 1941
+  February 26 - March 1, 1941
  At twenty-one hundred hours on February 26, the temperature in the valley of Burye dropped into the high forties, and a cold mountain wind began to whistle through the dry eucalyptus branches. Total darkness covered the basin; by Wingate's standing order, not a single match was struck across the four miles of scrub held by the 4th Sudan Frontier Battalion.
  Inside the perimeter of Fort Upper, eight hundred yards up the terraced slope, Italian searchlights on high timber towers snapped on, sweeping long, brilliant beams of blue-white light back and forth across the acacia gullies. The Italian garrison had been placed on maximum alert - telegraph lines to Debra Markos had been severed three times during the previous forty-eight hours by Mengesha Jembere's Arbegnoch, and the distant crump of mortar fire from the northern tracks toward Dangila had kept the colonial command awake for three consecutive nights.
  In a dry wash five hundred yards west of the Italian airstrip, Lieutenant Abraham Akavia knelt in the gravel beside a single 3-inch mortar tube. Beside him, two Sudanese soldiers held high-explosive bombs, their brass percussion fuzes gleaming in the dark.
@@ -737,7 +737,7 @@ MISSION 101 CROSSED FRONTIER AT ROSEIRES. ALL OFFICERS SAFE. LOSSES - ONE PACK A
  Chapter Eighteen
  The Taking of Fort Upper
  Fort Upper, Burye
-  March 1–2, 1941
+  March 1-2, 1941
  At twenty-two thirty hours on the night of March 1, the wind died away, leaving the hillside beneath Fort Upper shrouded in heavy mountain mist. The redoubt occupied a steep, terraced volcanic knoll rising four hundred feet above the valley floor. Its outer defenses consisted of two concentric aprons of double-strand barbed wire, reinforced with low coils of concertina wire anchored to iron pickets driven deep into the basalt shale. Behind the wire lay a dry ditch three feet deep, fronting a continuous stone breastwork with sandbagged embrasures housing heavy Breda automatics.
  In the dead ground two hundred yards below the outer wire, eighty men of No. 2 Company, 4th Sudan Frontier Battalion, lay flat on their stomachs in the cold gravel. They had stripped off their heavy webbing and packs, carrying only their Lee-Enfields, five-round chargers in their cloth bandoliers, and canvas pouches of No. 36 Mills fragmentation grenades. Their bayonets were fixed, the dull blackened steel wrapped in greasy rag strips to prevent glint under star shells.
  Major Ronnie Johnson crawled on his elbows along the line of riflemen, stopping beside Captain Donald Nott.
@@ -788,7 +788,7 @@ MISSION 101 CROSSED FRONTIER AT ROSEIRES. ALL OFFICERS SAFE. LOSSES - ONE PACK A
  Chapter Nineteen
  Natale's Collapse
  Italian Sector Command Headquarters, Burye
-  March 2–3, 1941
+  March 2-3, 1941
  Inside the whitewashed stone compound of the Residenza, half a mile south of the burning airstrip, the air smelled of scorched paper and sulfur. The headquarters of the 7th Colonial Brigade was in a state of controlled panic. In the courtyard beneath the jacaranda trees, Italian clerks hurled armfuls of personnel dossiers, cypher books, and colonial land registers into roaring gasoline fires. Outside the perimeter gates, the engines of fifty Fiat and Alfa Romeo heavy diesel lorries idled in a continuous, shuddering roar, their flatbeds crowded with wounded Ascari, Blackshirt militia, and Italian civilian settlers evacuated from the agricultural concessions.
  In the operations room, where the plaster had cracked from the concussions of Akavia's three-inch mortars, Colonel Leopoldo Natale leaned over his mahogany command desk.
  Natale was a veteran colonial officer who had served in Libya and through the 1935 campaign. His eyes were red-rimmed from seventy-two hours without sleep, his field tunic unbuttoned at the throat. Across the table stood Major Mario de Dominicis, commanding the 2nd Blackshirt Battalion (Camicie Nere), and Captain Rossi of the 75-millimeter artillery group.
@@ -832,8 +832,8 @@ MISSION 101 CROSSED FRONTIER AT ROSEIRES. ALL OFFICERS SAFE. LOSSES - ONE PACK A
 
  Chapter Twenty
  Overrun at the Charaka
- The Burye–Dembecha Road and the Charaka River Crossing
-  March 4–6, 1941
+ The Burye-Dembecha Road and the Charaka River Crossing
+  March 4-6, 1941
  The all-weather road constructed by the Italian Genio Militare cut through the volcanic foothills of the Choke Mountains like an open red ditch. Along its verges, the signs of Colonel Leopoldo Natale's sudden evacuation of Burye lay strewn for twenty miles - discarded ration tins stamped with the Fascist fasces, shattered wicker artillery baskets, bloated pack mules with their bellies split by the midday heat, and the smoldering timber skeletons of supply lorries torched by Italian rearguard pioneers when their axles snapped in the gravel ruts. At the crossroads hamlet of Jigga, the stone post-house and the thatch roofs of the market stalls were still throwing up pillars of greasy yellow smoke when the vanguard scouts of Gideon Force crept past the perimeter wire.
  Natale's formation had not dissolved into the bush. It had coiled itself into an armored, moving bastion. Halting on the night of March 4 beneath the volcanic dome of Amba Tullo to water its thousands of animals and reorganize its marching order, the 7th Colonial Brigade resumed its retreat at first light on March 5, grinding inexorably southeast toward the fortified garrison town of Dembecha.
  Between Natale and safety sat a microscopic, isolated detachment of the phantom army.
@@ -904,7 +904,7 @@ MISSION 101 CROSSED FRONTIER AT ROSEIRES. ALL OFFICERS SAFE. LOSSES - ONE PACK A
  Chapter Twenty-One
  The Gates of Dembecha
  Dembecha Cantonment and Debra Markos
-  March 6–11, 1941
+  March 6-11, 1941
  The dust thrown up by Colonel Leopoldo Natale's retreating column hung over the red clay basin of Dembecha for three miles before the trucks reached the outer wire.
  The town sat twelve hundred feet higher than Burye, nestled in the cold, rolling foothills beneath the southern shoulder of the Choke Mountains. For five years, the Italian military administration had maintained Dembecha as a vital communications link along the provincial highway connecting Lake Tana with Debra Markos and the Blue Nile crossing. The stronghold was defended by an entrenched stone fort on a dominating knoll, reinforced with masonry machine-gun casemates, deep communication trenches, and double belts of concertina wire, garrisoned by five hundred colonial Ascari and a company of Italian Blackshirt militia.
  When the lead Fiat diesel lorries of the 7th Colonial Brigade roared past the roadblock at midday on March 6, accompanied by mounted banda dragging two hundred captured British baggage camels under the whip, the garrison commander did not receive a victorious vanguard. He received an exhausted, demoralized army running on empty fuel tanks.
@@ -986,7 +986,7 @@ MISSION 101 CROSSED FRONTIER AT ROSEIRES. ALL OFFICERS SAFE. LOSSES - ONE PACK A
  Chapter Twenty-Two
  The Wake of the Column
  The Provincial Highway between Burye, Jigga, and Dembecha
-  March 9–16, 1941
+  March 9-16, 1941
  The trail of the retreat had become a trench of putrefaction thirty miles long. Under a ferocious sun that baked the red clay of Gojjam into cracked pottery, the provincial highway was lined on both verges with the swollen, blackening carcasses of hundreds of baggage camels and artillery mules. Their bellies, bloated by internal gases, had split open in the heat, spilling gray intestines into the dust to be torn apart by flocks of marabou storks, Egyptian vultures, and packs of yellow pariah dogs that snarled at passing vehicles from the thorn thickets.
  Every culvert smelled of human excrement and untreated gangrene. Where the Italian 7th Colonial Brigade had bivouacked in its panicked withdrawal, discarded uniforms, empty Chianti bottles, and wooden packing slats were mingled with the unburied corpses of colonial banda—killed by Arbegnoch snipers, stripped naked by local peasants, and left to dry like leather in the highland air.
  Through this charnel house moved the imperial caravan of Emperor Haile Selassie I.
@@ -1052,7 +1052,7 @@ MISSION 101 CROSSED FRONTIER AT ROSEIRES. ALL OFFICERS SAFE. LOSSES - ONE PACK A
  Chapter Twenty-Three
  The Fortresses of Debra Markos
  Debra Markos, Gojjam Province
-  March 14–22, 1941
+  March 14-22, 1941
  Perched at eight thousand feet on a rolling basalt plateau beneath the southern spires of the Choke range, Debra Markos was the administrative and feudal heart of Gojjam. For five years, the Italian Viceroyalty had poured millions of lire into transforming the ancient provincial seat into an unassailable bastion of empire.
  The military complex was anchored by Fort Dux, a massive masonry and reinforced-concrete citadel constructed on a high knoll east of the town, commanding the road to the Blue Nile gorge with tiered artillery revetments and sandbagged machine-gun pillboxes. To the north and northwest, dominating the approaches from Dembecha, rose the terraced crest of Mount Gulit—a jagged basalt ridge converted into a fortress of dry-stone sangars, anti-tank ditches, and double belts of concertina wire. In the open ground between the ridges lay the regional high-power radio station, its twin steel aerial towers soaring three hundred feet into the thin mountain air, maintaining direct wireless connection with General Nasi at Gondar, Viceroy the Duke of Aosta in Addis Ababa, and the supreme command in Rome.
  Inside this perimeter, Colonel Saverio Maraventano commanded a garrison of formidable strength - twelve thousand officers and men.
@@ -1118,7 +1118,7 @@ MISSION 101 CROSSED FRONTIER AT ROSEIRES. ALL OFFICERS SAFE. LOSSES - ONE PACK A
  Chapter Twenty-Four
  The Investment of Gulit
  The Heights of Gulit, Northwest of Debra Markos
-  March 22–31, 1941
+  March 22-31, 1941
  The camp of Gideon Force clung to the reverse slope of a razorback basalt ridge two miles northwest of Debra Markos, six hundred yards below the forward Italian wire of Mount Gulit.
  The position was an ordeal of physical misery. At eight thousand feet, the dry season was ending; freezing mountain gales alternated with sudden, violent cloudbursts that turned the red volcanic clay into a grease that fouled rifle bolts and flooded the shallow two-man scrapes where the men slept. There were no tents. Men lived beneath shelter-halves rigged between wild heather bushes, shivering in sodden blankets that never dried, chewing cold porridge made from ground parched barley stirred into rainwater.
  By March 25, the medical state of the force had reached the point of operational collapse.
@@ -1190,7 +1190,7 @@ MISSION 101 CROSSED FRONTIER AT ROSEIRES. ALL OFFICERS SAFE. LOSSES - ONE PACK A
  Chapter Twenty-Five
  The Redoubt in the Rain
  The Northern Perimeter, Debra Markos
-  April 1–3, 1941
+  April 1-3, 1941
  By the final afternoon of March, the grand Italian sortie had died on the map tables of Fort Dux. Colonel Saverio Maraventano's planned pincer offensive—four thousand infantry intended to sweep the scrub down to the Piccolo Abbai—had been frozen by the wireless dispatches from the north. General Carnimeo had broken at Keren; the passes of Mount Dologorodoc had been carried by the 4th Indian Division; and across five hundred miles of mountain telegraph wire, the Italian empire in the north had begun its final unraveling. Rather than marching into the open scrub, Maraventano pulled his battalions tighter into their concrete revetments, waiting behind double belts of barbed wire for an assault that did not exist.
  On the reverse slope of the western ridges, Gideon Force had no time to wait.
  The phantom army was dying of attrition. Two hundred and seventy sick men could not maintain an open siege against twelve thousand indefinitely; every dawn that broke without an action gave the Italian artillery observers an opportunity to count the empty ravines and realize there was no second echelon behind the scrub. To maintain the paralysis of the garrison, the illusion of an impending divisional storm had to be driven directly into the perimeter forts.
@@ -1245,7 +1245,7 @@ MISSION 101 CROSSED FRONTIER AT ROSEIRES. ALL OFFICERS SAFE. LOSSES - ONE PACK A
  Chapter Twenty-Six
  The Flight of Maraventano
  Debra Markos to the Blue Nile Gorge
-  April 3–5, 1941
+  April 3-5, 1941
  At midday on April 3, the radio room inside the subterranean concrete bunker of Fort Dux intercepted the broadcast that sealed the fate of Italian rule in Shoa.
  The transmission came not from Rome, but from the municipal station at Addis Ababa - Viceroy Prince Amedeo, Duke of Aosta, had formally declared the imperial capital an open city to spare its European population from aerial bombardment and native insurrection. The Viceroy and General Claudio Trezzani had already begun the evacuation of forty thousand troops northeast along the paved Strada Imperiale toward the mountain bastion of Dessie. To the south, the armored vanguard of the 1st South African Brigade under Brigadier Dan Pienaar was thirty miles from the capital, its scout cars sweeping up the railway line from Dire Dawa without resistance.
  For Colonel Saverio Maraventano, the operational map of East Africa had ceased to exist.
@@ -1368,7 +1368,7 @@ MISSION 101 CROSSED FRONTIER AT ROSEIRES. ALL OFFICERS SAFE. LOSSES - ONE PACK A
  Chapter Twenty-Eight
  The Cairo Cables
  Debra Markos, Gojjam Province
-  April 7–12, 1941
+  April 7-12, 1941
  The signals tent behind the former Italian Residenza smelled of battery acid, damp canvas, and burning paraffin. Outside, the rain drummed against the eucalyptus boles in a cold, ceaseless downpour, while inside, the hand-cranked generator whined as Lieutenant Abraham Akavia pulled sheets of decoded cipher from the receiver clip.
  Major Orde Wingate stood over the trestle table, his fists clenched so tightly that his knuckles were white. He was wrapped in a frayed woolen scarf, shivering from a recurring wave of malaria, his eyes sunken and yellowed from quinacrine. Spread across the map were three yellow cable forms transmitted through the Cairo relay from General Headquarters, Middle East Command, and General Alan Cunningham's forward headquarters in Addis Ababa.
  Brigadier Daniel Sandford sat on an empty ration box, cleaning the mud from his spectacle frames with a dry corner of his handkerchief. Beside him stood Edwin Chapman-Andrews, holding his leather dispatch case like a shield.
@@ -1422,7 +1422,7 @@ MISSION 101 CROSSED FRONTIER AT ROSEIRES. ALL OFFICERS SAFE. LOSSES - ONE PACK A
  Chapter Twenty-Nine
  Thesiger into the Gorge
  The Blue Nile Gorge and the Bichena Defiles
-  April 14 – May 2, 1941
+  April 14 - May 2, 1941
  The trail from Debra Markos toward the Blue Nile dropped through four thousand feet of basalt chimneys into a subterranean furnace. On the plateau rim at eight thousand feet, the April gales were wet and freezing; on the canyon floor, locked between sheer volcanic cliffs that trapped the heat like an oven, the temperature rose past one hundred and twelve degrees. The vegetation shifted violently from high-altitude wild clover and giant heather to suffocating brakes of dry mountain bamboo, whistling thorn, and dense thickets of stinging nettle that tore through drill cotton.
  Down this vertical gully moved Captain Wilfred Thesiger's pursuit column.
  It was a microscopic detachment - Captain Donald Drew with fifty Sudanese riflemen of the 4th Frontier Battalion, Captain Alan Rowe with forty Ethiopian regulars of the 2nd Battalion, two 3-inch mortar tubes, and sixty donkeys carrying parched barley, ammunition boxes, and medical panniers.
@@ -1491,8 +1491,8 @@ MISSION 101 CROSSED FRONTIER AT ROSEIRES. ALL OFFICERS SAFE. LOSSES - ONE PACK A
 
  Chapter Thirty
  Defying the Roadblocks
- The Debra Markos–Addis Ababa Highway and Mount Entoto
-  May 2–4, 1941
+ The Debra Markos-Addis Ababa Highway and Mount Entoto
+  May 2-4, 1941
  The runner from the Blue Nile gorge reached the former Italian residency at Debra Markos at midnight on May 2.
  Orde Wingate sat at the mahogany conference table, wrapped in his sodden army blanket, a kerosene hurricane lamp casting long, flickering shadows across his hollow, malaria-scored cheeks. He broke the wax seal on Captain Wilfred Thesiger's dispatch form, read the penciled lines once, and let out a harsh, rasping bark of laughter that caused the Sudanese sentry at the door to jump.
  Wingate looked across the table at Edwin Chapman-Andrews and Lieutenant-Colonel Hugh Boustead.
@@ -1629,7 +1629,7 @@ MISSION 101 CROSSED FRONTIER AT ROSEIRES. ALL OFFICERS SAFE. LOSSES - ONE PACK A
  Chapter Thirty-Two
  The Bluff at Agibor
  Agibor and the Begemder Escarpment
-  May 16–23, 1941
+  May 16-23, 1941
  The northern drive from Addis Ababa back across the Blue Nile gorge was a five-day descent into exhaustion. Orde Wingate traveled in an open Italian staff car, shivering continuously beneath an army blanket as his malaria returned in violent, rhythmic cycles. His skin had taken on the dull, greenish-yellow cast of chronic quinacrine saturation; his voice was reduced to a raw whisper. He stopped only to requisition petrol at the abandoned road posts and to swallow dry handfuls of parched barley.
  By May 16, Wingate had crossed the Abbai, climbed the vertical scree of the northern escarpment into Begemder, and reached the forward bivouac of the pursuit force at Agibor.
  The position occupied a desolate basalt ridge nine thousand feet above sea level, wrapped in freezing cloud. Clinging to the reverse slope was the entire regular force that had hounded an Italian army for two hundred miles - Captain Wilfred Thesiger, Captain Donald Drew, Lieutenant Alan Rowe, and thirty-six surviving Sudanese and Ethiopian riflemen of the 4th Frontier Battalion and the 2nd Ethiopians. They were hollow-cheeked, barefoot, and dressed in shredded rags, their ammunition down to twelve rounds per man and two high-explosive 3-inch mortar bombs.
@@ -1686,7 +1686,7 @@ MISSION 101 CROSSED FRONTIER AT ROSEIRES. ALL OFFICERS SAFE. LOSSES - ONE PACK A
  Chapter Thirty-Three
  The Cashiering
  British Military Mission Headquarters, Addis Ababa
-  May 28 – June 8, 1941
+  May 28 - June 8, 1941
  The administrative offices of British East Africa Force occupied the requisitioned stone villa of the former Italian Director of Posts, half a mile down the eucalyptus avenue from the Grand Palace. The air inside smelled of freshly unrolled carbon paper, floor wax, and the dry, clipped authority of staff officers who had arrived by transport plane from Nairobi and Cairo.
  On the morning of June 2, Orde Wingate walked through the wrought-iron gates.
  He looked like an apparition dragged from a trench. He had lost thirty pounds since crossing the frontier at Um Idla five months earlier; his cheekbones jutted sharply through yellowed, waxen skin, and his khaki drill bush jacket hung loosely from his round shoulders like a rag on a scarecrow. His service cap was stained with salt rings, its brass artillery badge tarnished black. In his right hand he carried an battered leather dispatch case held together by green string; tucked beneath his left arm was his pocket Bible.
@@ -1754,13 +1754,13 @@ MISSION 101 CROSSED FRONTIER AT ROSEIRES. ALL OFFICERS SAFE. LOSSES - ONE PACK A
  Chapter Thirty-Four
  The Blade at the Continental
  The Continental Hotel, Opera Square, Cairo
-  June 14 – July 4, 1941
+  June 14 - July 4, 1941
  The dry, furnace heat of Cairo in midsummer beat against the wooden shutters of the third-floor room at the Continental Hotel like a physical weight. Below, in the dusty expanse of Ezbekiyya Square, the clatter of British military lorries, the brass bells of overloaded electric trams, and the cries of shoe-shine boys rose through the dead air. In the lounge downstairs and across at the Long Bar of Shepheard's, officers of Middle East Command in pristine gabardine tunics sipped iced gin and discussed General Claude Auchinleck's impending replacement of Wavell.
  Inside the shuttered room, the ceiling fan spun in slow, useless revolutions, displacing a stench of sweat, stale tea, and raw onion.
  Major Orde Wingate sat naked at a small writing table, his gaunt ribs protruding beneath skin turned a sickly, saffron yellow. Over the preceding three weeks, as tertian malaria raged through his nervous system, he had swallowed massive, unsupervised doses of mepacrine and quinine sulphate—accumulating a level of chemical toxicity that produced continuous ringing in his ears, blinding migraine headaches, and vivid, waking hallucinations of the Gojjam escarpment.
  On the table stood a borrowed portable Remington typewriter, a stack of blank War Office foolscap, and a carbon manifold. Beside the machine lay his thumb-indexed King James Bible, its binding split by highland rain, and a heavy hunting knife with a horn grip and a six-inch steel blade, presented to him by an American war correspondent on the road to Addis Ababa.
  For eighteen days, Wingate had not reported to the personnel branch at Grey Pillars. He had refused to see visitors, bolting his door against the hotel staff and eating only crusts of bread left on trays in the corridor.
- Working sixteen hours a day through shivering agues and burning fevers, he had produced a sprawling, blistering operational document - The Report on the Operations of Gideon Force in the Gojjam, 1940–1941.
+ Working sixteen hours a day through shivering agues and burning fevers, he had produced a sprawling, blistering operational document - The Report on the Operations of Gideon Force in the Gojjam, 1940-1941.
  It was not an orthodox military after-action summary. It was a one-hundred-page indictment of British Middle East Command, written in the biting prose of an Old Testament prophet and the razor-sharp tactical analysis of an irregular genius. Page after page attacked the "cowardice, administrative paralysis, and small-minded jealousy" of General Platt, General Cunningham, and the Nairobi Secretariat:
  "...To attempt to conduct operations in Abyssinia by regular methods was an absurdity born of ignorance and conventional inertia. The staff officers who warned that Gojjam was impassable and that the Emperor was a political liability have been proved blind guides... To disband the Ethiopian formations without honors or pension rights, while awarding decorations to garrison officers who never heard a shot fired in anger, is an act of imperial dishonor that stinks in the nostrils of God and man..."
  At zero-eleven hundred hours on July 2, a sharp knock rattled the door panel.
@@ -1810,7 +1810,7 @@ MISSION 101 CROSSED FRONTIER AT ROSEIRES. ALL OFFICERS SAFE. LOSSES - ONE PACK A
  Chapter Thirty-Five
  The Scars of the Covenant
  Cairo, London, and Addis Ababa
-  Autumn 1941 – January 31, 1942
+  Autumn 1941 - January 31, 1942
  The scar on the left side of Orde Wingate's neck was a jagged, raised seam of violet tissue four inches long, running from beneath the angle of his jaw down to the clavicle. On the right side, where the blade had sliced through the muscle sheath, a puckered indentation pulled his chin slightly off-center, giving his harsh, angular face a permanent, hawkish tilt. When he spoke, his gravelly baritone was deeper than before, broken by a dry, whistling rasp where the steel had nicked the cartilage of the larynx.
  In late September 1941, inside a private consultation room at the British Military Hospital in Abbassia on the northern edge of Cairo, Wingate stood before a medical discharge board.
  The three Royal Army Medical Corps colonels sat behind a baize-covered table, reviewing the psychiatric evaluation and the official entry in his service ledger - Wounds, self-inflicted while in a state of temporary insanity induced by cerebral malaria and mepacrine intoxication.

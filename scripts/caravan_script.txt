@@ -144,7 +144,7 @@ NARRATOR
 Caravan.
 The Long Range Desert Group raid on Barce, 1942.
 
-Chapter One. The Directives at Faiyum. 28 August – 1 September 1942.
+Chapter One. The Directives at Faiyum. 28 August - 1 September 1942.
 The date palms of the Faiyum Oasis offered shade, but no coolness. The air sitting over the irrigation ditches was thick with the reek of stagnant water, donkey dung, and green, rotting vegetation. Less than half a mile to the west, the green broke against the desert with the finality of a sea cliff - a wall of yellow-white limestone glare where the Libyan Desert began its two-thousand-mile roll across North Africa.
 Under the thatched reed awnings of the Long Range Desert Group's base depot, the sound was not military in the spit-and-polish sense of Cairo or Alexandria. It was the sound of a heavy machine shop. Spanners clattered against cast iron; pneumatic tyre pumps hissed; files rasped against the welded steel pedestals of machine-gun mounts.
 Major John Richard Easonsmith stood over a trestle table made of rough-sawn pine planks. He was thirty-three, a Coldstream Guardsman who looked less like a soldier of the King's household and more like a surveyor who had spent too many years under bad skies. His skin was burnt the colour of teak, peeling at the cheekbones, his eyes pale and framed by deep squint-lines. Across the table lay three War Office maps of Cyrenaica. Most of the sheets were blank paper tinted pale yellow, marked at broad intervals with the candid admission - Relief Undetermined.
@@ -266,7 +266,7 @@ The column lurched into gear. The heavy tread of the low-pressure sand tyres cru
 
 
 NARRATOR
-Chapter Two. The Erg of the Great Sand Sea. 2–3 September 1942.
+Chapter Two. The Erg of the Great Sand Sea. 2-3 September 1942.
 The hard limestone pavement (serir) lasted until the afternoon of 2 September. Then, fifty miles west of the desolate, salt-crusted spring at Ain Dalla, the world tilted upward and turned pure yellow.
 It was the eastern frontier of the Great Sand Sea - a landlocked ocean of dunes eighty thousand square miles in extent, running from the Mediterranean escarpment south to the jagged black spurs of the Gilf Kebir. These were not gentle ripples. They were immense, parallel ranges of seif dunes—long, razor-backed sand-mountains standing three to four hundred feet high, separated by "streets" of corrugated, flint-strewn gravel a mile or two wide.
 The column halted at the base of the first rampart. The heat radiating off the yellow slopes struck the open cabs like the open door of a baker's oven. The ambient air was 114 degrees in the shade; on the sunlit metal floorboards over the Chevrolet gearboxes, grease was bubbling.
@@ -679,7 +679,7 @@ We are breaking radio silence. We're calling Cairo for a plane.
 
 
 NARRATOR
-Chapter Six. The Crossing of the Kalansho. 8–9 September 1942.
+Chapter Six. The Crossing of the Kalansho. 8-9 September 1942.
 The last yellow wall of the Great Sand Sea fell behind them by midday on 8 September.
 The sand did not fade gradually. It ended with an abrupt geological boundary, spilling out onto the vast, flat sheet of the Kalansho serir—hundreds of miles of desolate, wind-scoured gravel stretching west into central Libya.
 To a man bone-weary of shoveling sand channels, the flat stone looked inviting. It was an illusion.
@@ -807,7 +807,7 @@ We're off the desert floor, Nick. From here on out, we're in Rommel's backyard.
 
 
 NARRATOR
-Chapter Seven. The Approach to the Jebel and the Cache at G5. 10–13 September 1942.
+Chapter Seven. The Approach to the Jebel and the Cache at G5. 10-13 September 1942.
 The hard basalt plains of the Kalansho gave way to rising ground on 10 September.
 For forty-eight hours, the seventeen vehicles climbed through a broken, stepped wilderness of limestone wadis and dry watercourses, steering north-west to skirt the southern flank of Cyrenaica. The desert did not yield easily. The sand was replaced by powdery red clay and shelves of brittle limestone that jarred the Chevrolets' steering assemblies. Radiators, choked with seeds from dry camel-thorn, hissed continuously into their condensation cans as the six-cylinder engines ground forward in low gear.
 The open, limitless horizon of the Sahara was gone. In its place rose the southern slopes of the Jebel Akhdar—the Green Mountain—a massive limestone plateau jutting out into the Mediterranean. As the column gained altitude, the hot desert wind grew cooler, scented with dry juniper and mastic scrub.
@@ -838,7 +838,7 @@ Barce was fifteen miles over the crest, and zero hour was eight hours away.
 
 
 NARRATOR
-Chapter Eight. The Briefing at Benia. Morning – 15:00, 13 September 1942.
+Chapter Eight. The Briefing at Benia. Morning - 15:00, 13 September 1942.
 The sun rose through the branches of the evergreen oaks on the hill near Benia, dappling the camouflaged bonnets of the sixteen trucks with pale circles of light.
 There was no time for rest. Zero hour was less than eighteen hours away.
 At 08:00 hours, Major Easonsmith took his command jeep out from beneath the canopy of wild olive. Beside him sat Major Vladimir Peniakoff, wearing his unbadged service dress cap and a heavy wool sweater against the morning chill. In the narrow rear seat crouched the two Senussi soldiers of the Libyan Arab Force, stripped of their British uniforms and wrapped in the coarse, unbleached wool folds of civilian jerds.
@@ -915,7 +915,7 @@ Eat what you have left in your tins. Rest your eyes. We move out the moment the 
 
 
 NARRATOR
-Chapter Nine. The Road to Sidi Raui. Dusk – 23:00, 13 September 1942.
+Chapter Nine. The Road to Sidi Raui. Dusk - 23:00, 13 September 1942.
 The sun dipped behind the limestone crests of the Jebel at 18:30 hours, draining the warmth from the woods at Benia. Under the oak canopy, the forty men prepared for the march in silence.
 Faces and bare forearms were blackened with grease scraped from wheel hubs and soot from exhaust pipes. Woollen caps were pulled down low over brows. Every man checked the action of his weapon - working the bolts of Lee-Enfields, tapping the bottom of Thompson drum magazines to ensure the rounds were seated, and checking that bayonets were clicked home tight in their scabbards so they would not rattle against gunwales.
 Corporal Merlyn Craw, a burly, heavily bearded New Zealander in T1 Patrol, moved down the line with the final ration - cold tinned stew and hard biscuits.
@@ -992,7 +992,7 @@ Single file! Line ahead! Shoot the engines!
 
 
 NARRATOR
-Chapter Ten. The Crossroads at Midnight. 23:00–00:00, 13–14 September 1942.
+Chapter Ten. The Crossroads at Midnight. 23:00-00:00, 13-14 September 1942.
 The asphalt of the main highway felt glassy and strange beneath the low-pressure tyres. After eleven days of wrenching suspension across basalt boulders and soft slipfaces, the fourteen surviving vehicles drifted smoothly westward at thirty-five miles an hour.
 The headlights did their work.
 Under the glare of sixteen full-beam headlamps, the column looked from a distance like an Italian motorized convoy running down the colonial highway between Derna and Barce. Along the verges, tall eucalyptus trees cast long, sweeping shadows across the tarmac. The night air was moist, smelling of the Mediterranean, which lay just twelve miles over the northern crest.
@@ -1045,7 +1045,7 @@ The five New Zealand trucks turned down the left fork, rolling silently through 
 
 
 NARRATOR
-Chapter Eleven. Breaching the Gate of Campo V. 00:00–00:15, 14 September 1942.
+Chapter Eleven. Breaching the Gate of Campo V. 00:00-00:15, 14 September 1942.
 The asphalt road to Campo V branched south-east, skirting a drainage ditch lined with tall, dry reeds.
 Captain Nick Wilder's force had been whittled down by the long trek and the road accident - one Willys jeep and four 30-cwt Chevrolet trucks. The vehicles moved in single file, spacing thirty yards apart, throttles eased back so the six-cylinder engines barely hummed above the rustle of the coastal wind.
 In the open cab of Tutira III, Wilder leaned over the passenger door. Ahead, two hundred yards into the gloom, the dark silhouette of the airfield perimeter fence cut across the low scrub. A white wooden guard hut stood beside a pair of tall timber-and-wire gates barring the entrance.
@@ -1102,7 +1102,7 @@ Single file! Line ahead! Shoot the engines!
 
 
 NARRATOR
-Chapter Twelve. The Carousel of Tracers. 00:15–00:45, 14 September 1942.
+Chapter Twelve. The Carousel of Tracers. 00:15-00:45, 14 September 1942.
 The column accelerated along the perimeter taxiway at twenty-five miles an hour, engines howling in second gear.
 The burning fuel tanker behind them threw immense, dancing shadows across the concrete. Ahead, parked in wide semicircular dispersal bays revetted with earth banks, the Italian aircraft sat in two neat, symmetrical arcs - Cant Z.1007 Alcione three-engine bombers, twin-engine Caproni Ca.311s, and agile Fiat CR.42 biplane fighters, their propellers gleaming in the orange glare.
 
@@ -1153,7 +1153,7 @@ Craw! Take your team! Finish them on the ground!
 
 
 NARRATOR
-Chapter Thirteen. Wing-Walkers and Lewes Bombs. 00:30–01:00, 14 September 1942.
+Chapter Thirteen. Wing-Walkers and Lewes Bombs. 00:30-01:00, 14 September 1942.
 Corporal Merlyn Craw did not drop down to the concrete alone.
 As the Chevrolet braked hard in the shadow of an earthen revetment, two gunners vaulted over the tailgate with him into the dust. Each man carried a heavy canvas haversack bulging with four-pound Lewes bombs, their pockets heavy with spare time-pencils, friction lighters, and loaded drum magazines for their Thompsons.
 Above them, the night sky was crisscrossed with high-velocity tracer. Italian machine-gunners in the hangar sandbag redoubts had found the range, sweeping the open tarmac with long, grazing bursts of 8mm fire that ricocheted off the concrete apron in singing ricochets of orange sparks.
@@ -1211,7 +1211,7 @@ Dennis is in. The Guards have hit the barracks.
 
 
 NARRATOR
-Chapter Fourteen. Thunder in Camp Luigi Razza. 23:45–00:45, 13–14 September 1942.
+Chapter Fourteen. Thunder in Camp Luigi Razza. 23:45-00:45, 13-14 September 1942.
 While Wilder's New Zealanders were breaking the gate at Campo V, Sergeant Jack Dennis brought G1 Patrol down the western spur toward the stone gates of Camp Luigi Razza.
 The barracks was an imposing Italian colonial garrison complex - high perimeter walls of mortared limestone, whitewashed two-storey dormitory blocks with tiled roofs and wooden-shuttered balconies, an expansive inner parade ground, and a motor transport park packed with heavy supply lorries.
 Dennis sat in the front passenger well of the lead Chevrolet, his service cap pulled down hard against the rush of the night wind, an unlit Player's cigarette clamped between his teeth. Behind him on the open flatbed stood the Coldstream gunners, bracing their boots against ammunition boxes as the lorry swung around the final perimeter bend.
@@ -1262,7 +1262,7 @@ In the passenger seat of the lead jeep sat Major Jake Easonsmith, his Thompson r
 
 
 NARRATOR
-Chapter Fifteen. Locomotives, Petrol, and Grenades. 00:45–01:30, 14 September 1942.
+Chapter Fifteen. Locomotives, Petrol, and Grenades. 00:45-01:30, 14 September 1942.
 While the barracks at Camp Luigi Razza erupted into a storm of mortar plaster and burning lorries, Major Jake Easonsmith took his two HQ jeeps straight into the heart of Barce.
 His assignment was to spread pandemonium through the town itself—preventing colonial authorities from organizing a garrison counter-stroke, severing communications, and destroying transport infrastructure.
 The two stripped-down Willys jeeps raced down the asphalt boulevards at forty miles an hour, their low-slung chassis bouncing over the kerbs. Bougainvillea cascaded over high, whitewashed garden walls. Italian villas, shuttered against the night air, flashed past in the dark.
@@ -1326,7 +1326,7 @@ Out at the airfield, Captain Nick Wilder was about to face the true weight of th
 
 
 NARRATOR
-Chapter Sixteen. The Ramming of the Tankette. 01:15–02:15, 14 September 1942.
+Chapter Sixteen. The Ramming of the Tankette. 01:15-02:15, 14 September 1942.
 At Campo V, the destruction was nearly total.
 Across the concrete apron, more than twenty-five aircraft were burning or gutted by thermite. The ammunition dump on the northern boundary was cooking off in a series of violent, crackling geysers of yellow sparks. Heavy machine-gun fire from the airfield hangars was still snapping across the tarmac, but the Italian ground defense was fractured, firing wild and high into the drifting black smoke.
 
@@ -1402,7 +1402,7 @@ He reached into his webbing, pulled out his Very pistol, aimed the heavy brass b
 
 
 NARRATOR
-Chapter Seventeen. The Green Flare & The Run to Sidi Selim. 02:30–04:45, 14 September 1942.
+Chapter Seventeen. The Green Flare & The Run to Sidi Selim. 02:30-04:45, 14 September 1942.
 At 02:30 hours, Major Jake Easonsmith raised his brass Very pistol and fired a single green flare into the Mediterranean sky.
 The chemical ball arched over the southern edge of Barce, bathing the dusty eucalyptus trees and the limestone walls of colonial villas in a stark emerald light before burning out in the scrub.
 At the southern crossroads outside the town, Major Vladimir Peniakoff waited by the Guards' signals truck. His Senussi scouts were crouched in the dry ditch with their rifles cocked. Peniakoff held his revolver uncocked by his side. The crossroads had remained clear; the Italian garrison, entirely consumed by the inferno inside Camp Luigi Razza, had made no attempt to push outward to seal the junction.
@@ -1506,7 +1506,7 @@ Suddenly, from the narrow defile three hundred yards ahead, the sharp crack-crac
 
 
 NARRATOR
-Chapter Eighteen. The Checkpoint South of Sidi Selim. 04:45–06:15, 14 September 1942.
+Chapter Eighteen. The Checkpoint South of Sidi Selim. 04:45-06:15, 14 September 1942.
 The road south from Sidi Selim wound through a series of shallow, rock-strewn cuttings, flanked on either side by low limestone ridges covered in sparse camel-thorn.
 In the darkness before dawn, the eight Chevrolets and two jeeps moved in a tight line, throttles throttled back. On the flatbeds, men strained their eyes through the gloom, rifles and machine guns trained outward over the timber stakes. On Davis's truck, Dr. Richard Lawson sat wedged between an ammunition box and the tailgate, his hand resting continuously on Derek Parker's shoulder, feeling the boy shiver under a rough service blanket.
 Fifty yards ahead of the lead vehicle, the track curved around a whitewashed colonial masonry post.
@@ -1603,7 +1603,7 @@ The Italian plane banked sharply, its wings catching the morning sun, and began 
 
 
 NARRATOR
-Chapter Nineteen. The 50-Minute Cycle. 06:15–09:30, 14 September 1942.
+Chapter Nineteen. The 50-Minute Cycle. 06:15-09:30, 14 September 1942.
 The Italian reconnaissance plane circled at two thousand feet, its shadow sweeping across the bald limestone crest.
 The stranded Chevrolet was doomed. There was no time to salvage the heavy gear. Troopers unclipped the Vickers guns, heaved two boxes of ammunition and three water cans down the slope, and jammed a primed thermite bomb against the engine block. As the charge hissed into blinding white fire, the four sound Chevrolets and two jeeps plunged down into the adjacent depression—a shallow, rocky valley strewn with low mastic scrub and half a dozen stunted wild olive trees.
 
@@ -1679,7 +1679,7 @@ Twenty minutes. We have exactly twenty minutes before they come back.
 
 
 NARRATOR
-Chapter Twenty. Lawson's Shield. 08:05–11:00, 14 September 1942.
+Chapter Twenty. Lawson's Shield. 08:05-11:00, 14 September 1942.
 The twenty-minute lull was not a respite; it was a race against the stopwatch.
 The valley reeked of scorched rubber, charred timber, and the sharp, chemical stench of burning cordite. Down in the wash, ammunition inside the two blazing Chevrolets continued to pop and snap in jagged bursts, sending stray .303 bullets whining harmlessly through the olive boughs.
 Dr. Richard Lawson worked on his knees in the gray dust, his medical haversack open beside him.
@@ -1758,7 +1758,7 @@ Lawson stayed pinned across Parker's chest, absorbing the shockwaves of the expl
 
 
 NARRATOR
-Chapter Twenty-One. The Incineration of the Fleet. 11:00–17:30, 14 September 1942.
+Chapter Twenty-One. The Incineration of the Fleet. 11:00-17:30, 14 September 1942.
 Throughout the middle of the day, the Italian squadrons operated on a timetable as regular as a suburban railway.
 Every fifty minutes, a fresh wave of Fiat CR.42s and Macchi fighters dropped over the rim of the escarpment; every twenty minutes between sorties, the valley fell into an eerie, suffocating silence while the aircraft refueled and rearmed at Maraua.
 By 13:00 hours, the heat in the rocky hollow was overwhelming. The sun beat straight down onto the limestone boulders, radiating off the stone until the air warped and wavered. To that natural furnace was added the scorching heat of three burning Chevrolets, their tires melting into pools of black pitch, their fuel tanks venting roaring geysers of flame that sent columns of oily soot climbing into the cloudless sky.
@@ -1814,7 +1814,7 @@ With tires bulging and springs groaning in protest, the tiny, crippled convoy cr
 
 
 NARRATOR
-Chapter Twenty-Two. The Parting at the Rocks. 18:30, 14 September – 03:00, 15 September 1942.
+Chapter Twenty-Two. The Parting at the Rocks. 18:30, 14 September - 03:00, 15 September 1942.
 The column pulled south into the dusk in low-ratio gear, throttles barely open.
 Behind them, the valley of the olive trees was marked by three towering pyres of black rubber smoke that flattened against the darkening sky. Ahead lay the broken limestone plateau of the southern Jebel—a wilderness of jagged ravines, dry washes, and flint scree.
 Thirty-three men were alive. To transport them, they had three operational machines - the 30-cwt Chevrolet Te Anau II and two Willys jeeps.
@@ -1916,7 +1916,7 @@ Right. Forward.
 
 
 NARRATOR
-Chapter Twenty-Three. The Dash of Te Anau II. 03:00–16:00, 15 September 1942.
+Chapter Twenty-Three. The Dash of Te Anau II. 03:00-16:00, 15 September 1942.
 The two vehicles navigated the southern descents in tandem, their low-pressure tires whispering over the limestone ledges.
 Te Anau II led the way, with Corporal David Warbrick at the wheel and Private Jack Davis leaning out of the open cab with the compass. Fifty yards behind followed the Willys jeep, carrying Dr. Richard Lawson, Major Vladimir Peniakoff, and the wounded Guardsman whose thigh had been fractured during the strafing.
 At 04:15 hours, four miles south of the limestone amphitheatre, the jeep's engine began to sputter.
@@ -2057,7 +2057,7 @@ Leaving the cache truck stocked with water and rations for the walking parties, 
 
 
 NARRATOR
-Chapter Twenty-Four. Jopling's Silk Map. 15–17 September 1942.
+Chapter Twenty-Four. Jopling's Silk Map. 15-17 September 1942.
 Trooper Frank Jopling stepped off into the southern darkness with nine British Guardsmen falling in behind his heels.
 Of the ten men, Jopling was the sole New Zealander. He was an experienced navigator, but he had left the burning wadi south of Sidi Selim stripped of every instrument of his trade. His brass gimbals compass, his bubble sextant, and his navigation log had been incinerated on the flatbed of his Chevrolet.
 In his breast pocket, Jopling carried only a frayed square of printed fabric - an RAF silk escape map of Cyrenaica. It was a general aeronautical chart, drawn at a scale of 1:1,000,000. It showed the blue smear of the Mediterranean, the bold black line of the coastal highway, and a few scattered spot-heights in the Jebel. South of the mountains, the silk was largely blank, broken only by a tiny, unverified circle labelled Bir el Gerrari.
@@ -2138,7 +2138,7 @@ They were sixty miles deep in the waterless waste, with no compass, two ounces o
 
 
 NARRATOR
-Chapter Twenty-Five. The Pack-Jeep and the Bedouin Sheep. 03:00, 15 September – 07:00, 17 September 1942.
+Chapter Twenty-Five. The Pack-Jeep and the Bedouin Sheep. 03:00, 15 September - 07:00, 17 September 1942.
 Major Jake Easonsmith's party stepped off from the limestone amphitheatre with their second Willys jeep rumbling slowly in the centre of their formation.
 The small four-cylinder vehicle did not carry men. It served as a mechanical pack-mule for the fourteen marchers - Sergeant Jack Dennis, six British Guardsmen, and six New Zealanders. Lashed to its tiny rear deck and bonnet were forty gallons of drinking water in steel drums, four wooden crates of tinned bully beef, and bandoliers of .303 ammunition.
 The men walked in two files on either flank, rifles slung, spared the crushing burden of carrying sixty pounds of water on their backs.
@@ -2216,7 +2216,7 @@ Trooper Frank Jopling and his nine Guardsmen were nowhere in sight.
 
 
 NARRATOR
-Chapter Twenty-Six. The Prisoners and the Ghost in the Jebel. 14–20 September 1942.
+Chapter Twenty-Six. The Prisoners and the Ghost in the Jebel. 14-20 September 1942.
 When Corporal Merlyn Craw regained consciousness on the morning of 14 September, his face was pressed against the cold, oil-slicked concrete floor of the Barce air-raid shelter.
 A heavy Italian combat boot was planted firmly between his shoulder blades. Standing over him were three colonial soldiers, their bayonets fixed to Carcano carbines, the steel points hovering inches from his throat.
 Craw shifted his shoulders. Every muscle in his broad frame ached from the violent impact that had driven his Chevrolet, Te Paki III, into the blast wall. His black beard was matted with dried blood from a deep scalp laceration, his battledress jacket missing, his bare arms smeared with soot and thermite residue from the ten aircraft he had single-handedly destroyed at Campo V.
@@ -2289,7 +2289,7 @@ Across the shimmering gravel flats, moving slowly out of the midday mirage, eigh
 
 
 NARRATOR
-Chapter Twenty-Seven. The Lifeline at Landing Ground 125. 15–17 September 1942.
+Chapter Twenty-Seven. The Lifeline at Landing Ground 125. 15-17 September 1942.
 When Te Anau II pulled away from the cache at Bir el Gerrari on the afternoon of 15 September, the Chevrolet had ceased to look like a British Army lorry.
 With spare leaf springs chained across the front bumper like iron tusks, weapons draped in canvas shrouds to keep the chalk dust from the breeches, and forty-gallon water drums lashed to the running boards, the vehicle groaned under nearly four tons of dead weight—double its designed payload. The leaf springs were inverted into rigid, flat bars; every ripple of the desert floor transmitted an undampened shock through the steel frame into the flatbed.
 Corporal David Warbrick drove with his elbows locked, his knuckles raw and black with motor grease. Beside him in the doorless cab sat Private Jack Davis, the dead-reckoning log open on his knee, calculating wheel-slip against the fine flint gravel.
@@ -2383,7 +2383,7 @@ Now, two hundred miles to the north, at the well-head of Bir el Gerrari, Major J
 
 
 NARRATOR
-Chapter Twenty-Eight. The Eight Spectres and the Rhodesians. 17–18 September 1942.
+Chapter Twenty-Eight. The Eight Spectres and the Rhodesians. 17-18 September 1942.
 At 12:30 hours on 17 September, the midday heat at Bir el Gerrari reached its peak.
 Major Jake Easonsmith stood on the crest of the stone cairn beside the dry well-head. To the north, the gravel plain dissolved into a shimmering lake of white light—a violent, undulating mirage where sky and stone fused together in blinding waves.
 Beside the camouflaged G1 cache truck, Sergeant Jack Dennis and the men of the walking party were resting in the narrow strip of shade cast by the tarpaulin. Trooper Keith Tippett sat on an empty petrol flimsy, his left boot cut open down the eyelets, soaking his swollen, purple ankle in a tin of cold water from the cache drums.
@@ -2489,7 +2489,7 @@ The three Rhodesian trucks swung north, their six-cylinder engines roaring as th
 
 
 NARRATOR
-Chapter Twenty-Nine. The Three-Day Sweep of the Waste. 18–21 September 1942.
+Chapter Twenty-Nine. The Three-Day Sweep of the Waste. 18-21 September 1942.
 The three Rhodesian Chevrolets of S2 Patrol fanned out into a wide skirmish line, maintaining five hundred yards of separation as they swept north from Bir el Gerrari across the shimmering gravel.
 Major Jake Easonsmith stood in the open passenger well of Captain John Olivey's truck, a pair of dusty binoculars pressed to his eyes. The ambient temperature was 114 degrees. Across the flint plain, the horizon was a liquid illusion - low basalt ridges appeared to float in mid-air, while distant bushes swelled into the shapes of armored cars or walking men before dissolving back into shimmering light.
 Every fifteen minutes, Olivey raised his hand, cutting his engine.
@@ -2564,7 +2564,7 @@ Form up the column. We withdraw to Kufra.
 
 
 NARRATOR
-Chapter Thirty. The Trek South to Kufra. 21–25 September 1942.
+Chapter Thirty. The Trek South to Kufra. 21-25 September 1942.
 The combined convoy of six trucks—the Rhodesian Chevrolets of S1 and S2 alongside the surviving G1 cache lorry—turned their radiators south-southeast, leaving the cairn at Bir el Gerrari behind.
 The men who had walked eighty miles across the flint were now passengers, crowded onto the timber flatbeds among water drums and petrol flimsies. They sat shoulder-to-shoulder, their bearded faces hollow, their eyes sunken into dark sockets, watching their own retreating footsteps slowly dissolve into the dust kicked up by the heavy sand tyres.
 Trooper Keith Tippett sat on a wooden crate of bully beef near the tailgate of Olivey's truck, his left leg stretched out straight before him. His boot had been slit down to the toe-cap; the ankle was a rigid, discolored mass of dark blue and yellow contusions, throbbing with a dull ache as the leaf springs absorbed the shock of the corrugated gravel. Beside him sat Gunner Sanders and Sergeant Jack Dennis, clean water bottles hooked to their webbing, silently chewing hard ration biscuits softened in black tea.
@@ -2691,7 +2691,7 @@ The long raid was finally, irrevocably over.
 
 
 NARRATOR
-Chapter Thirty-Two. The Wards at Heliopolis. Late September – Early October 1942.
+Chapter Thirty-Two. The Wards at Heliopolis. Late September - Early October 1942.
 The contrast between the interior of the Sahara and the surgical wards of the 64th British General Hospital in Heliopolis was almost disorienting.
 Instead of the glare of pulverized limestone and the choking reek of burning 70-octane fuel, the air was cool, shaded by high louvered shutters, smelling faintly of carbolic, ether, and methylated spirit. Overhead, large wooden ceiling fans turned with a slow, rhythmic whir-click, pushing the warm Cairo air across rows of iron beds made up with crisp, bleach-white linen sheets.
 Through the open balcony doors came the distant, civilized sounds of the city - the clatter of electric tramcars running along the Avenue des Pyramides, the honk of motor horns, and the calls of street vendors selling figs.
@@ -2808,7 +2808,7 @@ And three hundred miles to the north-west, in the dark, limestone folds of the J
 
 
 NARRATOR
-Chapter Thirty-Three. The Ghost in the Jebel. Mid-September – Mid-October 1942.
+Chapter Thirty-Three. The Ghost in the Jebel. Mid-September - Mid-October 1942.
 In the limestone gorges of the Jebel Akhdar, thirty miles north of where the Chevrolets had burned, autumn arrived with thick, damp mists that drifted in off the Mediterranean each evening, soaking the wild juniper and dwarf oak.
 Guardsman Findlay of the Scots Guards sat deep in the shadows of a natural limestone cavern, sixty feet above the floor of a jagged wadi. He wore his tattered British Army woollen pullover, but around his shoulders was draped a coarse, gray-and-brown jerd—an Arab cloak of hand-spun sheep's wool that smelled heavily of lanolin and woodsmoke.
 He had been in the hills for twenty-eight days.
@@ -2922,7 +2922,7 @@ The six-cylinder engine roared, the low-pressure tires crunched into the gravel,
 
 
 NARRATOR
-Chapter Thirty-Four. The Italian Reckoning. Late September – October 1942.
+Chapter Thirty-Four. The Italian Reckoning. Late September - October 1942.
 In the days following 14 September, the concrete apron of Campo V smelled like an open iron foundry.
 Across the blackened tarmac, Italian Air Force engineers and Carabinieri investigators moved among the charred skeletons of their aircraft. The wreckage was grotesque in its finality. The three-engine Cant Z.1007 Alcione bombers—built of seasoned timber and duralumin—had been reduced to ash and twisted engine blocks, their three Piaggio radial motors resting on the cracked concrete like severed iron heads.
 Beside them, the fabric-and-steel frames of the Fiat CR.42 fighters were twisted into scorched birdcages, their wings melted down to chalky duralumin slag by the four-thousand-degree fury of Merlyn Craw's Lewes bombs.

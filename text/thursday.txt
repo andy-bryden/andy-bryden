@@ -12,7 +12,7 @@
  Present in the conference chamber were the arbiters of global strategy: General Sir Alan Brooke, the razor-sharp Chief of the Imperial General Staff; General George C. Marshall, US Army Chief of Staff, sitting erect with arms folded; Admiral Ernest J. King; and General Henry H. "Hap" Arnold, commanding the United States Army Air Forces.
  Wingate did not approach the map table with the deferential caution typical of a brigadier addressing four-star generals. He placed his lean hands upon the paper and began to dismantle the doctrine that had governed the Burma front since the disastrous retreat of 1942.
  "The British Army in Burma is paralyzed because it remains married to the road," Wingate said. His voice was low, resonant, carrying the severe, prophetic cadence of an Old Testament preacher. "The Japanese have run rings around our divisions not because they possess superior individual courage, but because they have exploited our absolute terror of the jungle. Our commanders treat the jungle as an impassable obstacle. It is not. It is an impenetrable cloak. It favors the force that casts aside wheeled transport and moves on its own feet."
- He laid out the balance sheet of Operation Longcloth—the first Chindit expedition of early 1943. Three thousand men of the 77th Indian Infantry Brigade had marched on foot across the Chindwin River, slicing the main Mandalay–Myitkyina railway, sustained exclusively by supplies dropped from Royal Air Force transports. A third of the force had not returned. Hundreds had died of disease, starvation, or Japanese bullets; those who staggered back across the Chindwin were walking skeletons.
+ He laid out the balance sheet of Operation Longcloth—the first Chindit expedition of early 1943. Three thousand men of the 77th Indian Infantry Brigade had marched on foot across the Chindwin River, slicing the main Mandalay-Myitkyina railway, sustained exclusively by supplies dropped from Royal Air Force transports. A third of the force had not returned. Hundreds had died of disease, starvation, or Japanese bullets; those who staggered back across the Chindwin were walking skeletons.
  Alan Brooke watched him carefully, well aware that the general staff in New Delhi viewed Longcloth as an expensive failure that had yielded negligible strategic return.
  Wingate leaned forward, his knuckles whitening against the edge of the map. "Longcloth was an experimental raid. It proved what conventional orthodoxy denied: that a civilized soldier can be sustained indefinitely inside hostile territory without a line of communication on the ground. But a raid is not enough. To break the Japanese Fifteenth Army, we must not merely visit their rear—we must live there."
  Marshall raised an eyebrow. "Explain 'live there,' Brigadier."
@@ -40,7 +40,7 @@
 
  Chapter Two
  Central India: The Crucible of Special Force
- Autumn 1943 – Jan 1944
+ Autumn 1943 - Jan 1944
  The troop trains emptied their human cargo into the baking glare of the Central Provinces under an iron sky.
  Between Jhansi, Gwalior, and the scrub-choked wilderness around Patharia and Dhana, the earth was baked to brick. Dust—fine, red, and alkaline—coated the lips, nostrils, and wool-serge uniforms of thousands of soldiers climbing down from wooden wagons. These were not specialized commandos or volunteers for hazardous duty. The bulk of them belonged to the British 70th Infantry Division, a veteran, regular formation pulled from the Mediterranean theater, where they had endured the siege of Tobruk. They had expected to fight as a standard division with field artillery, tracked carriers, and motor transport.
  Instead, they were met by staff officers carrying orders bearing the seal of General Headquarters, India, and an unfamiliar operational title: 3rd Indian Infantry Division (Special Force).
@@ -71,7 +71,7 @@
 
  Chapter Three
  The Flying Buccaneers
- Late 1943 – Jan 1944
+ Late 1943 - Jan 1944
  The flight line at Hailakandi shimmered under the heavy Assam humidity. Parked wingtip to wingtip across the hardstand were aircraft the British ground forces had never seen assembled in a single formation: olive-drab Douglas C-47 Skytrains, shark-nosed North American P-51A Mustangs, twin-engine B-25H Mitchell bombers equipped with 75mm nose cannon, high-wing UC-64 Norseman transports, frail Stinson L-1 and L-5 light liaison planes, and six strange, insect-like Sikorsky YR-4 helicopters—the first operational rotary-wing aircraft ever deployed to a combat theater.
  Behind them, stacked in wooden shipping crates or baking under tarpaulins, were dozens of Waco CG-4A assault gliders: light frames of welded steel tubing covered in doped cotton fabric.
  The outfit was officially designated the 5318th Provisional Air Unit, but nobody called it that. To the airmen who filled its rosters and the British infantry watching from the perimeter tracks, they were the 1st Air Commando Group.
@@ -102,7 +102,7 @@
 
  Chapter Four
  The Invisible Screen: V Force and the Northern Approaches
- Dec 1943 – Jan 1944
+ Dec 1943 - Jan 1944
  The mist hung frozen over the razor-edge spurs of the Patkai Range, where British India ceased and northern Burma fell away into an abyss of green bamboo.
  In the winter of 1943, this frontier was not held by barbed-wire trench lines or regular infantry divisions. The border was an immense, trackless void of mountains, guarded only by the clandestine watch-and-warn network known as V Force, operating in uneasy coordination with the American irregulars of OSS Detachment 101.
  From hidden camps perched on the Naga and Kachin ridges, small teams of British officers, Burma Rifles veterans, and indigenous scouts looked south and east into the interior. They lived off dried beef, smoked fish, and rice carried in waterproof canvas wallets, their skin blackened by wood smoke and stained yellow from daily doses of Mepacrine.
@@ -130,7 +130,7 @@
 
  Chapter Five
  The Long March Steps Off: 16th Brigade from Ledo
- 5–15 Feb 1944
+ 5-15 Feb 1944
  At dawn on 5 February 1944, the railhead at Ledo was an iron churn of mud, diesel exhaust, and raw American industrial power.
  Along the road trace carved out by General Joseph Stilwell's engineers, giant Caterpillar D7 bulldozers growled through the red sludge, their steel blades peeling back the edge of the Naga Hills. Heavy six-wheel-drive GMC trucks and Dodge weapon carriers hauled crushed rock and culvert piping toward the forward construction camps, throwing sheets of reddish-brown water over the roadside ditches. GIs in grease-smeared fatigue caps leaned against the hoods of their vehicles, staring in unvarnished disbelief at the formation marching past them.
  Moving in single file along the road verge came the three thousand men and eight hundred mules of the 16th Infantry Brigade.
@@ -164,7 +164,7 @@
 
  Chapter Six
  Crossing the Chindwin: Fergusson's Vanguard
- 16–28 Feb 1944
+ 16-28 Feb 1944
  The Chindwin was four hundred yards of cold, slate-grey water sliding fast between sheer banks of yellow clay and dense elephant grass.
  By 18 February 1944, the vanguard of the 16th Infantry Brigade had descended from the bamboo ridges of the Patkai into the river flats north of Tonhe, far upstream from the primary Japanese river garrisons. The intelligence provided by the irregular reconnaissance screen had proven accurate: there was no Japanese infantry garrison defending the eastern bank. The crossing point was completely deserted.
  Yet the river itself was a formidable physical barrier.
@@ -187,7 +187,7 @@
 
  Chapter Seven
  The Imphal Threat: Slim Strips the 23rd Brigade
- Late Feb – 1 March 1944
+ Late Feb - 1 March 1944
  The situation room at Fourteenth Army Headquarters in Comilla was suffocating beneath the damp Bengal heat.
  Lieutenant-General William Slim stood in front of the master operational map of the Indo-Burmese frontier, a bone-handled clasp knife balancing between his thick fingers. Slim was fifty-two years old, square-jawed, broad-shouldered, and entirely devoid of theatrical pretension. Unlike the flamboyant figures who populated South East Asia Command, Slim possessed the unshakeable, earthy balance of an officer who had fought through Gallipoli, France, and the bitter retreat of 1942.
  Across the red-grease pencil lines marking the Chindwin River, the Japanese intelligence picture had suddenly darkened.
@@ -219,7 +219,7 @@
 
  Chapter Eight
  The Staging Grounds: Lalaghat and Hailakandi
- 4–5 March 1944
+ 4-5 March 1944
  The heat in the Surma Valley lay heavy over the tea gardens of Assam, thick with red dust and the reek of high-octane fuel.
  At Lalaghat airfield on 4 and 5 March 1944, the earth had been ground into a fine, choking powder that rose in blinding clouds with every turn of a propeller. Arrayed across the dispersal bays were more than eighty Waco CG-4A assault gliders of the 1st Air Commando Group. Beside them stood the Douglas C-47 Skytrains of the American air commando and Royal Air Force troop-carrier squadrons, their olive-drab cowlings radiating heat in the afternoon glare.
  Assembling on the field was the assault echelon of the 77th Indian Infantry Brigade.
@@ -286,7 +286,7 @@
 
  Chapter Ten
  The Snapping Lines
- 20:00–23:30, 5 March 1944
+ 20:00-23:30, 5 March 1944
  The air over the Lushai Hills was black, cold, and violent.
  Climbing eastward out of the Surma Valley, the twin Pratt &amp; Whitney radial engines of the Douglas C-47 transports labored at full manifold pressure, cylinder-head temperatures pegged in the red. Behind each lumbering transport, hitched to hundreds of feet of 11/16-inch synthetic nylon rope, trailed two Waco CG-4A gliders—the shorter 350-foot tow riding the high slot, the 450-foot tow wallowing in the turbulent prop-wash below.
  Inside the canvas fuselages, there was no illumination save for the faint luminescence of the instrument panels: an airspeed indicator, an altimeter, and a turn-and-bank coordinator.
@@ -335,7 +335,7 @@
 
  Chapter Twelve
  Soyalink: The Distress Call
- 02:00–04:00, 6 March 1944
+ 02:00-04:00, 6 March 1944
  The red dust over LZ Broadway hung suspended in the motionless air, smelling of pulverized loam, avgas, and torn parachute silk.
  In the center of the clearing, surrounded by the silhouettes of thirty-seven wrecked or immobilized gliders, Lieutenant Colonel John Alison knelt in the elephant grass beside a salvaged American SCR-284 radio set.
  The situation was critical. Over thirty men were dead, pinned beneath crushed fuselages or buried under shifted cargo. More than thirty others were severely wounded, their cries echoing across the clearing as medical officers set splints and administered plasma by the shielded glow of red torches. With each passing minute, the hum of approaching aircraft engines grew louder overhead.
@@ -401,7 +401,7 @@
 
  Chapter Fourteen
  Chowringhee: The Southern Crossing
- 6–8 March 1944
+ 6-8 March 1944
  The second landing ground lay eighty miles south of Broadway, deep inside the open scrub country east of the Irrawaddy River.
  On the operational maps, it was designated LZ Chowringhee, named after Calcutta's wide central boulevard. Sited on an open, sun-baked alluvial flat thirty-five miles northeast of Katha, its strategic purpose was distinct: while Calvert's 77th Brigade severed the railway corridor west of the river, the 111th Indian Infantry Brigade was to insert here, establish a blocking front across the river approaches, and choke off Japanese river convoys moving north toward Bhamo.
  The commander of the 111th Brigade was Brigadier Walter David Alexander "Joe" Lentaigne.
@@ -425,7 +425,7 @@
 
  Chapter Fifteen
  Evacuation Under the Bombs: The Exit from Chowringhee
- 9–14 March 1944
+ 9-14 March 1944
  The evacuation order went through the bivouacs of LZ Chowringhee with measured urgency.
  Brigadier Joe Lentaigne did not waste a single operational cycle. Having observed the Japanese reconnaissance aircraft map the open scrub on 8 March, he calculated the enemy air response to the hour. The strip had completed its primary mission: between the nights of 6 and 9 March, one hundred and thirty Dakota sorties had inserted twelve hundred men, their heavy weapons, and several hundred pack mules without a fatal crash. To linger on an open plain east of the Irrawaddy was an invitation to slaughter.
  In the pre-dawn hours of 10 March, the final scheduled transport lifted off the dirt strip, carrying out wounded personnel, glider pilots, and technical ground crew.
@@ -449,7 +449,7 @@
 
  Chapter Sixteen
  The Airhead Consolidated: The King's at Broadway
- 10–11 March 1944
+ 10-11 March 1944
  The night sky over Broadway roared with the continuous, synchronized thunder of twin-row radial engines.
  Between dusk on 10 March and the pre-dawn hours of 11 March 1944, the transport stream operated at peak capacity. Douglas C-47 Dakotas of the USAAF 1st Air Commando and RAF Troop Carrier Command swung into the landing circuit at three-minute intervals, guided only by hooded kerosene threshold lamps and the green signaling lamp of the American air-traffic control tent. Each transport touched down on the leveled red clay, reverse-taxied to the perimeter revetments, dropped its cargo doors, and discharged its stick of men and pack animals in under six minutes before rolling back into the takeoff lane.
  By dawn on 11 March, over five hundred transport sorties had touched down at Broadway and Chowringhee without the loss of a single powered aircraft in flight.
@@ -471,7 +471,7 @@
 
  Chapter Seventeen
  Seizing the Iron Road: Mawlu Siding
- 12–16 March 1944
+ 12-16 March 1944
  The march west from Broadway carried the 77th Indian Infantry Brigade across the broken limestone ridges of the Gangaw Range.
  For three days, between 12 and 15 March 1944, Brigadier Mike Calvert's columns marched through dense, dry teak forests and bamboo breaks. The men moved in silence, trailing over five hundred debrayed mules laden with 3-inch mortar tubes, ammunition panniers, and reels of barbed wire. The heat climbed steadily into the nineties, baking the thin topsoil and turning every dry creek bed into a trench of fine grey dust.
  Ahead of the main body, forward reconnaissance patrols of the 3rd Battalion, 6th Gurkha Rifles slipped down the western spurs into the valley.
@@ -494,7 +494,7 @@
 
  Chapter Eighteen
  Engineering White City
- 16–18 March 1944
+ 16-18 March 1944
  The low hills flanking the railway cutting at Henu were stripped of their undergrowth within forty-eight hours.
  Brigadier Mike Calvert made the perimeter layout with grease-pencil sketches on a field pad, assigning each hill feature to a specific battalion. To the west of the rails lay Anderson Hill, held by the 1st Battalion, The Lancashire Fusiliers; to the north and east stood the low knolls held by the 1st South Staffords and the Gurkha riflemen; beside the railway track rose the small, steep knoll crowned with a ruined Buddhist shrine, designated Pagoda Hill.
  The operational concept of a stronghold was an engineered killing zone.
@@ -503,8 +503,8 @@
  Working in shifts under a blistering 102-degree sun, British soldiers, Gurkha riflemen, and Royal Engineers excavated weapon pits from the hard, sun-baked clay. Picks and entrenching tools threw up showers of sparks against the limestone gravel. Deep, two-man slit trenches were linked by crawl trenches to communal command bunkers. Overhead cover was constructed from felled teak trunks four to six layers deep, lashed together with telephone wire, covered in waterproof groundsheets, and buried beneath three feet of tamped earth to absorb direct hits from 75mm mountain guns.
  In the gullies between the hills, 3-inch mortar batteries were established in deep, revetted pits.
  Forward observation officers ran field-telephone cables up to the forward crests. Every natural approach—the railway cutting, the dry creek beds, the edge of the teak forest, and the open paddy fields—was surveyed and registered. Mortar crews drove aiming stakes into the soil, recording the precise quadrant elevations and deflection angles on slate boards hung beside each tube:
- Target 1: Culvert 42 – 450 yards – Charge 2.
- Target 2: Road junction – 620 yards – Charge 3.
+ Target 1: Culvert 42 - 450 yards - Charge 2.
+ Target 2: Road junction - 620 yards - Charge 3.
  Around the entire perimeter, sappers unrolled miles of heavy concertina wire dropped by parachute.
  The wire was pegged out in double and triple aprons fifty yards out from the forward trenches. Sappers hung empty ration tins filled with pebbles from the barbs to serve as noise alarms, interspersing the coils with trip-wire flares and anti-personnel fragmentation mines. At vulnerable salients along the railway embankment, engineers buried fougasses—fifty-gallon fuel drums filled with a volatile mixture of aviation petrol, oil, ammonal explosive, and jagged track ballast, wired to electrical firing keys in the front-line trenches.
  Inside the southern perimeter, a clearance party of Lancashire Fusiliers cleared an eight-hundred-yard strip of flat paddy, leveling the low earthen bunds with pickaxes and shovels.
@@ -518,7 +518,7 @@
 
  Chapter Nineteen
  Banzai in the Wire
- 18–19 March 1944
+ 18-19 March 1944
  The night of 18 March fell over the Henu valley in absolute blackness, broken only by the chirping of cicadas and the hum of insects in the elephant grass.
  In the forward slit trenches of White City, the men of the 1st South Staffords and 1st Lancashire Fusiliers waited behind their sandbag parapets, their fingers resting on the trigger guards of their Lee-Enfields and Bren guns. Along the reverse slopes of the low hills, Vickers machine-gun crews sat braced behind their water-cooled barrels, the guns locked onto fixed tactical aiming stakes driven into the parapets—lines of grazing fire surveyed to skim three inches above the top of the concertina wire.
  At 23:45 hours, the jungle south of the railway cutting erupted.
@@ -549,7 +549,7 @@
 
  Chapter Twenty
  Cochran's Tree-Top Artillery
- 19–21 March 1944
+ 19-21 March 1944
  The heat in the Henu cutting by midday on 19 March was stagnant, smelling of burnt powder, rotting vegetation, and the uncollected dead lying along the outer wire.
  Inside the perimeter of White City, the defenders stayed down in their slit trenches. From the high teak forest three hundred yards south and west, Japanese snipers and concealed Type 92 heavy machine guns—the sharp, hammering "woodpeckers"—kept up a persistent harassing fire. More ominous were the thuds of 70mm infantry battalion guns firing from the reverse slopes of the jungle ridges, systematically registering on the Chindit mortar pits.
  Brigadier Mike Calvert knelt in the brigade command trench beside an RAF Flight Lieutenant manning the Visual Control Post (VCP).
@@ -614,7 +614,7 @@
 
  Chapter Twenty-Two
  The Flank on the Irrawaddy: Morris Force
- 15–22 March 1944
+ 15-22 March 1944
  East of the Irrawaddy, the war was fought in silence, broken only by the crack of ambushes along the river roads.
  While Calvert's 77th Brigade entrenched at White City and Lentaigne's main body marched west into the hills, Lieutenant Colonel J. R. "Jumbo" Morris and his independent detachment—Morris Force—operated in absolute isolation. Comprising two columns of the 4th Battalion, 9th Gurkha Rifles (Columns 49 and 94), the force numbered barely eight hundred men and two hundred pack mules, cut off from the rest of Special Force by the mile-wide expanse of the Irrawaddy River.
  Their operational instructions, issued directly by Wingate, were vast in scope and unsparing in execution: establish a mobile screen across the eastern flank, sever the road and river networks connecting Bhamo to the railhead at Katha, and interdict the primary motor highway running north toward Myitkyina.
@@ -641,7 +641,7 @@
 
  Chapter Twenty-Three
  The March of Thirst: 16th Brigade Approaches Indaw
- 20–23 March 1944
+ 20-23 March 1944
  The teak forest north of Indaw was an open furnace.
  By 20 March 1944, the 16th Infantry Brigade had been marching on foot for forty-five consecutive days. Since stepping off from the railhead at Ledo on 5 February, Brigadier Bernard Fergusson's columns had covered more than four hundred and twenty miles across the razorbacks of the Patkai Range, hacked their way through primary mountain jungle, and forced the four-hundred-yard barrier of the Chindwin River.
  Now, descending into the lower basin twenty miles northwest of Indaw, the geography turned lethal.
@@ -670,7 +670,7 @@
 
  Chapter Twenty-Four
  The Catastrophe at Indaw
- 24–27 March 1944
+ 24-27 March 1944
  The assault on Indaw began in the scorching heat of 24 March 1944.
  From the scrub-covered ridges north of the town, Brigadier Bernard Fergusson deployed the exhausted columns of the 16th Infantry Brigade for a multi-pronged assault. His mission, dictated by Wingate's operational orders, was clear: seize the two operational airfields—Indaw West and Indaw East—and capture the town to sever the railway junction connecting Mandalay to the northern front.
  The operational plan was split between four converging columns.
@@ -752,7 +752,7 @@
 
  Chapter Twenty-Seven
  The Power Vacuum and Lentaigne's Ascension
- 25–30 March 1944
+ 25-30 March 1944
  The news of Orde Wingate's death hit Special Force like a structural fracture.
  At Fourteenth Army Headquarters in Comilla on 26 March 1944, Lieutenant-General William Slim sat in conference with his senior staff, the confirmed casualty report before him. Deep in the interior of Upper Burma, twenty thousand men of the 3rd Indian Infantry Division were operating behind enemy lines, sustained only by air supply.
  Special Force had been forged in the image of its creator. Wingate's personal access to Winston Churchill, his biblical charisma, and his uncompromising force of will had shielded the division from conventional bureaucratic interference. Without him, the enterprise risked disintegrating into squabbling command factions precisely as the Japanese 15th Army mounted its major counter-strokes.
@@ -777,7 +777,7 @@
 
  Chapter Twenty-Eight
  Stronghold Aberdeen and the 14th Brigade
- Late March – Early April 1944
+ Late March - Early April 1944
  The valley around the village of Manhton, twenty-five miles north of Indaw, was flat, wide, and hemmed in by steep, forest-clad limestone ridges.
  Designated Stronghold Aberdeen, the site had been selected by Wingate during the planning stages as the primary staging base for operations against Indaw. In mid-March, forward elements of the 16th Brigade and sappers of the Royal Engineers had secured the clearing, felled the timber, and scraped a twelve-hundred-yard all-weather strip out of the dry clay.
  Between 23 March and 4 April 1944, the transport stream at Aberdeen operated at full tempo.
@@ -830,7 +830,7 @@
 
  Chapter Thirty
  Siting the Trap
- Late April – 8 May 1944
+ Late April - 8 May 1944
  The valley around Hopin was a narrow, green throat through which ran both the single-track railway and the motor road to Mogaung.
  In early May 1944, Brigadier John Masters led the 111th Indian Infantry Brigade down from the western hills into this bottleneck, thirty miles south of Mogaung. His operational directive, issued by Major-General Joe Lentaigne under pressure from General Joseph Stilwell, was unambiguous: establish a new fortified stronghold across the railway, cut all Japanese road and rail traffic moving north to reinforce Kamaing, and hold the block at all costs.
  The new stronghold was designated Blackpool.
@@ -853,7 +853,7 @@
 
  Chapter Thirty-One
  Digging into the Soup
- 9–17 May 1944
+ 9-17 May 1944
  The rain began on the afternoon of 9 May 1944, not as a seasonal shower, but as a solid, unbroken wall of water.
  In a normal year, the southwest monsoon did not break over Upper Burma until the first week of June. In 1944, the weather system detonated three weeks early. Within twelve hours, the baked, concrete-hard clay of the Hop-in Valley was completely saturated, and the low ground flanking the railway line dissolved into a viscous, reddish-brown slurry that the men immediately christened "the soup."
  Inside the perimeter of Blackpool, the engineering of the stronghold collapsed into a battle against liquefying earth.
@@ -880,7 +880,7 @@
 
  Chapter Thirty-Two
  The Heavy Guns Open
- 17–20 May 1944
+ 17-20 May 1944
  At 06:15 hours on 17 May 1944, the mist clinging to the western ridges of the Hop-in Valley was torn apart by the flash of heavy ordnance.
  A second later came the sound—not the hollow pop of knee-mortars, but the rolling roar of heavy artillery echoing off the limestone cliffs. High overhead, the tearing sound of heavy shells ripped through the rain, followed by detonations that shook the bedrock beneath the Keep. Geysers of red clay and black smoke erupted eighty feet into the air along the railway embankment.
  The Japanese 53rd Division had emplaced its artillery group on the heights.
@@ -908,7 +908,7 @@
 
  Chapter Thirty-Three
  The Drowning Perimeter: Shellfire and Sickness
- 20–23 May 1944
+ 20-23 May 1944
  By 20 May 1944, Stronghold Blackpool was disintegrating under a deluge of water and high explosive.
  The southwest monsoon had settled over the Hop-in Valley with relentless fury. Day and night, torrential rains pounded the alluvial flat, dissolving the remaining trench walls into red slurry and filling every shell hole with four feet of muddy water. Overhead, the cloud base hung fifty feet above the trees, cloaking the surrounding ridges in dense grey mist from which the Japanese guns fired with impunity.
  The artillery bombardment was continuous.
@@ -937,7 +937,7 @@
 
  Chapter Thirty-Four
  The Broken Wire
- 24–25 May 1944
+ 24-25 May 1944
  The final assault on Blackpool began at 21:00 hours on 24 May 1944.
  A blinding monsoonal downpour was falling over the Hop-in Valley, drowning the sound of footsteps in the mud. Without warning, the Japanese artillery on the western heights opened in a single, coordinated crash: 150mm howitzers, 105mm field guns, and 75mm mountain guns fired in salvos, concentrating their shells into a three-hundred-yard box around the southern knoll and the railway embankment.
  For forty minutes, the inner redoubt was submerged in smoke, fire, and liquid mud.
@@ -1021,7 +1021,7 @@
 
  Chapter Thirty-Six
  Sunderlands on Lake Indawgyi
- Late May – Early June 1944
+ Late May - Early June 1944
  The expanse of Lake Indawgyi appeared through the mist like a slate-grey inland sea.
  Sixteen miles long and six miles wide, the largest freshwater body in Burma sat cradled in a natural mountain basin sixty miles southwest of Mogaung. By late May 1944, the monsoonal floods had swollen its margins, submerging the shoreline paddy fields and lapping against the stilts of the deserted fishing hamlets of Lonton and Hepa.
  To the survivors of Brigadier John Masters' 111th Brigade dragging themselves down from the Kumon Range after the fall of Blackpool, and the sick filtering in from Thomas Brodie's 14th Brigade screening the southern ridges, the lake was a natural cul-de-sac.
@@ -1051,7 +1051,7 @@
 
  Chapter Thirty-Seven
  The Rotten March North
- Late May – Early June 1944
+ Late May - Early June 1944
  The lowlands east of the Kumon Range had ceased to exist as solid earth; they were an unbroken expanse of flooded paddy, drowned bamboo bottoms, and rivers of liquid red clay.
  Following the demolition and abandonment of White City in mid-May 1944, Brigadier Mike Calvert had turned the 77th Indian Infantry Brigade northeast. Their operational axis was not the secluded valley of Lake Indawgyi, but the low-lying corridor flanking the railway line, marching toward the primary communications hub of Mogaung.
  Of the two thousand two hundred men who had flown into Burma in March, fewer than eight hundred remained in the rifle companies. The 1st Battalion, The South Staffordshire Regiment, the 1st Battalion, The Lancashire Fusiliers, and the 3/6th and 3/9th Gurkha Rifles had fought continuously for three months without relief, sustained entirely by air drops, and their bodies were in an advanced state of physiological breakdown.
@@ -1076,7 +1076,7 @@
 
  Chapter Thirty-Eight
  Rearguard in the Deluge
- 5–12 June 1944
+ 5-12 June 1944
  West of the railway corridor, between the swollen Mogaung River and the eastern slopes of the Kumon Range, the rearguard was fighting for its life in the rain.
  While Mike Calvert's 77th Brigade pushed toward the southern outskirts of Mogaung, two full formations formed the division's operational shield: Brigadier Thomas Brodie's 14th Infantry Brigade and Brigadier A. H. Gillmore's 3rd West African Brigade. Their mission was vital to the survival of Special Force: hold the jungle tracks running north from the Hop-in Valley, absorb the pursuit of the Japanese 53rd Division, and prevent enemy reinforcements from striking Calvert's rear while he invested the city.
  The fighting took place in an unmapped labyrinth of drowned teak forest and flooded bamboo bottoms.
@@ -1103,7 +1103,7 @@
 
  Chapter Thirty-Nine
  Under Stilwell's Iron Thumb
- 10–15 June 1944
+ 10-15 June 1944
  The headquarters of Northern Combat Area Command at Shaduzup was a compound of olive-drab canvas tents and split-bamboo huts pitched in the mud of the Hukawng Valley.
  Inside the operations tent, rain drummed unceasingly against the canvas fly. Standing before a large wall map of northern Burma, dressed in a faded chino uniform devoid of rank insignia and wearing his battered First World War campaign hat, stood Lieutenant General Joseph W. "Vinegar Joe" Stilwell. At sixty-one, Stilwell was lean, grey-haired, and consumed by a single, unyielding ambition: to open the Ledo Road to China and redeem the catastrophic retreat he had led out of Burma two years earlier.
  Every tactical consideration on Stilwell's map was subordinated to two objectives: Kamaing and Myitkyina.
@@ -1132,7 +1132,7 @@
 
  Chapter Forty
  The Approaches: The Battle for Pin Hmi
- 6–11 June 1944
+ 6-11 June 1944
  The village of Pin Hmi stood two miles south of Mogaung, straddling a low, brush-covered ridge above the swollen Pin Hmi Chaung.
  To the Japanese 53rd Division, this position was the vital outer bastion protecting the southern entrance to Mogaung. If the British secured the ridge and crossed the stream, the railway station, the motor transport park, and the supply depots of the city would be laid open to direct assault. To bar the approach, Japanese combat engineers had constructed an elaborate defensive system: mutually supporting log pillboxes, rifle pits revetted with railway timber, and concealed machine-gun positions sited beneath the bamboo thickets, commanding the only bridge across the flooded creek.
  On 6 June 1944, Brigadier Mike Calvert brought the surviving columns of the 77th Indian Infantry Brigade into the mud south of the village.
@@ -1161,7 +1161,7 @@
 
  Chapter Forty-One
  The Red Mud of Mogaung
- 13–25 June 1944
+ 13-25 June 1944
  The town of Mogaung was an abattoir of splintered teak, shattered brickwork, and red, liquid mud.
  Between 13 and 25 June 1944, Brigadier Mike Calvert's 77th Indian Infantry Brigade fought its way yard by yard through the urban ruins. The town sat in a bend of the swollen Mogaung River, bounded to the west by the railway embankment and the iron girders of the railway bridge. To the Japanese 53rd Division and the rear detachments of the 18th Division, this was the last barrier. If Mogaung fell, the escape route for Japanese forces facing Stilwell's Chinese divisions at Kamaing was cut, and the road to Myitkyina was permanently unhinged.
  The fighting was savage and close-quartered.
@@ -1196,8 +1196,8 @@
  Minutes later, the wireless set crackled to life, picking up an Allied radio broadcast radiating from Stilwell's headquarters in Shaduzup that would ignite one of the most explosive confrontations of the Second World War.
 
  Chapter Forty-Two
- “Taking Umbrage”
- 26–28 June 1944
+ "Taking Umbrage"
+ 26-28 June 1944
  The rain dripped steadily through the rusted, shrapnel-torn zinc roof of the Mogaung railway station, drumming against the concrete platform where the survivors of the 77th Indian Infantry Brigade lay in the mud.
  It was the morning of 26 June 1944. The town had been cleared twenty-four hours earlier after fourteen days of sustained, close-quarter combat. In the waterlogged drainage ditches, the railway sidings, and the scorched masonry of the Red House lay two hundred and fifty-four Japanese dead. The air was thick with the suffocating reek of cordite, flooded latrines, and decomposing corpses that had bloated in the humid heat.
  Inside a shattered brick administrative office across from the platform, Brigadier Mike Calvert sat behind a scarred wooden trestle table, reviewing the morning strength returns with his brigade major.
@@ -1235,7 +1235,7 @@
 
  Chapter Forty-Three
  The Shaduzup Showdown
- Late June – Early July 1944
+ Late June - Early July 1944
  The monsoonal squalls over the Naga Hills battered Major-General Joe Lentaigne's light liaison aircraft as it banked through the cloud deck toward the Hukawng Valley.
  On 28 June 1944, the aircraft touched down on the perforated steel planking of the airstrip at Northern Combat Area Command headquarters in Shaduzup. Stepping out into the red mud, Lentaigne was dressed in faded, salt-crusted jungle greens and his battered Gurkha slouch hat. Under his arm he carried a heavy canvas map case packed with the daily casualty returns, signal logs, and medical ledgers of Special Force.
  Inside the NCAC command tent, the air was suffocating beneath the damp heat.

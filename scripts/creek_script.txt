@@ -173,7 +173,7 @@ The raid on Mormugao Harbor, Goa, 1943
 
 Chapter One
 The Race for the Zuari
-1–3 September 1939
+1-3 September 1939
 
 At 08:00 on the morning of 1 September 1939, the motor vessel Ehrenfels was thirty-six hours out of Cochin, steering three-four-zero up the Malabar Coast of India.
 She was running under the tail end of the southwest monsoon. The sea was an expanse of leaden swells topped with dirty yellow foam, the horizon obscured by rain squalls that swept in from the open Arabian Sea and masked the palm-fringed shoreline of South Kanara ten miles to starboard. On the forward well deck, Indian Lascar deckhands were securing the canvas hatch tarpaulins over hold number two, their singlets soaked through with a mixture of warm rain and salt spray.
@@ -421,7 +421,7 @@ They were four silent, protected platforms inside an international sanctuary—w
 NARRATOR
 Chapter Three
 The Concealed Circuit
-1941 – Early 1942
+1941 - Early 1942
 
 In the dead water of Mormugao Bay, time was measured not by voyages, but by the relentless accumulation of rust.
 By the beginning of 1941, the four Axis merchantmen had spent more than a year swinging at their moorings. Under the blistering tropical sun and the torrential downpours of the monsoon, the salt air ate steadily into iron and steel. Long scabs of reddish-orange ferric oxide wept from hawseholes, scupper drains, and rivet lines, staining the gray harbor water. Thick mats of brown ribbon weed and gooseneck barnacles clustered along their bilges, dragging at their idle hulls.
@@ -676,7 +676,7 @@ MARR-JOHNSON
 A submarine does not transmit on scheduled frequencies from the same coastal patch for eight consecutive weeks. And a mobile agent on land does not throw a ground wave that cuts clean across the subcontinent to Jabalpur.
 
 NARRATOR
-Marr-Johnson walked to a locked steel filing cabinet behind the drafting table. He brought out a red-jacketed file marked MOST SECRET – JOINT INTELLIGENCE FUSION (GOA).
+Marr-Johnson walked to a locked steel filing cabinet behind the drafting table. He brought out a red-jacketed file marked MOST SECRET - JOINT INTELLIGENCE FUSION (GOA).
 Inside were the surveillance dispatches submitted over the preceding four months by Lieutenant-Colonel Claude Bremner, the British Consul in Panjim, alongside courier monitoring tallies compiled by Indian Political Intelligence.
 Marr-Johnson opened Bremner's latest report and laid it directly beside the signals plot.
 
@@ -765,7 +765,7 @@ CAROE
 You speak as though Mormugao were an isolated island in the South Seas.
 
 NARRATOR
-He picked up the yellow Foreign Office cable between his thumb and forefinger, holding it up so Montgomerie could see the red WAR CABINET – DISTRIBUTION LIMITED stamp at the head.
+He picked up the yellow Foreign Office cable between his thumb and forefinger, holding it up so Montgomerie could see the red WAR CABINET - DISTRIBUTION LIMITED stamp at the head.
 
 CAROE
 You do not understand Dr. António de Oliveira Salazar, Captain. Nor do you appear to understand the precarious thread upon which the survival of the British Isles currently hangs.
@@ -2056,7 +2056,7 @@ The rendezvous at Cochin was three days away.
 NARRATOR
 Chapter Seventeen
 The Paper Trail of Alibis
-Late February – Early March 1943
+Late February - Early March 1943
 
 In the corporate offices along Clive Street and Dalhousie Square, the departure of eighteen senior British executives required a masterpiece of administrative fraud.
 Under the Defence of India Rules, no European manager in a reserved occupation could leave the municipal boundaries of Calcutta for more than forty-eight hours without a written travel clearance endorsed by the provincial Directorate of National Service. The city's industrial machine was operating under martial law; if three senior partners from the managing agencies vanished at the same time, the civil police and military provost marshals would initiate inquiries within a day.
@@ -2067,7 +2067,7 @@ For Lieutenant Cren Sandys-Lumsdaine, the cover was big game. He arranged an off
 Captain Robert Hutton Duguid, responsible for the four-man detachment from the Calcutta Scottish, handled his men with the precision of the senior tea accountant he was. He secured internal transfer orders for his three territorial infantrymen—junior clerks from the commercial banks—dispatching them to conduct surprise physical audits of tea estates in the high country of Travancore.
 By the first of March, the paper alibis were complete, filed, stamped, and logged into the commercial registers of the city. To the Ministry of Supply, eighteen men were merely conducting the ordinary, tedious work of British commerce in the East.
 The packing was carried out behind locked doors on the upper floor of 24 Park Street.
-There were no military kit bags, no web belts, and no steel helmets. The ordnance provided by Force 136 arrived at the rear stables of the Light Horse at midnight in the back of an unmarked Morris commercial laundry van, packed inside grease-stained wooden crates stenciled PUMP PACKINGS – CALCUTTA PORT TRUST.
+There were no military kit bags, no web belts, and no steel helmets. The ordnance provided by Force 136 arrived at the rear stables of the Light Horse at midnight in the back of an unmarked Morris commercial laundry van, packed inside grease-stained wooden crates stenciled PUMP PACKINGS - CALCUTTA PORT TRUST.
 Pugh, Grice, and Duguid unpacked the weapons by the dim light of two kerosene hurricane lamps.
 The primary assault weapon was the Sten Mark II submachine gun. Cheap, stamped from sheet metal, and weighing barely seven pounds, the Sten was an ugly, utilitarian weapon, but it possessed one supreme virtue for clandestine warfare - it could be dismantled in twelve seconds into three entirely innocuous pieces.
 Duguid sat on a packing crate, his sleeves rolled up, wiping the thick brown cosmoline storage grease from the bolt mechanisms with rags soaked in petrol.
@@ -2127,7 +2127,7 @@ Ten minutes later, the iron gates of 24 Park Street swung open. The eighteen men
 NARRATOR
 Chapter Eighteen
 The Trans-India Railway
-2–5 March 1943
+2-5 March 1943
 
 The railway system in the spring of 1943 was under intolerable strain. The broad-gauge trunk lines were choked with military traffic - flatcars loaded with crated aircraft parts bound for the Assam airfields, oil tankers shuttling between the refineries and the army depots, and overcrowded troop trains carrying battalions of the 14th Indian Division toward the Arakan.
 At every major junction, red-capped provost marshals of the Corps of Military Police walked the platforms with leather-cased sidearms, checking the movement warrants of British soldiers, while plainclothes inspectors from the Government Railway Police scanned the civilian crowds for deserters, Congress Party agitators, and black-market grain speculators.
@@ -2332,7 +2332,7 @@ At 23:45, under a moonless Malabar sky, the WV Phoebe cast off her lines, backed
 NARRATOR
 Chapter Twenty
 Steaming North
-6–8 March 1943
+6-8 March 1943
 
 Dawn broke over the Arabian Sea on 6 March as a thin, brassy line against the dark silhouette of the Western Ghats.
 Ten miles off the Malabar Coast, the WV Phoebe chugged north at seven and a half knots. Her Scotch boilers, fed on high-calorie Welsh steam coal, ran with a clean, low vibration, throwing only a faint trail of pale smoke against the morning sky.
@@ -2423,7 +2423,7 @@ Eighteen middle-aged gentlemen from Calcutta were twelve hours from committing a
 NARRATOR
 Chapter Twenty-One
 The Rot at Mormugao
-7–8 March 1943
+7-8 March 1943
 
 To live aboard an interned merchantman in the fourth year of the war was to experience the slow, conscious death of a ship.
 In the dead water of Mormugao Bay, the heat of early March was a physical weight. By midday, the steel deckplates of the Ehrenfels were hot enough to blister the soles of bare feet. Below decks, in the unventilated crew quarters, the air had the sour, greasy stink of unwashed hammocks, stale tallow, rotting bilge water, and the pungent vinegar used by the ship's cook to preserve the last casks of rancid cabbage.
@@ -2482,7 +2482,7 @@ Herr Kapitän. From the harbor master's office. And from the town.
 
 NARRATOR
 Rössing took the paper. It was printed in Portuguese and poor German on cheap pink newsprint:
-GRAND CARNIVAL GALA – VASCO DA GAMA
+GRAND CARNIVAL GALA - VASCO DA GAMA
 Tuesday, 9 March 1943
 To the gallant officers and crews of the interned merchant marine - An evening of fraternal entertainment, complimentary beer, Portuguese wines, hot roast meats, and music at the Salão Municipal. Courtesy of the European Hospitality Committee.
 Rössing lowered the paper.
@@ -2533,7 +2533,7 @@ Yet as the old captain watched the sun begin its long, slow descent toward the w
 NARRATOR
 Chapter Twenty-Two
 Jock Cartwright's Carnival
-8–9 March 1943
+8-9 March 1943
 
 Vasco da Gama in the second week of March did not feel like part of the Indian subcontinent; it felt like a decaying provincial town in southern Portugal, pickled in salt air and Catholic ritual.
 Narrow alleys of red laterite stone wound past peeling whitewashed villas with green wooden shutters and red-tiled roofs. In the public squares, pigs rooted through refuse in the gutters under the shade of jacaranda trees, while barefoot Goan fishermen mended coir nets outside tavernas that reeked of fried mackerel, garlic, and cheap cashew feni.
@@ -2883,7 +2883,7 @@ Get your ladders up to the rail, lads. We're crossing the bar.
 NARRATOR
 Chapter Twenty-Five
 Crossing the Harbor Bar
-9–10 March 1943 — 23:45 to 00:20
+9-10 March 1943 — 23:45 to 00:20
 
 The bar at the mouth of the Zuari River was a shallow ridge of shifting sand and dead coral that lay like a submerged tripwire across the entrance to Mormugao Harbor.
 At low water, it carried barely eight feet of clearance. Even now, with the spring tide flooding toward midnight high water, the sounding line in Davies' hand showed only fourteen feet. The WV Phoebe, laden with Welsh coal, ballast, and the deadweight of her dredge machinery, was drawing eleven.
@@ -3651,7 +3651,7 @@ Behind him, Mormugao was a smear of black smoke fading into the coastal heat, bu
 NARRATOR
 Chapter Thirty-Six
 The Strategic Dividend
-Mid-March 1943 – Postwar
+Mid-March 1943 - Postwar
 
 On the morning of 14 March 1943, the WV Phoebe slipped past the Prongs Reef light into the commercial basin of the Bombay Docks.
 Her buff plating was caked in dried brine, her lashed timber fenders splintered and blackened, and her blunt iron snout scarred by gray lines of sheared rivets. No naval guard of honor attended her berth. No flags were flown.

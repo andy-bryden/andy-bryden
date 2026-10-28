@@ -11,7 +11,7 @@
  Tirpitz.
  Forty-two thousand nine hundred tons standard displacement; fifty-two thousand six hundred fully laden. Eight 15-inch SK C/34 guns across four twin turrets. Twelve 5.9-inch secondary guns. An armored belt thirteen inches thick, backed by Krupp cemented steel. She was the largest, heaviest battleship ever built by a European navy, and she spent the freezing spring of 1942 burning fuel solely to keep her dynamos running at anchor.
  Across the cabinet table, the Prime Minister's minute of 25 January 1942 was well known to the Naval Staff. Winston Churchill had written directly to General Ismay for the Chiefs of Staff Committee in language stripped of his usual baroque flourish:
- “The destruction or even crippling of this ship is the greatest event at sea at the present time. No other target is comparable to it… The entire naval situation throughout the world would be altered.”
+ "The destruction or even crippling of this ship is the greatest event at sea at the present time. No other target is comparable to it… The entire naval situation throughout the world would be altered."
  The First Sea Lord, Admiral of the Fleet Sir Dudley Pound, was a man exhausted by the relentless arithmetic of global tonnage loss. He understood precisely what Churchill meant by "the entire naval situation."
  Because Tirpitz sat in Norway, the British Home Fleet was shackled to the cold gray moorings of Scapa Flow. To cover the Arctic convoys carrying tanks, aviation fuel, and raw rubber to Murmansk and Archangel, the Royal Navy was forced to maintain a permanent covering force of at least two modern battleships, an aircraft carrier, four cruisers, and a screen of destroyers. These were capital ships desperately needed in the Mediterranean to relieve Malta, and in the Indian Ocean to halt the southward expansion of the Imperial Japanese Navy.
  If Tirpitz raised steam and broke out into the Atlantic shipping lanes, she could tear through the central artery of Britain's merchant supply like a scythe. If she stayed in the fjords, she achieved nearly the same result without firing a main-battery round in anger. She was the supreme embodiment of the German Existenzflotte—the fleet-in-being.
@@ -161,7 +161,7 @@
  Chapter Five
  Clammy Death
  Loch Striven, Scotland
-  February–March 1943
+  February-March 1943
  The suit was officially designated the "Submarine Diver's Surface-Breathing and Shallow-Water Diving Dress."
  The men who had to wear it called it "Clammy Death."
  Manufactured by Siebe, Gorman & Company to a design by Commander Sladen, it was a one-piece coverall made of thin, bottle-green sheet rubber backed with fine twill. It had no internal heating, no thermal padding, and offered zero insulation against the Scottish winter. A diver pulled it on over two or three layers of thick Shetland wool long-johns and sweaters. You stepped in through an expansive neck aperture, pulled the rubber over your shoulders, and had an assistant clamp a rigid brass neck-ring and heavy rubber collar around your throat with wing-nuts.
@@ -219,7 +219,7 @@
  Chapter Six
  The Blue Prince and the Box
  RAF Medmenham, Buckinghamshire / Kåfjord, Norway
-  April–August 1943
+  April-August 1943
  The intelligence was built out of two fragile materials - glass photographic plates and short-wave Morse code.
  At Danesfield House, a country estate at Medmenham requisitioned by the RAF Central Interpretation Unit, Section Leader Constance Babington Smith and the photographic interpreters worked under shaded lamps with stereoscopic magnifying viewers.
  Before them lay 9-by-9-inch negative contact prints flown back by unarmed De Havilland Mosquito PR.IVs flying at thirty thousand feet out of RAF Leuchars in Fife and staging through the Soviet airfield at Vaenga near Murmansk. Looking through the binocular optics, the flat gray print popped into startling three-dimensional relief.
@@ -264,7 +264,7 @@
  Chapter Seven
  Port HH
  Loch Cairnbawn, Sutherland, Scotland
-  11–12 September 1943
+  11-12 September 1943
  In the extreme north-west corner of the Scottish Highlands, Loch Cairnbawn—code-named "Port HH"—was an empty, sea-sculpted cleft of salt water guarded by the cliffs of Sutherland. There was no railhead, no town, and no telephone line that had not been tapped by Naval Intelligence.
  Swinging on their moorings in the sheltered roadstead were two depot ships - HMS Bonaventure and the veteran submarine tender HMS Titania. Alongside them lay six full-sized fleet submarines of the S- and T-classes - Truculent, Syrtis, Thrasher, Seanymph, Stubborn, and Sceptre.
  Tethered astern of each large submarine, wallowing low in the black peat-tinged water like harbor buoys, were the six operational X-craft - X5 through X10.
@@ -301,7 +301,7 @@
  Chapter Eight
  Life in the Box
  The Norwegian Sea
-  12–15 September 1943
+  12-15 September 1943
  The motion was neither that of a surface ship nor a free-running submarine.
  Towed at eight knots by twelve hundred feet of nylon line, an X-craft behaved like an iron sinker dragged behind a cart. When the parent submarine crested an ocean roller forty feet above, the hawser snatched tight with a mechanical groan that reverberated directly through the steel ribs of the midget's hull. The bow surged upward; then, as the line plunged back into the trough, the bow dropped violently, corkscrewing through thirty degrees of list before the rudder could bite.
  Inside, daylight did not exist. The passage crews lived in an amber twilight cast by two low-amperage instrument bulbs shielded with wire mesh.
@@ -392,7 +392,7 @@
  Chapter Ten
  The List to Starboard
  HMS Seanymph and X8, Barents Sea (70° N, 15° E)
-  15–17 September 1943
+  15-17 September 1943
  Forty miles south-west of Syrtis's search track, HMS Seanymph was already fighting to keep her tow alive.
  The first break had come in the early darkness of 15 September. At 04:05, while running submerged, the three-inch hemp-and-wire towline between Seanymph and X8 snapped clean at the forward bridle. Aboard the parent submarine, Lieutenant J.P.H. Oakley logged no sudden change in engine drag, and with the telephone line dead, the loss went unnoticed until Seanymph surfaced at 06:00 to carry out the morning ventilation.
  Looking astern from the conning tower, Oakley found only empty gray water.
@@ -435,7 +435,7 @@
  Chapter Eleven
  Shockwave
  HMS Seanymph and X8, Barents Sea (71°41′ N, 18°11′ E)
-  17–18 September 1943
+  17-18 September 1943
  Sub-Lieutenant Jack Smart reached down to the brass release gear on the starboard side of the control room.
  The mechanism was mechanical - a hand-cranked worm drive connecting a steel shaft through a watertight stuffing box in the pressure hull to the four external suspension claws. Beside it sat the hydrostatic safety pistol. Smart adjusted the knurled dial, ensuring the depth-arming mechanism was disengaged—set to "safe"—so that water pressure as the charge sank would not compress the firing spring against the detonator cap.
  "Stand by to release starboard," Smart called.
@@ -496,7 +496,7 @@
  Chapter Twelve
  The Handover
  Off Sørøya, Norway
-  19–20 September 1943
+  19-20 September 1943
  At 69° North, the edge of the continental shelf drops into black water.
  Through the periscopes of the four surviving parent submarines—Truculent, Stubborn, Thrasher, and Sceptre—the loom of land appeared at dawn on 19 September - a jagged, black saw-tooth of slate rock, flecked with dirty autumn snow, rising out of the Arctic swell. It was the island of Sørøya, the outer barrier reef shielding the mouth of Altafjord from the Barents Sea.
  They had arrived at the operational release zone, designated in the operation orders as "Area Free."
@@ -547,7 +547,7 @@
  Chapter Thirteen
  Stjernsund
  Approaches to Stjernsund, Northern Norway
-  Night of 20 September – Day of 21 September 1943
+  Night of 20 September - Day of 21 September 1943
  The four craft separated into the dark, each maintaining an interval of several miles to prevent mutual interference or collision.
  Under the operation orders, each commanding officer was left to his own navigation. The immediate obstacle lay directly ahead across the mouth of Stjernsund - a declared German defensive minefield, plotted from intelligence reports as a dense barrier of moored contact mines anchored to deny the inner channels to Allied submarines.
  Donald Cameron stood waist-deep in the circular opening of X6's midships hatch, wedged between the raised brass coaming and the bronze periscope barrel.
@@ -592,7 +592,7 @@
  Chapter Fourteen
  The Blind Eye of X10
  Stjernsund, Northern Norway
-  21 September – Predawn, 22 September 1943
+  21 September - Predawn, 22 September 1943
  For Lieutenant Kenneth Hudspeth, the battle had ceased to be about the German battlecruiser Scharnhorst. It was an engineering war against his own hull.
  As X10 fought the strong adverse currents in the narrowing gut of Stjernsund on 21 September, the delicate electromechanical components inside the thirty-ton craft began to fail under the relentless assault of vibration, saltwater weeping, and internal condensation.
  The first casualty was the periscope hoisting gear.
@@ -638,7 +638,7 @@
  Chapter Fifteen
  Fire and Salt
  Altafjord, Northern Norway
-  Night of 21 September – Predawn, 22 September 1943
+  Night of 21 September - Predawn, 22 September 1943
  Inside X6, running at thirty feet on her electric motor across the wide basin of Altafjord, the internal air temperature hovered at three degrees Celsius.
  Sub-Lieutenant John Lorimer sat at the diving plane controls, watching the depth gauge. Ahead of him, Sub-Lieutenant Richard Kendall monitored the steering. Donald Cameron stood amidships at the periscope, his boots resting in two inches of oily bilge water that had collected above the floorboards.
  The leak through the periscope packing gland, which Sub-Lieutenant Clark had logged during the handover off Sørøya, had worsened under continuous submersion.
@@ -682,7 +682,7 @@
  Chapter Sixteen
  The Outer Boom
  Entrance to Kåfjord (Bratteklev)
-  04:00–06:00, 22 September 1943
+  04:00-06:00, 22 September 1943
  The entrance to Kåfjord narrowed to a deep, jagged throat barely eight hundred yards wide, flanked on the western side by the dark promontory of Bratteklev.
  Across this gap, the Kriegsmarine had anchored the first line of harbor defense - the outer anti-submarine boom. Supported by iron buoys and heavy baulks of timber, wire nets hung vertically down into the fjord to foul the propellers and rudders of any submerged vessel attempting to penetrate the anchorage. At the center of the boom lay the boat gate—a moveable section of net operated by an anchored boom-defense drifter, opened only to pass authorized German naval traffic.
  Lieutenant Godfrey Place in X7 arrived at the entrance first, at 03:50.
@@ -734,7 +734,7 @@
  Chapter Seventeen
  Dawn over the Battleship
  Aboard Battleship Tirpitz, Kåfjord
-  06:00–07:00, 22 September 1943
+  06:00-07:00, 22 September 1943
  The morning call—Wecken—sounded through the broadcast speakers of Tirpitz at 05:30.
  Across three armored decks, two thousand six hundred officers and men began their morning routine. The ship smelled of floor wax, boiler steam, damp wool, and the bitter chicory coffee simmering in the mess galleys. In the lower flats, men rolled up their canvas hammocks, stowed them in the overhead battens, and pulled on heavy woolen jumpers against the Arctic damp.
  On the navigation bridge, thirty feet above the armored deck, the Officer of the Watch surveyed Kåfjord through Zeiss binoculars.
@@ -763,7 +763,7 @@
  Chapter Eighteen
  The Open Gate
  Inside the Inner Net Enclosure, Kåfjord
-  07:05–07:15, 22 September 1943
+  07:05-07:15, 22 September 1943
  Through the two-inch crack beneath the steel rim of X6's hatch, Donald Cameron watched the coaster's stern.
  The German vessel—a gray-painted coastal supply boat displacing roughly two hundred tons—was moving slowly across the calm water of the fjord, throwing a low, white propeller wash from its single screw. Ahead of it, the heavy wire gate in Tirpitz's anti-torpedo cage stood pulled wide, suspended between two iron mooring pontoons.
  Inside X6, the air remained foul with the oily residue of the electrical fire and the sour dampness of forty-eight hours of sweat and bilges.
@@ -798,7 +798,7 @@
  Chapter Nineteen
  The Blind Charge
  Inside the Net Enclosure, Kåfjord
-  07:15–07:25, 22 September 1943
+  07:15-07:25, 22 September 1943
  Inside X6, at thirty feet depth, the water outside the hull shifted from deep ocean black to the pale, murky bottle-green of the inner fjord.
  Sub-Lieutenant John Lorimer held the hydroplanes level. Sub-Lieutenant Richard Kendall kept the brass steering wheel steady on a dead-reckoning heading toward the center of the anchorage. Donald Cameron stood by the useless periscope, his hands resting on the brass handrails.
  "Five knots on the motor," Cameron said. "Take her down to thirty-six feet."
@@ -839,7 +839,7 @@
  Chapter Twenty
  Under the Armor Belt
  Alongside Battleship Tirpitz, Kåfjord
-  07:20–07:35, 22 September 1943
+  07:20-07:35, 22 September 1943
  X6 lay broadside against the armored flank of the battleship, held there by the gentle thrust of her electric motor.
  Above them, through the thick glass deadlights in the hull, the daylight was completely cut off by the vast, black overhang of Tirpitz's anti-torpedo bulge. Outside the steel plates, the muffled, high-speed thrash of German motor launches could be heard circling overhead, accompanied by the dull underwater thuds of rifle fire striking the water.
  Inside the control room, Donald Cameron stood in two inches of bilge water, his face smeared with black soot from the earlier electrical fire.
@@ -880,7 +880,7 @@
  Chapter Twenty-One
  The Net Maze
  The Inner Net Enclosure, Kåfjord
-  07:10–07:22, 22 September 1943
+  07:10-07:22, 22 September 1943
  While Donald Cameron was crashing X6 onto the sandbank inside the enclosure, Lieutenant Godfrey Place was approaching the outer perimeter of the same net cage from the north-west.
  Unlike Cameron's blinded craft, X7's razor-thin attack periscope was still clear. Racking the brass tube up through its stuffing box, Place peered through the rubber eyepiece into the morning light.
  Across the calm water of Kåfjord, three hundred yards off, sat the battleship.
@@ -941,7 +941,7 @@
  Chapter Twenty-Two
  Under the Keel
  Beneath Battleship Tirpitz, Kåfjord
-  07:22–07:40, 22 September 1943
+  07:22-07:40, 22 September 1943
  At seventy feet, X7 moved beneath the surface in absolute blackness.
  Lieutenant Godfrey Place ordered the boat up to forty feet. Through the small circular deadlights in the hull, the dark green murk of the fjord returned for a few seconds, only to be extinguished again as the submarine slipped beneath the massive overhang of the battleship's hull.
  Daylight did not fade; it was cut off like a guillotine.
@@ -992,7 +992,7 @@
  Chapter Twenty-Three
  The Clockwork Trap
  The Inner Net Enclosure, Kåfjord
-  07:40–08:00, 22 September 1943
+  07:40-08:00, 22 September 1943
  At 07:40, seventy feet beneath the surface, X7 drove nose-first into the wire.
  There was no preliminary scrape. The bow struck the vertical curtain of the anti-torpedo net at three knots. Because she had dropped her four-ton side-cargoes, the empty saddle recesses on her flanks acted like open scoops; the jagged edges of the external release brackets snagged the galvanized steel grommets of the net, locking the hull into the mesh like a key in a ward.
  Lieutenant Godfrey Place did not raise his voice.
@@ -1033,7 +1033,7 @@
  Chapter Twenty-Four
  Prisoners on the Quarterdeck
  Aboard Battleship Tirpitz, Kåfjord
-  07:45–08:10, 22 September 1943
+  07:45-08:10, 22 September 1943
  The four men of X6 were prodded up the teak treads of the starboard accommodation ladder at bayonet point.
  As Donald Cameron stepped onto the quarterdeck of Tirpitz, the sheer mass of the battleship pressed in on him. The armored deck seemed as broad as a village square, framed by the towering barbette of Caesar turret and the massive overhang of the superstructure.
  All around them, harbor discipline had collapsed into controlled frenzy.
@@ -1088,7 +1088,7 @@
  Chapter Twenty-Five
  08:12
  Aboard Battleship Tirpitz, Kåfjord
-  08:12–08:15, 22 September 1943
+  08:12-08:15, 22 September 1943
  At 08:12, the seabed erupted.
  The detonation began not with sound, but with an instantaneous hydraulic hammer. Eighty feet beneath the surface, eight long tons of Amatol high explosive converted into superheated gas, creating a massive underwater shockwave that struck the flat, unarmored double-bottom of the battleship at nearly five thousand feet per second.
  On the quarterdeck, under the armored overhang of the forward superstructure, Donald Cameron and his three crewmen were thrown two feet into the air.
@@ -1123,7 +1123,7 @@
  Chapter Twenty-Six
  Blown Out of the Net
  Inside the Net Enclosure, Kåfjord
-  08:12–08:20, 22 September 1943
+  08:12-08:20, 22 September 1943
  Seventy-five feet down, trapped in the elastic grip of the Netzkäfig, the blow arrived without sound.
  Water does not cushion high explosive; it transmits shock with the speed and density of solid granite. When the eight tons of Amatol detonated against the silt beneath Tirpitz's keel, the hydraulic shockwave struck X7 at nearly five thousand feet per second.
  The thirty-ton steel cylinder was slammed bodily sideways through the water.
@@ -1186,7 +1186,7 @@
  Chapter Twenty-Seven
  Surrender on the Float
  Aboard the Battle-Practice Target, Kåfjord
-  08:20–08:35, 22 September 1943
+  08:20-08:35, 22 September 1943
  The Arctic air struck Godfrey Place's face with shocking clarity.
  After hours of breathing Protosorb dust, scorched copper insulation, and atomized battery acid, the freezing salt wind felt clean, sharp, and terrifyingly cold. Place shoved the heavy circular hatch lid back against its spring stops.
  He pulled himself up through the narrow coaming and stood on X7's rounded casing.
@@ -1247,7 +1247,7 @@
  Chapter Twenty-Eight
  Sighting at Five Hundred Meters
  Aboard Battleship Tirpitz and Kåfjord Anchorage
-  08:40–09:00, 22 September 1943
+  08:40-09:00, 22 September 1943
  The entry in the Kriegstagebuch (War Diary) of the battleship Tirpitz was logged with clinical precision:
  08:43. U-Boot an Steuerbordseite in etwa 500 m Entfernung gesichtet. Geschütze 10,5 cm und leichte Flak nehmen das Ziel unter Feuer. Boot wird von Treffern eingedeckt und taucht ab. Mehrere U-Jäger und Hafenschutzboote werfen Wasserbomben.
  On the navigation bridge, forty feet above the mud-spattered teak decks, Kapitän zur See Hans Meyer was struggling to maintain command of a paralyzed fortress.
@@ -1302,7 +1302,7 @@
  Chapter Twenty-Nine
  One Hundred and Twenty Feet Down
  Sunken X7, Seabed of Kåfjord
-  08:35–11:00, 22 September 1943
+  08:35-11:00, 22 September 1943
  The hull settled into the glacial silt with a soft, sucking impact.
  There was no bounce. The thirty-ton steel tube sank six inches into the gray clay, heeling twelve degrees to port, resting on the fjord bed at a recorded depth of one hundred and twenty feet.
  Inside, the blackness was absolute.
@@ -1389,7 +1389,7 @@
  Chapter Thirty
  The Long Ascent
  Sunken X7 to the Surface of Kåfjord
-  11:10–11:30, 22 September 1943
+  11:10-11:30, 22 September 1943
  Hydrostatic equilibrium had been reached.
  Inside the pressure hull, the compressed air pocket had shrunk to a thin cushion of toxic gas bare inches deep, its internal pressure matching the fifty-three pounds per square inch of the water pressing from without. The ten tons of clamping force had evaporated into balance.
  When Aitken's shoulders drove against the underside of the access hatch, the steel lid gave way.
@@ -1453,7 +1453,7 @@
  Chapter Thirty-One
  In the Shadow of Tommelholm
  Seabed off Tommelholm Island, Altafjord (69°58′ N, 23°04′ E)
-  08:00–18:00, 22 September 1943
+  08:00-18:00, 22 September 1943
  Fifty-nine meters down, on the sloping gravel shelf north of Tommelholm Island, X10 sat in dead silence.
  The depth gauge needle rested at one hundred and ninety-five feet. At that depth, the hydrostatic pressure against the five-eighths-inch mild steel plating was nearly eighty-seven pounds per square inch. The cold was total - the hull was a heat-sink, holding the internal cabin temperature at two degrees Celsius. Condensation formed in heavy, greasy beads along the deckhead and dripped steadily onto the blankets wrapped around the men's knees.
  Lieutenant Kenneth Hudspeth sat on the wooden battery boards beneath the dead periscope, his sea-boots drawn back against the gyro housing.
@@ -1519,7 +1519,7 @@
  Chapter Thirty-Two
  The Breakout of X10
  Altafjord to Sørøya, Northern Norway
-  18:00, 22 September – Dusk, 27 September 1943
+  18:00, 22 September - Dusk, 27 September 1943
  The surface broke in twilight.
  At 18:00 on 22 September, X10 blew her forward compensating tank and brought her bronze hatch dome two inches clear of the Altafjord swell. Kenneth Hudspeth cracked the locking wheel, eased back the brass dogs, and pushed the lid up an inch.
  The air that rushed through the narrow gap was bitterly cold, clean, and smelling of Arctic snow.
@@ -1579,7 +1579,7 @@
  Inside the hull, Tabb stripped the Gardner's fuel lines, cleared the filters, and patched the burned insulation on the motor switchboard with friction tape.
  Hudspeth reviewed the final operational signal table.
  There was one last, desperate rendezvous point logged in the Admiralty annex - Øfjord.
- Located twenty miles to the west, on the extreme north-western tip of Sørøya, Øfjord was a deep, fjord-cleft open to the sea. The mother submarine HMS Stubborn had been instructed to make a final, dangerous surface sweep into the mouth of Øfjord during the night of 27–28 September before abandoning the Norwegian coast and returning to Scotland.
+ Located twenty miles to the west, on the extreme north-western tip of Sørøya, Øfjord was a deep, fjord-cleft open to the sea. The mother submarine HMS Stubborn had been instructed to make a final, dangerous surface sweep into the mouth of Øfjord during the night of 27-28 September before abandoning the Norwegian coast and returning to Scotland.
  At dawn on 27 September, X10 weighed her kedge anchor.
  She slipped out of Sandøyfjord, crawled along the sheer, wave-battered headlands of Sørøya on her diesel, and rounded the northern promontories into the wide, dark mouth of Øfjord as dusk settled over the water.
  Hudspeth cut the engine.
@@ -1590,7 +1590,7 @@
  Chapter Thirty-Three
  The Meeting in Øfjord
  Mouth of Øfjord, Sørøya Island (70°41′ N, 22°45′ E)
-  Night of 27–28 September 1943
+  Night of 27-28 September 1943
  The dark was total. In the deep shadow cast by the two-thousand-foot granite precipices of north-western Sørøya, the sea had no horizon—only the white, phosphorescent line of breakers smashing against the jagged offshore skerries.
  Kenneth Hudspeth stood wedged in the circular opening of X10's hatch dome, his binoculars pressed against his salt-encrusted eyebrows.
  The Gardner diesel was shut down, its exhaust manifold ticking as it cooled. The boat lay dead in the water, riding the heavy ocean swell that rolled into the mouth of Øfjord from the open Barents Sea. The temperature was two degrees below freezing. Wind cut through the narrow cleft of the fjord in erratic, shrieking gusts that whipped freezing spray across the casing.
@@ -1654,7 +1654,7 @@
  Chapter Thirty-Four
  The Scuttle in the Gale
  The Norwegian Sea (66°13′ N, 04°02′ E)
-  28 September – 3 October 1943
+  28 September - 3 October 1943
  For five days and five nights, HMS Stubborn dragged X10 across eight hundred miles of empty, gray ocean.
  The passage to the south-west was an exhausting trial of mechanical endurance. Aboard Stubborn, Kenneth Hudspeth and his three operational crewmen slept in exhaustion, their frostbitten fingers bandaged, their bodies slowly absorbing the warmth and heavy calories of the mother submarine's mess.
  Astern, twelve hundred feet down the nylon-and-wire tow, Sub-Lieutenant P.H. Philip, SANF, Leading Seaman J. Magennis, and Stoker Luck were enduring the identical misery they had survived on the outward voyage.
@@ -1717,12 +1717,12 @@
  Chapter Thirty-Five
  The Shadow of the Order
  Tromsø, Norway to Dulag Luft, Oberursel, Germany
-  Late September – October 1943
+  Late September - October 1943
  The six survivors were kept separated in unheated concrete holding cells beneath the German naval command building in Tromsø.
  Their uniforms had dried stiff, white with salt encrustation and reeking of bilge fuel and chemical lime. Donald Cameron sat on a bare wooden bench, his hands clamped between his knees to suppress the shivering that refused to leave his muscles. In adjacent cells down the corridor, Godfrey Place, John Lorimer, Richard Kendall, Charles Goddard, and Robert Aitken sat under twenty-four-hour observation by armed guards of the Marine-Artillerie-Abteilung.
  Every man knew the document that hung over them.
  On 18 October 1942, Adolf Hitler had issued the secret Führer Directive No. 003830/42 g.Kdos.—the Kommandobefehl. Its terms were categorical and legally absolute:
- “All terror and sabotage troops of the British and their accomplices, who act like commandos, whether in uniform or not, armed or unarmed, in battle or in flight, are to be slaughtered to the last man… Even if these individuals appear to be soldiers in uniform, they are not to be given the status of prisoners of war, but are to be handed over immediately to the SD.”
+ "All terror and sabotage troops of the British and their accomplices, who act like commandos, whether in uniform or not, armed or unarmed, in battle or in flight, are to be slaughtered to the last man… Even if these individuals appear to be soldiers in uniform, they are not to be given the status of prisoners of war, but are to be handed over immediately to the SD."
  The precedent was chillingly clear.
  Ten months earlier, during the Glider raid on the heavy-water plant at Vemork—Operation Freshman—the British survivors who crashed in southwestern Norway had worn standard British Army uniforms with divisional flashes. They were interrogated by the Gestapo, injected with air bubbles or shot in the back of the neck, and buried in unmarked peat bogs. Two survivors of Operation Frankton—the "Cockleshell Heroes" who had paddled canoes to attack blockade runners in Bordeaux—had been executed by naval firing squad under the exact same directive.
  In the eyes of the Reich Main Security Office (RSHA) in Berlin, placing limpet mines or time-delayed charges beneath an anchored warship in a protected harbor constituted industrial sabotage, not conventional warfare.
@@ -1764,7 +1764,7 @@
  Chapter Thirty-Six
  The Crippled Beast
  Admiralty, Whitehall, London & Kåfjord, Norway
-  Late September 1943 – February 1944
+  Late September 1943 - February 1944
  The first confirmation arrived not through naval signals, but on twelve-inch photographic plates developed in a darkroom at RAF Leuchars.
  On 29 September 1943, an unarmed De Havilland Mosquito PR.IV of No. 544 Squadron staged out of the Soviet airfield at Vaenga, climbed through freezing cloud to twenty-eight thousand feet, and made a single, high-speed camera run down the length of Kåfjord.
  When the negatives were flown to Danesfield House at Medmenham, the photographic interpreters placed them under stereoscopic binocular viewers.
@@ -1814,7 +1814,7 @@
  On 22 February 1944, the London Gazette published the operational citations.
  The King approved the award of the Victoria Cross—Britain's highest military decoration for valor—to two men:
  Lieutenant Donald Cameron, RNR Lieutenant Basil Charles Godfrey Place, DSC, RN
- The citations noted that the decorations were awarded “for most conspicuous gallantry and undaunted devotion to duty.” Because both officers were prisoners of war, the medals were formally handed to their wives by King George VI at Buckingham Palace while Cameron and Place remained in Compound 'O' at Westertimke.
+ The citations noted that the decorations were awarded "for most conspicuous gallantry and undaunted devotion to duty." Because both officers were prisoners of war, the medals were formally handed to their wives by King George VI at Buckingham Palace while Cameron and Place remained in Compound 'O' at Westertimke.
  The remaining officers and ratings who entered the fjord received high decorations:
  The Distinguished Service Order was awarded to Sub-Lieutenant John Lorimer, Sub-Lieutenant Richard Kendall, Sub-Lieutenant Robert Aitken, and Lieutenant Kenneth Hudspeth.
  The Conspicuous Gallantry Medal—the highest award available to naval ratings short of the Victoria Cross—was awarded to Engine Room Artificer Charles Goddard.

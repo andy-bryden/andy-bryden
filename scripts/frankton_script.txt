@@ -466,7 +466,7 @@ NARRATOR
 Chapter Four
 The Saltwater Crucible
 The Solent & Langstone Harbour
-September – October 1942
+September - October 1942
 
 NARRATOR
 The stroke was mechanical.
@@ -730,7 +730,7 @@ NARRATOR
 Chapter Seven
 Stowed in the Bilges
 Aboard HMS Tuna, The Bay of Biscay
-1 – 5 December 1942
+1 - 5 December 1942
 
 NARRATOR
 The passage south down the west coast of Ireland and into the Bay of Biscay established a rigid, punishing operational cycle.
@@ -962,7 +962,7 @@ NARRATOR
 Chapter Nine
 The Torpedo Hatch
 HMS Tuna, Surfaced Off Montalivet
-19:45 – 20:45, 7 December 1942
+19:45 - 20:45, 7 December 1942
 
 NARRATOR
 At 19:40 on 7 December, Tuna reached her designated launch position roughly ten miles off the coast of Montalivet, west of the Gironde estuary.
@@ -1067,7 +1067,7 @@ NARRATOR
 Chapter Ten
 Into the Breakers
 Approaches to the Gironde Estuary
-20:45 – 23:30, 7 December 1942
+20:45 - 23:30, 7 December 1942
 
 NARRATOR
 Once the hull of HMS Tuna was gone, the five Cockles formed into single line ahead.
@@ -1159,7 +1159,7 @@ NARRATOR
 Chapter Eleven
 The Loss of Coalfish
 Estuary Mouth & Pointe de Grave
-23:30, 7 December – 07:00, 8 December 1942
+23:30, 7 December - 07:00, 8 December 1942
 
 NARRATOR
 In the calmer water past the first line of shoals, Hasler held Catfish into the wind with gentle backwater strokes.
@@ -1249,7 +1249,7 @@ NARRATOR
 Chapter Twelve
 The Severed Line
 Off Le Verdon, The Gironde Entrance
-00:15 – 01:45, 8 December 1942
+00:15 - 01:45, 8 December 1942
 
 NARRATOR
 The estuary narrowed past the Pointe de Grave into the roadstead of Le Verdon.
@@ -1366,7 +1366,7 @@ NARRATOR
 Chapter Thirteen
 Swim for Shore
 Shallows off Pointe de Grave
-02:00 – 02:45, 8 December 1942
+02:00 - 02:45, 8 December 1942
 
 NARRATOR
 The sound of breakers on sand carried through the darkness from the west.
@@ -1500,7 +1500,7 @@ NARRATOR
 Chapter Fourteen
 Running the Gauntlet
 Le Verdon Roadstead
-03:00 – 06:00, 8 December 1942
+03:00 - 06:00, 8 December 1942
 
 NARRATOR
 Catfish moved south through the darkness, hugging the outer fringe of the main channel.
@@ -1628,7 +1628,7 @@ NARRATOR
 Chapter Fifteen
 The Mud of Saint-Vivien
 Mudflats of Saint-Vivien-de-Médoc
-06:30 – 17:30, 8 December 1942
+06:30 - 17:30, 8 December 1942
 
 NARRATOR
 The water shoaled with treacherous speed.
@@ -1750,7 +1750,7 @@ NARRATOR
 Chapter Sixteen
 Interrogation at Bordeaux
 German Naval Headquarters (Seekommandant Gascogne), Bordeaux
-8 – 9 December 1942
+8 - 9 December 1942
 
 NARRATOR
 The two prisoners were stripped of their sodden outer smocks in a concrete holding cell at the German naval base in Le Verdon before being loaded under armed guard into an open military truck.
@@ -1892,7 +1892,7 @@ NARRATOR
 Chapter Seventeen
 The Tidal Bore
 The Gironde Estuary
-21:00, 8 December – 06:00, 9 December 1942
+21:00, 8 December - 06:00, 9 December 1942
 
 NARRATOR
 The retreat from Saint-Vivien was an ordeal of brute friction.
@@ -2008,7 +2008,7 @@ NARRATOR
 Chapter Eighteen
 The Wandering Pair
 The Gironde to the Entre-deux-Mers
-8 – 11 December 1942
+8 - 11 December 1942
 
 NARRATOR
 When the cross-current off the Le Verdon shallows swept Cuttlefish away from Hasler, Lieutenant John Mackinnon did not attempt to fight the rip back to Catfish's position.
@@ -2118,7 +2118,7 @@ NARRATOR
 Chapter Nineteen
 The Reeds of Île Cazeau
 Île Cazeau to the Upper Estuary
-9 – 11 December 1942
+9 - 11 December 1942
 
 NARRATOR
 At dawn on 10 December, after a third night of continuous paddling that carried them fifteen miles up the central reach, Catfish and Crayfish grounded in the dense willow and reed thickets on the northern tip of the Île Cazeau.
@@ -2263,7 +2263,7 @@ NARRATOR
 Chapter Twenty
 Blanquefort - The Midnight Volley
 Pine Woods North of Bordeaux
-23:00 – 23:45, 11 December 1942
+23:00 - 23:45, 11 December 1942
 
 NARRATOR
 The iron bolt on the basement cell door in the German naval compound in Bordeaux was drawn back at 22:30.
@@ -2511,7 +2511,7 @@ NARRATOR
 Chapter Twenty-Two
 The Empty Quays
 Bordeaux Eastern Shore to the Bassens Wharves
-22:45, 11 December – 01:15, 12 December 1942
+22:45, 11 December - 01:15, 12 December 1942
 
 NARRATOR
 At 22:45, where the Garonne began its wide sweep into the crescent of Bordeaux, the two canoes parted.
@@ -2663,7 +2663,7 @@ NARRATOR
 Chapter Twenty-Three
 Under the Hull of Tannenfels
 Western Quays, Port of Bordeaux
-00:15 – 02:15, 12 December 1942
+00:15 - 02:15, 12 December 1942
 
 NARRATOR
 Catfish glided into the crescent of the western docks under cover of the river mist.
@@ -2804,7 +2804,7 @@ NARRATOR
 Chapter Twenty-Four
 The Mid-River Meeting
 The Garonne to Île Cazeau
-02:15 – 05:45, 12 December 1942
+02:15 - 05:45, 12 December 1942
 
 NARRATOR
 The Garonne turned with the full weight of the winter ebb.
@@ -2924,7 +2924,7 @@ NARRATOR
 Chapter Twenty-Five
 The Scuttling at Saint-Genès
 Eastern Shore of the Gironde, Saint-Genès-de-Blaye
-06:00 – 07:45, 12 December 1942
+06:00 - 07:45, 12 December 1942
 
 NARRATOR
 The eastern bank of the Gironde emerged from the morning mist as a bleak expanse of grey tidal mud, backed by drainage dykes and tangled osier beds.
@@ -3049,7 +3049,7 @@ NARRATOR
 Chapter Twenty-Six
 Thunder on the Garonne
 Bordeaux Harbour and the Bassens Wharves
-07:00 – 11:30, 12 December 1942
+07:00 - 11:30, 12 December 1942
 
 NARRATOR
 The first detonation came from Bassens at 07:05, just as the winter dawn was lifting the river mist off the Gironde.
@@ -3163,7 +3163,7 @@ NARRATOR
 Chapter Twenty-Seven
 The Shattered Network
 Bordeaux City Centre
-12 – 14 December 1942
+12 - 14 December 1942
 
 NARRATOR
 The shockwaves from the river reached the fourth-floor apartment off the Place de la Comédie before the morning sirens began to howl.
@@ -3277,7 +3277,7 @@ NARRATOR
 Chapter Twenty-Eight
 Betrayal at Montlieu
 Montlieu-la-Garde, Charente-Maritime
-13 – 14 December 1942
+13 - 14 December 1942
 
 NARRATOR
 The retreat across the Charente-Maritime was an agonizing march on ruined feet.
@@ -3387,7 +3387,7 @@ NARRATOR
 Chapter Twenty-Nine
 The Road to Ruffec
 Charente Countryside
-13 – 18 December 1942
+13 - 18 December 1942
 
 NARRATOR
 The march was governed by the compass needle and the pocket watch.
@@ -3509,7 +3509,7 @@ NARRATOR
 Chapter Thirty
 The Marie-Claire Line
 Ruffec and Saint-Coutant, Charente
-18 – 19 December 1942
+18 - 19 December 1942
 
 NARRATOR
 They entered Ruffec at midday on 18 December.
@@ -3648,7 +3648,7 @@ NARRATOR
 Chapter Thirty-One
 Fresnes Prison
 Fresnes Prison, Paris
-January – March 1943
+January - March 1943
 
 NARRATOR
 The four surviving captives did not arrive at Fresnes together.
@@ -3684,7 +3684,7 @@ NARRATOR
 The physical conditions inside the cells were punishing.
 
 NARRATOR
-The winter of 1942–1943 was one of the coldest on record in northern France. Fresnes had no central heating; frost formed along the mortar lines of the concrete walls. The prisoners were issued two thin, greasy horsehair blankets and a straw mattress crawling with lice.
+The winter of 1942-1943 was one of the coldest on record in northern France. Fresnes had no central heating; frost formed along the mortar lines of the concrete walls. The prisoners were issued two thin, greasy horsehair blankets and a straw mattress crawling with lice.
 
 NARRATOR
 Rations were kept at starvation level - a tin mug of ersatz acorn coffee at dawn, a bowl of thin, lukewarm swede or cabbage broth at midday, and a dense, four-ounce slab of dark K-Brot—rye bread stretched with sawdust—in the evening.
@@ -3880,7 +3880,7 @@ NARRATOR
 Chapter Thirty-Three
 Over the Pyrenees
 The Pyrenees to Gibraltar
-February – April 1943
+February - April 1943
 
 NARRATOR
 The extraction from Marvaud began in the dead of winter.

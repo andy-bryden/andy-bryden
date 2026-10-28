@@ -8,14 +8,14 @@ December 14, 1944 — 13:00 Hours
  The air-raid siren did not rise in a steady wail; it shrieked in short, frantic bursts.
  Staff Sergeant Eugene Nielsen dropped his spade. For months, the hundred and fifty Americans held at Puerto Princesa had looked up at the sky with a desperate, fatalistic longing, waiting for American twin-tailed P-38 Lightnings or Navy Hellcats to tear the clouds open. Allied planes had already begun pounding Luzon and the surrounding sea lanes, and every drone of an Pratt &amp; Whitney engine overhead felt like an eviction notice served on the Imperial Japanese Army.
  Across the dirt yard of Plaza Cuartel, Japanese guards were screaming, their boots thudding against the packed earth.
- “Kūshu! Kūshu! Air raid! Quick, into the shelters!”
+ "Kūshu! Kūshu! Air raid! Quick, into the shelters!"
  Nielsen looked toward the sky. The ceiling was clear, blinding blue over Puerto Princesa Bay. There was no engine roar, no flak bursts blooming white against the sun. Only the dry trade wind rustling the palm fronds and the sharp, rhythmic clinking of equipment.
- A guard struck a soldier ahead of Nielsen across the shoulders with a split-bamboo cane. “Speedo! Into the ditch!”
+ A guard struck a soldier ahead of Nielsen across the shoulders with a split-bamboo cane. "Speedo! Into the ditch!"
  The prisoners did not argue. Disobedience in Camp 10-A was answered with rifle butts or the standing-box. The men shuffled hurriedly toward the three covered air-raid trenches they had been forced to dig over the previous weeks. The shelters were long, narrow subterranean ditches, four feet deep, framed with heavy wooden timbers, and covered with two feet of dirt and coconut logs. Each shelter had an entrance barely wide enough for two men to squeeze through, facing inland away from the sea.
  Nielsen squeezed into Shelter B. Fifty or sixty men were jammed shoulder-to-shoulder inside the damp, suffocating darkness. The earth walls smelled of wet fungus, rotting roots, and the sour, ammonia tang of unwashed, malarial bodies.
  Beside him, an Army corporal pressed his face into his knees, his ribs protruding like the stays of a broken umbrella.
- “You hear any motors, Sarge?” the corporal whispered. His voice was cracked, his lips split from vitamin deficiency.
- “Quiet,” Nielsen said, straining his ears.
+ "You hear any motors, Sarge?" the corporal whispered. His voice was cracked, his lips split from vitamin deficiency.
+ "Quiet," Nielsen said, straining his ears.
  Outside, there was no sound of diving aircraft. There were no falling bombs.
  Instead, Nielsen heard the heavy, metallic clatter of five-gallon drums being hauled across the earth. Then came the slosh of liquid.
  A dark stream trickled over the lip of the shelter's entrance, soaking into the dry dirt at the doorway.
@@ -33,7 +33,7 @@ December 14, 1944 — 13:00 Hours
  He came up into the open air behind the shelters.
  The scene at the camp was an abattoir. Japanese soldiers were laughing and shouting, thrusting long bayonets into the entrances of the other trenches, hurling buckets of gasoline to stoke the fires. A few burning Americans had broken out of the eastern shelter and were sprinting blind across the yard; soldiers chased them with fixed bayonets, impaling them and pushing them back toward the burning pits.
  Nielsen threw himself forward. The razor-sharp strands of the barbed-wire perimeter snagged his trousers and bit into his skin, tearing his flesh as he violently wrenched himself free.
- A Japanese sentry turned, caught sight of him, and shouted: “Kura!”
+ A Japanese sentry turned, caught sight of him, and shouted: "Kura!"
  The sentry raised his Arisaka rifle.
  Nielsen did not wait for the shot. He launched himself out into empty air, over the edge of the cliff.
  The fall was a blur of gray coral rock and green jungle vines. He plummeted fifty feet, crashing through the brittle branches of scrub trees that jutted from the limestone wall. The impact knocked the wind from him, jagged coral rocks tearing the skin from his knees, arms, and chest.
@@ -305,7 +305,7 @@ January 28, 1945 — 18:30 Hours
  The guard—a thickset private in sweat-stained olive wool—stepped into the path of the deaf cavalryman. Without hesitation, the soldier swung his Arisaka rifle two-handed, driving the heavy wooden butt into the side of the American's jaw.
  The crack of splintering bone was sharp and sickening.
  The cavalryman crashed sideways into the dirt, the bucket clattering across the gravel, spilling dirty water. The guard stood over him, unholstering a split-bamboo rod, and began lashing the fallen man's back with rhythmic, furious strokes.
- “Baka! Bow to the Emperor's soldiers!”
+ "Baka! Bow to the Emperor's soldiers!"
  From the shadows of the barracks, fifty pairs of hollow eyes watched in absolute, terrifying silence. No one moved. No one protested. In three years, they had learned the mathematics of resistance: one word of complaint meant the standing-box in the noon sun, or three days hung by the wrists from a mango tree, or the firing squad in the ditch behind the motor pool.
  The guard finally spat on the unconscious cavalryman, slung his rifle, and stalked off toward the gatehouse.
  Hibbs stepped into the dust, hurried across the lane, and hoisted the broken man under the armpits, dragging him into the dark sanctuary of the ward.
@@ -530,7 +530,7 @@ January 30, 1945 — 06:00 to 09:30 Hours
  Hibbs sat up on the split-bamboo floor. Every joint in his hips and knees ached with the dull, grinding throbbing of chronic malnourishment. Beside him, two soldiers from the 194th Tank Battalion were still curled on their sides, shivering through the cold shakes of recurring vivax malaria.
  He pushed open the slatted window and looked out across the central roadway.
  The camp was eerily quiet.
- Usually, by 06:30, the camp courtyard was alive with the barking of orders. Japanese non-commissioned officers would be strutting past the barracks, brandishing split-bamboo canes, screaming “Kura!” and “Speedo!” as they drove work details toward the vegetable plots or the wood-cutting parties.
+ Usually, by 06:30, the camp courtyard was alive with the barking of orders. Japanese non-commissioned officers would be strutting past the barracks, brandishing split-bamboo canes, screaming "Kura!" and "Speedo!" as they drove work details toward the vegetable plots or the wood-cutting parties.
  This morning, the parade ground was virtually deserted.
  Across the central road, inside the Japanese administrative compound, a fleet of three-ton Isuzu trucks was backed up against the supply sheds. Japanese soldiers—not the familiar, hated faces of the permanent camp guard detachment, but lean, helmeted transit troops in grease-stained field tunics—were hauling heavy wooden crates out of the company offices.
  They loaded heavy desks, filing cabinets, and bundles of official paperwork wrapped in straw matting into the beds of the trucks. Behind the administrative shack, a dark column of black smoke rose into the morning sky: a Japanese corporal was tending a metal drum, methodically burning stacks of records, service dossiers, and Manila-bound correspondence.
@@ -703,7 +703,7 @@ January 30, 1945 — 18:45 to 19:15 Hours
  BANG! POP-POP-BANG!
  Vicious tongues of orange flame spat from the left exhaust collector ring. The propeller windmilled erratically, losing RPMs. Schrieber dropped his left wing hard, yawing the heavy fighter violently to the side as if the aircraft had suffered catastrophic mechanical failure and was sliding into an uncontrollable, terminal spin toward the trees.
  On the ground, the Japanese garrison was utterly transfixed.
- Sentries pointed excitedly into the air, shouting in Japanese: “It's going down! The American plane is crashing!”
+ Sentries pointed excitedly into the air, shouting in Japanese: "It's going down! The American plane is crashing!"
  Truck drivers along Highway 5 pulled their vehicles to the shoulder of the road, leaning out of their cabs to watch the spectacle. Tower guards gripped the wooden handrails, their fingers inches from their machine guns, leaning forward as the black aircraft wobbled, righted itself at the very treetops, and then surged upward again in a roaring, desperate climb.
  Schrieber hauled back on the control yoke, firewalled both throttles, and let the four-bladed props claw for altitude, only to cut the power again on the opposite side, banking into a lazy, groaning figure-eight directly over the stockade.
  * * *
@@ -827,7 +827,7 @@ January 30, 1945 — 19:45 to 19:55 Hours
  The Western Bluff of the Cabu River, Nueva Ecija Province
 January 30, 1945 — 19:46 to 20:10 Hours
  The smoke from the bridge demolition had not yet cleared when the eastern bank of the Cabu River exploded into frantic motion.
- Across the water, inside the coconut groves, whistles shrilled in piercing, urgent sequences. The engines of heavy Japanese Isuzu trucks roared to life with grinding gears, their yellow headlights slicing through the trees. Shouts in Japanese echoed above the idling motors: “Assemble! Forward! Reinforce the camp!”
+ Across the water, inside the coconut groves, whistles shrilled in piercing, urgent sequences. The engines of heavy Japanese Isuzu trucks roared to life with grinding gears, their yellow headlights slicing through the trees. Shouts in Japanese echoed above the idling motors: "Assemble! Forward! Reinforce the camp!"
  Captain Juan Pajota lay motionless on the high western bluff, his cheek pressed against the cool clay of his firing pit.
  Beside him, Lieutenant Tom Rounsaville kept his carbine trained on the bridge approach. "Here they come, Captain," Rounsaville muttered.
  The lead Japanese truck surged out of the palm grove at top speed, tires throwing gravel, heading straight for the wooden bridge on Highway 5. Behind it, two more troop transports followed in close echelon, their flatbeds crowded with soldiers of the 359th Independent Infantry Battalion, bayonets glinting in the truck beams.
@@ -851,7 +851,7 @@ January 30, 1945 — 19:46 to 20:10 Hours
  On the road, guerrilla bazooka teams opened fire.
  Two 2.36-inch high-explosive rockets streaked across the gorge, slamming squarely into the cabs of the stalled transport trucks on the eastern bridgehead. The vehicles detonated in brilliant orange fireballs, burning fuel spilling across the road, outlining the Japanese reserve companies against the flames.
  Yet the Imperial Japanese Army did not break.
- Driven by rigid doctrine and absolute discipline, a second wave of more than a hundred soldiers surged down the eastern bank, charging straight into the killing zone with fixed bayonets, shouting their ancestral battle cry: “Banzai!”
+ Driven by rigid doctrine and absolute discipline, a second wave of more than a hundred soldiers surged down the eastern bank, charging straight into the killing zone with fixed bayonets, shouting their ancestral battle cry: "Banzai!"
  Pajota's gunners never took their thumbs off the spade grips.
  Young Filipino guerrillas poured canvas buckets of murky river water into the cooling jackets, steam hissing furiously into the night air as the boiling water bubbled out through the overflow tubes. Empty brass casings rained into the dirt by the thousands, piling around the gunners' knees.
  The Browning gunners did not aim at individuals. They traversed the heavy barrels methodically left to right, walking a flat line of lead three feet above the river stones. The Japanese charge disintegrated into the gravel. Men fell in heaps along the waterline, their bodies forming grisly barricades in the sand.
@@ -1056,7 +1056,7 @@ January 30, 1945 — 21:15 to 22:00 Hours
  The guerrilla gun crews worked with mechanical speed. The heavy Browning on the left was stripped from its pintle, the tripod collapsed, and the boiling-hot receiver wrapped in a wet burlap sack. Four men hoisted the weapon and ammunition chests, backing down the reverse slope of the bluff into the darkness without snapping a twig.
  Ten minutes later, the second gun was dismounted and carried back.
  Down in the riverbed, Japanese officers, mistaking the slackening fire for weapon jams, blew their whistles.
- A scattered line of fifty Japanese infantry rose from behind the river stones, screaming their ancestral battle cry: “Banzai!”
+ A scattered line of fifty Japanese infantry rose from behind the river stones, screaming their ancestral battle cry: "Banzai!"
  They charged the base of the bluff.
  On the ridge, the lone remaining Browning hammered out a savage, unbroken hundred-round burst. The stream of armor-piercing lead swept the sandbar, dropping the lead attackers in mid-stride. The charge faltered, collapsed, and the survivors scrambled back behind the protection of the boulders, pinned to the earth.
  Before the echoes of the volley died, the gunner cut the belt, seized the spade grips, and jerked the receiver off the tripod.
@@ -1134,7 +1134,7 @@ January 30, 23:00 Hours to January 31, 07:30 Hours
  Rose woke at dawn.
  The gray morning light of January 31 filtered through the cracked bamboo walls. Rose sat up, stretched his stiff limbs, and waited for the familiar, hated sound of the Japanese morning bugle sounding tenko.
  Nothing came.
- There was no sound of boot heels crunching on gravel. No sentries screaming “Kura!” across the yard. No clattering of wooden buckets from the kitchen detail.
+ There was no sound of boot heels crunching on gravel. No sentries screaming "Kura!" across the yard. No clattering of wooden buckets from the kitchen detail.
  Frowning, Rose swung his legs over the side of the platform, slid his swollen feet into a pair of dilapidated leather shoes tied with hemp string, and pushed open the slatted barrack door.
  He stepped outside into the courtyard and stopped dead.
  The camp was utterly, completely deserted.

@@ -177,7 +177,7 @@ The Vågsøy raid, December 1941
 
 Chapter One
 The Directive
-London, 27 October – 12 November 1941
+London, 27 October - 12 November 1941
 
 The blackout curtains at 1A Richmond Terrace were heavy, smelling of damp wool and old coal smoke. Outside, Whitehall was an ink-black trench in the autumn rain, but inside the headquarters of Combined Operations, the electric lights burned through the day and night without interruption.
 
@@ -289,7 +289,7 @@ The meeting dissolved into the rustle of maps being rolled into cardboard tubes.
 NARRATOR
 Chapter Two
 The Vanguard Assembles
-Scottish Highlands, Mid-November – Early December 1941
+Scottish Highlands, Mid-November - Early December 1941
 
 The frost on the heather around Dornoch and the coastal slopes of Largs did not thaw at noon. It remained as a brittle, white crust, crunching under the hobnailed soles of British ammunition boots.
 
@@ -379,7 +379,7 @@ Outside, the engines of the Bedford lorries rumbled in the freezing dark, their 
 NARRATOR
 Chapter Three
 The Ghost at the Sea Gate
-Scapa Flow, Orkney Islands, 22–24 December 1941
+Scapa Flow, Orkney Islands, 22-24 December 1941
 
 The Pentland Firth was running a steep, churning grey chop when the tenders brought the troops out into the vast anchorage of Scapa Flow.
 
@@ -452,7 +452,7 @@ One by one, the cruiser, the two assault transports, and the four destroyers sli
 NARRATOR
 Chapter Four
 The Christmas Gale
-Sullom Voe, Shetland Islands, 25–26 December 1941
+Sullom Voe, Shetland Islands, 25-26 December 1941
 
 The open North Sea struck Force Z with the weight of a full winter gale.
 
@@ -526,7 +526,7 @@ The convoy turned east. Ahead lay three hundred miles of black ocean, and beyond
 NARRATOR
 Chapter Five
 The Black Crossing
-The North Sea, 26–27 December 1941
+The North Sea, 26-27 December 1941
 
 Force Z maintained fourteen knots into the east-northeast, driving through long, rolling swells beneath a low, unbroken ceiling of winter cloud.
 
@@ -540,15 +540,15 @@ Every Commando had his ritual. Some stripped their weapons one final time, wipin
 
 Major John Durnford-Slater sat at a small steel folding table in the orderly room of Prince Charles, checking off the five group manifests:
 
-Group 1: Troop 2, No. 3 Commando (Lieutenant R. Clement) – Landing at Holvik to secure the western flank, neutralize a reported enemy gun position, and hold the landward approach.
+Group 1: Troop 2, No. 3 Commando (Lieutenant R. Clement) - Landing at Holvik to secure the western flank, neutralize a reported enemy gun position, and hold the landward approach.
 
-Group 2: Troops 1, 3, and 4, No. 3 Commando, with Captain Martin Linge's detachment (Major John Durnford-Slater commanding) – Landing southwest of South Vågsøy town to clear the main street, seize the German headquarters, and systematically destroy the canning and fish-oil facilities.
+Group 2: Troops 1, 3, and 4, No. 3 Commando, with Captain Martin Linge's detachment (Major John Durnford-Slater commanding) - Landing southwest of South Vågsøy town to clear the main street, seize the German headquarters, and systematically destroy the canning and fish-oil facilities.
 
-Group 3: Troops 5 and 6, No. 3 Commando (Major Jack Churchill commanding, with Lieutenant Denis O'Flaherty and Captain Peter Young) – Landing directly on Måløy Island to assault and destroy the four-gun coastal battery and eliminate the garrison.
+Group 3: Troops 5 and 6, No. 3 Commando (Major Jack Churchill commanding, with Lieutenant Denis O'Flaherty and Captain Peter Young) - Landing directly on Måløy Island to assault and destroy the four-gun coastal battery and eliminate the garrison.
 
-Group 4: Troop 6 of No. 2 Commando (Captain R.H. Hooper) – Floating tactical reserve held aboard landing craft under Brigadier Haydon's direct hand, ready to commit wherever the assault met resistance.
+Group 4: Troop 6 of No. 2 Commando (Captain R.H. Hooper) - Floating tactical reserve held aboard landing craft under Brigadier Haydon's direct hand, ready to commit wherever the assault met resistance.
 
-Group 5: Troop 4 of No. 2 Commando (Captain D. Birney and Lieutenant J.M. Poore) – Transferred directly to the destroyer HMS Oribi, to be carried north through Ulvesund, landed in ship's boats at Rødberg to crater the road with explosives and sever telephone lines connecting South Vågsøy to the north.
+Group 5: Troop 4 of No. 2 Commando (Captain D. Birney and Lieutenant J.M. Poore) - Transferred directly to the destroyer HMS Oribi, to be carried north through Ulvesund, landed in ship's boats at Rødberg to crater the road with explosives and sever telephone lines connecting South Vågsøy to the north.
 
 Captain Martin Linge sat on a timber crate across from him, cleaning the sights of his Colt .45 automatic pistol.
 
@@ -607,7 +607,7 @@ Pass the signal by lamp to Onslow and the transports. Enter the fjord. Action st
 NARRATOR
 Chapter Six
 Into the Mouth of Vågsfjord
-Vågsfjord, 07:00 – 08:20
+Vågsfjord, 07:00 - 08:20
 
 The submarine HMS Tuna dropped astern, a black, low-lying shadow that dissolved back into the Atlantic swell.
 
@@ -682,7 +682,7 @@ The Commandos moved. In absolute silence, heavily laden with ammunition pouches,
 NARRATOR
 Chapter Seven
 Lowering the Ramps
-Vågsfjord, 08:20 – 08:42
+Vågsfjord, 08:20 - 08:42
 
 The davits swung outboard with a heavy metallic groan that was swallowed by the sheer expanse of the fjord.
 
@@ -769,7 +769,7 @@ At 08:42, across the dark water, a dull metallic clatter echoed from Kenya's for
 NARRATOR
 Chapter Eight
 The Green-White Sun
-Vågsfjord, 08:42 – 08:48
+Vågsfjord, 08:42 - 08:48
 
 The starshell climbed into the frozen air with a sharp, hollow crack, trailing a thin pencil-line of white smoke across the charcoal sky.
 
@@ -832,7 +832,7 @@ The Hampden bombers had arrived.
 NARRATOR
 Chapter Nine
 The Airborne Screen & The Phosphorus Horror
-South Vågsøy, 08:48 – 08:54
+South Vågsøy, 08:48 - 08:54
 
 One hundred yards off the shoreline of South Vågsøy, Major John Durnford-Slater stood braced in the prow of the leading craft of Group 2. He raised a brass Very pistol and fired ten red signal stars in rapid succession into the grey sky.
 
@@ -887,7 +887,7 @@ Through the sulfurous haze, Durnford-Slater drew his Colt automatic and turned t
 NARRATOR
 Chapter Ten
 Flank at Holvik
-Holvik, 08:55 – 09:15
+Holvik, 08:55 - 09:15
 
 Half a mile to the southwest of the smoking town, the two Landing Craft Assault carrying Group 1 drove their steel noses into the shingle beach at Holvik.
 
@@ -961,7 +961,7 @@ Jack Churchill had landed.
 NARRATOR
 Chapter Eleven
 The Pipes of Måløy
-Måløy Island, 08:56 – 09:15
+Måløy Island, 08:56 - 09:15
 
 The leading assault craft of Group 3 surged toward the western rocky shelf of Måløy Island, churning white wakes across the calm, dark water of the sound.
 
@@ -1031,7 +1031,7 @@ Right, Ronald. Let's take those guns. Blow every breech block on the island.
 NARRATOR
 Chapter Twelve
 Silencing the Coastal Battery
-Måløy Island, 09:15 – 09:40
+Måløy Island, 09:15 - 09:40
 
 Captain A. S. Ronald led Troop 5 along the blackened crest of the island, moving through a landscape that smelled violently of pulverized rock, scorched earth, and burnt lyddite.
 
@@ -1110,7 +1110,7 @@ First-rate work, Ronald. The Navy will be pleased. Now let's sweep the rest of t
 NARRATOR
 Chapter Thirteen
 Mopping Up the Islet
-Måløy Island, 09:40 – 10:15
+Måløy Island, 09:40 - 10:15
 
 The sweep across the remainder of Måløy Island was systematic, methodical, and swift.
 
@@ -1179,7 +1179,7 @@ Miles away to the north, well out of sight behind the jagged mountain ridges, th
 NARRATOR
 Chapter Fourteen
 The Severed Artery
-Rødberg, 09:00 – 10:00
+Rødberg, 09:00 - 10:00
 
 While the opening broadsides of HMS Kenya were still shattering the concrete bunkers on Måløy Island, the destroyer HMS Oribi broke away from the main naval force and surged northward through the narrow channel of the Ulvesund.
 
@@ -1250,7 +1250,7 @@ Yet two miles to the south, inside the smoking, labyrinthine streets of the town
 NARRATOR
 Chapter Fifteen
 First Contact on the Waterfront
-South Vågsøy, 09:00 – 09:30
+South Vågsøy, 09:00 - 09:30
 
 The thick, sulfurous blanket of white phosphorus smoke drifted slowly northward, clinging to the frozen surface of the road and swirling around the piles of herring barrels along the waterfront.
 
@@ -1321,7 +1321,7 @@ We're moving too slowly, Martin. If they consolidate at that hotel, they'll lock
 NARRATOR
 Chapter Sixteen
 The One-Street War
-South Vågsøy, 09:30 – 10:00
+South Vågsøy, 09:30 - 10:00
 
 The assault along the main street became an exercise in blind, close-quarters violence.
 
@@ -1388,7 +1388,7 @@ From its upper windows, the barrels of two MG34s protruded, laying down a viciou
 NARRATOR
 Chapter Seventeen
 The Assault on the Ulvesund Hotel
-South Vågsøy, 10:00 – 10:30
+South Vågsøy, 10:00 - 10:30
 
 The Ulvesund Hotel was an imposing, three-story white timber structure dominating the central intersection of South Vågsøy. From its upper windows, dormers, and ground-floor veranda, German garrison officers and Gebirgsjäger maintained a blistering fire that swept the open square.
 
@@ -1475,7 +1475,7 @@ Durnford-Slater reached the veranda, stepping over the charred rubble. He looked
 NARRATOR
 Chapter Eighteen
 Stalemate and Burning Timber
-South Vågsøy, 10:30 – 11:00
+South Vågsøy, 10:30 - 11:00
 
 With the Ulvesund Hotel reduced to a roaring pyre of pitch-pine and falling slate, the assault collided with an invisible wall.
 
@@ -1539,7 +1539,7 @@ Get me HMS Kenya. Tell Admiral Burrough we need the reserve. Get Hooper's troop 
 NARRATOR
 Chapter Nineteen
 Committing the Reserves
-South Vågsøy & The Ulvesund, 11:00 – 11:30
+South Vågsøy & The Ulvesund, 11:00 - 11:30
 
 The wireless operator knelt in the slush behind the garden wall, his bare, frozen fingers adjusting the knurled tuning dial of the Type 18 radio set.
 
@@ -1637,7 +1637,7 @@ We take that house now. Peter, your troop takes the left flank along the cliff t
 NARRATOR
 Chapter Twenty
 The Red Warehouse & Denis O'Flaherty
-South Vågsøy, 11:30 – 12:00
+South Vågsøy, 11:30 - 12:00
 
 The arrival of the reinforcements under Captain Peter Young and Captain R.H. Hooper gave Major John Durnford-Slater the combat power to resume the offensive.
 
@@ -1698,7 +1698,7 @@ The way to the economic objectives of the raid was finally open, but as the gunf
 NARRATOR
 Chapter Twenty-One
 The Cellars: Norwegian Civilians
-South Vågsøy, 10:00 – 12:00
+South Vågsøy, 10:00 - 12:00
 
 Beneath the floorboards of the burning town, more than a thousand Norwegian civilians were living through an unimaginable nightmare.
 
@@ -1768,7 +1768,7 @@ Half a mile to the east, across the cold, open water of the sound, another phase
 NARRATOR
 Chapter Twenty-Two
 The Hunt in the Ulvesund
-The Ulvesund, 09:30 – 11:30
+The Ulvesund, 09:30 - 11:30
 
 While the Commandos fought for every doorway along the main street, the narrow, twisting channel of the Ulvesund became a killing ground for the Royal Navy.
 
@@ -1839,7 +1839,7 @@ The Luftwaffe had arrived.
 NARRATOR
 Chapter Twenty-Three
 Dogfights over the Fjord
-Over Vågsfjord & Ulvesund, 10:00 – 12:30
+Over Vågsfjord & Ulvesund, 10:00 - 12:30
 
 The low, unbroken cloud ceiling hanging between the mountain peaks was suddenly torn open by the howl of twin Junkers Jumo engines.
 
@@ -1906,7 +1906,7 @@ Down on the northern edge of the smoking town, the Royal Engineers heard the aer
 NARRATOR
 Chapter Twenty-Four
 Demolition of the Infrastructure
-South Vågsøy, 11:30 – 13:00
+South Vågsøy, 11:30 - 13:00
 
 The northern edge of South Vågsøy was dominated by the industrial machinery of the Norwegian fish trade, converted by the German occupation into a strategic asset for the Reich's war economy.
 
@@ -1999,7 +1999,7 @@ Vernon stepped out from behind the churchyard wall, shielding his face from the 
 NARRATOR
 Chapter Twenty-Five
 Consolidation and The Wounded
-South Vågsøy, 12:45 – 13:30
+South Vågsøy, 12:45 - 13:30
 
 At the southern beachhead, where the rocks met the freezing surf of the sound, the Regimental Aid Post had been established inside the open timber frame of an empty fish shed.
 
@@ -2060,7 +2060,7 @@ Sound the recall. All troops withdraw to the boats.
 NARRATOR
 Chapter Twenty-Six
 The Call to Withdraw
-South Vågsøy, 13:30 – 14:00
+South Vågsøy, 13:30 - 14:00
 
 The young bugler raised his brass instrument to his lips, his fingers raw and trembling with cold.
 
@@ -2124,7 +2124,7 @@ Standing on the quayside between the rows of British stretchers and the captured
 NARRATOR
 Chapter Twenty-Seven
 The Exodus on the Quayside
-South Vågsøy, 14:00 – 14:45
+South Vågsøy, 14:00 - 14:45
 
 The midwinter twilight was dying rapidly. By two o'clock, the pale charcoal light of the Norwegian sky was collapsing back into deep, freezing dusk, illuminated only by the dull red glow of burning fish factories and timber warehouses.
 
@@ -2194,7 +2194,7 @@ Cast off. Take us out to the ships.
 NARRATOR
 Chapter Twenty-Eight
 The Last Craft Leaves
-Vågsfjord, 14:45 – 15:30
+Vågsfjord, 14:45 - 15:30
 
 The twin Ford V8 engines of the final assault craft roared as the coxswain threw the levers into reverse.
 
@@ -2265,7 +2265,7 @@ The Luftwaffe had mustered its final, desperate strike.
 NARRATOR
 Chapter Twenty-Nine
 Running the Luftwaffe Gauntlet
-The Norwegian Sea, 15:30 – 17:00
+The Norwegian Sea, 15:30 - 17:00
 
 The shelter of Vågsfjord vanished the moment Force Z cleared the jagged headland of Hovden.
 
@@ -2331,7 +2331,7 @@ The gauntlet was run. Force Z was in the open ocean, steaming for the safety of 
 NARRATOR
 Chapter Thirty
 The Return Crossing
-The North Sea, Night of 27–28 December 1941
+The North Sea, Night of 27-28 December 1941
 
 Force Z drove west-southwest through the black swell of the North Sea, pitching heavily into the dark rollers as the wind rose once again from the northwest.
 
@@ -2469,7 +2469,7 @@ Outside the cabin scuttles, the Orkney darkness closed over Scapa Flow. While th
 NARRATOR
 Chapter Thirty-Two
 The Newsprint Victory
-London, 29–31 December 1941
+London, 29-31 December 1941
 
 In the basement printing rooms off Fleet Street, the rotary presses ran at full speed through the night of 28 December, their thunder muffled beneath heavy blackout blinds.
 
@@ -2529,7 +2529,7 @@ Yet its true significance lay far beyond the pages of Fleet Street newspapers or
 NARRATOR
 Chapter Thirty-Three
 The Dictator's Trap
-Wolf's Lair, Rastenburg, January 1942 – 1945
+Wolf's Lair, Rastenburg, January 1942 - 1945
 
 In the damp pine forests of East Prussia, inside the concrete bunker complex of the Wolfsschanze, the after-action report for Operation Archery lay open on the long oak situation table.
 

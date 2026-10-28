@@ -404,7 +404,7 @@ FARRAN
 The Germans don't have a motorized regiment to spare, Colonel. Every panzergrenadier they have is dug into the Gothic Line facing the US Fifth and British Eighth Armies. Behind their front line, it's all supply clerks, signalers, and second-rate coastal battalions. It's an eggshell. Crack the crust, and there's nothing inside.
 
 NARRATOR
-The British brigadier was turning the pages of a manila dossier stamped with red ink—TOP SECRET – BIGOT / OPERATION GRAPESHOT.
+The British brigadier was turning the pages of a manila dossier stamped with red ink—TOP SECRET - BIGOT / OPERATION GRAPESHOT.
 
 BRIGADIER
 (flat, devoid of enthusiasm)
@@ -460,7 +460,7 @@ Major-General Brian Franks gave me this command to fight, not to sit in Florence
 NARRATOR
 The brigadier drew a pristine fountain pen from his breast pocket, unscrewed the cap, and drew a crisp sheet of 15th Army Group letterhead toward him. He wrote three sentences in sweeping cursive, blotted the wet black ink with a rocker, and spun the paper across the desk so it faced Farran—
 To—Major Roy Farran, 2 SAS.
-Subject—Operational Restriction – Operation Tombola.
+Subject—Operational Restriction - Operation Tombola.
 Under no circumstances are you authorized to parachute into enemy-occupied territory or cross the Gothic Line into the northern Apennines. You will direct Operation Tombola from the advanced base at Lucca or Cesenatico. Breach of this directive will be treated as direct disobedience of a lawful command in the face of the enemy.
 The brigadier set the pen down, looking back into Farran's eyes.
 
@@ -484,7 +484,7 @@ Chapter Four
 The Jump at Rosignano
 
 NARRATOR
-March 4, 1945 – twenty-two thirty hours. Rosignano Airfield, Tuscany.
+March 4, 1945 - twenty-two thirty hours. Rosignano Airfield, Tuscany.
 The twin Pratt & Whitney radial engines of the Royal Air Force Dakota roared at idle, shaking the mist that clung to the pierced-steel PSP planking of the runway.
 Blue exhaust flames licked back from the engine cowlings into the damp Tuscan night. Around the transport plane, the air was heavy with the smell of 100-octane aviation fuel, wet canvas, and sulfur smoke from the ground-crew exhaust carts.
 Major Roy Farran walked up the aluminum loading ladder into the green-lit belly of the fuselage. He was wearing an oversized, oil-stained Denison airborne smock that fell down past his thighs like a smock-frock, its lower hem billowing loosely around his trousers.
@@ -573,7 +573,7 @@ Chapter Five
 The Meeting at Febbio
 
 NARRATOR
-March 5, 1945 – zero-one fifteen hours. The Slopes Below Monte Cusna.
+March 5, 1945 - zero-one fifteen hours. The Slopes Below Monte Cusna.
 The jolt was violent, snapping Farran's chin against his chest as the 28-foot khaki silk canopy tore open into the slipstream.
 The roar of the Dakota's twin radials vanished in seconds, swallowed by the mountain wind. Then came the absolute, suffocating quiet of the high Apennines.
 Below him, the world was a jagged monochrome of grey shale and brilliant white snowfields. The red flashes from the partisans' torchlights had vanished, shielded behind a ridgeline. Farran hung in the harness, twisting frantically on his risers to spot the ground coming up in the dark.
@@ -698,7 +698,7 @@ Chapter Six
 Spanish Veterans
 
 NARRATOR
-March 8, 1945 – zero-two fifteen hours. Drop Zone 'Cusna Plateau,' Altitude 5,800 Feet.
+March 8, 1945 - zero-two fifteen hours. Drop Zone 'Cusna Plateau,' Altitude 5,800 Feet.
 The low, heavy drone of four Bristol Pegasus engines vibrated through the limestone soles of the mountain before the aircraft was even visible.
 Michael Lees stood with his gloved hands clamped inside his greatcoat pockets, leaning hard against a gale that felt like powdered glass. Beside him, crouching in a snow trench dug five feet into a drift, two Italian partisans tended three small fires arranged in an inverted 'L.' They fed the flames with dry pine shavings soaked in kerosene, shielding the embers with flat slabs of slate until the sound of the RAF Halifax swelled into a deafening roar.
 
@@ -919,7 +919,7 @@ Chapter Eight
 Deserter's Map
 
 NARRATOR
-March 18, 1945 – twenty-one hundred hours. Cellar Headquarters, Minozzo.
+March 18, 1945 - twenty-one hundred hours. Cellar Headquarters, Minozzo.
 The prisoner smelled of lye soap, damp horse blanket, and the sour sweat of sheer terror.
 He sat on a three-legged milking stool in the vaulted stone cellar beneath a bombed-out olive press in Minozzo. His hands were tied behind the rungs of the stool with telephone wire. Above him, a single kerosene storm lantern hung from a ceiling hook, swinging slightly in the damp draft and throwing sharp, shifting shadows across the whitewashed masonry.
 He was twenty-four years old, wearing the collarless wool tunic of a Wehrmacht Gefreiter—a lance corporal. The green Litzenspiegel tabs on his collar were frayed, and the left shoulder bore the embroidered edelweiss patch of the German mountain troops.
@@ -1027,7 +1027,7 @@ Chapter Nine
 Bicycle Scout
 
 NARRATOR
-March 20, 1945 – zero-eight thirty hours. Road to Albinea, Foothills of Reggio Emilia.
+March 20, 1945 - zero-eight thirty hours. Road to Albinea, Foothills of Reggio Emilia.
 The iron bicycle frame rattled over the frozen ruts of the secondary road running north from Scandiano toward Botteghe.
 Giovanna Quadreri pedaled with a steady, unhurried cadence. She was barely twenty years old, dressed in a faded black woollen skirt that smelled of woodsmoke, a hand-knitted shawl pinned across her collarbones with an iron safety pin, and clogs worn smooth at the heels. On the handlebars hung a wicker basket covered with a damp, checkered kitchen rag. Underneath the cloth lay eight fresh chicken eggs bedded in dry straw, two heads of winter cabbage, and half a loaf of stale rye bread.
 Her partisan name was Giorgio. Among the couriers who slipped through the checkpoints, they called her work la staffetta della libertà.
@@ -1132,7 +1132,7 @@ Chapter Ten
 The Piper's Drop
 
 NARRATOR
-March 23, 1945 – twenty-three forty-five hours. Drop Zone 'Cusna Plateau,' Altitude 5,800 Feet.
+March 23, 1945 - twenty-three forty-five hours. Drop Zone 'Cusna Plateau,' Altitude 5,800 Feet.
 The Halifax circled twice through the freezing mountain fog, its engines throbbing against the stone shoulders of Cusna.
 On the plateau below, the snow had formed a hard, glassy crust under an arctic wind. Michael Lees stood beside Roy Farran, their gloved hands shielding their eyes as the twin red signal fires flickered in the gale.
 Out of the black sky, a single white canopy bloomed.
@@ -1223,7 +1223,7 @@ Chapter Eleven
 Mutinous Cable
 
 NARRATOR
-March 24, 1945 – fourteen hundred hours. Safehouse Radio Room, Febbio.
+March 24, 1945 - fourteen hundred hours. Safehouse Radio Room, Febbio.
 The wireless set was an SOE Type B Mk II, housed inside a battered brown leather suitcase that sat on an upturned apple crate.
 The room was freezing. Through the chinks in the stone walls, the mountain wind whistled, stirring the grey ash in the cold hearth. Corporal Jim Hughes, an SAS signaller with blackened grease beneath his fingernails, sat hunched over the set with heavy bakelite headphones clamped to his ears.
 His right hand was poised over the brass Morse key, dancing in rapid, rhythmic staccato bursts—dit-dit-dah, dit-dah-dit. Beside him lay a pad of silk one-time cipher pads and an indelible purple pencil.
@@ -1336,7 +1336,7 @@ Chapter Twelve
 The Forty-mile March
 
 NARRATOR
-March 25, 1945 – eighteen thirty hours. The Northern Slopes of the Apennines.
+March 25, 1945 - eighteen thirty hours. The Northern Slopes of the Apennines.
 The column stretched three hundred yards down the goat path, a snaking spine of soaked wool, steel, and silence.
 They moved as dusk turned the snowfields of Cusna from blinding white to a dull, bruised violet. At the front walked the scouts of the Gufo Nero—four young Italians in rubber-soled climbing shoes, their captured German Kar98k carbines held across their chests, moving with the effortless, soundless gait of boys who had chased mountain hares through these ravines since childhood. Leading them was Glauco Monducci—'Gordon'—his Sten gun slung muzzle-down beneath his waterproof cape.
 Behind them came Farran and Lees. Then the forty men of 3 Squadron SAS, including the Basque Balerdi and the Spaniard Ramos, their Denison smocks weighted down with four hundred rounds of .303 ammunition apiece, toggle ropes looped across their chests, and Gammon bombs bulging in their thigh pockets.
@@ -1361,7 +1361,7 @@ RAMOS
 Quiet, Basque. The German outpost at Baiso is one ridge over. If you want to curse, curse Franco. He's the reason we are freezing our toes off in Italy.
 
 NARRATOR
-March 26 – zero-four thirty hours. Gully East of Scandiano.
+March 26 - zero-four thirty hours. Gully East of Scandiano.
 They could not move by day.
 Below the three-thousand-foot contour, the hills were open, terraced with vineyards, dotted with stone farmhouses, and crisscrossed by telephone lines. A Fieseler Storch observation plane droned lazily across the valley every two hours, its pilot scanning the lanes for partisan movements.
 Before the first grey light broke over the eastern horizon, the column slid into a deep, brush-choked dry creek bed two miles east of Scandiano.
@@ -1425,7 +1425,7 @@ Chapter Thirteen
 Infiltration at Botteghe
 
 NARRATOR
-March 26, 1945 – twenty-two hundred hours. The Vineyards South of Botteghe d'Albinea.
+March 26, 1945 - twenty-two hundred hours. The Vineyards South of Botteghe d'Albinea.
 When the darkness was complete, the mud moved.
 One hundred and seventy men rose from the ditch like drowned soldiers stepping from a grave. They shed their camouflage brambles and shook the numbing stiffness from their legs, their movements muffled by the soft patter of rain falling on wet loam.
 Farran checked his compass, sighting along the luminous needle toward the faint outline of the Botteghe belfry two miles northwest.
@@ -1433,7 +1433,7 @@ He didn't speak. He raised two fingers, sliced his hand downward, and the column
 To the right went Captain Viktor Pirogov and his seventy Soviets, slipping through a sunken drainage lane toward the Botteghe crossroads and the German barracks at the village school. They carried five Bren guns, boxes of ammunition drums, and canvas sacks crammed with stick grenades. Their mission was simple and brutal—seal the road from Reggio Emilia. If the German garrison attempted to reinforce the villas, Pirogov was to butcher them in their trucks.
 To the center-left went the Villa Calvi strike party under SAS Sergeant Buster Gurney and Spanish commando Frank Williams, guiding twenty partisans through the orchard ditches toward the radio vans and the basement telephone exchange.
 Farran, Lees, Lieutenant James Riccomini, and Glauco Monducci's scouts of the Gufo Nero took the left flank, moving along a deep irrigation canal directly toward the dark silhouette of Villa Rossi. At Farran's heel walked Piper David Kirkpatrick, his kilt swishing softly against his knees, his hands clamped over the wooden drones of his pipes to prevent them clacking against his gear.
-March 27 – zero-zero thirty hours. The Telegraph Pole, Reggio-Albinea Road.
+March 27 - zero-zero thirty hours. The Telegraph Pole, Reggio-Albinea Road.
 Four hundred yards north of the village crossroads, Rafael Ramos crawled on his belly through a muddy ditch choked with dead reeds.
 Above him loomed the wooden telegraph pole Giovanna Quadreri had marked on the butcher-paper map. The heavy black rubber cables of the main military trunk line to Reggio Emilia hummed faintly in the night air, carrying the late-night operational traffic of the German 14th Army.
 Ramos paused. He reached out with bare, mud-caked fingers, feeling along the edge of the asphalt.
@@ -1486,7 +1486,7 @@ Chapter Fourteen
 Highland Laddie
 
 NARRATOR
-March 27, 1945 – zero-two hundred hours. The Lawn, Villa Rossi.
+March 27, 1945 - zero-two hundred hours. The Lawn, Villa Rossi.
 David Kirkpatrick's lungs emptied into the sheepskin bag with a sharp, gasping heave.
 The drones woke with a low, guttural groan, then locked into a deafening, harmonic scream that shattered the silence of the valley like a pane of plate glass.
 Kirkpatrick rose from the drainage ditch, stepped over the severed strands of barbed wire, and walked deliberately out onto the manicured turf of the front lawn. His kilt swung in rhythmic snaps against his knees. His chin was held high, African blackwood drones balanced on his left shoulder, tartan ribbons fluttering in the wet breeze.
@@ -1531,7 +1531,7 @@ Chapter Fifteen
 Assault on Villa Rossi
 
 NARRATOR
-March 27, 1945 – zero-two zero-five hours. Ground Floor, Villa Rossi.
+March 27, 1945 - zero-two zero-five hours. Ground Floor, Villa Rossi.
 The entrance hall was a swirling vortex of choking white plaster dust, cordite smoke, and the sharp stink of ruptured gas pipes.
 High above, a massive crystal chandelier swung violently from a shattered ceiling medallion, its crystal pendants chiming like church bells in a gale. Across the black-and-white checkered marble floor lay the splintered remains of the front doors, strewn with rubble, broken glass, and two German guards from the entrance post who had been pulped by the Gammon blast.
 Through the pulverized portal came Riccomini, Farran, and Lees, followed by Glauco Monducci, four SAS troopers, and two scouts of the Gufo Nero.
@@ -1595,7 +1595,7 @@ Chapter Sixteen
 The Fall of Lees and Riccomini
 
 NARRATOR
-March 27, 1945 – zero-two twenty-five hours. The Grand Staircase, Villa Rossi.
+March 27, 1945 - zero-two twenty-five hours. The Grand Staircase, Villa Rossi.
 The staircase erupted into a vertical sheet of flame.
 From behind the marble balustrade on the first-floor landing, an MG42 fired straight down into the throat of the foyer. The cyclical rate—twenty rounds a second—sounded like calico tearing in two. The heavy 7.92mm slugs gouged massive chunks out of the marble treads, pulverizing the stone into a flying storm of lethal, razor-edged splinters.
 Lieutenant James Riccomini didn't hesitate. He launched himself up the left side of the stairs, firing his Thompson upward with one hand, his boots scrambling for purchase on the shattered, dust-slick steps.
@@ -1663,7 +1663,7 @@ Chapter Seventeen
 Villa Calvi
 
 NARRATOR
-March 27, 1945 – zero-two ten to zero-two fifty hours. Villa Calvi and Botteghe Crossroads.
+March 27, 1945 - zero-two ten to zero-two fifty hours. Villa Calvi and Botteghe Crossroads.
 Three hundred yards to the east, across the dew-soaked meadow separating the two estates, Villa Calvi was already burning.
 While the assault on Villa Rossi was turning the grand staircase into a slaughterhouse, SAS Sergeant Buster Gurney and the Spanish commando Frank Williams were systematically dismantling the brain of the LI Mountain Corps.
 Gurney led the breach through the rear conservatory of Villa Calvi. A two-pound Gammon bomb had vaporized the iron-framed French doors, blowing a blizzard of shattered greenhouse glass into the ground-floor operations room.
@@ -1752,7 +1752,7 @@ Chapter Eighteen
 Retreat into the Foothills
 
 NARRATOR
-March 27, 1945 – zero-three hundred to zero-six hundred hours. The Fields South of Botteghe d'Albinea.
+March 27, 1945 - zero-three hundred to zero-six hundred hours. The Fields South of Botteghe d'Albinea.
 The rendezvous in the southern orchard was a scramble of mud, blood, and shouted orders in four tongues.
 From the burning shell of Villa Calvi, Buster Gurney's men came sprinting through the fruit trees, their faces black, smocks singed by the blast that had disintegrated the corps exchange. From the crossroads, Pirogov's Soviets fell back in bounding overwatch, covering their withdrawal with short, violent bursts from their Brens.
 Roy Farran stood by a broken stone wall at the edge of the vineyard, his Colt .45 drawn, counting heads as the men vaulted into the drainage ditch.
@@ -1858,7 +1858,7 @@ Chapter Nineteen
 The Dead on the Lawn
 
 NARRATOR
-March 28, 1945 – zero-eight thirty hours. The Grounds of Villa Rossi, Botteghe d'Albinea.
+March 28, 1945 - zero-eight thirty hours. The Grounds of Villa Rossi, Botteghe d'Albinea.
 The morning air smelled of wet soot, burned insulation, and cold calcified ash.
 Villa Calvi was a hollow stone tooth. The roof had collapsed inward during the pre-dawn hours, sending two floors of ornate timber crashing down into the cellar. The high-voltage Siemens switchboards and the telephone exchange were reduced to blackened heaps of twisted copper and slag. Out in the gardens, the three Mercedes radio vans were charred iron skeletons, their pneumatic mast antennas bent double like broken reeds.
 At Villa Rossi, the facade was pocked by thousands of bullet gouges, the white neoclassical stucco sprayed with jagged gray craters. The great double doors were gone, their splintered remnants scattered across the foyer where pools of dark, congealed blood had begun to dry on the checkered marble floor.
@@ -1880,7 +1880,7 @@ They were the three men left behind on the staircase of Villa Rossi—Lieutenant
 The German medical orderlies had carried them down from the rotunda and stripped open their smocks to examine their wounds.
 Hauck knelt down on one knee in the wet grass.
 He looked at Riccomini's face. The British lieutenant's eyes were closed, his skin the color of marble, his hands stiffened around phantom grips. On the breast of his camouflage Denison smock, pinned through the thick canvas, was the embroidered parachute qualification wing. On his collar rested the fabric rank pips of a British Army subaltern.
-Hauck reached out with a gloved hand and lifted the metal identity disc dangling from the dead officer's neck by a green cord—RICCOMINI, J. – 265882 – CE – SAS.
+Hauck reached out with a gloved hand and lifted the metal identity disc dangling from the dead officer's neck by a green cord—RICCOMINI, J. - 265882 - CE - SAS.
 Hauck dropped the dog tag, then stood and inspected the two soldiers beside him. Both wore British Army service dress trousers, standard commando-cleated airborne boots, and web belts bearing British War Department broad-arrow stamps. In their pockets, the search team had found no partisan armbands, no Communist red stars, and no civilian identity cards—only regular British Army paybooks, field dressings, and Player's cigarettes.
 Hauck turned to the Feldgendarmerie major.
 
@@ -1956,7 +1956,7 @@ Chapter Twenty
 Fire at Civago
 
 NARRATOR
-March 30, 1945 – eleven hundred hours. The Upper Secchia Valley, Civago.
+March 30, 1945 - eleven hundred hours. The Upper Secchia Valley, Civago.
 The people of Albinea had been spared, but the mountain paid the debt.
 General Hauck's signals might have been severed at Villa Calvi, but the telegraph lines of the German 14th Army ran deep into the valley bastions. By the morning of March 29, the German command understood with absolute clarity where the strike force had come from. The raiders had not vanished into thin air; their bootprints and mule tracks led straight back into the rugged folds of the upper Secchia, into the redoubt around Monte Cusna.
 The retribution fell not as a summary firing squad on a manicured lawn, but as an iron fist—a full-scale rastrellamento.
@@ -2043,7 +2043,7 @@ Chapter Twenty-One
 Surgery by Grappa
 
 NARRATOR
-April 2, 1945 – twenty-one thirty hours. The Cellar at Case Balocchi, Altitude 3,600 Feet.
+April 2, 1945 - twenty-one thirty hours. The Cellar at Case Balocchi, Altitude 3,600 Feet.
 The cellar was little more than a slit cut into the mountain's limestone ribs, roofed with rough chestnut beams and buried beneath three feet of dirt and sheep manure.
 It was pitch-black save for the flickering flame of two tallow candles stuck to the lid of an empty grease barrel. The air was frigid, thick with the stench of damp earth, dried dung, gangrene, and the sharp, nose-stinging fumes of 120-proof mountain grappa.
 Outside, the mountain wind howled through the bare beeches, punctuated at irregular intervals by the distant, rhythmic thump-thump of German mortars searching the ravines around Febbio.
@@ -2159,7 +2159,7 @@ Chapter Twenty-Two
 The Six-thousand-foot Litter
 
 NARRATOR
-April 5, 1945 – zero-four thirty hours. The High Ridges of Monte Cusna, Altitude 5,900 Feet.
+April 5, 1945 - zero-four thirty hours. The High Ridges of Monte Cusna, Altitude 5,900 Feet.
 The stretcher was a crude engine of survival.
 Two stripped pine saplings, hacked down with commando axes, served as the poles. Across them, the partisans had stretched green canvas supply bags, lashed tight with bronze telephone wire and lengths of white parachute silk.
 Michael Lees was strapped to the wood like a corpse prepared for burial. Thick woollen horse blankets were pinned around his body with safety pins, and over the blankets lay a waterproof rubberized groundsheet. Leather utility straps were cinched across his chest, thighs, and shins to keep his limp, paralyzed lower body from sliding off the frame when the gradient tilted toward vertical.
@@ -2194,7 +2194,7 @@ RAMOS
 Shut up, Captain. I didn't drag you through four miles of Emilian crap and watch Carità pour grappa into your ribs just to leave you on a rock for the crows. You are going to Florence, even if I have to carry you on my teeth.
 
 NARRATOR
-April 6 – thirteen hundred hours. Passo del Cavallo, The Gothic Line Divide.
+April 6 - thirteen hundred hours. Passo del Cavallo, The Gothic Line Divide.
 By midday on the second day, the column reached the dead zone.
 Here, on the knife-edge crest separating Emilia from Tuscany, the Gothic Line was not a trench; it was a string of isolated stone bunkers and sniper nests manned by mountain troops of the German 148th Division and RSI elite alpine units.
 Corrado raised his hand, dropping flat into a snowdrift. The litter was lowered instantly into a hollow behind a wall of wind-carved ice.
@@ -2206,7 +2206,7 @@ Ramos leaned down and pressed a heavy, woollen mitten firmly over Lees's mouth a
 Corrado whispered the command to move.
 They rose in absolute silence. Avoiding the track, the bearers hauled the litter straight down the southern face of the pass, sliding on their heels through five hundred yards of loose shale and melting slush, using their bodies as human brakes until they crossed beneath the lip of the ridge.
 They had crossed the spine. They were behind the German front line, dropping into the Allied sector.
-April 7 – sixteen thirty hours. Outskirts of Castelnuovo di Garfagnana.
+April 7 - sixteen thirty hours. Outskirts of Castelnuovo di Garfagnana.
 The snow died as they dropped into the lower valley.
 The air grew thick, damp, and warm, heavy with the scent of wild garlic, wet slate, and blossoming chestnut groves. But the sounds of war did not vanish; they deepened into a continuous, subterranean rumble.
 From the south, twenty miles down the valley toward Lucca, the heavy 155-millimeter 'Long Tom' artillery batteries of the US Fifth Army were laying down interdiction fire on the German mountain passes. Every thirty seconds, the horizon shuddered with the dull, concussive boom-crump of heavy ordnance.
@@ -2256,7 +2256,7 @@ Chapter Twenty-Three
 Molto Stanco
 
 NARRATOR
-Night of April 8/9, 1945 – twenty-three thirty hours. Drop Zone 'Secchia Meadow,' Below Monte Valestra.
+Night of April 8/9, 1945 - twenty-three thirty hours. Drop Zone 'Secchia Meadow,' Below Monte Valestra.
 While an American field ambulance bounced along the paved coastal road to the hospital in Lucca with Michael Lees, the war on the northern face of the Apennines acquired a weapon no one in Florence had ever authorized.
 Roy Farran stood in a freezing mist on a tilted pasture two miles north of the charred ruins of Civago. Around him, forty Italian partisans and twenty Soviet soldiers waited with kerosene-soaked pine flares, listening for the distinctive harmonic drone of an RAF transport.
 Farran did not need submachine guns. He did not need bully beef. He had wirelessed Siena for something that sounded like sheer madness to the staff officers at 15th Army Group—airborne artillery.
@@ -2329,7 +2329,7 @@ Chapter Twenty-Four
 The Battle of Monte Valestra
 
 NARRATOR
-April 10, 1945 – zero-six forty-five hours. The Crest of Monte Valestra, Altitude 4,300 Feet.
+April 10, 1945 - zero-six forty-five hours. The Crest of Monte Valestra, Altitude 4,300 Feet.
 The morning broke with the flat, metallic crack of German 81-millimeter mortars walking up the northern spur of Monte Valestra.
 The shells burst in the dwarf pines and dry shale, throwing jagged shards of limestone and black dirt into the freezing mist. Down in the valley, two battalions of German mountain troops and Brigate Nere blackshirts—over five hundred men—were advancing in four parallel skirmish lines through the terraced vineyards below the village of Valestra. They moved with discipline, supported by heavy MG42s firing from tripods set up on stone farmyard walls.
 On the forward crest, the young Italian partisans of the Fiamme Verdi and the Garibaldi brigades hugged the dirt.
@@ -2423,7 +2423,7 @@ Chapter Twenty-Five
 The Throat of Highway Twelve
 
 NARRATOR
-April 14, 1945 – eleven thirty hours. The Bluffs Overlooking Strada Statale 12, South of Pavullo nel Frignano.
+April 14, 1945 - eleven thirty hours. The Bluffs Overlooking Strada Statale 12, South of Pavullo nel Frignano.
 From eight hundred feet above the tarmac, Highway 12 looked like a dying serpent thrashing in a stone trough.
 Strada Statale 12—the ancient Abetone pass road—wound through a sheer limestone notch flanked by vertical gray cliffs on the west and the rushing, white-water torrent of the Panaro River on the east. It was the only paved retreat route through the western Apennines.
 Now that the US Fifth Army had blown the front line wide open south of Bologna, the entire right wing of the German 14th Army was fleeing northward toward the flat sanctuary of the Po River.
@@ -2505,7 +2505,7 @@ Chapter Twenty-Six
 River Ambush
 
 NARRATOR
-April 18, 1945 – fifteen hundred hours. Secchia River Crossing, South of Sassuolo.
+April 18, 1945 - fifteen hundred hours. Secchia River Crossing, South of Sassuolo.
 The two stripped-down Willys Jeeps tore down the gravel track along the western bank of the Secchia River at forty miles an hour.
 They were painted in flat olive drab, stripped of windscreens, doors, and hoods to save weight. Across the passenger floorboards and rear decks were welded heavy steel pedestals mounting twin Vickers .303 K gas-operated machine guns—aircraft weapons scavenged from downed bombers, capable of emptying a hundred-round pan magazine in six seconds flat.
 Major Roy Farran stood braced in the passenger seat of the lead Jeep, his left hand gripping the steel grab-bar welded to the dashboard, his sand-colored beret pulled low over his eyes to shield them from the gravel spray.
@@ -2582,7 +2582,7 @@ Chapter Twenty-Seven
 The Death of Justo Balerdi
 
 NARRATOR
-April 21, 1945 – zero-seven fifteen hours. Road Junction North of Torre Maino.
+April 21, 1945 - zero-seven fifteen hours. Road Junction North of Torre Maino.
 The crossroads at Torre Maino smelled of wet clay, damp lilac blossoms, and the cold metal of an ambush waiting to be sprung.
 A mile south of Maranello, where the last low folds of the Apennines flattened into the endless fruit orchards of the Po Valley, the secondary road from Pavullo converged on the main artery to Modena. Across the asphalt, Farran's mobile jeep detachment had dropped two massive poplar trees with plastic explosives, lacing the branches with Hawkins anti-tank mines and barbed wire to cut off retreating elements of the German 148th Division.
 In a drainage ditch forty yards east of the roadblock lay Sergeant Justo Balerdi.
@@ -2682,7 +2682,7 @@ Chapter Twenty-Eight
 Artillery Bluff at Reggio
 
 NARRATOR
-April 21, 1945 – fourteen hundred hours. Southern Outskirts of Reggio Emilia, Buco del Signore.
+April 21, 1945 - fourteen hundred hours. Southern Outskirts of Reggio Emilia, Buco del Signore.
 While Ramos's mobile jeep section fought their delaying action at Torre Maino, Roy Farran had brought the battalion's heavy punch to the southern gates of the regional Axis bastion.
 Reggio Emilia, astride the ancient cobblestones of the Via Emilia, was ringed by roadblocks, wire, and brick factory walls. Inside the Caserma Zucchi and the municipal barracks were hundreds of German rearguard troops, backed by armored halftracks, machine-gun nests, and remnants of the fascist Guardia Nazionale Repubblicana.
 If the Germans dug in to hold the city as a fortified pivot, thousands of civilian lives would be pulverized in a house-to-house siege before the lead armor of the US Fifth Army could fight its way north from the Panaro.
@@ -2749,7 +2749,7 @@ Chapter Twenty-Nine
 Link-up
 
 NARRATOR
-April 24, 1945 – zero-nine thirty hours. The Via Emilia, Highway 9, East of Reggio Emilia.
+April 24, 1945 - zero-nine thirty hours. The Via Emilia, Highway 9, East of Reggio Emilia.
 The sound coming from the east was the sound of industrial war—the heavy, ground-shaking rhythm of radial tank engines, the high-pitched squeal of rubber-bushed steel tracks, and the rumble of two-and-a-half-ton GMC trucks.
 Through the morning mist rising from the roadside clover fields came the point element of the United States Fifth Army—a reconnaissance troop of the 1st Armored Division.
 Leading the column was an M8 Greyhound armored car, its low-profile silhouette bristling with whip antennas, followed by two mud-spattered M4A3 Sherman tanks. Their 75-millimeter gun barrels were traversed forward, hulls buttoned down, .50-caliber Browning machine gunners scanning the hedgerows with their fingers hooked over the butterfly triggers.
@@ -2819,7 +2819,7 @@ Chapter Thirty
 Surrender of the Arms
 
 NARRATOR
-April 28, 1945 – eleven hundred hours. Piazza Prampolini, Reggio Emilia.
+April 28, 1945 - eleven hundred hours. Piazza Prampolini, Reggio Emilia.
 The cobblestones of Piazza Prampolini, beneath the Romanesque facade of the Reggio Emilia Cathedral, were covered in a mountain of dead steel.
 In the center of the square, where citizens had gathered to celebrate the liberation four days earlier, two wooden trestle tables were draped in green baize cloth. Behind the tables sat three officers of the Allied Military Government of Occupied Territories—a British major in immaculate staff serge and two American captains with khaki neckties and fountain pens.
 Flanking the tables were armed American military policemen in polished white helmets, their holstered .45s gleaming in the spring sun.
@@ -2912,13 +2912,13 @@ Chapter Thirty-One
 Yalta Betrayal
 
 NARRATOR
-May 12, 1945 – zero-six hundred hours. The Docks of Taranto, Southern Italy.
+May 12, 1945 - zero-six hundred hours. The Docks of Taranto, Southern Italy.
 The Mediterranean smelled of bilge oil, wet coal, and salt.
 Along the commercial quays of Taranto, where Allied merchantmen were loading surplus artillery and ammunition crates for shipment back to Britain, a cordon of British Military Police in scarlet-topped peaked caps and white canvas webbing stood at ten-pace intervals, their Sten guns slung with magazines fitted.
 Behind the wire perimeter of Transit Camp No. 5 sat seventy men.
 They were the Soviet detachment of the Battaglione Alleato—the men who had wiped out the German barracks at Botteghe d'Albinea and broken the mountain infantry with bayonets on the slopes of Monte Valestra.
 Now, they were prisoners again.
-Two days after the link-up on Highway 9, the orders had arrived from Allied Force Headquarters in Caserta. They were stamped SECRET – EXECUTIVE and cited the bilateral repatriation agreements signed at Yalta by Winston Churchill, Franklin D. Roosevelt, and Joseph Stalin—
+Two days after the link-up on Highway 9, the orders had arrived from Allied Force Headquarters in Caserta. They were stamped SECRET - EXECUTIVE and cited the bilateral repatriation agreements signed at Yalta by Winston Churchill, Franklin D. Roosevelt, and Joseph Stalin—
 All Soviet citizens liberated by Allied forces will be segregated immediately into national enclosures and handed over to Soviet military authorities at designated ports for repatriation to the Union of Soviet Socialist Republics. Force will be used if necessary.
 A British quartermaster sergeant walked down the line of seated men, holding an open canvas mail sack.
 
@@ -3013,7 +3013,7 @@ SMERSH OFFICER
 Traitor.
 
 NARRATOR
-The officer stamped a red stamp onto Pirogov's dossier—ARTICLE 58 – SUSPICION OF ESPIONAGE FOR BRITISH INTELLIGENCE.
+The officer stamped a red stamp onto Pirogov's dossier—ARTICLE 58 - SUSPICION OF ESPIONAGE FOR BRITISH INTELLIGENCE.
 Two guards grabbed Pirogov by the arms, twisted his shoulders, and dragged him toward the open doors of the waiting boxcars.
 The wooden doors slammed shut with a sickening, final thud. The iron locking bars dropped home.
 The train whistled once—a long, mournful shriek across the ruins of Odessa—and began its slow, four-thousand-mile journey east toward the permafrost of the Gulags.
@@ -3028,7 +3028,7 @@ Bureaucratic Reckoning
 NARRATOR
 July 1945. Allied Headquarters, Florence.
 The war in Europe had been dead for two months, and the mahogany desks of Florence were drowning in paper.
-In the cool, marble salon of the requisitioned palazzo, a brigadier from General Mark Clark's staff sat behind a red-tape dossier marked COURT-MARTIAL INQUIRY—FARRAN, ROY ALEXANDER (MAJ) – 2 SAS.
+In the cool, marble salon of the requisitioned palazzo, a brigadier from General Mark Clark's staff sat behind a red-tape dossier marked COURT-MARTIAL INQUIRY—FARRAN, ROY ALEXANDER (MAJ) - 2 SAS.
 Inside the folder lay the written order from February 26, signed in black ink, forbidding Farran from jumping into enemy territory. Beside it lay the insubordinate cipher telegram transmitted from the cellar in Febbio on March 24—The attack is irrevocable. McGinty.
 Across the desk sat Major Roy Farran.
 He was wearing a tailored No. 1 dress tunic of barathea wool, its brass buttons polished to mirror brightness. On his chest, above the ribbons of the Military Cross with two bars, the red and blue ribbon of the Distinguished Service Order had just been pinned.
@@ -3087,7 +3087,7 @@ LEES
 Yes.
 
 NARRATOR
-The clerk drew an envelope of War Office buff paper from his case, stamped with purple ink—SOE / SF1 AWARDS COMMITTEE – CLASSIFIED.
+The clerk drew an envelope of War Office buff paper from his case, stamped with purple ink—SOE / SF1 AWARDS COMMITTEE - CLASSIFIED.
 
 CLERK
 Notification regarding your citation, Captain. The committee concluded its review in London on Tuesday.
@@ -3133,7 +3133,7 @@ Chapter Thirty-Three
 Epilogue of the Apennines
 
 NARRATOR
-Autumn 1946 – Post-War. The Colliery at Girvan, Ayrshire, Scotland.
+Autumn 1946 - Post-War. The Colliery at Girvan, Ayrshire, Scotland.
 A thousand feet beneath the slate-grey waters of the Firth of Clyde, the darkness was absolute.
 David Kirkpatrick swung his pick against a seam of wet, black coal, the steel point biting into the carbon with dull, rhythmic thuds. He was twenty-two years old. His skin was caked in black coal dust, his lungs whistling softly with the fine grit that settled into the throat of every miner in Ayrshire.
 At the end of his ten-hour shift, Kirkpatrick rode the iron cage back to the surface. He walked through the salt mist of the Scottish coast to his mother's low stone cottage on the edge of Girvan, kicked his coal-blackened boots off at the scullery door, and washed his face in an enameled tin basin.
