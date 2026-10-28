@@ -1,4 +1,4 @@
-Cast
+Gunnerside Cast
 
 NARRATOR
 I speak with the voice of Charon
@@ -143,8 +143,8 @@ The Steamer from Telemark
 
 NARRATOR
 Orchard Court, London. 19 March 1942.
-The smell of coal smoke, North Sea salt, and damp wool had not yet left Einar Skinnarland’s jacket. He sat on a straight-backed wooden chair beneath the high cornices of the requisitioned flat, blinking against the sharp beam of an electric desk lamp.
-Across the mahogany table sat two men. One was in British army khaki with the red-and-blue ribbons of the previous war—Lieutenant Colonel J. S. Wilson, head of the Special Operations Executive’s Scandinavian Section. The other wore the dark service dress of the exiled Royal Norwegian Army. His insignia marked him as a captain, but his posture and thin wire-rimmed spectacles belonged to a lecture hall.
+The smell of coal smoke, North Sea salt, and damp wool had not yet left Einar Skinnarland's jacket. He sat on a straight-backed wooden chair beneath the high cornices of the requisitioned flat, blinking against the sharp beam of an electric desk lamp.
+Across the mahogany table sat two men. One was in British army khaki with the red-and-blue ribbons of the previous war—Lieutenant Colonel J. S. Wilson, head of the Special Operations Executive's Scandinavian Section. The other wore the dark service dress of the exiled Royal Norwegian Army. His insignia marked him as a captain, but his posture and thin wire-rimmed spectacles belonged to a lecture hall.
 Captain Leif Tronstad had a thin dossier open in front of him. He did not look like a soldier; he was the former professor of industrial chemistry at the Norwegian Institute of Technology in Trondheim.
 
 TRONSTAD
@@ -199,7 +199,7 @@ SKINNARLAND
 Torstein? He is the head dam keeper at Møsvatn. For Norsk Hydro.
 
 NARRATOR
-Tronstad’s hand stilled on the table. Wilson sat up slightly straighter in his chair.
+Tronstad's hand stilled on the table. Wilson sat up slightly straighter in his chair.
 
 TRONSTAD
 Your brother controls the water gates at the Møsvatn dam? The primary reservoir?
@@ -216,14 +216,14 @@ How well do you know the terrain around the Vemork plant?
 
 SKINNARLAND
 (quiet, dry chuckle)
-I grew up on those crags. I know every rock from the bottom of the Måna ravine to the top of the plateau. I’ve cross-country skied the Hardangervidda every winter since I was six years old.
+I grew up on those crags. I know every rock from the bottom of the Måna ravine to the top of the plateau. I've cross-country skied the Hardangervidda every winter since I was six years old.
 
 WILSON
 (eyes narrowing)
 He arrived in Aberdeen forty-eight hours ago, Leif. Has his disappearance been reported in Rjukan yet?
 
 TRONSTAD
-Einar, think carefully. When you boarded the Galtesund with Starheim’s men at Flekkefjord, did anyone in Telemark know where you were going?
+Einar, think carefully. When you boarded the Galtesund with Starheim's men at Flekkefjord, did anyone in Telemark know where you were going?
 
 SKINNARLAND
 No. I told my family I was heading south along the coast on a survey commission. The police in Rjukan think I am down near Kristiansand. If they check, it will take them weeks to figure out I wasn't just delayed by snow.
@@ -302,7 +302,7 @@ Blueprints of Jomar Brun
 NARRATOR
 Orchard Court, London. June 1942.
 The room smelled of developer acid and warm projector bulbs. The heavy blackout draperies were drawn tight against the late-afternoon sun over Portman Square. On a bedsheet pinned to the plaster wall, an inverted, glowing negative of an engineering blueprint flickered into focus.
-Captain Leif Tronstad held a wooden pointer against the glowing linen. Next to him, Colonel Wilson sat on the corner of the oak table, a lit Player’s cigarette held between ink-stained fingers. Standing at the back of the room, leaning against the doorframe, was Dr. Michael Perrin, the scientific liaison for Tube Alloys—the British code name for atomic research.
+Captain Leif Tronstad held a wooden pointer against the glowing linen. Next to him, Colonel Wilson sat on the corner of the oak table, a lit Player's cigarette held between ink-stained fingers. Standing at the back of the room, leaning against the doorframe, was Dr. Michael Perrin, the scientific liaison for Tube Alloys—the British code name for atomic research.
 
 TRONSTAD
 (flat, analytical)
@@ -405,7 +405,7 @@ TRONSTAD
 Gliders on the Hardangervidda? In the winter?
 
 WILSON
-It is the only way to deliver thirty heavily armed sappers in one lift. Airspeed Horsas towed by Halifaxes. But the British pilots cannot find a patch of frozen bog in the dark without guidance. We need an advance party, Leif. Men from Telemark. Hunters who know the Hardangervidda in blizzards. They must go in first, survive the autumn on the plateau, scout the plant, and set up a radar beacon to guide Mountbatten’s gliders out of the night.
+It is the only way to deliver thirty heavily armed sappers in one lift. Airspeed Horsas towed by Halifaxes. But the British pilots cannot find a patch of frozen bog in the dark without guidance. We need an advance party, Leif. Men from Telemark. Hunters who know the Hardangervidda in blizzards. They must go in first, survive the autumn on the plateau, scout the plant, and set up a radar beacon to guide Mountbatten's gliders out of the night.
 
 NARRATOR
 Tronstad took off his glasses, looked at the glowing blueprints on the wall, and nodded slowly.
@@ -426,7 +426,7 @@ The library of the Jacobean mansion had been stripped of its family portraits. I
 Four Norwegian soldiers stood in a loose semicircle around an oak drafting table. They wore standard British battle dress with the curved cloth slip-on on their shoulders reading—NORWAY.
 Captain Leif Tronstad stood opposite them. At his right hand, resting on the table next to a stack of ordnance maps, sat a heavy, olive-drab metal box with dials and an extensible aerial—the 'Eureka' radar transponder. Next to it lay four small, dark-brown rubber capsules, each no larger than the tip of a little finger.
 Tronstad looked at the four men. He knew their service records down to the millimeter.
-Second Lieutenant Jens-Anton Poulsson, twenty-four, the appointed commander—calm, methodical, born in Rjukan, the son of a Hydro director. Sergeant Arne Kjelstrup, twenty-nine, his deputy—a former plumber from Rjukan who had spent his youth shooting ptarmigan in the crags above the valley. Sergeant Claus Helberg, twenty-three—a guide for the Norwegian Touring Association who knew every turf hut, shepherd’s path, and boulder field on the plateau. And Sergeant Knut Haugland, twenty-five—a veteran of the fighting at Narvik, one of the sharpest wireless telegraphists Kompani Linge possessed.
+Second Lieutenant Jens-Anton Poulsson, twenty-four, the appointed commander—calm, methodical, born in Rjukan, the son of a Hydro director. Sergeant Arne Kjelstrup, twenty-nine, his deputy—a former plumber from Rjukan who had spent his youth shooting ptarmigan in the crags above the valley. Sergeant Claus Helberg, twenty-three—a guide for the Norwegian Touring Association who knew every turf hut, shepherd's path, and boulder field on the plateau. And Sergeant Knut Haugland, twenty-five—a veteran of the fighting at Narvik, one of the sharpest wireless telegraphists Kompani Linge possessed.
 
 TRONSTAD
 (dry and steady)
@@ -494,7 +494,7 @@ WILSON
 The Gestapo will not merely shoot you. They will take you down to Victoria Terrasse in Oslo. They will use bone-crushers. They will tear out your fingernails. They will use electric terminals on your spine. If you break, you give away Skinnarland. You give away the landing zone at Skoland. You send thirty-four British engineers in wooden gliders directly into an ambush.
 
 NARRATOR
-Poulsson took the pellet from Wilson’s palm. It felt light, insignificant, like a dried pea. He dropped it into his left breast pocket and buttoned the brass flap.
+Poulsson took the pellet from Wilson's palm. It felt light, insignificant, like a dried pea. He dropped it into his left breast pocket and buttoned the brass flap.
 
 POULSSON
 We won't break.
@@ -522,7 +522,7 @@ Dropped in the Blind
 NARRATOR
 Fjærefit, Songadalen. Zero-one thirty, 19 October 1942.
 The slipstream slammed into Jens-Anton Poulsson like a wall of moving ice.
-For two seconds there was only the deafening roar of the four Rolls-Royce Merlin engines tearing away into the darkness, the violently whipping parachute risers, and the shock of freezing air after six hours inside the Halifax’s unheated bomb bay. Then the nylon canopy snapped open with a violent crack that jerked his harness deep into his groin.
+For two seconds there was only the deafening roar of the four Rolls-Royce Merlin engines tearing away into the darkness, the violently whipping parachute risers, and the shock of freezing air after six hours inside the Halifax's unheated bomb bay. Then the nylon canopy snapped open with a violent crack that jerked his harness deep into his groin.
 Beneath his dangling boots, there was no flat, snow-covered lake. There was only a vast, black void of jagged rock and swirling gray mist.
 Poulsson hit the ground hard. His left ski boot struck a granite slab, his knees buckled, and the wind caught the parachute, dragging him face-first across five yards of frozen moss and razor-sharp scree before he managed to trip the quick-release box on his chest.
 The silence that followed was immediate, hollow, and absolute, broken only by the keening of the sub-zero wind across the rocks.
@@ -536,7 +536,7 @@ A low grunt came from twenty yards to his right, among a cluster of black boulde
 
 KJELSTRUP
 (muttering, wiping blood)
-Here. I’m in one piece. Dropped straight into a scree bed. Where are the containers?
+Here. I'm in one piece. Dropped straight into a scree bed. Where are the containers?
 
 NARRATOR
 Two more shapes emerged from the gloom. Claus Helberg was dragging his collapsed canopy behind him like a dead animal; Knut Haugland followed, clutching his personal haversack, in which the quartz crystals and valves for the Type 3 Mark II wireless were wrapped in oily wool.
@@ -613,7 +613,7 @@ NARRATOR
 Kjelstrup spat onto the dark shale. He bent down and picked up the drag-rope of the nearest undamaged pulk.
 
 KJELSTRUP
-Then we’d better start pulling.
+Then we'd better start pulling.
 
 
 
@@ -636,7 +636,7 @@ Kjelstrup dropped to his knees in the mud. He flipped the sled onto its side. A 
 
 KJELSTRUP
 (panting, raw fingers)
-Third time today. The plateau has no skin on it. It’s all tooth and claw. Pulling an eighty-kilo sledge across this is like dragging it down a gravel road.
+Third time today. The plateau has no skin on it. It's all tooth and claw. Pulling an eighty-kilo sledge across this is like dragging it down a gravel road.
 
 POULSSON
 We are behind schedule. We have been moving for sixteen days, and we haven't made forty kilometers as the crow flies.
@@ -659,7 +659,7 @@ NARRATOR
 Poulsson lifted his chin. The air had sharpened. The wet, cloying stench of rotting peat and rain-soaked lichen was fading, replaced by the clean, metallic ozone that preceded a hard continental freeze.
 
 HELBERG
-It’s turning to dry snow. Within forty-eight hours, the bogs will freeze solid. Once the lakes carry ice, we can put the runners on snow. We can double our speed.
+It's turning to dry snow. Within forty-eight hours, the bogs will freeze solid. Once the lakes carry ice, we can put the runners on snow. We can double our speed.
 
 POULSSON
 We don't have forty-eight hours to spare. Look at the calendar. London gave us the moon period—November seventeenth to twentieth. Today is the fourth. If the weather breaks over the North Sea and the RAF launches the gliders on the nineteenth, we must reach the base cabin at Sandvatn and get down to Møsvatn. We need forty-eight hours to scout the Skoland marshes, clear the landing lanes, and lay the wire for the Eureka beacon.
@@ -702,7 +702,7 @@ The Flare Path at Skoland
 
 NARRATOR
 Skoland, Lake Møsvatn. Twenty-two forty-five, 19 November 1942.
-The ice beneath Jens-Anton Poulsson’s boots groaned with a hollow, subterranean boom—the sound of two feet of lake water contracting under thirty degrees of frost.
+The ice beneath Jens-Anton Poulsson's boots groaned with a hollow, subterranean boom—the sound of two feet of lake water contracting under thirty degrees of frost.
 Across the flat expanse of the Skoland marshes at Lake Møsvatn, the wind had carved the hard-packed snow into razor-edged waves called skavler. Down the center of the frozen ground, running on a magnetic heading of two-eight-zero into the teeth of the wind, stood eight paraffin flare-pots set three hundred yards apart.
 Arne Kjelstrup and Claus Helberg stood five hundred yards out on the ice, unlit storm matches clutched in their thick woolen mitts, their faces wrapped in white camouflage scarves so that only their ice-crusted eyelashes showed against the dark.
 Near the marsh edge, crouched inside a knee-high snow wall built to break the gale, Knut Haugland sat hunched over the Eureka transponder. His headset was clamped over his wool balaclava. The green-painted metal casing of the unit was white with rime. Next to it sat the heavy dry-cell battery pack, wrapped in a sheepskin jacket to keep the acid from freezing into sluggish jelly.
@@ -727,7 +727,7 @@ Helberg skied back silently from the flare line, resting his chin on his ski sti
 
 HELBERG
 (muttering)
-It’s an icing trap up there. Any aircraft crossing the coast at eight thousand feet will pick up half a ton of clear ice on the wings within ten minutes. Gliders made of plywood and fabric won't survive it.
+It's an icing trap up there. Any aircraft crossing the coast at eight thousand feet will pick up half a ton of clear ice on the wings within ten minutes. Gliders made of plywood and fabric won't survive it.
 
 NARRATOR
 Kjelstrup stood at the edge of the snow wall, his arm coming up, pointing southeast toward the jagged shoulder of the Gausta peak.
@@ -741,7 +741,7 @@ At first, there was only the low hiss of drift-snow scouring the crust of the la
 
 HAUGLAND
 (breathing)
-Four Merlins. It’s a Halifax.
+Four Merlins. It's a Halifax.
 
 POULSSON
 (voice cracking against wind)
@@ -757,7 +757,7 @@ Knut! Has the Rebecca locked on?
 
 HAUGLAND
 (ragged with strain)
-I had an interrogation pulse! One sweep! But it broke—there’s no lock! The beacon isn’t replying, or their airborne set has iced up!
+I had an interrogation pulse! One sweep! But it broke—there's no lock! The beacon isn't replying, or their airborne set has iced up!
 
 NARRATOR
 The Halifax was directly above them now. The sheer acoustic weight of the four Rolls-Royce engines shook the snow off the turf trench, but the sky remained an impenetrable, churning belly of charcoal fog. The aircraft was flying blind at less than a thousand feet, trapped between the cloud tops and the unseen granite cliffs of the Vestfjord valley.
@@ -780,10 +780,10 @@ POULSSON
 Knut! Try the beacon again! Manual sweep!
 
 HAUGLAND
-Nothing. The signal is gone. They’re moving away at two hundred knots.
+Nothing. The signal is gone. They're moving away at two hundred knots.
 
 NARRATOR
-The four men stood in the snow, watching the flares spit and hiss against the falling sleet. The sound of the Halifax’s engines shrank to a faint, hollow hum, like a bee trapped under glass, and then dissolved into the scouring whistle of the wind.
+The four men stood in the snow, watching the flares spit and hiss against the falling sleet. The sound of the Halifax's engines shrank to a faint, hollow hum, like a bee trapped under glass, and then dissolved into the scouring whistle of the wind.
 The silence that reclaimed Lake Møsvatn was vast, suffocating, and absolute.
 Kjelstrup walked slowly over the ice, reaching the snow trench. He looked at Poulsson, then down at the burning paraffin pots that marked an empty runway for thirty-four men who had never arrived.
 
@@ -812,11 +812,11 @@ His hand tapped the brass key of the Type 3 Mark II wireless in rapid, metronomi
 GROUSE TO HOME STATION—NO GLIDERS SIGHTED. One AIRCRAFT HEARD OVERHEAD 2250 HOURS FLYING BLIND. FLARES DISPLAYED. BEACON ACTIVE. AIRCRAFT TURNED SOUTHWEST. ADVISE STATUS IMMEDIATELY.
 Poulsson stood by the single tiny window, scraping rime from the lower pane with the blade of his jackknife. Arne Kjelstrup was on his knees near the turf hearth, blowing life into a handful of dried mountain birch twigs to boil a pot of meltwater. Claus Helberg was stripping and oiling his Krag-Jørgensen rifle, the clean smell of mineral oil cutting through the damp stench of wet wool and sweat.
 Outside, the crunch of ski skins on hard crust broke the wind's hum.
-Kjelstrup froze, his hand dropping to the Colt .45 sitting on a ration crate. Helberg’s rifle bolt snapped shut with a sharp clack.
+Kjelstrup froze, his hand dropping to the Colt .45 sitting on a ration crate. Helberg's rifle bolt snapped shut with a sharp clack.
 A low voice called from the doorway.
 
 SKINNARLAND
-Poulsson. Open up. It’s Einar.
+Poulsson. Open up. It's Einar.
 
 NARRATOR
 Poulsson threw the heavy oak crossbar. The rough door swung inward against a swirl of spindrift, and Einar Skinnarland slipped through, coated from shoulder to boot in white rime. He carried a heavy canvas rucksack and leaned against the timber frame, his breath tearing in ragged, shallow gasps.
@@ -853,7 +853,7 @@ The gliders, Einar. Did they make it down?
 
 SKINNARLAND
 (gaze hollow)
-They’re down. Both of them. And one of the bombers.
+They're down. Both of them. And one of the bombers.
 
 NARRATOR
 The only sound in the room was the spit of the damp birch twigs catching fire under the kettle.
@@ -862,7 +862,7 @@ POULSSON
 Where?
 
 SKINNARLAND
-Nowhere near the plateau. A hundred and fifty kilometers southwest. In the coastal mountains of Rogaland. They ran into solid cloud and heavy icing as soon as they hit the Norwegian coast. The tow planes were flying on blind instruments. The first Halifax—Campbell’s aircraft—slammed head-on into the side of Hæstad Mountain, near Helleland. The whole mountain caught fire. All six RAF crew members died in the impact. The tow rope snapped, and its Horsa glider went down five miles away, smashing into the scree near Fylgesdalen by the Lysefjord.
+Nowhere near the plateau. A hundred and fifty kilometers southwest. In the coastal mountains of Rogaland. They ran into solid cloud and heavy icing as soon as they hit the Norwegian coast. The tow planes were flying on blind instruments. The first Halifax—Campbell's aircraft—slammed head-on into the side of Hæstad Mountain, near Helleland. The whole mountain caught fire. All six RAF crew members died in the impact. The tow rope snapped, and its Horsa glider went down five miles away, smashing into the scree near Fylgesdalen by the Lysefjord.
 
 HELBERG
 (dead level)
@@ -888,7 +888,7 @@ POULSSON
 Then we can move. Claus, you know the southwest valleys. If we take light packs and ski south along the ridge, can we link up with them? Can we get them onto the plateau?
 
 NARRATOR
-Skinnarland reached out and caught Poulsson’s sleeve.
+Skinnarland reached out and caught Poulsson's sleeve.
 
 SKINNARLAND
 (voice cracking)
@@ -939,7 +939,7 @@ The sound was sharp, metallic, and relentless—the rapid staccato of incoming M
 Haugland lunged for the bench, slamming the headset against his ears, grabbing an indelible pencil and a pad of gridded cipher paper.
 
 HAUGLAND
-It’s London. Priority red. Home Station is replying.
+It's London. Priority red. Home Station is replying.
 
 NARRATOR
 Poulsson, Kjelstrup, Helberg, and Skinnarland crowded around the small table, watching the lead bite into the paper. Nobody spoke. Nobody moved. The only sound was the clicking of the headphones and the distant scream of the wind sweeping across the barren tundra of Lake Sandvatn.
@@ -983,7 +983,7 @@ And the maps. The Germans have the aerial photographs, Jens. They know the objec
 
 SKINNARLAND
 (dry breath)
-The garrison at Vemork has already doubled. A hundred SS troops arrived from Oslo yesterday morning by special train. They’ve laid barbed wire three coils deep along the railway line. The suspension bridge has two Maxim gun emplacements covering the approaches. You cannot get within four hundred meters of that facility without being cut in half.
+The garrison at Vemork has already doubled. A hundred SS troops arrived from Oslo yesterday morning by special train. They've laid barbed wire three coils deep along the railway line. The suspension bridge has two Maxim gun emplacements covering the approaches. You cannot get within four hundred meters of that facility without being cut in half.
 
 NARRATOR
 Poulsson folded the cipher sheet with deliberate, meticulous care. He held the corner over the yellow flame of the hurricane lamp. The paper curled, browned, and flared into a bright orange tongue of flame, dropping black ash into the empty mess tin on the table.
@@ -1026,7 +1026,7 @@ POULSSON
 Tell Tronstad that Grouse is dead. Tell him Swallow has taken over the watch. We will hold the plateau until the new team drops.
 
 NARRATOR
-Haugland’s fingers closed over the brass knob. He did not draft a text on paper. In steady, defiant bursts of Morse code, he sent the acknowledgment into the night, the signal climbing through the blizzard toward England—
+Haugland's fingers closed over the brass knob. He did not draft a text on paper. In steady, defiant bursts of Morse code, he sent the acknowledgment into the night, the signal climbing through the blizzard toward England—
 UNDERSTOOD. SWALLOW WILL REMAIN.
 
 
@@ -1063,10 +1063,10 @@ HAUGLAND
 Don't boil it too hard. Tronstad said the heat destroys the ascorbic acid.
 
 POULSSON
-Listen to the radio operator. He’s lecturing us on nutritional chemistry.
+Listen to the radio operator. He's lecturing us on nutritional chemistry.
 
 HELBERG
-Tronstad was right. Without this muck, our teeth will start rattling loose in our gums by New Year. We haven't seen an onion, a potato, or a biscuit in three weeks. It’s either eat the stomach moss or bleed to death from scurvy.
+Tronstad was right. Without this muck, our teeth will start rattling loose in our gums by New Year. We haven't seen an onion, a potato, or a biscuit in three weeks. It's either eat the stomach moss or bleed to death from scurvy.
 
 NARRATOR
 The British ration tins had run out on the first of December. For seventeen days, their caloric intake had been reduced to a single biological equation—wild reindeer.
@@ -1075,7 +1075,7 @@ Helberg ladled the grayish-green stew into four tin cups. He handed one to Haugl
 
 HELBERG
 (gently)
-Drink it while it’s hot. Once the fat cools, it sticks to the roof of your mouth like candle wax.
+Drink it while it's hot. Once the fat cools, it sticks to the roof of your mouth like candle wax.
 
 NARRATOR
 Haugland blew on the greasy surface, closed his eyes, and swallowed a mouthful. His face contorted, his throat working hard against the gag reflex before the hot broth went down. He exhaled a long, shuddering breath.
@@ -1088,7 +1088,7 @@ NARRATOR
 Poulsson took his cup, leaned his back against the cold granite wall, and ate slowly, methodically, treating the foul-tasting mush as fuel. His uniform hung loose on his frame; he had lost twenty pounds since October. Every joint in his shoulders and knees ached from the unending cycle of hunting, chopping frozen birch, and hauling snow to melt for water.
 
 POULSSON
-London’s schedule is at nineteen hundred. How are the secondary cells, Knut?
+London's schedule is at nineteen hundred. How are the secondary cells, Knut?
 
 HAUGLAND
 Twelve volts. Barely. I took the dry batteries into the sleeping bag last night to thaw them with body heat. If I keep the transmission under ninety seconds, we can clear traffic.
@@ -1105,9 +1105,9 @@ POULSSON
 Transmit.
 
 NARRATOR
-Inside the dark tent, Haugland’s thumb moved. The rhythmic click-click-clatter of the brass key was muffled under the heavy wool.
+Inside the dark tent, Haugland's thumb moved. The rhythmic click-click-clatter of the brass key was muffled under the heavy wool.
 Ninety seconds of silence followed. The wind screamed through the gaps in the stone turf roof, whistling a lonely, discordant note through the flue.
-A minute later, the rapid, faint chatter of incoming Morse began buzzing through Haugland’s headset. The pencil scribbled blindly in the dark beneath the blanket.
+A minute later, the rapid, faint chatter of incoming Morse began buzzing through Haugland's headset. The pencil scribbled blindly in the dark beneath the blanket.
 Then the key went dead. Haugland pulled the blanket back, blinking against the paraffin light. His face was tense, but his eyes carried a spark that had been missing for weeks.
 
 HAUGLAND
@@ -1153,7 +1153,7 @@ Mock-up at Arisaig
 NARRATOR
 STS 17, Arisaig, Scottish Highlands. 6 January 1943.
 The darkness inside the stone barn was absolute. It smelled of damp Highland peat, gun oil, and the sweet, cloying reek of bitter almonds—the unmistakable scent of Nobel 808 plastic explosive.
-In the center of the earthen floor stood a full-scale timber-and-canvas mock-up of the high-concentration cellar at Vemork, constructed from Jomar Brun’s smuggled microfilms. Eighteen wooden cylinders, built to the exact diameter of the electrolysis cells, stood in two parallel rows. Between them ran wooden duckboards, mimicking the concrete drains where the spilled heavy water would flow.
+In the center of the earthen floor stood a full-scale timber-and-canvas mock-up of the high-concentration cellar at Vemork, constructed from Jomar Brun's smuggled microfilms. Eighteen wooden cylinders, built to the exact diameter of the electrolysis cells, stood in two parallel rows. Between them ran wooden duckboards, mimicking the concrete drains where the spilled heavy water would flow.
 A mechanical stopwatch clicked in the blackness.
 
 RONNEBERG
@@ -1185,7 +1185,7 @@ NARRATOR
 From the shadows behind the lantern, Sergeant Knut Haukelid stepped forward, broad-shouldered and thick-necked.
 
 HAUKELID
-The locks on the steel entrance doors are German. Brun’s notes say they keep the primary door to the basement bolted from the inside after eight in the evening. If we have to blow the outer door, the sentries on the suspension bridge will hear the charge before we even reach the cells.
+The locks on the steel entrance doors are German. Brun's notes say they keep the primary door to the basement bolted from the inside after eight in the evening. If we have to blow the outer door, the sentries on the suspension bridge will hear the charge before we even reach the cells.
 
 RONNEBERG
 We will not blow the door.
@@ -1213,7 +1213,7 @@ The turbines. Vemork has eleven Pelton turbines generating a hundred and forty t
 
 NARRATOR
 The barn door creaked open. A gust of wet Highland sleet swept across the floorboards as Captain Leif Tronstad stepped inside, accompanied by Lieutenant Colonel Wilson. Both officers shook the rain from their peaked caps and stepped into the lantern light.
-Tronstad’s eyes went immediately to the wooden cylinders. He walked between the rows, running his fingers over the dummy charges, checking the geometry of the placements.
+Tronstad's eyes went immediately to the wooden cylinders. He walked between the rows, running his fingers over the dummy charges, checking the geometry of the placements.
 
 TRONSTAD
 The casings of the Pehkranz cells are stainless steel. Three millimeters thick. A generic surface blast will dent them, but it will not guarantee a total rupture. The shaped charge must sit flush against the lowest third of the cylinder—here. If the blast does not pierce the bottom reserve, the heavy water will remain pooled in the sump. The Germans will pump it out, put it into carboys, and ship it to Berlin. Every single drop of concentrated electrolyte must drain out into these gutters and mix with the waste water.
@@ -1274,7 +1274,7 @@ RONNEBERG
 Blindfolds on. From the beginning. Infiltrate the conduit, secure the watchman, set the eighteen charges. Two minutes flat.
 
 NARRATOR
-The men pulled the black silk down over their eyes. The barn plunged into silence, broken only by the cold Highland rain drumming against the slate roof and the steady, relentless ticking of Rønneberg’s stopwatch.
+The men pulled the black silk down over their eyes. The barn plunged into silence, broken only by the cold Highland rain drumming against the slate roof and the steady, relentless ticking of Rønneberg's stopwatch.
 
 
 
@@ -1290,7 +1290,7 @@ Knut Haugland wiped a crust of frost from the glass with his knuckle. The red in
 
 HAUGLAND
 (hoarse, rattling cough)
-It’s freezing inside the casings. The lead plates will buckle. If the paste drops out of the grids, the cell shorts out, and we are deaf and dumb until spring.
+It's freezing inside the casings. The lead plates will buckle. If the paste drops out of the grids, the cell shorts out, and we are deaf and dumb until spring.
 
 NARRATOR
 The heavy six-volt car battery—smuggled up from the Møsvatn dam workshops by Torstein Skinnarland wrapped in a sacking sack—sat on a flat stone right against the embers of the hearth. Arne Kjelstrup was on his knees with the iron bellows, feeding dry mountain-willow roots to the embers to keep the air around the battery casing just above freezing.
@@ -1314,11 +1314,11 @@ Go.
 
 NARRATOR
 The two sergeants threw their weight into the cranks. The internal reduction gears began to whine, a high-pitched, metallic shriek that filled the cramped hut. Inside the heavy iron casing, the armature spun between the field coils, biting into the magnetic resistance.
-Within two minutes, the sound of their breathing filled the room—harsh, ragged gasps. The physical strain of turning a geared dynamo against a dead lead-acid load at minus twenty-five was equivalent to chopping frozen oak with a dull axe. Sweat broke out on Helberg’s forehead, freezing into beads of rime along his eyebrows.
+Within two minutes, the sound of their breathing filled the room—harsh, ragged gasps. The physical strain of turning a geared dynamo against a dead lead-acid load at minus twenty-five was equivalent to chopping frozen oak with a dull axe. Sweat broke out on Helberg's forehead, freezing into beads of rime along his eyebrows.
 
 HAUGLAND
 (eyes glued to ammeter)
-Keep the cadence. Seventy-eight RPM. You’re dropping. Two point one amps... two point four... hold it there!
+Keep the cadence. Seventy-eight RPM. You're dropping. Two point one amps... two point four... hold it there!
 
 KJELSTRUP
 (grunted through clenched teeth)
@@ -1329,7 +1329,7 @@ HAUGLAND
 Don't stop! If you drop below seventy RPM, the back-EMF from the battery trips the cut-out relay! You lose the charge!
 
 NARRATOR
-For twenty minutes, the rhythmic whir-clack-whir-clack of the dynamo went on without pause. When Kjelstrup’s grip gave out, his palms blistered and raw from the bare iron handles, Poulsson stepped in without losing a beat, grabbing the spinning grip as Kjelstrup rolled clear.
+For twenty minutes, the rhythmic whir-clack-whir-clack of the dynamo went on without pause. When Kjelstrup's grip gave out, his palms blistered and raw from the bare iron handles, Poulsson stepped in without losing a beat, grabbing the spinning grip as Kjelstrup rolled clear.
 At thirty minutes, a sharp smell of boiling acid—sulfur and ozone—drifted from the battery on the hearth.
 
 POULSSON
@@ -1408,18 +1408,18 @@ Aborted Flight
 NARRATOR
 RAF Tempsford and Skies over Southern Norway. 23–24 January 1943.
 The unheated interior of the Handley Page Halifax smelled of raw 100-octane aviation fuel, cold canvas, vomit, and the damp rubber of oxygen masks.
-For four hours, the four Rolls-Royce Merlin engines had hammered through the fuselage with a deafening, vibrating roar that rattled the commandos’ teeth in their jaws. The six men of Operation Gunnerside sat strapped to canvas bucket seats along the port side of the stripped-down bomber, swallowed by their gear.
+For four hours, the four Rolls-Royce Merlin engines had hammered through the fuselage with a deafening, vibrating roar that rattled the commandos' teeth in their jaws. The six men of Operation Gunnerside sat strapped to canvas bucket seats along the port side of the stripped-down bomber, swallowed by their gear.
 They wore white winter smocks over thick woolen battle dress, padded jump helmets, heavy ski boots, and bulky chest-pack parachutes. Between their knees rested their leg-bags, stuffed with Thompson submachine guns, Colt automatics, ammunition, and ski skins. Down the centerline of the fuselage, chained to the deck plates, lay the long metal supply containers loaded with their cross-country skis, pulks, and two hundred pounds of Nobel 808 plastic explosive.
 Joachim Rønneberg leaned his head against the cold duralumin rib of the fuselage. Frost had feathered across the rivets next to his ear. Opposite him, Knut Haukelid sat with his head down, clutching a paper sick-bag between his heavy mittens, his face gray from hours of heavy turbulence over the North Sea swell.
 The dim red night-light above the dispatch hole flickered.
-A crackle sounded in Rønneberg’s leather flying helmet. The clipped, nasal voice of the RAF flight lieutenant came through the intercom.
+A crackle sounded in Rønneberg's leather flying helmet. The clipped, nasal voice of the RAF flight lieutenant came through the intercom.
 
 PILOT
 Skipper to commando leader. We have crossed the Norwegian coast south of Egersund. Altitude nine thousand feet. Oxygen on.
 
 NARRATOR
 Rønneberg plugged his mask into the bayonet socket, inhaling the sweet, metallic stream of dry oxygen. He tapped Fredrik Kayser on the knee and signaled with two raised fingers—ten minutes.
-Kayser nodded, his eyes bright behind his goggles. He reached across to touch Birger Strømsheim’s shoulder. Strømsheim was checking the snap-shackles of the static lines, his fingers steady despite the bitter draft whistling up through the fuselage gaps.
+Kayser nodded, his eyes bright behind his goggles. He reached across to touch Birger Strømsheim's shoulder. Strømsheim was checking the snap-shackles of the static lines, his fingers steady despite the bitter draft whistling up through the fuselage gaps.
 The Halifax banked sharply. The engine note pitched up, screaming into the thin, sub-zero air as the pilot climbed to clear the coastal mountains.
 Through the tiny circular perspex window above his seat, Rønneberg looked out into the night.
 There was no moonlit expanse of snow. There were no frozen lakes reflecting the stars. There was only a solid, impenetrable floor of white wool—a continuous, churning deck of stratocumulus cloud stretching from horizon to horizon, swallowing the peaks below.
@@ -1434,16 +1434,16 @@ RONNEBERG
 Can he find a gap? What about the lead-in from Lake Møsvatn?
 
 DISPATCHER
-He’s tried three valleys! The navigator can’t get a visual fix on a single landmark! If we drop below three thousand feet to find the deck, we’ll fly straight into a granite wall!
+He's tried three valleys! The navigator can't get a visual fix on a single landmark! If we drop below three thousand feet to find the deck, we'll fly straight into a granite wall!
 
 HAUKELID
-Tell him to drop us blind! If he has the DR position for Lake Skryken, we’ll jump through the soup!
+Tell him to drop us blind! If he has the DR position for Lake Skryken, we'll jump through the soup!
 
 NARRATOR
 The dispatcher spoke into his mask, listened for twenty seconds, then looked back at Haukelid with hollow eyes.
 
 DISPATCHER
-Pilot says absolutely not. Orders from Group. After what happened to the gliders on Freshman, no blind drops in mountainous terrain. If we drop you through six thousand feet of solid cloud, you’ll scatter over thirty miles. Half of you will break your necks in the scree before your canopies even deploy.
+Pilot says absolutely not. Orders from Group. After what happened to the gliders on Freshman, no blind drops in mountainous terrain. If we drop you through six thousand feet of solid cloud, you'll scatter over thirty miles. Half of you will break your necks in the scree before your canopies even deploy.
 
 NARRATOR
 Rønneberg stared at the circular floor hatch. The red warning bulb remained stubbornly lit.
@@ -1452,14 +1452,14 @@ The aircraft banked violently once more. The engine pitch changed, settling into
 The voice of the pilot came through the intercom, tired and flat.
 
 PILOT
-Nav to crew. Setting course two-seven-zero. We’re heading home.
+Nav to crew. Setting course two-seven-zero. We're heading home.
 
 NARRATOR
 Haukelid slammed an armored fist against the metal fuselage wall. The hollow boom was swallowed instantly by the Merlins. He ripped his mask from his face and swore—a vicious, guttural stream of Norwegian that was drowned by the slipstream.
 Strømsheim slowly unhooked his static line and slumped back against the canvas seat. Kayser, Idland, and Storhaug sat motionless, their bodies rigid beneath their heavy harness webbing.
 Nobody spoke for the next four hours.
 The Halifax droned westward back across the black, empty swells of the North Sea. The bitter cold soaked through their three layers of wool, chilling their limbs to a dull, aching torpor. The realization settled over them with the weight of lead—they had failed before they had even unlatched a weapon.
-At zero-six thirty on the morning of 24 January, the Halifax’s tires shrieked against the wet concrete runway of RAF Tempsford.
+At zero-six thirty on the morning of 24 January, the Halifax's tires shrieked against the wet concrete runway of RAF Tempsford.
 The bomber taxied to a dispersed hardstanding, the engines coughing, sputtering, and cutting out one by one until only the tick of cooling metal remained.
 The ground crew swung the ventral crew door open. A rush of damp, mild Bedfordshire air—smelling of wet grass and coal soot—flooded the frozen cabin.
 Rønneberg was the first man down the metal ladder. His jump boots hit the English mud with a heavy squelch. He unbuckled his parachute harness, let it drop into the puddle at his feet, and looked up at the gray morning sky over the English countryside.
@@ -1502,7 +1502,7 @@ Kasper Idland sat on the edge of his cot, rolling one of the rubber pellets betw
 
 IDLAND
 (quiet)
-Tronstad says if you bite it, the glass vial inside shatters instantly. Fifteen seconds. That is what he told Poulsson’s boys.
+Tronstad says if you bite it, the glass vial inside shatters instantly. Fifteen seconds. That is what he told Poulsson's boys.
 
 NARRATOR
 Knut Haukelid stood by the mantle, a patch of flannel soaked in Rangoon oil running through the stripped receiver of his Thompson submachine gun. The sharp, mechanical clack-clack of the bolt was the only other sound.
@@ -1514,7 +1514,7 @@ KAYSER
 What do you suggest, Knut?
 
 HAUKELID
-I suggest you put a forty-five through the roof of your mouth. The bullet is faster than potassium cyanide. But if your hands are pinned, or if you are lying in the snow with a shattered hip and can’t clear your holster—then you bite the rubber. Hard. Down with the molars.
+I suggest you put a forty-five through the roof of your mouth. The bullet is faster than potassium cyanide. But if your hands are pinned, or if you are lying in the snow with a shattered hip and can't clear your holster—then you bite the rubber. Hard. Down with the molars.
 
 NARRATOR
 Birger Strømsheim was seated at the far end of the table, using an ordinary sewing needle and waxed surgical thread to secure his pellet into the underside of his left battle-dress lapel. He worked with the steady, measured precision of a stonemason dressing a block of granite.
@@ -1605,7 +1605,7 @@ Rønneberg looked down between the tips of his ski boots.
 Below him lay the vast, blinding sheet of Lake Skryken. Under the three-quarters moon, the wind-scoured ice gleamed like a polished steel shield, bordered by the jagged black shadows of the ridge lines. Floating beneath him were five other white canopies, and tumbling past them were the colored supply parachutes carrying their skis, pulks, and two hundred pounds of Nobel 808 explosive.
 The ground rushed up with terrifying speed.
 Rønneberg hit the lake at thirty miles an hour. His heels struck the wind-scoured ice, driving his knees into his chest. The heavy silk canopy caught the twenty-knot gale, inflating like a sail, and yanked him onto his back. He was dragged across thirty yards of bare, slick ice—spindrift blinding him, the harness digging into his shoulders—before he struck the release box on his chest with a clenched fist.
-The harness fell away. Rønneberg rolled onto his stomach, sliding to a halt against a snow drift at the lake’s edge.
+The harness fell away. Rønneberg rolled onto his stomach, sliding to a halt against a snow drift at the lake's edge.
 He spat ice from his lips and dragged himself to his knees. The Halifax was already banking hard to the west, climbing toward the North Sea, its four engines sinking to a hollow drone that vanished into the whistle of the wind.
 Silence rushed in—vast, hostile, and freezing. The temperature was minus twenty-two degrees.
 Rønneberg pulled an Acme Thunderer whistle from his smock, jammed the frozen brass between his teeth, and blew three sharp, piercing blasts.
@@ -1658,7 +1658,7 @@ For the next ninety minutes, working in the teeth of a rapidly deteriorating gal
 The physical labor was savage. Moving across bare ice in heavy jump boots without crampons, they fought wind gusts that repeatedly blew them off their feet. They found the first long metal container wedged into an ice crevice—inside were their Splitkein cross-country skis, hickory poles, and three collapsed canvas pulks.
 They hauled the canisters across the slick ice using tow ropes looped around their waists.
 By the time they located the final container—the heavily padded canister containing eighteen shaped charges of Nobel 808, detonating cord, and thirty-round magazines for their Thompsons—the moon had vanished. The wind had risen to a sustained fifty miles per hour, driving needle-sharp ice particles that stripped the skin from their cheeks and reduced visibility to five paces.
-Haukelid grabbed Rønneberg’s arm.
+Haukelid grabbed Rønneberg's arm.
 
 HAUKELID
 (screaming over storm)
@@ -1666,7 +1666,7 @@ We can't stay on the open lake! A man will freeze solid out here in an hour!
 
 RONNEBERG
 (yelling back)
-Helberg marked a fisherman’s hut. Three hundred yards north of the outlet stream. A turf shack called Jansbu! Form up on the tow ropes! Single file! Hans, keep a hand on Kasper’s belt! Do not lose contact!
+Helberg marked a fisherman's hut. Three hundred yards north of the outlet stream. A turf shack called Jansbu! Form up on the tow ropes! Single file! Hans, keep a hand on Kasper's belt! Do not lose contact!
 
 NARRATOR
 Lashing the heavy metal supply canisters to the three pulks, the six men threw their shoulders into the chest harnesses. They leaned forward at forty-five-degree angles, dragging two hundred kilograms of military equipment off the lake and up the snow-covered moraine into the howling darkness.
@@ -1698,10 +1698,10 @@ On the rough floorboards in the center of the hut, the stub of a tallow candle w
 Strømsheim swung his legs out of the upper berth, chest meeting a strange, hollow resistance.
 
 STROEMSHEIM
-The snow has sealed the turf. There’s no draft. The air is going.
+The snow has sealed the turf. There's no draft. The air is going.
 
 NARRATOR
-It was the third day of the storm. Outside, five feet of wind-packed drift had buried the small wooden herdsman’s shack to its sod roof, turning it into a lightless tomb. The roaring of the fifty-knot Arctic gale, which on the first morning had sounded like the engines of a battleship, was now completely muffled—reduced to a dull, rhythmic vibration that pulsed through the frozen timbers.
+It was the third day of the storm. Outside, five feet of wind-packed drift had buried the small wooden herdsman's shack to its sod roof, turning it into a lightless tomb. The roaring of the fifty-knot Arctic gale, which on the first morning had sounded like the engines of a battleship, was now completely muffled—reduced to a dull, rhythmic vibration that pulsed through the frozen timbers.
 Strømsheim picked up an ash ski pole. He unscrewed the leather basket from the tip, stood on the wooden bench, and drove the steel point directly into the clogged flue of the sheet-iron stove.
 He pushed upward through three feet of dense, hard-packed snow. The pole met heavy resistance, tore through a crust of ice, and suddenly punched into open air.
 With a sharp hiss, a vacuum collapsed. A column of razor-cold, needle-sharp fresh air—smelling of pure frost and ozone—plummeted down the shaft into the stagnant room.
@@ -1724,7 +1724,7 @@ RONNEBERG
 In a sixty-mile-an-hour whiteout, Knut? Over unknown moraines? With Kasper's ankle?
 
 NARRATOR
-In the bottom bunk opposite Rønneberg, Kasper Idland was sitting with his left boot off. His ankle was swollen to twice its normal thickness, bruised an ugly plum-purple where the ligaments had torn during the hard landing on the lake ice. Storhaug was wrapping it with tight, overlapping turns of heavy elastic crepe bandage, pulling the webbing taut until Idland’s jaw muscles bunched with pain.
+In the bottom bunk opposite Rønneberg, Kasper Idland was sitting with his left boot off. His ankle was swollen to twice its normal thickness, bruised an ugly plum-purple where the ligaments had torn during the hard landing on the lake ice. Storhaug was wrapping it with tight, overlapping turns of heavy elastic crepe bandage, pulling the webbing taut until Idland's jaw muscles bunched with pain.
 
 IDLAND
 (grunted through clenched teeth)
@@ -1805,14 +1805,14 @@ Is that Svensbu?
 
 RONNEBERG
 (quietly)
-Matches Helberg’s sketch. Look at the roof. The snow has melted along the eaves. Someone is inside.
+Matches Helberg's sketch. Look at the roof. The snow has melted along the eaves. Someone is inside.
 
 HAUKELID
 (squinting against glare)
 The tracks around the door are old. Two days at least. Wind has scoured them flat. If the Gestapo had taken the place, there would be telephone wire run to the road or snowshoe ruts from a patrol.
 
 RONNEBERG
-We don't gamble. Haukelid, take Storhaug and loop around the south side of the bluff. Cut off the back door. Kayser and Strømsheim, cover the front from seventy yards behind the boulders. If Germans come out, shoot to kill. If it’s Swallow, hold fire until we identify.
+We don't gamble. Haukelid, take Storhaug and loop around the south side of the bluff. Cut off the back door. Kayser and Strømsheim, cover the front from seventy yards behind the boulders. If Germans come out, shoot to kill. If it's Swallow, hold fire until we identify.
 
 NARRATOR
 Rønneberg kicked his bindings forward, descending the slope in a wide, sweeping telemark turn. He carried his ski sticks in his left hand; his right hand rested inside the breast of his white smock, fingers wrapped around the checkered grip of his Colt .45.
@@ -1831,7 +1831,7 @@ RONNEBERG
 Are you Jens-Anton Poulsson?
 
 NARRATOR
-The bearded man’s shoulders dropped half an inch. The tension went out of his frame, replaced by a fatigue so deep it seemed to hollow his knees.
+The bearded man's shoulders dropped half an inch. The tension went out of his frame, replaced by a fatigue so deep it seemed to hollow his knees.
 
 POULSSON
 (whispering, leaning on frame)
@@ -1853,8 +1853,8 @@ We feel like corpses. You have food?
 
 NARRATOR
 Rønneberg didn't answer with words. He unbuckled his Bergen pack, dropped it onto the rough table, and tore open the canvas flaps.
-From the pack he pulled four tins of British corned beef, two packages of Navy Cut tobacco, three tins of condensed milk, a bag of white cube sugar, and six slabs of dark Cadbury’s chocolate. From the pulks outside, Strømsheim brought in an unopened container of tea leaves and two loaves of vacuum-sealed white bread.
-Helberg’s hand reached out, touching the paper wrapper of a chocolate bar as if it were spun gold.
+From the pack he pulled four tins of British corned beef, two packages of Navy Cut tobacco, three tins of condensed milk, a bag of white cube sugar, and six slabs of dark Cadbury's chocolate. From the pulks outside, Strømsheim brought in an unopened container of tea leaves and two loaves of vacuum-sealed white bread.
+Helberg's hand reached out, touching the paper wrapper of a chocolate bar as if it were spun gold.
 
 KJELSTRUP
 (murmuring, voice shaking)
@@ -1911,7 +1911,7 @@ The Bridge is Out
 
 NARRATOR
 Sandvatn Hut, Hardangervidda. 24–26 February 1943.
-The yellow light of the hurricane lamp reflected off the greaseproof map case. Jens-Anton Poulsson’s calloused index finger dragged across the ink lines representing the Vestfjord valley, stopping at the narrowest constriction of the Måna gorge.
+The yellow light of the hurricane lamp reflected off the greaseproof map case. Jens-Anton Poulsson's calloused index finger dragged across the ink lines representing the Vestfjord valley, stopping at the narrowest constriction of the Måna gorge.
 
 POULSSON
 (flat and steady)
@@ -1927,7 +1927,7 @@ KAYSER
 And if we rush the bridge with silenced Stens?
 
 POULSSON
-You won't get twenty paces. The approach is flanked by two sixty-foot cliffs. It’s an acoustic sounding board. The moment a boot strikes those wooden planks, the vibration carries into the guardhouse. If the sentry hits the siren button, the floodlights illuminate the bridge like a stage. You will be caught in a crossfire between the machine-gun post and the barracks before you can draw a bead.
+You won't get twenty paces. The approach is flanked by two sixty-foot cliffs. It's an acoustic sounding board. The moment a boot strikes those wooden planks, the vibration carries into the guardhouse. If the sentry hits the siren button, the floodlights illuminate the bridge like a stage. You will be caught in a crossfire between the machine-gun post and the barracks before you can draw a bead.
 
 RONNEBERG
 What about the pipeline? Dropping down the penstocks from the reservoir above?
@@ -1939,7 +1939,7 @@ Mined. Einar checked with the Hydro maintenance crews. Three days after the glid
 NARRATOR
 The ten men sat in silence. The fire in the hearth snapped, a dry knot of birch splitting with a sharp crack that sounded like a pistol shot in the cramped room.
 Every conventional military avenue had been examined and closed. The British Chiefs of Staff had envisioned thirty-four Royal Engineers storming the suspension bridge in a coup de main. But thirty-four men would have been slaughtered on the planks.
-Rønneberg’s finger left the bridge. It moved south, following the tight, overlapping contour lines that dropped precipitously from the mountain road straight into the bottom of the gorge, and then climbed the vertical cliff on the northern side.
+Rønneberg's finger left the bridge. It moved south, following the tight, overlapping contour lines that dropped precipitously from the mountain road straight into the bottom of the gorge, and then climbed the vertical cliff on the northern side.
 
 RONNEBERG
 What is the gradient here?
@@ -2014,7 +2014,7 @@ HAUKELID
 What is the date?
 
 NARRATOR
-Rønneberg looked toward the small frosted window. Outside, the moon was rising over the eastern peaks—clear, cold, and luminous. The weather forecast from Haugland’s latest intercept was stable—clear skies, freezing temperatures, and dropping winds.
+Rønneberg looked toward the small frosted window. Outside, the moon was rising over the eastern peaks—clear, cold, and luminous. The weather forecast from Haugland's latest intercept was stable—clear skies, freezing temperatures, and dropping winds.
 
 RONNEBERG
 Tomorrow night. Saturday, the twenty-seventh of February. We ski to the advance cabin at Fjøsbudalen at dusk. When the clock strikes midnight, we drop into the ravine.
@@ -2039,7 +2039,7 @@ Blades are true. It will go through a German padlock like butter.
 
 NARRATOR
 Beside him, Birger Strømsheim and Kasper Idland packed the demolition charges into two canvas haversacks. Eighteen shaped charges of Nobel 808, each encased in yellow oilcloth, each pre-fitted with a brass detonator tube. Strømsheim coiled forty feet of red instantaneous cordtex between the packs, wrapping the explosive cord in greasy butcher's paper to protect it from moisture.
-Joachim Rønneberg stood by the cabin’s single oil lamp, checking the chamber of his Colt .45 automatic. He slapped the seven-round magazine into the butt, racked the slide to chamber a round, and thumbed the safety catch down.
+Joachim Rønneberg stood by the cabin's single oil lamp, checking the chamber of his Colt .45 automatic. He slapped the seven-round magazine into the butt, racked the slide to chamber a round, and thumbed the safety catch down.
 
 RONNEBERG
 (quiet)
@@ -2091,7 +2091,7 @@ RONNEBERG
 Synchronize watches.
 
 NARRATOR
-The nine men checked their wrist dials against Rønneberg’s sweep hand.
+The nine men checked their wrist dials against Rønneberg's sweep hand.
 
 RONNEBERG
 Nineteen forty-five. We have four miles of skiing through the birch woods to reach the road above the gorge. We leave our skis in the timber at the highway level. At midnight, we drop down the cliff.
@@ -2148,7 +2148,7 @@ NARRATOR
 Idland, leaning his back against a granite boulder, tested his weight on his wrapped left foot. The pain pulled his lips tight against his teeth, but he gave a single, curt nod.
 
 IDLAND
-It’s strapped solid, Joachim. I'm going down.
+It's strapped solid, Joachim. I'm going down.
 
 RONNEBERG
 Forward.
@@ -2160,11 +2160,11 @@ Behind him came Poulsson, Helberg, Kjelstrup, and Storhaug.
 The descent was an unglamorous, agonizing battle of friction. The temperature in the valley was slightly warmer than on the high plateau—around minus ten—which made the snow wet, heavy, and slick. Beneath the three-foot snow layer lay a treacherous matrix of loose shale, wet moss, and black sheets of verglas coating the granite slabs.
 Every step was a calculated risk. A man would plant his heel, feel the crust hold for half a second, and then plunge downward as the rock beneath sheared away. They slid on their buttocks, braked with the thick ash hafts of their fighting knives, and swung from stunted tree trunk to stunted tree trunk.
 The weight of their combat kit was brutal. With forty pounds of weapons, drum magazines, and steel cutters strapped to their backs, their center of gravity was constantly thrown forward toward the abyss.
-Halfway down the southern wall, Kjelstrup’s foot struck a hidden sheet of smooth rock.
+Halfway down the southern wall, Kjelstrup's foot struck a hidden sheet of smooth rock.
 His boots flew out from beneath him. He shot down the slope, sliding twenty yards through the brush, shale clattering wildly in his wake.
-Helberg, twenty feet lower, dropped flat across a narrow rock ledge, thrusting his right leg out into the darkness. Kjelstrup slammed into Helberg’s body with a dull, wet thud, his descent violently checked just above a thirty-foot sheer drop.
+Helberg, twenty feet lower, dropped flat across a narrow rock ledge, thrusting his right leg out into the darkness. Kjelstrup slammed into Helberg's body with a dull, wet thud, his descent violently checked just above a thirty-foot sheer drop.
 The two men lay tangled in the snow for ten seconds, their chests heaving, their ears straining against the night.
-Far above them, the gorge remained black and silent. The continuous, thunderous roar of the power station’s water pipes and the rushing torrent below swallowed the noise of the sliding shale entirely.
+Far above them, the gorge remained black and silent. The continuous, thunderous roar of the power station's water pipes and the rushing torrent below swallowed the noise of the sliding shale entirely.
 
 HELBERG
 (breathing in ear)
@@ -2176,7 +2176,7 @@ Bolt-cutters jammed into my ribs. Nothing shattered. Move on.
 
 NARRATOR
 Twenty yards behind, Rønneberg, Kayser, Strømsheim, and Idland came down through the birch clefts, moving like four white spiders across the face of the slope. Idland held the canvas pack containing the secondary shaped charges tight against his ribs with one arm, his teeth clenched against the pain in his ankle, using his free hand to lower himself from ledge to ledge.
-At twenty-three twenty-five, Haukelid’s boots hit flat ground.
+At twenty-three twenty-five, Haukelid's boots hit flat ground.
 He stumbled out of the brush and stood on a shelf of water-scoured gravel and boulders at the bottom of the gorge.
 The air was dense with cold spray. Ten yards ahead, the Måna River surged through a black, broken channel of granite and ice. Across the chasm, towering above them like the ramparts of a medieval fortress, rose the sheer, five-hundred-foot northern cliff. Perched atop that rock wall, its illuminated concrete windows gleaming through the winter mist, stood the seven-story mass of the Vemork plant.
 One by one, the commandos reached the gravel bed, sliding out of the southern timber. They sank onto the boulders, their white smocks plastered with wet snow, their wool mittens soaked, their breath coming in ragged white clouds.
@@ -2220,7 +2220,7 @@ From the riverbed, the cliff looked like the hull of a colossal ironclad ship, r
 Rønneberg tilted his head back. High above, dwarfed by the immense black shoulder of the mountain, the lighted windows of the Vemork plant cast a faint, greenish glow onto the upper ledges.
 
 HELBERG
-The chimney. A water gully. It’s filled with scrub and loose shale, but the rock has stepped ledges. It leads directly up to the railway terrace.
+The chimney. A water gully. It's filled with scrub and loose shale, but the rock has stepped ledges. It leads directly up to the railway terrace.
 
 RONNEBERG
 (quiet)
@@ -2241,11 +2241,11 @@ Rønneberg swung himself onto the first rock shelf.
 The climb was a continuous, brutal act of will. In the sub-zero air, the wet soles of their British jump boots found treacherous purchase on the smooth, water-worn granite. They climbed with their fingers hooked into frozen moss, jamming their rubber boot-toes into narrow cracks, hauling their dead-weight kit upward foot by foot.
 The acoustic cover was absolute.
 Directly above them, the massive steel penstocks—six pipes, each over five feet in diameter—plunged sixteen hundred feet down the mountain into the turbine hall. Hundreds of thousands of gallons of water per second were roaring through the steel tubes at catastrophic pressure. The bedrock beneath their fingernails vibrated with a continuous, seismic shudder. The sound was a physical wall—a deafening, hollow thunder that drowned every scraped boot, every broken branch, and every gasping breath.
-Twenty feet above the river, Kasper Idland’s injured ankle gave way.
+Twenty feet above the river, Kasper Idland's injured ankle gave way.
 His left boot slipped from a frozen lichen ledge. He fell toward the void, his fingers tearing through dead brush, his teeth sinking into his lip to strangle a scream.
-Hans Storhaug, climbing two feet below him, lunged upward with his right arm. Storhaug’s massive fist clamped onto the webbing of Idland’s harness, arresting the fall with a violent, jarring jerk that wrenched Storhaug’s shoulder into the rock.
+Hans Storhaug, climbing two feet below him, lunged upward with his right arm. Storhaug's massive fist clamped onto the webbing of Idland's harness, arresting the fall with a violent, jarring jerk that wrenched Storhaug's shoulder into the rock.
 For five seconds, the two men hung suspended over the black canyon.
-Storhaug’s face was pressed against the wet granite, his teeth bared in an animal snarl of exertion. Slowly, inch by inch, he hauled Idland’s dead weight upward until Idland’s right knee found a shelf of shale.
+Storhaug's face was pressed against the wet granite, his teeth bared in an animal snarl of exertion. Slowly, inch by inch, he hauled Idland's dead weight upward until Idland's right knee found a shelf of shale.
 
 STORHAUG
 (hissing through teeth)
@@ -2274,7 +2274,7 @@ NARRATOR
 Kjelstrup lifted the heavy steel jaws into the moonlight.
 
 KJELSTRUP
-Let’s cut the gate.
+Let's cut the gate.
 
 
 
@@ -2287,9 +2287,9 @@ NARRATOR
 Vemork Perimeter, Industrial Railway Spur. Zero-zero thirty-five, 28 February 1943.
 The railway tracks curved through a deep cutting blasted into the granite. Here, out of the wind, the silence between the rhythmic pulses of the turbine house was suffocating.
 Joachim Rønneberg crept along the wooden railway ties, his body low, his white camouflage smock stark against the dark ballast stone.
-Twenty yards ahead, blocking the railway cutting from cliff wall to cliff wall, stood a ten-foot chain-link security fence topped with three strands of outward-canted barbed wire. Across the double iron gates in the center hung a heavy, galvanized logging chain, secured with an iron padlock the size of a man’s fist.
+Twenty yards ahead, blocking the railway cutting from cliff wall to cliff wall, stood a ten-foot chain-link security fence topped with three strands of outward-canted barbed wire. Across the double iron gates in the center hung a heavy, galvanized logging chain, secured with an iron padlock the size of a man's fist.
 Rønneberg raised a fist and sank onto one knee.
-Behind him, Arne Kjelstrup dropped into the snow, the long handles of the thirty-inch bolt-cutters held flat against his thighs. Knut Haukelid crawled up on Rønneberg’s left, the muzzle of his Thompson pointed through the dark toward the open factory yards beyond the wire.
+Behind him, Arne Kjelstrup dropped into the snow, the long handles of the thirty-inch bolt-cutters held flat against his thighs. Knut Haukelid crawled up on Rønneberg's left, the muzzle of his Thompson pointed through the dark toward the open factory yards beyond the wire.
 Through the diamond mesh of the gate, the industrial complex spread out across the terraced rock shelf.
 Two hundred yards to the north, perched over the sheer abyss of the gorge, stood the illuminated bulk of the power station. Directly behind it, rising seven sheer stories of ferro-concrete, stood the Vassstoffabrikken. Between the railway gate and the factory stretched an open yard of crushed shale and snow, crisscrossed by high-voltage conduits and transformer banks. Farther west, near the foot of the suspension bridge, the lighted windows of the German guardhouse glowed yellow through the trees.
 There was no sound of footsteps. No searchlight beam swept the cutting.
@@ -2301,11 +2301,11 @@ Kjelstrup threw the entire weight of his upper body forward.
 The tempered steel jaws bit into the iron link. For a second, the metal resisted, groaning under the mechanical leverage. Then, with a sharp, dry snap—like the crack of an axe on dry pine—the link sheared through.
 Kjelstrup caught the loose ends of the chain with his woolen mittens before the iron could clatter against the gate framing.
 The nine commandos froze.
-For thirty agonizing seconds, nobody drew a breath. Kjelstrup knelt motionless at the gate, holding the severed chain in his hands. Haukelid’s finger tightened on the trigger of his submachine gun, his eyes raking the lighted windows of the German guardhouse two hundred yards to the west.
+For thirty agonizing seconds, nobody drew a breath. Kjelstrup knelt motionless at the gate, holding the severed chain in his hands. Haukelid's finger tightened on the trigger of his submachine gun, his eyes raking the lighted windows of the German guardhouse two hundred yards to the west.
 Nothing moved.
 The colossal, rhythmic roar of the penstocks plunging down from the plateau above and the hum of the transformer coils swallowed the sound of the sheared link completely.
 Kjelstrup gently swung the right gate inward on its greased hinges. A gap three feet wide opened in the wire.
-Rønneberg tapped Haukelid on the shoulder, leaning so close his lips touched the wool of Haukelid’s balaclava.
+Rønneberg tapped Haukelid on the shoulder, leaning so close his lips touched the wool of Haukelid's balaclava.
 
 RONNEBERG
 (whispering)
@@ -2315,7 +2315,7 @@ NARRATOR
 Haukelid nodded once, turning to the Covering Party—Poulsson, Kjelstrup, Helberg, and Storhaug.
 Without a word, the five men slipped through the opening and fanned out into the factory yard like shadows.
 Poulsson and Kjelstrup sprinted silently in their rubber-soled boots along the retaining wall toward the railway siding, slipping behind a stack of industrial timber that directly overlooked the German barracks. Helberg and Storhaug slid into the deep shadow of the transformer blast walls, their Stens leveled at the approach road that led to the suspension bridge.
-Haukelid took up his position in the center of the railway bed, thirty yards inside the gate, dropping behind a metal junction box. He had clear lines of sight to the factory door, the guardhouse road, and the barracks. If a German sentry walked into the yard, Haukelid’s Thompson was positioned to sweep the ground before the alarm could be sounded.
+Haukelid took up his position in the center of the railway bed, thirty yards inside the gate, dropping behind a metal junction box. He had clear lines of sight to the factory door, the guardhouse road, and the barracks. If a German sentry walked into the yard, Haukelid's Thompson was positioned to sweep the ground before the alarm could be sounded.
 Rønneberg turned to the Demolition Party.
 
 RONNEBERG
@@ -2334,7 +2334,7 @@ KAYSER
 Locked solid. Every service entrance is barred.
 
 NARRATOR
-Rønneberg’s mind raced through the microfilms Jomar Brun had smuggled to London—the blueprints, the basement cross-section, Floor zero, the cable conduit.
+Rønneberg's mind raced through the microfilms Jomar Brun had smuggled to London—the blueprints, the basement cross-section, Floor zero, the cable conduit.
 Rønneberg turned to the southwest corner of the building, where the bedrock met the concrete foundations. Halfway up the retaining wall, nestled behind a cluster of high-voltage insulator coils, a circular opening showed dark against the pale gray cement—scarcely eight inches in diameter, carrying a thick bundle of lead-sheathed cables and water pipes into the bedrock cellar.
 
 RONNEBERG
@@ -2373,21 +2373,21 @@ NARRATOR
 High-Concentration Plant, Vassstoffabrikken Basement. Zero-zero forty-five, 28 February 1943.
 The concrete conduit was eight inches of raw, jagged aggregate.
 Joachim Rønneberg pulled himself through the pipe on his elbows, dragging his chest across high-voltage cables and iron conduits. The rough stone tore at the shoulders of his battle dress. Behind him, pushing his haversack ahead with his boots, crawled Fredrik Kayser, his breath rasping in the suffocating darkness of the wall.
-Rønneberg’s fingers found empty air.
+Rønneberg's fingers found empty air.
 He emerged through the interior wall two feet above the floor, dropped onto the concrete deck, and rolled into a crouch, his Colt .45 drawn. Kayser tumbled out behind him, his boots hitting the floor with a soft rubber squeak.
 The room was vast, brightly lit by electric bulbs, and astonishingly warm.
 The air was heavy with the smell of warm machine oil, ozone, and steam. Standing in the center of the hall, gleaming in the electric glare, were two parallel rows of cylindrical stainless-steel tanks—the eighteen Pehkranz electrolysis cells. Heavy copper busbars hummed with direct current; glass sight-tubes showed the colorless, precious fluid pulsing through the manifolds.
 At a wooden desk twenty paces away, his back to the conduit, sat a solitary man in blue overalls.
 Kristian Johansen, the civilian Norwegian night watchman, had a technical logbook open before him, his pencil resting on a column of temperature readings.
 Kayser moved across the concrete with terrifying, silent speed.
-Before the watchman could turn his head, Kayser was standing over the desk, the blackened muzzle of his Colt .45 pressed firmly against the center of Johansen’s forehead.
+Before the watchman could turn his head, Kayser was standing over the desk, the blackened muzzle of his Colt .45 pressed firmly against the center of Johansen's forehead.
 
 KAYSER
 (whispering, flat dialect-free Norwegian)
 Quiet. Not a sound. We are British soldiers. No harm will come to you.
 
 NARRATOR
-Johansen’s eyes bugged wide. The pencil dropped from his fingers, rolling off the blotting paper onto the floor. His hands went up, trembling violently, his knuckles white against his blue denim trousers. He stared at Kayser’s white-hooded head, then down at the British army insignia visible through the open collar of Kayser’s smock.
+Johansen's eyes bugged wide. The pencil dropped from his fingers, rolling off the blotting paper onto the floor. His hands went up, trembling violently, his knuckles white against his blue denim trousers. He stared at Kayser's white-hooded head, then down at the British army insignia visible through the open collar of Kayser's smock.
 
 JOHANSEN
 (stammering, voice thin with terror)
@@ -2409,7 +2409,7 @@ RONNEBERG
 Step inside. Close the door behind you. Gently.
 
 NARRATOR
-The stoker obeyed with the jerky, wooden motions of a man in a dream. He closed the latch with agonizing slowness, his eyes darting between Rønneberg’s weapon and Johansen sitting petrified at the desk.
+The stoker obeyed with the jerky, wooden motions of a man in a dream. He closed the latch with agonizing slowness, his eyes darting between Rønneberg's weapon and Johansen sitting petrified at the desk.
 
 RONNEBERG
 Stand beside the watchman. Do not move a muscle and you will go home to your family.
@@ -2432,7 +2432,7 @@ NARRATOR
 Rønneberg holstered his pistol.
 In the middle of the most critical commando raid of the war, surrounded by high-voltage busbars and two hundred pounds of plastic explosive, the twenty-three-year-old lieutenant stopped.
 He leaned over the desk, pushing aside the logbook and a stack of inspection cards. Beneath an empty coffee cup lay a black vulcanite spectacle case.
-Rønneberg picked it up, opened the hinge, and confirmed the wire-rimmed lenses were intact. He snapped the case shut and placed it directly into Johansen’s open hand.
+Rønneberg picked it up, opened the hinge, and confirmed the wire-rimmed lenses were intact. He snapped the case shut and placed it directly into Johansen's open hand.
 
 RONNEBERG
 (quietly)
@@ -2483,7 +2483,7 @@ Two Minutes of Fuse
 
 NARRATOR
 High-Concentration Plant, Vassstoffabrikken Basement. Zero-one zero-eight, 28 February 1943.
-The black, tarred coil of Bickford safety fuse felt stiff and greasy in Joachim Rønneberg’s bare hands.
+The black, tarred coil of Bickford safety fuse felt stiff and greasy in Joachim Rønneberg's bare hands.
 In London, the SOE ordnance instructors at STS 17 had provided fuses cut precisely to ten feet. At thirty seconds per foot, a ten-foot line burned for five minutes; two coils linked together gave ten full minutes. Ten minutes was calculated to allow the demolition party to crawl out through the conduit, slip through the railway gate, cross the factory terrace, and reach the floor of the gorge before the shockwave ruptured the foundation.
 Rønneberg knelt on the concrete deck beside the terminal block. He pulled his Swedish folding knife from his pocket, opened the carbon-steel blade, and measured off two feet of black fuse against his forearm.
 He pinched the cord between his thumb and the knife edge.
@@ -2524,7 +2524,7 @@ RONNEBERG
 Fredrik. The Tommy gun.
 
 NARRATOR
-Kayser picked up the clean, oiled Thompson submachine gun stamped with the British broad arrow. He laid it flat across the center of Kristian Johansen’s desk, resting directly atop the open production log. Next to it, he placed a thirty-round stick magazine.
+Kayser picked up the clean, oiled Thompson submachine gun stamped with the British broad arrow. He laid it flat across the center of Kristian Johansen's desk, resting directly atop the open production log. Next to it, he placed a thirty-round stick magazine.
 Rønneberg stepped over to Johansen and the trembling stoker.
 
 RONNEBERG
@@ -2606,7 +2606,7 @@ Through the soles of his jump boots, he had felt the subterranean jolt—a heavy
 Then the heavy pine door of the German guardhouse, fifty yards to the west near the suspension bridge, swung open.
 A German soldier stepped out into the yard.
 He was bareheaded, wearing a gray Wehrmacht field tunic unbuttoned at the neck, trousers tucked into marching boots. In his right hand, he carried a heavy battery torch. He took three casual paces into the snow, yawned, and played the white beam of the flashlight across the open space.
-Haukelid did not blink. His finger rested on the trigger of his Thompson, the safety catch already clicked to full-automatic. Twenty yards behind him, concealed in the shadow of the railway cutting, Poulsson and Kjelstrup held their Stens leveled at the German’s torso. If the sentry took ten more paces toward the high-concentration building, Haukelid would stitch a three-round burst across his sternum.
+Haukelid did not blink. His finger rested on the trigger of his Thompson, the safety catch already clicked to full-automatic. Twenty yards behind him, concealed in the shadow of the railway cutting, Poulsson and Kjelstrup held their Stens leveled at the German's torso. If the sentry took ten more paces toward the high-concentration building, Haukelid would stitch a three-round burst across his sternum.
 The cone of yellow-white light swept across the snow, flickered over the transformer blast wall, and tilted upward.
 The sentry played the beam along the eaves of the Vassstoffabrikken roof, looking for fallen snow. The blast had produced no fireball, no smoke out of the roof vents, no shatter of outer masonry. To a man standing in the yard, drowned by the colossal drone of the turbines and the rushing torrent below, the muffled thud sounded like nothing more than an overloaded snowdrift shearing off the corrugated iron roof and falling into the gorge.
 The sentry shivered, pulled his collar against the sub-zero draft, and lowered the torch.
@@ -2637,7 +2637,7 @@ One by one, they lowered themselves over the granite bench, scrambling down the 
 They hit the river ice at zero-one forty-five.
 The slush was freezing into hard rime around their bootlaces. They crossed the ice bridge in thirty seconds, leapt the open water channel, and threw themselves at the southern wall of the ravine.
 The re-ascent of the six-hundred-foot southern slope was pure physical agony.
-Their wool uniforms, soaked during the river crossing, had frozen into stiff armor that chafed the skin raw at their groins and knees. Every breath burned their throats like inhaled glass. Strømsheim’s forearm, cut by the basement window, was bleeding through his bandage, the crimson stain freezing black against his white smock. Kasper Idland crawled on his hands and right knee, dragging his mangled left ankle behind him, his teeth clamped into his wool mitten to keep from crying out.
+Their wool uniforms, soaked during the river crossing, had frozen into stiff armor that chafed the skin raw at their groins and knees. Every breath burned their throats like inhaled glass. Strømsheim's forearm, cut by the basement window, was bleeding through his bandage, the crimson stain freezing black against his white smock. Kasper Idland crawled on his hands and right knee, dragging his mangled left ankle behind him, his teeth clamped into his wool mitten to keep from crying out.
 Storhaug and Kjelstrup flanked Idland, each hauling on his webbing harness, physically dragging him up the seventy-degree shale slope through the dwarf birch.
 At zero-two thirty-five, Rønneberg hauled himself over the snowbank on the southern verge of the Rjukan road.
 He rolled into the ditch, chest heaving, his heart hammering against his ribs.
@@ -2674,7 +2674,7 @@ The Erasing Blizzard
 NARRATOR
 The Southern Plateau, Hardangervidda. Dawn, 28 February – 1 March 1943.
 Dawn broke across the Hardangervidda not with light, but with a thickening, suffocating gray twilight.
-By zero-six hundred, the wind had veered into the north-northwest, rising to a screaming, forty-knot gale. The temperature plummeted to minus twenty degrees. Horizontal needles of dry, wind-driven ice scoured the tundra, stripping the breath from the commandos’ throats and reducing visibility to twenty feet.
+By zero-six hundred, the wind had veered into the north-northwest, rising to a screaming, forty-knot gale. The temperature plummeted to minus twenty degrees. Horizontal needles of dry, wind-driven ice scoured the tundra, stripping the breath from the commandos' throats and reducing visibility to twenty feet.
 Joachim Rønneberg stopped on the crest of a barren ridge five miles north of the Vestfjord valley. He turned his head and looked back over his shoulder.
 Fifty yards behind them, the double grooves carved by their nine pairs of Splitkein skis had already ceased to exist.
 The gale was a physical eraser. The wind caught the dry, powdery snow, lifting it in churning white waves six feet off the ground, packing the drift into every depression, every hollow, and every track. Within ten minutes of their passing, the surface of the plateau was smoothed back into hard, polished wind-crust.
@@ -2714,7 +2714,7 @@ RONNEBERG
 Send this to Tronstad—High concentration plant at Vemork completely destroyed night 27–28 February. Gunnerside and Swallow entirely intact. No casualties. Long live the King.
 
 NARRATOR
-Haugland’s fingers settled onto the brass key. The rapid, sharp clatter of Morse cut through the howl of the storm outside, sending the seven words across the North Sea to Buckinghamshire.
+Haugland's fingers settled onto the brass key. The rapid, sharp clatter of Morse cut through the howl of the storm outside, sending the seven words across the North Sea to Buckinghamshire.
 While the transmitter hummed, Rønneberg unrolled the master map of southern Norway on the plank table.
 
 RONNEBERG
@@ -2749,7 +2749,7 @@ Rønneberg nodded. He turned to the Swallow men.
 From his pack, Rønneberg pulled the remaining British supplies—five thousand kroner in Norwegian banknotes, emergency rations, spare compasses, and hundreds of rounds of .45 ACP ammunition. He divided the gear with clinical fairness.
 At fourteen hundred on the afternoon of 1 March, the five men of the Sweden party stood outside the stone hut, leaning into the teeth of the blinding blizzard.
 Their Splitkein skis were waxed with hard blue Swix for dry sub-zero powder. Their hoods were drawn tight around their goggles.
-Haukelid stepped up to Rønneberg, his broad hand gripping the young lieutenant’s shoulder.
+Haukelid stepped up to Rønneberg, his broad hand gripping the young lieutenant's shoulder.
 
 HAUKELID
 (shouting over wind)
@@ -2786,7 +2786,7 @@ HAUKELID
 What is happening in Rjukan, Einar?
 
 SKINNARLAND
-The valley is crawling with field-gray. Two thousand eight hundred troops arrived by special trains from Oslo and Kongsberg yesterday. The 214th Infantry Division, SS police battalions, Gestapo squads under Kriminalrat Fehmer. They’ve thrown a cordon around every road from Geilo to the Telemark line.
+The valley is crawling with field-gray. Two thousand eight hundred troops arrived by special trains from Oslo and Kongsberg yesterday. The 214th Infantry Division, SS police battalions, Gestapo squads under Kriminalrat Fehmer. They've thrown a cordon around every road from Geilo to the Telemark line.
 
 POULSSON
 (face tight)
@@ -2798,7 +2798,7 @@ Not a single man shot.
 
 KJELSTRUP
 (hands slumping to knees)
-No way! How did Tronstad’s gamble hold?
+No way! How did Tronstad's gamble hold?
 
 SKINNARLAND
 The Tommy gun. It worked exactly as Joachim designed it.
@@ -2814,7 +2814,7 @@ HAUKELID
 And the gun?
 
 SKINNARLAND
-Lying right on Johansen’s desk. Beside the production log. A factory-new British Thompson submachine gun stamped with the War Department broad arrow, with a full thirty-round stick magazine beside it. Johansen stuck to the story to the letter. He told Fehmer that four British commandos had entered through the conduit, held him at gunpoint, and told him in English and broken Norwegian that they were His Majesty’s forces.
+Lying right on Johansen's desk. Beside the production log. A factory-new British Thompson submachine gun stamped with the War Department broad arrow, with a full thirty-round stick magazine beside it. Johansen stuck to the story to the letter. He told Fehmer that four British commandos had entered through the conduit, held him at gunpoint, and told him in English and broken Norwegian that they were His Majesty's forces.
 
 POULSSON
 Did Fehmer believe him?
@@ -2826,7 +2826,7 @@ POULSSON
 Falkenhorst?
 
 SKINNARLAND
-Generaloberst Nikolaus von Falkenhorst himself. Flew in from Oslo by Fieseler Storch and drove straight to Vemork with his general staff. Hydro’s managing director, Bjarne Nilssen, was present during the inspection. Nilssen told my brother Torstein everything that happened.
+Generaloberst Nikolaus von Falkenhorst himself. Flew in from Oslo by Fieseler Storch and drove straight to Vemork with his general staff. Hydro's managing director, Bjarne Nilssen, was present during the inspection. Nilssen told my brother Torstein everything that happened.
 
 NARRATOR
 Skinnarland paused, looking at the four men in the dim light of the turf hut.
@@ -2846,7 +2846,7 @@ HAUKELID
 The finest coup I have seen in this war.
 
 SKINNARLAND
-Word for word. Falkenhorst was so impressed by the professional military execution that he flatly refused Terboven’s demand for civilian reprisals. He told the Reichskommissar that this was an act of war carried out by uniform-wearing Allied soldiers, not local partisans. He told Terboven that if he began hanging Hydro workers in Rjukan, the civilian labor force would strike, and every aluminum and nitrate factory in Norway would grind to a halt.
+Word for word. Falkenhorst was so impressed by the professional military execution that he flatly refused Terboven's demand for civilian reprisals. He told the Reichskommissar that this was an act of war carried out by uniform-wearing Allied soldiers, not local partisans. He told Terboven that if he began hanging Hydro workers in Rjukan, the civilian labor force would strike, and every aluminum and nitrate factory in Norway would grind to a halt.
 
 POULSSON
 So the town is safe.
@@ -2909,7 +2909,7 @@ Helberg kicked his boots into the Splitkein bindings, snapped the toe-irons shut
 He swung south into the teeth of the wind—pole, glide, kick, glide.
 For an hour, Helberg pushed across the plateau, his lungs searing in the sub-zero air. Two of the German pursuers fell back, slowed by heavy military kit and clumsy turns in the wind-scoured drifts.
 The third man did not.
-He was an expert—a Tyrolean skier who had stripped to his woolen tunic and discarded his rucksack. He skied with long, terrifyingly efficient strides, cutting through Helberg’s tracks, shaving fifty yards off the lead with every kilometer.
+He was an expert—a Tyrolean skier who had stripped to his woolen tunic and discarded his rucksack. He skied with long, terrifyingly efficient strides, cutting through Helberg's tracks, shaving fifty yards off the lead with every kilometer.
 The gap shrank from four hundred yards to two hundred, then to eighty.
 Ahead, the terrain leveled into an open, featureless expanse of frozen marsh. There was no dead ground, no boulder field, no cover. If Helberg kept skiing, the German would run him down from behind, put a bullet in his back, or take him alive.
 Helberg made his calculation.
@@ -2919,11 +2919,11 @@ Eighty yards away, the German saw him turn. The soldier kicked his skis sideways
 The two men stood alone on the vast, blinding sheet of the Hardangervidda, sliding toward each other across the crust with handguns leveled.
 The German fired first.
 Crack!
-The 9mm slug whistled past Helberg’s shoulder with a sharp hiss, throwing up a spray of ice forty paces behind him.
+The 9mm slug whistled past Helberg's shoulder with a sharp hiss, throwing up a spray of ice forty paces behind him.
 Helberg raised his right arm, bracing his wrist with his left hand, and centered the small iron sights on the center of the gray tunic. He waited until the slide was steady, controlling his breath in the biting wind.
 He squeezed the trigger twice.
 Pop-pop.
-The recoil of the .32 was light in his bare grip. The first round kicked up snow at the German’s ski tips; the second struck the soldier square in the chest.
+The recoil of the .32 was light in his bare grip. The first round kicked up snow at the German's ski tips; the second struck the soldier square in the chest.
 The German lurched sideways, his ski tips crossing in the crust. He tumbled forward into the snow, his pistol flying from his grip, dark crimson spattering the white drift as he collapsed motionless over his poles.
 Helberg did not fire another shot. He turned on his heel, drove his poles into the crust, and skied hard into the south.
 By dusk, the weather collapsed into an impenetrable, black fog.
@@ -2961,7 +2961,7 @@ Papers.
 
 NARRATOR
 With his left hand, Helberg reached into his inner pocket and produced his forged identity card—the flawless papers prepared by the SOE forgery section in London, identifying him as a local forestry surveyor exempt from military labor.
-The German officer examined the official stamps, looked at the jagged angle of Helberg’s displaced shoulder, and shook his head with disgust at another clumsy Norwegian civilian.
+The German officer examined the official stamps, looked at the jagged angle of Helberg's displaced shoulder, and shook his head with disgust at another clumsy Norwegian civilian.
 
 GERMAN SERGEANT
 (muttering)
@@ -2969,8 +2969,8 @@ Stupid peasant. Sanitäter! Kommen Sie hier!
 
 NARRATOR
 A German army medical orderly hurried into the lobby with a canvas medical bag.
-They laid Helberg on a wooden bench. The orderly cut away the sleeve of his outer smock—Helberg holding his breath, praying they would not notice the British khaki battle dress beneath—and gripped Helberg’s upper arm. The doctor ordered two soldiers to hold him, pinning Helberg's legs to the timber.
-The orderly braced his boot against Helberg’s armpit, seized the forearm, and threw his weight backward with a violent, wrenching twist.
+They laid Helberg on a wooden bench. The orderly cut away the sleeve of his outer smock—Helberg holding his breath, praying they would not notice the British khaki battle dress beneath—and gripped Helberg's upper arm. The doctor ordered two soldiers to hold him, pinning Helberg's legs to the timber.
+The orderly braced his boot against Helberg's armpit, seized the forearm, and threw his weight backward with a violent, wrenching twist.
 A sickening pop echoed through the quiet lobby as the ball of the bone snapped back into its socket.
 Helberg blacked out for three seconds, his teeth grinding so hard a molar cracked. When his vision cleared, the German was wrapping his shoulder in tight, immaculately white military gauze.
 
@@ -2996,7 +2996,7 @@ Across the White Desert
 NARRATOR
 The Mountains of Eastern Buskerud. 7 March 1943.
 The sound of the march was reduced to three notes—the dry scrape of ash skis on wind-crust, the rhythmic clack-drag of ski poles, and the harsh, whistling breath of five starving men.
-For seven days and seven nights, Joachim Rønneberg’s team had skied eastward across the spine of central Norway.
+For seven days and seven nights, Joachim Rønneberg's team had skied eastward across the spine of central Norway.
 They had crossed seventy miles of the Hardangervidda, skirted the frozen northern reaches of Lake Numedalslågen, and were now pushing across the barren, wind-blasted ridges that divided the valleys of Buskerud.
 Behind them, the German manhunt had mobilized two divisions, but the commandos had vanished into the uninhabited white desert of the high fells, where no roads ran and where no German infantry company dared venture without local guides.
 At midday, beneath a pale, watery sun that gave off no heat, Rønneberg halted on the crest of a barren ridge.
@@ -3005,7 +3005,7 @@ Every joint in his body ached with a dull, throbbing sickness. Beneath his white
 Behind him, Hans Storhaug slid to a halt. Storhaug had broken trail through deep powder for the last four hours, his massive chest heaving like a bellows, his beard encrusted with a solid bib of ice.
 Fredrik Kayser and Birger Strømsheim followed, dropping their poles and collapsing onto their knees in the snow.
 In the rear, thirty paces back, Kasper Idland dragged himself up the final rise.
-Idland’s face was the color of skimmed milk, his jaw clenched so hard his cheek muscles twitched. Every time his left ski kicked forward, a sharp, involuntary hiss of air escaped through his teeth.
+Idland's face was the color of skimmed milk, his jaw clenched so hard his cheek muscles twitched. Every time his left ski kicked forward, a sharp, involuntary hiss of air escaped through his teeth.
 Strømsheim crawled over to Idland, pulling a knife from his belt.
 
 STROEMSHEIM
@@ -3013,16 +3013,16 @@ STROEMSHEIM
 Sit, Kasper. Let me look at the laces.
 
 NARRATOR
-Idland slumped into the drift. Strømsheim used the point of the blade to chip away the solid ball of ice that had frozen over the brass eyelets of Idland’s left boot. He loosened the leather thongs.
+Idland slumped into the drift. Strømsheim used the point of the blade to chip away the solid ball of ice that had frozen over the brass eyelets of Idland's left boot. He loosened the leather thongs.
 When the boot tongue pulled back, the sight made Kayser look away.
-Idland’s ankle and calf were swollen to nearly twice their normal circumference, pressed against the stiff leather until the skin had turned a mottled, necrotic purple. Black blood had seeped from burst blisters around the heel, freezing into dark crusts against his gray army socks.
+Idland's ankle and calf were swollen to nearly twice their normal circumference, pressed against the stiff leather until the skin had turned a mottled, necrotic purple. Black blood had seeped from burst blisters around the heel, freezing into dark crusts against his gray army socks.
 
 IDLAND
 (rasping)
-The bone isn't broken. It’s just torn. Bind it tighter, Birger. If you leave slack, the ankle rolls on the crust.
+The bone isn't broken. It's just torn. Bind it tighter, Birger. If you leave slack, the ankle rolls on the crust.
 
 NARRATOR
-Strømsheim rewound the heavy elastic crepe bandage, pulling the webbing with both hands, using his teeth to hold the tension. Idland’s head fell back into the snow, his eyes squeezing shut, his fists bunching into the drift, but not a single sound passed his split lips.
+Strømsheim rewound the heavy elastic crepe bandage, pulling the webbing with both hands, using his teeth to hold the tension. Idland's head fell back into the snow, his eyes squeezing shut, his fists bunching into the drift, but not a single sound passed his split lips.
 
 STROEMSHEIM
 (muttering)
@@ -3115,7 +3115,7 @@ NARRATOR
 The five commandos dropped flat into the snowdrift on the upper verge of the highway, pulling their white camouflage hoods down to their eyebrows. Rønneberg drew his Colt .45, resting the barrel on the crest of the snowbank. Beside him, Fredrik Kayser slipped his thumb over the safety catch of his Thompson. In his left hand, tucked into his woolen glove, Birger Strømsheim felt for the rubber cyanide pill sewn into his lapel.
 Two beams of dim, blue-slit blackout light cut through the falling sleet.
 An open Wehrmacht Opel Blitz three-ton truck rolled past at twenty miles an hour.
-Sitting in the cab were two soldiers wearing steel helmets and heavy sheepskin coats. In the open flatbed behind them, six German infantrymen sat back-to-back, Mauser rifles held between their knees, their collars turned up against the damp cold. A wooden roadblock barrier—striped in red and white—lay strapped to the truck’s tailgate.
+Sitting in the cab were two soldiers wearing steel helmets and heavy sheepskin coats. In the open flatbed behind them, six German infantrymen sat back-to-back, Mauser rifles held between their knees, their collars turned up against the damp cold. A wooden roadblock barrier—striped in red and white—lay strapped to the truck's tailgate.
 The truck passed within fifteen yards of where Rønneberg lay in the snow.
 The hot, greasy stench of its synthetic diesel exhaust washed over the commandos' faces, followed by the wet crunch of tire chains grinding into crushed stone. The red taillight flickered through the birch trees, curved around the northern bluff, and was gone.
 The engine noise faded into the steady murmur of the Hallingdalselva river flowing through the bottom of the valley.
@@ -3132,7 +3132,7 @@ Rønneberg crossed first, stepping only on patches of roadside slush. Storhaug f
 They scrambled up the opposite snowbank and dropped into the deep shadow of the railway embankment.
 Here, the danger multiplied. The Bergensbanen was the strategic artery of occupied Norway; every bridge, tunnel mouth, and switch was guarded by the Bahnschutz—the German railway security police.
 Rønneberg peered over the steel rail.
-Three hundred yards to the north, the yellow light of an oil lamp burned in the window of a track-walker’s wooden hut. Outside the shack, leaning against a telegraph pole, a sentry stood smoking a cigarette, the glowing red tip pulsing in the darkness.
+Three hundred yards to the north, the yellow light of an oil lamp burned in the window of a track-walker's wooden hut. Outside the shack, leaning against a telegraph pole, a sentry stood smoking a cigarette, the glowing red tip pulsing in the darkness.
 
 RONNEBERG
 Keep low. Cross between the ties. Do not step on the iron.
@@ -3140,7 +3140,7 @@ Keep low. Cross between the ties. Do not step on the iron.
 NARRATOR
 One by one, moving in a low, crawling stalk on their hands and knees, the five commandos slipped across the railway line. Their wool battle dress scraped against the creosote-soaked pine ties; their knuckles brushed the freezing steel of the rails.
 Idland dragged his crippled left leg over the second rail, his face pale, his breath catching in his throat as the iron pinched his boot, but he did not make a sound.
-They cleared the tracks, scrambled down the eastern drainage culvert, and vanished into the dense, unmanaged spruce woods of the valley’s eastern wall.
+They cleared the tracks, scrambled down the eastern drainage culvert, and vanished into the dense, unmanaged spruce woods of the valley's eastern wall.
 They did not stop to rest.
 The eastern slope of Hallingdal rose fifteen hundred vertical feet—a steep, tangled labyrinth of deadfall, granite ledges, and deep, uncrusted powder.
 They strapped into their skis once more, herringbone-stepping up through the dark timber. Every hundred vertical feet brought them out of the mild, damp air of the valley floor back into the razor-sharp frost of the high fells.
@@ -3205,7 +3205,7 @@ I didn't ski four hundred kilometers to be carried over the line, Joachim.
 
 NARRATOR
 Idland planted his poles in the snow, kicked his left ski forward, and glided across the boundary.
-One by one, the five commandos crossed the clearing. As Rønneberg’s skis passed the stone cairn, entering the Kingdom of Sweden, the crushing, continuous weight of the past eighteen days seemed to lift from his shoulders—not with a rush of euphoria, but with a profound, hollow stillness.
+One by one, the five commandos crossed the clearing. As Rønneberg's skis passed the stone cairn, entering the Kingdom of Sweden, the crushing, continuous weight of the past eighteen days seemed to lift from his shoulders—not with a rush of euphoria, but with a profound, hollow stillness.
 A hundred yards into the Swedish woods, where a timber road ran between the pines, two men on skis stepped out from behind a woodpile.
 They wore gray Swedish army tunics, sheepskin caps with the blue-and-gold cockade of the Swedish Crown, and carried Mauser rifles slung across their backs.
 The two Swedish frontier guards stopped dead, staring in disbelief at the five skeletal figures gliding out of the forest in full British combat dress. The lead Swedish corporal reached for the sling of his rifle, his voice cracking with astonishment.
@@ -3218,7 +3218,7 @@ Rønneberg skied forward three paces, halted, and planted his poles in the snow.
 
 RONNEBERG
 (clear, formal Norwegian)
-Second Lieutenant Joachim Rønneberg, Royal Norwegian Army, attached to His Britannic Majesty’s Forces. We have crossed from occupied Norway. We request internment under international law.
+Second Lieutenant Joachim Rønneberg, Royal Norwegian Army, attached to His Britannic Majesty's Forces. We have crossed from occupied Norway. We request internment under international law.
 
 SWEDISH CORPORAL
 Where... where have you come from?
@@ -3236,7 +3236,7 @@ From Vemork.
 
 NARRATOR
 The Swedish guards stepped forward, their posture softening instantly from hostility to shock. The second guard took the bundled weapons as the Norwegians unslung them—the five Thompsons, the Colt automatics, and the fighting knives laid neatly across the snow.
-When Idland sank onto a pine log, the Swedish corporal knelt beside his left leg. The Swede pulled out a clasp knife and gently slit the frozen laces of Idland’s boot from ankle to toe.
+When Idland sank onto a pine log, the Swedish corporal knelt beside his left leg. The Swede pulled out a clasp knife and gently slit the frozen laces of Idland's boot from ankle to toe.
 When the leather peeled back, the Swedish soldier drew in a sharp breath. The flesh of the foot was swollen into a blackened, mottled mass, the toes rigid with frost.
 
 SWEDISH CORPORAL
@@ -3249,7 +3249,7 @@ We had an appointment in Sweden.
 
 NARRATOR
 Orchard Court, London. 16 March 1943.
-The telegram lay on the green blotter of Captain Leif Tronstad’s desk.
+The telegram lay on the green blotter of Captain Leif Tronstad's desk.
 The spring rain of London was drumming against the window overlooking Portman Square. Beside Tronstad stood Lieutenant Colonel J. S. Wilson, his uniform tunic unbuttoned, a smoldering cigarette held between his fingers.
 The message had been transmitted in high-grade cipher from the British Legation in Stockholm, routed through the Foreign Office, and delivered to the Norwegian Section by an SOE motorcycle courier ten minutes earlier.
 Tronstad held the slip of yellow teleprinter paper in both hands. He had read the text three times, but his eyes remained fixed on the typed letters—
@@ -3291,7 +3291,7 @@ Orchard Court, London. July 1943.
 The photograph lay on the mahogany table beneath a round brass magnifying glass.
 Captain Leif Tronstad did not touch it. He sat with his hands resting flat on the green blotting pad, staring through his thin wire-rimmed spectacles at the grainy aerial mosaic taken forty-eight hours earlier by an RAF Mosquito flying over the Vestfjord valley.
 From the roof of the seven-story Vassstoffabrikken, six thin plumes of white water vapor were rising into the summer air over Vemork.
-Across the desk, Colonel J. S. Wilson struck a match, holding the flame to the tip of his Player’s cigarette until the tobacco glowed. Next to him, Dr. Michael Perrin from Tube Alloys adjusted his tie, his face tight with controlled anxiety.
+Across the desk, Colonel J. S. Wilson struck a match, holding the flame to the tip of his Player's cigarette until the tobacco glowed. Next to him, Dr. Michael Perrin from Tube Alloys adjusted his tie, his face tight with controlled anxiety.
 
 TRONSTAD
 (clipped, dry, hollow)
@@ -3318,7 +3318,7 @@ NARRATOR
 Perrin pushed himself away from the table, his shoes clicking against the oak floorboards as he paced toward the blackout curtains.
 
 PERRIN
-We had a meeting at the Cabinet War Rooms yesterday morning. General Leslie Groves spoke directly to the Prime Minister from Washington via secure scramble. The Americans have poured hundreds of millions of dollars into the Manhattan Project. They are building industrial enrichment plants in Tennessee and plutonium piles in Washington State. Groves’ intelligence section is convinced Heisenberg’s experimental reactor in Leipzig is waiting only on this inventory.
+We had a meeting at the Cabinet War Rooms yesterday morning. General Leslie Groves spoke directly to the Prime Minister from Washington via secure scramble. The Americans have poured hundreds of millions of dollars into the Manhattan Project. They are building industrial enrichment plants in Tennessee and plutonium piles in Washington State. Groves' intelligence section is convinced Heisenberg's experimental reactor in Leipzig is waiting only on this inventory.
 
 TRONSTAD
 Heisenberg cannot run a pile without tons of heavy water. Vemork cannot produce tons before 1945.
@@ -3343,7 +3343,7 @@ It will not be precision! I have explained this to the Air Ministry three times!
 
 WILSON
 (quiet, heavy with resignation)
-The Chiefs of Staff have already approved the directive, Leif. The order came from the Prime Minister’s desk this morning. Vemork is designated Target Number One for the Eighth Air Force’s autumn offensive.
+The Chiefs of Staff have already approved the directive, Leif. The order came from the Prime Minister's desk this morning. Vemork is designated Target Number One for the Eighth Air Force's autumn offensive.
 
 NARRATOR
 Tronstad stood motionless in the London rain-light, staring down at the aerial photograph of his home valley.
@@ -3363,7 +3363,7 @@ NARRATOR
 Vemork and Rjukan, Telemark. Eleven forty-five, 16 November 1943.
 The air raid sirens in the Vestfjord valley did not wail; they screamed.
 High above the snow-dusted spruce forests, the frozen granite dome of Mount Gausta reflected a sky of hard, porcelain blue. Through that crystal air, vibrating through the bedrock long before the eye could find them, came a sound the valley had never heard—the deep, synchronized drone of more than five hundred Wright Cyclone radial engines.
-Standing on the wooden porch of his keeper’s cottage at the Møsvatn dam, Torstein Skinnarland looked east.
+Standing on the wooden porch of his keeper's cottage at the Møsvatn dam, Torstein Skinnarland looked east.
 Steaming out of the southwest at twenty-two thousand feet, stepping across the sky in tight combat boxes of eighteen, came one hundred and forty B-17 Flying Fortresses of the United States Eighth Air Force. Behind their silver wings stretched long, white vapor trails that feathered into the slipstream like colossal horse tails.
 Four miles down the gorge, the German garrison at Vemork reacted within thirty seconds.
 Along the rock terrace and on the catwalks above the penstocks, German soldiers turned the valves on eighty chemical smoke canisters. Dense, oily clouds of zinc chloride smoke hissed into the freezing air, tumbling down the vertical granite walls into the Måna ravine, creating an artificial white fog bank that swallowed the factory, the suspension bridge, and the riverbed in an impenetrable shroud.
@@ -3403,7 +3403,7 @@ The plant is finished. Hitler has ordered the immediate dismantling of the High 
 
 NARRATOR
 Five miles away, in his turf-roofed cabin above the dam, Einar Skinnarland watched the black smoke drift down the valley.
-With shaking fingers, he sat down at his telegraph key, connected the battery terminals, and tapped out the urgent cipher that would reach Tronstad’s desk before nightfall—
+With shaking fingers, he sat down at his telegraph key, connected the battery terminals, and tapped out the urgent cipher that would reach Tronstad's desk before nightfall—
 VEMORK DAMAGED BUT CELLS INTACT. Twenty-One CIVILIANS KILLED RJUKAN. GERMANS ABANDONING FACILITY. ENTIRE STOCKPILE ORDERED TRANSPORTED TO REICH. REPEAT—STOCKPILE MOVING TO GERMANY.
 
 
@@ -3420,7 +3420,7 @@ Inside an unheated timber woodshed overlooking the railway marshaling yards at R
 Below them in the gray twilight, steam hissed from an engine's relief valve.
 A detachment of thirty German soldiers wearing steel helmets and black rubberized greatcoats formed a tight perimeter around the freight siding. In the center sat two flatbed rail wagons loaded with wooden crates. Stenciled in black paint on the slatted timber was the address of the recipient in the Reich—
 HEERESWAFFENAMT – KWI FÜR PHYSIK, BERLIN-DAHLEM.
-Inside those timber crates, packed in sawdust, rested thirty-nine bespoke galvanized steel drums. They contained the entirety of Vemork’s remaining stock—six hundred and fourteen kilograms of high-concentration heavy water, accompanied by barrels of partially concentrated potassium hydroxide electrolyte—every drop the Germans had managed to distill or salvage since Gunnerside.
+Inside those timber crates, packed in sawdust, rested thirty-nine bespoke galvanized steel drums. They contained the entirety of Vemork's remaining stock—six hundred and fourteen kilograms of high-concentration heavy water, accompanied by barrels of partially concentrated potassium hydroxide electrolyte—every drop the Germans had managed to distill or salvage since Gunnerside.
 
 SORLIE
 (whispering)
@@ -3428,7 +3428,7 @@ They move on Sunday morning. February twentieth. The train pulls out of Rjukan a
 
 NARRATOR
 Haukelid slid the binoculars into his canvas haversack, his face dark with five days of beard growth and lack of sleep.
-For eleven months following the raid on the plant, Haukelid had lived in the high turf dugouts above the valley. While Rønneberg and the others had escaped to Sweden, Haukelid had stayed behind on Tronstad’s orders, building the clandestine underground army of Telemark.
+For eleven months following the raid on the plant, Haukelid had lived in the high turf dugouts above the valley. While Rønneberg and the others had escaped to Sweden, Haukelid had stayed behind on Tronstad's orders, building the clandestine underground army of Telemark.
 Now, London had radioed him the final, terrible directive—The shipment must not reach Germany. At all costs.
 
 HAUKELID
@@ -3447,7 +3447,7 @@ NARRATOR
 Haukelid turned his back to the window, pulling his collar against the damp draft. His hand moved across the map case pinned to the wooden boards.
 From the freight yards at Rjukan, the railway did not continue to the coast. It ended abruptly at the mountain wall surrounding Lake Tinn—a massive, fjord-like glacial chasm twenty miles long and scarcely a mile wide.
 To bridge the gap to the southern rail network at Tinnoset, the trains were loaded directly onto the timber decks of two coal-fired railway ferries—the D/F Rjukanfoss and the S/F Hydro.
-Haukelid’s thumb pressed into the blue contour line in the center of the lake.
+Haukelid's thumb pressed into the blue contour line in the center of the lake.
 
 HAUKELID
 What is the depth here? Two miles south of Mælen?
@@ -3515,7 +3515,7 @@ Mælen Quay and Lake Tinn. Night of 19–20 February 1944.
 The wooden hull of the rowboat bumped against the black, tarred pilings of the railway slip at Mælen.
 Knut Haukelid caught the timber with a gloved hand, holding the boat steady against the lake's icy swell. Behind him in the stern sheets, Knut Lier-Hansen rested his oars, breathing in shallow, rhythmic gasps to keep his frost-plumes from catching the yellow perimeter lights on the quay.
 Fifty feet above them, tied to the timber fenders, loomed the dark iron bulk of the railway ferry S/F Hydro.
-She was a twin-screw steamer of four hundred and ninety tons, her broad wooden deck fitted with parallel steel railway tracks. At the slip head, two German sentries in heavy sheepskin coats stood beneath an electric lamp, their Mausers slung muzzle-down against the sleet. Between the guards and the ferry’s stern lay seventy feet of open, crushed-rock ballast.
+She was a twin-screw steamer of four hundred and ninety tons, her broad wooden deck fitted with parallel steel railway tracks. At the slip head, two German sentries in heavy sheepskin coats stood beneath an electric lamp, their Mausers slung muzzle-down against the sleet. Between the guards and the ferry's stern lay seventy feet of open, crushed-rock ballast.
 Haukelid slung a heavy canvas postal sack across his chest. Inside lay nineteen pounds of Nobel 808 plastic explosive, molded into an eight-foot sausage, wrapped in greaseproof burlap. Lashed to his webbing belt were two brass pocket alarm clocks, two dry-cell torch batteries, and three detonators crimped to five inches of red instantaneous cordtex.
 
 HAUKELID
@@ -3530,17 +3530,17 @@ HAUKELID
 Then he doesn't leave the hold.
 
 NARRATOR
-The two men scrambled up the iron maintenance ladder bolted to the quay piling, timing their movements to the scrape of the sentries’ boots turning on the gravel. They slipped over the ferry's timber bulwark and dropped silently onto the starboard car deck.
+The two men scrambled up the iron maintenance ladder bolted to the quay piling, timing their movements to the scrape of the sentries' boots turning on the gravel. They slipped over the ferry's timber bulwark and dropped silently onto the starboard car deck.
 The ferry was dead quiet, smelling of cold coal smoke, bilge grease, and damp pine.
 They moved forward along the port rail until they reached the hatchway leading to the forward holds. Lier-Hansen lifted the iron dog-latch. It groaned on its pivot—a dry, screeching complaint of rusted iron that made both men freeze for ten seconds, their backs pressed against the cabin bulkhead.
 No alarm sounded.
 They slipped down the steep iron ladder into the lightless belly of the ship.
-At the bottom of the companionway, a door cracked open. The yellow beam of a kerosene lantern cut through the dark, framing a middle-aged Norwegian man in greasy engineer's denims—the vessel’s night watchman.
-The watchman’s eyes widened. His hand dropped toward a heavy brass spanner resting on a workbench.
+At the bottom of the companionway, a door cracked open. The yellow beam of a kerosene lantern cut through the dark, framing a middle-aged Norwegian man in greasy engineer's denims—the vessel's night watchman.
+The watchman's eyes widened. His hand dropped toward a heavy brass spanner resting on a workbench.
 
 LIER-HANSEN
 (hands open, smooth Telemark dialect)
-Hold your hands, brother. It’s Lier-Hansen. From the bus company.
+Hold your hands, brother. It's Lier-Hansen. From the bus company.
 
 WATCHMAN
 (blinking)
@@ -3578,13 +3578,13 @@ Haukelid wiped the cold sweat from his face, made the sign of the cross across t
 Lake Tinn. Ten-forty-five, Sunday, 20 February 1944.
 The morning was cold, clear, and deceptive.
 The S/F Hydro chugged steadily south through the glassy, ice-streaked waters of Lake Tinn, her tall black funnel trailing a thick pennant of bituminous coal smoke. On her broad timber railway deck rested the two flatcars loaded with the heavy water containers, guarded by four Wehrmacht sentries leaning against the timber crates.
-Up on the promenade deck, fifty-three people were aboard. Families sat in the passenger lounge, eating Sunday sandwiches and watching the snow-covered pine forests slide past. In the wheelhouse, Captain Erling Rambekk adjusted the brass helm three degrees to port, aligning the ship’s prow with the southern narrows.
+Up on the promenade deck, fifty-three people were aboard. Families sat in the passenger lounge, eating Sunday sandwiches and watching the snow-covered pine forests slide past. In the wheelhouse, Captain Erling Rambekk adjusted the brass helm three degrees to port, aligning the ship's prow with the southern narrows.
 Beneath his feet, hidden under four decks of iron and coal, the hour hand of the first alarm clock touched the brass screw.
 The explosion did not throw a towering column of fire into the morning sky.
-Enclosed beneath the waterline, the nineteen pounds of plastic explosive punched an eight-foot hole through the vessel’s forward hull plates with a sharp, iron crack that sounded on the passenger deck like the snap of a breaking rail.
+Enclosed beneath the waterline, the nineteen pounds of plastic explosive punched an eight-foot hole through the vessel's forward hull plates with a sharp, iron crack that sounded on the passenger deck like the snap of a breaking rail.
 Instantly, a wall of freezing green lake water roared through the breached plates, filling the forward hold at thousands of gallons per minute.
 The effect was catastrophic.
-Within ninety seconds, the Hydro’s bow plunged five feet into the water, her stern lifting until the brass propeller blades broke the surface, thrashing uselessly against the foam. Furniture, cargo, and screaming passengers slid forward across the tilted linoleum decks.
+Within ninety seconds, the Hydro's bow plunged five feet into the water, her stern lifting until the brass propeller blades broke the surface, thrashing uselessly against the foam. Furniture, cargo, and screaming passengers slid forward across the tilted linoleum decks.
 Down on the rail siding, the massive flatbed wagons loaded with the heavy water carboys broke their chain lashings with iron shrieks, rolling forward down the tilted track, crashing into the forward bulwark and pinning the bow even deeper into the abyss.
 Captain Rambekk sounded the distress siren—a long, agonizing wail that echoed off the sheer granite cliffs flanking the lake.
 
@@ -3593,7 +3593,7 @@ MATE
 Lifeboats! Abandon ship!
 
 NARRATOR
-There was no time. Four minutes after the charge fired, the S/F Hydro’s bow slipped beneath the surface. Her stern rose ninety degrees into the air—screws dripping black oil against the gray sky—and then, with a colossal, sucking roar of displaced air and collapsing bulkheads, the ship plummeted straight down into the freezing depths.
+There was no time. Four minutes after the charge fired, the S/F Hydro's bow slipped beneath the surface. Her stern rose ninety degrees into the air—screws dripping black oil against the gray sky—and then, with a colossal, sucking roar of displaced air and collapsing bulkheads, the ship plummeted straight down into the freezing depths.
 Behind her, she left only a swirling circle of coal dust, shattered lifejackets, and thirty people thrashing in thirty-three-degree water.
 Local fishermen and farmers, hearing the muffled blast, pushed rowboats out from the eastern shore through the drift-ice, hauling half-frozen survivors from the lake.
 Twenty-nine people were saved.
@@ -3615,13 +3615,13 @@ Death of the Professor
 NARRATOR
 Syrebekkstølen, Telemark. 11 March 1945.
 The snow was melting along the timber eaves, dripping into the black mud outside the low stone-and-timber hut.
-Major Leif Tronstad sat on a three-legged wooden stool near the small peat hearth, his wire-rimmed spectacles reflecting the dying embers. He wore standard British camouflage windproofs over a Norwegian army officer’s wool tunic. On his knees lay an open field ledger, his neat, professorial handwriting filling the gridded pages with notes on industrial defense grids.
-Beside him, cleaning a Colt .45 with a scrap of flannel, sat Gunnar Syverstad—the former Vemork laboratory assistant who had helped Brun smuggle the first heavy water blueprints to London, fled across the North Sea, and parachuted back into Telemark at Tronstad’s side.
+Major Leif Tronstad sat on a three-legged wooden stool near the small peat hearth, his wire-rimmed spectacles reflecting the dying embers. He wore standard British camouflage windproofs over a Norwegian army officer's wool tunic. On his knees lay an open field ledger, his neat, professorial handwriting filling the gridded pages with notes on industrial defense grids.
+Beside him, cleaning a Colt .45 with a scrap of flannel, sat Gunnar Syverstad—the former Vemork laboratory assistant who had helped Brun smuggle the first heavy water blueprints to London, fled across the North Sea, and parachuted back into Telemark at Tronstad's side.
 For five months, Tronstad had lived in the high huts of Telemark.
-He had refused to remain behind a desk at Orchard Court while the war entered its bloody, desperate endgames. In October 1944, he had jumped into the snow of the Hardangervidda to command Operation Sunshine—an underground military network of nine hundred armed Milorg fighters organized to protect southern Norway’s power plants, dams, and factories from Nazi scorched-earth destruction as the Wehrmacht collapsed.
+He had refused to remain behind a desk at Orchard Court while the war entered its bloody, desperate endgames. In October 1944, he had jumped into the snow of the Hardangervidda to command Operation Sunshine—an underground military network of nine hundred armed Milorg fighters organized to protect southern Norway's power plants, dams, and factories from Nazi scorched-earth destruction as the Wehrmacht collapsed.
 Now, victory in Europe was weeks away. The Allied armies were crossing the Rhine; the Soviet front was tearing through Pomerania; and in Oslo, the German garrison was paralyzed, waiting for the end.
 Across the cramped room, seated on a rough pine bench against the logs, sat Torgeir Lognvik.
-Lognvik was the local lensmann—the district bailiff installed by Vidkun Quisling’s collaborationist government in Rauland. Two hours earlier, Milorg scouts had lured the bailiff up into the hills on the pretext of investigating stolen supplies, disarmed him, and brought him to the remote hut at Syrebekkstølen for interrogation.
+Lognvik was the local lensmann—the district bailiff installed by Vidkun Quisling's collaborationist government in Rauland. Two hours earlier, Milorg scouts had lured the bailiff up into the hills on the pretext of investigating stolen supplies, disarmed him, and brought him to the remote hut at Syrebekkstølen for interrogation.
 Tronstad closed his ledger. He looked at the prisoner, his voice quiet, measured, and stripped of malice—the voice of a university rector examining a wayward student.
 
 TRONSTAD
@@ -3640,11 +3640,11 @@ NARRATOR
 Tronstad looked up.
 Outside, the faint hiss-crunch of ash skis on wet spring crust cut through the dripping thaw.
 The door of the outer vestibule did not knock. It burst open with a violent splintering of pine.
-A heavy-set man in a wet frieze wool coat kicked through the inner door into the dim room, a loaded hunting rifle raised to his hip. It was Johans Lognvik—the bailiff’s brother—who had tracked the ski ruts up the mountain from the valley road.
+A heavy-set man in a wet frieze wool coat kicked through the inner door into the dim room, a loaded hunting rifle raised to his hip. It was Johans Lognvik—the bailiff's brother—who had tracked the ski ruts up the mountain from the valley road.
 
 JOHANS LOGNVIK
 (roaring, wild eyes)
-Hands up! Let him go, or I’ll blow your guts across the floor!
+Hands up! Let him go, or I'll blow your guts across the floor!
 
 NARRATOR
 Torgeir Lognvik lunged forward off the bench, grabbing Landsverk by the throat.
@@ -3658,7 +3658,7 @@ Hold your fire! Do not shoot! We are regular Norwegian—
 NARRATOR
 Johans Lognvik panicked.
 The rifle kicked with a deafening, blinding flash in the enclosed space.
-The heavy lead bullet tore through Gunnar Syverstad’s chest at point-blank range, smashing through his ribs and slamming him backward across the hearth stones. Syverstad gave one ragged gasp, blood foaming at his lips, and stilled.
+The heavy lead bullet tore through Gunnar Syverstad's chest at point-blank range, smashing through his ribs and slamming him backward across the hearth stones. Syverstad gave one ragged gasp, blood foaming at his lips, and stilled.
 Tronstad drew his Colt automatic from his holster in a clean, reflexive sweep.
 Before the slide could clear the leather, Johans worked the bolt. The second shot boomed through the cabin like an artillery round.
 The heavy bullet struck Leif Tronstad in the torso.
@@ -3672,7 +3672,7 @@ Major... Major, hold on...
 
 NARRATOR
 Tronstad looked up into the darkness of the ceiling beams.
-His breathing was shallow, rapid, whistling through blood that had pooled in his airway. The brilliant mind that had mapped the Pehkranz cells on a London bedsheet, the father of the heavy water sabotage who had fought the War Cabinet to spare four thousand of his countrymen from poison gas, lay dying on a sheepskin pelt on the floor of a Telemark shepherd’s shack.
+His breathing was shallow, rapid, whistling through blood that had pooled in his airway. The brilliant mind that had mapped the Pehkranz cells on a London bedsheet, the father of the heavy water sabotage who had fought the War Cabinet to spare four thousand of his countrymen from poison gas, lay dying on a sheepskin pelt on the floor of a Telemark shepherd's shack.
 The pain faded into a cold, heavy numbness—the familiar, sub-zero chill of the high plateau he had loved.
 Tronstad looked at the young soldier kneeling beside him.
 
@@ -3697,7 +3697,7 @@ Farm Hall, Godmanchester, England. 6 August 1945.
 The Georgian manor house outside Cambridge smelled of damp lawn and cold tobacco.
 Ten German physicists—the intellectual core of the Uranverein, the Nazi uranium project—had been held here in velvet internment since their capture in the Black Forest three months earlier. The house was bugged from cellar to attic by British military intelligence, with microphones concealed behind the wallpaper, in the fireplaces, and beneath the billiard table.
 At nine in the evening, the BBC Home Service crackled through the wireless set in the sitting room.
-The announcer’s voice, dry and matter-of-fact, read the joint Anglo-American communique issued from the White House—
+The announcer's voice, dry and matter-of-fact, read the joint Anglo-American communique issued from the White House—
 
 RADIO ANNOUNCER
 (dry, matter-of-fact)
@@ -3719,7 +3719,7 @@ They have done it. They took the industrial gamble we never could.
 NARRATOR
 Down in the monitoring cellar, British intelligence listeners transcribed the tape reels as the German physicists began their bitter post-mortem.
 For two years, Heisenberg and Kurt Diebner had staked the entire German atomic effort on heavy water as a moderator. They had rejected graphite after flawed calculations in Heidelberg, leaving heavy hydrogen as their sole path to a self-sustaining chain reaction.
-In April 1945, when Colonel Boris Pash’s Alsos Mission had stormed the medieval castle town of Haigerloch, American soldiers had pried open the door to a subterranean cave beneath the town church. There, dangling like a chandelier above an aluminum tank, hung the B-VIII experimental uranium pile—six hundred and sixty-four cubes of uranium metal.
+In April 1945, when Colonel Boris Pash's Alsos Mission had stormed the medieval castle town of Haigerloch, American soldiers had pried open the door to a subterranean cave beneath the town church. There, dangling like a chandelier above an aluminum tank, hung the B-VIII experimental uranium pile—six hundred and sixty-four cubes of uranium metal.
 The reactor was stone cold.
 It had never reached criticality. To ignite a sustained chain reaction, Heisenberg had calculated he needed eleven hundred kilograms of deuterium oxide. He had possessed scarcely three hundred.
 The rest was lying crushed in forty atmospheres of black water at the bottom of Lake Tinn, or diluted into the muddy drains beneath the bedrock of Vemork.
@@ -3730,7 +3730,7 @@ Down in the Vestfjord valley, the Pelton turbines of Vemork continued their colo
 Out of the hundreds of men who had passed through the crucible of the Telemark missions, history moved on with the quiet, unyielding cadence of the mountains.
 The thirty-four British sappers of Operation Freshman rested in the soil of Rogaland, their graves marked with white Commonwealth stones, remembered as the price paid for an unlit landing strip in the fog.
 In Oslo, Major Leif Tronstad was buried with full military honors, mourned by a nation as the intellectual architect who had given his life so that his country's people and factories would survive the final fires of the Reich.
-Knut Haugland returned to the sea, carrying his wireless into legend aboard Thor Heyerdahl’s balsa raft, the Kon-Tiki, sending Morse code across the vast empty swells of the Pacific.
+Knut Haugland returned to the sea, carrying his wireless into legend aboard Thor Heyerdahl's balsa raft, the Kon-Tiki, sending Morse code across the vast empty swells of the Pacific.
 Knut Haukelid remained in the military, decorated with the highest honors of the Allied world, but lived with the silent, haunting memory of Sunday morning on Lake Tinn—carrying the terrible, unavoidable equation of war where fourteen of his countrymen had drowned so that the world might not burn.
 And in the coastal town of Ålesund, Joachim Rønneberg returned to civilian life.
 He was twenty-six years old. He went to work for the Norwegian broadcasting corporation, rarely speaking of what had happened in the subterranean darkness beneath the hydrogen plant. When historians, generals, and documentary crews sought him out in later decades, asking how nine young boys in white smocks had outmatched the Wehrmacht and changed the course of the atomic age, the quiet Sunnmøre man would only offer a slight, deprecating smile.
@@ -3757,10 +3757,10 @@ Then, emerging from the black mud, an iron wall materialized into the light.
 The robotic thrusters hummed, holding the craft steady. The camera panned upward, illuminating the straight, plumb stem of a ship's bow, caked in fine gray sediment.
 Resting upright on the lakebed, preserved in near-perfect suspension by the freezing, oxygen-poor freshwater, sat the hull of the S/F Hydro.
 Her tall black funnel was still intact. On her timber railway deck, rusted chain binders lay draped across the rails where the flatcars had broken free in her final four minutes. Sixty feet away on the silt bed lay the twisted chassis of the freight cars. Half-buried in the mud rested a cluster of galvanized steel cylinders, their welded seams and lifting lugs encrusted with rust, but structurally unbroken.
-The submersible’s hydraulic claw reached out, its rubberized jaws closing around the rim of Barrel Number 26.
+The submersible's hydraulic claw reached out, its rubberized jaws closing around the rim of Barrel Number 26.
 Slowly, carefully, fighting forty atmospheres of hydrostatic pressure, the winch cable hummed. The heavy drum was lifted out of sixty years of silt and drawn up through fourteen hundred feet of black water into the summer sun.
 On the salvage barge, technicians in rubber aprons used an electric drill to pierce the casing.
-They drew a clear, odorless liquid into a glass syringe and transferred it to a mobile spectrometer. There were those who had argued for decades that the shipment had been a decoy, that the Germans had suspected Haukelid’s ambush and sent plain water across the lake.
+They drew a clear, odorless liquid into a glass syringe and transferred it to a mobile spectrometer. There were those who had argued for decades that the shipment had been a decoy, that the Germans had suspected Haukelid's ambush and sent plain water across the lake.
 The digital readout flickered and stabilized—
 Deuterium oxide concentration—14.2% enriched potassium hydroxide electrolyte.
 It was genuine. Down in the eternal twilight of Lake Tinn, the final industrial breath of the Nazi nuclear program remained sealed in iron, exactly where nineteen pounds of plastic explosive and two cheap alarm clocks had sent it.
@@ -3804,7 +3804,7 @@ The air smelled of cold aggregate, machine grease, and sixty years of stagnant w
 There, bolted to the concrete floor along the drainage channels, were the eighteen iron footprints where the Pehkranz electrolysis cylinders had once stood. Along the northern wall, half-choked with dirt, ran the narrow circular conduit where Joachim Rønneberg and Fredrik Kayser had crawled through on their elbows. On the southern wall, the iron frame of the basement window Birger Strømsheim and Kasper Idland had smashed with an entrenching tool was still embedded in the concrete, its jagged wire-glass shards rusted brown.
 Even the steel floor drain, down which five hundred kilograms of deuterium oxide had poured into the river on the night of 28 February 1943, remained clear.
 In June 2022, after five years of structural preservation, the site was opened to the world.
-A glass-and-steel pavilion was suspended over the excavation, allowing visitors to walk directly above the original concrete floor. Beneath their feet, lit by pale amber lamps that mimic the glare of Kristian Johansen’s desk, the dark bedrock foundation of Vemork sits preserved in timeless, reverent silence.
+A glass-and-steel pavilion was suspended over the excavation, allowing visitors to walk directly above the original concrete floor. Beneath their feet, lit by pale amber lamps that mimic the glare of Kristian Johansen's desk, the dark bedrock foundation of Vemork sits preserved in timeless, reverent silence.
 Outside the pavilion, the Måna River still rushes through the black boulders six hundred feet below. Mount Gausta still casts its immense, sharp shadow across the valley at sunset.
 Schoolchildren in brightly colored parkas walk the wooden catwalks, looking down into the narrow cable opening, trying to comprehend how young men scarcely older than themselves had squeezed through eight inches of cold stone to change the destiny of the world.
 There are no banners in the cellar. There are no brass trumpets.
@@ -3829,12 +3829,12 @@ Lieutenant Colonel J. S. Wilson (1888–1955). Head of the Scandinavian Section 
 The Fallen of Operation Freshman (19–20 November 1942).
 Forty-one British servicemen—six Royal Air Force crewmen of 138 Squadron and thirty-five volunteers of the 9th Field Company and 261st Airborne Field Park Company, Royal Engineers—flew across the North Sea in wooden gliders to strike Vemork.
 None returned.
-Eighteen died on impact when the Halifax bomber and Horsa gliders crashed in the coastal mountains of Rogaland. The twenty-three survivors were taken prisoner by the Wehrmacht and handed over to the Gestapo under Hitler’s secret Kommandobefehl. Four severely wounded sappers were murdered by lethal injection in a hospital in Stavanger; the remaining nineteen were executed by firing squad at Egersund and Helleland, their bodies stripped and cast into unmarked graves or dumped at sea. They were the first Allied casualties of the Heavy Water War.
+Eighteen died on impact when the Halifax bomber and Horsa gliders crashed in the coastal mountains of Rogaland. The twenty-three survivors were taken prisoner by the Wehrmacht and handed over to the Gestapo under Hitler's secret Kommandobefehl. Four severely wounded sappers were murdered by lethal injection in a hospital in Stavanger; the remaining nineteen were executed by firing squad at Egersund and Helleland, their bodies stripped and cast into unmarked graves or dumped at sea. They were the first Allied casualties of the Heavy Water War.
 Operation Grouse / Swallow (The Advance Watch).
-Major Jens-Anton Poulsson, DSO (1918–2010). Commander of Operation Grouse. Born in Rjukan, the son of a Hydro director. He held his four-man team together through the catastrophic winter of 1942–43, surviving four months on wild reindeer moss and lichen. After Gunnerside, he remained in Telemark to build Milorg District 16. Post-war, he served as a senior officer in the Norwegian Army, commanding the King’s Guard and the UN contingent in Gaza.
+Major Jens-Anton Poulsson, DSO (1918–2010). Commander of Operation Grouse. Born in Rjukan, the son of a Hydro director. He held his four-man team together through the catastrophic winter of 1942–43, surviving four months on wild reindeer moss and lichen. After Gunnerside, he remained in Telemark to build Milorg District 16. Post-war, he served as a senior officer in the Norwegian Army, commanding the King's Guard and the UN contingent in Gaza.
 Captain Arne Kjelstrup, DSO (1913–1995). Deputy commander of Grouse. A Rjukan plumber and hunter whose physical stamina kept the team alive during the winter retreat. He severed the security chain at the Vemork perimeter gate with thirty-inch bolt-cutters. After the war, he returned to civilian trade and settled in Bærum.
 Claus Helberg, MBE, DCM (1919–2003). Mountain guide and Vidda scout. He surveyed the Måna ravine, survived the running ski duel against a German mountain scout, bluffed a German military doctor into resetting his dislocated shoulder, and escaped a prisoner convoy by leaping from a moving bus. After the war, he became the beloved chief guide of the Norwegian Trekking Association (DNT), maintaining the mountain trails of the Hardangervidda for half a century.
-Knut Haugland, DSO, MC (1917–2009). Telegraphist of Grouse. He kept the fragile wireless link to London alive using hand-cranked generators and frozen car batteries. Later escaped a Gestapo ambush in Oslo by shooting his way down the stairs of the Maternity Hospital. In 1947, he operated the radio aboard Thor Heyerdahl’s Kon-Tiki balsa raft across 4,300 miles of Pacific ocean, and later served as director of the Kon-Tiki and Resistance museums.
+Knut Haugland, DSO, MC (1917–2009). Telegraphist of Grouse. He kept the fragile wireless link to London alive using hand-cranked generators and frozen car batteries. Later escaped a Gestapo ambush in Oslo by shooting his way down the stairs of the Maternity Hospital. In 1947, he operated the radio aboard Thor Heyerdahl's Kon-Tiki balsa raft across 4,300 miles of Pacific ocean, and later served as director of the Kon-Tiki and Resistance museums.
 Operation Gunnerside (The Demolition Force).
 Joachim Rønneberg, DSO (1919–2018). Leader of Gunnerside. At twenty-three, he drilled his men blindfolded in Scotland, led the descent into the Måna ravine, made the tactical decision to cut the safety fuse from ten minutes to two, and led five men on a 400-kilometer ski march across occupied Norway to Sweden in full British uniform. After the war, he worked as a senior editor and journalist for NRK. He was the last surviving member of the raid, passing away at ninety-nine in Ålesund.
 Major Knut Haukelid, DSO, MC (1911–1994). Covering Party commander. Born in Brooklyn to Norwegian parents. Commanded the rear guard during the Vemork breach, spent two years living in mountain turf dugouts, and personally led the operation that sank the railway ferry S/F Hydro in fourteen hundred feet of water on Lake Tinn. Author of the definitive memoir Skis Against the Atom.
@@ -3844,7 +3844,7 @@ Kasper Idland (1918–1968). Demolition Party. Severely sprained and tore ligame
 Hans Storhaug (1915–1995). Covering Party. Veteran of Kompani Linge known for immense physical power. Hauled Idland up the seventy-degree ice chimney when his ankle collapsed in the gorge, and covered the suspension bridge during the extraction. Survived the war to return to maritime commerce in Rogaland.
 The Intelligence Lifeline.
 Einar Skinnarland (1918–2002). A surveyor who boarded the hijacked steamer Galtesund in March 1942. Trained by the SOE in eleven days and parachuted back into Telemark before his absence was detected. For three unbroken years, living in mountain shacks and his brother's cottage at the Møsvatn dam, he operated the primary clandestine radio link between Telemark, Stockholm, and London. Post-war, he helped build the great modern dams of Norway and Canada.
-Torstein Skinnarland (1910–1993). Head dam keeper at Møsvatn for Norsk Hydro. Einar’s elder brother. Provided precise daily flow rates, German guard rosters, and transport schedules for both the Gunnerside raid and the sinking of the Hydro.
+Torstein Skinnarland (1910–1993). Head dam keeper at Møsvatn for Norsk Hydro. Einar's elder brother. Provided precise daily flow rates, German guard rosters, and transport schedules for both the Gunnerside raid and the sinking of the Hydro.
 The Civilians of Telemark.
 Freedom was bought not only with the daring of soldiers, but with the blood of civilians caught in the machinery of global warfare—
 The Twenty-One of Rjukan (16 November 1943)—Twenty-one Norwegian civilians—factory laborers, shopkeepers, housewives, and children—died when stray bombs from the Eighth Air Force strike collapsed an air raid shelter and residential homes in the town hollow.
@@ -3864,22 +3864,22 @@ For more than half a century after the guns fell silent, a single question echoe
 Did the sabotage of Vemork and Lake Tinn actually save the Allied world from a Nazi atomic bomb?
 The answer lies in the collision of physics, industrial capacity, and a single, catastrophic scientific error made in a Heidelberg laboratory two years before Einar Skinnarland ever set foot in London.
 The Error of Walter Bothe.
-In January 1941, Professor Walter Bothe, Germany’s foremost experimental nuclear physicist, was tasked by the Heereswaffenamt with measuring the diffusion length of thermal neutrons in carbon.
+In January 1941, Professor Walter Bothe, Germany's foremost experimental nuclear physicist, was tasked by the Heereswaffenamt with measuring the diffusion length of thermal neutrons in carbon.
 To build an atomic reactor—what the Germans called an Uranbrenner, or "uranium burner"—physicists needed a moderator—a light element capable of slowing down fast neutrons emitted by splitting uranium atoms without absorbing them, allowing them to strike neighboring nuclei and trigger a self-sustaining chain reaction.
 There were only two substances on Earth known to be capable of moderating an un-enriched natural uranium pile—ultra-pure carbon (graphite) and heavy hydrogen (deuterium oxide).
 Bothe tested a sphere of high-grade industrial graphite supplied by the Siemens company. His measurements indicated that the graphite absorbed far too many neutrons to sustain a chain reaction.
-Bothe’s mathematics were flawless, but his chemistry was not.
+Bothe's mathematics were flawless, but his chemistry was not.
 Unbeknownst to him, the industrial electro-graphite contained minute impurities of boron—scarcely one part in five hundred thousand—introduced during the commercial manufacturing process. Boron is an voracious neutron poison; even microscopic traces absorb thermal neutrons like dry sand absorbs water.
 In the United States, Leo Szilard and Enrico Fermi had encountered the exact same obstacle. But Szilard was an industrial chemist as well as a physicist; suspecting the presence of boron, he traveled directly to the factories of the National Carbon Company, developed a chemical purification process, and obtained boron-free synthetic graphite. With that purified carbon, Fermi constructed Chicago Pile-1 beneath the west stands of Stagg Field, achieving the world's first self-sustaining nuclear chain reaction on 2 December 1942.
-In Germany, Bothe’s report was accepted as gospel. Professor Werner Heisenberg and the Uranverein formally concluded that carbon was useless as a moderator.
+In Germany, Bothe's report was accepted as gospel. Professor Werner Heisenberg and the Uranverein formally concluded that carbon was useless as a moderator.
 With that single, unchallenged conclusion, the Nazi atomic program burned its bridges.
 They had eliminated the only substance that industrial Germany could manufacture by the thousand-ton lot. Henceforth, their entire path to a nuclear reactor depended on a single, exotic liquid—deuterium oxide.
 The Monopoly at the Edge of the Cliff.
 Heavy water is not rare; one out of every six thousand seven hundred molecules of water on Earth contains a deuterium atom. But separating that one molecule from normal hydrogen requires millions of kilowatt-hours of electrical energy and an immense, multi-stage cascade of electrolytic cells.
 In 1940, the Third Reich had zero domestic heavy water facilities. Britain had none. The United States possessed only laboratory-scale test tubes.
 The only industrial facility on the planet capable of producing high-concentration deuterium oxide in commercial volume was perched on a six-hundred-foot rock shelf in the Vestfjord valley of Telemark.
-Norsk Hydro’s plant at Vemork was an engineering miracle born of geography. The factory had access to an endless, roaring cascade of water falling from the Hardangervidda, powering eleven colossal Pelton turbines that generated one hundred and forty thousand kilowatts of direct current.
-In 1934, when Leif Tronstad and Jomar Brun designed the world’s first industrial heavy water cascade in the basement of the Vassstoffabrikken, they were pursuing a scientific novelty—a fluid of interest to physical chemists and biologists studying cellular metabolic rates.
+Norsk Hydro's plant at Vemork was an engineering miracle born of geography. The factory had access to an endless, roaring cascade of water falling from the Hardangervidda, powering eleven colossal Pelton turbines that generated one hundred and forty thousand kilowatts of direct current.
+In 1934, when Leif Tronstad and Jomar Brun designed the world's first industrial heavy water cascade in the basement of the Vassstoffabrikken, they were pursuing a scientific novelty—a fluid of interest to physical chemists and biologists studying cellular metabolic rates.
 When the German Wehrmacht marched into Norway in April 1940, that scientific novelty was suddenly transformed into the most strategically critical chemical inventory in the world.
 The Deficit of Haigerloch.
 By the summer of 1942, Heisenberg and his colleagues had calculated the exact equation for a self-sustaining uranium pile.
@@ -3889,20 +3889,20 @@ To achieve criticality with natural uranium plates or cubes, the German design r
 Before Joachim Rønneberg severed the Bickford safety fuse in the cellar, Vemork was producing approximately one hundred kilograms of heavy water a month. Under forced contracts imposed by the Heereswaffenamt and I.G. Farben, the plant was undergoing a dramatic technical expansion designed to yield four tons per year by the winter of 1943.
 Had Vemork remained undisturbed—
 The German program would have accumulated four tons of heavy water by the spring of 1944.
-Heisenberg’s team would have achieved a critical, self-sustaining nuclear reactor at Leipzig or Haigerloch nearly a year before the end of the European war.
+Heisenberg's team would have achieved a critical, self-sustaining nuclear reactor at Leipzig or Haigerloch nearly a year before the end of the European war.
 A functioning uranium pile would have confirmed what Carl Friedrich von Weizsäcker had already predicted in theoretical papers in 1940—that sustained fission in a natural uranium reactor produces Element 94 (plutonium), a fissile material that can be separated using straightforward chemical methods rather than the titanic, billion-dollar gaseous-diffusion separation plants required for Uranium-235.
 Instead, the calendar of the German Uranverein was systematically shattered—
 Operation Gunnerside (28 February 1943) drained five hundred kilograms of concentrated inventory down the sewers, ruined the bespoke electrolysis diaphragms, and halted production entirely for five critical months.
 The USAAF Bombing of Vemork (16 November 1943), while failing to crack the armored basement, panicked Berlin into abandoning the facility, ending heavy water production in Norway forever.
 The Sinking of the S/F Hydro (20 February 1944) sent the entire surviving inventory of six hundred and fourteen kilograms of high-concentration heavy water to the bottom of a fourteen-hundred-foot abyss, ensuring that no industrial volume of deuterium ever crossed the Baltic.
-When Colonel Boris Pash’s Alsos Mission seized the experimental B-VIII reactor in the cave beneath Haigerloch Castle in April 1945, they found Heisenberg’s aluminum vessel hung with six hundred and sixty-four cubes of uranium metal.
+When Colonel Boris Pash's Alsos Mission seized the experimental B-VIII reactor in the cave beneath Haigerloch Castle in April 1945, they found Heisenberg's aluminum vessel hung with six hundred and sixty-four cubes of uranium metal.
 The reactor was surrounded by graphite neutron reflectors. But the core contained only 1.5 tons of heavy water—scarcely half the volume required to achieve criticality.
 The neutron multiplication factor hovered at k = 0.85. The pile was a dead iron corpse.
 The Reality of the "German Bomb".
 Did Gunnerside prevent Adolf Hitler from dropping an atomic bomb on London or New York in 1945?
 Post-war analysis of the German archives and the Farm Hall wiretaps reveals that the Nazi regime was never close to an operational, lightweight implosion or gun-type fission bomb.
 Unlike the Americans, who mobilized one hundred and thirty thousand personnel, spent two billion dollars, and built entire industrial cities at Oak Ridge and Hanford under General Leslie Groves, the German program was underfunded, administratively fractured, and starved of raw materials.
-In June 1942, Albert Speer, the Minister of Armaments, had met with Heisenberg in Berlin. When Heisenberg admitted that an atomic bomb could not be manufactured in time to influence the outcome of the war, Speer redirected the Reich’s strategic funding, steel, and electronic priorities into Werner von Braun’s A-4 rocket program—the V-2.
+In June 1942, Albert Speer, the Minister of Armaments, had met with Heisenberg in Berlin. When Heisenberg admitted that an atomic bomb could not be manufactured in time to influence the outcome of the war, Speer redirected the Reich's strategic funding, steel, and electronic priorities into Werner von Braun's A-4 rocket program—the V-2.
 Yet to conclude that the Norwegian sabotage was therefore unnecessary is to fundamentally misunderstand the terror of total war.
 Had Germany achieved a functioning, critical nuclear reactor in 1943 or 1944, the strategic trajectory of the war would have been catastrophically altered—
 Radiological Warfare—A functioning power pile operating for six months would have generated massive quantities of highly radioactive fission byproducts—strontium-90, cesium-137, and iodine-131. The German High Command, which had already deployed the V-1 flying bomb and the supersonic V-2 rocket against civilian London, possessed the delivery systems to load these lethal isotopes into radiological warheads—creating the world's first "dirty bombs." A single V-2 carrying radioactive slurry into central London would have rendered square miles of the British capital permanently uninhabitable, fracturing Allied domestic morale.
@@ -3916,7 +3916,7 @@ The German Reich controlled the largest uranium mines in Europe, in occupied Cze
 The German military was demanding, under threat of arms, every single liter of heavy water that could be extracted from a fortress perched over a six-hundred-foot ravine in southern Norway.
 In the face of an existential, apocalyptic threat, the Allied world had no choice. The gamble could not be taken. The factory had to die.
 The destruction of the Pehkranz cells in the basement of Vemork did not merely set back a laboratory experiment; it closed the only door through which the German nuclear program could have emerged from theory into reality.
-It was achieved without a mass bombing run, without the chemical slaughter of a civilian town, and without the loss of a single saboteur’s life inside the target perimeter.
+It was achieved without a mass bombing run, without the chemical slaughter of a civilian town, and without the loss of a single saboteur's life inside the target perimeter.
 It was accomplished by ten young men in woolen trousers and white camouflage smocks, sliding through fifty miles of Arctic gale on hickory planks, carrying the fate of civilization in two pounds of plastic explosive and two feet of burning fuse.
 In the end, it was not the industrial might of superpowers that extinguished the shadow of a Nazi bomb.
 It was a handful of skiers who knew the mountains, loved their country, and refused to yield the snow.

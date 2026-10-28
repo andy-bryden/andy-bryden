@@ -6,7 +6,7 @@ Narrator. British RP accent, mature, rich, grounded, and authoritative documenta
 
 MOUNTBATTEN
 I speak with the voice of Orus
-Mountbatten. British Upper-Class RP accent, crisp, patrician, commanding, and visionary
+Lord Louis Mountbatten. British RP accent, aristocratic, clipped, incisive, and commanding
 
 NAVAL PLANNER 1
 I speak with the voice of Fenrir
@@ -193,7 +193,7 @@ Winter, 1941–1942
 
 The Admiralty War Room smelled of damp wool, pipe tobacco, and the ozone off teleprinter ribbons. Down here, beneath feet of reinforced concrete, the war was reduced to coloured grease pencils crawling across the Atlantic basin.
 
-Every officer who stood before the central wall map was haunted by a single ghost - Bismarck. Eight months earlier, it had taken the better part of the entire Royal Navy—three battleships, two battlecruisers, two aircraft carriers, thirteen cruisers, and twenty-one destroyers—to hunt down and batter the German behemoth into the sea off Brest. Even then, it had turned on a razor’s edge. One lucky torpedo from an obsolete biplane had jammed her rudders; without that, she would have made the safety of the French coast.
+Every officer who stood before the central wall map was haunted by a single ghost - Bismarck. Eight months earlier, it had taken the better part of the entire Royal Navy—three battleships, two battlecruisers, two aircraft carriers, thirteen cruisers, and twenty-one destroyers—to hunt down and batter the German behemoth into the sea off Brest. Even then, it had turned on a razor's edge. One lucky torpedo from an obsolete biplane had jammed her rudders; without that, she would have made the safety of the French coast.
 
 Now, her sister was awake.
 
@@ -203,7 +203,7 @@ Yet a warship of that magnitude was not merely a weapon; it was an industrial pa
 
 There were only three ports under German control on the Atlantic shelf capable of handling major fleet units - Brest, Lorient, and Saint-Nazaire.
 
-Brest was ruled out by Berlin; it was well within range of RAF Bomber Command’s heavy squadrons. The battlecruisers Scharnhorst and Gneisenau had spent months there being hammered into scrap before being forced into their humiliating winter dash up the English Channel. Lorient possessed only submarine shelters and mid-sized dry docks.
+Brest was ruled out by Berlin; it was well within range of RAF Bomber Command's heavy squadrons. The battlecruisers Scharnhorst and Gneisenau had spent months there being hammered into scrap before being forced into their humiliating winter dash up the English Channel. Lorient possessed only submarine shelters and mid-sized dry docks.
 
 That left one single target on the map.
 
@@ -215,7 +215,7 @@ The strategic equation was absolute - Deny the Normandie Dock, and the German Na
 
 The problem landed on the desk of Lord Louis Mountbatten at 1A Richmond Terrace, headquarters of the fledgling Combined Operations Command.
 
-Mountbatten, forty-one, ambitious, and recently appointed by Churchill to turn Britain’s raiders from amateur irritants into an amphibious strike arm, reviewed the files with his naval and military planners.
+Mountbatten, forty-one, ambitious, and recently appointed by Churchill to turn Britain's raiders from amateur irritants into an amphibious strike arm, reviewed the files with his naval and military planners.
 
 The initial files made grim reading. Bomber Command had already been asked to destroy the dock. Air Marshal Arthur Harris had been blunt - a precision strike on a lock gate fifty feet wide, buried under the low cloud cover of the Bay of Biscay, was an operational impossibility. High-explosive bombs bounced off the reinforced concrete caissons or buried themselves uselessly in the surrounding silt.
 
@@ -279,7 +279,7 @@ February 1942
 
 The oxyacetylene torches hissed with a pale, blinding blue flame, spitting showers of white-hot slag into the dark waters of the basin.
 
-For two decades, she had been hull number 131 of the United States Navy—the USS Buchanan, laid down in Maine during the final months of the First World War. She had a narrow, knife-like beam of barely thirty feet, four spindly funnels rising like iron stovepipes from her flush deck, and an Atlantic roll that could turn a veteran sailor’s stomach inside out. In September 1940, President Roosevelt had traded her and forty-nine of her rusting sisters to a desperate Britain in exchange for ninety-nine-year leases on Caribbean naval bases.
+For two decades, she had been hull number 131 of the United States Navy—the USS Buchanan, laid down in Maine during the final months of the First World War. She had a narrow, knife-like beam of barely thirty feet, four spindly funnels rising like iron stovepipes from her flush deck, and an Atlantic roll that could turn a veteran sailor's stomach inside out. In September 1940, President Roosevelt had traded her and forty-nine of her rusting sisters to a desperate Britain in exchange for ninety-nine-year leases on Caribbean naval bases.
 
 Recommissioned into the Royal Navy as HMS Campbeltown, she had spent eighteen months shivering through the grey heaving swells of the Atlantic, escorting lumbering convoys, surviving collisions, and wearing her machinery down to the bearings.
 
@@ -350,7 +350,7 @@ Can you wedge it all in?
 
 TIBBITS
 (clinical, devoid of drama)
-Easily. The depth charges will be stacked in tiers against the bulkhead. We’ll pour concrete around them to form a solid, immovable block. When you hit the caisson, the shock of the ramming won't dislodge them. The impact will drive the nose thirty feet into their dock, and the charges will stay welded right against the steel gate.
+Easily. The depth charges will be stacked in tiers against the bulkhead. We'll pour concrete around them to form a solid, immovable block. When you hit the caisson, the shock of the ramming won't dislodge them. The impact will drive the nose thirty feet into their dock, and the charges will stay welded right against the steel gate.
 
 NARRATOR
 Beattie looked at the empty hold. The men who would sail in this ship would be sleeping and eating less than ten feet above a mass of high explosive large enough to obliterate a small town.
@@ -374,7 +374,7 @@ The lorries came through the dockyard gates under military escort, their tarpaul
 
 Inside the cargo beds were twenty-four steel cylinders, painted dull green, each weighing over four hundred pounds - Mark VII naval depth charges. Together, they contained four and a quarter tons of amatol—an unstable mixture of ammonium nitrate and TNT.
 
-Lieutenant Nigel Tibbits stood by the hatchway on the forecastle, an unlit cigarette clamped between his teeth, checking the serial numbers against his clipboard. Beside him, Chief Engine Room Artificer H.K. Howard directed the dockyard crane’s wire sling.
+Lieutenant Nigel Tibbits stood by the hatchway on the forecastle, an unlit cigarette clamped between his teeth, checking the serial numbers against his clipboard. Beside him, Chief Engine Room Artificer H.K. Howard directed the dockyard crane's wire sling.
 
 TIBBITS
 Easy on the drop, Chief. Keep them clear of the coamings.
@@ -474,12 +474,12 @@ They had greasepaint smeared across their faces and strips of black friction tap
 
 PRITCHARD
 (whispering from the darkness, dry, clipped authority)
-Hands off the torch. If you need a lamp to find the intake manifold in Southampton, you’ll be a corpse on the floor of Saint-Nazaire before you find the detonator well. Do it again. By feel.
+Hands off the torch. If you need a lamp to find the intake manifold in Southampton, you'll be a corpse on the floor of Saint-Nazaire before you find the detonator well. Do it again. By feel.
 
 NARRATOR
 Watching from the catwalk forty feet above was Lieutenant Colonel Augustus Charles Newman.
 
-At thirty-seven, Newman did not fit the swashbuckling caricature of the newly formed Commandos. He wore a neat mustache, carried himself with quiet, unhurried dignity, and was an officer of the Territorial Army’s 4th Battalion, The Essex Regiment. In civilian life, he was a civil engineer with Peter Lind & Company, specializing in heavy reinforced concrete, docks, and wharves.
+At thirty-seven, Newman did not fit the swashbuckling caricature of the newly formed Commandos. He wore a neat mustache, carried himself with quiet, unhurried dignity, and was an officer of the Territorial Army's 4th Battalion, The Essex Regiment. In civilian life, he was a civil engineer with Peter Lind & Company, specializing in heavy reinforced concrete, docks, and wharves.
 
 It was precisely this civilian background that had caused Combined Operations to give him command of the military force. Newman understood the tensile strength of pre-stressed concrete, the shear points of hydraulic caissons, and the vital organs of a modern dry dock. He knew that steel could be replaced, but custom-cast pump impellers took years to forge.
 
@@ -487,7 +487,7 @@ Under his command was No. 2 Commando—two hundred and twenty-six men—reinforc
 
 Newman had organized them into three distinct groups with surgical precision:
 
-First were the Demolition Teams. Commanded overall by Captain Bob Montgomery, Royal Engineers, these men carried no rifles. Their weapons were 60-to-90-pound rucksacks packed with Nobel’s 808 plastic explosive—a lethal compound smelling sharply of bitter almonds—along with sledgehammers, axes, and reels of Cordtex.
+First were the Demolition Teams. Commanded overall by Captain Bob Montgomery, Royal Engineers, these men carried no rifles. Their weapons were 60-to-90-pound rucksacks packed with Nobel's 808 plastic explosive—a lethal compound smelling sharply of bitter almonds—along with sledgehammers, axes, and reels of Cordtex.
 
 Second were the Protection Teams. Lightly burdened, armed with Thompson submachine guns, Colt .45 automatics, and Bren guns, their sole duty was to form a defensive ring around the demolition men and kill anything that moved while the charges were laid.
 
@@ -671,7 +671,7 @@ Force Z formed into its cruising order.
 
 Out in front, screening the formation against U-boats, steamed the two Hunt-class escort destroyers, HMS Atherstone and HMS Tynedale. Behind them, the raiders fell into three parallel columns.
 
-In the center plowed Campbeltown, her two chopped-down funnels trailing thin black coal smoke. Fastened to her stern by a heavy manila towline wallowed MTB 74. Mickey Wynn’s torpedo boat had high-strung, racing-style engines that fouled at low speeds; to save her machinery and fuel for the assault, she was dragged through the swells like an unruly terrier on a leash.
+In the center plowed Campbeltown, her two chopped-down funnels trailing thin black coal smoke. Fastened to her stern by a heavy manila towline wallowed MTB 74. Mickey Wynn's torpedo boat had high-strung, racing-style engines that fouled at low speeds; to save her machinery and fuel for the assault, she was dragged through the swells like an unruly terrier on a leash.
 
 Flanking Campbeltown were the sixteen wooden Fairmile launches, divided into two columns eight cables apart - the 7th Flotilla to port, the 28th to starboard. At the head of the port column rode MGB 314, carrying Ryder, Newman, and the combined headquarters staff.
 
@@ -698,7 +698,7 @@ Keep your breeches clean. Dry the bolts! If the salt gets into the firing pins, 
 NARRATOR
 Aboard Campbeltown, the motion was different—a heavy, shuddering pitch as her knife-like bow sliced through the green water.
 
-In the gutted mess decks forward, eighty commandos of the main assault and demolition parties sat in rows under yellow battle lanterns. They were suspended directly above the concrete slab that sealed the four and a half tons of amatol. Every time the destroyer’s bow plunged into an Atlantic trough, the impact vibrated through the deck plates beneath their boots like an iron sledge striking an anvil.
+In the gutted mess decks forward, eighty commandos of the main assault and demolition parties sat in rows under yellow battle lanterns. They were suspended directly above the concrete slab that sealed the four and a half tons of amatol. Every time the destroyer's bow plunged into an Atlantic trough, the impact vibrated through the deck plates beneath their boots like an iron sledge striking an anvil.
 
 CHANT
 (checking the waterproof tape around the fuses of their Nobel's 808 charges)
@@ -744,7 +744,7 @@ TWEEDIE
 Alarm starboard. Ring on full ahead. Stand by forward four-inch!
 
 NARRATOR
-The destroyer’s twin screws churned the Biscay water into an emerald boil. Her bows rose as she swung hard to port, heel angle sharpening, racing directly toward the contact. Across her foredeck, the gun crew slammed a high-explosive round into the breach of the twin 4-inch mounting.
+The destroyer's twin screws churned the Biscay water into an emerald boil. Her bows rose as she swung hard to port, heel angle sharpening, racing directly toward the contact. Across her foredeck, the gun crew slammed a high-explosive round into the breach of the twin 4-inch mounting.
 
 Crack.
 
@@ -756,7 +756,7 @@ KELBLING
 Fluten! Flood!
 
 NARRATOR
-The Type VIIC boat’s bow planes tilted hard down. The vents hissed violently as negative buoyancy seized the hull. By the time Tynedale’s second shell tore through the air, screaming overhead with a freight-train roar, the conning tower had already dipped beneath the sea, leaving behind only an oily, swirling vortex on the surface.
+The Type VIIC boat's bow planes tilted hard down. The vents hissed violently as negative buoyancy seized the hull. By the time Tynedale's second shell tore through the air, screaming overhead with a freight-train roar, the conning tower had already dipped beneath the sea, leaving behind only an oily, swirling vortex on the surface.
 
 Aboard MGB 314, two miles astern, Ryder and Newman stood side-by-side on the open bridge, their binoculars pressed hard against their eyes.
 
@@ -766,7 +766,7 @@ Is she diving, or did Tweedie hit her?
 
 RYDER
 (flat, stripped of emotion)
-She’s diving. And she was on the surface long enough to count masts.
+She's diving. And she was on the surface long enough to count masts.
 
 NARRATOR
 This was the nightmare the planners in London had feared. A single wireless transmission from an operational U-boat to Befehlshaber der U-Boote (Dönitz's headquarters in Kerneval, Lorient) would bring the entire Luftwaffe and every torpedo boat flotilla on the French coast swarming down on them within two hours.
@@ -781,13 +781,13 @@ No. We alter nothing. The moment we start maneuvering, we tell anyone watching t
 NARRATOR
 Through the cold sea water, the sound traveled with terrifying clarity.
 
-Down in the mess deck of Campbeltown, the soldiers froze. They heard the dull, metallic ping... ping... ping of Tynedale and Atherstone’s Asdic sets striking the U-boat’s pressure hull miles away.
+Down in the mess deck of Campbeltown, the soldiers froze. They heard the dull, metallic ping... ping... ping of Tynedale and Atherstone's Asdic sets striking the U-boat's pressure hull miles away.
 
 Then came the percussion.
 
 THUD. THUD-THUD.
 
-Three deep-water depth charges exploded. Even at two miles' distance, the shockwaves hammer-blowed against Campbeltown’s thin iron plates. In the lower hold, the four and a half tons of amatol sat silent in its concrete tomb, unaffected, but every commando looked instinctively toward the deckhead, their teeth vibrating from the underwater concussions.
+Three deep-water depth charges exploded. Even at two miles' distance, the shockwaves hammer-blowed against Campbeltown's thin iron plates. In the lower hold, the four and a half tons of amatol sat silent in its concrete tomb, unaffected, but every commando looked instinctively toward the deckhead, their teeth vibrating from the underwater concussions.
 
 For ninety minutes, Tynedale and Atherstone worked the contact. They boxed the quadrant, laying patterns of depth charges that sent towering geysers of grey sea and black mud exploding sixty feet into the air.
 
@@ -805,7 +805,7 @@ The task force pushed southward. The silence returned, heavy and oppressive.
 
 What Ryder could not know—what no one on Force Z would learn until after the war—was what happened ninety minutes later, when U-593 finally eased back up to periscope depth.
 
-Kelbling had seen Tynedale’s sharp bows and depth charges. But in the low morning sea haze, the low-profile wooden Fairmiles, sitting barely four feet off the water, had been completely invisible beneath the horizon. Kelbling had seen only British destroyers, steaming fast to the southwest, far out in the Bay of Biscay.
+Kelbling had seen Tynedale's sharp bows and depth charges. But in the low morning sea haze, the low-profile wooden Fairmiles, sitting barely four feet off the water, had been completely invisible beneath the horizon. Kelbling had seen only British destroyers, steaming fast to the southwest, far out in the Bay of Biscay.
 
 When U-593 surfaced at 09:00 to clear her air, Kelbling tapped out a short contact report to headquarters - Three British destroyers sighted. Steering southwest. Presumed anti-submarine sweep.
 
@@ -847,7 +847,7 @@ RYDER
 French. Which means they return to port with the evening tide. If a single one of those skippers mentions to a German harbor master that he saw an armada of motor launches sixty miles off the Loire, every battery from Chémoulin to Mindin will be manned and waiting for us before dark.
 
 NARRATOR
-There was no ambiguity in Ryder’s operational orders from Combined Operations - Secrecy must be preserved at all costs.
+There was no ambiguity in Ryder's operational orders from Combined Operations - Secrecy must be preserved at all costs.
 
 Ryder turned to his signalman.
 
@@ -873,15 +873,15 @@ RYDER
 Take the crews off. All of them. Transfer them to Atherstone and Tynedale. Sink the boats.
 
 NARRATOR
-On the deck of the Deux Tremplins, the old skipper dropped to his knees, clutching the wooden coaming of his hatch. That boat was his family’s livelihood, paid for through thirty years of gutting cod and fighting the Biscay winter. Now, young British sailors were herding him and his boys up the iron scrambling nets of an English warship at gunpoint.
+On the deck of the Deux Tremplins, the old skipper dropped to his knees, clutching the wooden coaming of his hatch. That boat was his family's livelihood, paid for through thirty years of gutting cod and fighting the Biscay winter. Now, young British sailors were herding him and his boys up the iron scrambling nets of an English warship at gunpoint.
 
 RYDER
 Tell them they will be treated as honored guests of the King, and that His Majesty's Government will pay for the replacement of every plank and net after the war. But the boats go to the bottom.
 
 NARRATOR
-Once the frightened Frenchmen were taken below decks on the destroyers—huddled in the mess spaces, clutching mugs of sweet naval tea and Player’s cigarettes—the Royal Navy gunners went to work.
+Once the frightened Frenchmen were taken below decks on the destroyers—huddled in the mess spaces, clutching mugs of sweet naval tea and Player's cigarettes—the Royal Navy gunners went to work.
 
-At point-blank range, Tynedale’s 4-inch guns fired into the wooden waterlines. The high-explosive shells detonated inside the oak hulls, sending sprays of timber, canvas, and salted fish fifty feet into the air. One by one, the four smacks settled into the grey swell, their masts rolling under, leaving behind only patches of foam and scattered cordage.
+At point-blank range, Tynedale's 4-inch guns fired into the wooden waterlines. The high-explosive shells detonated inside the oak hulls, sending sprays of timber, canvas, and salted fish fifty feet into the air. One by one, the four smacks settled into the grey swell, their masts rolling under, leaving behind only patches of foam and scattered cordage.
 
 Aboard the trailing Fairmiles, the commandos lined the rails, watching the wooden hulls disappear beneath the water. The destruction of the fishing boats carried an unmistakable omen - there was no turning back now. The bridges had been burned.
 
@@ -937,25 +937,25 @@ Point 'Z' confirmed, sir. Sturgeon.
 NARRATOR
 There was no hail across the water. Over a calm sea, the human voice carried for miles, and German hydrophone stations at Le Croisic were listening for every unnatural vibration. Absolute silence had been enforced across the flotilla since sunset.
 
-His Majesty’s Submarine Sturgeon, commanded by Lieutenant Mervyn Wingfield, had spent twenty-four hours resting on the continental shelf before blowing her main ballast tanks into the night. Wingfield had fixed his position by stellar sights and bottom-soundings with mathematical precision.
+His Majesty's Submarine Sturgeon, commanded by Lieutenant Mervyn Wingfield, had spent twenty-four hours resting on the continental shelf before blowing her main ballast tanks into the night. Wingfield had fixed his position by stellar sights and bottom-soundings with mathematical precision.
 
 In an estuary where the shoals shifted with every winter gale, Sturgeon was the immovable peg.
 
-Beside Ryder in the chart space, Lieutenant Green pulled back the blackout curtain, took the verified bearing, and laid his parallel rule against the Admiralty chart. The dead reckoning was corrected by barely a cable’s length. The fleet was precisely where it was supposed to be - bearing zero-nine-five degrees, twenty-two miles from the outer mudbanks.
+Beside Ryder in the chart space, Lieutenant Green pulled back the blackout curtain, took the verified bearing, and laid his parallel rule against the Admiralty chart. The dead reckoning was corrected by barely a cable's length. The fleet was precisely where it was supposed to be - bearing zero-nine-five degrees, twenty-two miles from the outer mudbanks.
 
-As MGB 314 drifted past the submarine’s flank, a man could be seen standing on Sturgeon’s casing, his oilskins glistening with spray. He did not wave. He gave a single, slow nod toward the bridge of the gunboat.
+As MGB 314 drifted past the submarine's flank, a man could be seen standing on Sturgeon's casing, his oilskins glistening with spray. He did not wave. He gave a single, slow nod toward the bridge of the gunboat.
 
-Behind him, Sturgeon’s ballast vents breathed with a sharp, suppressed hiss. Foam washed over the casing. Without a sound, the submarine slipped under the flat surface of the sea, her conning tower dipping below the swells until the black water closed over her.
+Behind him, Sturgeon's ballast vents breathed with a sharp, suppressed hiss. Foam washed over the casing. Without a sound, the submarine slipped under the flat surface of the sea, her conning tower dipping below the swells until the black water closed over her.
 
 Now came the final cut.
 
 HMS Atherstone and HMS Tynedale had reached their operational limit. With their fifteen-foot draught and high silhouettes, the two Hunt-class destroyers could not follow the shallow-draught force into the winding approaches of the Loire without grounding. Their duty was to withdraw to an offshore patrol line forty miles to seaward, watch for German sorties out of Brest, and wait for the survivors at dawn.
 
-From Atherstone’s bridge, a single, hooded white blinker flashed once into the dark - an acknowledgment of parting.
+From Atherstone's bridge, a single, hooded white blinker flashed once into the dark - an acknowledgment of parting.
 
 Ryder acknowledged with a tap of his red lamp.
 
-The two destroyers turned their wheels hard over. Their sharp bows sliced the water as they leaned into the turn, their twin screws leaving pale trails of phosphorescence that died behind them. The distant, comforting vibration of their steam turbines faded into the western gloom, severing the raiders’ last physical link to the Royal Navy.
+The two destroyers turned their wheels hard over. Their sharp bows sliced the water as they leaned into the turn, their twin screws leaving pale trails of phosphorescence that died behind them. The distant, comforting vibration of their steam turbines faded into the western gloom, severing the raiders' last physical link to the Royal Navy.
 
 Force Z was entirely alone.
 
@@ -979,7 +979,7 @@ GREEN
 Twenty-three hundred hours, sir. Soundings are falling. We are crossing onto the flats.
 
 NARRATOR
-Below Campbeltown’s keel, the ocean floor was rising like a wall.
+Below Campbeltown's keel, the ocean floor was rising like a wall.
 
 
 
@@ -1008,7 +1008,7 @@ As Seekommandant Loire, Mecke was responsible for the defense of the naval base.
 
 This was not a bombing raid.
 
-Reports from the radar plots and sound-locating posts came in over the bunker’s switchboard - single aircraft flying isolated orbits; long intervals of silence broken by a single engine overhead; sporadic single bombs falling miles away from the submarine pens or the dry docks.
+Reports from the radar plots and sound-locating posts came in over the bunker's switchboard - single aircraft flying isolated orbits; long intervals of silence broken by a single engine overhead; sporadic single bombs falling miles away from the submarine pens or the dry docks.
 
 Mecke examined the harbor defense charts.
 
@@ -1053,7 +1053,7 @@ RYDER
 Ring on fifteen knots.
 
 NARRATOR
-Down in the small engine space, the throttles of the three supercharged Packard engines were eased forward. The exhaust pitch shifted from a muffled gurgle to a hard, hollow roar that beat against the low water. Behind the gunboat, Campbeltown’s coal-fired boilers answered, a plume of dark, greasy smoke tumbling from her two raked funnels as her twin screws bit deep.
+Down in the small engine space, the throttles of the three supercharged Packard engines were eased forward. The exhaust pitch shifted from a muffled gurgle to a hard, hollow roar that beat against the low water. Behind the gunboat, Campbeltown's coal-fired boilers answered, a plume of dark, greasy smoke tumbling from her two raked funnels as her twin screws bit deep.
 
 The sixteen wooden launches formed up tight on either quarter, their bow waves throwing twin blades of phosphorescent spray into the blackness.
 
@@ -1128,7 +1128,7 @@ The Inner Loire, off Villès-Martin
 
 Leading Signalman Pike did not blink against the blue-white glare of the carbon-arcs.
 
-Kneeling on the steel grating of MGB 314’s bridge, he aimed his Aldis lamp directly into the blinding center of the German projector at Villès-Martin. His thumb worked the mechanical shutter lever with rhythmic, staccato snaps.
+Kneeling on the steel grating of MGB 314's bridge, he aimed his Aldis lamp directly into the blinding center of the German projector at Villès-Martin. His thumb worked the mechanical shutter lever with rhythmic, staccato snaps.
 
 Clack-clack. Clack. Clack-clack-clack.
 
@@ -1136,11 +1136,11 @@ He flashed the German naval recognition letter for the day—a single character 
 
 Across the water, the German signal lamp abruptly stopped its frantic questioning. The white beam from Villès-Martin remained pinned to Campbeltown, but the shutters ceased rattling.
 
-Two miles to the south, on the Mindin bank, an 88mm coastal battery commander was not satisfied. A muzzle flash—broad, orange, and violent—lit the southern marshland. Three seconds later, the high-velocity scream of a heavy shell tore through the air, punching a geyser of white brine into the river eighty yards off Campbeltown’s starboard quarter.
+Two miles to the south, on the Mindin bank, an 88mm coastal battery commander was not satisfied. A muzzle flash—broad, orange, and violent—lit the southern marshland. Three seconds later, the high-velocity scream of a heavy shell tore through the air, punching a geyser of white brine into the river eighty yards off Campbeltown's starboard quarter.
 
 The geyser collapsed over the deck of ML 267, drenching the prone commandos in freezing, brackish water.
 
-Pike didn't wait for Ryder’s order. He hammered the shutter again, transmitting rapid, flawless German Morse:
+Pike didn't wait for Ryder's order. He hammered the shutter again, transmitting rapid, flawless German Morse:
 
 PIKE
 WAIT. SHIP UNDER FIRE FROM FRIENDLY COASTAL ARTILLERY. PROCEEDING TO HARBOR.
@@ -1167,7 +1167,7 @@ Ahead of them, the river opened into the broad basin of the Avant-Port. The mass
 
 01:24.
 
-A single 20mm FlaK gun from a wooden flak-ship moored near the channel fired a tentative, three-round burst of red tracers. The incandescent beads stitched across Campbeltown’s wake, hissing into the dark water.
+A single 20mm FlaK gun from a wooden flak-ship moored near the channel fired a tentative, three-round burst of red tracers. The incandescent beads stitched across Campbeltown's wake, hissing into the dark water.
 
 Pike instantly jammed his shutter down again. He didn't send a code. He sent pure German panic:
 
@@ -1196,7 +1196,7 @@ NARRATOR
 
 In the bunker at Villès-Martin, the telephone receiver buzzed furiously. The watch officer clamped it to his ear.
 
-It was Seekommandant Mecke’s central plotting room in Saint-Nazaire.
+It was Seekommandant Mecke's central plotting room in Saint-Nazaire.
 
 PLOTTING OFFICER
 (barking from the harbor headquarters)
@@ -1231,7 +1231,7 @@ The Estuary Ignites
 The Loire Channel, Approaching the Avant-Port
 28 March 1942, 01:28 – 01:33
 
-A star-shell burst directly over Campbeltown’s mainmast, bathing the river in a harsh, cold magnesium daylight.
+A star-shell burst directly over Campbeltown's mainmast, bathing the river in a harsh, cold magnesium daylight.
 
 At 01:28, the bluff died.
 
@@ -1244,7 +1244,7 @@ Strike the German flag. Hoist the White Ensign. Ring on maximum revolutions.
 NARRATOR
 A signal rating hauled on the halliards, clearing the Kriegsmarine banner from the mainmast. In its place, a six-foot White Ensign shot to the truck, snapping straight in the backdraft of the funnels.
 
-Below decks, Chief Engine Room Artificer Howard pushed the boiler forced-draft fans to their absolute limits. The forced draught screamed through the uptake vents. Black coal smoke poured from the two raked funnels as Campbeltown’s twin screws bit deep into the channel, her speed climbing from fifteen knots to nearly twenty.
+Below decks, Chief Engine Room Artificer Howard pushed the boiler forced-draft fans to their absolute limits. The forced draught screamed through the uptake vents. Black coal smoke poured from the two raked funnels as Campbeltown's twin screws bit deep into the channel, her speed climbing from fifteen knots to nearly twenty.
 
 Across her decks, the British guns engaged.
 
@@ -1258,7 +1258,7 @@ The tank detonated in an eighty-foot column of orange flame. The concussion push
 
 Still, the formation drove forward.
 
-Inside Campbeltown’s armored wheelhouse, automatic fire hammered the quarter-inch steel plates like a hailstorm. High-explosive splinters sprayed through the narrow vision slits.
+Inside Campbeltown's armored wheelhouse, automatic fire hammered the quarter-inch steel plates like a hailstorm. High-explosive splinters sprayed through the narrow vision slits.
 
 The quartermaster at the wheel was struck in the chest, collapsing backward across the deckplates.
 
@@ -1284,7 +1284,7 @@ Fifty yards ahead, the anti-torpedo boom—a heavy barrier of timber balks and i
 
 Campbeltown hit the boom at nineteen knots.
 
-The steel wire screamed against the destroyer’s stem, snapping under thousands of tons of momentum. The heavy timber balks shattered, spinning away into the foam, and the ship cut clean through into the Avant-Port basin without losing speed.
+The steel wire screamed against the destroyer's stem, snapping under thousands of tons of momentum. The heavy timber balks shattered, spinning away into the foam, and the ship cut clean through into the Avant-Port basin without losing speed.
 
 Ahead, less than two hundred yards away, the massive granite and steel face of the Normandie Dock outer caisson rose out of the water.
 
@@ -1304,11 +1304,11 @@ Normandie Dock Outer Caisson, Saint-Nazaire
 
 The stem of HMS Campbeltown struck the outer caisson of the Normandie Dock at nineteen knots.
 
-There was no immediate halt, but a prolonged, tearing screech of structural failure that lasted three full seconds. The destroyer’s knife-edge prow hit the heavy steel caisson three feet above the low-water mark. The caisson’s outer plating bowed inward under the two-thousand-ton impact, and the first thirty-three feet of the destroyer’s bow concertinaed backward, frames snapping and deck plates shearing along their rivet lines.
+There was no immediate halt, but a prolonged, tearing screech of structural failure that lasted three full seconds. The destroyer's knife-edge prow hit the heavy steel caisson three feet above the low-water mark. The caisson's outer plating bowed inward under the two-thousand-ton impact, and the first thirty-three feet of the destroyer's bow concertinaed backward, frames snapping and deck plates shearing along their rivet lines.
 
 The forward anchor windlass was wrenched from the deck and thrown into the forward mess deck.
 
-As the bow crumpled, the hull climbed. Riding up on the crushed apron of the caisson, Campbeltown’s forecastle lifted six feet into the air, grinding to a halt with her keel wedged firmly into the crushed ironwork of the dock gate.
+As the bow crumpled, the hull climbed. Riding up on the crushed apron of the caisson, Campbeltown's forecastle lifted six feet into the air, grinding to a halt with her keel wedged firmly into the crushed ironwork of the dock gate.
 
 Directly behind the buckled stem, the four-and-a-quarter-ton block of amatol, locked inside its concrete vault, remained intact. The collision wedged the explosives flush against the steel framework of the caisson.
 
@@ -1329,7 +1329,7 @@ Down in the suffocating heat of the boiler room, Chief Howard and his stokers pu
 
 In the forward mess deck, eighty commandos untangled themselves from the deck ribs. Men had suffered broken ribs, split lips, and sprained wrists from the deceleration, but the crumple zone of the bows had absorbed the worst of the shock.
 
-Major William Copland, the military force’s second-in-command, stood by the ladder.
+Major William Copland, the military force's second-in-command, stood by the ladder.
 
 COPLAND
 On your feet. Get the nets over.
@@ -1347,7 +1347,7 @@ Roy led his assault party over the crushed rail, dropping eight feet onto the ca
 
 The commandos engaged immediately, firing short bursts on the move into the German machine-gun pit at the southern corner of the gate. Two German sentries were killed on the walkway; a third broke and fled north toward the shelter of the pump house.
 
-Behind Roy’s assault troops, Captain Bob Montgomery emerged onto the upper deck, leading the Royal Engineers demolition teams. Behind them, Lieutenant Stuart Chant limped toward the scrambling net, dragging a leg injured by shell splinters during the river run-in, his rucksack heavy with Nobel’s 808.
+Behind Roy's assault troops, Captain Bob Montgomery emerged onto the upper deck, leading the Royal Engineers demolition teams. Behind them, Lieutenant Stuart Chant limped toward the scrambling net, dragging a leg injured by shell splinters during the river run-in, his rucksack heavy with Nobel's 808.
 
 Campbeltown was dead in the gate.
 
@@ -1366,7 +1366,7 @@ The bamboo scaling ladders clattered against the caisson plating.
 
 Over the crushed forecastle rail of Campbeltown, Captain Donald Roy and the six men of his assault party dropped eight feet onto the wet steel deck of the gate. They wore rubber-soled plimsolls that squeaked on the damp plating, dark cap comforters pulled low over their ears, and carried Thompson submachine guns slung short across their chests.
 
-The caisson was forty feet wide - a roadway of riveted steel spanning the entrance of the dry dock. At its southern root, nestled against the granite quay wall, an MG 34 machine-gun nest was raking the destroyer’s upper works.
+The caisson was forty feet wide - a roadway of riveted steel spanning the entrance of the dry dock. At its southern root, nestled against the granite quay wall, an MG 34 machine-gun nest was raking the destroyer's upper works.
 
 Roy didn't shout. He signaled with a flat chop of his hand.
 
@@ -1374,17 +1374,17 @@ Two commandos went down on their bellies behind the iron curb of the walkway, th
 
 The grenade detonated with a sharp, heavy thud. The German machine gun died.
 
-At the caisson’s northern hinge, Lieutenant Mallinson Denison’s assault party was already over the side. Their task was to secure the northern bridgehead and suppress the 20mm FlaK tower standing on the corner of the quay.
+At the caisson's northern hinge, Lieutenant Mallinson Denison's assault party was already over the side. Their task was to secure the northern bridgehead and suppress the 20mm FlaK tower standing on the corner of the quay.
 
-Tracer fire from the flak tower was cutting horizontally across the lock entrance, chewing through the wooden dodgers on Campbeltown’s bridge. Denison led his men across the caisson in a crouching run, engaging German sentries from the harbor defense battalion who were attempting to deploy from the shelter of the railway crane tracks.
+Tracer fire from the flak tower was cutting horizontally across the lock entrance, chewing through the wooden dodgers on Campbeltown's bridge. Denison led his men across the caisson in a crouching run, engaging German sentries from the harbor defense battalion who were attempting to deploy from the shelter of the railway crane tracks.
 
 Behind the assault parties came the protection teams and the demolition parties.
 
-Lieutenant Gerard Brett, commanding the protection group assigned to cover the demolition of the southern installations, swung over Campbeltown’s guardrail onto the caisson. As his feet hit the steel walkway, a burst of rifle fire cracked from a darkened warehouse window fifty yards away.
+Lieutenant Gerard Brett, commanding the protection group assigned to cover the demolition of the southern installations, swung over Campbeltown's guardrail onto the caisson. As his feet hit the steel walkway, a burst of rifle fire cracked from a darkened warehouse window fifty yards away.
 
-Two 7.92mm rounds tore through Brett’s ankles.
+Two 7.92mm rounds tore through Brett's ankles.
 
-The impact smashed the bones, dropping him flat onto the bloody iron deck. A corporal reached down to drag him back toward the ship’s scuppers, but Brett knocked the man’s hand away. Propping his back against the low steel coaming of the caisson, his legs useless and bleeding into his boots, Brett leveled his service revolver toward the quayside crane tracks.
+The impact smashed the bones, dropping him flat onto the bloody iron deck. A corporal reached down to drag him back toward the ship's scuppers, but Brett knocked the man's hand away. Propping his back against the low steel coaming of the caisson, his legs useless and bleeding into his boots, Brett leveled his service revolver toward the quayside crane tracks.
 
 BRETT
 (voice tight with pain)
@@ -1393,12 +1393,12 @@ Leave me. Get the sappers across. I can see the tracks from here.
 NARRATOR
 Across the shaking bamboo ladders came the Royal Engineers.
 
-These men moved slowly, encumbered by ninety-pound rucksacks packed with Nobel’s 808 plastic explosive, coils of Cordtex, sledgehammers, and galvanometers. Each man understood that a single stray tracer hitting the primer detonators in their chest pouches would tear him and everyone within five yards to pieces.
+These men moved slowly, encumbered by ninety-pound rucksacks packed with Nobel's 808 plastic explosive, coils of Cordtex, sledgehammers, and galvanometers. Each man understood that a single stray tracer hitting the primer detonators in their chest pouches would tear him and everyone within five yards to pieces.
 
 Captain Bob Montgomery stood at the foot of the ladders on the caisson, checking each demolition leader off as they touched down.
 
 MONTGOMERY
-(pointing into the gloom beyond the caisson’s northern root)
+(pointing into the gloom beyond the caisson's northern root)
 Smalley, take your team to the north winding house. Burtenshaw, south winding house. Keep off the open crane rails—the sniper in the brick warehouse is still active.
 
 SMALLEY
@@ -1409,7 +1409,7 @@ He signaled his three demolition sappers, and they vanished into the darkness al
 
 Then came Demolition Team Number One.
 
-Lieutenant Stuart Chant swung awkwardly down the scrambling net. During the river run-in, while standing on Campbeltown’s deck, a piece of shell splinter had sliced through his right arm, and another fragment had gouged deeply into his knee. He had refused morphine on the run-in because it would dull his thinking; now, his right leg was stiffening rapidly, his trousers soaked through with dark blood.
+Lieutenant Stuart Chant swung awkwardly down the scrambling net. During the river run-in, while standing on Campbeltown's deck, a piece of shell splinter had sliced through his right arm, and another fragment had gouged deeply into his knee. He had refused morphine on the run-in because it would dull his thinking; now, his right leg was stiffening rapidly, his trousers soaked through with dark blood.
 
 He dropped onto the caisson, his knee buckling beneath the weight of his explosive-laden pack.
 
@@ -1473,7 +1473,7 @@ CHANT
 Team one, main pump housings. Team two, auxiliary drainers and motor shafts. Lay them exactly as practiced at Southampton.
 
 NARRATOR
-The sappers did not waste a motion. They slipped the ninety-pound canvas rucksacks from their shoulders, unbuckling the straps to reveal neat, paper-wrapped slabs of Nobel’s 808 plastic explosive. The sharp scent of bitter almonds quickly overpowered the smell of engine grease.
+The sappers did not waste a motion. They slipped the ninety-pound canvas rucksacks from their shoulders, unbuckling the straps to reveal neat, paper-wrapped slabs of Nobel's 808 plastic explosive. The sharp scent of bitter almonds quickly overpowered the smell of engine grease.
 
 Working entirely by the dim crimson circle of the torch, Corporal Gough and Lance-Sergeant Chamberlain slapped the malleable, yellowish explosive directly onto the pump casings. They pressed the blocks into the narrow gaps between the impeller housings and the discharge culverts—the point of maximum mechanical stress.
 
@@ -1483,7 +1483,7 @@ Chant knelt on the damp concrete floor, cradling a reel of Cordtex against his c
 
 Above their heads, the heavy concrete ceiling reverberated with a rapid, muffled series of explosions.
 
-Small chips of whitewash drifted down through the darkness, settling on Chant’s cap comforter. Out on the quay, German mortar rounds were falling around the caisson, and the chattering roar of Bren guns indicated that Roy’s assault troops were fighting to hold the perimeter.
+Small chips of whitewash drifted down through the darkness, settling on Chant's cap comforter. Out on the quay, German mortar rounds were falling around the caisson, and the chattering roar of Bren guns indicated that Roy's assault troops were fighting to hold the perimeter.
 
 CHAMBERLAIN
 (stepping back from the second impeller)
@@ -1524,13 +1524,13 @@ CHANT
 Go.
 
 NARRATOR
-Dockerill reached under Chant’s left arm, hooking his shoulder to take half the officer's weight. Together, they hit the spiral staircase.
+Dockerill reached under Chant's left arm, hooking his shoulder to take half the officer's weight. Together, they hit the spiral staircase.
 
 The climb was agony. With every upward step, Chant had to drag his locked right leg onto the next tread, his boot slipping in the grease. His breath came in ragged, wheezing gasps. The hiss of the burning fuses below them echoed up the iron shaft, a steady, terrifying whisper of running time.
 
 Ten steps. Twenty steps.
 
-Chant’s vision blurred at the edges as blood loss caught up with him.
+Chant's vision blurred at the edges as blood loss caught up with him.
 
 CHANT
 Leave me, Dockerill. Clear the door.
@@ -1546,7 +1546,7 @@ The ninety seconds expired.
 
 Deep within the earth, the forty-pound charges detonated in a single, simultaneous shockwave.
 
-The ground beneath the quayside heaved upward three inches. A dull, concussive CRUMP tore through the concrete, followed instantly by a prolonged roar of shattering cast iron as the pump casings blew apart. A blast of superheated air, pulverized brick dust, and fragmented iron pipes erupted forty feet into the night sky from the station’s ventilation louvers.
+The ground beneath the quayside heaved upward three inches. A dull, concussive CRUMP tore through the concrete, followed instantly by a prolonged roar of shattering cast iron as the pump casings blew apart. A blast of superheated air, pulverized brick dust, and fragmented iron pipes erupted forty feet into the night sky from the station's ventilation louvers.
 
 Inside the subterranean chamber, thirty-ton pump castings were split into jagged iron shards, and forty feet of high-pressure culverts collapsed inward under the vacuum of the blast.
 
@@ -1565,17 +1565,17 @@ Winding Houses and Winches
 Normandie Dock, North and South Quays
 28 March 1942, 01:50 – 02:15
 
-The subterranean shockwave from Chant’s detonation rumbled through the granite coping stones, vibrating up through the soles of Captain Bob Montgomery’s boots.
+The subterranean shockwave from Chant's detonation rumbled through the granite coping stones, vibrating up through the soles of Captain Bob Montgomery's boots.
 
 Montgomery stood on the western lip of the dock, his face illuminated by the burning upper works of Campbeltown. The destruction of the pumps guaranteed the dock could not be emptied. Now, the caissons—the two massive floating steel gates at the north and south ends that sealed the basin—had to be permanently immobilized.
 
-Fifty yards from where Campbeltown’s buckled bow remained wedged into the gate stood the South Winding House.
+Fifty yards from where Campbeltown's buckled bow remained wedged into the gate stood the South Winding House.
 
 Inside this reinforced concrete shed sat the heavy industrial heart of the outer entrance - colossal grooved winding drums, multi-ton reduction gears, and electric drive motors connected to heavy steel chains that dragged the forty-foot-wide caisson into its housing recess.
 
 Lieutenant Christopher Smalley and his four-man demolition team from No. 5 Commando were already inside.
 
-Working in the dark, they had plastered slabs of Nobel’s 808 directly onto the drive shafts, the cast-iron gear teeth, and the cable drums, lacing the explosives with Cordtex. But as Smalley pulled the friction igniter, the fuse failed to catch. There was no hiss, no smoke.
+Working in the dark, they had plastered slabs of Nobel's 808 directly onto the drive shafts, the cast-iron gear teeth, and the cable drums, lacing the explosives with Cordtex. But as Smalley pulled the friction igniter, the fuse failed to catch. There was no hiss, no smoke.
 
 Outside, German rifle fire was chipping concrete splinters from the doorway.
 
@@ -1591,11 +1591,11 @@ The reinforced concrete walls bulged and cracked, and the roof lifted three feet
 
 Eleven hundred feet to the north, at the far end of the gigantic basin, another demolition team was at work.
 
-Lieutenant Corran Purdon had led his party on a dead sprint along the narrow western apron of the dry dock, dodging German tracer fire coming from the flak towers atop the distant submarine pens. With him was Lieutenant Robert Burtinshaw. Burtinshaw’s original mission—to destroy the outer caisson with hand-placed charges if Campbeltown failed to ram—was redundant the moment Beattie drove the destroyer home. Without missing a beat, Burtinshaw had swung his men north to reinforce Purdon’s assault on the Inner Caisson.
+Lieutenant Corran Purdon had led his party on a dead sprint along the narrow western apron of the dry dock, dodging German tracer fire coming from the flak towers atop the distant submarine pens. With him was Lieutenant Robert Burtinshaw. Burtinshaw's original mission—to destroy the outer caisson with hand-placed charges if Campbeltown failed to ram—was redundant the moment Beattie drove the destroyer home. Without missing a beat, Burtinshaw had swung his men north to reinforce Purdon's assault on the Inner Caisson.
 
 They reached the North Winding House, which controlled the gate separating the Normandie Dock from the non-tidal Bassin de Saint-Nazaire.
 
-The steel door was locked. Purdon’s men took turns swinging a heavy sledgehammer against the lock until the latch sheared off with a deafening ring.
+The steel door was locked. Purdon's men took turns swinging a heavy sledgehammer against the lock until the latch sheared off with a deafening ring.
 
 Inside, the machinery mirrored the southern station. Purdon, Burtinshaw, and their sappers packed sixty pounds of plastic explosive into the gear teeth and around the main electric motors. They set their ninety-second fuses, lit the cords, and sprinted back down the western wall toward the bridgehead.
 
@@ -1636,13 +1636,13 @@ The River Loire, off the Old Mole
 
 Four hundred yards south of the Normandie Dock, jutting two hundred feet into the Loire like an outstretched stone finger, lay the Old Mole—La Vieille Jetée.
 
-At its tip stood a small stone lighthouse and a concrete pillbox; along its spine ran a flight of granite slipway steps leading down to the water. In Commander Ryder’s operational plan, this narrow stone jetty was the linchpin of survival - it was the primary embarkation point where the entire commando force was supposed to reboard the launches after completing their demolitions.
+At its tip stood a small stone lighthouse and a concrete pillbox; along its spine ran a flight of granite slipway steps leading down to the water. In Commander Ryder's operational plan, this narrow stone jetty was the linchpin of survival - it was the primary embarkation point where the entire commando force was supposed to reboard the launches after completing their demolitions.
 
 To secure it, six Fairmile launches had been ordered to storm the jetty steps, disembark assault teams to clear the German pillboxes, and hold the stone pier as an open gate to the sea.
 
 Instead, it became an abattoir.
 
-The German harbor defense companies and the flak crews atop the submarine pens had zeroed their automatic weapons onto the slipway with interlocking fields of fire. The moment the wooden launches peeled away from Campbeltown’s wake and turned toward the stone jetty, they entered a focused funnel of high-explosive 20mm and 37mm cannon fire.
+The German harbor defense companies and the flak crews atop the submarine pens had zeroed their automatic weapons onto the slipway with interlocking fields of fire. The moment the wooden launches peeled away from Campbeltown's wake and turned toward the stone jetty, they entered a focused funnel of high-explosive 20mm and 37mm cannon fire.
 
 Leading the assault was ML 447, commanded by Lieutenant T.D.L. Platt, RNR. On her open deck stood Captain David Birney and Lieutenant Bill Clibborn, leading the assault party from No. 1 Troop tasked with clearing the mole.
 
@@ -1658,18 +1658,18 @@ Platt, bleeding from multiple splinter wounds, threw the engines into reverse, b
 
 Directly behind the dying ML 447 came ML 457, skippered by Lieutenant Tom Collier, RNVR.
 
-Collier did not turn away. Dodging floating debris and blazing patches of fuel, he drove ML 457’s stem hard against the granite steps of the Old Mole.
+Collier did not turn away. Dodging floating debris and blazing patches of fuel, he drove ML 457's stem hard against the granite steps of the Old Mole.
 
-On her deck stood Captain Bill Pritchard, Royal Engineers—the brilliant instructor who had designed every demolition recipe for the raid—along with Lieutenant Philip Walton’s demolition team and Second Lieutenant Bill "Tiger" Watson’s protection party.
+On her deck stood Captain Bill Pritchard, Royal Engineers—the brilliant instructor who had designed every demolition recipe for the raid—along with Lieutenant Philip Walton's demolition team and Second Lieutenant Bill "Tiger" Watson's protection party.
 
 PRITCHARD
 (yelling as the timber gunwale ground against the stone)
 Go!
 
 NARRATOR
-Watson and his men vaulted across the gunwale onto the slippery granite steps, Thompsons blazing into the dark. Walton’s demolition sappers scrambled up behind them, hauling their rucksacks of plastic explosive onto the jetty.
+Watson and his men vaulted across the gunwale onto the slippery granite steps, Thompsons blazing into the dark. Walton's demolition sappers scrambled up behind them, hauling their rucksacks of plastic explosive onto the jetty.
 
-Collier’s crew held ML 457 against the stonework under point-blank rifle and machine-gun fire. It was the only launch of the entire flotilla to successfully land its assault troops at the Old Mole.
+Collier's crew held ML 457 against the stonework under point-blank rifle and machine-gun fire. It was the only launch of the entire flotilla to successfully land its assault troops at the Old Mole.
 
 Collier had strict orders to wait and extract the men. But as the launch idled against the steps, German guns on the East Jetty found her range. Shell after shell tore through her wooden hull, splintering the frames and setting the engine compartment ablaze. Collier refused to withdraw until his boat was shot out from underneath him; she began taking water through dozens of shell holes, eventually drifting into the river, where Collier and six of his ratings were killed as she went down.
 
@@ -1696,11 +1696,11 @@ The Old Entrance (Vieille Entrée), Saint-Nazaire
 
 Three hundred yards upriver from the butchery at the Old Mole, the river opened into the narrow channel of the Old Entrance—the original tidal lock leading into the Saint-Nazaire basin.
 
-Here, the second column of Fairmiles was tasked with landing the demolition teams assigned to blow the outer lock gates, destroy the hydraulic swing bridge, and extract Campbeltown’s naval crew.
+Here, the second column of Fairmiles was tasked with landing the demolition teams assigned to blow the outer lock gates, destroy the hydraulic swing bridge, and extract Campbeltown's naval crew.
 
 Leading the line was ML 192, skippered by Lieutenant Commander Bill Stephens, RNVR, senior officer of the 20th Motor Launch Flotilla. On her deck stood Captain Michael "Micky" Burn and fourteen commandos of No. 6 Troop.
 
-Before Campbeltown’s bow had even struck the Normandie caisson, ML 192 was caught in the converged beams of three searchlights. A high-explosive shell from a shore battery punched clean through the port side into the engine space, severing the fuel feeds and smashing the main cooling system.
+Before Campbeltown's bow had even struck the Normandie caisson, ML 192 was caught in the converged beams of three searchlights. A high-explosive shell from a shore battery punched clean through the port side into the engine space, severing the fuel feeds and smashing the main cooling system.
 
 The launch lost power instantly. She drifted helplessly on the four-knot current, spinning broadside until her timber bow crunched against the stone wall of the East Jetty. Machine-gun fire from a fortified customs shed raked the length of the wooden deck. Four sailors and eight commandos were killed or mortally wounded within sixty seconds.
 
@@ -1710,7 +1710,7 @@ Micky Burn, armed only with a Colt .45 pistol and wounded three times by bullet 
 
 Behind the drifting wreck of ML 192, the column fractured.
 
-Lieutenant Ted Burt in ML 262 and Lieutenant E.H. Beart in ML 267 were blinded by the glare and forced to throw their wheels hard over to avoid colliding with Stephens’s dying vessel. Both launches overshot the narrow entrance, racing past the lock in the crossfire before their skippers could wrestle them around in the swirling river currents.
+Lieutenant Ted Burt in ML 262 and Lieutenant E.H. Beart in ML 267 were blinded by the glare and forced to throw their wheels hard over to avoid colliding with Stephens's dying vessel. Both launches overshot the narrow entrance, racing past the lock in the crossfire before their skippers could wrestle them around in the swirling river currents.
 
 Then came ML 268.
 
@@ -1732,13 +1732,13 @@ Behind the burning slick of ML 268, Lieutenant Leslie Fenton brought ML 156 towa
 
 Amidst the slaughter, a single wooden launch made it through.
 
-Sub-Lieutenant Mark Rodier, twenty-one years old, brought ML 177 through the smoke and floating debris. Ignoring the tracer fire lashing the river, Rodier handled the craft with extraordinary precision, gliding past the burning remains of Tillie’s launch and laying his wooden port bow gently against the stone slipway of the Old Entrance.
+Sub-Lieutenant Mark Rodier, twenty-one years old, brought ML 177 through the smoke and floating debris. Ignoring the tracer fire lashing the river, Rodier handled the craft with extraordinary precision, gliding past the burning remains of Tillie's launch and laying his wooden port bow gently against the stone slipway of the Old Entrance.
 
 His commandos scrambled ashore in seconds, vanishing along the quay to blow the swing-bridge controls.
 
 Then Rodier saw the men coming along the granite apron from the direction of the Normandie Dock.
 
-They were Royal Navy ratings—survivors of Campbeltown’s steaming watch and forward gun crews, many of them burned or bleeding from shrapnel, led by their officers.
+They were Royal Navy ratings—survivors of Campbeltown's steaming watch and forward gun crews, many of them burned or bleeding from shrapnel, led by their officers.
 
 Rodier didn't shove off into the river to save his ship. He held ML 177 against the stone steps with his twin engines, keeping her steady in the crossfire. His deckhands hauled thirty wounded sailors and commandos over the wooden gunwales, packing them into the narrow cabin spaces and laying them along the deck.
 
@@ -1746,7 +1746,7 @@ Rodier looked up at the burning skyline of the port. The river was an inferno, a
 
 He threw his screws into reverse, backing out of the stone mouth to begin the impossible run back down the Loire.
 
-Out in the basin, Commander Ryder’s MGB 314 was circling through the smoke, her lone forward gunner fighting an entire fortress to buy the dying launches time.
+Out in the basin, Commander Ryder's MGB 314 was circling through the smoke, her lone forward gunner fighting an entire fortress to buy the dying launches time.
 
 
 
@@ -1777,7 +1777,7 @@ Thump-thump-thump-thump.
 
 Working the elevation and training wheels with mechanical rhythm, Savage engaged the shore positions. He sent streams of 40mm shells directly into the carbon-arc projector on the East Jetty, shattering the parabolic mirror in a cascade of blue-white electrical sparks and putting the light out. Swinging his barrels to port, he poured high-explosive fire into a sandbagged machine-gun post near the customs shed, suppressing the position and allowing commandos ashore to maneuver along the quay.
 
-Ten feet behind him, the crossfire was gutting MGB 314’s unarmored bridge.
+Ten feet behind him, the crossfire was gutting MGB 314's unarmored bridge.
 
 Splinters and high-velocity bullets tore through the mahogany wind-deflectors and severed the electrical looms. Lieutenant Green was struck by shell fragments, collapsing over the chart table with severe wounds. Leading Signalman Pike was hit moments later. Ratings crumpled across the open grating. Ryder, standing fully upright with his binoculars raised, was spattered with the blood of the men around him, yet by sheer freak of trajectory remained unwounded.
 
@@ -1816,17 +1816,17 @@ His primary mission—to torpedo the Normandie caisson if Campbeltown ran agroun
 
 The target was a pair of heavy, double-leafed steel gates that held the water in the Saint-Nazaire basin during the ebb tide.
 
-Wynn throttled back to steerage way as he approached the entrance. The sudden drop in speed settled MTB 74’s stern into the water, silencing the hull's hard slapping against the chop. Across the narrow throat of the lock, the Germans had strung a steel anti-torpedo net to stop surface weapons.
+Wynn throttled back to steerage way as he approached the entrance. The sudden drop in speed settled MTB 74's stern into the water, silencing the hull's hard slapping against the chop. Across the narrow throat of the lock, the Germans had strung a steel anti-torpedo net to stop surface weapons.
 
-To defeat that barrier, MTB 74’s weapons were unique.
+To defeat that barrier, MTB 74's weapons were unique.
 
 Her two 18-inch torpedoes were not mounted in standard waist discharge collars; they sat in specially fabricated cradles high on the forecastle, tilted forward and angled slightly downward so they would fire over the top of the boom nets. Inside their warheads, the impact pistols had been removed. In their place were sixty-hour clockwork delay mechanisms designed by naval ordnance at Portsmouth.
 
-Wynn’s orders were to fire them directly into the granite sill at the base of the gates, where they would sink into the estuarine mud and wait until Monday morning.
+Wynn's orders were to fire them directly into the granite sill at the base of the gates, where they would sink into the estuarine mud and wait until Monday morning.
 
 Fifty yards from the entrance, two German machine guns on the East Jetty opened fire.
 
-Tracers slashed through the air, punching a row of clean, splintered holes through the mahogany coaming inches from Wynn’s knee. A bullet clipped the rim of his steel helmet, jerking his head back, but his hands stayed locked on the wheel.
+Tracers slashed through the air, punching a row of clean, splintered holes through the mahogany coaming inches from Wynn's knee. A bullet clipped the rim of his steel helmet, jerking his head back, but his hands stayed locked on the wheel.
 
 WYNN
 (shouting to his torpedo rating on the foredeck)
@@ -1855,7 +1855,7 @@ Wynn threw the throttles forward. The Packards roared, their superchargers whini
 
 As the craft swung in the basin, Wynn cut his speed. In the light of a nearby burning launch, he saw men in the water.
 
-They were swimming in lifebelts, their faces black with oil, clinging to the sides of a punctured Carley raft. Others were treading water beside the granite jetty wall—survivors from the sunken launches and wounded sailors from Campbeltown’s forward gun crews who had been cut off from the main landing parties.
+They were swimming in lifebelts, their faces black with oil, clinging to the sides of a punctured Carley raft. Others were treading water beside the granite jetty wall—survivors from the sunken launches and wounded sailors from Campbeltown's forward gun crews who had been cut off from the main landing parties.
 
 WYNN
 Heave to. Get the lines over. Pull them up.
@@ -1871,7 +1871,7 @@ Wynn looked back across the Avant-Port one last time.
 
 Two hundred yards to the north, wedged like an iron plug inside the broken caisson of the Normandie Dock, HMS Campbeltown sat high and dark against the granite walls.
 
-Aboard her, down in the flooded darkness of the engine room, the ship’s executioners were setting their final matches.
+Aboard her, down in the flooded darkness of the engine room, the ship's executioners were setting their final matches.
 
 
 
@@ -1908,7 +1908,7 @@ Once the glass was broken, there was no switch to throw, no key to turn. The aci
 
 Tibbits stood, clicked off his red lamp, and made his way aft through the canted, darkened passageways to the engine room.
 
-Down on the lower floorplates, Chief Engine Room Artificer Howard was wading through six inches of oily bilge water, holding a flashlight on the main condenser sea-inlet pipes. The ship’s twin turbines were dead, steam venting through the smashed auxiliary exhausts on the upper deck with a deafening hiss.
+Down on the lower floorplates, Chief Engine Room Artificer Howard was wading through six inches of oily bilge water, holding a flashlight on the main condenser sea-inlet pipes. The ship's twin turbines were dead, steam venting through the smashed auxiliary exhausts on the upper deck with a deafening hiss.
 
 TIBBITS
 Main charges are live, Chief. Time to sink her.
@@ -1938,15 +1938,15 @@ A dull, concussive jolt lifted the floorplates under their feet. Down in the dar
 
 The River Loire rushed through the thirty-inch breaches under full tidal pressure. Millions of gallons of cold estuarine water surged into the engine spaces, tearing away floorplates and submerging the dead boilers.
 
-Slowly, deliberately, Campbeltown’s stern settled. Her keel grounded hard into the mud of the Avant-Port basin, while her mangled forecastle remained wedged six feet above the water, locked like an iron tooth inside the steel caisson. She was dead in the gate, impossible to move.
+Slowly, deliberately, Campbeltown's stern settled. Her keel grounded hard into the mud of the Avant-Port basin, while her mangled forecastle remained wedged six feet above the water, locked like an iron tooth inside the steel caisson. She was dead in the gate, impossible to move.
 
 On the bridge, Lieutenant Commander Beattie walked through the shattered wheelhouse for the final time.
 
-The bodies of the quartermaster and the bridge ratings who had been killed during the run-in lay side-by-side against the armored bulwark, covered by canvas dodgers. The ship’s confidential books and code ciphers had already been locked inside their lead-weighted steel box and dropped through a scupper into thirty feet of river mud.
+The bodies of the quartermaster and the bridge ratings who had been killed during the run-in lay side-by-side against the armored bulwark, covered by canvas dodgers. The ship's confidential books and code ciphers had already been locked inside their lead-weighted steel box and dropped through a scupper into thirty feet of river mud.
 
 Beattie unclasped his binoculars from around his neck, slipped his pipe into his tunic pocket, and stepped out onto the open forecastle.
 
-The German fire from the shore had not slackened. Tracers were skipping off the destroyer’s armor plating, and mortar fragments were clattering down like iron rain across the upper deck.
+The German fire from the shore had not slackened. Tracers were skipping off the destroyer's armor plating, and mortar fragments were clattering down like iron rain across the upper deck.
 
 At the forward guardrail, the bamboo ladders were still lashed in place.
 
@@ -1977,7 +1977,7 @@ The Quayside & Old Entrance
 
 Lieutenant Colonel Charles Newman stood by the brick wall of a transit shed near the Old Entrance, his Thompson submachine gun resting against his hip.
 
-Around him in the shadows, the raid’s military headquarters was operating by the light of burning timber. A medical orderly was kneeling over a wounded corporal, cutting away a blood-soaked trouser leg with heavy shears, while two signallers knelt by an iron bollard, watching the perimeter for German counter-attacks.
+Around him in the shadows, the raid's military headquarters was operating by the light of burning timber. A medical orderly was kneeling over a wounded corporal, cutting away a blood-soaked trouser leg with heavy shears, while two signallers knelt by an iron bollard, watching the perimeter for German counter-attacks.
 
 From the direction of the dry dock, men were filtering back through the gloom.
 
@@ -2010,9 +2010,9 @@ The water was thick with floating lifejackets, splintered mahogany planks, overt
 
 Out in the deep channel, there was only the receding roar of marine engines.
 
-Commander Ryder’s MGB 314, shredded by cannon fire, carrying thirty-four wounded men crammed into every cabin, had circled the basin until her guns were out of ammunition and her foredeck was slick with the blood of her crew. Seeing the Old Mole in German hands and no launches surviving in the river, Ryder had been forced to make the brutal calculation of command - stay and be blown to splinters, or withdraw to open sea while his battered hull could still steer.
+Commander Ryder's MGB 314, shredded by cannon fire, carrying thirty-four wounded men crammed into every cabin, had circled the basin until her guns were out of ammunition and her foredeck was slick with the blood of her crew. Seeing the Old Mole in German hands and no launches surviving in the river, Ryder had been forced to make the brutal calculation of command - stay and be blown to splinters, or withdraw to open sea while his battered hull could still steer.
 
-MGB 314, Mickey Wynn’s overloaded MTB 74, and Sub-Lieutenant Mark Rodier’s ML 177 were already running the gauntlet downriver, racing for the open sea under a storm of coastal battery fire.
+MGB 314, Mickey Wynn's overloaded MTB 74, and Sub-Lieutenant Mark Rodier's ML 177 were already running the gauntlet downriver, racing for the open sea under a storm of coastal battery fire.
 
 The river was empty.
 
@@ -2068,7 +2068,7 @@ NARRATOR
 Winthrope looked up, his rubber apron smeared with dark grease and blood. He shook his head.
 
 WINTHROPE
-If you move them, they’ll bleed to death in five minutes, Colonel. They need plasma and surgical traction.
+If you move them, they'll bleed to death in five minutes, Colonel. They need plasma and surgical traction.
 
 NARRATOR
 Newman placed a hand on the doctor's shoulder.
@@ -2088,7 +2088,7 @@ Quiet.
 NARRATOR
 The clink of ammunition clips ceased. The men looked at Newman.
 
-Newman’s face was smeared with black soot, his service dress torn at the collar, but his posture was upright, his voice conversational and completely steady. He spoke without raising his voice above the dull concussions of mortar rounds detonating out on the quay.
+Newman's face was smeared with black soot, his service dress torn at the collar, but his posture was upright, his voice conversational and completely steady. He spoke without raising his voice above the dull concussions of mortar rounds detonating out on the quay.
 
 NEWMAN
 Gentlemen, the boats are destroyed. There will be no evacuation from the sea.
@@ -2161,7 +2161,7 @@ The Charge Across Pont Roulant
 Pont Roulant, Saint-Nazaire
 28 March 1942, 03:00 – 03:30
 
-The transit shed’s corrugated sliding door ground open four feet.
+The transit shed's corrugated sliding door ground open four feet.
 
 Captain Donald Roy went through first. He kept low, his rubber-soled plimsolls moving silently across the damp granite cobblestones. Behind him came the seven surviving commandos of his assault party, their submachine guns gripped with fingers stiff from the estuary wind.
 
@@ -2213,7 +2213,7 @@ From the shadows of the transit shed, the main body moved.
 
 Captain Bob Montgomery led the Royal Engineers sappers, running four paces apart to minimize casualties from mortar fire. Next came Lieutenant Colonel Newman, walking briskly beside Major Copland, his Thompson held across his chest. Behind them came the walking wounded - Stuart Chant, his face ashen, leaning heavily on the shoulder of Sergeant Dockerill, his ruined knee dragging across the iron planks; and Lieutenant Gerard Brett, who had strapped wooden splints to his shattered ankles, propped up between two husky naval ratings from Campbeltown.
 
-Then came the naval party - Beattie, Tibbits, Chief Howard, and thirty unarmed or lightly armed ratings from the destroyer’s steaming watch.
+Then came the naval party - Beattie, Tibbits, Chief Howard, and thirty unarmed or lightly armed ratings from the destroyer's steaming watch.
 
 Mortar rounds began falling. The German garrison, now aware that the British were attempting to abandon the dock area, began dropping 50mm and 80mm mortar bombs onto the harbor apron.
 
@@ -2251,7 +2251,7 @@ The town was a maze of high granite walls, narrow cobblestone streets, and shutt
 
 Once off the Pont Roulant, the unified British force ceased to exist. Small groups of four, six, and eight men vanished down divergent alleyways, their rubber plimsolls and hobnailed boots slapping rhythmically against the stone paving.
 
-To the east, the night was split by the roar of German transport lorries. The commander of the 679th Infantry Regiment, reacting to Mecke’s alarms, was throwing battalions of infantry into the streets. Wehrmacht patrols were establishing a triple cordon across every major avenue, throwing roadblocks of sandbags and barbed wire across the railway crossings leading out toward the open marshes of the Grande Brière.
+To the east, the night was split by the roar of German transport lorries. The commander of the 679th Infantry Regiment, reacting to Mecke's alarms, was throwing battalions of infantry into the streets. Wehrmacht patrols were establishing a triple cordon across every major avenue, throwing roadblocks of sandbags and barbed wire across the railway crossings leading out toward the open marshes of the Grande Brière.
 
 Lieutenant Colonel Newman took fifteen men down the Rue de la Vieille Église.
 
@@ -2276,7 +2276,7 @@ Across the town, other squads were encountering the same suffocating trap.
 
 Lieutenant Corran Purdon and his group reached the edge of the railway marshaling yards. Through the iron railings, they could see the open tracks leading north toward the countryside. But every fifty yards along the embankment, the Germans had posted twin machine-gun teams with searchlights mounted on flatbed railcars. To cross the open gravel of the tracks meant charging into interlocking fields of fire with no cover.
 
-Purdon pulled his men back into the shadow of a coal merchant’s warehouse, checking his magazines. Between four men, they had eleven rounds of .45 ammunition and two Mills bombs.
+Purdon pulled his men back into the shadow of a coal merchant's warehouse, checking his magazines. Between four men, they had eleven rounds of .45 ammunition and two Mills bombs.
 
 Everywhere, the doors of the French town remained barred.
 
@@ -2331,7 +2331,7 @@ Out of the pre-dawn gloom, a dark, mountainous bow cleaved the sea at twenty-fiv
 
 It was the German torpedo boat Jaguar—an eight-hundred-ton fleet warship commanded by Kapitänleutnant Friedrich-Karl Paul. With three 10.5cm naval guns, twin 37mm automatic cannon, and multiple 20mm FlaK mountings, Jaguar outmatched the wooden British launch by ten to one in weight and a hundred to one in firepower.
 
-Jaguar closed to within a hundred yards, throwing a blinding carbon-arc searchlight across ML 306’s shattered deck.
+Jaguar closed to within a hundred yards, throwing a blinding carbon-arc searchlight across ML 306's shattered deck.
 
 GERMAN VOICE
 (booming in clear English over a loudhailer across the chop)
@@ -2349,25 +2349,25 @@ On the open aft deck of ML 306, completely exposed on an unarmored pedestal, sto
 
 He was twenty-three years old, from Kent. His weapon was a twin .303 Lewis machine gun.
 
-As Jaguar’s searchlight pinned him against the grey sea, Durrant pressed his chest against the twin spade grips, leveled the barrels into the glaring center of the light, and pulled the triggers.
+As Jaguar's searchlight pinned him against the grey sea, Durrant pressed his chest against the twin spade grips, leveled the barrels into the glaring center of the light, and pulled the triggers.
 
 The twin Lewis guns rattled, spitting a stream of rifle-caliber tracers straight into the bridge structure of the German warship, chipping paint and starring the heavy observation glass.
 
 Jaguar answered instantly at fifty yards.
 
-Her 20mm FlaK cannons erupted, the high-explosive shells chewing through ML 306’s wooden gunwales like an axe through dry kindling. Shrapnel sprayed across the aft deck.
+Her 20mm FlaK cannons erupted, the high-explosive shells chewing through ML 306's wooden gunwales like an axe through dry kindling. Shrapnel sprayed across the aft deck.
 
 Durrant took a shell fragment through the fleshy part of his right arm. The impact knocked him back against the ammunition rack. He hauled himself back to the pedestal with his left hand, cleared the twisted sling, slammed a fresh ninety-seven-round pan magazine onto the feed stud, and opened fire again.
 
 Jaguar swept closer, her steel hull towering twenty feet above the wooden launch. Her bridge machine guns opened up, raking the open launch from stem to stern.
 
-A bullet punched through Durrant’s left thigh. Another tore into his forearm. Blood was pouring into his plimsolls, soaking his woolen battledress until it was heavy and black.
+A bullet punched through Durrant's left thigh. Another tore into his forearm. Blood was pouring into his plimsolls, soaking his woolen battledress until it was heavy and black.
 
 Henderson was shot through the chest on the bridge, collapsing over the wheel. The coxswain fell beside him. Forward, the launch's small 3-pounder gun was smashed, its crew dead on the deckplates. ML 306 was dead in the water, her engines coughing and dying as sea water swamped the carburetors.
 
 Yet from the stern, the twin Lewis guns never stopped.
 
-Whenever Jaguar approached to drop boarding nets, Durrant swept her upper decks, forcing the German boarding parties flat behind their steel bulwarks. When the German loudhailer demanded surrender a second time, Durrant’s answer was another fifty rounds hammered into the German bridge wing.
+Whenever Jaguar approached to drop boarding nets, Durrant swept her upper decks, forcing the German boarding parties flat behind their steel bulwarks. When the German loudhailer demanded surrender a second time, Durrant's answer was another fifty rounds hammered into the German bridge wing.
 
 He was struck again in the stomach. Then in the chest.
 
@@ -2383,14 +2383,14 @@ Jaguar nudged alongside the silent wooden wreck. German naval ratings in grey wo
 
 Kapitänleutnant Paul stepped onto the battered launch. He walked aft through the wreckage, his boots crunching over hundreds of spent .303 brass casings, and stood over the body of the young sergeant slumped across the Lewis gun.
 
-Paul knelt down, pressed two fingers against Durrant’s neck, and found a faint, shallow pulse.
+Paul knelt down, pressed two fingers against Durrant's neck, and found a faint, shallow pulse.
 
 PAUL
 (in German, to his chief petty officer)
 Bring stretcher bearers immediately. Treat this man with the highest honors. He fought like an entire company.
 
 NARRATOR
-Durrant was lifted gently onto Jaguar’s deck and rushed below to the sickbay.
+Durrant was lifted gently onto Jaguar's deck and rushed below to the sickbay.
 
 He would succumb to his sixteen wounds the following morning in the German naval hospital at Saint-Nazaire. But weeks later, when Paul visited the British prisoners of war in the camp at Rennes, the German commander would seek out Lieutenant Colonel Newman personally, formally reporting Durrant's extraordinary stand—an enemy testimony that would eventually result in the award of a posthumous Victoria Cross.
 
@@ -2441,7 +2441,7 @@ With Newman were Major William Copland, Captain Donald Roy, and roughly fifteen 
 
 Inside the basement, the floor was littered with empty .45 brass casings and crushed cardboard carton ammunition sleeves.
 
-Sergeant Don Hopwood crawled to Newman’s side, holding up his Thompson. The bolt was forward on an empty chamber; his webbing pouches were turned inside out.
+Sergeant Don Hopwood crawled to Newman's side, holding up his Thompson. The bolt was forward on an empty chamber; his webbing pouches were turned inside out.
 
 HOPWOOD
 Last drum gone, Colonel. The boys have nothing left. Not a single round.
@@ -2449,7 +2449,7 @@ Last drum gone, Colonel. The boys have nothing left. Not a single round.
 NARRATOR
 Newman looked around the cellar. Major Copland had two bullets left in his service automatic. Roy had none. Beside them, two commandos lay on their backs, bandaged with field dressings that had soaked through with bright red blood.
 
-Newman’s three operational orders had been clear - Do not surrender until all our ammunition is exhausted.
+Newman's three operational orders had been clear - Do not surrender until all our ammunition is exhausted.
 
 That threshold had been crossed.
 
@@ -2477,7 +2477,7 @@ Newman was the first man through the doorway, stepping out into the cold morning
 
 German infantrymen, their rifles held at the ready, moved forward with tense, jerky steps. They were astonished by what they saw - blackened faces, rubber-soled plimsolls, toggle ropes around waists, and fighting knives tucked into socks.
 
-An officer of the 679th Infantry Regiment stepped up, staring at Newman’s rank badges.
+An officer of the 679th Infantry Regiment stepped up, staring at Newman's rank badges.
 
 GERMAN OFFICER
 (in halting English)
@@ -2491,7 +2491,7 @@ The commandos were marched under heavy armed escort toward the Place de la Bassi
 
 The prisoners stood in the cold morning wind, surrounded by German sentries and idling armored cars.
 
-Down at the harbor, the smoke from the night’s battle was beginning to clear. The tide was ebbing.
+Down at the harbor, the smoke from the night's battle was beginning to clear. The tide was ebbing.
 
 And resting quietly inside the crushed outer caisson of the Normandie Dock sat the silent, grey wreck of HMS Campbeltown, her concrete vault cold, her chemical fuses ticking toward mid-morning.
 
@@ -2510,7 +2510,7 @@ Along the river approaches, the charred skeletons of three Fairmile launches res
 
 At the entrance to the Normandie Dock, the falling tide transformed the geometry of the harbor.
 
-As twenty feet of water drained out into the Loire, HMS Campbeltown’s stern settled firmly onto the granite sill of the entrance. Without buoyancy, the full two-thousand-ton deadweight of the destroyer pressed down through her buckled keel.
+As twenty feet of water drained out into the Loire, HMS Campbeltown's stern settled firmly onto the granite sill of the entrance. Without buoyancy, the full two-thousand-ton deadweight of the destroyer pressed down through her buckled keel.
 
 Her forward thirty feet remained buried inside the outer caisson. The impact had crumpled her forecastle back to the collision bulkhead, peeling the deckplates outward like split bark. The steel caisson gate itself was severely warped, its top roadway bowed inward by ten feet, but to outward appearances it still bridged the gap between the north and south quays.
 
@@ -2526,7 +2526,7 @@ Soon, several hundred German personnel were milling about the stone aprons of th
 
 A technical salvage commission arrived from the naval repair yard.
 
-Led by a Korvettenkapitän from the engineering staff, six naval architects and salvage divers climbed the scrambling nets still dangling from Campbeltown’s port side. Their duty was practical - assess the structural integrity of the caisson, determine the depth of the hull’s breach, and formulate a plan to refloat the destroyer on the evening spring tide.
+Led by a Korvettenkapitän from the engineering staff, six naval architects and salvage divers climbed the scrambling nets still dangling from Campbeltown's port side. Their duty was practical - assess the structural integrity of the caisson, determine the depth of the hull's breach, and formulate a plan to refloat the destroyer on the evening spring tide.
 
 They walked the canted, debris-strewn deck, stepping over spent 20mm cartridge cases and torn fire hoses.
 
@@ -2534,7 +2534,7 @@ Down in the lower spaces, the salvage party found the ship flooded to the level 
 
 The German engineers shone their hand lamps into the darkness of the hold.
 
-The beam settled on the rectangular concrete vault that sealed the keel space. One of the engineers scraped the surface with a cold chisel, noting that the cement was hard and had set clean against the ship’s frames.
+The beam settled on the rectangular concrete vault that sealed the keel space. One of the engineers scraped the surface with a cold chisel, noting that the cement was hard and had set clean against the ship's frames.
 
 They debated its purpose for several minutes. The conclusion was unanimous - the English had poured solid concrete into the bow to act as structural ballast, giving the obsolete ship the mass needed to buckle the caisson plating upon impact.
 
@@ -2578,7 +2578,7 @@ At room temperature, the wire parted in six to eight hours. But Tibbits had warn
 
 Eight hours from 02:20 was 10:20.
 
-Beattie’s eyes shifted to the large regulator clock ticking on the whitewashed wall of the German office.
+Beattie's eyes shifted to the large regulator clock ticking on the whitewashed wall of the German office.
 
 The black hands showed 10:34.
 
@@ -2608,7 +2608,7 @@ Chapter Thirty-One
 The Normandie Dock & Saint-Nazaire
 28 March 1942, 10:35
 
-Inside the brass sleeve of the Number Ten Delay Switch, submerged beneath five feet of stagnant bilge water in Campbeltown’s lower hold, the cupric chloride acid finished its work.
+Inside the brass sleeve of the Number Ten Delay Switch, submerged beneath five feet of stagnant bilge water in Campbeltown's lower hold, the cupric chloride acid finished its work.
 
 The last fraction of a millimeter of high-tensile steel wire thinned to the breaking point. The tension of the coiled striker spring overcame the corroded metal with a sharp, microscopic snap.
 
@@ -2650,7 +2650,7 @@ The ground pitched violently beneath the floor, like an earthquake hitting a sto
 
 A split-second later came the sound - a dull, terrifying thunderclap that rattled the reinforced blast shutters and blew out every pane of glass facing the river.
 
-Plaster dust fell from the ceiling in a dense white cloud, coating the intelligence officer’s dossier and the cups of cold ersatz coffee.
+Plaster dust fell from the ceiling in a dense white cloud, coating the intelligence officer's dossier and the cups of cold ersatz coffee.
 
 The German officer surged to his feet, knocking his chair backward. His face was bloodless, his mouth slightly open. Telephones on the desks began buzzing frantically in ragged, overlapping choruses; outside in the corridors, boots were pounding on concrete as officers shouted orders in rising hysteria.
 
@@ -2697,7 +2697,7 @@ In the residential streets of Saint-Nazaire, the terror spread behind locked shu
 
 German sentries, their nerves shredded by the night's house-to-house fighting, reacted to every shadow. In the Rue de l'Océan, a French civilian opened a second-story shutter to air out smoke; a burst of 20mm FlaK fire from a nearby flak tower shredded the window frame, killing him instantly in front of his wife.
 
-Along the railway embankments, friendly-fire gunfights erupted between Wehrmacht sentries and Kriegsmarine harbor patrols. In the confusion, neither service recognized the other’s call-signs in the dust. On the Boulevard René-Coty, an army patrol traded rifle grenades with a naval flak detachment barricaded inside a warehouse for twenty minutes, resulting in four German dead and eight wounded before a staff car arrived to halt the engagement.
+Along the railway embankments, friendly-fire gunfights erupted between Wehrmacht sentries and Kriegsmarine harbor patrols. In the confusion, neither service recognized the other's call-signs in the dust. On the Boulevard René-Coty, an army patrol traded rifle grenades with a naval flak detachment barricaded inside a warehouse for twenty minutes, resulting in four German dead and eight wounded before a staff car arrived to halt the engagement.
 
 By Sunday morning, 29 March, the town was paralyzed.
 
@@ -2732,7 +2732,7 @@ They rested nose-down against the granite sill of the Old Entrance, buried in es
 
 By Monday afternoon, a semblance of routine had returned to the German naval command.
 
-Seekommandant Mecke’s engineers had cordoned off the ruined Normandie Dock, where the tangled stern of Campbeltown still lay wedged like a carcass in the mud. German priority shifted to the port’s secondary artery - the Old Entrance.
+Seekommandant Mecke's engineers had cordoned off the ruined Normandie Dock, where the tangled stern of Campbeltown still lay wedged like a carcass in the mud. German priority shifted to the port's secondary artery - the Old Entrance.
 
 Because the main dry dock was obliterated, the lock gates of the Old Entrance were vital to keeping the inner Bassin de Saint-Nazaire operational for harbor defense vessels and coastal merchant traffic.
 
@@ -2742,7 +2742,7 @@ A harbor defense tug, Sperrbrecher tenders, and several armed patrol launches we
 
 Down in the mud, fifty-nine hours and fifty-five minutes had elapsed.
 
-The mainspring of the first torpedo’s delay fuse unwound to its final gear tooth. A small brass escapement lever dropped into its notch, releasing an internal firing spring.
+The mainspring of the first torpedo's delay fuse unwound to its final gear tooth. A small brass escapement lever dropped into its notch, releasing an internal firing spring.
 
 The detonator struck.
 
@@ -2789,13 +2789,13 @@ April 1942 – 1948
 
 They moved by night, keeping off the paved roads.
 
-Of the more than one hundred men who had charged across the Pont Roulant into the streets of Saint-Nazaire, only five slipped through the Wehrmacht’s triple cordon before dawn broke. They were scattered across the countryside - Lance-Sergeant Arnold Howarth of the Grenadier Guards; Corporal George Wheeler and Lance-Corporal Richard Sims of No. 2 Commando; Lance-Corporal Douglas; and Private Harding.
+Of the more than one hundred men who had charged across the Pont Roulant into the streets of Saint-Nazaire, only five slipped through the Wehrmacht's triple cordon before dawn broke. They were scattered across the countryside - Lance-Sergeant Arnold Howarth of the Grenadier Guards; Corporal George Wheeler and Lance-Corporal Richard Sims of No. 2 Commando; Lance-Corporal Douglas; and Private Harding.
 
-They had followed Lieutenant Colonel Newman’s three orders to the letter.
+They had followed Lieutenant Colonel Newman's three orders to the letter.
 
 Wheeler and Sims had spent the daylight hours of 28 March jammed into a narrow crawlspace beneath the floorboards of a French house, listening to the jackboots of German search parties on the pavement outside. When darkness returned, they crawled north through irrigation ditches, reaching a farm where a French family hid them in a haystack, traded civilian dungarees for their soaked uniforms, and took their empty Colt automatics for the burgeoning local Résistance.
 
-Howarth, bleeding from twenty shrapnel wounds across his back and face, had been dragged into a garden shed by a French schoolmaster’s daughter, who cleaned his cuts and found him peasant trousers and a wool jacket.
+Howarth, bleeding from twenty shrapnel wounds across his back and face, had been dragged into a garden shed by a French schoolmaster's daughter, who cleaned his cuts and found him peasant trousers and a wool jacket.
 
 Aided by ordinary French men and women who risked the firing squad to leave out loaves of dark bread, bottles of wine, and maps of railway culverts, the five men moved independently toward the demarcation line. They slipped across the river borders into unoccupied Vichy France, evaded local gendarmes, and met the underground escape networks that led south.
 
@@ -2807,7 +2807,7 @@ Behind them, on the Atlantic coast, the dead were given to the earth.
 
 On Wednesday, 1 April 1942, before the full hysteria of the German panic had subsided, a ceremonial military funeral was held in a field at La Baule-Escoublac, near the German naval headquarters.
 
-The German garrison commander, observing traditional military honors before Hitler’s ideological rage poisoned the war, permitted a delegation of captured British officers and senior NCOs—including Lieutenant Howell Hopwood and Sergeant Colin Jones—to attend under armed guard. Wehrmacht buglers sounded the Last Post, and German soldiers saluted the flag-draped coffins of the British sailors and soldiers who had fallen in the river and the streets.
+The German garrison commander, observing traditional military honors before Hitler's ideological rage poisoned the war, permitted a delegation of captured British officers and senior NCOs—including Lieutenant Howell Hopwood and Sergeant Colin Jones—to attend under armed guard. Wehrmacht buglers sounded the Last Post, and German soldiers saluted the flag-draped coffins of the British sailors and soldiers who had fallen in the river and the streets.
 
 Then came the cold accounting of Combined Operations.
 

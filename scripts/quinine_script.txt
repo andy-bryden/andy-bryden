@@ -1,4 +1,4 @@
-Cast
+Quinine Cast
 
 
 NARRATOR
@@ -190,11 +190,11 @@ Milton Hall, near Peterborough, Northamptonshire
 NARRATOR
 The damp had worked into the limestone of the south wing long before the War Office requisitioned the estate, but three years of military occupation had given it an institutional permanence. It clung to the high, dark wainscoting and gathered in the folds of the blacked-out velvet draperies, smelling of sulfur coal-smoke, wet serge, cold tea, and floor wax.
 
-Across the parkland beyond the terrace, where Earl Fitzwilliam’s tenant cattle had grazed before the war, three dozen men in denim fatigues were running the perimeter ditch in full marching order. Through the leaded panes of the library’s tall casements, the rhythmic, gravelly crunch of their ammunition boots carried across the lawn, rising and falling with the gusts of an unseasonably cold Northamptonshire rain.
+Across the parkland beyond the terrace, where Earl Fitzwilliam's tenant cattle had grazed before the war, three dozen men in denim fatigues were running the perimeter ditch in full marching order. Through the leaded panes of the library's tall casements, the rhythmic, gravelly crunch of their ammunition boots carried across the lawn, rising and falling with the gusts of an unseasonably cold Northamptonshire rain.
 
 Inside, the room was quiet.
 
-Major Tommy Macpherson stood with his back to the carved limestone hearth, his arms folded across the coarse wool of his service dress. He was twenty-three years old, six feet tall, built lean and wiry like an endurance runner, with high, angular cheekbones and a narrow blade of a nose that bore the crooked, thickened bridge of a healed fracture—the work of an Italian guard’s rifle butt in Campo 78 at Sulmona three years earlier. His skin, naturally fair, still carried a faint, ingrained gray shadow beneath the jawline and across the knuckles—the stubborn residue of four days buried beneath thirty tons of anthracite coal in the bilge of a Swedish collier slipping through Gdynia on his third and final breakout to the Baltic.
+Major Tommy Macpherson stood with his back to the carved limestone hearth, his arms folded across the coarse wool of his service dress. He was twenty-three years old, six feet tall, built lean and wiry like an endurance runner, with high, angular cheekbones and a narrow blade of a nose that bore the crooked, thickened bridge of a healed fracture—the work of an Italian guard's rifle butt in Campo 78 at Sulmona three years earlier. His skin, naturally fair, still carried a faint, ingrained gray shadow beneath the jawline and across the knuckles—the stubborn residue of four days buried beneath thirty tons of anthracite coal in the bilge of a Swedish collier slipping through Gdynia on his third and final breakout to the Baltic.
 
 He wore the dark green ribbons of the General Service Medal and the Military Cross on his breast. His hands were still, resting flat against his ribs. He had learned in the Italian isolation cells and the high-security blocks of Silesia that unnecessary movement was a waste of calories; he stood with the motionless, coiled patience of a predator waiting out a squall.
 
@@ -214,7 +214,7 @@ Montauban. <pause> Here. North of Toulouse. It is the cantonment of the 2nd SS P
 Seventeen thousand men. Two hundred and fifty tanks and assault guns. Panthers, Mark Fours, heavy self-propelled artillery, eighty-wheeled armored cars. Two motorized panzergrenadier regiments—Der Führer and Deutschland. The divisional commander is an SS-Brigadeführer named Heinz Lammerding. An engineer by training. A veteran of the defensive battles around Kharkov and the Dnieper. Thorough, cold-blooded, and completely indifferent to civilian casualties. <pause>
 
 (lifting the boxwood ruler, setting its tip onto the line)
-Route Nationale 20. The main arterial highway. Montauban, Cahors, Brive-la-Gaillarde, Limoges, Châteauroux, Vierzon. It crosses the Loire south of Orléans and runs directly into the Paris basin. If the French railway grid functions, the Reichsbahn can load Lammerding’s tracked elements onto flatcars and have his panzers unloading on the Seine in forty-eight hours. If the rail junctions fail and they road-march, his wheeled reconnaissance battalions will do fifty miles a day. His tracked battalions will do thirty-five. That puts his forward battle groups into the Normandy lines within seventy-two to ninety-six hours of the initial Allied landings.
+Route Nationale 20. The main arterial highway. Montauban, Cahors, Brive-la-Gaillarde, Limoges, Châteauroux, Vierzon. It crosses the Loire south of Orléans and runs directly into the Paris basin. If the French railway grid functions, the Reichsbahn can load Lammerding's tracked elements onto flatcars and have his panzers unloading on the Seine in forty-eight hours. If the rail junctions fail and they road-march, his wheeled reconnaissance battalions will do fifty miles a day. His tracked battalions will do thirty-five. That puts his forward battle groups into the Normandy lines within seventy-two to ninety-six hours of the initial Allied landings.
 
 NARRATOR
 Macpherson stepped away from the hearth, his boots making no sound on the heavy Turkish rug. He leaned over the table, his gray eyes scanning the tight, brown contour lines that bunched together through the gorges of the Lot and the Dordogne.
@@ -252,7 +252,7 @@ COLONEL
 Every hour you hold them south of the Loire buys time for the Mulberry harbors to sink their concrete caissons into the surf. If Das Reich arrives in Normandy on D-Plus-Four, the invasion fails. If you hold them back until D-Plus-Fourteen, the line holds. Can your Frenchmen do it?
 
 NARRATOR
-Macpherson looked past the Colonel’s shoulder, out through the leaded casements toward the wet lawns.
+Macpherson looked past the Colonel's shoulder, out through the leaded casements toward the wet lawns.
 
 In the middle of the grass, three dozen men in denim overalls were kneeling in the rain around a mock-up of a double-track railway line. They were practicing the handling of Nobel 808 plastic explosive, their bare fingers kneading the yellow, marzipan-scented compound into flat charges against the web of the steel rails. Among them stood a tall, blond officer with the fine, sloping jaw of the French Bourbons—his sleeves rolled to his elbows, his hands blackened with graphite grease.
 
@@ -279,15 +279,15 @@ Quarters of Jedburgh Team QUININE
 Milton Hall, Northamptonshire
 
 NARRATOR
-The deal table in the former groom’s quarters smelled of linseed oil, dry battery acid, and soldering flux.
+The deal table in the former groom's quarters smelled of linseed oil, dry battery acid, and soldering flux.
 
-Sergeant Oswald Arthur Brown sat on a backless wooden stool, leaning low over the open chassis of a Type B Mk II wireless transceiver. The set sat in its brown vulcanized-fiber suitcase like a surveyor’s leveling kit, its enameled front panel crowded with black bakelite dials, knurled brass binding posts, and the twin ceramic sockets for the quartz frequency crystals.
+Sergeant Oswald Arthur Brown sat on a backless wooden stool, leaning low over the open chassis of a Type B Mk II wireless transceiver. The set sat in its brown vulcanized-fiber suitcase like a surveyor's leveling kit, its enameled front panel crowded with black bakelite dials, knurled brass binding posts, and the twin ceramic sockets for the quartz frequency crystals.
 
 Brown worked with the mechanical, unhurried concentration of a man who had stripped magneto coils by tallow light in the shipyards of Wallsend before he was sixteen. He held a small camel-hair camel brush between his teeth while his right hand, blackened around the cuticles by graphite and transformer oil, guided a pair of long-nosed pliers into the power pack to tighten a rubber-seated terminal.
 
 BROWN
 (speaking around the wooden handle of the brush, flat Tyneside vowels)
-Crystals are ground for five-point-three and seven-point-one megacycles, sir. <pause> Three sets of silk one-time pads. Two sewn into the inner seam of my trousers behind the thigh pocket, one stitched flat into the false bottom of the battery satchel. Fifty yards of seven-strand copper aerial wire on the wooden winder. Lead-in insulator’s tested. Hand generator’s packed with low-temperature grease.
+Crystals are ground for five-point-three and seven-point-one megacycles, sir. <pause> Three sets of silk one-time pads. Two sewn into the inner seam of my trousers behind the thigh pocket, one stitched flat into the false bottom of the battery satchel. Fifty yards of seven-strand copper aerial wire on the wooden winder. Lead-in insulator's tested. Hand generator's packed with low-temperature grease.
 
 NARRATOR
 Tommy Macpherson stood by the open sash window, watching the rain drip from the slate gutters into an iron water butt below.
@@ -297,7 +297,7 @@ And if the power mains in the Cantal are dead?
 
 BROWN
 (pulling the brush from his mouth, blowing a speck of dust from the output valve)
-They will be dead, sir. <pause> Once the heavy bombers finish cutting the transformer stations along the Dordogne, there won't be enough juice in the department to light a match. I’ve got the foot pedals and the folding frame. If the frame is bolted to a floorboard, I can turn twenty watts out of the armature with ten minutes of steady pedaling. It’s hard on the calves, but it keeps the plates hot.
+They will be dead, sir. <pause> Once the heavy bombers finish cutting the transformer stations along the Dordogne, there won't be enough juice in the department to light a match. I've got the foot pedals and the folding frame. If the frame is bolted to a floorboard, I can turn twenty watts out of the armature with ten minutes of steady pedaling. It's hard on the calves, but it keeps the plates hot.
 
 MACPHERSON
 And the German direction-finders?
@@ -306,7 +306,7 @@ NARRATOR
 Brown didn't look up from the chassis. He picked up a spare glass valve, wrapped it in greaseproof waxed paper, nestled it into a bed of carded cotton wool, and slotted it into a spring-loaded steel clip inside the suitcase lid.
 
 BROWN
-If the Abwehr or the Ordnungspolizei are running an Adcock mobile direction-finding van on the valley road within three miles, they get a rough bearing off my first three-letter group. By the fourth minute, they’ve got a cross-bearing from their fixed stations at Lyon and Bordeaux. By the eighth minute, the van is turning into the lane.
+If the Abwehr or the Ordnungspolizei are running an Adcock mobile direction-finding van on the valley road within three miles, they get a rough bearing off my first three-letter group. By the fourth minute, they've got a cross-bearing from their fixed stations at Lyon and Bordeaux. By the eighth minute, the van is turning into the lane.
 
 MACPHERSON
 Your operational window?
@@ -320,7 +320,7 @@ Sitting on a rolled canvas palliasse against the far brick wall, methodically ru
 
 He was twenty years old, slender and long-limbed, with thick dark hair combed straight back and the distinctive, haughty bridge of the Bourbon nose. His great-grandfather had been Charles III, Duke of Parma; his grandfather had ruled the northern Italian duchy until the unification of Italy; his aunt had sat on the imperial throne of Austria-Hungary as the Empress Zita.
 
-When the French front disintegrated in June 1940, Michel had been an adolescent student. Rather than submit to the Vichy regime, he had crossed the Pyrenees on foot through snowdrifts, been seized by Franco’s Guardia Civil, and endured the filth, lice, and starvation of the Miranda de Ebro concentration camp before the British embassy secured his release. In 1943, he had arrived in Britain and volunteered immediately for service with the Free French infantry before the Bureau Central de Renseignements et d'Action (BCRA) funneled him into the Jedburgh project.
+When the French front disintegrated in June 1940, Michel had been an adolescent student. Rather than submit to the Vichy regime, he had crossed the Pyrenees on foot through snowdrifts, been seized by Franco's Guardia Civil, and endured the filth, lice, and starvation of the Miranda de Ebro concentration camp before the British embassy secured his release. In 1943, he had arrived in Britain and volunteered immediately for service with the Free French infantry before the Bureau Central de Renseignements et d'Action (BCRA) funneled him into the Jedburgh project.
 
 Michel pushed the brass cleaning rod through the muzzle until the white flannel emerged from the breech, inspected the clean weave, and laid the carbine across his knees.
 
@@ -337,7 +337,7 @@ He turned back to the room and walked to the trestle cot where his canvas valise
 
 Macpherson began unpacking the standard equipment issued forty-eight hours earlier by the quartermaster at Baker Street—three pairs of thick, undyed gray wool socks; two tubes of Benzedrine sulfate tablets; an escape compass embedded inside a vulcanite uniform button; a silk map of central France printed with indelible waterproof inks; a Fairbairn-Sykes fighting knife with its double-edged blade blackened with gun blue; five hundred thousand French francs in mint, consecutive five-hundred-franc notes bound in brown paper; and a flat, airtight steel tin containing forty copper detonators and eight feet of slow-burning safety fuse.
 
-Beside the ordnance lay the issue clothing—two sterile British army battle-dress blouses stripped of unit flashes, regimental titles, and division patches, alongside two pairs of rough brown corduroy trousers, a civilian cloth cap, and a heavy blue mechanic’s boiler suit.
+Beside the ordnance lay the issue clothing—two sterile British army battle-dress blouses stripped of unit flashes, regimental titles, and division patches, alongside two pairs of rough brown corduroy trousers, a civilian cloth cap, and a heavy blue mechanic's boiler suit.
 
 Macpherson pushed the civilian clothes aside. He reached to the bottom of the canvas valise and lifted out an expanse of heavy, dark, coarse-woven wool.
 
@@ -345,9 +345,9 @@ The fabric fell open under its own tremendous weight, unfolding across the blank
 
 Alongside it, Macpherson withdrew a dark blue wool Glengarry bonnet with its silk cockade and silver Cameron badge, a pair of diced red-and-white wool hose, scarlet garter flashes, and a black leather service sporran.
 
-Michel stopped his rag over the carbine’s receiver. Brown halted his screwdriver half an inch from the B2’s tuning transformer.
+Michel stopped his rag over the carbine's receiver. Brown halted his screwdriver half an inch from the B2's tuning transformer.
 
-For ten seconds, neither man spoke. The only sound in the groom’s room was the rain rattling against the iron water butt outside.
+For ten seconds, neither man spoke. The only sound in the groom's room was the rain rattling against the iron water butt outside.
 
 Michel rose from the palliasse, walked to the cot, and reached out with two fingers, feeling the coarse, oily thickness of the worsted wool.
 
@@ -414,7 +414,7 @@ CAPTAIN
 Staff car is at the east courtyard. The road to RAF Tempsford is clear. Transport departs at nineteen hundred hours sharp. Supreme Headquarters has confirmed the northern landings for the morning of the sixth. Your aircraft is scheduled for the night of the eighth.
 
 NARRATOR
-The captain’s eyes drifted to the kilt on the cot. His brow knitted. He opened his mouth, clearly searching his memory for a section of the King's Regulations or the Special Operations Executive field manual that prohibited Scottish highland dress on clandestine airborne insertions, caught Macpherson’s unblinking, slate-gray stare, and thought better of it.
+The captain's eyes drifted to the kilt on the cot. His brow knitted. He opened his mouth, clearly searching his memory for a section of the King's Regulations or the Special Operations Executive field manual that prohibited Scottish highland dress on clandestine airborne insertions, caught Macpherson's unblinking, slate-gray stare, and thought better of it.
 
 CAPTAIN
 (pulling the door shut)
@@ -440,7 +440,7 @@ The aircraft carried no roundels on its upper wings, no squadron codes, and no w
 
 Inside the stripped fuselage, the noise was absolute.
 
-The four Bristol Hercules radial engines, each turning sixteen hundred horsepower at takeoff revolutions, set the bare duralumin deck plates vibrating with a violent, rhythmic shudder that traveled straight through the soles of Tommy Macpherson’s boots and settled in his teeth. There were no passenger seats, no soundproofing, and no heat. To make room for the ventral drop hatch and the bomb-bay winches that carried twelve cylindrical CLE supply containers, the Tempsford ground crews had gutted the airframe down to its skeletal ribs and exposed control cables.
+The four Bristol Hercules radial engines, each turning sixteen hundred horsepower at takeoff revolutions, set the bare duralumin deck plates vibrating with a violent, rhythmic shudder that traveled straight through the soles of Tommy Macpherson's boots and settled in his teeth. There were no passenger seats, no soundproofing, and no heat. To make room for the ventral drop hatch and the bomb-bay winches that carried twelve cylindrical CLE supply containers, the Tempsford ground crews had gutted the airframe down to its skeletal ribs and exposed control cables.
 
 Macpherson sat on the port-side bench, his back braced against an aluminum bulkhead stiffener.
 
@@ -450,7 +450,7 @@ Across his shoulders and chest, the thick, unyielding cotton webbing of the Type
 
 Opposite Macpherson, wedged into the angle where the wing-spar bridged the fuselage, sat Sergeant Arthur Brown.
 
-The Newcastle signalman’s face was the color of curdled milk in the dim, red glow of the blackout lamps. Strapped between his knees with broad canvas lashing was the padded, vulcanized container of the B2 wireless set and three secondary dry-cell packs, weighing sixty-four pounds of dead weight. Brown sat with his boots flat to the deck, his pigskin-gloved fingers clamped over the quick-release box on his chest, staring fixedly at the black square of the floor aperture.
+The Newcastle signalman's face was the color of curdled milk in the dim, red glow of the blackout lamps. Strapped between his knees with broad canvas lashing was the padded, vulcanized container of the B2 wireless set and three secondary dry-cell packs, weighing sixty-four pounds of dead weight. Brown sat with his boots flat to the deck, his pigskin-gloved fingers clamped over the quick-release box on his chest, staring fixedly at the black square of the floor aperture.
 
 Beside Brown, Michel de Bourbon-Parme leaned his head back against the fuselage skin, his eyes closed. His padded leather jump helmet was buckled tight under his chin. Slung along his right leg, tethered to his web harness by twenty feet of rolled parachute cord, hung a green canvas weapons valise containing his stripped M1 carbine and three loaded fifteen-round magazines.
 
@@ -458,18 +458,18 @@ At the rear of the cabin, crouching on his knees beside the open Joe hole—the 
 
 The Halifax shuddered violently as it lifted from the Bedfordshire clay, its tail wheel coming up, its engines screaming in low pitch as it climbed into the overcast above the Wash.
 
-Through the perspex observation dome set into the roof above Macpherson’s head, the black countryside of England tilted away. The aircraft banked southwest, skirting the London flak corridor, dropping to twelve hundred feet to slip beneath the German radar sweeps across the Pas-de-Calais.
+Through the perspex observation dome set into the roof above Macpherson's head, the black countryside of England tilted away. The aircraft banked southwest, skirting the London flak corridor, dropping to twelve hundred feet to slip beneath the German radar sweeps across the Pas-de-Calais.
 
-Macpherson reached across the narrow aisle and tapped Michel’s knee.
+Macpherson reached across the narrow aisle and tapped Michel's knee.
 
-Michel opened his eyes. He leaned his head across the roar of the engines until his helmet touched Macpherson’s ear.
+Michel opened his eyes. He leaned his head across the roar of the engines until his helmet touched Macpherson's ear.
 
 MICHEL
 (shouting against the deafening slipstream)
 Normandy is forty miles to our starboard flank. The Americans are fighting in the swamps behind Carentan! The British are pinned outside Caen!
 
 MACPHERSON
-(leaning in close, shouting into the leather flap of Michel’s helmet)
+(leaning in close, shouting into the leather flap of Michel's helmet)
 The BBC French Service transmitted the code phrases at twenty-one hundred! Les carottes sont cuites and Le dauphin est mort! Every maquisard between the Loire and the Pyrenees has been called to arms tonight! Lammerding will be issuing march orders from Montauban right now!
 
 NARRATOR
@@ -494,7 +494,7 @@ Five minutes!
 NARRATOR
 Macpherson reached down, found the quick-release buckle on his canvas lap-strap, and turned the brass plate. The strap whipped free. He dragged himself to his feet on the icy floor, bracing one shoulder against the fuselage ribbing, and motioned to Brown and Michel.
 
-Brown stood up with an agonizing, groaning effort, the sixty-four-pound deadweight of the wireless container strapped to his thighs pulling his shoulders forward. Michel stepped up directly behind the signalman, checking the snap-shackle of Brown’s static line with both hands.
+Brown stood up with an agonizing, groaning effort, the sixty-four-pound deadweight of the wireless container strapped to his thighs pulling his shoulders forward. Michel stepped up directly behind the signalman, checking the snap-shackle of Brown's static line with both hands.
 
 DISPATCHER
 (bellowing)
@@ -505,7 +505,7 @@ Macpherson reached up, seized the heavy bronze snap-hook at the end of his olive
 
 He shoved the split-pin home through the eyelet and bent the brass arms.
 
-Michel checked Macpherson’s pin. Brown checked Michel’s. Macpherson reached over Brown’s shoulder and yanked the signalman’s hook with his full body weight to test the cable seat.
+Michel checked Macpherson's pin. Brown checked Michel's. Macpherson reached over Brown's shoulder and yanked the signalman's hook with his full body weight to test the cable seat.
 
 BROWN
 (yelling)
@@ -533,11 +533,11 @@ Action stations!
 NARRATOR
 Brown shuffled his boots across the frosted floor plates. He dropped onto his knees, then swung his legs into the void, sitting on the wooden lip of the hole with his ammunition boots dangling into empty space. His gloved knuckles clamped around the rim of the aperture until the leather stretched white.
 
-Beneath the floor, forward of the Joe hole, the Halifax’s hydraulic bomb-bay doors groaned open against the slipstream with a sharp, mechanical shriek.
+Beneath the floor, forward of the Joe hole, the Halifax's hydraulic bomb-bay doors groaned open against the slipstream with a sharp, mechanical shriek.
 
 A series of twelve heavy, dull, pneumatic thuds reverberated through the airframe as the twelve CLE supply containers dropped away into the dark on their colored silk canopies—sixty thousand rounds of nine-millimeter ammunition, eighty Sten submachine guns, twenty Lee-Enfield rifles, and six hundred pounds of Nobel 808 plastic explosive tumbling through the night.
 
-Macpherson peered over Brown’s woolen shoulder into the black pit.
+Macpherson peered over Brown's woolen shoulder into the black pit.
 
 Down in the valley, sheltered inside a high basalt amphitheater south of Saint-Flour, three tiny orange pinpricks of light flickered against the dark—a rough, inverted triangle of wood fires burning in an isolated pasture.
 
@@ -547,7 +547,7 @@ Dot-dot-dash-dot. The letter F.
 
 The green lamp snapped on.
 
-The dispatcher’s sheepskin mitten came down across Brown’s shoulder with the force of an iron mallet.
+The dispatcher's sheepskin mitten came down across Brown's shoulder with the force of an iron mallet.
 
 DISPATCHER
 GO!
@@ -587,7 +587,7 @@ The harness sprang open. The risers whipped away into the juniper scrub, the twe
 
 Macpherson lay motionless for ten seconds, his lungs burning in the thin mountain air, his ears ringing in the abrupt, suffocating quiet.
 
-Above him, the heavy, syncopated drone of the Halifax’s four Bristol Hercules engines was already a fading vibration in the north, swallowed by the jagged basalt ridges toward the Puy de Dôme. From three hundred yards uphill came the faint, resinous smell of burning pine—the dying embers of the reception fires.
+Above him, the heavy, syncopated drone of the Halifax's four Bristol Hercules engines was already a fading vibration in the north, swallowed by the jagged basalt ridges toward the Puy de Dôme. From three hundred yards uphill came the faint, resinous smell of burning pine—the dying embers of the reception fires.
 
 He dragged himself upright against the stones. Reaching down to his thighs, he unclipped the two three-inch steel blanket pins that had bound the kilt. The heavy green-and-black Erracht tartan fell open under its own weight, the coarse worsted pleats settling heavily against the tops of his hose.
 
@@ -610,7 +610,7 @@ The wireless operator emerged from a clump of mountain broom, hauling the padded
 
 BROWN
 (setting the suitcase down behind the boulder)
-Valves are intact, sir. Shock-mounts held on impact. Aerial winder’s dry.
+Valves are intact, sir. Shock-mounts held on impact. Aerial winder's dry.
 
 NARRATOR
 A shadow vaulted a low cattle wall twenty yards down the slope, moving with the fluid, silent grace of a hunter.
@@ -630,7 +630,7 @@ Through the drifting mountain fog, a line of dark silhouettes moved across the s
 
 Across their chests hung an eclectic, desperate armory—ancient French Model 1886 Lebel rifles with long needle bayonets, 12-gauge double-barreled hunting shotguns bound with baling wire, and two weathered 9mm Sten guns dropped by the RAF during the spring moon.
 
-A stocky, broad-shouldered man stepped out from the center of the line. He wore a greasy corduroy cap and an unbuttoned sheepskin coat. In his right hand, leveled dead at Macpherson’s boulder, was a German Walther P38 automatic. In his left hand, he held a tin storm lantern, its glass cylinder hooded by a dirty linen cloth.
+A stocky, broad-shouldered man stepped out from the center of the line. He wore a greasy corduroy cap and an unbuttoned sheepskin coat. In his right hand, leveled dead at Macpherson's boulder, was a German Walther P38 automatic. In his left hand, he held a tin storm lantern, its glass cylinder hooded by a dirty linen cloth.
 
 COURNIL
 (barking in the thick, rolling dialect of the Auvergne)
@@ -650,22 +650,22 @@ Et la terre attend la pluie.
 NARRATOR
 The man stepped forward and threw back the linen cloth from the storm lantern.
 
-The raw yellow kerosene flame flared in the mountain wind, cutting through the swirling gray mist. The beam swept across Macpherson’s heavy ammunition boots, traveled up the red-and-white diced wool hose, illuminated his bare, bleeding shin, and came to rest upon eight yards of heavy green-and-black Cameron of Erracht tartan, its deep pleats swaying gently in the sub-zero draft off the ridges.
+The raw yellow kerosene flame flared in the mountain wind, cutting through the swirling gray mist. The beam swept across Macpherson's heavy ammunition boots, traveled up the red-and-white diced wool hose, illuminated his bare, bleeding shin, and came to rest upon eight yards of heavy green-and-black Cameron of Erracht tartan, its deep pleats swaying gently in the sub-zero draft off the ridges.
 
 The light moved higher, catching the polished brass buckle of the leather service sporran, the Military Cross ribbon pinned to the service dress tunic, and stopped at the silver Cameron of Erracht badge gleaming on the dark blue Glengarry.
 
-The Frenchman’s jaw went completely slack.
+The Frenchman's jaw went completely slack.
 
 The lantern tilted in his hand, casting frantic, elongated yellow shadows across the basalt boulders behind him.
 
-Along the skirmish line, six young partisans lowered their Lebels and hunting shotguns, their eyes wide as saucers, staring at the Scotsman’s bare knees as though a mythological creature had fallen through the clouds into their pasture.
+Along the skirmish line, six young partisans lowered their Lebels and hunting shotguns, their eyes wide as saucers, staring at the Scotsman's bare knees as though a mythological creature had fallen through the clouds into their pasture.
 
 PARTISAN
 (muttering, tracing the sign of the cross)
-Nom d’un chien. Qu'est-ce que c'est que ça?
+Nom d'un chien. Qu'est-ce que c'est que ça?
 
 NARRATOR
-The French commander swallowed hard. He took three slow, heavy paces forward, raising the lantern until the heat of the glass was inches from Macpherson’s tunic buttons, raking the beam across the heavy tartan once more.
+The French commander swallowed hard. He took three slow, heavy paces forward, raising the lantern until the heat of the glass was inches from Macpherson's tunic buttons, raking the beam across the heavy tartan once more.
 
 COURNIL
 (rough, disbelieving French)
@@ -702,7 +702,7 @@ Brown stepped up beside the B2 container, his Sten gun slung muzzle-down across 
 
 Cournil stood in the center of the basalt clearing, looking from the Bourbon prince to the Tyneside signalman, and finally back to the six-foot Highland major holding eight yards of clan wool against the mountain gale.
 
-A slow, incredulous grin split the Frenchman’s stubbled face beneath his mustache. He let out a low, wheezing laugh that ended in a cough, turned his head, and spat a dark stream of tobacco juice onto the volcanic shale.
+A slow, incredulous grin split the Frenchman's stubbled face beneath his mustache. He let out a low, wheezing laugh that ended in a cough, turned his head, and spat a dark stream of tobacco juice onto the volcanic shale.
 
 He shoved his Walther P38 into the waistband of his corduroy trousers.
 
@@ -715,7 +715,7 @@ MACPHERSON
 If they laugh, Monsieur Cournil, they will die laughing. Where are the containers?
 
 NARRATOR
-Cournil’s face hardened, the brief moment of humor evaporating into the bitter reality of the occupation. He turned toward the juniper hollows and blew a sharp, low, two-tone whistle through his teeth.
+Cournil's face hardened, the brief moment of humor evaporating into the bitter reality of the occupation. He turned toward the juniper hollows and blew a sharp, low, two-tone whistle through his teeth.
 
 From the dark scrub along the pasture wall, twenty more young men emerged at a dead run, carrying ropes, timber poles, and hand-axes, heading down toward the hollow where the colored supply parachutes lay tangled in the boulders.
 
@@ -751,9 +751,9 @@ Encampment of the Maquis FTP
 NARRATOR
 The camp smelled of wet leaf mold, boiled cabbage, rancid lard, and the acrid, stale stench of cheap Caporal tobacco.
 
-Deep in a natural amphitheater of sweet chestnut and sessile oak, half a dozen low, sod-roofed charcoal-burners’ huts were half-submerged in the damp earth. Sacks of requisitioned wheat flour were stacked beneath greasy tarpaulins lashed to birch trunks. Around the perimeter, two dozen young men stood guard—or what passed for guard among the Francs-Tireurs et Partisans.
+Deep in a natural amphitheater of sweet chestnut and sessile oak, half a dozen low, sod-roofed charcoal-burners' huts were half-submerged in the damp earth. Sacks of requisitioned wheat flour were stacked beneath greasy tarpaulins lashed to birch trunks. Around the perimeter, two dozen young men stood guard—or what passed for guard among the Francs-Tireurs et Partisans.
 
-They wore blue mechanic's overalls, patched corduroys, or threadbare railway workers' jackets. Every man had a strip of red flannel ribbon pinned to his left sleeve with a rusty safety pin. Their weapons—an uneven assortment of 1886 Lebels, rusted 12-gauge hunting shotguns, and two oily MP 40s taken from dead gendarmes—were pointed not toward the departmental highway two miles south, but directly at Bernard Cournil’s five Secret Army guides who had escorted Team Quinine through the timber.
+They wore blue mechanic's overalls, patched corduroys, or threadbare railway workers' jackets. Every man had a strip of red flannel ribbon pinned to his left sleeve with a rusty safety pin. Their weapons—an uneven assortment of 1886 Lebels, rusted 12-gauge hunting shotguns, and two oily MP 40s taken from dead gendarmes—were pointed not toward the departmental highway two miles south, but directly at Bernard Cournil's five Secret Army guides who had escorted Team Quinine through the timber.
 
 At the center of the clearing, seated on an overturned cider barrel beneath a dripping tarp, was Jacques Chapou.
 
@@ -763,7 +763,7 @@ Before the collapse in 1940, he had been a professor of classical literature at 
 
 Chapou did not stand when Macpherson entered the clearing.
 
-He took a long, slow drag from a crushed Gauloise, allowing the blue smoke to drift into the gray mist, his eyes tracking deliberately down Macpherson’s six-foot frame: past the khaki service dress tunic and the Military Cross ribbon, down the eight yards of heavy, pleated Cameron of Erracht tartan, to the bare knees and the red-and-white diced hose caked in dried volcanic mud.
+He took a long, slow drag from a crushed Gauloise, allowing the blue smoke to drift into the gray mist, his eyes tracking deliberately down Macpherson's six-foot frame: past the khaki service dress tunic and the Military Cross ribbon, down the eight yards of heavy, pleated Cameron of Erracht tartan, to the bare knees and the red-and-white diced hose caked in dried volcanic mud.
 
 His gaze flicked to Sergeant Arthur Brown, who stood ten paces back with the B2 wireless case resting against his shins, and finally settled on Michel de Bourbon-Parme.
 
@@ -777,14 +777,14 @@ A Bourbon. The blood of Louis XVI. One hundred and fifty years after the Republi
 NARRATOR
 Michel took half a step forward, his jaw muscles knotting like iron beneath his pale skin, his pigskin-gloved hand dropping instinctively toward the hilt of his Fairbairn-Sykes knife.
 
-Macpherson’s left forearm shot out like a baulk of timber, catching Michel squarely across the chest.
+Macpherson's left forearm shot out like a baulk of timber, catching Michel squarely across the chest.
 
 MACPHERSON
 (quiet, measured English)
 Steady, Michel.
 
 NARRATOR
-Macpherson stepped directly into the center of the circle of red-armbanded partisans. His ammunition boots sank two inches into the black forest loam, the heavy pleats of his Cameron kilt whispering against the wet ferns. He stopped two paces from Chapou’s cider barrel, towering over the seated schoolteacher. The blue Glengarry bonnet was tilted forward over his right temple; his gray eyes were completely devoid of warmth.
+Macpherson stepped directly into the center of the circle of red-armbanded partisans. His ammunition boots sank two inches into the black forest loam, the heavy pleats of his Cameron kilt whispering against the wet ferns. He stopped two paces from Chapou's cider barrel, towering over the seated schoolteacher. The blue Glengarry bonnet was tilted forward over his right temple; his gray eyes were completely devoid of warmth.
 
 MACPHERSON
 (not turning his head)
@@ -799,7 +799,7 @@ Take the B2 set. Unhook the ground wire, stow the aerial, and return to the road
 NARRATOR
 Brown didn't blink. With the wooden, unhesitating discipline of the British Army, he swung the sixty-pound suitcase onto his shoulder by its web strap, clicked the safety on his slung Sten, turned on his heel, and started down the mud track.
 
-Chapou’s eyes narrowed behind his spectacles. The MP 40 on his knees shifted three inches, the muzzle rising toward Macpherson’s waist. Along the perimeter, six young communist fighters raised their Lebels, their bolts clicking back into battery.
+Chapou's eyes narrowed behind his spectacles. The MP 40 on his knees shifted three inches, the muzzle rising toward Macpherson's waist. Along the perimeter, six young communist fighters raised their Lebels, their bolts clicking back into battery.
 
 CHAPOU
 (softly)
@@ -814,17 +814,17 @@ CHAPOU
 We took Tulle. The FTP attacked the garrison on the seventh. We liquidated the security police and cornered the German rearguard in the schoolhouse. The city was ours.
 
 MACPHERSON
-And while you were celebrating your proletarian victory, Lammerding’s reconnaissance battalion rolled into Tulle from the south with fifty armored half-tracks and heavy machine guns. They drove your brave boys out of the town in twenty minutes because you had no anti-tank mines, no plastic explosive, and thirty rounds of nine-millimeter per Sten. <pause>
+And while you were celebrating your proletarian victory, Lammerding's reconnaissance battalion rolled into Tulle from the south with fifty armored half-tracks and heavy machine guns. They drove your brave boys out of the town in twenty minutes because you had no anti-tank mines, no plastic explosive, and thirty rounds of nine-millimeter per Sten. <pause>
 
 (voice dropping into a lethal, rhythmic cadence)
-And do you know what the SS did yesterday, Monsieur Chapou? While you were sitting on this barrel? They cordoned the town. They rounded up every male civilian between sixteen and sixty. And they hanged ninety-nine Frenchmen from the lampposts and the wrought-iron balconies along the river. They left them dangling in the sun while Lammerding’s officers drank white wine on the cafe terraces of the Place de la Cathédrale.
+And do you know what the SS did yesterday, Monsieur Chapou? While you were sitting on this barrel? They cordoned the town. They rounded up every male civilian between sixteen and sixty. And they hanged ninety-nine Frenchmen from the lampposts and the wrought-iron balconies along the river. They left them dangling in the sun while Lammerding's officers drank white wine on the cafe terraces of the Place de la Cathédrale.
 
 NARRATOR
 The forest clearing was utterly silent. The drip of rainwater falling from the chestnut leaves onto the sodden tarpaulins sounded like lead shot hitting earth.
 
-Cournil’s Secret Army men held their breath, their fingers hooked into their weapon slings. The young communist partisans in their blue overalls stared at Macpherson, their faces draining of color as the news of the massacre penetrated the mountain camp.
+Cournil's Secret Army men held their breath, their fingers hooked into their weapon slings. The young communist partisans in their blue overalls stared at Macpherson, their faces draining of color as the news of the massacre penetrated the mountain camp.
 
-Chapou’s hand tightened around the receiver of his German submachine gun until his knuckles turned white, but he did not speak.
+Chapou's hand tightened around the receiver of his German submachine gun until his knuckles turned white, but he did not speak.
 
 MACPHERSON
 (straightening his spine, pointing at Brown)
@@ -833,7 +833,7 @@ That wireless set is the only link between this department and the Royal Air For
 NARRATOR
 Chapou stared down at his boots. The cigarette had burned down to the yellow paper, scorching his thumb before he dropped it into the wet moss.
 
-The intellectual’s mind—the mind that had dissected Thucydides and Roman military history in the classrooms of Cahors—cut through the ideological rhetoric. He looked at Macpherson’s scarred face, saw the unyielding, total lack of fear in the gray eyes, and understood the absolute reality of the military ledger.
+The intellectual's mind—the mind that had dissected Thucydides and Roman military history in the classrooms of Cahors—cut through the ideological rhetoric. He looked at Macpherson's scarred face, saw the unyielding, total lack of fear in the gray eyes, and understood the absolute reality of the military ledger.
 
 Without ammunition, his battalions in the Corrèze were dead men.
 
@@ -850,7 +850,7 @@ CHAPOU
 How will it be divided?
 
 MACPHERSON
-Fifty percent to Cournil’s Secret Army. Fifty percent to your FTP battalions. On one non-negotiable condition.
+Fifty percent to Cournil's Secret Army. Fifty percent to your FTP battalions. On one non-negotiable condition.
 
 CHAPOU
 (pushing his spectacles up)
@@ -885,7 +885,7 @@ Arthur! Bring the B2 set back into the shelter. We have operational orders to dr
 NARRATOR
 Brown pivoted on his heel, the vulcanized suitcase balanced effortlessly on his shoulder, and marched back into the clearing, his ammunition boots squelching rhythmically in the mud.
 
-Chapou watched the signalman pass, then looked down at the heavy, dark folds of the Cameron of Erracht kilt hanging against Macpherson’s shins.
+Chapou watched the signalman pass, then looked down at the heavy, dark folds of the Cameron of Erracht kilt hanging against Macpherson's shins.
 
 CHAPOU
 (match burning out between his fingers)
@@ -918,7 +918,7 @@ MICHEL
 Vanguard. Lead echelon. Four eight-wheeled heavy armored cars—Sd.Kfz 231s. Fifty-yard intervals. Followed by three motorcycle combinations with sidecar-mounted MG 42s. Then the half-tracks.
 
 NARRATOR
-A heavy, low-frequency hum resonated through the gorge—a deep, metallic thrum that set the loose gravel shivering against Macpherson’s bare knees.
+A heavy, low-frequency hum resonated through the gorge—a deep, metallic thrum that set the loose gravel shivering against Macpherson's bare knees.
 
 Out from behind the bluffs south of Cahors ground the point element of SS-Panzer-Aufklärungs-Abteilung 2, the armored reconnaissance battalion of Das Reich. Behind them stretched an unbroken, churning caterpillar of olive-drab canvas and three-tone camouflaged steel—Sd.Kfz 251 medium half-tracks carrying panzergrenadiers whose helmet covers were patterned in mottled green and brown; three-ton Opel Blitz supply lorries running on synthetic gasoline that coughed out acrid blue exhaust; heavy Henschel field ambulances; and open Kübelwagens carrying staff officers with map cases spread wide across their knees.
 
@@ -951,7 +951,7 @@ Report.
 
 COURNIL
 (voice flat with suppressed fury)
-Lammerding confirmed the Sperrle decree before leaving Montauban. Field Marshal Sperrle’s standing order for the Western theater—for every German soldier wounded by irregulars, five French civilians will be executed. For every German killed, fifty will hang. Any village through which a shot is fired will be burned to the bedrock. South of Souillac yesterday evening, a reconnaissance car took three carbine rounds from an apple orchard. The panzergrenadiers didn't even search the trees. They cordoned the nearest farm, locked an old woman and two girls inside the barn, and set the timbers alight with gasoline. They didn't waste a cartridge.
+Lammerding confirmed the Sperrle decree before leaving Montauban. Field Marshal Sperrle's standing order for the Western theater—for every German soldier wounded by irregulars, five French civilians will be executed. For every German killed, fifty will hang. Any village through which a shot is fired will be burned to the bedrock. South of Souillac yesterday evening, a reconnaissance car took three carbine rounds from an apple orchard. The panzergrenadiers didn't even search the trees. They cordoned the nearest farm, locked an old woman and two girls inside the barn, and set the timbers alight with gasoline. They didn't waste a cartridge.
 
 NARRATOR
 Macpherson looked back through his binoculars.
@@ -989,7 +989,7 @@ And your wireless operator?
 
 MACPHERSON
 (rising to a low crouch in the scrub)
-Sergeant Brown is two miles behind us in a shepherd’s hut. He is transmitting our first operational contact report to London. By noon, the Allied High Command will know Lammerding is committed to Route Nationale 20. And by dusk, Lammerding’s forward scouts will discover that the road to Normandy has teeth.
+Sergeant Brown is two miles behind us in a shepherd's hut. He is transmitting our first operational contact report to London. By noon, the Allied High Command will know Lammerding is committed to Route Nationale 20. And by dusk, Lammerding's forward scouts will discover that the road to Normandy has teeth.
 
 
 
@@ -1003,7 +1003,7 @@ Passage à Niveau 142, south of Cressensac
 Intersection of the Paris-Toulouse rail line and Route Nationale 20
 
 NARRATOR
-The crossing keeper’s stone cottage stood abandoned beside the tracks, its green wooden shutters hanging crooked on broken iron hinges. On the kitchen table inside, half a loaf of sourdough bread had hardened into green mold beside an open tin of sardines covered in black flies.
+The crossing keeper's stone cottage stood abandoned beside the tracks, its green wooden shutters hanging crooked on broken iron hinges. On the kitchen table inside, half a loaf of sourdough bread had hardened into green mold beside an open tin of sardines covered in black flies.
 
 Outside, the midsummer heat hung over the steel rails like grease on an anvil.
 
@@ -1038,7 +1038,7 @@ MACPHERSON
 Calculated to strike forty-two inches above the crown of the road. Exactly the height of the windshield posts on an open German staff car traveling at fifty miles an hour.
 
 NARRATOR
-Across the road, two young FTP partisans from Jacques Chapou’s Souillac network crouched behind a blackberry bramble, their faces pale beneath their cloth caps. They held their breath, their fingers white where they gripped the wooden stocks of ancient 12-gauge hunting shotguns loaded with lead buckshot.
+Across the road, two young FTP partisans from Jacques Chapou's Souillac network crouched behind a blackberry bramble, their faces pale beneath their cloth caps. They held their breath, their fingers white where they gripped the wooden stocks of ancient 12-gauge hunting shotguns loaded with lead buckshot.
 
 PARTISAN
 (hissing, pointing a trembling finger south)
@@ -1058,11 +1058,11 @@ Understood.
 NARRATOR
 From down the limestone gorge, the sharp, angry whine of a high-revving internal combustion engine cut through the midsummer heat.
 
-It was not a lumbering half-track. It was an open Adler 3Gd staff car, stripped of its canvas doors for speed, running flat out to scout the approaches to Brive for Lammerding’s forward battle groups. Flanking the rear quarter of the car rode a heavy BMW R75 motorcycle combination, its sidecar mounting an MG 42 machine gun behind a small steel blast shield.
+It was not a lumbering half-track. It was an open Adler 3Gd staff car, stripped of its canvas doors for speed, running flat out to scout the approaches to Brive for Lammerding's forward battle groups. Flanking the rear quarter of the car rode a heavy BMW R75 motorcycle combination, its sidecar mounting an MG 42 machine gun behind a small steel blast shield.
 
 The car took the sweeping bend four hundred yards south on screaming tires, kicking up a rooster-tail of chalky white dust.
 
-Through his service binoculars, Macpherson caught them—four men in the car. A driver in field-gray, his hands locked hard to the steering wheel; an SS officer in the passenger seat wearing a peaked officer’s cap with silver skull insignia, his leather map case clutched against his knees; and two panzergrenadiers in the rear bucket seats with Kar98k rifles slung across their shoulders.
+Through his service binoculars, Macpherson caught them—four men in the car. A driver in field-gray, his hands locked hard to the steering wheel; an SS officer in the passenger seat wearing a peaked officer's cap with silver skull insignia, his leather map case clutched against his knees; and two panzergrenadiers in the rear bucket seats with Kar98k rifles slung across their shoulders.
 
 They were doing fifty-five miles an hour, confident that the terror of the Sperrle decree had swept the highway clean of irregulars.
 
@@ -1100,7 +1100,7 @@ The iron-strapped oak beam struck the windshield at fifty miles an hour.
 
 The sound was not a thud. It was the explosive, violent crack of safety glass shattering into powder, followed immediately by the sickening, wet crunch of structural steel, bone, and iron meeting at maximum velocity.
 
-The heavy timber sheared through the windshield posts as if they were copper wire. It smashed through the dashboard, struck the officer and the driver square in the chest and neck, and drove the steering column straight back through the driver’s spine, folding the car’s cowl backward like the lid of a tin can.
+The heavy timber sheared through the windshield posts as if they were copper wire. It smashed through the dashboard, struck the officer and the driver square in the chest and neck, and drove the steering column straight back through the driver's spine, folding the car's cowl backward like the lid of a tin can.
 
 The rear-seat panzergrenadiers were pitched forward into the timber, their helmets torn away, their skulls cracking against the iron strapping.
 
@@ -1110,9 +1110,9 @@ Twenty paces behind, the motorcycle combination swerved violently to avoid the w
 
 Crack-crack-crack.
 
-Michel’s M1 carbine barked three times from the nettles.
+Michel's M1 carbine barked three times from the nettles.
 
-The .30-caliber carbine slugs punched through the motorcycle driver’s chest. The bike wobbled, lost its line, plowed nose-first into the railway ditch, and flipped end-over-end, throwing the machine gunner into a heap of fractured ballast.
+The .30-caliber carbine slugs punched through the motorcycle driver's chest. The bike wobbled, lost its line, plowed nose-first into the railway ditch, and flipped end-over-end, throwing the machine gunner into a heap of fractured ballast.
 
 The two FTP partisans rose from the blackberry bushes, their shotguns booming in ragged succession, peppering the ditch with heavy buckshot.
 
@@ -1149,7 +1149,7 @@ Call the FTP boys up with the rest of the 808. <pause>
 Place four pounds of plastic on each rail. Cut the Paris-Toulouse mainline in two places. Blow the telegraph lines across the highway, and haul this motorcycle directly across the grade. <pause>
 
 (turning his back on the wreck, checking the dial of his pocket watch)
-When Lammerding’s lead tanks arrive, they can spend two hours clearing the corpses of their own scouts before they can move an inch.
+When Lammerding's lead tanks arrive, they can spend two hours clearing the corpses of their own scouts before they can move an inch.
 
 
 
@@ -1165,7 +1165,7 @@ Department of Corrèze
 NARRATOR
 The rain had come down without pause since noon—a thick, lukewarm drizzle that smelled of rotting leaves, wet slate, and stagnant ditch-water.
 
-Inside a ruined limestone barn with half its roof slates caved in, Sergeant Arthur Brown had strung sixty feet of enameled copper aerial wire between two rusted hay forks in the rafters. The glass valves of the B2 transmitter cast a faint, amber luminescence across the damp stones. Beside the suitcase, Brown’s grease pencil moved across a silk-backed cipher pad, recording five-letter groups arriving from London in short, rhythmic bursts of static.
+Inside a ruined limestone barn with half its roof slates caved in, Sergeant Arthur Brown had strung sixty feet of enameled copper aerial wire between two rusted hay forks in the rafters. The glass valves of the B2 transmitter cast a faint, amber luminescence across the damp stones. Beside the suitcase, Brown's grease pencil moved across a silk-backed cipher pad, recording five-letter groups arriving from London in short, rhythmic bursts of static.
 
 At the far end of the barn, illuminated by a sputtering carbide lamp, a bicycle lay on its side in the straw, its front tire flat, the wheel rim caked in red clay.
 
@@ -1176,7 +1176,7 @@ COURIER
 Six hundred and forty-three. We counted the dead from the woods after the SS drove away. Every woman. Every child. They locked them in the church.
 
 NARRATOR
-Jacques Chapou stood over the boy, motionless. The Communist commander’s nickel-rimmed spectacles were fogged with condensation, but behind the glass, his dark eyes had turned into dead, black hollows.
+Jacques Chapou stood over the boy, motionless. The Communist commander's nickel-rimmed spectacles were fogged with condensation, but behind the glass, his dark eyes had turned into dead, black hollows.
 
 CHAPOU
 (dry, flat rasp)
@@ -1208,7 +1208,7 @@ Two FTP partisans—young miners from the pitheads near Tulle, their faces strea
 
 He was a Wehrmacht corporal from an army transport unit, captured two hours earlier when his three-ton Opel Blitz lorry had thrown a track in an anti-tank ditch near Uzerche. His field-gray tunic was torn at the shoulder, revealing a dirty undershirt. Blood dripped from a gash across his forehead where a rifle butt had struck him. His hands were bound behind his back with rusted telephone wire.
 
-One of the miners, a nineteen-year-old whose older brother had been hanged from a wrought-iron balcony in Tulle five days before, shoved the German onto his knees in the straw. The German’s forehead struck the stone floor with a dull thud.
+One of the miners, a nineteen-year-old whose older brother had been hanged from a wrought-iron balcony in Tulle five days before, shoved the German onto his knees in the straw. The German's forehead struck the stone floor with a dull thud.
 
 The miner drew a heavy, rusted farm cleaver from his belt, his eyes wild with grief and fury.
 
@@ -1260,7 +1260,7 @@ MICHEL
 Yes, Tommy?
 
 MACPHERSON
-Cut the wire on this man's wrists. Hand him over to Cournil’s men. He will be marched into the high cantons of the Cantal and held as a prisoner of war under armed guard. If a single man touches him before then, I will shoot that man myself for mutiny in the field.
+Cut the wire on this man's wrists. Hand him over to Cournil's men. He will be marched into the high cantons of the Cantal and held as a prisoner of war under armed guard. If a single man touches him before then, I will shoot that man myself for mutiny in the field.
 
 NARRATOR
 Michel stepped forward with his Fairbairn-Sykes knife. The blackened steel severed the rusty wire with a single flick. The German collapsed forward into the straw, sobbing into his hands.
@@ -1370,7 +1370,7 @@ Macpherson ran the detonating cord down the wall, spliced it to a length of blac
 
 MICHEL
 (breath misting in the cold draft)
-Arthur’s detachment is in position at the northern portal near Murat?
+Arthur's detachment is in position at the northern portal near Murat?
 
 MACPHERSON
 Sergeant Brown and Cournil have twenty pounds of ammonal laid across the tracks at the northern exit. If the engine driver tries to reverse out of the mountain after the crash, he finds the northern gate blocked with derailed ballast. The train stays inside.
@@ -1417,7 +1417,7 @@ Simultaneously, the high rail sheared under the cutting charge.
 
 The eighty-ton locomotive jumped the ballast at fifteen miles an hour. The iron wheels gouged deep into the timber ties, the boiler slamming violently into the collapsing masonry wall. The front coaches telescoped into the rear of the tender with a horrific, screeching crumple of structural steel, timber panels, and tearing iron.
 
-Inside the mountain, a secondary, muffled thunder rolled through the bedrock—Arthur Brown’s charges detonating at the northern exit.
+Inside the mountain, a secondary, muffled thunder rolled through the bedrock—Arthur Brown's charges detonating at the northern exit.
 
 Then, the mountain settled.
 
@@ -1460,7 +1460,7 @@ Tommy Macpherson crouched behind the root ball of an uprooted Scots pine, his Ca
 
 Beside him in the dirt, Lieutenant Colonel Émile Coulaudon—known throughout the resistance networks of the Auvergne as Colonel Gaspard—was screaming into the dead horn of a field telephone.
 
-Gaspard was thirty-six years old, a former electrical contractor from Clermont-Ferrand, wearing an officer’s peaked cap from the 1940 mobilization and a tailored civilian trench coat soaked in mud. His eyes were bloodshot from three days without sleep, his mustache twitching with nervous exhaustion.
+Gaspard was thirty-six years old, a former electrical contractor from Clermont-Ferrand, wearing an officer's peaked cap from the 1940 mobilization and a tailored civilian trench coat soaked in mud. His eyes were bloodshot from three days without sleep, his mustache twitching with nervous exhaustion.
 
 GASPARD
 (shouting, slamming the earpiece against the roots)
@@ -1483,14 +1483,14 @@ Michel crawled up the reverse slope on his elbows, dragging two canvas satchels 
 
 MICHEL
 (rapid, clipped French)
-Jesser’s light infantry is flanking the western gully. They have three medium howitzers unlimbered near Pinols. They have already burned the village of Clavières to the bedrock. Every barn on the lower road is in flames. If you keep your battalions on this ridge for another two hours, the German artillery will register the timberline, and not one man will leave this mountain alive.
+Jesser's light infantry is flanking the western gully. They have three medium howitzers unlimbered near Pinols. They have already burned the village of Clavières to the bedrock. Every barn on the lower road is in flames. If you keep your battalions on this ridge for another two hours, the German artillery will register the timberline, and not one man will leave this mountain alive.
 
 GASPARD
 (chest heaving, face drained of blood)
 To retreat now is to admit defeat. It will destroy the morale of the Maquis!
 
 NARRATOR
-Macpherson reached out, grabbed the lapel of Gaspard’s sodden trench coat with his gloved left hand, and hauled the French commander down into the dirt as another burst of 20-millimeter shells shaved the pine bark four feet overhead.
+Macpherson reached out, grabbed the lapel of Gaspard's sodden trench coat with his gloved left hand, and hauled the French commander down into the dirt as another burst of 20-millimeter shells shaved the pine bark four feet overhead.
 
 MACPHERSON
 (face inches from Gaspard's)
@@ -1502,7 +1502,7 @@ From the southern crest, running low through the bursting dirt and pine branches
 The Newcastle signalman was carrying the vulcanized B2 case against his ribs like a football, his Sten gun slung muzzle-down across his chest, his boots sliding wildly on the greasy pine needles. He dropped into the hollow beside Macpherson, gasping for air, his face gray with fatigue.
 
 BROWN
-(wheezing, thrusting a cipher strip into Macpherson’s hand)
+(wheezing, thrusting a cipher strip into Macpherson's hand)
 Message from London, sir. Decoded it ten minutes ago behind the forestry shed before a mortar splinter took the aerial down.
 
 NARRATOR
@@ -1579,7 +1579,7 @@ MICHEL
 Front-wheel drive. Independent front suspension. Rack-and-pinion steering. Low center of gravity because the drive shaft does not run beneath the passenger compartment. She will take mountain switchbacks at seventy kilometers an hour without lifting a tire. The French police call her La Reine de la Route.
 
 MACPHERSON
-(leaning through the open driver’s window)
+(leaning through the open driver's window)
 The Milice call her an escape carriage. <pause> The velour comes out.
 
 BOUSSAC
@@ -1604,7 +1604,7 @@ Brown set the chest down on the workbench, pried the latches open with a cold ch
 
 BROWN
 (eyes calculating the geometry of the rear floor)
-Aye. If we tear the rear cushions out, there’s a boxed structural cross-member running between the rear torsion-bar anchor plates. If Monsieur Boussac has a three-foot length of two-inch steam pipe, four steel gusset plates, and an oxyacetylene torch, I can weld a vertical pintle straight through the floor pan into the frame. Universal pivot on top. Gunner stands behind the front bucket seats. Thirty-round curved magazines racked in the door wells. Three hundred and sixty degrees of clear traverse over the roof.
+Aye. If we tear the rear cushions out, there's a boxed structural cross-member running between the rear torsion-bar anchor plates. If Monsieur Boussac has a three-foot length of two-inch steam pipe, four steel gusset plates, and an oxyacetylene torch, I can weld a vertical pintle straight through the floor pan into the frame. Universal pivot on top. Gunner stands behind the front bucket seats. Thirty-round curved magazines racked in the door wells. Three hundred and sixty degrees of clear traverse over the roof.
 
 MACPHERSON
 Get it done.
@@ -1628,7 +1628,7 @@ MACPHERSON
 We are not couriers crawling under loads of hay, Michel.
 
 NARRATOR
-He walked over to Boussac’s workbench, where three half-empty one-liter tins of industrial enamel paint sat on a shelf among the rusted files—crimson red, marine blue, and zinc white. He picked up the three tins and set them down on the hood of the Citroën with three sharp, metallic clangs.
+He walked over to Boussac's workbench, where three half-empty one-liter tins of industrial enamel paint sat on a shelf among the rusted files—crimson red, marine blue, and zinc white. He picked up the three tins and set them down on the hood of the Citroën with three sharp, metallic clangs.
 
 MACPHERSON
 (tapping the black lacquer of the offside fender)
@@ -1700,7 +1700,7 @@ Macpherson pushed the passenger door open, stepped down onto the cobblestones, a
 
 He did not draw his Sten. He walked with a slow, measured, parade-ground pace toward the wrought-iron tables of the café terrace.
 
-The elderly patrons stared in utter disbelief. One old peasant in wooden sabots dropped his clay pipe, the stem shattering on the stones. Their eyes traveled from Macpherson’s ammunition boots, up the red-and-white diced wool hose, past the bare, sunburnt knees, to the khaki service tunic, the Military Cross ribbon, and the lean, unsmiling face of a British major.
+The elderly patrons stared in utter disbelief. One old peasant in wooden sabots dropped his clay pipe, the stem shattering on the stones. Their eyes traveled from Macpherson's ammunition boots, up the red-and-white diced wool hose, past the bare, sunburnt knees, to the khaki service tunic, the Military Cross ribbon, and the lean, unsmiling face of a British major.
 
 From the municipal hall across the street, a man in a dark three-piece civilian suit and a tricolor sash emerged onto the steps, his face pale with dread—the village mayor.
 
@@ -1724,7 +1724,7 @@ The mayor hesitated for five agonizing seconds, looked at the black Citroën wit
 
 The café owner, an older man whose hands were shaking so violently that the bottle chimed against the glassware, set two tumblers of rough red Cahors wine on the iron table.
 
-Macpherson raised his glass, looking into the mayor’s eyes.
+Macpherson raised his glass, looking into the mayor's eyes.
 
 MACPHERSON
 À la France.
@@ -1805,7 +1805,7 @@ From around the lower hairpin, seventy yards below, the German armored car appea
 
 Crack-crack-crack-crack!
 
-The German gunner opened fire. High-explosive 20-millimeter rounds tore into the rock face above Macpherson’s head, showering the gravel with sharp basalt chips.
+The German gunner opened fire. High-explosive 20-millimeter rounds tore into the rock face above Macpherson's head, showering the gravel with sharp basalt chips.
 
 Macpherson did not duck. He crouched behind a boulder at the bridge abutment, pulled the friction pin from the No. 69 grenade, stepped out into the open, and heaved the bomb down the slope.
 
@@ -1838,7 +1838,7 @@ Behind them, the road from Aurillac into the western canton was permanently seve
 
 BROWN
 (bone-dry Tyneside drawl)
-Radiator’s holding temperature, sir. And the mayor knows who owns the town.
+Radiator's holding temperature, sir. And the mayor knows who owns the town.
 
 MACPHERSON
 (climbing into the front seat, adjusting his Glengarry bonnet)
@@ -1858,13 +1858,13 @@ Department of Lot
 NARRATOR
 The afternoon heat hung over the valley like wet wool, smelling of horse manure, dry limestone dust, and scorched engine oil.
 
-In the deep shade of a plane tree, the black Citroën 15-Six sat with its dual-hinged hood propped open, its straight-six block ticking softly as the iron manifold cooled. The twin-tone pneumatic horns behind the chevron grille were choked with pale yellow dust from the mountain switchbacks, and along the lower sheet metal of the driver’s door, three parallel gray furrows marked where a burst of 7.92-millimeter fire from an MG 34 had grazed the black lacquer during a running fight on the road out of Figeac three days before.
+In the deep shade of a plane tree, the black Citroën 15-Six sat with its dual-hinged hood propped open, its straight-six block ticking softly as the iron manifold cooled. The twin-tone pneumatic horns behind the chevron grille were choked with pale yellow dust from the mountain switchbacks, and along the lower sheet metal of the driver's door, three parallel gray furrows marked where a burst of 7.92-millimeter fire from an MG 34 had grazed the black lacquer during a running fight on the road out of Figeac three days before.
 
 Sergeant Arthur Brown sat on an upturned wooden wash-tub against the rectory wall, his web belt unbuckled, the Bakelite headphones of the B2 set clamped over his ears. His pencil moved in a slow, rhythmic cadence across a silk-backed cipher pad, logging three-letter groups received from London.
 
 Beside the Citroën, Michel de Bourbon-Parme leaned against the stone lip of an empty well, methodically running an oily flannel patch through the receiver housing of his M1 carbine. The clean, mechanical click-clack of the operating slide was the only sound breaking the drone of the midsummer horseflies.
 
-Macpherson sat on the presbytery steps. He had taken off his leather service sporran, setting it beside his ammunition boots. Across his bare knees lay the heavy woolen expanse of the Cameron of Erracht kilt; with a curved sailmaker’s needle and a spool of black waxed linen thread, he was carefully restitching a four-inch tear in an outer pleat where a strand of barbed wire had caught the fabric during a night ambush outside Saint-Céré.
+Macpherson sat on the presbytery steps. He had taken off his leather service sporran, setting it beside his ammunition boots. Across his bare knees lay the heavy woolen expanse of the Cameron of Erracht kilt; with a curved sailmaker's needle and a spool of black waxed linen thread, he was carefully restitching a four-inch tear in an outer pleat where a strand of barbed wire had caught the fabric during a night ambush outside Saint-Céré.
 
 The heavy oak gates of the presbytery courtyard swung back with a long, dry groan of ungreased iron.
 
@@ -1912,7 +1912,7 @@ MACPHERSON
 They aren't being cheap, Arthur. They are desperate.
 
 NARRATOR
-Cournil pulled a crushed Gauloise from his shirt pocket, struck a match against the Citroën's headlamp glass, and exhaled a thin plume of blue smoke into the heat. He looked at Macpherson’s unsmiling face, his dark eyes measuring the Scotsman’s stillness.
+Cournil pulled a crushed Gauloise from his shirt pocket, struck a match against the Citroën's headlamp glass, and exhaled a thin plume of blue smoke into the heat. He looked at Macpherson's unsmiling face, his dark eyes measuring the Scotsman's stillness.
 
 COURNIL
 (quietly)
@@ -1992,7 +1992,7 @@ From the bell tower of the Church of Notre-Dame-aux-Neiges, four hundred yards t
 
 Tommy Macpherson stood beside the offside front wing of the Citroën 15-Six, parked across the mouth of the Boulevard du Pont-d'Alauzet.
 
-The car’s six-cylinder engine was idling with a low, rhythmic purr, its chrome radiator chevrons spattered with dry mud from the overnight run down from the heights of Vic-sur-Cère. On the pavement beside the Citroën, bedded into sandbags filled with river silt, stood three British three-inch mortar tubes, dropped by parachute onto the plateau of Saint-Simon forty-eight hours earlier.
+The car's six-cylinder engine was idling with a low, rhythmic purr, its chrome radiator chevrons spattered with dry mud from the overnight run down from the heights of Vic-sur-Cère. On the pavement beside the Citroën, bedded into sandbags filled with river silt, stood three British three-inch mortar tubes, dropped by parachute onto the plateau of Saint-Simon forty-eight hours earlier.
 
 Around the perimeter of the square, crouched behind low garden walls, iron railings, and butcher shop doorways, were two hundred partisans of the Secret Army and the local Francs-Tireurs et Partisans under Commandant Thomas. They were armed with fresh British Sten guns, their cloth caps and Basque berets pinned with white linen armbands stenciled in black ink—FFI.
 
@@ -2040,13 +2040,13 @@ Michel. Do you have the terms?
 
 MICHEL
 (tapping his breast pocket)
-Five copies. Typed on the prefecture’s machine in French and German.
+Five copies. Typed on the prefecture's machine in French and German.
 
 MACPHERSON
 Let us go speak with the Kommandant.
 
 NARRATOR
-Cournil caught Macpherson’s left sleeve, his fingers digging into the coarse serge of the tunic.
+Cournil caught Macpherson's left sleeve, his fingers digging into the coarse serge of the tunic.
 
 COURNIL
 You are walking into the barracks? With seventy Miliciens inside? They know they will be shot when the town falls, Major. They have no future. They will shoot you through the viewing slits before you clear the boulevard.
@@ -2060,7 +2060,7 @@ Macpherson hoisted the Bren cleaning rod in his left hand, the white linen flag 
 
 His blue Glengarry bonnet was set square on his head; the eight yards of the Cameron of Erracht kilt swung with rhythmic precision against his shins, the red-and-white diced hose brilliant against the gray cobblestones.
 
-Beside him, Michel drew his shoulders back, his Free French officer’s cap tilted at an aristocratic angle, his pigskin gloves folded beneath his left shoulder strap.
+Beside him, Michel drew his shoulders back, his Free French officer's cap tilted at an aristocratic angle, his pigskin gloves folded beneath his left shoulder strap.
 
 Together, the Scottish major and the Bourbon prince walked out into the center of the wide, empty boulevard.
 
@@ -2084,7 +2084,7 @@ Inside the gate, boots scrambled frantically across the gravel. Whispered argume
 
 After ninety seconds of agonizing silence, a heavy iron bolt slid back with a resonant thud. The small wicket door set into the right timber of the gate swung inward four inches.
 
-A German staff captain, his uniform tunic stained with soot and his eyes sunken with three days of sleepless terror, stepped into the opening. Behind him, two young Wehrmacht corporals held MP 40s leveled dead at Macpherson’s ribs, their hands trembling visibly on the receivers.
+A German staff captain, his uniform tunic stained with soot and his eyes sunken with three days of sleepless terror, stepped into the opening. Behind him, two young Wehrmacht corporals held MP 40s leveled dead at Macpherson's ribs, their hands trembling visibly on the receivers.
 
 In the open courtyard beyond, huddled beside the garage bays, stood thirty French Miliciens in dark blue civilian clothes, their faces twisted with sheer animal panic.
 
@@ -2184,7 +2184,7 @@ Chapter Fifteen
 The Pincers of Dragoon
 
 17 August 1944 — 1400 Hours
-The Prefect’s Office, Hôtel de la Préfecture
+The Prefect's Office, Hôtel de la Préfecture
 Aurillac, Department of Cantal
 
 NARRATOR
@@ -2196,7 +2196,7 @@ Inside the mahogany-paneled office of the departed Vichy prefect, there was no c
 
 Sergeant Arthur Brown sat on a gilded Empire armchair, his ammunition boots resting on an Aubusson carpet. The vulcanized B2 wireless set was balanced on a Louis XV writing desk, its headphones pressed hard against his right ear. His grease pencil moved across a fresh sheet of cipher paper, the sharp scratch-scratch-scratch keeping pace with a rapid burst of high-speed Morse from London.
 
-Tommy Macpherson stood over the desk, unbuttoning his service tunic. The mid-August heat in the valley was stifling, baking the basalt masonry of the town until the air inside the office felt like the draft from a baker’s kiln. He wore his Cameron of Erracht kilt, clean now, the volcanic shale brushed from the pleats, and a fresh khaki shirt supplied by an SOE parachute drop three nights before.
+Tommy Macpherson stood over the desk, unbuttoning his service tunic. The mid-August heat in the valley was stifling, baking the basalt masonry of the town until the air inside the office felt like the draft from a baker's kiln. He wore his Cameron of Erracht kilt, clean now, the volcanic shale brushed from the pleats, and a fresh khaki shirt supplied by an SOE parachute drop three nights before.
 
 Michel de Bourbon-Parme was leaning over a six-foot War Office wall map of metropolitan France, pinned to the silk wallpaper with four captured German bayonets.
 
@@ -2232,7 +2232,7 @@ Which leaves only one route. <pause>
 They have to move northeast. Up through Angoulême, Poitiers, Châteauroux, and Issoudun. They have to cross the Loire between Tours and Orléans to reach the open plains of Burgundy, and from there slip through the Belfort Gap to the German frontier.
 
 NARRATOR
-The double oak doors of the prefect’s office swung open with a heavy thud.
+The double oak doors of the prefect's office swung open with a heavy thud.
 
 Bernard Cournil walked in, accompanied by Jean de Roquemaurel. Both men wore official tricolor armbands marking them as leaders of the Departmental Liberation Committee. Behind them, two young partisans carried wooden crates filled with confiscated Vichy police dossiers.
 
@@ -2266,18 +2266,18 @@ Let them march. They are leaving our soil. Good riddance. We hold the Cantal. We
 
 MACPHERSON
 (gray eyes hardening into flint)
-If Elster’s twenty thousand men reach the German frontier intact, they will be re-equipped with heavy armor and thrown into the Siegfried Line to kill Allied soldiers this winter. But worse than that—between Poitiers and the Loire, there is only one regular Allied unit.
+If Elster's twenty thousand men reach the German frontier intact, they will be re-equipped with heavy armor and thrown into the Siegfried Line to kill Allied soldiers this winter. But worse than that—between Poitiers and the Loire, there is only one regular Allied unit.
 
 MICHEL
 Who?
 
 MACPHERSON
-The American Eighty-Third Infantry Division. Commanded by Major General Robert Macon. They have just been pulled out of the hedgerow fighting in Normandy. They have a single division holding a defensive screen along the north bank of the Loire—a front nearly two hundred miles long. They are stretched thin as tissue paper. If Elster hits them with twenty thousand desperate men trying to force a crossing, he will puncture the American flank and roll up Patton’s rear supply lines. <pause>
+The American Eighty-Third Infantry Division. Commanded by Major General Robert Macon. They have just been pulled out of the hedgerow fighting in Normandy. They have a single division holding a defensive screen along the north bank of the Loire—a front nearly two hundred miles long. They are stretched thin as tissue paper. If Elster hits them with twenty thousand desperate men trying to force a crossing, he will puncture the American flank and roll up Patton's rear supply lines. <pause>
 
 (picking up his Glengarry bonnet)
 The Cantal does not need Team Quinine anymore, Monsieur Cournil. You have your town. You have your committee. You have your speeches. <pause>
 
-Arthur. Pack the B2 set into the suitcase. Michel. Go down to Boussac’s garage. Tell him to fill the Citroën’s tank to the brim with aviation fuel, and wire four five-gallon jerrycans to the rear bumper.
+Arthur. Pack the B2 set into the suitcase. Michel. Go down to Boussac's garage. Tell him to fill the Citroën's tank to the brim with aviation fuel, and wire four five-gallon jerrycans to the rear bumper.
 
 MICHEL
 Where are we going, Tommy?
@@ -2308,7 +2308,7 @@ In the center files shuffled three-ton Opel Blitz lorries running on charcoal ga
 
 Standing on the steel running board of an open Horch 830 staff car parked beneath an oak copse was Generalmajor Botho Henning Elster.
 
-He was fifty years old, a veteran of the Western Front in 1914, with the narrow, severe jaw of the old Prussian military caste and thick, silvering hair cut high above his ears. The 1914 Iron Cross First Class hung from his left breast pocket, pinned above thirty years of service ribbons. His field-gray tunic was caked with white chalk dust from the Charente, but his high leather riding boots were clean, and his silver-braided general’s shoulder boards caught the copper glare of the setting sun.
+He was fifty years old, a veteran of the Western Front in 1914, with the narrow, severe jaw of the old Prussian military caste and thick, silvering hair cut high above his ears. The 1914 Iron Cross First Class hung from his left breast pocket, pinned above thirty years of service ribbons. His field-gray tunic was caked with white chalk dust from the Charente, but his high leather riding boots were clean, and his silver-braided general's shoulder boards caught the copper glare of the setting sun.
 
 Beside the car, his chief of operations, Major Ernst, had an ordnance map spread across the hood, held down against the rising evening wind by four spent 20-millimeter shell casings.
 
@@ -2337,7 +2337,7 @@ Two days' supply for the wheeled transport. If we idle the generators at night t
 NARRATOR
 From two miles down the column, the sharp, dry tear of an MG 42 burst echoed across the sunflower fields, followed immediately by three ragged rifle shots.
 
-A young lieutenant on a requisitioned Gnome-Rhône motorcycle slid to a halt beside the staff car, spraying gravel across Ernst's boots. The lieutenant’s face was blackened with exhaust soot, his left arm bound in a dirty sling.
+A young lieutenant on a requisitioned Gnome-Rhône motorcycle slid to a halt beside the staff car, spraying gravel across Ernst's boots. The lieutenant's face was blackened with exhaust soot, his left arm bound in a dirty sling.
 
 LIEUTENANT
 (saluting with his good hand, gasping)
@@ -2365,7 +2365,7 @@ Fools. Blind, arrogant fools.
 
 ERNST
 (frowning, looking up from the map)
-Herr General? Field Marshal Sperrle’s directive is explicit. Terrorists and their accomplices must be eliminated without hesitation to secure the line of march.
+Herr General? Field Marshal Sperrle's directive is explicit. Terrorists and their accomplices must be eliminated without hesitation to secure the line of march.
 
 ELSTER
 The Sperrle order was written when we had six panzer divisions between Paris and the English Channel, Ernst! Now we have nothing. We are three hundred miles behind the Allied front lines. The Americans have broken out of the bocage. They have taken Chartres; their armored spearheads are across the Seine. Behind us, the French and Americans have landed on the Mediterranean coast and are driving up the Rhône toward Lyon. <pause>
@@ -2411,7 +2411,7 @@ Crossing into the Department of Indre, south of Argenton-sur-Creuse
 NARRATOR
 The mountains were gone.
 
-For nearly three months, the jagged volcanic basalt, narrow ravines, and dense sweet-chestnut forests of the Cantal and Corrèze had been Team Quinine’s fortress. Now, as the black Citroën 15-Six crested the rolling limestone ridges of the southern Indre, the country flattened out into the vast, sun-bleached agricultural plains of the Berry—miles of pale wheat stubble, parched sunflower fields, and long, ruler-straight avenues of Lombardy poplars bisecting the heat shimmer.
+For nearly three months, the jagged volcanic basalt, narrow ravines, and dense sweet-chestnut forests of the Cantal and Corrèze had been Team Quinine's fortress. Now, as the black Citroën 15-Six crested the rolling limestone ridges of the southern Indre, the country flattened out into the vast, sun-bleached agricultural plains of the Berry—miles of pale wheat stubble, parched sunflower fields, and long, ruler-straight avenues of Lombardy poplars bisecting the heat shimmer.
 
 It was tank country. Open ground where a man with a Sten gun could be spotted from three miles away.
 
@@ -2451,11 +2451,11 @@ Before the dust had settled over the radiator chevrons, Macpherson kicked the pa
 
 The partisans froze. Their jaws dropped.
 
-The eldest of them—a gray-haired blacksmith with a red handkerchief knotted around his throat—lowered his Lee-Enfield, his eyes tracking down Macpherson’s service dress tunic, past the Military Cross ribbon, down the eight yards of chalk-stained Cameron tartan, to the diced wool hose and bare, sunburnt knees.
+The eldest of them—a gray-haired blacksmith with a red handkerchief knotted around his throat—lowered his Lee-Enfield, his eyes tracking down Macpherson's service dress tunic, past the Military Cross ribbon, down the eight yards of chalk-stained Cameron tartan, to the diced wool hose and bare, sunburnt knees.
 
 BLACKSMITH
 (soot-stained thumb crossing himself, breathing)
-Ça alors. C’est lui. Le Diable Écossais.
+Ça alors. C'est lui. Le Diable Écossais.
 
 MACPHERSON
 (crisp, effortless French)
@@ -2470,10 +2470,10 @@ I have a wireless set, a French prince, and a very irritable sergeant from Newca
 
 BLACKSMITH
 (pointing up the road)
-Colonel Chêne’s command post is in Argenton. Eight kilometers north. But you cannot take Route Nationale 20 into Châteauroux, Major!
+Colonel Chêne's command post is in Argenton. Eight kilometers north. But you cannot take Route Nationale 20 into Châteauroux, Major!
 
 MICHEL
-(stepping out from the driver’s side, wiping road grit)
+(stepping out from the driver's side, wiping road grit)
 Why not?
 
 BLACKSMITH
@@ -2481,7 +2481,7 @@ BLACKSMITH
 The Boche! The whole western plain is crawling with them! They crossed the Vienne two days ago. Thousands of them! Lorries, horse-drawn cannons, requisitioned Parisian buses. They are driving through Le Blanc, pushing toward Châteauroux. They are burning every farm where a shot is fired. They executed fifty-six hostages in Argenton in June, and they will shoot fifty more if the road is cut!
 
 NARRATOR
-Macpherson reached down and spread his Michelin map across the Citroën’s warm hood, his fingers pinning the paper against the wind. He tapped the town of Le Blanc, then traced the secondary departmental roads leading northeast across the Indre toward the Loire.
+Macpherson reached down and spread his Michelin map across the Citroën's warm hood, his fingers pinning the paper against the wind. He tapped the town of Le Blanc, then traced the secondary departmental roads leading northeast across the Indre toward the Loire.
 
 MACPHERSON
 (looking at Michel)
@@ -2507,7 +2507,7 @@ BROWN
 Sir?
 
 MACPHERSON
-Get on the B2 set the moment we reach Argenton. I want London’s latest operational grid for the American Eighty-Third Infantry Division. I need to know which American regiment is holding the north bank of the Loire, and I need the crystals tuned to the frequency of their forward reconnaissance net.
+Get on the B2 set the moment we reach Argenton. I want London's latest operational grid for the American Eighty-Third Infantry Division. I need to know which American regiment is holding the north bank of the Loire, and I need the crystals tuned to the frequency of their forward reconnaissance net.
 
 BROWN
 Right away, sir.
@@ -2539,7 +2539,7 @@ Our job is to make General Elster believe the hunter has teeth.
 
 NARRATOR
 Chapter Eighteen
-Macon’s Open Flank
+Macon's Open Flank
 
 1 September 1944 — 0915 Hours
 Forward Command Post, Headquarters, US 83rd Infantry Division
@@ -2561,11 +2561,11 @@ MACON
 Two hundred miles. Two hundred miles of riverfront, gentlemen. A standard triangular infantry division is designed by doctrine to defend six miles of active front. We are holding thirty-three times our doctrinal maximum.
 
 NARRATOR
-Standing across the table was his division intelligence officer, Lieutenant Colonel James, and a square-jawed, twenty-five-year-old first lieutenant wearing dust-caked jump boots and a canvas M1941 field jacket stained with machine oil. The lieutenant was Samuel W. Magill, commander of the 83rd Division’s Intelligence and Reconnaissance Platoon.
+Standing across the table was his division intelligence officer, Lieutenant Colonel James, and a square-jawed, twenty-five-year-old first lieutenant wearing dust-caked jump boots and a canvas M1941 field jacket stained with machine oil. The lieutenant was Samuel W. Magill, commander of the 83rd Division's Intelligence and Reconnaissance Platoon.
 
 JAMES
 (tapping a red chinagraph pencil against the south bank)
-General, Patton’s Third Army is crossing the Meuse. First Army is driving into Belgium. Bradley has stripped our corps of every medium tank battalion to feed fuel to the spearheads in the east. We have three infantry regiments—the 329th, 330th, and 331st—spread so thin between Nantes and Orléans that my company commanders are posting sentry squads five miles apart. <pause>
+General, Patton's Third Army is crossing the Meuse. First Army is driving into Belgium. Bradley has stripped our corps of every medium tank battalion to feed fuel to the spearheads in the east. We have three infantry regiments—the 329th, 330th, and 331st—spread so thin between Nantes and Orléans that my company commanders are posting sentry squads five miles apart. <pause>
 
 And now Ninth Air Force reconnaissance confirms the movement. We have a German march group coming straight up from the southwest. They cleared Poitiers three days ago. Their forward echelons are entering Châteauroux right now.
 
@@ -2585,7 +2585,7 @@ No Panthers or Tigers reported. A handful of four-wheeled armored cars, fifty or
 
 MACON
 (hands curling into fists against the table)
-If Elster concentrates twenty thousand men and hits one crossing—say, the bridge at Beaugency or Blois—he will roll right through our outposts before we can bring up a single reserve company. He punches a hole into our rear, severs Patton’s southern supply lines, and links up with the German forces falling back from Paris.
+If Elster concentrates twenty thousand men and hits one crossing—say, the bridge at Beaugency or Blois—he will roll right through our outposts before we can bring up a single reserve company. He punches a hole into our rear, severs Patton's southern supply lines, and links up with the German forces falling back from Paris.
 
 MAGILL
 He doesn't have the fuel to link up with Paris, General.
@@ -2639,7 +2639,7 @@ MACON
 Take your platoon across the Loire. Take four jeeps with twin thirties and the fifty-calibers. Cross at Meung-sur-Loire or wherever the stone spans aren't completely dropped into the mud. <pause>
 
 (cold, piercing stare)
-Find this Scottish major. Find out if he has real tactical intelligence on Elster’s column. And then find General Elster.
+Find this Scottish major. Find out if he has real tactical intelligence on Elster's column. And then find General Elster.
 
 MAGILL
 And if we make contact with Elster, General? What are my rules of engagement?
@@ -2670,11 +2670,11 @@ Through his 6x30 service binoculars, he studied the crossing. The medieval stone
 
 The Royal Air Force had bombed the center spans in July; a demolition team from the local Armée Secrète had finished the piers with two hundred pounds of Nobel 808 three nights ago.
 
-Beside Macpherson, concealed beneath a camouflage net woven with willow branches, sat the black Citroën 15-Six. Michel de Bourbon-Parme was leaning across the hood, checking the focus of a brass spotting telescope mounted on a folding wooden surveyor’s tripod.
+Beside Macpherson, concealed beneath a camouflage net woven with willow branches, sat the black Citroën 15-Six. Michel de Bourbon-Parme was leaning across the hood, checking the focus of a brass spotting telescope mounted on a folding wooden surveyor's tripod.
 
 MICHEL
 (eye glued to the lens, murmuring)
-Amboise is down. Blois has four center spans dropped into the silt. The suspension bridge at Meung-sur-Loire was dropped by the Wehrmacht’s own rearguard last week. There is not a single bridge capable of bearing a three-ton lorry intact between Tours and Orléans.
+Amboise is down. Blois has four center spans dropped into the silt. The suspension bridge at Meung-sur-Loire was dropped by the Wehrmacht's own rearguard last week. There is not a single bridge capable of bearing a three-ton lorry intact between Tours and Orléans.
 
 MACPHERSON
 (shifting binoculars twenty degrees west)
@@ -2685,9 +2685,9 @@ Through the morning mist, a four-wheeled German light reconnaissance car—an Sd
 
 The small convoy halted fifty paces from the shattered bridgehead.
 
-A German pioneer captain in a field-gray tunic and high riding boots climbed down from the Kübelwagen. He carried an engineer’s measuring wheel and a roll of blueprints under his arm. He walked slowly to the edge of the jagged masonry drop-off, where arch number four sheared off into the river, and stared down into the sixty-foot gap of churning water.
+A German pioneer captain in a field-gray tunic and high riding boots climbed down from the Kübelwagen. He carried an engineer's measuring wheel and a roll of blueprints under his arm. He walked slowly to the edge of the jagged masonry drop-off, where arch number four sheared off into the river, and stared down into the sixty-foot gap of churning water.
 
-The German captain did not measure anything. He dropped the blueprints onto the stones, pulled off his peaked officer’s cap, and wiped his brow with a filthy gray handkerchief.
+The German captain did not measure anything. He dropped the blueprints onto the stones, pulled off his peaked officer's cap, and wiped his brow with a filthy gray handkerchief.
 
 From the passenger seat of the Horch staff car behind him, an older colonel with the red collar patches of the General Staff climbed out, supported by a walking stick. The colonel took one look at the sheared stone piers, turned his back to the river, and kicked a loose piece of limestone into the ditch.
 
@@ -2711,7 +2711,7 @@ In the stripped rear compartment of the Citroën, Arthur Brown pressed his Bakel
 
 BROWN
 (squinting over the B2 dials)
-Group Elster’s radio traffic is in absolute chaos, sir. Headquarters company is halted near Issoudun. The rearguard at Châteauroux is under constant mortar fire from the FFI. Supply trucks are abandoning the roads and hiding in the woods. Elster’s quartermaster just transmitted an emergency signal to Armeegruppe G—Zero petrol reserves remaining for heavy transport. Horse forage exhausted. Air attack continuous. <pause>
+Group Elster's radio traffic is in absolute chaos, sir. Headquarters company is halted near Issoudun. The rearguard at Châteauroux is under constant mortar fire from the FFI. Supply trucks are abandoning the roads and hiding in the woods. Elster's quartermaster just transmitted an emergency signal to Armeegruppe G—Zero petrol reserves remaining for heavy transport. Horse forage exhausted. Air attack continuous. <pause>
 
 Elster just sent a direct signal to the German military governor in Paris. He is requesting authority to halt the march and fortify Issoudun.
 
@@ -2736,7 +2736,7 @@ MACPHERSON
 An honorable way out. He wants an Allied general to take his sword so he does not have to surrender to French partisans with pitchforks. <pause>
 
 (opening the passenger door, reaching for his bonnet)
-Michel. Start the car. We are going to find Lieutenant Magill and his Americans. It is time to set the stage for General Elster’s exit.
+Michel. Start the car. We are going to find Lieutenant Magill and his Americans. It is time to set the stage for General Elster's exit.
 
 
 
@@ -2756,9 +2756,9 @@ There were four Willys MBs, stripped of windshields, canvas tops, and bumper bra
 
 First Lieutenant Samuel W. Magill sat in the front passenger seat of the lead vehicle, an M1 carbine resting between his knees, his jump boots propped on the cowl.
 
-His unit, the 83rd Division’s Intelligence and Reconnaissance Platoon, was known across the European theater as Platoon International. The thirty men riding behind him were a collection of multilingual scouts, combat veterans, and escapees—German-speaking farm boys from Wisconsin, Polish coal miners from Wilkes-Barre, and two escaped French cavalry officers in American uniforms who knew every unpaved cart track between Tours and Bourges.
+His unit, the 83rd Division's Intelligence and Reconnaissance Platoon, was known across the European theater as Platoon International. The thirty men riding behind him were a collection of multilingual scouts, combat veterans, and escapees—German-speaking farm boys from Wisconsin, Polish coal miners from Wilkes-Barre, and two escaped French cavalry officers in American uniforms who knew every unpaved cart track between Tours and Bourges.
 
-The lead jeep ground to a halt thirty paces from a half-timbered forester’s cottage hidden in the sweet chestnuts.
+The lead jeep ground to a halt thirty paces from a half-timbered forester's cottage hidden in the sweet chestnuts.
 
 Standing in the clearing, his arm resting against a split-rail fence, was a tall British officer in standard khaki battle dress wearing the maroon beret of the airborne forces—Captain Arthur Cox, commander of Jedburgh Team IAN. Beside him stood his French second-in-command, Lieutenant Robert Galley, a future cabinet minister of the Republic, his Sten gun slung barrel-down across his shoulder.
 
@@ -2786,14 +2786,14 @@ Which is why General Macon wants this resolved before the entire south bank turn
 NARRATOR
 From a mile down the southern forest track, the deep, mechanical growl of a heavy six-cylinder engine broke the afternoon silence.
 
-Magill’s rear machine gunner instantly pivoted the .50-caliber on its pedestal, the heavy bronze bolt racking back with a double metallic clack-clack.
+Magill's rear machine gunner instantly pivoted the .50-caliber on its pedestal, the heavy bronze bolt racking back with a double metallic clack-clack.
 
 COX
 (raising a gloved hand)
 Hold your fire. That will be Team Quinine.
 
 NARRATOR
-A black Citroën 15-Six burst through the birch trees, taking the sandy bend at fifty miles an hour. It fishtailed slightly in the loose gravel, then slid to an immaculate stop beside Magill’s jeeps, its front-wheel-drive tires spraying pine needles against the American olive-drab fenders.
+A black Citroën 15-Six burst through the birch trees, taking the sandy bend at fifty miles an hour. It fishtailed slightly in the loose gravel, then slid to an immaculate stop beside Magill's jeeps, its front-wheel-drive tires spraying pine needles against the American olive-drab fenders.
 
 Magill froze, his Chesterfield suspended half an inch from his lips.
 
@@ -2829,11 +2829,11 @@ MICHEL
 As in the royal family. Though today we are specializing in German logistical collapse.
 
 NARRATOR
-Macpherson unbuckled the canvas strap of his map board and laid it flat across the hood of Magill’s lead jeep, brushing aside a zinc box of .50-caliber ammunition to clear the paper.
+Macpherson unbuckled the canvas strap of his map board and laid it flat across the hood of Magill's lead jeep, brushing aside a zinc box of .50-caliber ammunition to clear the paper.
 
 MACPHERSON
 (tapping the crossroads town of Issoudun)
-Here is the tactical ledger, gentlemen. General Elster’s headquarters is established in the municipal schoolhouse at Issoudun. His forward echelons are jammed along the south bank of the Cher; his rearguard is still attempting to clear Châteauroux. He cannot cross the Loire. His synthetic fuel is spent. His draft horses are dying of colic. He has nineteen thousand, eight hundred and fifty-four men, and he knows that if he attempts to force a crossing at Beaugency or Blois, your Ninth Air Force will turn his column into an abattoir on the levees.
+Here is the tactical ledger, gentlemen. General Elster's headquarters is established in the municipal schoolhouse at Issoudun. His forward echelons are jammed along the south bank of the Cher; his rearguard is still attempting to clear Châteauroux. He cannot cross the Loire. His synthetic fuel is spent. His draft horses are dying of colic. He has nineteen thousand, eight hundred and fifty-four men, and he knows that if he attempts to force a crossing at Beaugency or Blois, your Ninth Air Force will turn his column into an abattoir on the levees.
 
 MAGILL
 (leaning over the map)
@@ -2894,9 +2894,9 @@ Leave him. The flies have to eat.
 NARRATOR
 Eight miles to the northeast, inside the stone courtyard of the municipal boys' school in Issoudun, the war smelled of gangrene, wet chalk, carbolic acid, and scorched synthetic rubber.
 
-Generalmajor Botho Henning Elster stood at the tall second-floor window of the headmaster’s study, looking down into the yard. Where schoolboys had played tag four weeks earlier, eighty stretchers now lay lined up on the crushed limestone gravel. There were no sheets, only grease-stained Wehrmacht shelter-halves thrown over men missing arms and legs, their paper bandages soaked through with yellow plasma.
+Generalmajor Botho Henning Elster stood at the tall second-floor window of the headmaster's study, looking down into the yard. Where schoolboys had played tag four weeks earlier, eighty stretchers now lay lined up on the crushed limestone gravel. There were no sheets, only grease-stained Wehrmacht shelter-halves thrown over men missing arms and legs, their paper bandages soaked through with yellow plasma.
 
-Beside Elster stood Stabsarzt Dr. Hassel, the senior medical officer of Feldkommandantur 541. Hassel’s white linen surgical apron was stiff with dried, dark brown arterial blood, his shirtsleeves rolled past hairy, soot-blackened forearms.
+Beside Elster stood Stabsarzt Dr. Hassel, the senior medical officer of Feldkommandantur 541. Hassel's white linen surgical apron was stiff with dried, dark brown arterial blood, his shirtsleeves rolled past hairy, soot-blackened forearms.
 
 HASSEL
 (voice trembling with fatigue)
@@ -2918,16 +2918,16 @@ ELSTER
 Report, Ernst.
 
 ERNST
-The rearguard has completely dissolved between Argenton and Châteauroux, Herr General. Captain Weber’s security company was surrounded in a brickworks outside the rail yards. They fought until their rifle clips were dry. When they ran a white towel out the window, the communist partisans threw petrol bombs through the cellar gratings. There are no survivors.
+The rearguard has completely dissolved between Argenton and Châteauroux, Herr General. Captain Weber's security company was surrounded in a brickworks outside the rail yards. They fought until their rifle clips were dry. When they ran a white towel out the window, the communist partisans threw petrol bombs through the cellar gratings. There are no survivors.
 
 NARRATOR
-Ernst stepped to the headmaster’s desk, dropping the yellow slips beside a half-empty bottle of mineral water.
+Ernst stepped to the headmaster's desk, dropping the yellow slips beside a half-empty bottle of mineral water.
 
 ERNST
 Consolidated muster is down to nineteen thousand, two hundred men. We have zero liters of synthetic fuel remaining for the heavy transport. The flak halftracks are bone-dry. We have abandoned seventy-four lorries between the Creuse and the Cher. The men are marching on foot, sixteen hours a day, eating raw sugar beets pulled from the furrows. Dysentery has broken out in the naval battalions.
 
 NARRATOR
-Elster turned around slowly. The silver-braided general’s shoulder boards on his tunic caught the pale morning light, but beneath them, his shoulders were bowed as if carrying an iron rail.
+Elster turned around slowly. The silver-braided general's shoulder boards on his tunic caught the pale morning light, but beneath them, his shoulders were bowed as if carrying an iron rail.
 
 ELSTER
 And the crossings over the Loire?
@@ -2940,7 +2940,7 @@ Impassable. Reconnaissance confirms the stone bridges at Blois, Amboise, and Bea
 Herr General. Some of the younger officers—the Luftwaffe flak captains and the SS security police from Poitiers—are demanding we make a stand. They want to concentrate our remaining 20-millimeter guns in the center of Issoudun, fortify the brick houses, and fight to the last cartridge. They say the Führer expects us to die in place to tie down the American forces south of the Loire.
 
 NARRATOR
-Elster’s mouth tightened into a thin, bloodless line. He walked to the desk, picked up the 1914 Iron Cross pinned to his tunic, and let it fall against the coarse cloth.
+Elster's mouth tightened into a thin, bloodless line. He walked to the desk, picked up the 1914 Iron Cross pinned to his tunic, and let it fall against the coarse cloth.
 
 ELSTER
 (voice vibrating with suppressed fury)
@@ -3004,7 +3004,7 @@ Boche! Tirez!
 NARRATOR
 Macpherson moved like a strike of lightning.
 
-He stepped forward from the shadow of a road-mender’s stone hut, his gloved left hand clamping down over the perforated heat-jacket of the Sten, shoving the muzzle violently down into the gravel with enough force to spin the young Frenchman into the briars.
+He stepped forward from the shadow of a road-mender's stone hut, his gloved left hand clamping down over the perforated heat-jacket of the Sten, shoving the muzzle violently down into the gravel with enough force to spin the young Frenchman into the briars.
 
 MACPHERSON
 (barking in French, voice ringing like an iron bar)
@@ -3013,7 +3013,7 @@ Hold your fire! Anyone who fires on a flag of truce will be shot by me on the sp
 NARRATOR
 The partisan scrambled to his knees in the weeds, clutching a bruised shoulder, muttering curses under his breath, but looking up into Macpherson's cold, slate-gray eyes, he let the weapon fall slack against his thigh.
 
-Behind Macpherson stood Lieutenant Samuel Magill, his Colt .45 drawn and held down against the seam of his trousers. Thirty yards back in the pine copse, Platoon International’s four Willys jeeps sat idling in the underbrush, their twin .30-caliber mounts and heavy .50-calibers trained steadily on the approaching vehicle.
+Behind Macpherson stood Lieutenant Samuel Magill, his Colt .45 drawn and held down against the seam of his trousers. Thirty yards back in the pine copse, Platoon International's four Willys jeeps sat idling in the underbrush, their twin .30-caliber mounts and heavy .50-calibers trained steadily on the approaching vehicle.
 
 The Adler rolled to a halt twenty paces from the felled logs.
 
@@ -3021,7 +3021,7 @@ The German driver, a corporal whose hands were shaking so violently he could bar
 
 The medical officer climbed out slowly. It was Stabsarzt Dr. Hassel. His field-gray trousers were stiff with dried, dark blood, his eyes sunken and ringed with purple hollows. He walked toward the roadblock with heavy, dragging steps, his hands held empty at his sides, his gaze fixed on Macpherson.
 
-Hassel stopped five paces from the logs. His eyes traveled from Tommy’s blue Glengarry bonnet, down past the Military Cross ribbon, to the green-and-black wool of the Cameron of Erracht kilt and the diced hose.
+Hassel stopped five paces from the logs. His eyes traveled from Tommy's blue Glengarry bonnet, down past the Military Cross ribbon, to the green-and-black wool of the Cameron of Erracht kilt and the diced hose.
 
 HASSEL
 (whispering in German, throat dry)
@@ -3052,7 +3052,7 @@ Issoudun is fifteen miles deep inside your lines. You have two security battalio
 
 HASSEL
 (quietly)
-I am offering you the only terms the General will accept. If you do not come, the hardliners on Elster’s staff—the Luftwaffe flak commanders and the SS security captains—will seize command of the division. They will fortify Issoudun and order the march columns to fight to the last round. They will burn the towns. They will butcher their prisoners. And your air force will have to kill twenty thousand men with bombs.
+I am offering you the only terms the General will accept. If you do not come, the hardliners on Elster's staff—the Luftwaffe flak commanders and the SS security captains—will seize command of the division. They will fortify Issoudun and order the march columns to fight to the last round. They will burn the towns. They will butcher their prisoners. And your air force will have to kill twenty thousand men with bombs.
 
 MAGILL
 (lowering his voice to Macpherson)
@@ -3063,7 +3063,7 @@ Macpherson checked his silver pocket watch. It was 1148 hours.
 
 MACPHERSON
 (looking down the empty macadam)
-Sam. If General Macon waits for three divisions of American infantry to cross the Loire, it will take forty-eight hours. By then, the FFI will attack Elster’s supply wagons, the Germans will retaliate with 20-millimeter flak, and this entire department will drown in blood. <pause>
+Sam. If General Macon waits for three divisions of American infantry to cross the Loire, it will take forty-eight hours. By then, the FFI will attack Elster's supply wagons, the Germans will retaliate with 20-millimeter flak, and this entire department will drown in blood. <pause>
 
 (turning back to Dr. Hassel)
 Doctor. Is your staff car capable of fifteen miles?
@@ -3106,7 +3106,7 @@ MACPHERSON
 Splendid. Then drive right down the center of the road. And do not, under any circumstances, touch the brakes.
 
 NARRATOR
-The Adler’s engine sputtered to life.
+The Adler's engine sputtered to life.
 
 With the white bedsheet whipping across the hood and the Geneva Red Cross flag fluttering from the wing, the German staff car accelerated past the fanned logs of the French roadblock, rolling out onto the empty, silent asphalt of Route Nationale 20, straight into the muzzle of twenty thousand waiting guns.
 
@@ -3137,7 +3137,7 @@ Stabsarzt Hassel! Parlamentär! Nicht schießen!
 NARRATOR
 The sentries did not lower their weapons.
 
-An Oberfeldwebel with a grease-smeared face and a splinter-pattern camouflage smock rose from behind the sandbags, his Kar98k leveled at the Adler’s front tires. Behind him, the machine gunner’s finger hovered over the trigger of the MG 42, the bolt held back on full cock.
+An Oberfeldwebel with a grease-smeared face and a splinter-pattern camouflage smock rose from behind the sandbags, his Kar98k leveled at the Adler's front tires. Behind him, the machine gunner's finger hovered over the trigger of the MG 42, the bolt held back on full cock.
 
 The staff car skidded to a halt six feet from the felled lime trees.
 
@@ -3147,9 +3147,9 @@ His eyes traveled across the front bench of the staff car.
 
 Sitting in the passenger seat, relaxed, with his right elbow resting casually against the rolled-down window frame, was Tommy Macpherson. He held his Sten gun flat across his knees, the barrel pointed politely away from the German. His blue Glengarry bonnet was tilted forward over his right temple, the silver Cameron crest catching the sun. Below his khaki tunic, eight yards of green-and-black Cameron of Erracht tartan hung over the leather seat cushion, the red flashes on his wool hose stark against his scarred, bare knees.
 
-The German sergeant’s jaw dropped. The rifle in his hands drifted two inches off target.
+The German sergeant's jaw dropped. The rifle in his hands drifted two inches off target.
 
-Behind the sandbags, three sentries stood up in their trench, their steel helmets knocking against the camouflage netting. One of them muttered a prayer; another stared at Macpherson’s bare legs with the unblinking, horrified fascination of a child looking at an exotic beast in a menagerie.
+Behind the sandbags, three sentries stood up in their trench, their steel helmets knocking against the camouflage netting. One of them muttered a prayer; another stared at Macpherson's bare legs with the unblinking, horrified fascination of a child looking at an exotic beast in a menagerie.
 
 OBERFELDWEBEL
 (stammering)
@@ -3172,7 +3172,7 @@ OBERFELDWEBEL
 Barriere öffnen! Sofort!
 
 NARRATOR
-The sentries scrambled to haul the smaller logs aside, dragging the lime branches through the chalk dust until a gap opened wide enough for the Adler’s tires.
+The sentries scrambled to haul the smaller logs aside, dragging the lime branches through the chalk dust until a gap opened wide enough for the Adler's tires.
 
 The car crawled through the checkpoint and entered the main streets of Issoudun.
 
@@ -3203,9 +3203,9 @@ The schoolhouse courtyard was packed with Wehrmacht motor transport—four radio
 
 As the Adler stopped, a dozen staff officers emerged from the double doors of the school, their faces pale with shock.
 
-At their head walked Major Ernst. The chief of operations stopped at the foot of the school steps, his hand resting on the holster of his Walther P38, his eyes narrowing as he took in the kilt, the Glengarry, and the Sten gun resting on Macpherson’s lap.
+At their head walked Major Ernst. The chief of operations stopped at the foot of the school steps, his hand resting on the holster of his Walther P38, his eyes narrowing as he took in the kilt, the Glengarry, and the Sten gun resting on Macpherson's lap.
 
-Dr. Hassel stepped out of the driver’s seat, saluting Ernst.
+Dr. Hassel stepped out of the driver's seat, saluting Ernst.
 
 HASSEL
 Major Ernst. I have brought the British parliamentary.
@@ -3213,9 +3213,9 @@ Major Ernst. I have brought the British parliamentary.
 NARRATOR
 Macpherson pushed the passenger door open. He stood up on the steel running board, stepped down onto the gravel with a firm, resounding crunch of his ammunition boots, and smoothed the pleats of his kilt. He slung his Sten gun behind his shoulder, adjusted his Military Cross ribbon, and took three long, confident strides toward the school steps.
 
-Two Feldgendarmerie corporals stepped forward, their MP 40s raised, their hands reaching out to seize Macpherson’s weapon.
+Two Feldgendarmerie corporals stepped forward, their MP 40s raised, their hands reaching out to seize Macpherson's weapon.
 
-Macpherson stopped. He did not step back. He slapped the nearest corporal’s arm away with a sharp, stinging crack of his leather glove.
+Macpherson stopped. He did not step back. He slapped the nearest corporal's arm away with a sharp, stinging crack of his leather glove.
 
 MACPHERSON
 (exploding across the courtyard)
@@ -3250,17 +3250,17 @@ Chapter Twenty-Four
 The Schoolhouse at Issoudun
 
 10 September 1944 — 1240 Hours
-The Headmaster’s Study, Municipal Boys' School
+The Headmaster's Study, Municipal Boys' School
 Issoudun, Department of Indre
 
 NARRATOR
-The headmaster’s study smelled of dry chalk, wet wool, liniment, and stale pipe tobacco.
+The headmaster's study smelled of dry chalk, wet wool, liniment, and stale pipe tobacco.
 
 Behind the wide oak desk, pinned directly over a blackboard that still bore the faint, ghost-like chalk outlines of third-year Latin declensions, hung a 1 to 200,000 War Department map of the Department of Indre. Concentric rings of blue grease pencil converged around the rail junction at Issoudun like the iron hoops of a barrel.
 
-Generalmajor Botho Henning Elster stood beneath the blackboard. He had not removed his service cap. His silver-braided general’s collar patches gleamed against the coarse field-gray of his tunic, and his hands were clasped firmly behind the small of his back in the classic posture of the Prussian officer corps.
+Generalmajor Botho Henning Elster stood beneath the blackboard. He had not removed his service cap. His silver-braided general's collar patches gleamed against the coarse field-gray of his tunic, and his hands were clasped firmly behind the small of his back in the classic posture of the Prussian officer corps.
 
-Flanking him were three officers—Major Ernst, his chief of operations; Stabsarzt Dr. Hassel; and a young Luftwaffe captain wearing the silver pilot’s badge and the ribbon of the Eastern Front Medal, his mouth set in a thin line of aristocratic disdain.
+Flanking him were three officers—Major Ernst, his chief of operations; Stabsarzt Dr. Hassel; and a young Luftwaffe captain wearing the silver pilot's badge and the ribbon of the Eastern Front Medal, his mouth set in a thin line of aristocratic disdain.
 
 The oak door swung open with a dry screech of rusted iron hinges.
 
@@ -3270,7 +3270,7 @@ He did not remove his blue Glengarry bonnet. He took three measured paces across
 
 For ten seconds, the only sound in the room was the heavy, rhythmic ticking of an octagonal school clock mounted above the lintel.
 
-Elster did not blink. His eyes moved down Macpherson’s uniform with clinical, unhurried precision—the blue bonnet, the scarred bridge of the nose, the silver clan badge, the bare knees, the red-and-white diced wool hose, and the black leather service sporran.
+Elster did not blink. His eyes moved down Macpherson's uniform with clinical, unhurried precision—the blue bonnet, the scarred bridge of the nose, the silver clan badge, the bare knees, the red-and-white diced wool hose, and the black leather service sporran.
 
 A faint, bitter twitch moved the corner of the General's gray mustache.
 
@@ -3305,7 +3305,7 @@ You can breach nothing, Major Ernst. You have nineteen thousand men. Of whom fou
 Your chief medical officer has eighty men dying on stretchers in your courtyard because he has no ether, no sulfur, and no clean well water. Dysentery is running through your naval battalions. If you attempt to march twenty miles toward Blois, five thousand of your men will collapse along the roadside from sheer dehydration.
 
 NARRATOR
-The room was dead silent. Dr. Hassel looked down at his bloodstained riding boots, unable to meet Elster’s gaze.
+The room was dead silent. Dr. Hassel looked down at his bloodstained riding boots, unable to meet Elster's gaze.
 
 MACPHERSON
 (voice dropping into a lethal, quiet rhythm)
@@ -3316,7 +3316,7 @@ ELSTER
 The German soldier knows how to die, Major.
 
 MACPHERSON
-The German soldier knows how to die when there is an operational objective, General. When he is defending his homeland. When he is holding a defensive line for reinforcements. But you have no objective. Paris has fallen. Brussels has fallen. General Patton’s Third Army is already across the Meuse. No one is coming to relieve you. Generaloberst Blaskowitz has written your columns off as a lost rearguard. <pause>
+The German soldier knows how to die when there is an operational objective, General. When he is defending his homeland. When he is holding a defensive line for reinforcements. But you have no objective. Paris has fallen. Brussels has fallen. General Patton's Third Army is already across the Meuse. No one is coming to relieve you. Generaloberst Blaskowitz has written your columns off as a lost rearguard. <pause>
 
 (leaning close, gray eyes boring in)
 You are not marching toward the Rhine, Herr General. You are marching toward an open slaughterhouse.
@@ -3337,7 +3337,7 @@ Chapter Twenty-Five
 The Three Lies
 
 10 September 1944 — 1310 Hours
-The Headmaster’s Study, Municipal Boys' School
+The Headmaster's Study, Municipal Boys' School
 Issoudun, Department of Indre
 
 NARRATOR
@@ -3395,8 +3395,8 @@ You have burned their farmsteads. You have shot their fathers against stable wal
 (dark, unyielding whisper)
 There are twenty-five thousand armed French partisans surrounding this pocket right now. Francs-Tireurs et Partisans. The Secret Army. Men who have lost their sons to the deportation trains to Silesia. Men who have spent three years watching their daughters starve on your occupation rations. They do not want your surrender. They do not want prisoners. They want to cut your throats in the dark. <pause>
 
-(pointing directly at Elster’s Iron Cross)
-The United States Army and I are the only thing standing between your nineteen thousand soldiers and twenty thousand Frenchmen with pitchforks, billhooks, and British submachine guns. If I walk out of this schoolhouse without your signature on an instrument of surrender, I will withdraw Allied authority. I will order Lieutenant Magill’s Americans back across the Loire. I will instruct the RAF to bomb your transport. And I will step aside and tell the Maquis that the Department of Indre is open for vengeance. <pause>
+(pointing directly at Elster's Iron Cross)
+The United States Army and I are the only thing standing between your nineteen thousand soldiers and twenty thousand Frenchmen with pitchforks, billhooks, and British submachine guns. If I walk out of this schoolhouse without your signature on an instrument of surrender, I will withdraw Allied authority. I will order Lieutenant Magill's Americans back across the Loire. I will instruct the RAF to bomb your transport. And I will step aside and tell the Maquis that the Department of Indre is open for vengeance. <pause>
 
 (quietly)
 They will not take you to prisoner-of-war camps, General. They will drag your officers into the ditches of the Cher. They will strip your boots. They will pour petrol over your eighty wounded boys in the courtyard below, and they will burn you alive. Just as your comrades did at Oradour.
@@ -3410,9 +3410,9 @@ ELSTER
 Silence, Ernst!
 
 NARRATOR
-The General’s voice was cracked and hoarse, but it carried the sudden, violent snap of absolute Prussian authority.
+The General's voice was cracked and hoarse, but it carried the sudden, violent snap of absolute Prussian authority.
 
-Elster did not look at his chief of operations. He did not look at the map. He kept his pale, hooded eyes locked onto Tommy Macpherson’s face, searching the young officer’s expression for the slightest tremor of hesitation, the faintest flicker of doubt, the smallest tell that betrayed an invented bluff.
+Elster did not look at his chief of operations. He did not look at the map. He kept his pale, hooded eyes locked onto Tommy Macpherson's face, searching the young officer's expression for the slightest tremor of hesitation, the faintest flicker of doubt, the smallest tell that betrayed an invented bluff.
 
 He found nothing. Macpherson stood with his chin held high, his blue Glengarry bonnet tilted with parade-ground arrogance, his hands resting easily on his leather sporran—as calm, cold, and immovable as Highland granite.
 
@@ -3443,20 +3443,20 @@ Chapter Twenty-Six
 The Terms of Prussian Honor
 
 10 September 1944 — 1316 Hours
-The Headmaster’s Study, Municipal Boys' School
+The Headmaster's Study, Municipal Boys' School
 Issoudun, Department of Indre
 
 NARRATOR
-The second hand on Tommy Macpherson’s silver pocket watch swept past the Roman numeral four. Fourteen minutes remained before his invented deadline expired, and forty-four minutes remained before Arthur Brown, waiting by the orchard at Vatan, was under orders to transmit Caledonia to Baker Street.
+The second hand on Tommy Macpherson's silver pocket watch swept past the Roman numeral four. Fourteen minutes remained before his invented deadline expired, and forty-four minutes remained before Arthur Brown, waiting by the orchard at Vatan, was under orders to transmit Caledonia to Baker Street.
 
-Macpherson reached down to the desk with two fingers, clicked the watch’s silver hunter case shut with a sharp, metallic snick, and slid it back into his breast pocket. He did not button the flap.
+Macpherson reached down to the desk with two fingers, clicked the watch's silver hunter case shut with a sharp, metallic snick, and slid it back into his breast pocket. He did not button the flap.
 
 MACPHERSON
 (quiet, unhurried, cold as an iron stanchion)
 Terms, General. First and foremost—the capitulation is unconditional, and it is made to the regular armed forces of the Western Allies—specifically to Major General Robert C. Macon, commanding the United States Eighty-Third Infantry Division.
 
 NARRATOR
-General Botho Henning Elster did not raise his eyes from the scarred oak of the desk immediately. His hands remained resting heavily upon the carved back of the headmaster’s chair, the knuckles gray beneath the skin. When he finally looked up, the Prussian stiffness had returned to his jaw, but his eyes were sunken, hollowed by the knowledge of what his signature would set in motion.
+General Botho Henning Elster did not raise his eyes from the scarred oak of the desk immediately. His hands remained resting heavily upon the carved back of the headmaster's chair, the knuckles gray beneath the skin. When he finally looked up, the Prussian stiffness had returned to his jaw, but his eyes were sunken, hollowed by the knowledge of what his signature would set in motion.
 
 ELSTER
 (gravelly voice, slow and formal)
@@ -3534,7 +3534,7 @@ ERNST
 (voice cracking with sheer terror)
 Herr General... I beg of you, consider the consequences. The High Command... the Führer Directive of August twenty-third. It was broadcast to all army corps commanders on the Enigma net—Any commander who capitulates without having expended the last cartridge and exhausted all tactical possibilities shall be declared an outlaw and guilty of high treason. <pause>
 
-(whispering frantically into Elster’s ear)
+(whispering frantically into Elster's ear)
 It is not merely a court-martial, Herr General! It is Sippenhaftung! The Reichsführer-SS has already issued the decrees for the families of the July Twentieth conspirators! If you sign an instrument of surrender, the Gestapo will arrest your wife in Dresden! They will seize your daughter! You will be condemned to death by the Reich Military Court in Berlin, and your family will be sent to the concentration camps!
 
 NARRATOR
@@ -3542,7 +3542,7 @@ The study fell completely dead.
 
 Dr. Hassel stood frozen by the window. The young Luftwaffe captain pulled his chin back, staring at the floor, the realization of what Ernst was saying chilling the air in the room.
 
-General Botho Elster stood motionless. For ten seconds, he looked down at the empty center of the headmaster’s oak desk, where the grain of the wood had been worn smooth by generations of French schoolboys.
+General Botho Elster stood motionless. For ten seconds, he looked down at the empty center of the headmaster's oak desk, where the grain of the wood had been worn smooth by generations of French schoolboys.
 
 When he raised his head, his face was pale, but the panic that had haunted his eyes all morning was gone, replaced by a cold, terrible serenity.
 
@@ -3553,13 +3553,13 @@ Major Ernst. Berlin is eight hundred miles away. The Allied armies are crossing 
 (picking up the fountain pen, unscrewing the cap)
 I have served the German army for thirty-six years. I fought in the mud of the Somme, and I commanded men on the Dnieper. A general's duty is not to preserve his own life, or his pension, or his standing before a lunatic in a bunker. A general's duty is to his soldiers. If I must stand before a German firing squad in Berlin so that nineteen thousand young men may live to rebuild our destroyed country, then let them shoot me. <pause>
 
-(pressing the pen into Ernst’s paralyzed hand)
+(pressing the pen into Ernst's paralyzed hand)
 Draft the terms, Ernst. Now.
 
 NARRATOR
 Ernst swallowed hard, a tear spilling over his lower eyelid, carving a pale track through the gray dust on his cheek. He pulled an official Feldkommandantur requisition ledger toward him, flipped to a clean page, and began to write in rapid, gothic script.
 
-For five minutes, the only sound in the headmaster’s study was the scratching of the gold nib across the coarse paper.
+For five minutes, the only sound in the headmaster's study was the scratching of the gold nib across the coarse paper.
 
 Macpherson stood with his boots planted shoulder-width apart, his arms folded across the coarse wool of his service tunic, the Cameron of Erracht kilt hanging motionless against his calves. He did not look at his watch. He watched the nib move, ensuring that each of the four core stipulations—unconditional surrender to the Americans, retention of personal arms during the march, removal of heavy weapon firing pins, and adherence to the designated corridor—was entered precisely into the text.
 
@@ -3574,7 +3574,7 @@ ELSTER
 Your turn, Major.
 
 NARRATOR
-Macpherson stepped to the desk. He unbuttoned his right breast pocket, drew out his own black vulcanite fountain pen, and signed immediately beneath Elster’s signature—R. T. S. Macpherson, Major, Queen's Own Cameron Highlanders, Plenipotentiary, Allied Expeditionary Force.
+Macpherson stepped to the desk. He unbuttoned his right breast pocket, drew out his own black vulcanite fountain pen, and signed immediately beneath Elster's signature—R. T. S. Macpherson, Major, Queen's Own Cameron Highlanders, Plenipotentiary, Allied Expeditionary Force.
 
 Macpherson blotted the ink, closed the ledger, and looked at Elster.
 
@@ -3613,7 +3613,7 @@ Macpherson climbed into the front passenger seat, slamming the metal door shut w
 
 It was 1332 hours.
 
-Twenty-eight minutes remained before Arthur Brown’s deadline. Fifteen miles of potholed macadam, two German security checkpoints, and sixty nervous French partisans lay between the Issoudun schoolhouse and the wireless set at Vatan.
+Twenty-eight minutes remained before Arthur Brown's deadline. Fifteen miles of potholed macadam, two German security checkpoints, and sixty nervous French partisans lay between the Issoudun schoolhouse and the wireless set at Vatan.
 
 MACPHERSON
 (looking down the empty street, tapping the dashboard)
@@ -3636,20 +3636,20 @@ Department of Indre
 NARRATOR
 The steam escaping the radiator cap of the Adler staff car blew back across the windshield in a scalding, white vapor that tasted of rusted copper and antifreeze.
 
-Dr. Hassel took the final sweeping curve south of Vatan on screaming rubber, the car’s rear tires drifting through the loose roadside gravel before biting the asphalt. Fifty paces ahead, past the fanned pine logs and the creosoted railway sleepers of the French roadblock, three Willys jeeps sat half-concealed beneath the poplars, their pedestal-mounted .50-calibers tracking the radiator.
+Dr. Hassel took the final sweeping curve south of Vatan on screaming rubber, the car's rear tires drifting through the loose roadside gravel before biting the asphalt. Fifty paces ahead, past the fanned pine logs and the creosoted railway sleepers of the French roadblock, three Willys jeeps sat half-concealed beneath the poplars, their pedestal-mounted .50-calibers tracking the radiator.
 
-Beside the road-mender’s stone hut, Sergeant Arthur Brown stood with his back to the road, his knees bent over the open chassis of the B2 wireless set balanced on an empty ammunition crate. His headphones were clamped tight over his wool cap, his right thumb resting flat on the Morse key. His eyes were glued to the dial of an olive-drab pocket watch propped against the crystal sockets.
+Beside the road-mender's stone hut, Sergeant Arthur Brown stood with his back to the road, his knees bent over the open chassis of the B2 wireless set balanced on an empty ammunition crate. His headphones were clamped tight over his wool cap, his right thumb resting flat on the Morse key. His eyes were glued to the dial of an olive-drab pocket watch propped against the crystal sockets.
 
 It was seven minutes to fourteen-hundred hours.
 
-Tommy Macpherson stood up on the Adler’s steel running board before the vehicle had stopped, his left hand gripping the windshield post, the green-and-black wool of the Cameron kilt whipping violently in the slipstream.
+Tommy Macpherson stood up on the Adler's steel running board before the vehicle had stopped, his left hand gripping the windshield post, the green-and-black wool of the Cameron kilt whipping violently in the slipstream.
 
 MACPHERSON
 (shouting in English)
 Arthur! Stand down! Stand down the key!
 
 NARRATOR
-Brown’s head jerked up. The Newcastle signalman pulled the headphones from his ears with a single, sweeping motion, letting the Bakelite cups fall against his collar. His thumb lifted from the key, two inches above the contact points.
+Brown's head jerked up. The Newcastle signalman pulled the headphones from his ears with a single, sweeping motion, letting the Bakelite cups fall against his collar. His thumb lifted from the key, two inches above the contact points.
 
 The Adler ground to a halt six feet from the felled logs with a dry, shuddering cough of its exhaust.
 
@@ -3692,7 +3692,7 @@ MICHEL
 It is the only way those twenty thousand men will ever reach the river alive, Lieutenant. If they lay down their weapons in Issoudun, the Francs-Tireurs will tear them to pieces in the vineyards before nightfall. There are six thousand maquisards between here and the Loire who have spent four years waiting to settle the butcher's bill.
 
 NARRATOR
-Magill nodded slowly, his soldier’s mind calculating the risk. He turned toward the communications jeep beneath the trees.
+Magill nodded slowly, his soldier's mind calculating the risk. He turned toward the communications jeep beneath the trees.
 
 MAGILL
 Sergeant Miller. Get Division Headquarters on the SCR-399. Priority red. Connect me to General Macon.
@@ -3706,9 +3706,9 @@ The mutiny was not an armed brawl; it was a sullen, venomous circle of unyieldin
 
 In a trampled field of rye stubble three miles north of the town center, forty senior officers of Marschgruppe Elster stood gathered in the shadow of an open command bus. Behind them, drawn up in three sprawling, silent echelons across fifty acres of gray dust, sat the rearguard of the column—two hundred three-ton lorries running on charcoal gas, dozens of horse-drawn caissons, and eight thousand men of the 95th Security Regiment and the naval coastal battalions, watching their commanders argue.
 
-At the center of the ring stood Colonel Kurt von Weber, commanding the security battalions, flanked by two Luftwaffe flak majors and an SS-Hauptsturmführer from the security police detachment out of Poitiers. Weber’s face was dark with rage, a typed copy of the Issoudun capitulation protocol crumpled in his gloved fist.
+At the center of the ring stood Colonel Kurt von Weber, commanding the security battalions, flanked by two Luftwaffe flak majors and an SS-Hauptsturmführer from the security police detachment out of Poitiers. Weber's face was dark with rage, a typed copy of the Issoudun capitulation protocol crumpled in his gloved fist.
 
-General Botho Elster stood ten paces away, his silver general’s shoulder boards catching the morning sun, his hands clasped behind his back. Beside him, Major Ernst held an ordnance map, his eyes darting anxiously toward the open road to the north.
+General Botho Elster stood ten paces away, his silver general's shoulder boards catching the morning sun, his hands clasped behind his back. Beside him, Major Ernst held an ordnance map, his eyes darting anxiously toward the open road to the north.
 
 WEBER
 (shouting across the ranks)
@@ -3729,7 +3729,7 @@ The ring of German officers turned.
 
 Rolling into the rye field, parting the dust in a low, controlled wedge, came a formation of five vehicles.
 
-At the point rode the black Citroën 15-Six, her chrome chevrons spattered with dry mud, the hand-painted Union Jack on the offside wing and the Cross of Lorraine on the nearside fluttering in the morning breeze. Behind her rode four olive-drab Willys jeeps of the 83rd Division’s I&R Platoon, their pedestal-mounted .50-caliber Brownings swiveled outward, manned by American GIs in steel helmets with the white thunderbolt insignia painted on the sides.
+At the point rode the black Citroën 15-Six, her chrome chevrons spattered with dry mud, the hand-painted Union Jack on the offside wing and the Cross of Lorraine on the nearside fluttering in the morning breeze. Behind her rode four olive-drab Willys jeeps of the 83rd Division's I&R Platoon, their pedestal-mounted .50-caliber Brownings swiveled outward, manned by American GIs in steel helmets with the white thunderbolt insignia painted on the sides.
 
 In the passenger seat of the lead jeep sat Major General Robert C. Macon, commander of the 83rd Infantry Division, his two silver stars gleaming on the lapels of his field jacket.
 
@@ -3754,7 +3754,7 @@ We have not agreed to dismantle our artillery, General! Our officers demand proo
 
 MACON
 (checking his pocket watch, voice dropping to a dry rumble)
-Colonel. I don't need to haul two divisions of medium tanks sixty miles south of the river to convince you of your military situation. General Weyland’s tactical air command is already handling that conversation.
+Colonel. I don't need to haul two divisions of medium tanks sixty miles south of the river to convince you of your military situation. General Weyland's tactical air command is already handling that conversation.
 
 NARRATOR
 Macon looked at Macpherson. Tommy nodded once, then looked up into the northern sky.
@@ -3846,7 +3846,7 @@ Every German infantryman had his Kar98k rifle slung across his back, barrel poin
 
 Pacing and shepherding this colossal armed mass were thirty-four Allied soldiers in five vehicles.
 
-At the head of the center column rode the black Citroën 15-Six, her radiator hissing faintly as the water pump fought the crawling pace. Behind her, and flanking the exposed gaps in the march files, moved the four stripped Willys jeeps of Lieutenant Sam Magill’s I&R Platoon, their pedestal-mounted .50-calibers and twin .30-calibers swiveled outward toward twenty thousand armed enemies.
+At the head of the center column rode the black Citroën 15-Six, her radiator hissing faintly as the water pump fought the crawling pace. Behind her, and flanking the exposed gaps in the march files, moved the four stripped Willys jeeps of Lieutenant Sam Magill's I&R Platoon, their pedestal-mounted .50-calibers and twin .30-calibers swiveled outward toward twenty thousand armed enemies.
 
 Tommy Macpherson sat on the folded passenger door of the Citroën, his ammunition boots braced on the steel running board. His Cameron of Erracht kilt was stiff with chalk grit and pine resin, the deep green-and-black wool turned the color of dry river silt. Across his bare knees lay his Sten gun, loaded with a thirty-two-round magazine, the bolt forward on an empty chamber.
 
@@ -3861,7 +3861,7 @@ Macpherson glanced over his right shoulder.
 
 Flanking the car was a battalion of Kriegsmarine coastal artillerymen from the Gironde. They were heavy-set sailors with salt-cured necks, marching in dark blue service woolens stripped of national emblems, their sleeves hacked off at the shoulders against the heat.
 
-Several of the petty officers were staring at Magill’s lead jeep thirty paces to their flank. They looked at the four young American scouts in their dust-caked olive drab; they looked at the empty, flat pine forests stretching to the horizon; and they looked down at the loaded Mauser rifles slung across their own chests.
+Several of the petty officers were staring at Magill's lead jeep thirty paces to their flank. They looked at the four young American scouts in their dust-caked olive drab; they looked at the empty, flat pine forests stretching to the horizon; and they looked down at the loaded Mauser rifles slung across their own chests.
 
 MACPHERSON
 (quietly)
@@ -3872,7 +3872,7 @@ BROWN
 Then we make absolutely sure nobody starts counting.
 
 NARRATOR
-The Newcastle signalman stood braced against the boxed floor cross-member behind the pintle-mounted Bren gun. His thumbs were hooked casually into his web belt, though his right palm remained three inches from the Bren’s cocking handle.
+The Newcastle signalman stood braced against the boxed floor cross-member behind the pintle-mounted Bren gun. His thumbs were hooked casually into his web belt, though his right palm remained three inches from the Bren's cocking handle.
 
 At the southern entrance to Mur-de-Sologne, the departmental road narrowed sharply between two rows of stone farm cottages, flanked by high garden walls of rough flint and lime mortar.
 
@@ -3912,14 +3912,14 @@ Before the Citroën had fully ceased rolling, Macpherson vaulted over the passen
 
 He did not raise his Sten gun. He slung the weapon behind his back, running straight into the four-foot gap separating the drawn German rifles from the leveled French weapons. His Cameron of Erracht kilt swung violently with his stride, the silver badge on his Glengarry catching the blinding afternoon glare.
 
-He stepped directly into the German sergeant’s chest, driving the heel of his open left hand against the man’s breastbone, forcing him back two paces.
+He stepped directly into the German sergeant's chest, driving the heel of his open left hand against the man's breastbone, forcing him back two paces.
 
 MACPHERSON
 (exploding across the street)
 Ruhe in den Reihen! Silence in the ranks! Sling those weapons! Sofort!
 
 NARRATOR
-The German sergeant recoiled, his hand freezing on the grip of his service pistol. The soldiers behind him stood paralyzed, looking from the Scottish major’s bare, scarred knees to the cold, lethal certainty in his gray eyes.
+The German sergeant recoiled, his hand freezing on the grip of his service pistol. The soldiers behind him stood paralyzed, looking from the Scottish major's bare, scarred knees to the cold, lethal certainty in his gray eyes.
 
 Macpherson spun on his heel, stepping toward the garden wall, facing the leveled muzzles of twenty French partisans. He spread his arms wide, his French ringing out with the crisp, unmistakable authority of an Allied plenipotentiary.
 
@@ -3927,7 +3927,7 @@ MACPHERSON
 Hold your fire! Every man, hold your fire!
 
 NARRATOR
-A partisan leader with a red flannel armband and an open corduroy vest stepped into the roadway, his British-dropped Sten pointed dead at Macpherson’s ribs. His eyes were bloodshot with rage, his chest heaving.
+A partisan leader with a red flannel armband and an open corduroy vest stepped into the roadway, his British-dropped Sten pointed dead at Macpherson's ribs. His eyes were bloodshot with rage, his chest heaving.
 
 PARTISAN LEADER
 (voice trembling)
@@ -3948,11 +3948,11 @@ You will wipe out nothing. Look down that road, Captain. <pause>
 You have five hundred men with Sten guns and hunting shotguns. There are nineteen thousand trained soldiers in that column. If a single shot is fired from this village, those battalions will unshoulder their Mausers, deploy into these orchards, and turn Mur-de-Sologne into an open crematorium before your reserves can cross the creek. Do you want to explain to the mothers of this village why their houses are burning because someone threw a stone?
 
 NARRATOR
-The French captain’s jaw worked, his breath coming in ragged, shallow gasps. He looked past Macpherson’s shoulder at the silent, endless sea of German steel helmets, saw the disciplined alignment of the files, and looked down at his own trembling hands.
+The French captain's jaw worked, his breath coming in ragged, shallow gasps. He looked past Macpherson's shoulder at the silent, endless sea of German steel helmets, saw the disciplined alignment of the files, and looked down at his own trembling hands.
 
 Michel de Bourbon-Parme stepped up beside Macpherson, standing shoulder-to-shoulder with him in the middle of the road.
 
-Michel removed his peaked Free French officer’s cap, holding it in his hand so the golden insignia of the Leclerc division caught the sun.
+Michel removed his peaked Free French officer's cap, holding it in his hand so the golden insignia of the Leclerc division caught the sun.
 
 MICHEL
 (quietly, carrying ancient gravity)
@@ -4016,17 +4016,17 @@ Along the crushed limestone gravel of the southern quayside, a simple wooden tre
 
 Behind the table stood Major General Robert C. Macon, commanding the 83rd Thunderbolt Infantry Division. He wore an olive-drab M1941 field jacket bearing the two silver stars of a major general on his collar points, his steel helmet strapped tight beneath his chin, his hands clasped behind his back.
 
-Flanking him were two squads of American Military Police from the 83rd MP Platoon, standing at parade rest in pristine white helmet liners, white canvas leggings, and polished russet leather holsters. A half-dozen staff officers from the division’s G-2 and G-3 sections stood five paces back, alongside Colonel Raymond Chomel—nom de guerre Colonel Charles—the regular French cavalry officer who commanded the FFI forces of the southern Loire.
+Flanking him were two squads of American Military Police from the 83rd MP Platoon, standing at parade rest in pristine white helmet liners, white canvas leggings, and polished russet leather holsters. A half-dozen staff officers from the division's G-2 and G-3 sections stood five paces back, alongside Colonel Raymond Chomel—nom de guerre Colonel Charles—the regular French cavalry officer who commanded the FFI forces of the southern Loire.
 
 Parked twenty paces to the left, beneath the yellowing leaves of a weeping willow, sat the black Citroën 15-Six.
 
-The car’s long, low bodywork was coated in a thick, uniform crust of chalk dust from the Berry and the Sologne. The painted Union Jack on the offside front wing was frayed along its forward edge by three thousand miles of occupied roads; the Cross of Lorraine on the nearside was chipped by flying gravel.
+The car's long, low bodywork was coated in a thick, uniform crust of chalk dust from the Berry and the Sologne. The painted Union Jack on the offside front wing was frayed along its forward edge by three thousand miles of occupied roads; the Cross of Lorraine on the nearside was chipped by flying gravel.
 
 Tommy Macpherson leaned against the front wing, his arms folded across the coarse wool of his service tunic. His Cameron of Erracht kilt was dark with sweat and dried river mud around the lower pleats, but his blue Glengarry bonnet was set square on his brow, the silver Cameron badge catching the morning light. The red-and-white diced wool hose were pulled straight to his calves, and his Military Cross ribbon stood out sharply against the khaki serge.
 
 Beside him, Michel de Bourbon-Parme and Sergeant Arthur Brown stood quietly, their Sten submachine guns slung muzzle-down, watching the southern approach road.
 
-From around the bend of the levee, pacing the head of the southern column, came First Lieutenant Samuel Magill’s lead Willys jeep, its .50-caliber heavy barrel pointed skyward.
+From around the bend of the levee, pacing the head of the southern column, came First Lieutenant Samuel Magill's lead Willys jeep, its .50-caliber heavy barrel pointed skyward.
 
 Directly behind the jeep rolled the long, black Horch 830 staff car bearing the small triangular general officer's pennant of Feldkommandantur 541 on its offside fender.
 
@@ -4036,7 +4036,7 @@ The driver, a corporal whose uniform was immaculate despite three weeks of retre
 
 Generalmajor Botho Henning Elster stepped down onto the road.
 
-He had spent the night in an abandoned estate outside Mur-de-Sologne, preparing himself with the cold, unhurried discipline of the old Prussian army. His field-gray service tunic had been brushed clean of dust; the silver-and-gold braided general’s shoulder boards caught the sun; the 1914 Iron Cross First Class hung straight from his left pocket. He wore high leather riding boots polished to a dull sheen, his peaked officer’s cap pulled low over his brow, shadowing a face that had lost twenty pounds in three weeks.
+He had spent the night in an abandoned estate outside Mur-de-Sologne, preparing himself with the cold, unhurried discipline of the old Prussian army. His field-gray service tunic had been brushed clean of dust; the silver-and-gold braided general's shoulder boards caught the sun; the 1914 Iron Cross First Class hung straight from his left pocket. He wore high leather riding boots polished to a dull sheen, his peaked officer's cap pulled low over his brow, shadowing a face that had lost twenty pounds in three weeks.
 
 Behind him stepped Major Ernst, Stabsarzt Dr. Hassel, and four senior colonels representing the security regiments, the Luftwaffe ground battalions, and the Kriegsmarine naval detachments. Each officer carried an oilcloth dispatch case containing the morning muster rolls and arms tallies of his unit.
 
@@ -4044,7 +4044,7 @@ Elster walked toward the wooden table. His boots struck the stones with the slow
 
 He did not look at the American Military Police with their white helmets. He did not look at the French officers standing behind General Macon. But as he passed within five paces of the black Citroën, his gray eyes flicked toward Tommy Macpherson.
 
-For a fraction of a second, the aging Prussian general and the twenty-three-year-old Scottish major held each other’s gaze.
+For a fraction of a second, the aging Prussian general and the twenty-three-year-old Scottish major held each other's gaze.
 
 Elster gave a faint, nearly imperceptible nod of his head—the silent, solemn greeting of a defeated soldier to the adversary who had out-thought him on the road. Macpherson returned the nod with rigid military courtesy, his face unreadable.
 
@@ -4067,13 +4067,13 @@ ERNST
 I am Generalmajor Botho Henning Elster, commanding Feldkommandantur 541 and the consolidated withdrawal echelons of Heeresgruppe G in the southwest. In accordance with the military capitulation protocol concluded at Issoudun, I tender the unconditional surrender of my command to the armed forces of the United States.
 
 NARRATOR
-Elster reached to his waist with both hands, unhooking the heavy double-claw brass buckle of his officer’s field belt.
+Elster reached to his waist with both hands, unhooking the heavy double-claw brass buckle of his officer's field belt.
 
 From the belt hung his service sidearm—a blued 9mm Walther P38 automatic in a polished black leather holster. Elster held the holster across both palms, took two paces forward, and laid the weapon squarely upon the bare pine wood of the table in front of General Macon.
 
-Behind him, Major Ernst and the four colonels stepped forward in succession, unbuckling their belts and laying four more service pistols beside their commander’s sidearm.
+Behind him, Major Ernst and the four colonels stepped forward in succession, unbuckling their belts and laying four more service pistols beside their commander's sidearm.
 
-General Macon looked down at the weapons on the table. He did not touch the pistols. He looked up into Elster’s face, his eyes measuring the bone-deep exhaustion beneath the Prussian composure.
+General Macon looked down at the weapons on the table. He did not touch the pistols. He looked up into Elster's face, his eyes measuring the bone-deep exhaustion beneath the Prussian composure.
 
 MACON
 Your surrender is accepted, General Elster. The United States Army guarantees that your nineteen thousand officers and men will be treated in strict accordance with the terms of the Geneva Convention. Field hospitals have been established on the north bank to receive your wounded; water purification units and American army rations are waiting at the railhead. <pause>
@@ -4091,7 +4091,7 @@ MAGILL
 Yes, sir.
 
 NARRATOR
-General Macon stepped out from behind the table. He did not extend his hand, but he bowed formally from the waist, acknowledging Elster’s rank and thirty-six years of military service.
+General Macon stepped out from behind the table. He did not extend his hand, but he bowed formally from the waist, acknowledging Elster's rank and thirty-six years of military service.
 
 MACON
 Major Ernst. Escort the General to the division staff vehicle. He will be conveyed directly to my headquarters at Vendôme.
@@ -4149,7 +4149,7 @@ Beaugency sector, Department of Loiret
 NARRATOR
 The sound was like an iron scrap yard being emptied into a dry quarry—a continuous, rhythmic clack-clang-shiver of polished steel and walnut stocks tumbling onto crushed stone.
 
-Across twenty acres of river pasture north of the pontoon treadway, American combat engineers had staked out four fenced processing lanes using barbed wire and wooden surveyor’s laths. Down each corridor shuffled a double file of gray uniforms—exhausted, unshaven men in field-gray, navy blue, and Luftwaffe wool, their eyes hollow with forty-eight hours of sleepless march.
+Across twenty acres of river pasture north of the pontoon treadway, American combat engineers had staked out four fenced processing lanes using barbed wire and wooden surveyor's laths. Down each corridor shuffled a double file of gray uniforms—exhausted, unshaven men in field-gray, navy blue, and Luftwaffe wool, their eyes hollow with forty-eight hours of sleepless march.
 
 At the head of each lane stood a squad of American GIs from the 329th Infantry Regiment wearing heavy leather work gloves, flanked by idling two-and-a-half-ton GMC trucks.
 
@@ -4167,7 +4167,7 @@ Along the river meadows, more than a thousand draft beasts—heavy Norman Perche
 
 Tommy Macpherson stood beside the offside front wing of the black Citroën 15-Six, an enameled tin mug of black American mess coffee held in his hand. His service tunic was unbuttoned at the neck, revealing the collar of his khaki flannel shirt, and the hem of his Cameron of Erracht kilt was stiff with dried river clay.
 
-Beside him, Michel de Bourbon-Parme sat on the car’s front fender, watching the endless file of disarmed men shuffling past toward the barbed-wire holding pens.
+Beside him, Michel de Bourbon-Parme sat on the car's front fender, watching the endless file of disarmed men shuffling past toward the barbed-wire holding pens.
 
 MICHEL
 (murmuring)
@@ -4177,7 +4177,7 @@ MACPHERSON
 Is that the final tally from the provost marshal?
 
 NARRATOR
-Sergeant Arthur Brown walked up from the passenger side of the Citroën, holding a yellow War Department carbon slip. The Newcastle signalman’s eyes were bloodshot, his fingers stained purple around the nails from indelible pencil lead.
+Sergeant Arthur Brown walked up from the passenger side of the Citroën, holding a yellow War Department carbon slip. The Newcastle signalman's eyes were bloodshot, his fingers stained purple around the nails from indelible pencil lead.
 
 BROWN
 (tapping the pad with his thumb)
@@ -4191,13 +4191,13 @@ MICHEL
 The War Office will have to invent an entire new administrative category for this. A British major, an American lieutenant, and a French prince capturing an entire army corps without firing an artillery shell. The staff colleges will argue about it for fifty years.
 
 NARRATOR
-Lieutenant Sam Magill walked over from the disarmament lanes, his canvas field jacket unzipped, his steel helmet pushed back on his forehead. He dropped heavily onto the Citroën’s running board, letting out a long, ragged groan of pure physical exhaustion. He held a clipboard in one hand and a leather-cased German field compass in the other.
+Lieutenant Sam Magill walked over from the disarmament lanes, his canvas field jacket unzipped, his steel helmet pushed back on his forehead. He dropped heavily onto the Citroën's running board, letting out a long, ragged groan of pure physical exhaustion. He held a clipboard in one hand and a leather-cased German field compass in the other.
 
 MAGILL
 (squinting up through the sun)
 Hey, Major. Division supply says we have already distributed thirty-five thousand field rations, ten tons of French bread, and four truckloads of cheese. The GIs are trading five packs of Lucky Strikes for German officer daggers and iron crosses. One kid from Columbus traded two chocolate bars for a Luger. <pause>
 
-You know what Patton’s headquarters in the east is calling the Eighty-Third?
+You know what Patton's headquarters in the east is calling the Eighty-Third?
 
 MACPHERSON
 (slow sip of coffee)
@@ -4271,7 +4271,7 @@ MACPHERSON
 You have the division commander and Lieutenant Magill on the levee. Take your pictures of the American army. We are not on the press roster.
 
 NARRATOR
-The photographer hesitated, caught the icy stillness in the Scotsman’s gray eyes, nodded once, and scurried back toward General Macon’s circle.
+The photographer hesitated, caught the icy stillness in the Scotsman's gray eyes, nodded once, and scurried back toward General Macon's circle.
 
 Michel let out a soft, dry laugh, watching the reporters crowd around Magill.
 
@@ -4285,7 +4285,7 @@ Let them print it. The Special Operations Executive does not exist in the mornin
 
 BROWN
 (wiping the B2 chassis)
-It's a blimmin' disgrace, all the same. Magill’s a good lad, but it was your skirt and thirty pounds of Nobel 808 that brought Botho Elster out of his barracks. The Newcastle papers won't believe a word of it.
+It's a blimmin' disgrace, all the same. Magill's a good lad, but it was your skirt and thirty pounds of Nobel 808 that brought Botho Elster out of his barracks. The Newcastle papers won't believe a word of it.
 
 MACPHERSON
 (exhaling smoke into the river air)
@@ -4294,11 +4294,11 @@ The Germans believe it, Arthur. That is the only audience that matters.
 NARRATOR
 From down the levee road, the drone of voices grew sharp, angry, and discordant, cutting through the celebratory chatter of the press corps.
 
-A convoy of five charcoal-gas civilian lorries had pulled up to the American military police barricade on the southern approach. Forty French partisans of the local Francs-Tireurs et Partisans—men from the Cher and the Indre who had tracked Elster’s rearguard through the Sologne—had gathered against the barbed wire.
+A convoy of five charcoal-gas civilian lorries had pulled up to the American military police barricade on the southern approach. Forty French partisans of the local Francs-Tireurs et Partisans—men from the Cher and the Indre who had tracked Elster's rearguard through the Sologne—had gathered against the barbed wire.
 
 They were not cheering. They stood in sullen, furious ranks, staring across the river where the disarmed German soldiers were sitting in the northern pastures, receiving fresh white bread, tins of corned beef, and cartons of Lucky Strike cigarettes from American supply trucks.
 
-Beside the lorries stood Colonel Raymond Chomel—the regular French cavalry officer commanding the southern FFI brigades. Chomel was engaged in a heated, sharp-toned argument with two American liaison colonels from General Macon’s staff.
+Beside the lorries stood Colonel Raymond Chomel—the regular French cavalry officer commanding the southern FFI brigades. Chomel was engaged in a heated, sharp-toned argument with two American liaison colonels from General Macon's staff.
 
 CHOMEL
 (voice tight with indignation, shouting across the gravel)
@@ -4314,11 +4314,11 @@ General Macon is a regular soldier, Michel. He has an entire army corps to proce
 NARRATOR
 The argument on the levee was resolved not with weapons, but with the necessary compromise of military diplomacy.
 
-General Macon, recognizing that an open rupture with Charles de Gaulle’s provisional government would paralyze the southern flank, stepped away from the newsreel cameras and walked toward Colonel Chomel.
+General Macon, recognizing that an open rupture with Charles de Gaulle's provisional government would paralyze the southern flank, stepped away from the newsreel cameras and walked toward Colonel Chomel.
 
 Within twenty minutes, staff officers had drawn up an addendum to the capitulation protocol.
 
-At four o'clock that afternoon, inside the grand salon of the Beaugency Town Hall, a second formal ceremony was convened. Beneath the portraits of the French Republic, with the tricolor flag draped alongside the Stars and Stripes, General Botho Elster’s surrender was formally reaffirmed. Colonel Chomel stood beside General Macon, his signature entered into the official historical record alongside the American commander’s, formally restoring the sovereignty of France over the capitulation of her occupiers.
+At four o'clock that afternoon, inside the grand salon of the Beaugency Town Hall, a second formal ceremony was convened. Beneath the portraits of the French Republic, with the tricolor flag draped alongside the Stars and Stripes, General Botho Elster's surrender was formally reaffirmed. Colonel Chomel stood beside General Macon, his signature entered into the official historical record alongside the American commander's, formally restoring the sovereignty of France over the capitulation of her occupiers.
 
 Macpherson and Michel stood at the back of the municipal hall, among the shadows of the doorway, watching the signatures being blotted. Neither man stepped forward to sign. Their work was irregular; the formal peace belonged to the states.
 
@@ -4345,7 +4345,7 @@ She was loud. And she had a very convincing horn.
 NARRATOR
 In the back of an abandoned railway freight wagon on the siding behind the depot, Arthur Brown had set up the Type B Mk II wireless transceiver for the eighty-fourth and final time.
 
-The glass valves cast their faint amber glow across the deal floorboards. Brown’s headphones were clamped over his ears, his fingers moving across the brass Morse key with the effortless, blistering speed of a master telegraphist.
+The glass valves cast their faint amber glow across the deal floorboards. Brown's headphones were clamped over his ears, his fingers moving across the brass Morse key with the effortless, blistering speed of a master telegraphist.
 
 He tapped out the four-letter preamble, followed by the five-letter cipher groups that closed the ledger.
 
@@ -4369,7 +4369,7 @@ Brown carried the suitcase out into the evening mist, where Macpherson and Miche
 
 Michel extended his hand to Tommy.
 
-The young prince’s face was older than it had been on the night they jumped from the Halifax over the basalt of the Cantal, his eyes carrying the quiet, hardened gravity of a veteran.
+The young prince's face was older than it had been on the night they jumped from the Halifax over the basalt of the Cantal, his eyes carrying the quiet, hardened gravity of a veteran.
 
 MICHEL
 Where now, Tommy? Back to Oxford?
@@ -4418,7 +4418,7 @@ Fort Zinna, Torgau on the Elbe, Saxony
 NARRATOR
 The air in the casemate of Fort Zinna smelled of wet lime, coal dust, and old river damp.
 
-Following the destruction of the court’s permanent complex on the Witzlebenstraße in Berlin by Allied air raids, the Reichskriegsgericht had evacuated south to the brick bastions of Torgau. Outside the barred embrasures, gray slush was breaking up along the banks of the Elbe under a cold, relentless sleet.
+Following the destruction of the court's permanent complex on the Witzlebenstraße in Berlin by Allied air raids, the Reichskriegsgericht had evacuated south to the brick bastions of Torgau. Outside the barred embrasures, gray slush was breaking up along the banks of the Elbe under a cold, relentless sleet.
 
 Inside the vaulted stone hall, three judges in the field-gray service dress of the General Staff sat behind a pine trestle table draped in black wool. Mounted against the whitewashed brick behind them hung an iron Reich eagle, flanked by a framed portrait of Adolf Hitler.
 
@@ -4467,7 +4467,7 @@ LATTMANN
 Is the decree of Sippenhaftung in effect?
 
 PROSECUTOR
-The defendant’s family in Böblingen was placed under security confinement by the Gestapo under the kin-liability decree. They remain under administrative custody.
+The defendant's family in Böblingen was placed under security confinement by the Gestapo under the kin-liability decree. They remain under administrative custody.
 
 LATTMANN
 (rising from the bench)
@@ -4480,7 +4480,7 @@ Five thousand miles to the west, in the damp, mild pine woods of Camp Clinton, M
 
 He wore an unbadged khaki shirt with a white PW stenciled on the back, carrying a small German edition of the New Testament in his pocket.
 
-Inside the camp, the controversy over his surrender had already been weighed and decided. Three months earlier, the senior German officers held in the facility—led by General der Infanterie Erwin Vierow—had convened an internal prisoner Court of Honor, Ehrenrat, to judge Elster’s conduct. They had reviewed the topographic maps of the Loire, the casualty ledgers of the retreat, the exhaustion of fuel, and the total lack of heavy artillery or air support.
+Inside the camp, the controversy over his surrender had already been weighed and decided. Three months earlier, the senior German officers held in the facility—led by General der Infanterie Erwin Vierow—had convened an internal prisoner Court of Honor, Ehrenrat, to judge Elster's conduct. They had reviewed the topographic maps of the Loire, the casualty ledgers of the retreat, the exhaustion of fuel, and the total lack of heavy artillery or air support.
 
 The Court of Honor had formally acquitted Elster of any dishonor. Their finding stood on the camp record—he had done everything a military commander could do, and he had brought his men through an impassable trap.
 
@@ -4507,11 +4507,11 @@ Along the limestone bluffs north of Cahors, the pale dust that had choked the wi
 
 Forty miles to the east, beneath the towering basalt crest of the Plomb du Cantal, the Le Lioran railway tunnel remained sealed for months.
 
-It took three industrial steam shovels brought down from Clermont-Ferrand, eighty railway sappers, and hundreds of tons of fresh timber cribbing to dig out the locomotive tender from beneath the mountain’s collapsed keystone. Deep within the bore, workers had to clear four hundred tons of pulverized basalt before the rails to Aurillac could carry steam again.
+It took three industrial steam shovels brought down from Clermont-Ferrand, eighty railway sappers, and hundreds of tons of fresh timber cribbing to dig out the locomotive tender from beneath the mountain's collapsed keystone. Deep within the bore, workers had to clear four hundred tons of pulverized basalt before the rails to Aurillac could carry steam again.
 
 And eighty miles to the northwest, in the Department of Haute-Vienne, lay Oradour-sur-Glane.
 
-In March 1945, General Charles de Gaulle walked through the ruined village in cold, unbending silence. He picked his way between the blackened stone gables, through the nave of the church where six hundred and forty-three women and children had burned, past the rusted iron skeletons of sewing machines, baby prams, and the doctor’s hollowed-out Peugeot sedan sitting upright on its rims in the marketplace.
+In March 1945, General Charles de Gaulle walked through the ruined village in cold, unbending silence. He picked his way between the blackened stone gables, through the nave of the church where six hundred and forty-three women and children had burned, past the rusted iron skeletons of sewing machines, baby prams, and the doctor's hollowed-out Peugeot sedan sitting upright on its rims in the marketplace.
 
 De Gaulle refused the municipal plans to clear the rubble. By official decree of the Provisional Government, the settlement was declared a national martyr village—Village Martyr—ordered to remain forever untouched, preserved in perpetuity as an open wound of stone, rust, and ash.
 
@@ -4528,7 +4528,7 @@ Operating from the high mountain pastures of Ledis and the granite crags around 
 
 On 3 May 1945, twenty-four hours before the official surrender of German forces in Italy, the next war arrived at the gates of Gemona.
 
-Descending from the eastern passes through Tarcento rolled an armed, motorized assault column belonging to the 9th Corps of Marshal Josip Broz Tito’s Yugoslav Fourth Army. Riding in captured Italian light armored vehicles and open trucks, the Yugoslav partisans were driving flat out toward the Tagliamento River, determined to seize administrative control of the Friuli and annex the territory into Tito's Slovene Littoral.
+Descending from the eastern passes through Tarcento rolled an armed, motorized assault column belonging to the 9th Corps of Marshal Josip Broz Tito's Yugoslav Fourth Army. Riding in captured Italian light armored vehicles and open trucks, the Yugoslav partisans were driving flat out toward the Tagliamento River, determined to seize administrative control of the Friuli and annex the territory into Tito's Slovene Littoral.
 
 At the center of Gemona, along the cobblestones of Via XX Settembre outside the former Milizia barracks, the advance column of the British Eighth Army met the Yugoslav vanguard.
 
@@ -4550,11 +4550,11 @@ Macpherson informed the Yugoslav captain that Gemona del Friuli was under the di
 
 The standoff stretched for twenty agonizing minutes under the afternoon sun, recorded for history through the lens of a local photographer from Studio Di Piazza.
 
-Looking at the heavy British guns behind the intersection, looking at the assembled battalions of the Osoppo, and staring into the unyielding iron in the Scottish major’s face, the Yugoslav captain’s nerve broke.
+Looking at the heavy British guns behind the intersection, looking at the assembled battalions of the Osoppo, and staring into the unyielding iron in the Scottish major's face, the Yugoslav captain's nerve broke.
 
 He ordered his motorized detachment to stand down. The Yugoslav column reversed its engines, turning back through the mountain lanes toward their regional headquarters at Villa Moretti in Tarcento.
 
-Shortly thereafter, Marshal Tito’s military command issued a formal death sentence and cash bounty for the capture or assassination of the interfering Scottish major—making Sir Tommy Macpherson one of the extraordinarily rare combatants in modern military history to carry death warrants on his head from both Adolf Hitler and Josip Broz Tito.
+Shortly thereafter, Marshal Tito's military command issued a formal death sentence and cash bounty for the capture or assassination of the interfering Scottish major—making Sir Tommy Macpherson one of the extraordinarily rare combatants in modern military history to carry death warrants on his head from both Adolf Hitler and Josip Broz Tito.
 
 The Long Horizon
 
@@ -4562,7 +4562,7 @@ When hostilities ceased, the War Office struggled to classify what the young maj
 
 By the time he was demobilized, Colonel Sir Ronald Thomas Stewart Tommy Macpherson, CBE, MC and two Bars, TD, DL, was among the most decorated soldiers in the British Army. His chest bore the Military Cross three times, three French Croix de Guerre with Palms, the Légion d'Honneur, and the Italian Silver Medal of Military Valour.
 
-The Gestapo’s 300,000-franc reward notice was never collected. Macpherson kept the original pulp paper proclamation folded in his desk drawer for the rest of his life.
+The Gestapo's 300,000-franc reward notice was never collected. Macpherson kept the original pulp paper proclamation folded in his desk drawer for the rest of his life.
 
 After leaving the service, he returned to Trinity College, Oxford, completed his degree in philosophy, politics, and economics, and rose to become a titan of the international timber industry as managing director of Mallinson-Denny. He served as president of the Association of British Chambers of Commerce and High Sheriff of Greater London. In the 1992 New Year Honours, he was created a Knight Bachelor.
 
@@ -4577,7 +4577,7 @@ Lieutenant Prince Michel de Bourbon-Parme, MC
 
 The twenty-year-old French prince who had driven the black Citroën 15-Six along the switchbacks of the Cère was awarded the British Military Cross and the French Croix de Guerre.
 
-Michel’s war did not conclude in the meadows of the Loire. In 1945, refusing to settle into the comfortable salons of Paris, he volunteered for the French Expeditionary Corps in the Far East. Parachuting into the jungle canopy of Indochina behind Japanese lines, he was subsequently captured by the Viet Minh.
+Michel's war did not conclude in the meadows of the Loire. In 1945, refusing to settle into the comfortable salons of Paris, he volunteered for the French Expeditionary Corps in the Far East. Parachuting into the jungle canopy of Indochina behind Japanese lines, he was subsequently captured by the Viet Minh.
 
 For eight brutal months, Michel survived in a mountain bamboo cage, enduring starvation, dysentery, and daily interrogation before executing a daring escape during a river crossing with five fellow prisoners.
 
@@ -4613,7 +4613,7 @@ The Partisans of the Massif
 
 The peace came hard to the irregulars who had fought in the chestnut timber.
 
-In Aurillac, Bernard Cournil—the Secret Army commandant who had illuminated Tommy Macpherson’s bare knees with a storm lantern on the shale of Drop Zone Aubépine—returned to his blacksmith forge and automotive repair shop.
+In Aurillac, Bernard Cournil—the Secret Army commandant who had illuminated Tommy Macpherson's bare knees with a storm lantern on the shale of Drop Zone Aubépine—returned to his blacksmith forge and automotive repair shop.
 
 Using surplus mechanical running gear from abandoned American Willys jeeps and Wehrmacht utility trucks, Cournil designed and patented an indestructible, short-wheelbase, four-wheel-drive agricultural tractor. The Tracteur Cournil became renowned across Europe, manufactured in the Cantal for three decades, climbing the steep basalt pastures where no civilian vehicle had ever worked before.
 
@@ -4668,11 +4668,11 @@ Colonel Maurice Buckmaster, OBE, 1897 to 1992. Head of the SOE French Section. F
 
 Special Training School 54, STS 54, Milton Hall, Northamptonshire. The historic Jacobean estate near Peterborough requisitioned by the War Office as the primary operational staging and briefing school for the multi-national Jedburgh teams. Here, British, Free French, and American operatives trained in plastic explosives, Morse telegraphy, ambushes, and guerrilla political liaison before night drops into occupied Europe.
 
-Bureau Central de Renseignements et d'Action, BCRA. The clandestine intelligence and operational agency of General Charles de Gaulle’s Free French Forces in London. Led by Colonel André Dewavrin, known as Colonel Passy, the BCRA vetted French officers—including Prince Michel de Bourbon-Parme—and maintained the delicate liaisons between Gaullist military command and the domestic French Resistance.
+Bureau Central de Renseignements et d'Action, BCRA. The clandestine intelligence and operational agency of General Charles de Gaulle's Free French Forces in London. Led by Colonel André Dewavrin, known as Colonel Passy, the BCRA vetted French officers—including Prince Michel de Bourbon-Parme—and maintained the delicate liaisons between Gaullist military command and the domestic French Resistance.
 
 Jedburgh Team QUININE
 
-Colonel Sir Ronald Thomas Stewart Tommy Macpherson, CBE, MC and two Bars, TD, DL, 1920 to 2014. Commanding Officer, Team QUININE. Commissioned into the Queen's Own Cameron Highlanders. A veteran of No. 11 Scottish Commando, the 1941 raid on Rommel’s headquarters in Libya, eighteen months in Italian isolation cells at Campo 78, Sulmona, and three escapes across Europe—culminating in his escape to Sweden buried beneath thirty tons of coal in a cargo collier out of Gdynia.
+Colonel Sir Ronald Thomas Stewart Tommy Macpherson, CBE, MC and two Bars, TD, DL, 1920 to 2014. Commanding Officer, Team QUININE. Commissioned into the Queen's Own Cameron Highlanders. A veteran of No. 11 Scottish Commando, the 1941 raid on Rommel's headquarters in Libya, eighteen months in Italian isolation cells at Campo 78, Sulmona, and three escapes across Europe—culminating in his escape to Sweden buried beneath thirty tons of coal in a cargo collier out of Gdynia.
 
 Parachuted into the Cantal on 9 June 1944 in full Highland dress. He orchestrated the interdiction of Route Nationale 20, the destruction of the Le Lioran rail tunnel, the capture of Aurillac, and the bluff that compelled the unconditional surrender of March Group South at Beaugency.
 
@@ -4696,7 +4696,7 @@ The Allied Command and the 83rd Infantry Division
 
 Major General Robert C. Macon, 1890 to 1980. Commanding General, US 83rd Thunderbolt Infantry Division. A Virginia military veteran who led his division through the hedgerow slaughter of Carentan and Sainteny. Held a defensive screen across two hundred miles of the northern bank of the Loire River with three overstretched infantry regiments. Recognized the strategic leverage of Team Quinine's bluff, endorsed the safe-conduct protocols, and accepted the unconditional surrender of General Botho Elster on the southern quayside at Beaugency. Later drove his division through the Ardennes and established the first Allied bridgehead across the Elbe River at Barby.
 
-First Lieutenant Samuel W. Magill, DSC, 1919 to 1996. Commanding Officer, 83rd Division Intelligence and Reconnaissance Platoon, Platoon International. An Ohio National Guardsman who commanded a handpicked, multilingual scout unit of thirty combat veterans. Crossed the Loire in stripped-down .50-caliber-armed jeeps, established contact with Team Quinine in the Sologne, and accompanied Macpherson under a flag of truce into the German headquarters at Issoudun. Oversaw the escort of nineteen thousand armed enemies across sixty miles of hostile territory to the river crossing. Awarded the Distinguished Service Cross—America’s second-highest military decoration for valor.
+First Lieutenant Samuel W. Magill, DSC, 1919 to 1996. Commanding Officer, 83rd Division Intelligence and Reconnaissance Platoon, Platoon International. An Ohio National Guardsman who commanded a handpicked, multilingual scout unit of thirty combat veterans. Crossed the Loire in stripped-down .50-caliber-armed jeeps, established contact with Team Quinine in the Sologne, and accompanied Macpherson under a flag of truce into the German headquarters at Issoudun. Oversaw the escort of nineteen thousand armed enemies across sixty miles of hostile territory to the river crossing. Awarded the Distinguished Service Cross—America's second-highest military decoration for valor.
 
 The Resistance Leadership of the South-Central Departments
 
@@ -4714,7 +4714,7 @@ The Command of March Group South
 
 Generalmajor Botho Henning Elster, 1894 to 1952. Commander, Feldkommandantur 541, Marschgruppe Elster. A Prussian veteran of the Western Front in 1914 and former commander of Panzer-Regiment 8. Commanded the consolidated retreat of nineteen thousand, eight hundred and fifty-four men from the Atlantic Wall, the Gironde, and the Pyrenean border toward the Loire.
 
-Recognized the tactical impossibility of his position following the destruction of the Loire bridges, air attacks by the IX Tactical Air Command, and the psychological bluff mounted at Issoudun. Defied Hitler’s standing fight to the last cartridge directive, surrendering his entire corps intact to save his men from annihilation.
+Recognized the tactical impossibility of his position following the destruction of the Loire bridges, air attacks by the IX Tactical Air Command, and the psychological bluff mounted at Issoudun. Defied Hitler's standing fight to the last cartridge directive, surrendering his entire corps intact to save his men from annihilation.
 
 Sentenced to death in absentia for high treason by the Reichskriegsgericht at Fort Zinna on 7 March 1945; acquitted of any military dishonor by the prisoner Court of Honor at Camp Clinton, Mississippi. Died in Böblingen on 24 June 1952.
 

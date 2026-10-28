@@ -20,7 +20,7 @@ DURNFORD-SLATER
 I speak with the voice of Fenrir
 Major John Durnford-Slater. British RP accent, sharp, aggressive artilleryman's cadence, cold and resolute under fire
 
-CHURCHILL
+JACK CHURCHILL
 I speak with the voice of Puck
 Major Jack Churchill. British RP accent with theatrical flourish, eccentric, buoyant, fearless, and romantic
 
@@ -181,9 +181,9 @@ London, 27 October – 12 November 1941
 
 The blackout curtains at 1A Richmond Terrace were heavy, smelling of damp wool and old coal smoke. Outside, Whitehall was an ink-black trench in the autumn rain, but inside the headquarters of Combined Operations, the electric lights burned through the day and night without interruption.
 
-Captain Lord Louis Mountbatten had occupied the Chief’s office for less than twenty-four hours. His predecessor, the fiery and aging Admiral of the Fleet Sir Roger Keyes, had been forced out after months of bitter jurisdictional bickering with the Chiefs of Staff Committee. Keyes had demanded grand, large-scale assaults against fortified redoubts—operations like the seizure of the Canary Islands or Pantelleria—that the Admiralty and War Office simply lacked the landing craft, shipping, and air cover to sustain. When the friction became intolerable, Winston Churchill removed him.
+Captain Lord Louis Mountbatten had occupied the Chief's office for less than twenty-four hours. His predecessor, the fiery and aging Admiral of the Fleet Sir Roger Keyes, had been forced out after months of bitter jurisdictional bickering with the Chiefs of Staff Committee. Keyes had demanded grand, large-scale assaults against fortified redoubts—operations like the seizure of the Canary Islands or Pantelleria—that the Admiralty and War Office simply lacked the landing craft, shipping, and air cover to sustain. When the friction became intolerable, Winston Churchill removed him.
 
-Churchill’s handwritten directive to Mountbatten, delivered upon his appointment as Adviser on Combined Operations, lay flat across the blotter:
+Churchill's handwritten directive to Mountbatten, delivered upon his appointment as Adviser on Combined Operations, lay flat across the blotter:
 
 You are to continue the commando raids upon the enemy-occupied coasts... The whole coast of Europe must be made to feel insecure. A reign of terror must be established across the seaboard.
 
@@ -295,16 +295,16 @@ The frost on the heather around Dornoch and the coastal slopes of Largs did not 
 
 Major John Durnford-Slater stood with his coat collar turned up against the sleet, watch in hand, observing Troop 3 clear a steep gully. They were using live ammunition. Short, three-round bursts from .45-calibre Thompson submachine guns tore into timber targets pegged into the hillside; behind the lead section, a two-man Bren team dropped into the scree, spraying copper-jacketed .303 rounds into the rocks to keep imaginary snipers pinned.
 
-Durnford-Slater had transferred from the Royal Artillery to the Commandos seeking active operational service, but he ran No. 3 Commando with a gunner’s cold calculation. He did not believe in heroic flourishes; he believed in volume of fire, violent momentum, and exact timetables.
+Durnford-Slater had transferred from the Royal Artillery to the Commandos seeking active operational service, but he ran No. 3 Commando with a gunner's cold calculation. He did not believe in heroic flourishes; he believed in volume of fire, violent momentum, and exact timetables.
 
 DURNFORD-SLATER
 (barking as a sergeant scrambles past, stone dust smoking from the rock face above him)
 Watch your intervals on the scree. If a German MG34 catches you bunched like that, you won't live long enough to draw a toggle rope.
 
 NARRATOR
-A few yards back, leaning against a damp birch trunk with a canvas-wrapped package under his arm, was his second-in-command, Major Jack Churchill. Commissioned into the Manchester Regiment before volunteering for special service, Churchill was Durnford-Slater’s opposite in temperament: eccentric, fiercely romantic, and completely devoid of fear. While Durnford-Slater carried a standard-issue Webley and focused on fire-plans, Churchill had already gained notoriety in France for carrying a Scottish broadsword, a longbow, and bagpipes into battle.
+A few yards back, leaning against a damp birch trunk with a canvas-wrapped package under his arm, was his second-in-command, Major Jack Churchill. Commissioned into the Manchester Regiment before volunteering for special service, Churchill was Durnford-Slater's opposite in temperament: eccentric, fiercely romantic, and completely devoid of fear. While Durnford-Slater carried a standard-issue Webley and focused on fire-plans, Churchill had already gained notoriety in France for carrying a Scottish broadsword, a longbow, and bagpipes into battle.
 
-CHURCHILL
+JACK CHURCHILL
 (voice cheerful despite the bone-chilling mist drifting off the water)
 The men are moving well, John. A bit of frost puts steel into the blood.
 
@@ -324,7 +324,7 @@ DURNFORD-SLATER
 Captain Linge. Your men are ready for the cliff work?
 
 LINGE
-(quietly, with an actor’s measured cadence)
+(quietly, with an actor's measured cadence)
 My men were born on cliffs like these, Major. They do not need to be taught how to climb Norwegian rock. What they need is to know how your men behave when the wooden houses begin to burn.
 
 DURNFORD-SLATER
@@ -349,7 +349,7 @@ Agreed. Your people take the lead into the civilian sections. But if a house ans
 NARRATOR
 Further down the slope, by a row of parked Bedford 3-ton lorries, Lieutenant Vernon of the Royal Engineers was supervising the offloading of heavy wooden crates stenciled in yellow: AMMONAL - HIGH EXPLOSIVE and CORDITE SLABS.
 
-Vernon’s detachment from 101 Troop had been assigned the systematic destruction of Vågsøy’s economic engine. He was consulting a series of sketches drawn from pre-war industrial registries and aerial photographs.
+Vernon's detachment from 101 Troop had been assigned the systematic destruction of Vågsøy's economic engine. He was consulting a series of sketches drawn from pre-war industrial registries and aerial photographs.
 
 VERNON
 (explaining to his demolition sergeants, tapping the charcoal drawing of the Firda factory)
@@ -387,7 +387,7 @@ Rising out of the leaden water like jagged iron islands were the capital ships o
 
 The Commandos were ferried to their assault transports: HMS Prince Charles and HMS Prince Leopold. The two vessels were former Belgian cross-channel passenger ferries, requisitioned by the Admiralty and converted into Landing Ships Infantry (Small). Painted in streaks of Admiralty camouflage, their boat decks were fitted with Welin davits carrying eight Landing Craft Assault (LCAs) apiece.
 
-The interior of the ships was a maze of narrow companionways, smelling of damp cork insulation, bilge water, and ship’s tea. The troops were crammed into converted passenger saloons where bunks had been torn out to make room for triple-tiered pipe-and-canvas berths.
+The interior of the ships was a maze of narrow companionways, smelling of damp cork insulation, bilge water, and ship's tea. The troops were crammed into converted passenger saloons where bunks had been torn out to make room for triple-tiered pipe-and-canvas berths.
 
 Major John Durnford-Slater did not linger in his quarters aboard Prince Charles. A motor launch was already idling alongside to take him, Jack Churchill, and Captain Martin Linge across the anchorage to the light cruiser HMS Kenya, the flagship of Force Z.
 
@@ -483,7 +483,7 @@ DURNFORD-SLATER
 Get them up. Get the hatches open, scrape down the decks, and get hot tea into every man. We are twenty-four hours behind timetable.
 
 NARRATOR
-Captain Martin Linge walked among his Norwegian soldiers. Several of them had managed to keep their footing through the gale; they were now helping the ship’s cooks haul five-gallon steel urns of hot tea and hard ship’s biscuits down the ladders.
+Captain Martin Linge walked among his Norwegian soldiers. Several of them had managed to keep their footing through the gale; they were now helping the ship's cooks haul five-gallon steel urns of hot tea and hard ship's biscuits down the ladders.
 
 PRIVATE
 (muttering from a bench, clutching a tin mug with shaking, blue fingers)
@@ -508,7 +508,7 @@ To the submarine HMS Tuna, riding the deep swells off the entrance to Vågsfjord
 
 To RAF Group 18 at Wick and Sumburgh, standing down the Blenheim and Hampden squadrons that were already being fueled for the dawn strike.
 
-To Rear-Admiral Hamilton’s Force J far to the north, which was executing Operation Anklet in the Lofotens and would now strike ahead of Archery, effectively becoming the opening gambit of the campaign rather than a simultaneous blow.
+To Rear-Admiral Hamilton's Force J far to the north, which was executing Operation Anklet in the Lofotens and would now strike ahead of Archery, effectively becoming the opening gambit of the campaign rather than a simultaneous blow.
 
 Throughout the rest of 25 December and into the morning of 26 December, Force Z lay at anchor in Sullom Voe. The men were fed tinned bully beef, bread, and rum. In the mess decks, troop sergeants ran their men through final weapon inspections. Tommy gun extractors were oiled; Bren magazines were emptied, checked for dented feed lips, and re-bombed with thirty rounds apiece; hand grenades were checked to ensure split pins had not rusted in their sleeves.
 
@@ -542,13 +542,13 @@ Major John Durnford-Slater sat at a small steel folding table in the orderly roo
 
 Group 1: Troop 2, No. 3 Commando (Lieutenant R. Clement) – Landing at Holvik to secure the western flank, neutralize a reported enemy gun position, and hold the landward approach.
 
-Group 2: Troops 1, 3, and 4, No. 3 Commando, with Captain Martin Linge’s detachment (Major John Durnford-Slater commanding) – Landing southwest of South Vågsøy town to clear the main street, seize the German headquarters, and systematically destroy the canning and fish-oil facilities.
+Group 2: Troops 1, 3, and 4, No. 3 Commando, with Captain Martin Linge's detachment (Major John Durnford-Slater commanding) – Landing southwest of South Vågsøy town to clear the main street, seize the German headquarters, and systematically destroy the canning and fish-oil facilities.
 
 Group 3: Troops 5 and 6, No. 3 Commando (Major Jack Churchill commanding, with Lieutenant Denis O'Flaherty and Captain Peter Young) – Landing directly on Måløy Island to assault and destroy the four-gun coastal battery and eliminate the garrison.
 
-Group 4: Troop 6 of No. 2 Commando (Captain R.H. Hooper) – Floating tactical reserve held aboard landing craft under Brigadier Haydon’s direct hand, ready to commit wherever the assault met resistance.
+Group 4: Troop 6 of No. 2 Commando (Captain R.H. Hooper) – Floating tactical reserve held aboard landing craft under Brigadier Haydon's direct hand, ready to commit wherever the assault met resistance.
 
-Group 5: Troop 4 of No. 2 Commando (Captain D. Birney and Lieutenant J.M. Poore) – Transferred directly to the destroyer HMS Oribi, to be carried north through Ulvesund, landed in ship’s boats at Rødberg to crater the road with explosives and sever telephone lines connecting South Vågsøy to the north.
+Group 5: Troop 4 of No. 2 Commando (Captain D. Birney and Lieutenant J.M. Poore) – Transferred directly to the destroyer HMS Oribi, to be carried north through Ulvesund, landed in ship's boats at Rødberg to crater the road with explosives and sever telephone lines connecting South Vågsøy to the north.
 
 Captain Martin Linge sat on a timber crate across from him, cleaning the sights of his Colt .45 automatic pistol.
 
@@ -565,7 +565,7 @@ We do not intend to leave anyone behind.
 NARRATOR
 Up on the darkened bridge of HMS Kenya, the physical tension was concentrated entirely on navigation.
 
-Rear-Admiral Burrough stood beside Kenya’s commanding officer, Captain Michael Denny, and the cruiser’s navigating officer, bending over the dead-reckoning plot in the dim red glow of the chart table lamp.
+Rear-Admiral Burrough stood beside Kenya's commanding officer, Captain Michael Denny, and the cruiser's navigating officer, bending over the dead-reckoning plot in the dim red glow of the chart table lamp.
 
 Without radar operating on active search—transmissions could be detected by German shore listening stations—navigation across three hundred miles of open ocean was an exercise in pure deduction. The navigating officer had to calculate the set and drift of the Arctic currents, the push of the northwesterly gale, and the slight inaccuracies of magnetic compasses. If they were off by five miles to the north, they would drive into the jagged skerry reefs off Bremangerland; if they were five miles to the south, they would miss the entrance to the fjord entirely.
 
@@ -582,7 +582,7 @@ HMS Tuna, commanded by Lieutenant Commander M.K. Cavenagh-Mainwaring, had spent 
 
 At 06:45, the convoy slowed to twelve knots. The sea had flattened considerably, sheltered by the unseen mass of the Norwegian coast lying somewhere beyond the black horizon.
 
-On Kenya’s port bridge wing, a lookout leaned into the icy spray, his night-glasses clamped to his eyes. The wind was bitter, carrying the distinct, cold smell of land—frozen pine, snow, and wet stone.
+On Kenya's port bridge wing, a lookout leaned into the icy spray, his night-glasses clamped to his eyes. The wind was bitter, carrying the distinct, cold smell of land—frozen pine, snow, and wet stone.
 
 LOOKOUT
 (hissing through the voicepipe)
@@ -613,15 +613,15 @@ The submarine HMS Tuna dropped astern, a black, low-lying shadow that dissolved 
 
 As Force Z crossed the invisible threshold between open ocean and the outer fjord, the violent heave of the North Sea ceased with unnatural abruptness. The water flattened into an oily, ink-black sheet. On both sides, sheer walls of granite rose thousands of feet into the gloom, shutting out the wind and trapping the convoy in a freezing, echoing corridor.
 
-Aboard HMS Kenya, the call to action stations had not been sounded by the usual wailing alarm sirens. The sound would have bounced off the rock faces of Bremangerland and alerted German visual watch posts miles up the channel. Instead, the order was passed by running messengers and muffled boatswain’s calls along the interior decks.
+Aboard HMS Kenya, the call to action stations had not been sounded by the usual wailing alarm sirens. The sound would have bounced off the rock faces of Bremangerland and alerted German visual watch posts miles up the channel. Instead, the order was passed by running messengers and muffled boatswain's calls along the interior decks.
 
-In the cruiser’s four triple 6-inch gun turrets—'A' and 'B' forward, 'X' and 'Y' aft—the crews dogged the armoured flash-hatches shut. The hydraulic pumps hummed, a low vibration through the deckplates as the barrels elevated into the darkness. In the lower handling rooms, sailors loaded sixty-pound green-banded starshells and hundred-pound high-explosive rounds onto the dredger hoists.
+In the cruiser's four triple 6-inch gun turrets—'A' and 'B' forward, 'X' and 'Y' aft—the crews dogged the armoured flash-hatches shut. The hydraulic pumps hummed, a low vibration through the deckplates as the barrels elevated into the darkness. In the lower handling rooms, sailors loaded sixty-pound green-banded starshells and hundred-pound high-explosive rounds onto the dredger hoists.
 
 Ahead of the flagship, the destroyers Onslow and Offa formed the vanguard, their bows slicing through the dark water without throwing a bow wave. Throttled down to twelve knots, the fleet made very little engine noise—only the muffled rush of forced-draft blowers and the hiss of displaced water.
 
 Aboard Prince Charles and Prince Leopold, the companionway hatches opened, releasing plumes of warm, foul air into the freezing morning.
 
-The Commandos climbed the steel ladders to the boat decks. The sudden transition from the stifling mess decks to the Arctic air was an immediate shock to the lungs. The temperature was well below freezing; sea spray had frozen into brittle sheets of rime on the guardrails and winch drums. Within seconds, condensation from the men’s breath froze into white frost on their wool caps and the collars of their windproof smocks.
+The Commandos climbed the steel ladders to the boat decks. The sudden transition from the stifling mess decks to the Arctic air was an immediate shock to the lungs. The temperature was well below freezing; sea spray had frozen into brittle sheets of rime on the guardrails and winch drums. Within seconds, condensation from the men's breath froze into white frost on their wool caps and the collars of their windproof smocks.
 
 They fell into their boat teams beside the eight suspended Landing Craft Assault.
 
@@ -666,7 +666,7 @@ BURROUGH
 Very well. Signal the destroyers to take up their fire-support stations. Oribi to proceed north through the sound with Group Five once the barrage commences.
 
 NARRATOR
-A shaded red lamp on Kenya’s bridge flashed three short pulses across the water toward the assault transports.
+A shaded red lamp on Kenya's bridge flashed three short pulses across the water toward the assault transports.
 
 Aboard Prince Charles and Prince Leopold, the naval beach masters raised their megaphones.
 
@@ -709,9 +709,9 @@ The coxswains shoved the throttle levers forward. The twin 65-horsepower Ford V8
 
 One by one, eight craft from Prince Charles and eight from Prince Leopold detached themselves from the mother ships. The water in the central fairway was calm, but the craft were heavily laden, riding with barely eighteen inches of freeboard. When the blunt bow ramps pushed into the chop, sheets of freezing spray threw back over the low armor plate, stinging exposed skin and freezing instantly on woolen gloves and steel helmets.
 
-Aboard Group 3’s lead craft, Major Jack Churchill stood near the bow, his hands resting on the hilt of his broadsword. The bagpipes, wrapped in waterproof green oilskin, rested between his boots. Beside him, Lieutenant Denis O’Flaherty and Captain Peter Young checked their compasses.
+Aboard Group 3's lead craft, Major Jack Churchill stood near the bow, his hands resting on the hilt of his broadsword. The bagpipes, wrapped in waterproof green oilskin, rested between his boots. Beside him, Lieutenant Denis O'Flaherty and Captain Peter Young checked their compasses.
 
-CHURCHILL
+JACK CHURCHILL
 (in a low, level tone, to the coxswain)
 Keep the intervals at fifty yards. If one craft takes a direct hit from a shore gun, I do not want the shrapnel taking out the second.
 
@@ -724,7 +724,7 @@ The assault flotilla quickly organized itself into its designated tactical forma
 
 Group 1: Troop 2 swung out toward the western shore, aiming for the shingle beach at Holvik.
 
-Group 2: Troops 1, 3, and 4, with Linge’s detachment formed into line abreast, pointed toward the rocky southern fringe of South Vågsøy town.
+Group 2: Troops 1, 3, and 4, with Linge's detachment formed into line abreast, pointed toward the rocky southern fringe of South Vågsøy town.
 
 Group 3: Troops 5 and 6 angled sharply to the right, aiming directly for the western tongue of Måløy Island.
 
@@ -732,7 +732,7 @@ Group 4: Troop 6 of No. 2 Commando throttled back into a holding pattern in mid-
 
 North of the main flotilla, the destroyer HMS Oribi parted company with the main force, increasing speed to sixteen knots. On her decks, the men of Group 5 stood ready with boarding ladders and whalers, waiting to be carried through the narrows to Rødberg.
 
-The distance from the lowering point to the landing beaches was three nautical miles. At the LCAs’ operational speed of roughly seven knots, the run-in would take twenty-two minutes.
+The distance from the lowering point to the landing beaches was three nautical miles. At the LCAs' operational speed of roughly seven knots, the run-in would take twenty-two minutes.
 
 It was now 08:35.
 
@@ -761,7 +761,7 @@ One minute to opening fire.
 NARRATOR
 A young lance corporal opposite him tightened the strap of his helmet, swallowed hard, and pulled his toggle rope closer to his chest. No one answered.
 
-At 08:42, across the dark water, a dull metallic clatter echoed from Kenya’s forward deck, followed instantly by a sound like tearing canvas.
+At 08:42, across the dark water, a dull metallic clatter echoed from Kenya's forward deck, followed instantly by a sound like tearing canvas.
 
 
 
@@ -779,7 +779,7 @@ Instantly, the Norwegian winter night was abolished. The towering granite walls 
 
 Two seconds later, HMS Kenya opened fire with her main battery.
 
-The blast of twelve 6-inch guns firing simultaneously struck the fjord like a physical blow. Sheets of orange flame, thirty feet long, erupted from the cruiser’s triple turrets, scorching the air and reflecting off the icy rock faces. The concussion roared down the channel, vibrating through the steel hulls of the landing craft half a mile away and pressing hard against the eardrums of every soldier aboard.
+The blast of twelve 6-inch guns firing simultaneously struck the fjord like a physical blow. Sheets of orange flame, thirty feet long, erupted from the cruiser's triple turrets, scorching the air and reflecting off the icy rock faces. The concussion roared down the channel, vibrating through the steel hulls of the landing craft half a mile away and pressing hard against the eardrums of every soldier aboard.
 
 Before the echo of the first salvo had died away, the destroyers Onslow, Offa, and Chiddingfold joined in. Their 4.7-inch and 4-inch guns opened rapid fire, sending an unbroken stream of high-explosive shells screaming over the heads of the assault craft.
 
@@ -802,11 +802,11 @@ On Måløy Island, German gun crews from Marine-Artillerie-Abteilung 502 attempt
 
 Few of the gunners reached them.
 
-Kenya’s gunners had the range precisely plotted. Shell after shell crashed into the gun aprons, shattering the traversing rings and burying the mechanisms under tons of pulverized stone. Telephone lines between the observation posts and the guns were severed instantly. An oil storage tank near the island wharf took a direct hit from a 4.7-inch shell from Onslow, exploding into a roiling geyser of greasy orange fire that cast dancing shadows across the snow.
+Kenya's gunners had the range precisely plotted. Shell after shell crashed into the gun aprons, shattering the traversing rings and burying the mechanisms under tons of pulverized stone. Telephone lines between the observation posts and the guns were severed instantly. An oil storage tank near the island wharf took a direct hit from a 4.7-inch shell from Onslow, exploding into a roiling geyser of greasy orange fire that cast dancing shadows across the snow.
 
-Aboard Group 3’s landing craft, Major Jack Churchill stood erect, gripping the armor coaming, his eyes fixed on the burning island. Shell fragments splashed the freezing water around his craft, throwing up white plumes of spray.
+Aboard Group 3's landing craft, Major Jack Churchill stood erect, gripping the armor coaming, his eyes fixed on the burning island. Shell fragments splashed the freezing water around his craft, throwing up white plumes of spray.
 
-CHURCHILL
+JACK CHURCHILL
 (shouting back to his troop officers, his voice rising above the din)
 Splendid shooting! The Navy is blowing the whole wretched rock into the sea!
 
@@ -820,7 +820,7 @@ DENNY
 Cease fire main armament. Shift fire to secondary targets behind the town.
 
 NARRATOR
-The cruiser’s 6-inch guns fell silent, their barrels smoking and blistered with burnt paint. The sudden cessation of the heavy guns left a ringing void in the air, filled only by the crack of the destroyers' secondary weapons and the distant wail of the town sirens.
+The cruiser's 6-inch guns fell silent, their barrels smoking and blistered with burnt paint. The sudden cessation of the heavy guns left a ringing void in the air, filled only by the crack of the destroyers' secondary weapons and the distant wail of the town sirens.
 
 Then, from the south, flying barely fifty feet above the dark water of the fjord, came a low, twin-engine roar.
 
@@ -864,7 +864,7 @@ White phosphorus burned through heavy canvas smocks, woollen battledress, and fl
 
 The air filled with the thick, suffocating stench of burning garlic and scorched meat.
 
-Beside the stricken craft, Durnford-Slater’s boat ground its ramp into the icy shingle of the shoreline.
+Beside the stricken craft, Durnford-Slater's boat ground its ramp into the icy shingle of the shoreline.
 
 Captain Martin Linge did not hesitate. He vaulted over the side into waist-deep, freezing water and lunged toward Lieutenant Komrower, who was struggling to stay afloat in the wake of the burning craft, his heavy webbing dragging him under. Linge caught the British lieutenant by the collar of his smock and hauled him through the breakers onto the rocks.
 
@@ -903,11 +903,11 @@ Lieutenant R. Clement, commanding Troop 2 of No. 3 Commando, was first into the 
 
 Intelligence reports had warned that Holvik was a fortified strongpoint. Aerial reconnaissance had identified trenches, barbed-wire aprons, and what appeared to be an active coastal defense bunker and machine-gun emplacement commanding the western sea approach to South Vågsøy.
 
-Clement’s men spread out in a broad skirmish line, crouching low with Thompsons at the ready, while two Bren gun teams dropped into firing positions behind a stone field boundary, their bipods sinking into the drifts.
+Clement's men spread out in a broad skirmish line, crouching low with Thompsons at the ready, while two Bren gun teams dropped into firing positions behind a stone field boundary, their bipods sinking into the drifts.
 
 Nothing fired back.
 
-The low, turf-roofed fishermen’s cottages and red-painted wooden outbuildings stood silent in the grey morning light. Thin grey smoke curled peacefully from the chimney of a timber farmhouse.
+The low, turf-roofed fishermen's cottages and red-painted wooden outbuildings stood silent in the grey morning light. Thin grey smoke curled peacefully from the chimney of a timber farmhouse.
 
 CLEMENT
 (breath coming in white plumes)
@@ -979,7 +979,7 @@ The craft shuddered as its flat bottom ground violently into the submerged stone
 
 Churchill hurled the grenade toward a shattered timber breastwork at the high-water mark, drew breath, and leaped from the ramp into knee-deep, freezing water, brandishing the claymore above his head.
 
-CHURCHILL
+JACK CHURCHILL
 (charging up the icy shingle into the smoke, bellowing)
 Come on, lads!
 
@@ -990,7 +990,7 @@ Captain A. S. Ronald led Troop 5 off the second craft, their boots splashing thr
 
 Despite the hundreds of 6-inch shells poured onto the islet, German defenders remained alive. Deep within concrete bunkers and stone-revetted crevices blasted out of the granite, surviving gunners of Marine-Artillerie-Abteilung 502 and German infantrymen had weathered the barrage. Dazed, bleeding from the ears and noses from the concussive pressure of the naval shells, several gunners scrambled into communication trenches to man secondary machine-gun posts.
 
-An MG34 opened fire from a low concrete revetment forty yards up the slope, its frantic, circular buzz kicking up chips of frozen granite around Ronald’s boots.
+An MG34 opened fire from a low concrete revetment forty yards up the slope, its frantic, circular buzz kicking up chips of frozen granite around Ronald's boots.
 
 RONALD
 (yelling)
@@ -1008,7 +1008,7 @@ The Bren gunner rested the bipod on the lip of the pulverized crater, driving th
 
 Churchill was already past the position, moving at a fast jog across the churned ground, the heavy claymore swinging in his hand as he directed his sections toward the battery command post.
 
-CHURCHILL
+JACK CHURCHILL
 (shouting to Young as they cross a tangled mess of blown barbed wire)
 Keep the pressure on them! They're still half-blind from the naval guns! Don't let them form up!
 
@@ -1021,7 +1021,7 @@ German resistance was sporadic but vicious. A group of four German soldiers burs
 
 From across the narrow water, the Commandos on the island could see South Vågsøy burning—and the sound of dense, frantic fighting pouring out of the town streets.
 
-CHURCHILL
+JACK CHURCHILL
 (halting beside a pulverized concrete blast-wall, wiping black grit and salt spray from his face with the cuff of his smock, calling out over the rattle of gunfire)
 Right, Ronald. Let's take those guns. Blow every breech block on the island.
 
@@ -1037,7 +1037,7 @@ Captain A. S. Ronald led Troop 5 along the blackened crest of the island, moving
 
 Ahead lay the four gun aprons of Marine-Artillerie-Abteilung 502. The battery was arranged in a shallow arc facing seaward, overlooking the narrow entrance of the Ulvesund.
 
-The first gun pit was a scene of total ruin. A direct hit from one of HMS Kenya’s 6-inch high-explosive shells had struck the concrete pedestal, shearing the heavy steel gun carriage clean off its mount. The barrel, a long French-made 13-centimetre piece, lay cracked and drunkenly inverted in the rubble, surrounded by the mangled remains of two German loaders.
+The first gun pit was a scene of total ruin. A direct hit from one of HMS Kenya's 6-inch high-explosive shells had struck the concrete pedestal, shearing the heavy steel gun carriage clean off its mount. The barrel, a long French-made 13-centimetre piece, lay cracked and drunkenly inverted in the rubble, surrounded by the mangled remains of two German loaders.
 
 RONALD
 (gesturing forward, yelling over his shoulder)
@@ -1068,7 +1068,7 @@ Ready to blow number two!
 NARRATOR
 Meanwhile, Captain Peter Young and Troop 6 were encountering stubborn resistance near the battery command bunker and the underground ammunition galleries blasted into the granite spine of the islet.
 
-A surviving German officer and half a dozen gunners had retreated into a concrete shelter beneath the searchlight platform. Through a steel loophole, an MG34 chattered continuously, sending bursts snapping across the bare rock and pinning Young’s lead section behind a mound of pulverized granite.
+A surviving German officer and half a dozen gunners had retreated into a concrete shelter beneath the searchlight platform. Through a steel loophole, an MG34 chattered continuously, sending bursts snapping across the bare rock and pinning Young's lead section behind a mound of pulverized granite.
 
 Young crawled on his stomach through the snow to reach a Commando armed with a 2-inch mortar.
 
@@ -1100,7 +1100,7 @@ The Commandos ducked behind the massive revetments. Three heavy explosions crack
 
 Major Jack Churchill strode down the communication trench, his Scottish broadsword now resting casually in the crook of his arm, his bagpipes tucked under the other. He stopped at the edge of the second gun pit, where seven dazed German prisoners were being lined up against a low stone wall, their hands clasped behind their heads.
 
-CHURCHILL
+JACK CHURCHILL
 (looking down at the ruined guns, then at Ronald, calmly, as if surveying a cricket pitch)
 First-rate work, Ronald. The Navy will be pleased. Now let's sweep the rest of the rock. I don't want a single Jerry left hiding in these rat holes.
 
@@ -1114,7 +1114,7 @@ Måløy Island, 09:40 – 10:15
 
 The sweep across the remainder of Måløy Island was systematic, methodical, and swift.
 
-Covering barely thirty acres of rock and scrub, the islet offered little room for retreat once its fortified core was breached. Troop 6, moving under Captain Peter Young’s direction, fanned out across the northern headland. Pairs of Commandos moved from crag to crag, probing the rocky hollows and peat-covered clefts where German riflemen might still lurk.
+Covering barely thirty acres of rock and scrub, the islet offered little room for retreat once its fortified core was breached. Troop 6, moving under Captain Peter Young's direction, fanned out across the northern headland. Pairs of Commandos moved from crag to crag, probing the rocky hollows and peat-covered clefts where German riflemen might still lurk.
 
 At the entrance to an underground storage gallery cut into the living granite, two Commandos halted, rifles raised. Inside the dark, timber-shored tunnel, water dripped from the ceiling onto wooden duckboards.
 
@@ -1127,7 +1127,7 @@ A scuffle sounded from within, followed by a frantic German voice calling for qu
 
 By the eastern wharf, the Royal Engineers finished their destruction of the island's infrastructure.
 
-Lieutenant Vernon’s sappers ran primacord from the searchlight platforms to the small electrical generator shed, blowing both into scrap metal. In the primary magazine bunker, cases of 13-centimetre shells and bags of cordite propellant were wired together with heavy ammonal boosters.
+Lieutenant Vernon's sappers ran primacord from the searchlight platforms to the small electrical generator shed, blowing both into scrap metal. In the primary magazine bunker, cases of 13-centimetre shells and bags of cordite propellant were wired together with heavy ammonal boosters.
 
 VERNON
 (warning)
@@ -1140,7 +1140,7 @@ By 10:00, the firing on Måløy Island had ceased entirely.
 
 The entire action on the islet had taken less than an hour. The four French coastal guns were wrecked, the searchlights shattered, the barracks burned to their stone foundations, and the ammunition stores buried under tons of collapsed rock.
 
-Against this complete destruction, Churchill’s force had suffered remarkably few casualties: only a handful of men wounded by grenade fragments and rock splinters, with no British fatalities on the islet.
+Against this complete destruction, Churchill's force had suffered remarkably few casualties: only a handful of men wounded by grenade fragments and rock splinters, with no British fatalities on the islet.
 
 Lined up along the stone quay, shivering in the freezing wind, were twenty-nine German prisoners of war, including two officers. Stretcher-bearers attended to the German wounded, bandaging burns and shrapnel lacerations alongside British injuries.
 
@@ -1156,7 +1156,7 @@ Churchill lowered the lamp and turned to look across the narrow channel of the U
 
 The sound between Måløy Island and the mainland town of South Vågsøy was barely one hundred and fifty yards wide. Across that thin strip of dark water, the view was grim.
 
-A pall of black, oily smoke from the bombed factories rolled over the town’s single road, obscuring the rooftops. Above the hum of the naval cruiser’s turbines, the furious, unbroken rattle of small-arms fire roared across the water: the rapid hammering of German MG34s answering the staccato bark of British Bren guns and Thompsons, punctuated every few seconds by the sharp blast of hand grenades.
+A pall of black, oily smoke from the bombed factories rolled over the town's single road, obscuring the rooftops. Above the hum of the naval cruiser's turbines, the furious, unbroken rattle of small-arms fire roared across the water: the rapid hammering of German MG34s answering the staccato bark of British Bren guns and Thompsons, punctuated every few seconds by the sharp blast of hand grenades.
 
 Captain Peter Young walked up the rock, stopping beside Churchill.
 
@@ -1164,7 +1164,7 @@ YOUNG
 (holding his Thompson across his chest, staring across the narrows)
 Durnford-Slater is running into trouble over there, Jack.
 
-CHURCHILL
+JACK CHURCHILL
 (watching a burst of tracer fire stitch through the upper story of a white house on the waterfront)
 They're fighting for every timber plank in the place. The garrison in the town didn't get pounded by six-inch guns like our friends here. They were wide awake by the time Group Two hit the beach.
 (adjusting the basket hilt of his broadsword, turning back toward the stone jetty where the assault craft were idling, quietly)
@@ -1185,7 +1185,7 @@ While the opening broadsides of HMS Kenya were still shattering the concrete bun
 
 Her mission was critical to the survival of the landing forces: carry Group 5 deep behind the German lines and seal the northern approach to the battlefield.
 
-Aboard Oribi, Captain D. Birney and Lieutenant J.M. Poore mustered the men of Troop 4, No. 2 Commando, along the destroyer’s starboard waist. They were equipped for rapid demolition and interdiction: heavy coils of instantaneous detonating cord, sacks of ammonal, wire cutters, crowbars, and two Bren light machine guns.
+Aboard Oribi, Captain D. Birney and Lieutenant J.M. Poore mustered the men of Troop 4, No. 2 Commando, along the destroyer's starboard waist. They were equipped for rapid demolition and interdiction: heavy coils of instantaneous detonating cord, sacks of ammonal, wire cutters, crowbars, and two Bren light machine guns.
 
 Two miles north of South Vågsøy, the sound widened briefly before pinching against the steep, snow-blanketed headland at Rødberg. Here, the solitary road connecting the northern settlements to the town was forced onto an engineered shelf barely twelve feet wide, pinned between a sheer rock wall on the landward side and a thirty-foot vertical drop into the black water of the sound.
 
@@ -1195,7 +1195,7 @@ MCBEATH
 Lower away the whaler!
 
 NARRATOR
-Poore and his section scrambled over the destroyer’s netting into the ship’s pulling boat. The sailors pulled hard on the oars, cutting through the freezing swell until the keel scraped against the jagged rocks beneath the road embankment.
+Poore and his section scrambled over the destroyer's netting into the ship's pulling boat. The sailors pulled hard on the oars, cutting through the freezing swell until the keel scraped against the jagged rocks beneath the road embankment.
 
 The Commandos tumbled ashore into hip-deep snowdrifts. Heavy canvas packs of high explosives were passed hand-to-hand from the boat.
 
@@ -1270,7 +1270,7 @@ Captain Martin Linge and his Norwegian detachment moved between the two, tasked 
 
 Despite having lost nearly half his men and suffering from the blast of the errant Hampden smoke bomb, Captain Forester was on his feet. Firing his Thompson from the hip, his face blackened with soot and phosphorus grime, he led what remained of Troop 4 through the burning fog toward the first line of wooden warehouses. Beside him hobbled Lieutenant Arthur Komrower, who had been pulled from the freezing sea minutes earlier, leaning on an improvised timber stick as a cane, his wet battledress stiffening in the frost.
 
-As Forester’s men crossed the open apron of the first fish packing plant, a storm of fire tore out of the buildings ahead.
+As Forester's men crossed the open apron of the first fish packing plant, a storm of fire tore out of the buildings ahead.
 
 The British intelligence briefings had anticipated an elderly, static garrison of occupation troops. Unknown to Combined Operations, a detachment of German Gebirgsjäger—mountain infantrymen from the 181st Infantry Division with brutal combat experience on the Eastern Front—were in the town, awaiting transport or on leave.
 
@@ -1399,11 +1399,11 @@ Captain Algy Forester refused to let the momentum stall.
 His face was still streaked with black soot and dried blood from the landing-craft blast.
 
 FORESTER
-(crouching behind a row of empty oil drums twenty yards from the hotel’s veranda, pulling the pin on a No. 36 Mills bomb, holding the fly-off lever clamped tight in his palm, yelling over the din)
+(crouching behind a row of empty oil drums twenty yards from the hotel's veranda, pulling the pin on a No. 36 Mills bomb, holding the fly-off lever clamped tight in his palm, yelling over the din)
 Covering fire on the front windows! Keep their heads down!
 
 NARRATOR
-A Commando Bren gunner dropped to the slush, leaning over the drums to fire a full curved magazine into the hotel’s parlor sashes, showering the veranda with flying glass.
+A Commando Bren gunner dropped to the slush, leaning over the drums to fire a full curved magazine into the hotel's parlor sashes, showering the veranda with flying glass.
 
 Forester broke from cover.
 
@@ -1495,7 +1495,7 @@ Slater! We're down to five men in my section. We can't push past these timber sh
 
 KOMROWER
 (face wrapped in field dressings to cover his chemical burns, leaning heavily against his improvised walking stick, Colt automatic hanging loose in his gloved hand, hoarsely)
-We're burning through ammunition, Major. The men are down to their last two magazines for the Thompsons, and Bradley’s nearly out of mortar bombs. If we keep shooting into timber walls, we'll be fighting with bayonets before we reach the canning factory.
+We're burning through ammunition, Major. The men are down to their last two magazines for the Thompsons, and Bradley's nearly out of mortar bombs. If we keep shooting into timber walls, we'll be fighting with bayonets before we reach the canning factory.
 
 NARRATOR
 The timeline Combined Operations had hammered into them at Richmond Terrace was slipping away.
@@ -1556,29 +1556,29 @@ Brigadier J.C. Haydon stood beside Rear-Admiral Burrough, looking through his fi
 
 HAYDON
 (turning to Burrough)
-Durnford-Slater's stalled. He’s lost too many officers. If we don’t feed fresh troops into the street now, the Germans will counter-attack and push what’s left of Group Two back into the surf.
+Durnford-Slater's stalled. He's lost too many officers. If we don't feed fresh troops into the street now, the Germans will counter-attack and push what's left of Group Two back into the surf.
 
 BURROUGH
 (without hesitation)
 Release Hooper. And flash Churchill on Måløy Island. Order him to send every man he can spare across the sound.
 
 NARRATOR
-A signaller on Kenya’s port bridge wing raised an Aldis lamp, clacking out the high-priority sequence to the landing craft of Group 4 idling in mid-channel, then swinging the shutter toward the smoking cliffs of Måløy Island.
+A signaller on Kenya's port bridge wing raised an Aldis lamp, clacking out the high-priority sequence to the landing craft of Group 4 idling in mid-channel, then swinging the shutter toward the smoking cliffs of Måløy Island.
 
-Aboard the two LCAs of Group 4, Captain R.H. Hooper stood by the coxswain’s shelter. For two agonizing hours, his men—Troop 6 of No. 2 Commando—had been circling in the freezing chop, listening to the muffled roar of the street fight without firing a shot.
+Aboard the two LCAs of Group 4, Captain R.H. Hooper stood by the coxswain's shelter. For two agonizing hours, his men—Troop 6 of No. 2 Commando—had been circling in the freezing chop, listening to the muffled roar of the street fight without firing a shot.
 
 The light on Kenya blinked its command: Land at once. Reinforce Group Two.
 
 HOOPER
-(slapping the coxswain’s steel helmet, shouting)
+(slapping the coxswain's steel helmet, shouting)
 Full ahead! Take us straight into the southern wharf!
 
 NARRATOR
 The Ford V8s surged to full throttle, their twin exhausts boiling the water astern as the two craft banked hard toward South Vågsøy.
 
-Across the water, on the battered jetty of Måløy Island, Major Jack Churchill saw the cruiser’s signal lamp through the clearing cordite mist. He had already gathered his officers by the water's edge, anticipating the order.
+Across the water, on the battered jetty of Måløy Island, Major Jack Churchill saw the cruiser's signal lamp through the clearing cordite mist. He had already gathered his officers by the water's edge, anticipating the order.
 
-CHURCHILL
+JACK CHURCHILL
 (turning to Captain Peter Young)
 Peter. Slater's in trouble across the way. Take Troop Six over in the assault craft. Clear whatever is holding them up and drive them through to the north end of the town.
 
@@ -1586,14 +1586,14 @@ YOUNG
 (adjusting the sling of his Thompson, checking the loaded twenty-round magazine)
 Understood, Jack. What about the prisoners?
 
-CHURCHILL
+JACK CHURCHILL
 (resting a gloved hand on the pommel of his broadsword)
 Ronald and Troop Five will hold the island and guard the Jerry wounded. Go give John his battle back.
 
 NARRATOR
-Within three minutes, Young’s men—flushed with their clean victory on the island, lightly blooded, and completely fresh—scrambled down the stone steps into an empty LCA.
+Within three minutes, Young's men—flushed with their clean victory on the island, lightly blooded, and completely fresh—scrambled down the stone steps into an empty LCA.
 
-The crossing of the Ulvesund took less than ninety seconds, but as the blunt bow pushed across the narrow channel, German riflemen on the high cliffs above the town spotted the craft. Spouts of white water leaped into the air as 7.92-millimetre rounds pinged against the boat’s thin steel gunwales.
+The crossing of the Ulvesund took less than ninety seconds, but as the blunt bow pushed across the narrow channel, German riflemen on the high cliffs above the town spotted the craft. Spouts of white water leaped into the air as 7.92-millimetre rounds pinged against the boat's thin steel gunwales.
 
 YOUNG
 (yelling)
@@ -1602,7 +1602,7 @@ Keep down!
 NARRATOR
 The LCA crashed against a wooden timber pier fifty yards south of the burning Ulvesund Hotel. Young vaulted over the coaming onto the slick planks, followed by thirty Commandos hauling wooden ammunition boxes of .45 ACP and heavy canvas bandoliers of .303 rifle cartridges.
 
-Simultaneously, Hooper’s two craft from Group 4 hit the shingle beach two hundred yards further south.
+Simultaneously, Hooper's two craft from Group 4 hit the shingle beach two hundred yards further south.
 
 Seventy fresh British Commandos poured ashore in rapid succession. They did not have the soot-caked, haunted look of the men who had been fighting house-to-house since nine o'clock. Their white snow smocks were clean, their ammunition pouches full, and their bayonets fixed.
 
@@ -1622,13 +1622,13 @@ Where are they holding?
 
 DURNFORD-SLATER
 (pointing a blackened finger down the road at the stout red house and the adjacent cluster of outbuildings)
-There. An MG34 in the basement and snipers in the roof. They’ve locked the road cold. We’ve tried phosphorus, but the walls are thick spruce and stone.
+There. An MG34 in the basement and snipers in the roof. They've locked the road cold. We've tried phosphorus, but the walls are thick spruce and stone.
 
 NARRATOR
 Hooper arrived moments later, his boots crunching in the glass-littered snow, saluting with a brief nod.
 
 DURNFORD-SLATER
-(standing up, using the stone well to steady himself, voice regaining its sharp, artilleryman’s authority)
+(standing up, using the stone well to steady himself, voice regaining its sharp, artilleryman's authority)
 We take that house now. Peter, your troop takes the left flank along the cliff to suppress the marksmen. Hooper, take your men through the wharves to outflank their seaward side. We hit the red house with everything we have left.
 
 
@@ -1652,7 +1652,7 @@ YOUNG
 We are not rushing that place. Get the incendiary bombs and phosphorus ready. We'll burn them out from the flanks.
 
 NARRATOR
-Before the fire-party could be organized, Lieutenant Denis O’Flaherty stepped onto the open road.
+Before the fire-party could be organized, Lieutenant Denis O'Flaherty stepped onto the open road.
 
 O'Flaherty, an aggressive, fiery officer who had crossed from Måløy Island with the reinforcement wave, was armed with a Thompson submachine gun. Spotting the front entrance of the Red Warehouse, he decided the position could be carried by immediate shock. Calling to Trooper Sherington to back him up, O'Flaherty broke cover and sprinted across the snow straight for the front door. Sherington followed right at his heels, his Thompson spitting short bursts into the wooden doorframe.
 
@@ -1702,7 +1702,7 @@ South Vågsøy, 10:00 – 12:00
 
 Beneath the floorboards of the burning town, more than a thousand Norwegian civilians were living through an unimaginable nightmare.
 
-The raid had caught South Vågsøy in its post-Christmas quiet. When the naval bombardment erupted at 08:42, families had been thrown from their beds by the concussive slam of HMS Kenya’s 6-inch shells. With no municipal air-raid shelters, survival depended entirely on the stone-walled root cellars and potato vaults dug into the frozen earth beneath the timber dwellings.
+The raid had caught South Vågsøy in its post-Christmas quiet. When the naval bombardment erupted at 08:42, families had been thrown from their beds by the concussive slam of HMS Kenya's 6-inch shells. With no municipal air-raid shelters, survival depended entirely on the stone-walled root cellars and potato vaults dug into the frozen earth beneath the timber dwellings.
 
 In a cellar below a merchant's house on the main thoroughfare, twenty people—women, infants, and elderly men—were pressed shoulder-to-shoulder against damp granite foundations. The air was frigid, smelling of damp earth, sprouted potatoes, and coal dust.
 
@@ -1722,7 +1722,7 @@ NARRATOR
 Before the Commando could release the lever, a soldier in a white smock wearing the embroidered NORWAY title on his shoulder shoved past him onto the steps. It was Corporal Ruben Langmo of Kompani Linge.
 
 LANGMO
-(blocking the Commando’s throw, shouting in English)
+(blocking the Commando's throw, shouting in English)
 Hold your fire!
 (leaning down into the cellar, speaking rapid, urgent Norwegian)
 Er det tyskere her? Er det bare sivile?
@@ -1738,7 +1738,7 @@ Only civilians. Keep moving.
 Stay down. Push the potato sacks against the trapdoor. The house above you may catch fire. If you smell smoke, crawl out through the garden hatch toward the rocks, but stay off the road. Do not come out until the bugles blow.
 
 NARRATOR
-This scene repeated itself along the entire length of the main thoroughfare. Without the presence of Linge’s men running at the tip of the assault, the civilian death toll would have been catastrophic. On multiple occasions, British soldiers on hair-trigger alert, clearing houses with automatic weapons, had their grenade pins held back only by the intervention of Norwegian-speaking guides.
+This scene repeated itself along the entire length of the main thoroughfare. Without the presence of Linge's men running at the tip of the assault, the civilian death toll would have been catastrophic. On multiple occasions, British soldiers on hair-trigger alert, clearing houses with automatic weapons, had their grenade pins held back only by the intervention of Norwegian-speaking guides.
 
 Even so, the civilian population could not escape the violence of the morning.
 
@@ -1779,23 +1779,23 @@ Captain H.T. Armstrong, aboard the destroyer HMS Onslow, led the sweep northward
 The water in the sound was barely four hundred yards wide in places, flanked by vertical granite walls that amplified the thunder of the warships' turbines. Navigating at twenty knots in such confined, uncharted shallows was an act of extreme seamanship; a single deviation could rip the bottom out of a destroyer on submerged granite reefs.
 
 LOOKOUT
-(shouting from Onslow’s bridge)
+(shouting from Onslow's bridge)
 Vessel bearing red zero-three-zero! Armed trawler, beached against the rocks!
 
 NARRATOR
-It was the Vorpostenboot Vp 5108—formerly the armed trawler Föhn—the vessel whose 20-millimetre flak had brought down the RAF Hampden during the opening landing. Severely damaged by Kenya’s secondary batteries earlier, her captain had run her hard aground on the mainland shore opposite South Vågsøy to prevent her sinking in deep water.
+It was the Vorpostenboot Vp 5108—formerly the armed trawler Föhn—the vessel whose 20-millimetre flak had brought down the RAF Hampden during the opening landing. Severely damaged by Kenya's secondary batteries earlier, her captain had run her hard aground on the mainland shore opposite South Vågsøy to prevent her sinking in deep water.
 
 ARMSTRONG
 Open fire with all forward guns! Prepare boarding party!
 
 NARRATOR
-Onslow’s twin 4.7-inch mounts roared. At a range of less than five hundred yards, point-blank high-explosive shells ripped into the trawler's wheelhouse and engine casing, tearing away the superstructure in a whirlwind of steel splinters.
+Onslow's twin 4.7-inch mounts roared. At a range of less than five hundred yards, point-blank high-explosive shells ripped into the trawler's wheelhouse and engine casing, tearing away the superstructure in a whirlwind of steel splinters.
 
 Armstrong brought Onslow alongside the smoking wreck with a burst of reverse foam. A boarding party under the overall direction of Lieutenant-Commander A.N.P. de Costobadie stood ready at the rail, while Lieutenant Allon Bacon led the armed search party leaping across the churning gap onto the listing iron deck.
 
 The trawler was a slaughterhouse of scorched steel and shattered bulkheads. Ignoring the risk of exploding ammunition and burning diesel, Bacon and his men kicked their way through the ruined accommodations into the German captain's cabin.
 
-There, hidden among clothing in a locker, Bacon recovered the operation's greatest intelligence haul: the German navy’s secret grid charts of the Norwegian coast, call-sign sheets, and the current operational cipher tables. Gathering the saturated documents into canvas bags, the boarding party took the surviving German sailors prisoner and scrambled back across the gunwales to Onslow before demolition charges detonated, wrecking the trawler's hull beyond any possibility of salvage.
+There, hidden among clothing in a locker, Bacon recovered the operation's greatest intelligence haul: the German navy's secret grid charts of the Norwegian coast, call-sign sheets, and the current operational cipher tables. Gathering the saturated documents into canvas bags, the boarding party took the surviving German sailors prisoner and scrambled back across the gunwales to Onslow before demolition charges detonated, wrecking the trawler's hull beyond any possibility of salvage.
 
 Further north up the sound, Onslow and Offa found the main quarry: a convoy of merchant shipping trapped against the cliffs.
 
@@ -1807,11 +1807,11 @@ Several ships attempted to reverse engines or cut anchor cables, their steam whi
 
 Onslow and Offa opened rapid, devastating broadsides.
 
-The destroyers’ 4.7-inch guns fired at maximum rate, walking their shells along the waterlines of the trapped merchantmen. High-explosive shells tore through thin hull plates, detonating inside cargo holds and severing steam mainlines. Clouds of superheated white steam erupted from shattered engine rooms, accompanied by the dull, concussive thuds of internal coal fires igniting.
+The destroyers' 4.7-inch guns fired at maximum rate, walking their shells along the waterlines of the trapped merchantmen. High-explosive shells tore through thin hull plates, detonating inside cargo holds and severing steam mainlines. Clouds of superheated white steam erupted from shattered engine rooms, accompanied by the dull, concussive thuds of internal coal fires igniting.
 
 German crews abandoned ship in total chaos. Men scrambled over the guardrails, throwing life rafts into the icy water or scrambling down mooring lines onto the seaweed-slick rocks, where Commando Bren gun teams from Group 5 at Rødberg engaged them with rifle and machine-gun fire.
 
-The steamship Norma took a continuous raking from Offa’s 4-inch guns, her deck cargo of timber catching fire and turning the ship into an immense, floating torch before her hull listed forty-five degrees and settled onto the rocks.
+The steamship Norma took a continuous raking from Offa's 4-inch guns, her deck cargo of timber catching fire and turning the ship into an immense, floating torch before her hull listed forty-five degrees and settled onto the rocks.
 
 The armed patrol vessel Donner attempted to bring a 37-millimetre deck gun into action against Onslow, but a single direct hit from the destroyer's forward gun blew the weapon and its entire crew into the sound. Within four minutes, Donner was reduced to an incinerated iron hulk, her magazine exploding in a sheet of purple flame that scorched the snow-covered pine trees on the adjacent cliff.
 
@@ -1843,18 +1843,18 @@ Over Vågsfjord & Ulvesund, 10:00 – 12:30
 
 The low, unbroken cloud ceiling hanging between the mountain peaks was suddenly torn open by the howl of twin Junkers Jumo engines.
 
-Earlier that morning, at 08:30, a strike force of Blenheim IV bombers of No. 114 Squadron RAF had attacked the German fighter airfield at Herdla, eighty miles to the south. Their fifty-pound bombs had cratered the wooden runway, successfully delaying the Luftwaffe’s response for more than an hour. But the Germans had patched the timber planks with ruthless efficiency. By 10:00, fighters and bombers were in the air, hunting Force Z.
+Earlier that morning, at 08:30, a strike force of Blenheim IV bombers of No. 114 Squadron RAF had attacked the German fighter airfield at Herdla, eighty miles to the south. Their fifty-pound bombs had cratered the wooden runway, successfully delaying the Luftwaffe's response for more than an hour. But the Germans had patched the timber planks with ruthless efficiency. By 10:00, fighters and bombers were in the air, hunting Force Z.
 
 Breaking through the cloud base at two thousand feet, three Heinkel He 111 bombers of Kampfgeschwader 26 dove into the narrow gorge of Vågsfjord, their glazed noses pointed directly at the grey silhouette of HMS Kenya.
 
-The cruiser’s response was instantaneous and concussive.
+The cruiser's response was instantaneous and concussive.
 
 DENNY
-(shouting down the voicepipe from Kenya’s bridge)
+(shouting down the voicepipe from Kenya's bridge)
 Open fire all close-range weapons! Flak barrage!
 
 NARRATOR
-The ship’s four twin 4-inch anti-aircraft mounts began barking in rapid rhythm, sending black, oily puffs of shrapnel bursts into the grey mist. Moments later, the multiple pom-pom mountings—the octuple two-pounders—joined in, their mechanical clatter hammering through the ship's superstructure. Streams of glowing green and red tracers traced violent parabolas across the fjord, joined by the high-velocity chatter of single 20-millimetre Oerlikons lining the bridge wings.
+The ship's four twin 4-inch anti-aircraft mounts began barking in rapid rhythm, sending black, oily puffs of shrapnel bursts into the grey mist. Moments later, the multiple pom-pom mountings—the octuple two-pounders—joined in, their mechanical clatter hammering through the ship's superstructure. Streams of glowing green and red tracers traced violent parabolas across the fjord, joined by the high-velocity chatter of single 20-millimetre Oerlikons lining the bridge wings.
 
 The sound in the deep granite canyon was deafening. Every shot echoed ten times over between the sheer cliffs, creating a continuous roar of concussive noise.
 
@@ -1866,7 +1866,7 @@ VOICE
 Brace! Brace!
 
 NARRATOR
-The bombs missed Kenya’s starboard quarter by less than thirty yards. The underwater detonations struck the cruiser’s armored hull like massive sledgehammers, lifting thousands of tons of steel and jarring every deckplate from stem to stern. Geysers of black water and ice fragments leaped two hundred feet into the air, collapsing across Kenya’s quarterdeck, washing life-rafts adrift and peppering the bridge structure with jagged shell splinters.
+The bombs missed Kenya's starboard quarter by less than thirty yards. The underwater detonations struck the cruiser's armored hull like massive sledgehammers, lifting thousands of tons of steel and jarring every deckplate from stem to stern. Geysers of black water and ice fragments leaped two hundred feet into the air, collapsing across Kenya's quarterdeck, washing life-rafts adrift and peppering the bridge structure with jagged shell splinters.
 
 Before the Heinkel could pull up over the western peaks, retribution arrived from the sea.
 
@@ -1874,21 +1874,21 @@ Patrolling above Force Z in an unbroken relay were the long-range Bristol Beaufi
 
 A pair of Beaufighters, camouflaged in slate-grey and dark green, plunged through the cloud layer.
 
-The Beaufighter’s four nose-mounted 20-millimetre Hispano cannons possessed devastating firepower. The lead British pilot banked hard, lining up the climbing Heinkel against the white granite backdrop of Bremangerland, and opened fire at three hundred yards.
+The Beaufighter's four nose-mounted 20-millimetre Hispano cannons possessed devastating firepower. The lead British pilot banked hard, lining up the climbing Heinkel against the white granite backdrop of Bremangerland, and opened fire at three hundred yards.
 
 A two-second burst of 20-millimetre explosive shells struck the German bomber across its port wing root and engine nacelle.
 
-The bomber’s port wing disintegrated in a flash of yellow flame. The Heinkel snapped violently into an inverted spin, trailing an immense tail of greasy black smoke before slamming directly into the snowfields on the mountain crest. The fuel tanks detonated on impact, sending a ball of red fire rolling across the pristine white slopes.
+The bomber's port wing disintegrated in a flash of yellow flame. The Heinkel snapped violently into an inverted spin, trailing an immense tail of greasy black smoke before slamming directly into the snowfields on the mountain crest. The fuel tanks detonated on impact, sending a ball of red fire rolling across the pristine white slopes.
 
 Moments later, the high-altitude scream of Daimler-Benz inverted V12 engines announced the arrival of the German fighter escort: Messerschmitt Bf 109s of Jagdgeschwader 77.
 
 The air combat disintegrated into a series of savage, low-altitude dogfights restricted by the claustrophobic geography of the fjord. Aircraft could not maneuver horizontally; they were boxed in by walls of solid rock rising two thousand feet on either side.
 
-A Bf 109 dove out of the mist onto the tail of an RAF Blenheim fighter of No. 254 Squadron that was banking over the Ulvesund. The Messerschmitt's 20-millimetre cannon stitched through the British aircraft’s fuselage, chewing through the rudder cables. The Blenheim slipped sideways, its pilot fighting the controls to clear the mast of the destroyer Offa, before its belly struck the dark water at two hundred miles per hour. The aircraft skipped twice, broke in two, and vanished beneath the surface.
+A Bf 109 dove out of the mist onto the tail of an RAF Blenheim fighter of No. 254 Squadron that was banking over the Ulvesund. The Messerschmitt's 20-millimetre cannon stitched through the British aircraft's fuselage, chewing through the rudder cables. The Blenheim slipped sideways, its pilot fighting the controls to clear the mast of the destroyer Offa, before its belly struck the dark water at two hundred miles per hour. The aircraft skipped twice, broke in two, and vanished beneath the surface.
 
 Offa and Chiddingfold immediately trained their pom-poms onto the banking Messerschmitt.
 
-The German fighter, banking steeply to clear the eastern cliff face, flew straight through the destroyer’s concentrated tracer cone. The engine block exploded in white steam; the fighter cartwheeled into the rock face barely fifty yards above the water, showering the road below with burning aluminum debris.
+The German fighter, banking steeply to clear the eastern cliff face, flew straight through the destroyer's concentrated tracer cone. The engine block exploded in white steam; the fighter cartwheeled into the rock face barely fifty yards above the water, showering the road below with burning aluminum debris.
 
 For two relentless hours, the battle raged in the grey ceiling above the fleet. German bombers—Ju 88s and He 111s—attempted six separate bombing runs against the assault transports Prince Charles and Prince Leopold, whose thin hull plates could not have withstood a near miss.
 
@@ -1898,7 +1898,7 @@ By 12:30, four German aircraft had been blasted out of the sky and several other
 
 The British air umbrella had held. The ships below remained afloat, undamaged in their machinery, their hulls intact.
 
-Down on the northern edge of the smoking town, the Royal Engineers heard the aerial battle fading into distant rumbles. Lieutenant Vernon stood in the shadow of the massive Firda Canning Factory, looking down at his detonator box. The tactical fighting was over; the systematic destruction of Vågsøy’s industrial heart was about to begin.
+Down on the northern edge of the smoking town, the Royal Engineers heard the aerial battle fading into distant rumbles. Lieutenant Vernon stood in the shadow of the massive Firda Canning Factory, looking down at his detonator box. The tactical fighting was over; the systematic destruction of Vågsøy's industrial heart was about to begin.
 
 
 
@@ -1908,13 +1908,13 @@ Chapter Twenty-Four
 Demolition of the Infrastructure
 South Vågsøy, 11:30 – 13:00
 
-The northern edge of South Vågsøy was dominated by the industrial machinery of the Norwegian fish trade, converted by the German occupation into a strategic asset for the Reich’s war economy.
+The northern edge of South Vågsøy was dominated by the industrial machinery of the Norwegian fish trade, converted by the German occupation into a strategic asset for the Reich's war economy.
 
 Foremost among these facilities was the Firda Canning Factory (A/S Firda Fabrikker), an sprawling complex of multi-story timber-and-brick processing halls, cold-storage warehouses, steam-powered canning lines, and massive steel storage vats holding thousands of barrels of herring oil. The oil was of paramount importance to the Ministry of Economic Warfare in London: its glycerin fraction was extracted for the manufacture of nitroglycerin and cordite, while its high vitamin A and D content sustained the German armed forces and domestic population.
 
 Lieutenant Vernon of the Royal Engineers, accompanied by his section of 101 Troop sappers, entered the factory grounds through the shattered delivery gates.
 
-Behind them, Captain Peter Young’s Troop 6 and Hooper’s men from No. 2 Commando established an outward-facing security cordon, their Bren guns zeroed on the rocky approaches to the north where scattered German riflemen were still taking potshots from the tree line.
+Behind them, Captain Peter Young's Troop 6 and Hooper's men from No. 2 Commando established an outward-facing security cordon, their Bren guns zeroed on the rocky approaches to the north where scattered German riflemen were still taking potshots from the tree line.
 
 VERNON
 (dropping a heavy wooden crate of ammonal and Nobel's 808 plastic explosive onto the concrete packing-house floor, commanding)
@@ -1971,11 +1971,11 @@ VERNON
 Take cover! Fall back to the stone church!
 
 NARRATOR
-The sappers and Young’s covering troops sprinted south along the road, ducking behind the heavy granite retaining wall of the town churchyard.
+The sappers and Young's covering troops sprinted south along the road, ducking behind the heavy granite retaining wall of the town churchyard.
 
 At 12:52, the demolitions began to detonate in a rolling, deafening crescendo.
 
-The boiler house went first. A sharp, cracking blast blew the factory’s corrugated roof into the sky, followed by the slow, roaring collapse of the brick chimney stack as it buckled into the central canning hall.
+The boiler house went first. A sharp, cracking blast blew the factory's corrugated roof into the sky, followed by the slow, roaring collapse of the brick chimney stack as it buckled into the central canning hall.
 
 Seconds later, the refrigeration compressors erupted with a muffled concussive punch. An immense, cloud of white vapor hissed violently into the air—tons of escaping ammonia gas that chilled the surrounding air to fifty degrees below zero and stripped the paint from adjacent walls.
 
@@ -2011,11 +2011,11 @@ Boyes moved methodically from man to man, administering quarter-grain morphine s
 
 The medical challenge was extreme. Shock and rapid-onset hypothermia were as lethal as bullet wounds in the thirty-degree air. Men who had been soaked to the skin during the landing or while clearing waterfront slips were now shivering violently, their core temperatures plummeting. Medical orderlies wrapped casualties in coarse grey army blankets, stuffing straw from fish-packing crates under stretchers for insulation.
 
-In the darkest corner of the shed sat the phosphorus casualties from the morning’s errant bomb drop.
+In the darkest corner of the shed sat the phosphorus casualties from the morning's errant bomb drop.
 
-Their agony was distinctive and horrific. Because white phosphorus ignited upon the slightest contact with air, orderlies were forced to keep the men’s burns drenched with wet saline pads and muddy cloths. Whenever a dressing dried out, the chemical flared back into life, hissing and smoking against blackened muscle. Orderlies used scalpel blades and forceps to cut away smoldering cloth and dig the caustic white particles directly out of the flesh before repacking the wounds with sodium bicarbonate paste.
+Their agony was distinctive and horrific. Because white phosphorus ignited upon the slightest contact with air, orderlies were forced to keep the men's burns drenched with wet saline pads and muddy cloths. Whenever a dressing dried out, the chemical flared back into life, hissing and smoking against blackened muscle. Orderlies used scalpel blades and forceps to cut away smoldering cloth and dig the caustic white particles directly out of the flesh before repacking the wounds with sodium bicarbonate paste.
 
-Near the shed door, Lieutenant Denis O’Flaherty sat propped against a brine barrel.
+Near the shed door, Lieutenant Denis O'Flaherty sat propped against a brine barrel.
 
 His face and throat were completely wrapped in white gauze, stained dark red around his jaw where the German bullet had shattered the bone and torn through the roof of his mouth. His right eye was gone, concealed beneath a thick pad of lint. Unable to speak, his breathing rattled through a crusted airway, but he remained conscious, his left hand gripping a scrap of timber, nodding grimly as Boyes adjusted the pressure dressing around his neck.
 
@@ -2038,7 +2038,7 @@ DURNFORD-SLATER
 We can't get to them, Peter. Linge is down on the veranda of the hotel. Forester is dead on the steps. Sherington is inside the Red Warehouse. The Germans have snipers covering every approach to the hotel square from the scree. If we send a party back into that funnel to bring out the dead, we will take another ten casualties.
 
 NARRATOR
-The Norwegian volunteers of Kompani Linge stood nearby in silence. Corporal Ruben Langmo’s jaw was set tight. To leave their beloved leader—the symbol of their resistance—lying in the freezing mud of his own occupied country was a bitter, agonizing blow. But in a hit-and-run amphibious raid with minutes remaining on the operational clock, the living took absolute priority over the dead.
+The Norwegian volunteers of Kompani Linge stood nearby in silence. Corporal Ruben Langmo's jaw was set tight. To leave their beloved leader—the symbol of their resistance—lying in the freezing mud of his own occupied country was a bitter, agonizing blow. But in a hit-and-run amphibious raid with minutes remaining on the operational clock, the living took absolute priority over the dead.
 
 Eleven British and Norwegian soldiers would have to be left where they fell in the snows of South Vågsøy.
 
@@ -2104,9 +2104,9 @@ Behind the rearguard, the Royal Engineers detonated final delay charges.
 
 As the troops cleared each street corner, small ammonal charges blew in the stone culverts and collapsed timber awnings across the road, creating burning roadblocks of twisted iron and smoldering spruce to block any German pursuit.
 
-Further north, off the headland of Rødberg, Group 5’s mission was also finished. Lieutenant J.M. Poore and Captain Birney led the men of Troop 4, No. 2 Commando, down the rocky embankment to their waiting whalers. The coastal road behind them was destroyed, the telephone trunks severed, and the northern approach utterly silent. The whalers pulled through the icy chop to the side of HMS Oribi, where the destroyer's crew hoisted the soldiers aboard.
+Further north, off the headland of Rødberg, Group 5's mission was also finished. Lieutenant J.M. Poore and Captain Birney led the men of Troop 4, No. 2 Commando, down the rocky embankment to their waiting whalers. The coastal road behind them was destroyed, the telephone trunks severed, and the northern approach utterly silent. The whalers pulled through the icy chop to the side of HMS Oribi, where the destroyer's crew hoisted the soldiers aboard.
 
-To the south, at Holvik, Lieutenant Clement’s Troop 2 executed a clean, unharassed withdrawal. Having held the western flank without losing a man, Clement marched his men down to the shingle, boarded their two LCAs, and shoved off into the sound to rendezvous with the mother ships.
+To the south, at Holvik, Lieutenant Clement's Troop 2 executed a clean, unharassed withdrawal. Having held the western flank without losing a man, Clement marched his men down to the shingle, boarded their two LCAs, and shoved off into the sound to rendezvous with the mother ships.
 
 By 13:55, the entire British combat element in South Vågsøy had contracted into a tight, heavily armed perimeter around the southern landing shingle and the main town pier.
 
@@ -2126,11 +2126,11 @@ Chapter Twenty-Seven
 The Exodus on the Quayside
 South Vågsøy, 14:00 – 14:45
 
-The midwinter twilight was dying rapidly. By two o’clock, the pale charcoal light of the Norwegian sky was collapsing back into deep, freezing dusk, illuminated only by the dull red glow of burning fish factories and timber warehouses.
+The midwinter twilight was dying rapidly. By two o'clock, the pale charcoal light of the Norwegian sky was collapsing back into deep, freezing dusk, illuminated only by the dull red glow of burning fish factories and timber warehouses.
 
 On the main stone pier and the adjacent shingle beach, the embarkation was executed under the strict discipline of the naval beach parties.
 
-Every minute at the water’s edge was borrowed time. German reconnaissance aircraft had undoubtedly pinpointed Force Z's position in the fjord, and any delay in clearing the sound risked exposing the entire convoy to concentrated dive-bombing in narrow waters where capital ships could not maneuver.
+Every minute at the water's edge was borrowed time. German reconnaissance aircraft had undoubtedly pinpointed Force Z's position in the fjord, and any delay in clearing the sound risked exposing the entire convoy to concentrated dive-bombing in narrow waters where capital ships could not maneuver.
 
 DURNFORD-SLATER
 (standing at the high-water mark with his arm raised to direct the incoming LCAs, shouting)
@@ -2139,7 +2139,7 @@ Wounded first! Clear the stretchers into the center craft!
 NARRATOR
 The stretchers were carried down the slick cobbles by Commando orderlies and pressed German prisoners.
 
-Lieutenant Denis O’Flaherty, his face heavily wrapped in bloody gauze, was hoisted gently over the steel coaming of an LCA and laid flat across the wooden floorboards, followed by the phosphorus burn casualties from No. 4 Troop.
+Lieutenant Denis O'Flaherty, his face heavily wrapped in bloody gauze, was hoisted gently over the steel coaming of an LCA and laid flat across the wooden floorboards, followed by the phosphorus burn casualties from No. 4 Troop.
 
 Then came the only body recovered from the battle.
 
@@ -2151,7 +2151,7 @@ Behind the casualties came the captured enemy.
 
 Ninety-eight German prisoners of war—soldiers of the 181st Infantry Division, naval gunners from Marine-Artillerie-Abteilung 502, and sailors from the destroyed merchantmen—were marched onto the ramps under the leveled Thompsons of Troop 5. Shivering violently in their soot-stained uniforms, their hands jammed into greatcoat pockets or clasped over their bare heads, they stepped into the landing craft without resistance, stunned by the speed and violence of the six-hour raid.
 
-Segregated from the German soldiers were four local Norwegian traitors, members of Vidkun Quisling’s fascist Nasjonal Samling party. Arrested at gunpoint by Linge’s men during the morning sweep, their coat collars were gripped tight by Commando guards as they were shoved aboard, bound for trial under maritime law in Great Britain.
+Segregated from the German soldiers were four local Norwegian traitors, members of Vidkun Quisling's fascist Nasjonal Samling party. Arrested at gunpoint by Linge's men during the morning sweep, their coat collars were gripped tight by Commando guards as they were shoved aboard, bound for trial under maritime law in Great Britain.
 
 Then began an extraordinary, unscripted evacuation.
 
@@ -2170,7 +2170,7 @@ LANGMO
 Kvinner og barn først! Women and children first!
 
 NARRATOR
-A young woman in a heavy wool coat, carrying an infant wrapped in an eiderdown quilt, paused at the wooden ramp of the landing craft. Behind her on the pier stood her elderly parents, their faces pale in the red glare of the burning canning factory. There were no long farewells; the young woman kissed her mother’s cheek, stepped over the steel lip into the crowded craft, and did not look back.
+A young woman in a heavy wool coat, carrying an infant wrapped in an eiderdown quilt, paused at the wooden ramp of the landing craft. Behind her on the pier stood her elderly parents, their faces pale in the red glare of the burning canning factory. There were no long farewells; the young woman kissed her mother's cheek, stepped over the steel lip into the crowded craft, and did not look back.
 
 Across the quay, young Norwegian men shook hands with neighbors remaining behind, their voices cracking in the freezing wind as they shouted promises to return in uniform.
 
@@ -2212,7 +2212,7 @@ DECKHAND
 Catch the forward fall! Keep her off the plates!
 
 NARRATOR
-A sudden heave of the swell could easily crush a craft against the transport’s hull or decapitate a man caught between the coaming and the iron side. With practiced speed, the falls were secured. The electric winches screamed on the boat decks, hoisting the loaded assault craft thirty feet up the steel sides of the transports until their keels rested firmly against the davit chocks.
+A sudden heave of the swell could easily crush a craft against the transport's hull or decapitate a man caught between the coaming and the iron side. With practiced speed, the falls were secured. The electric winches screamed on the boat decks, hoisting the loaded assault craft thirty feet up the steel sides of the transports until their keels rested firmly against the davit chocks.
 
 One landing craft—the boat carrying No. 4 Troop that had been gutted by the errant phosphorus bomb during the morning landing—was heavily damaged, its interior charred and leaking. Rather than risk delaying the fleet to hoist the ruined vessel, Durnford-Slater ordered it stripped of weapons, scuttled, and sunk in the fairway with small explosive charges.
 
@@ -2220,13 +2220,13 @@ The transfer of casualties was immediate and urgent.
 
 Stretcher-bearers carried the wounded straight from the craft into the converted passenger lounges of the transports, which had been cleared to serve as emergency operating theaters.
 
-Surgeons from No. 4 Medical Unit, working alongside naval medical officers under bare electric bulbs, cut away frozen clothing and applied saline baths to phosphorus burns. Lieutenant Denis O’Flaherty was placed on an operating table, his breathing labored and shallow through his blood-crusted dressings, while medical orderlies administered whole blood and plasma from chilled glass jars.
+Surgeons from No. 4 Medical Unit, working alongside naval medical officers under bare electric bulbs, cut away frozen clothing and applied saline baths to phosphorus burns. Lieutenant Denis O'Flaherty was placed on an operating table, his breathing labored and shallow through his blood-crusted dressings, while medical orderlies administered whole blood and plasma from chilled glass jars.
 
 Beside the operating space, the body of Captain John Giles, the sole fallen officer brought out from the town, was laid out beneath a grey service blanket on the cold deck of an auxiliary storeroom, guarded by two Commandos from his own troop.
 
 In the lower troop decks, the seventy-seven Norwegian civilians were guided down the companionways by soldiers of Kompani Linge.
 
-The ship’s cooks had prepared vast cauldrons of hot, sweetened tea, corned beef hash, and hard ship’s biscuits. Families huddled on the wooden mess benches, wrapping themselves in coarse grey naval blankets, listening in dazed exhaustion to the clatter of the ship's machinery. Young Norwegian men stood near the hatchways, eagerly asking the Commandos how and where they could enlist in the Free Norwegian forces once they reached Scotland.
+The ship's cooks had prepared vast cauldrons of hot, sweetened tea, corned beef hash, and hard ship's biscuits. Families huddled on the wooden mess benches, wrapping themselves in coarse grey naval blankets, listening in dazed exhaustion to the clatter of the ship's machinery. Young Norwegian men stood near the hatchways, eagerly asking the Commandos how and where they could enlist in the Free Norwegian forces once they reached Scotland.
 
 Two decks below, in the auxiliary baggage holds, the ninety-eight German prisoners of war were locked behind expanded-metal bulkheads, guarded by Commando sentries with cocked Tommy guns. Shivering in their wet, mud-caked uniforms, several German officers sat on the deckplates in stony silence, staring at the steel floor.
 
@@ -2245,13 +2245,13 @@ Signal to Admiralty: Operation Archery completed. Land forces re-embarked. Force
 Get the ships underway, Captain. Destroyers to take up screening positions ahead. Maximum speed.
 
 NARRATOR
-Kenya’s sirens sounded down the engine-room voicepipes. The cruiser’s turbines surged, vibrating through the armored hull as her screws bit into the water. Behind her, Prince Charles and Prince Leopold increased speed, flanked by the destroyers Onslow, Oribi, Offa, and Chiddingfold.
+Kenya's sirens sounded down the engine-room voicepipes. The cruiser's turbines surged, vibrating through the armored hull as her screws bit into the water. Behind her, Prince Charles and Prince Leopold increased speed, flanked by the destroyers Onslow, Oribi, Offa, and Chiddingfold.
 
 The column swung its bows to the west-southwest, picking up speed as it navigated the darkening gorge of Vågsfjord toward the open Atlantic.
 
 Behind them, the firestorm in South Vågsøy cast a dull, crimson stain across the winter sky.
 
-As the flagship’s bow passed the headland at Hovden and met the first heavy rollers of the open ocean, the lookouts on Kenya’s masthead suddenly yelled into their voicepipes:
+As the flagship's bow passed the headland at Hovden and met the first heavy rollers of the open ocean, the lookouts on Kenya's masthead suddenly yelled into their voicepipes:
 
 LOOKOUT
 Aircraft! Multiple contacts bearing zero-nine-zero, diving out of the mountain cloud!
@@ -2276,13 +2276,13 @@ Out of the purple twilight hanging over the coastal mountains, five Heinkel He 1
 The German pilots knew their window was closing. Within thirty minutes, total midwinter night would swallow the ocean, rendering visual targeting impossible. They came in low, skimming the wave-tops at two hundred knots, silhouettes black against the pale eastern sky.
 
 DENNY
-(shouting from Kenya’s bridge)
+(shouting from Kenya's bridge)
 Air attack port bow! Hard a-starboard! Full flak barrage!
 
 NARRATOR
 The flagship heeled sharply to starboard, her screws churning white foam as her defensive batteries erupted.
 
-The eight barrels of Kenya’s twin 4-inch anti-aircraft guns maintained a continuous rate of fire, their orange muzzle flashes lighting the darkening water. Below them, the multiple pom-poms thudded rhythmically, pumping two-pounder explosive shells into the sky, while the single 20-millimetre Oerlikons on the bridge wings chattered in deafening harmony.
+The eight barrels of Kenya's twin 4-inch anti-aircraft guns maintained a continuous rate of fire, their orange muzzle flashes lighting the darkening water. Below them, the multiple pom-poms thudded rhythmically, pumping two-pounder explosive shells into the sky, while the single 20-millimetre Oerlikons on the bridge wings chattered in deafening harmony.
 
 The destroyers Onslow, Offa, Oribi, and Chiddingfold immediately maneuvered to screen the vulnerable transports, throwing up an interlocking box of flak between the incoming bombers and the thin-skinned troopships.
 
@@ -2295,15 +2295,15 @@ DENNY
 Hit the deck!
 
 NARRATOR
-The bombs screamed down in a tight stick, straddling Kenya’s port waist.
+The bombs screamed down in a tight stick, straddling Kenya's port waist.
 
 Two exploded in the sea barely twenty yards off the port beam; a third detonated directly under the ship's counter. The underwater concussions struck the cruiser's hull with terrifying violence, lifting the entire eight-thousand-ton warship and knocking men off their feet across every deck.
 
-A wall of black brine cascaded across the cruiser’s bridge and forward turrets.
+A wall of black brine cascaded across the cruiser's bridge and forward turrets.
 
-Simultaneously, a hail of jagged steel splinters from the near-misses peppered the cruiser’s superstructure. Shrapnel punched through the thin plating of the forward funnel, perforated the mainmast rigging, and sheared through wireless aerial leads, showering the open bridge with shattered glass and iron shards. Several naval ratings on the exposed pom-pom platforms were struck by splinters, but the cruiser’s armored belt and engine spaces held firm.
+Simultaneously, a hail of jagged steel splinters from the near-misses peppered the cruiser's superstructure. Shrapnel punched through the thin plating of the forward funnel, perforated the mainmast rigging, and sheared through wireless aerial leads, showering the open bridge with shattered glass and iron shards. Several naval ratings on the exposed pom-pom platforms were struck by splinters, but the cruiser's armored belt and engine spaces held firm.
 
-The ship’s turbines never dropped a revolution.
+The ship's turbines never dropped a revolution.
 
 Before the German flight leader could bank back toward the Norwegian coast, retribution arrived from high above.
 
@@ -2341,7 +2341,7 @@ In the converted passenger dining saloon of Prince Charles, the emergency operat
 
 Captain Joseph Boyes, RAMC, and the naval surgeons had not stopped for eight hours. The deck was slick with carbolic solution, saltwater, and dark smears of blood. Orderlies moved between the rows of stretchers on the deckplates, stepping carefully over discarded field dressings, split uniform cloth, and the crushed lead tubes of morphine syrettes.
 
-In a screened corner of the saloon lay Lieutenant Denis O’Flaherty.
+In a screened corner of the saloon lay Lieutenant Denis O'Flaherty.
 
 The bleeding from his shattered jaw had been arrested with tight pressure bandages, his neck splinted with padded timber slats to prevent movement of his damaged vertebrae. Intravenous saline and whole blood dripped continuously from glass bottles suspended from overhead pipes. Despite the catastrophic trauma to his face and the loss of his right eye, O'Flaherty was conscious, his left hand occasionally tightening against the frame of his cot to brace against the roll of the ship.
 
@@ -2361,7 +2361,7 @@ Major Jack Churchill walked through the quiet troop space, his boots ringing sof
 
 He had unbuckled his basket-hilted broadsword and laid it across a timber mess table beside his Great Highland bagpipes.
 
-CHURCHILL
+JACK CHURCHILL
 (stopping to check on his men section by section, laying a hand on the shoulder of a young lance corporal sitting upright against a stanchion methodically cleaning the bolt mechanism of a Bren gun with an oiled rag, softly)
 Get some sleep, lad. The weapons can wait until Scapa.
 
@@ -2382,15 +2382,15 @@ He wrote down the full butcher's bill: seventeen British and Norwegian raiders d
 
 Two decks below, in the auxiliary baggage holds, the ninety-eight German prisoners of war sat in darkness behind heavy steel mesh cages.
 
-Many were violently seasick as the transports rolled through the North Sea swell, clutching their stomachs in the cold bilges. Intelligence officers from Force Z’s staff had already begun separating the prisoners by service: naval artillerymen from Marine-Artillerie-Abteilung 502, soldiers from the 181st Infantry Division, and merchant seamen. The German officers sat apart, refusing to speak, their expressions a mix of humiliation and disbelief at how swiftly their fortified outpost had been overwhelmed.
+Many were violently seasick as the transports rolled through the North Sea swell, clutching their stomachs in the cold bilges. Intelligence officers from Force Z's staff had already begun separating the prisoners by service: naval artillerymen from Marine-Artillerie-Abteilung 502, soldiers from the 181st Infantry Division, and merchant seamen. The German officers sat apart, refusing to speak, their expressions a mix of humiliation and disbelief at how swiftly their fortified outpost had been overwhelmed.
 
 In the forward passenger cabins, the seventy-seven Norwegian civilians endured the violent crossing in quiet shock.
 
-Mothers sat on bunks, rocking infants to sleep under woollen ship’s blankets, while young fishermen from South Vågsøy gathered in the narrow passageways, speaking in hushed whispers. They were leaving behind everything they owned: their boats, their homes, and their families, heading into the unknown expanse of a wartime Britain they had only ever heard about on clandestine BBC radio broadcasts.
+Mothers sat on bunks, rocking infants to sleep under woollen ship's blankets, while young fishermen from South Vågsøy gathered in the narrow passageways, speaking in hushed whispers. They were leaving behind everything they owned: their boats, their homes, and their families, heading into the unknown expanse of a wartime Britain they had only ever heard about on clandestine BBC radio broadcasts.
 
 Aboard HMS Kenya, steaming at the head of the formation, Rear-Admiral Harold Burrough stood on the bridge wing, watching the foam churn along the cruiser's flanks.
 
-Damage control reports showed that despite the near-misses from the Heinkel bombers, Kenya’s structural integrity was unimpaired. The shrapnel holes in her funnel and bridge superstructure were superficial; her engines were running at full efficiency, and her magazines were secured.
+Damage control reports showed that despite the near-misses from the Heinkel bombers, Kenya's structural integrity was unimpaired. The shrapnel holes in her funnel and bridge superstructure were superficial; her engines were running at full efficiency, and her magazines were secured.
 
 The radio room below had cleared its encrypted arrival signals to the Commander-in-Chief Home Fleet, Admiral Sir John Tovey.
 
@@ -2420,7 +2420,7 @@ As the transports let go their anchors off the naval depot at Lyness on the isla
 
 Naval medical tenders came alongside Prince Charles and Prince Leopold, their engines idling in the swell as stretcher-bearers climbed the accommodation ladders.
 
-The evacuation of the fifty-three wounded men was executed with quiet, practiced urgency. First down the ship's side was Lieutenant Denis O’Flaherty, strapped securely into a wire Neil Robertson stretcher, his face swathed in bandages. Beside him went the soldiers of No. 4 Troop, wrapped in wool blankets, their phosphorus burns still under continuous saline saturation. The casualties were ferried directly to the Royal Naval Hospital at Lyness and the hospital ship HMHS Amarapoora for immediate specialist surgery and blood transfusions.
+The evacuation of the fifty-three wounded men was executed with quiet, practiced urgency. First down the ship's side was Lieutenant Denis O'Flaherty, strapped securely into a wire Neil Robertson stretcher, his face swathed in bandages. Beside him went the soldiers of No. 4 Troop, wrapped in wool blankets, their phosphorus burns still under continuous saline saturation. The casualties were ferried directly to the Royal Naval Hospital at Lyness and the hospital ship HMHS Amarapoora for immediate specialist surgery and blood transfusions.
 
 On the boat deck, the surviving soldiers of Kompani Linge mustered with their kitbags.
 
@@ -2440,7 +2440,7 @@ On the quarterdeck of HMS Onslow, Lieutenant Allon Bacon stood with two armed ra
 
 Inside lay the captured intelligence materials recovered from the beached trawler Föhn: the German naval grid charts of the western coast, operational call-sign rosters, and the current coastal cipher keys. Within thirty minutes of anchoring, Bacon was transferred to a high-speed naval launch bound for the mainland railhead at Thurso, under strict orders to deliver the pouch by hand directly to the Naval Intelligence Division at the Admiralty in Whitehall and the codebreakers of Hut 8 at Bletchley Park.
 
-In the admiral’s day cabin aboard HMS Kenya, Major John Durnford-Slater, Major Jack Churchill, and Brigadier J.C. Haydon stood before Rear-Admiral Burrough.
+In the admiral's day cabin aboard HMS Kenya, Major John Durnford-Slater, Major Jack Churchill, and Brigadier J.C. Haydon stood before Rear-Admiral Burrough.
 
 The plaster relief map of Vågsøy still sat in its timber crate on the table, surrounded by the rough, handwritten war diaries and ammunition expenditure sheets submitted by the troop commanders.
 
@@ -2487,7 +2487,7 @@ The Ministry of Information took immediate advantage of the triumph. Combat came
 
 Across the country, cinema audiences sat in packed, darkened theaters, watching the flickering black-and-white footage of the assault:
 
-The blinding white flash of HMS Kenya’s 6-inch guns illuminating the dark fjord.
+The blinding white flash of HMS Kenya's 6-inch guns illuminating the dark fjord.
 
 Assault craft hitting the Norwegian shingle through drifting clouds of phosphorus smoke.
 
@@ -2505,7 +2505,7 @@ Operation Archery had validated the doctrine of Combined Operations. The Army, t
 
 Mountbatten drafted a priority cipher cable to Prime Minister Winston Churchill, who was then in Ottawa, Canada, addressing the Canadian Parliament during the Arcadia Conference with President Franklin D. Roosevelt.
 
-Churchill’s response was immediate and characteristically pugnacious, cabling back to Mountbatten and the Chiefs of Staff his congratulations on a "daring and brilliant operation" that demonstrated the aggressive spirit of the raiding forces.
+Churchill's response was immediate and characteristically pugnacious, cabling back to Mountbatten and the Chiefs of Staff his congratulations on a "daring and brilliant operation" that demonstrated the aggressive spirit of the raiding forces.
 
 Yet in London's Kensington district, at Kingston House, the atmosphere was one of profound solemnity.
 
@@ -2513,7 +2513,7 @@ King Haakon VII of Norway, Crown Prince Olav, and the Norwegian cabinet-in-exile
 
 King Haakon bowed his head. Linge had been more than a commando leader; he was the living embodiment of the Norwegian resistance, an actor who had stepped from the stage to lead young men into battle for the restoration of their kingdom.
 
-On 30 December, the Norwegian government-in-exile decreed that Captain Martin Linge would be posthumously awarded the War Cross with Sword (Krigskorset med sverd)—Norway’s highest military decoration for bravery. Furthermore, the unit he had raised and trained, Norwegian Independent Company No. 1, was permanently renamed in his honor: Kompani Linge.
+On 30 December, the Norwegian government-in-exile decreed that Captain Martin Linge would be posthumously awarded the War Cross with Sword (Krigskorset med sverd)—Norway's highest military decoration for bravery. Furthermore, the unit he had raised and trained, Norwegian Independent Company No. 1, was permanently renamed in his honor: Kompani Linge.
 
 For the seventy-seven Norwegian civilians who arrived by train at London's Royal Victoria Patriotic School on New Year's Eve, the transition was jarring.
 
@@ -2537,13 +2537,13 @@ Adolf Hitler stood over the documents, flanked by Field Marshal Wilhelm Keitel, 
 
 Hitler did not read the report as an isolated British commando raid on a remote fish-processing plant.
 
-He read it in conjunction with Operation Anklet in the Lofoten Islands, which had struck six hundred miles to the north on the exact same morning. To Hitler’s suspicious, intuitive mind, the coordinated strikes in Nordfjord and the Arctic were not mere hit-and-run operations; they were reconnaissance-in-force—the unmistakable opening moves of an imminent, large-scale Allied invasion of Norway.
+He read it in conjunction with Operation Anklet in the Lofoten Islands, which had struck six hundred miles to the north on the exact same morning. To Hitler's suspicious, intuitive mind, the coordinated strikes in Nordfjord and the Arctic were not mere hit-and-run operations; they were reconnaissance-in-force—the unmistakable opening moves of an imminent, large-scale Allied invasion of Norway.
 
 HITLER
 (slamming his palm onto the map of Scandinavia, voice echoing off the concrete walls)
 Norway is the zone of destiny in this war. Die Schicksalszone dieses Krieges.
 (pacing the room, gesturing wildly at the long, indented Norwegian coastline)
-The British and the Americans will strike here. If they take Norway, they cut off our Swedish iron ore from Narvik. They open an ice-free shipping corridor directly to Murmansk to feed Stalin’s armies with tanks and aircraft. They trap our U-boats in the Baltic and flank the German Reich from the north. I demand that every man and every coastal battery be committed to turn Norway into an impregnable fortress!
+The British and the Americans will strike here. If they take Norway, they cut off our Swedish iron ore from Narvik. They open an ice-free shipping corridor directly to Murmansk to feed Stalin's armies with tanks and aircraft. They trap our U-boats in the Baltic and flank the German Reich from the north. I demand that every man and every coastal battery be committed to turn Norway into an impregnable fortress!
 
 NARRATOR
 Raeder and Keitel nodded in immediate acquiescence.
@@ -2560,7 +2560,7 @@ The Fleet in Being: Hitler ordered the bulk of the German surface navy transferr
 
 Air Assets: Hundreds of Luftwaffe bombers and fighters were permanently based at Sola, Herdla, and Banak to guard the northern approaches.
 
-Back in South Vågsøy, the reality of conventional military conduct was observed before the total descent into total war. Hitler’s infamous Kommandobefehl—the Führer Order mandating the summary execution of captured Allied commandos—did not yet exist in late 1941.
+Back in South Vågsøy, the reality of conventional military conduct was observed before the total descent into total war. Hitler's infamous Kommandobefehl—the Führer Order mandating the summary execution of captured Allied commandos—did not yet exist in late 1941.
 
 On 30 December 1941, soldiers of the German 181st Infantry Division gathered the bodies of the eleven British Commandos left behind in the snow, including Captain Algy Forester and Trooper Sherington. In the churchyard cemetery at Måløy, the German garrison mounted an official military funeral, laying their fallen enemies to rest with full German military honours.
 

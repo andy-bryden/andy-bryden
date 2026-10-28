@@ -1,4 +1,4 @@
-Cast
+Tombola Cast
 
 
 NARRATOR
@@ -191,9 +191,9 @@ The sheepfold smelled of wet slate, dried sheep dung, and woodsmoke that had now
 Outside, the wind sheared off the crags of Monte Cusna, driving sleet horizontally through the gaps in the drystone wall. Inside, the draft flickered the flame of a tallow candle stuck to an overturned ammunition box.
 Captain Michael Lees sat on a burlap sack filled with rotting bracken, his knees drawn up toward his chest. He was twenty-two years old, thin to the bone, his British Army battledress stained dark at the elbows with pine resin and grease. A woollen scarf was wound twice around his throat to cover the carbuncles breaking out along his collar. Between his boots sat an American-made Hallicrafters receiver, its vacuum tubes casting a faint amber glow across the frost-crusted dirt floor.
 A young Italian partisan named Corrado knelt beside him, holding a piece of aerial wire that ran through a hole in the roof to the branch of a stunted beech tree outside. Two other men—one a former Italian regular infantryman with a torn grey-green grigio-verde tunic, the other an eighteen-year-old mountain boy with a captured Carcano rifle slung on a hemp rope—stood in the shadow of the doorway, watching the radio dial.
-The dial hummed. Then came the opening chimes of Radio London—the four rhythmic taps of Beethoven’s Fifth, dot-dot-dot-dash, the Morse letter V.
+The dial hummed. Then came the opening chimes of Radio London—the four rhythmic taps of Beethoven's Fifth, dot-dot-dot-dash, the Morse letter V.
 Lees leaned closer to the speaker, his breath pluming grey in the freezing air. His ears were tuned for the coded operational phrases—the nonsensical personal messages meant for the Special Operations Executive missions scattered across northern Italy.
-The familiar announcer’s voice did not deliver a code.
+The familiar announcer's voice did not deliver a code.
 Instead, an Italian-language announcer spoke with the crisp, dry precision of the Allied Mediterranean Command in Caserta—
 
 RADIO ANNOUNCER
@@ -201,8 +201,8 @@ RADIO ANNOUNCER
 A tutti i patrioti italiani. Segue un messaggio speciale del Comandante Supremo delle Forze Alleate nel Mediterraneo, il Maresciallo Harold Alexander.
 
 NARRATOR
-Corrado’s fingers tightened on the aerial lead. The two men at the door stepped forward, their wooden clogs scraping against the stone.
-The announcer read Field Marshal Alexander’s proclamation—
+Corrado's fingers tightened on the aerial lead. The two men at the door stepped forward, their wooden clogs scraping against the stone.
+The announcer read Field Marshal Alexander's proclamation—
 
 RADIO ANNOUNCER
 The summer campaign is concluded. The winter campaign begins. In consequence, the Supreme Allied Commander directs that all patriots must cease large-scale military operations. You must conserve your ammunition, hide your weapons, and return to your homes. You must await new orders for the spring offensive...
@@ -217,13 +217,13 @@ CORRADO
 Tornare a casa? Go home?
 
 YOUNG PARTISAN
-The Brigate Nere burned my father’s house three weeks ago in Villa Minozzo. My cousin is hanging from a telegraph pole in Castelnovo. Where does your Field Marshal think we live?
+The Brigate Nere burned my father's house three weeks ago in Villa Minozzo. My cousin is hanging from a telegraph pole in Castelnovo. Where does your Field Marshal think we live?
 
 NARRATOR
 Lees did not answer immediately. He stared at the glowing filaments of the radio set. His hands, raw and split from the cold, were clamped tight around his knees.
-He knew the geography Alexander’s staff was looking at on the wall maps in Caserta. From six hundred miles away, northern Italy was just a long boot with an awkward spine of mountains. To the generals in the palace at Caserta, telling irregulars to disperse was simple staff logistics—conserve resources, reduce exposure, wait for the spring thaw.
+He knew the geography Alexander's staff was looking at on the wall maps in Caserta. From six hundred miles away, northern Italy was just a long boot with an awkward spine of mountains. To the generals in the palace at Caserta, telling irregulars to disperse was simple staff logistics—conserve resources, reduce exposure, wait for the spring thaw.
 To the men in the mountains, it was a death sentence.
-In the valleys below them, General Fridolin von Senger und Etterlin’s XIV Panzer Corps and the fascist militias of the Repubblica Sociale Italiana held every road, every bridge, and every municipal hall. The partisans could not simply put down their Sten guns and walk back to their farms. Every man in the mountains had his name on a prefecture list. To disperse meant being hunted down in small groups, dragged out of cellars, and stood against a cemetery wall.
+In the valleys below them, General Fridolin von Senger und Etterlin's XIV Panzer Corps and the fascist militias of the Repubblica Sociale Italiana held every road, every bridge, and every municipal hall. The partisans could not simply put down their Sten guns and walk back to their farms. Every man in the mountains had his name on a prefecture list. To disperse meant being hunted down in small groups, dragged out of cellars, and stood against a cemetery wall.
 
 CORRADO
 (voice rising, hard and sharp)
@@ -234,10 +234,10 @@ Lees reached out and clicked the Hallicrafters dial to the off position. The amb
 
 LEES
 (clipped, steady Italian)
-No. The Field Marshal doesn’t understand what is happening on this side of the Secchia.
+No. The Field Marshal doesn't understand what is happening on this side of the Secchia.
 
 YOUNG PARTISAN
-Then what do we do? Do we bury the guns? When the Germans come up the mule tracks next week, do we show them Alexander’s paper and ask them for a receipt?
+Then what do we do? Do we bury the guns? When the Germans come up the mule tracks next week, do we show them Alexander's paper and ask them for a receipt?
 
 NARRATOR
 Lees stood up, his joints clicking in the cold. Standing at his full height, he towered over the Italians, his broad shoulders filling the narrow space between the drystone pillars. He looked at the three men. He knew what would happen if he followed the directive to the letter. He could dismantle the radio, pull his small SOE team back into a deep cave above the timberline, ration his bully beef, and wait out the blizzards until April.
@@ -258,7 +258,7 @@ NARRATOR
 Lees pulled his woollen cap down over his ears. He picked up the radio aerial, handed the bare copper wire back to Corrado, reached into his smock for a pencil and a pad of cypher sheets, and turned back toward the ammunition box.
 
 LEES
-We don’t disperse. We move up to Febbio before dawn. If Caserta won’t drop us food because of Alexander’s broadcast, we find out which storehouses the fascists are using in the valley, and we take theirs.
+We don't disperse. We move up to Febbio before dawn. If Caserta won't drop us food because of Alexander's broadcast, we find out which storehouses the fascists are using in the valley, and we take theirs.
 
 NARRATOR
 The two men at the door looked at each other. The young boy slowly let the Carcano settle back against his shoulder.
@@ -295,7 +295,7 @@ God didn't drop those canisters. The Royal Air Force dropped them. And they were
 
 NARRATOR
 One of the Garibaldini behind Guido racked the bolt of his Sten gun. The metallic clack-clack echoed off the stone walls.
-Instantly, both of Don Carlo’s sergeants stepped out from the shadows, their hands resting on the grips of their holstered pistols.
+Instantly, both of Don Carlo's sergeants stepped out from the shadows, their hands resting on the grips of their holstered pistols.
 Lees did not flinch. He stayed sitting on the wine cask, his eyes heavy with exhaustion. He had spent three nights without sleep, moving between hideouts through five-foot snowdrifts to dodge a sweep by the fascist Brigate Nere out of Castelnovo ne' Monti. His boots were coming apart at the welt; copper wire was wrapped around the soles to keep the leather from flapping against his socks.
 He reached into his pocket, took out a heavy brass lighter, and flicked the flint. The flame caught. He leaned down and lit a stump of an Avanti cigarette, drawing the harsh, bitter smoke deep into his chest before speaking.
 
@@ -304,7 +304,7 @@ LEES
 Put the gun on safe.
 
 NARRATOR
-The partisan slowly released the tension on the Sten’s cocking handle.
+The partisan slowly released the tension on the Sten's cocking handle.
 Lees stood up, stepping between the two men. In the cramped, low-ceilinged room, his height dominated the table.
 
 LEES
@@ -321,7 +321,7 @@ NARRATOR
 Lees leaned his fists on the table, right between the two pistols.
 
 LEES
-Listen to me very carefully. Caserta wants to shut this mission down. You heard Alexander’s broadcast in November. The staff generals think you are useless mountain brigands who will eat our food and run the moment a German half-track shows up on the road. The only reason the RAF is still risking Dakotas through the clouds to drop weapons onto Cusna is because my wireless operator is sending encrypted reports saying you are holding this front.
+Listen to me very carefully. Caserta wants to shut this mission down. You heard Alexander's broadcast in November. The staff generals think you are useless mountain brigands who will eat our food and run the moment a German half-track shows up on the road. The only reason the RAF is still risking Dakotas through the clouds to drop weapons onto Cusna is because my wireless operator is sending encrypted reports saying you are holding this front.
 
 NARRATOR
 Lees tapped the purple carbon manifest with a dirty fingernail.
@@ -331,7 +331,7 @@ If one more shot is fired between a Garibaldino and a Fiamme Verdi over a drop c
 
 NARRATOR
 The room went completely silent. The fire hissed as sap boiled out of the green wood.
-Guido’s jaw clenched. Don Carlo looked down at the table, his fingers tracing the silver crucifix on his chest. Both men knew the brutal mathematics of the mountain. Without British air drops—without the .303 ammunition, the plastic explosive, the field dressings, and the gold sovereigns Lees held in his safe-belt—neither faction could survive another month against the fascist counter-sweeps.
+Guido's jaw clenched. Don Carlo looked down at the table, his fingers tracing the silver crucifix on his chest. Both men knew the brutal mathematics of the mountain. Without British air drops—without the .303 ammunition, the plastic explosive, the field dressings, and the gold sovereigns Lees held in his safe-belt—neither faction could survive another month against the fascist counter-sweeps.
 
 DON CARLO
 (softly)
@@ -363,7 +363,7 @@ Lees looked toward the small, unglazed window of the kitchen, covered only by a 
 
 LEES
 (voice dropping low)
-The purpose is that we are going to give them a real target. Something big enough that Caserta can’t ignore us, and the Germans won’t dare touch the villages.
+The purpose is that we are going to give them a real target. Something big enough that Caserta can't ignore us, and the Germans won't dare touch the villages.
 
 DON CARLO
 There are no such targets in these rocks.
@@ -383,25 +383,25 @@ February 26, 1945. 15th Army Group Headquarters, Florence.
 The war in Florence smelled of beeswax, wet gabardine, and Virginia tobacco.
 In the high-ceilinged saloons of the requisitioned Renaissance palazzo, crystal chandeliers hung suspended above sprawling plywood trestle tables. Massive wall maps of the Italian peninsula were pinned to tapestries depicting Roman triumphs. Red, blue, and black chinagraph pencils traced the static, stubborn line of the Apennines—the Gothic Line—where fifteen Allied divisions had bled themselves dry against German concrete and granite all through the autumn rains.
 Major Roy Farran stood before the map of the Reggio Emilia sector, a silver-cased cigarette lighter clicking rhythmously between his knuckles.
-At twenty-four, Farran had already survived tank charges in the Western Desert with the 3rd King’s Own Hussars, an evacuation under dive-bombers in Crete, a wounded capture and subsequent escape from an Italian prisoner-of-war hospital, and brutal behind-the-lines skirmishes in the forests of central France. He was wiry, sharp-featured, with dark, slicked-back hair and pale, restless eyes that rarely blinked. He wore the sand-colored beret of the 2nd Special Air Service Regiment, cocked sharply over his right ear, and a tailored battle-dress tunic bearing the blue and white ribbon of the Military Cross with two silver bars.
-Beside him, two staff officers from General Mark Clark’s 15th Army Group headquarters—a British brigadier in immaculately creased staff serge with red lapel tabs, and an American G-3 colonel chewing an unlit cigar—stared at the grease-pencil markings Farran had scrawled across the high peaks above the Secchia River.
+At twenty-four, Farran had already survived tank charges in the Western Desert with the 3rd King's Own Hussars, an evacuation under dive-bombers in Crete, a wounded capture and subsequent escape from an Italian prisoner-of-war hospital, and brutal behind-the-lines skirmishes in the forests of central France. He was wiry, sharp-featured, with dark, slicked-back hair and pale, restless eyes that rarely blinked. He wore the sand-colored beret of the 2nd Special Air Service Regiment, cocked sharply over his right ear, and a tailored battle-dress tunic bearing the blue and white ribbon of the Military Cross with two silver bars.
+Beside him, two staff officers from General Mark Clark's 15th Army Group headquarters—a British brigadier in immaculately creased staff serge with red lapel tabs, and an American G-3 colonel chewing an unlit cigar—stared at the grease-pencil markings Farran had scrawled across the high peaks above the Secchia River.
 
 FARRAN
 (clipped, confident)
-It’s a natural fortress. Operation Galia proved it two months ago. Captain Walker-Brown took forty men of my squadron into the Serchio Valley, tied down an entire German division, killed over a hundred enemy, and brought back three hundred downed Allied airmen. We broke their flank during the winter offensive.
+It's a natural fortress. Operation Galia proved it two months ago. Captain Walker-Brown took forty men of my squadron into the Serchio Valley, tied down an entire German division, killed over a hundred enemy, and brought back three hundred downed Allied airmen. We broke their flank during the winter offensive.
 
 NARRATOR
 Farran stepped forward, tapping the map north of the crests, down where the contour lines flattened into the grey wash of the Po Valley.
 
 FARRAN
-Galia was just a pinprick. Right here, in the hills south of Reggio Emilia, the resistance is alive, but starving. SOE has an officer in place—Captain Michael Lees. He’s holding the mountain passes with a coalition of Italians and escaped Russian POWs. If I drop Three Squadron in on top of them, we can assemble an irregular force of three to four hundred combatants. When the spring offensive opens, we don’t just watch the roads. We sever them. We hit their corps command posts in the foothills. We turn their rear into an absolute slaughterhouse.
+Galia was just a pinprick. Right here, in the hills south of Reggio Emilia, the resistance is alive, but starving. SOE has an officer in place—Captain Michael Lees. He's holding the mountain passes with a coalition of Italians and escaped Russian POWs. If I drop Three Squadron in on top of them, we can assemble an irregular force of three to four hundred combatants. When the spring offensive opens, we don't just watch the roads. We sever them. We hit their corps command posts in the foothills. We turn their rear into an absolute slaughterhouse.
 
 AMERICAN COLONEL
 (squinting through match smoke)
-You're talking about dropping regular SAS troopers fifty miles behind the main line of resistance, Major. No armor. No divisional artillery. If Kesselring realizes what you’ve got down there, he’ll detach a motorized regiment and box you against the cliffs.
+You're talking about dropping regular SAS troopers fifty miles behind the main line of resistance, Major. No armor. No divisional artillery. If Kesselring realizes what you've got down there, he'll detach a motorized regiment and box you against the cliffs.
 
 FARRAN
-The Germans don't have a motorized regiment to spare, Colonel. Every panzergrenadier they have is dug into the Gothic Line facing the US Fifth and British Eighth Armies. Behind their front line, it’s all supply clerks, signalers, and second-rate coastal battalions. It’s an eggshell. Crack the crust, and there’s nothing inside.
+The Germans don't have a motorized regiment to spare, Colonel. Every panzergrenadier they have is dug into the Gothic Line facing the US Fifth and British Eighth Armies. Behind their front line, it's all supply clerks, signalers, and second-rate coastal battalions. It's an eggshell. Crack the crust, and there's nothing inside.
 
 NARRATOR
 The British brigadier was turning the pages of a manila dossier stamped with red ink—TOP SECRET – BIGOT / OPERATION GRAPESHOT.
@@ -414,7 +414,7 @@ NARRATOR
 Farran smiled, pocketing his lighter.
 
 FARRAN
-I’ll have my first stick of paratroopers over Monte Cusna on the next moon period. I will jump with the forward reconnaissance element myself to link up with Lees.
+I'll have my first stick of paratroopers over Monte Cusna on the next moon period. I will jump with the forward reconnaissance element myself to link up with Lees.
 
 NARRATOR
 The brigadier closed the dossier with a dry, sharp slap. He looked up, his pale eyes fixing Farran through gold-rimmed spectacles.
@@ -423,7 +423,7 @@ BRIGADIER
 You will do nothing of the sort, Major.
 
 NARRATOR
-The room went still, save for the muffled clatter of teleprinters in the adjacent corridor. Farran’s smile vanished.
+The room went still, save for the muffled clatter of teleprinters in the adjacent corridor. Farran's smile vanished.
 
 FARRAN
 I beg your pardon, sir?
@@ -448,11 +448,11 @@ BRIGADIER
 If you jump behind the Gothic Line and break an ankle on a granite crag, or if a fascist patrol bags you in a farmhouse, you will be in the hands of the Gestapo within twelve hours. You know how the Germans extract information. If they break you, the entire Allied spring campaign in Italy is blown before the first barrage fires.
 
 FARRAN
-I am quite aware of my duties regarding operational security, sir. I’ve been captured by the enemy before. I survived.
+I am quite aware of my duties regarding operational security, sir. I've been captured by the enemy before. I survived.
 
 BRIGADIER
 (coldly)
-You were captured by regular Italians in forty-one, when the war still possessed a shred of civility. If the SS take an SAS officer behind the Gothic Line today, Hitler’s Commando Order applies. They don’t send you to a POW camp, Farran. They take you down to the cellar on Via Tasso in Rome or the Piazza San Sepolcro in Milan. They strip off your fingernails, they break your teeth with cold chisels, and then they hang you by piano wire. We cannot afford you breaking. We will not take the risk.
+You were captured by regular Italians in forty-one, when the war still possessed a shred of civility. If the SS take an SAS officer behind the Gothic Line today, Hitler's Commando Order applies. They don't send you to a POW camp, Farran. They take you down to the cellar on Via Tasso in Rome or the Piazza San Sepolcro in Milan. They strip off your fingernails, they break your teeth with cold chisels, and then they hang you by piano wire. We cannot afford you breaking. We will not take the risk.
 
 FARRAN
 Major-General Brian Franks gave me this command to fight, not to sit in Florence pushing paper.
@@ -462,7 +462,7 @@ The brigadier drew a pristine fountain pen from his breast pocket, unscrewed the
 To—Major Roy Farran, 2 SAS.
 Subject—Operational Restriction – Operation Tombola.
 Under no circumstances are you authorized to parachute into enemy-occupied territory or cross the Gothic Line into the northern Apennines. You will direct Operation Tombola from the advanced base at Lucca or Cesenatico. Breach of this directive will be treated as direct disobedience of a lawful command in the face of the enemy.
-The brigadier set the pen down, looking back into Farran’s eyes.
+The brigadier set the pen down, looking back into Farran's eyes.
 
 BRIGADIER
 You will select a capable subaltern—Lieutenant Riccomini or whoever you prefer—to command the drop. You will remain south of the Arno. Do I make myself entirely understood, Major?
@@ -488,7 +488,7 @@ March 4, 1945 – twenty-two thirty hours. Rosignano Airfield, Tuscany.
 The twin Pratt & Whitney radial engines of the Royal Air Force Dakota roared at idle, shaking the mist that clung to the pierced-steel PSP planking of the runway.
 Blue exhaust flames licked back from the engine cowlings into the damp Tuscan night. Around the transport plane, the air was heavy with the smell of 100-octane aviation fuel, wet canvas, and sulfur smoke from the ground-crew exhaust carts.
 Major Roy Farran walked up the aluminum loading ladder into the green-lit belly of the fuselage. He was wearing an oversized, oil-stained Denison airborne smock that fell down past his thighs like a smock-frock, its lower hem billowing loosely around his trousers.
-Inside the stripped cargo cabin, six men of 3 Squadron, 2 SAS, sat strapped to the port-side canvas bench seats. Their faces were blackened with greasy burnt cork. Between their knees rested heavy drop-bags filled with Bren guns, magazines, Gammon grenades, and spare battery cells for Lees’s wireless. They sat in stony, disciplined silence, their helmets bumping against the ribbed aluminum ribs of the aircraft as the fuselage vibrated with the revving engines.
+Inside the stripped cargo cabin, six men of 3 Squadron, 2 SAS, sat strapped to the port-side canvas bench seats. Their faces were blackened with greasy burnt cork. Between their knees rested heavy drop-bags filled with Bren guns, magazines, Gammon grenades, and spare battery cells for Lees's wireless. They sat in stony, disciplined silence, their helmets bumping against the ribbed aluminum ribs of the aircraft as the fuselage vibrated with the revving engines.
 At the cargo door stood the RAF jump dispatcher, a burly flight sergeant wearing a sheepskin flight jacket and heavy leather mittens.
 The sergeant blinked through the exhaust haze as Farran climbed inside, shouting over the low thrum of the engines.
 
@@ -497,16 +497,16 @@ Major Farran, sir? Base operations said you were just here to supervise the mani
 
 FARRAN
 (shouting back, flashing cold grin)
-Change of orders, Sergeant. I’m flying along to act as jumpmaster. The drop zone is a blind notch on the side of Monte Cusna. It’s tight ground, surrounded by granite crags. Your boys haven't dropped into that valley before. I’m making sure these lads don't get hung up in the trees at four thousand feet.
+Change of orders, Sergeant. I'm flying along to act as jumpmaster. The drop zone is a blind notch on the side of Monte Cusna. It's tight ground, surrounded by granite crags. Your boys haven't dropped into that valley before. I'm making sure these lads don't get hung up in the trees at four thousand feet.
 
 NARRATOR
-The flight sergeant looked down at Farran’s bulky Denison smock. The heavy fabric bulged abnormally across the small of the major’s back and around his ribs, but the zipper was pulled right to the throat, masking the tell-tale green webbing harnesses beneath.
+The flight sergeant looked down at Farran's bulky Denison smock. The heavy fabric bulged abnormally across the small of the major's back and around his ribs, but the zipper was pulled right to the throat, masking the tell-tale green webbing harnesses beneath.
 
 DISPATCHER
-You’re not hooked, sir?
+You're not hooked, sir?
 
 FARRAN
-I’m running the door, Sergeant. Just keep the supply canisters clear of the fuselage when the green light shows. I’ll make sure the stick goes out on time.
+I'm running the door, Sergeant. Just keep the supply canisters clear of the fuselage when the green light shows. I'll make sure the stick goes out on time.
 
 NARRATOR
 The sergeant hesitated, then shrugged into his sheepskin collar. He turned, pulled the heavy cargo door shut, and slammed the steel locking dog home.
@@ -520,18 +520,18 @@ Ten minutes to drop.
 The paratroopers rose in unison. With stiff, frost-dulled fingers, they checked the snap-hooks of their static lines, snapping the heavy bronze clips onto the overhead steel cable with a succession of sharp metallic clicks.
 Clack. Clack. Clack.
 Farran didn't touch a hook. He moved down the line, slapping shoulders, checking the ripcord pins of the parachutes strapped to their backs, checking the release boxes on their chests.
-He leaned close to Lieutenant James Riccomini, a calm, razor-sharp officer who was officially listed on 15th Army Group’s paperwork as the commander of the mission.
+He leaned close to Lieutenant James Riccomini, a calm, razor-sharp officer who was officially listed on 15th Army Group's paperwork as the commander of the mission.
 
 FARRAN
 (shouting in his ear)
 Keep them together on the snow, Jimmy. If the drop scatters, rally on the red torch. Don't light matches. The Germans have an outpost on the pass at Pradarena.
 
 NARRATOR
-Riccomini looked at him through his blackened face, his eyes narrowing in the red light. He noticed the bulk under Farran’s Denison smock, and the slight bulge of a pack tray beneath the tail of the canvas coat. Riccomini smiled faintly, shaking his head. He didn't say a word.
+Riccomini looked at him through his blackened face, his eyes narrowing in the red light. He noticed the bulk under Farran's Denison smock, and the slight bulge of a pack tray beneath the tail of the canvas coat. Riccomini smiled faintly, shaking his head. He didn't say a word.
 The buzzer sounded a second time. A long, piercing whine.
 The flight sergeant grabbed the cargo door handle, threw his weight against it, and hauled the door inward and aft.
 A freezing gale tore through the cabin. Sleet and ice crystals blasted across the floorboards like buckshot. The roar of the slipstream was deafening, drowning out the engine drone in a continuous, furious scream.
-Below, the cloud layer tore open for a brief, terrifying second. Farran looked down into the black abyss. Through the rift, the snow-covered shoulder of Monte Cusna gleamed like a white bone in the faint light of an obscured moon. Three tiny, pulsing points of light formed a lopsided red triangle on a frozen plateau—Lees’s partisan reception party, holding flashlights shielded with red cloth filters.
+Below, the cloud layer tore open for a brief, terrifying second. Farran looked down into the black abyss. Through the rift, the snow-covered shoulder of Monte Cusna gleamed like a white bone in the faint light of an obscured moon. Three tiny, pulsing points of light formed a lopsided red triangle on a frozen plateau—Lees's partisan reception party, holding flashlights shielded with red cloth filters.
 The amber light flashed. Then went solid green.
 
 FARRAN
@@ -539,7 +539,7 @@ FARRAN
 Go!
 
 NARRATOR
-Farran slapped Riccomini’s shoulder. Riccomini stepped into the howling void and vanished.
+Farran slapped Riccomini's shoulder. Riccomini stepped into the howling void and vanished.
 Number two. Go!
 Number three. Go!
 Number four. Go!
@@ -553,7 +553,7 @@ In his right hand, Farran held the bronze snap-hook of his own static line.
 
 DISPATCHER
 (eyes wide)
-Major! What on earth are you doing? You’re not on the drop sheet!
+Major! What on earth are you doing? You're not on the drop sheet!
 
 NARRATOR
 Farran looked back at the sergeant over his shoulder, the wind whipping his dark hair across his forehead, grinning with a reckless, feral flash of white teeth in the dark.
@@ -574,9 +574,9 @@ The Meeting at Febbio
 
 NARRATOR
 March 5, 1945 – zero-one fifteen hours. The Slopes Below Monte Cusna.
-The jolt was violent, snapping Farran’s chin against his chest as the 28-foot khaki silk canopy tore open into the slipstream.
-The roar of the Dakota’s twin radials vanished in seconds, swallowed by the mountain wind. Then came the absolute, suffocating quiet of the high Apennines.
-Below him, the world was a jagged monochrome of grey shale and brilliant white snowfields. The red flashes from the partisans’ torchlights had vanished, shielded behind a ridgeline. Farran hung in the harness, twisting frantically on his risers to spot the ground coming up in the dark.
+The jolt was violent, snapping Farran's chin against his chest as the 28-foot khaki silk canopy tore open into the slipstream.
+The roar of the Dakota's twin radials vanished in seconds, swallowed by the mountain wind. Then came the absolute, suffocating quiet of the high Apennines.
+Below him, the world was a jagged monochrome of grey shale and brilliant white snowfields. The red flashes from the partisans' torchlights had vanished, shielded behind a ridgeline. Farran hung in the harness, twisting frantically on his risers to spot the ground coming up in the dark.
 A ridge of stunted, skeletal beech trees flashed past his boots. Ten seconds later, the mountain struck him.
 He hit a drift three feet deep, buried to his chest in powdery snow that exploded around his face like cold flour. His parachute collapsed forward over a bramble thicket, whipping in the wind before the silk went limp against the crust.
 Farran lay still for ten seconds, testing his limbs. No broken ankles. No torn ligaments. He drew a deep lungful of freezing, pine-scented air and laughed softly into the snow.
@@ -592,7 +592,7 @@ FARRAN
 Inglese. Paracadutista.
 
 NARRATOR
-A figure stepped from behind the rock, wrapped in a blanket worn like a poncho, a long Carcano rifle aimed at Farran’s throat. A second man circled to his left, holding an unshielded flashlight with a thumb over the lens, allowing only a thin sliver of yellow light to play across Farran’s sand-colored beret and the winged dagger badge pinned to the wool. The second man lowered the light, muttering to his companion that it was one of Captain Lees's men.
+A figure stepped from behind the rock, wrapped in a blanket worn like a poncho, a long Carcano rifle aimed at Farran's throat. A second man circled to his left, holding an unshielded flashlight with a thumb over the lens, allowing only a thin sliver of yellow light to play across Farran's sand-colored beret and the winged dagger badge pinned to the wool. The second man lowered the light, muttering to his companion that it was one of Captain Lees's men.
 Zero-three hundred hours. Safehouse, Febbio.
 The safehouse was a two-room stone croft on the eastern edge of Febbio, built half-sunk into the mountainside to hide from German artillery observers across the valley.
 Inside, Michael Lees sat at a rough-hewn table, scraping the wax off a tallow candle with a thumbknife.
@@ -617,20 +617,20 @@ Lees stood up slowly, looking past Farran into the dark outside, then back at th
 
 LEES
 (flatly)
-You jumped. Clark’s headquarters gave a direct order to Siena two days ago. I got the cypher on the Hallicrafters. You were barred from crossing the line.
+You jumped. Clark's headquarters gave a direct order to Siena two days ago. I got the cypher on the Hallicrafters. You were barred from crossing the line.
 
 FARRAN
-A slight administrative misunderstanding. I was dispatching Jimmy’s stick. The air was extremely turbulent over Cusna. A container shifted, I lost my footing, and out I went. By the time I regained my balance, my parachute had deployed. A terrible accident.
+A slight administrative misunderstanding. I was dispatching Jimmy's stick. The air was extremely turbulent over Cusna. A container shifted, I lost my footing, and out I went. By the time I regained my balance, my parachute had deployed. A terrible accident.
 
 NARRATOR
 Riccomini let out a dry cough, turning away to inspect the mantlepiece.
-Lees looked at Farran for a long five seconds. Then, for the first time in three months, the corners of Lees’s cracked lips twitched into a genuine smile.
+Lees looked at Farran for a long five seconds. Then, for the first time in three months, the corners of Lees's cracked lips twitched into a genuine smile.
 
 LEES
 An accident.
 
 FARRAN
-Tragic, really. Now that I’m here, the military police can hardly come up the mule tracks to serve a warrant. But we have a minor paperwork issue to settle.
+Tragic, really. Now that I'm here, the military police can hardly come up the mule tracks to serve a warrant. But we have a minor paperwork issue to settle.
 
 LEES
 The wireless.
@@ -653,28 +653,28 @@ Major Patrick McGinty.
 
 LEES
 (blinking)
-McGinty? As in Paddy McGinty’s goat?
+McGinty? As in Paddy McGinty's goat?
 
 FARRAN
-The very same. It has a certain ring to it, don’t you think? An obscure Irish officer with no past and a magnificent disregard for staff memorandums. If the Germans intercept our traffic, they can spend their mornings searching the British Army List for a ghost.
+The very same. It has a certain ring to it, don't you think? An obscure Irish officer with no past and a magnificent disregard for staff memorandums. If the Germans intercept our traffic, they can spend their mornings searching the British Army List for a ghost.
 
 NARRATOR
 Lees nodded slowly. He pulled the map of the Reggio province from the drawer and spread it flat across the table, weighting down the curled edges with two empty .303 cartridge cases.
 
 LEES
-All right, Major McGinty. Let’s discuss what you’ve brought me.
+All right, Major McGinty. Let's discuss what you've brought me.
 
 FARRAN
-I’ve got forty SAS troopers dropping in over the next three nights, provided the weather holds. Spaniards, Frenchmen, regular British airborne. Heavy weapons, mortars, Gammon bombs, and enough Sten magazines to outfit three hundred men.
+I've got forty SAS troopers dropping in over the next three nights, provided the weather holds. Spaniards, Frenchmen, regular British airborne. Heavy weapons, mortars, Gammon bombs, and enough Sten magazines to outfit three hundred men.
 
 LEES
-The Italians are ready to fight, but they are politically fractured. I have Communists under Guido who want to fly the red flag over Modena, and Catholics under Don Carlo who don’t trust Guido as far as they can throw him. Then there are the Russians.
+The Italians are ready to fight, but they are politically fractured. I have Communists under Guido who want to fly the red flag over Modena, and Catholics under Don Carlo who don't trust Guido as far as they can throw him. Then there are the Russians.
 
 FARRAN
 The Russians?
 
 LEES
-Escaped Soviet Red Army prisoners of war. About seventy of them, led by an escaped Red Army captain named Viktor Pirogov. They’ve been living in the caves like wolves since forty-three. They don't give a fig about Italian politics, and they fight like wild beasts.
+Escaped Soviet Red Army prisoners of war. About seventy of them, led by an escaped Red Army captain named Viktor Pirogov. They've been living in the caves like wolves since forty-three. They don't give a fig about Italian politics, and they fight like wild beasts.
 
 FARRAN
 (finger tapping paper)
@@ -685,7 +685,7 @@ LEES
 A pirate army. And if you get them killed for nothing, Farran, the partisans will never forgive the British Army.
 
 NARRATOR
-Farran looked up from the map, his gaze locking onto Lees’s sunken, hollow eyes.
+Farran looked up from the map, his gaze locking onto Lees's sunken, hollow eyes.
 
 FARRAN
 I didn't throw myself out of an aeroplane at four thousand feet to fight for nothing, Michael. We are going to find where the Germans sleep, and we are going to burn it to the ground.
@@ -707,12 +707,12 @@ Adesso!
 
 NARRATOR
 The Italians shoved the slate slabs aside. The flames flared yellow and orange, whipped sideways by the wind.
-High above, a massive black silhouette sheared through the ragged underbelly of the clouds. From the Halifax’s belly hatch fell a cluster of dark specks, followed instantly by the violent blossoms of fifteen-foot supply parachutes—white for small-arms ammunition, red for explosives, yellow for rations and medical kit.
+High above, a massive black silhouette sheared through the ragged underbelly of the clouds. From the Halifax's belly hatch fell a cluster of dark specks, followed instantly by the violent blossoms of fifteen-foot supply parachutes—white for small-arms ammunition, red for explosives, yellow for rations and medical kit.
 Then came the men.
 Nine parachutes billowed into the dark, swaying violently as the updrafts roaring up the sheer northern face of Monte Cusna caught the silk.
 One canopy drifted wide, slammed against the frozen scree of a gully, and dragged its man forty yards through jagged shale before the silk collapsed.
 Lees and three partisans plunged through the waist-deep drifts, their boots breaking through the icy crust with hollow, brittle snaps.
-The downed paratrooper was already on his feet by the time they reached the lip of the gully. He had punched the harness release, kicked his boots free of the suspension lines, and had a captured German Walther P38 drawn and leveled at Lees’s chest before his parachute had even finished deflating in the wind.
+The downed paratrooper was already on his feet by the time they reached the lip of the gully. He had punched the harness release, kicked his boots free of the suspension lines, and had a captured German Walther P38 drawn and leveled at Lees's chest before his parachute had even finished deflating in the wind.
 He wore the standard British airborne Denison smock, but beneath his maroon beret his skin was dark, leathery, and weathered by a sun that did not belong to the British Isles.
 
 BALERDI
@@ -728,16 +728,16 @@ The man lowered the automatic, decocked the hammer against his thumb with practi
 
 BALERDI
 (heavily accented English)
-Sergeant Justo Balerdi. Special Air Service. In the British Army List, they call me ‘Robert Bruce.’ A very Scottish name for a man from San Sebastián, no?
+Sergeant Justo Balerdi. Special Air Service. In the British Army List, they call me ‘Robert Bruce.' A very Scottish name for a man from San Sebastián, no?
 
 NARRATOR
 Balerdi gave a dry, mocking laugh that ended in a cough. He was in his late thirties, significantly older than the British troopers, with scars running along his jawline from shrapnel taken on the Jarama front eight years earlier.
-Behind him, two more men scrambled out of the drifts. One was Rafael Ramos, another Spanish veteran of the Republican Army who had escaped Franco’s concentration camps, survived the French Foreign Legion, and found his way into 2 SAS. Beside Ramos stood Frank Williams, whose real Spanish name had long been buried under British War Office paperwork.
+Behind him, two more men scrambled out of the drifts. One was Rafael Ramos, another Spanish veteran of the Republican Army who had escaped Franco's concentration camps, survived the French Foreign Legion, and found his way into 2 SAS. Beside Ramos stood Frank Williams, whose real Spanish name had long been buried under British War Office paperwork.
 These were men who had been fighting fascists since 1936. They did not fight for King George or the British Empire; they fought because every German soldier dead on an Italian mountain brought them one inch closer to marching back over the Pyrenees to hang Francisco Franco.
 Farran walked up the gully, his hands tucked casually in his pockets, his Denison collar turned up against the sleet.
 
 FARRAN
-Balerdi. You’re late. The Halifax took two passes.
+Balerdi. You're late. The Halifax took two passes.
 
 NARRATOR
 Balerdi looked at his squadron commander and gave a loose, informal flick of his fingers against his beret—the casual salute common to irregulars who had seen too much blood to care about parade-ground drill.
@@ -750,7 +750,7 @@ Did the containers land on the plateau?
 
 RAMOS
 (pointing toward the ravine)
-Half of them. Three canisters went over the lip into the ravine. Heavy weapons. If we don’t pull them out before daylight, the German spotters on the Montefiorino ridge will see the silk.
+Half of them. Three canisters went over the lip into the ravine. Heavy weapons. If we don't pull them out before daylight, the German spotters on the Montefiorino ridge will see the silk.
 
 NARRATOR
 For the next four hours, until the grey light of dawn bled through the fog, the mountain became a factory of brutal, silent labor.
@@ -814,7 +814,7 @@ LEES
 Kapitan Lees. Angliskiy. We are here to see Captain Pirogov.
 
 NARRATOR
-The guard studied Lees’s bearded face, recognized the British officer, and lowered the barrel an inch. He nodded once toward the cave entrance and stepped back into the shadows of the rocks as if he were part of the limestone itself.
+The guard studied Lees's bearded face, recognized the British officer, and lowered the barrel an inch. He nodded once toward the cave entrance and stepped back into the shadows of the rocks as if he were part of the limestone itself.
 Inside the cavern, the air was warm, thick with the stench of boiling horsehide, unwashed wool, and cheap home-grown tobacco.
 Around the hearth sat twenty men, their bodies lean as whippets. Every one of them was an escaped Soviet Red Army prisoner of war—men captured in the meatgrinders of Sevastopol, Kharkov, and the Kerch Peninsula, shipped across Europe in cattle cars to labor on the Gothic Line fortifications, who had strangled their guards in the night and fled into the mountain snow.
 At a plank table illuminated by an oil wick made from an empty shell casing sat two men.
@@ -827,8 +827,8 @@ PIROGOV
 Major. The British have arrived at last.
 
 NARRATOR
-Farran stepped to the table. He took off his leather gloves and dropped a heavy tin of fifty Player’s Navy Cut cigarettes and a ceramic bottle of Scotch whisky squarely onto the wood.
-Pirogov’s eyes flickered to the whisky, then back to Farran’s face. A thin, grim smile touched the corner of the Russian’s mouth. He reached out with a scarred hand, picked up the ceramic bottle, pulled the cork with his teeth, and took a long, burning swallow. He passed it directly to Tarasov, who did the same without blinking.
+Farran stepped to the table. He took off his leather gloves and dropped a heavy tin of fifty Player's Navy Cut cigarettes and a ceramic bottle of Scotch whisky squarely onto the wood.
+Pirogov's eyes flickered to the whisky, then back to Farran's face. A thin, grim smile touched the corner of the Russian's mouth. He reached out with a scarred hand, picked up the ceramic bottle, pulled the cork with his teeth, and took a long, burning swallow. He passed it directly to Tarasov, who did the same without blinking.
 
 FARRAN
 (slow, precise German)
@@ -849,7 +849,7 @@ TARASOV
 My men are Red Army soldiers. We are not Italian banditi. We take orders from the Soviet Union. We fight as a regular military unit, or we fight alone.
 
 FARRAN
-You won’t fight alone, Commissar. You will fight as the heavy shock company of the Battaglione Alleato—the Allied Battalion.
+You won't fight alone, Commissar. You will fight as the heavy shock company of the Battaglione Alleato—the Allied Battalion.
 
 NARRATOR
 Farran gestured back toward the entrance of the cave, where Balerdi and two SAS troopers had dropped two heavy wooden supply crates into the dirt floor.
@@ -858,7 +858,7 @@ Inside were brand-new British Army khaki battledress tunics, trousers, and dark 
 The Russian soldiers around the fire stopped what they were doing. They stood up slowly, staring into the crates.
 
 FARRAN
-You wear German rags and civilian jackets. If Kesselring’s troops catch you in those, they shoot you as frank-tireurs—partisans, bandits. They hang you from the nearest telegraph pole with a placard around your neck.
+You wear German rags and civilian jackets. If Kesselring's troops catch you in those, they shoot you as frank-tireurs—partisans, bandits. They hang you from the nearest telegraph pole with a placard around your neck.
 
 PIROGOV
 (snorting in contempt)
@@ -866,7 +866,7 @@ The Germans will hang us anyway, Major. When you have survived Stalag 367, you d
 
 FARRAN
 (sharply)
-I’m not talking about fear, Captain. I’m talking about command and control. I need an assault company that hits like a regular infantry battalion. I am putting your men into British uniforms. British insignia. You will carry Bren guns and British ammunition. Under the Geneva Convention, you are regular combatants of the Allied Mediterranean Command.
+I'm not talking about fear, Captain. I'm talking about command and control. I need an assault company that hits like a regular infantry battalion. I am putting your men into British uniforms. British insignia. You will carry Bren guns and British ammunition. Under the Geneva Convention, you are regular combatants of the Allied Mediterranean Command.
 
 NARRATOR
 Pirogov rose from the table. Standing, he was nearly as tall as Farran, broad-shouldered and solid as an anvil. He walked over to the open crate, reached down, and lifted a khaki battledress tunic.
@@ -883,14 +883,14 @@ PIROGOV
 Every man wears this on his beret. Beside your winged dagger, or above it. We fight as the Soviet Company of your battalion. We take our tactical orders from you, but my men answer only to me and Tarasov.
 
 NARRATOR
-Farran reached out and tapped the red enamel star in Pirogov’s palm.
+Farran reached out and tapped the red enamel star in Pirogov's palm.
 
 FARRAN
 Pin it wherever you want, Captain. As long as every Russian bullet goes into a German skull.
 
 NARRATOR
-Pirogov stared into Farran’s face for three long, silent seconds, measuring the British officer. Then, a booming, guttural laugh erupted from the Russian’s chest.
-He shoved his right hand forward, grasping Farran’s forearm in a crushing grip.
+Pirogov stared into Farran's face for three long, silent seconds, measuring the British officer. Then, a booming, guttural laugh erupted from the Russian's chest.
+He shoved his right hand forward, grasping Farran's forearm in a crushing grip.
 
 PIROGOV
 Agreed, Major McGinty.
@@ -903,13 +903,13 @@ Michael Lees walked up beside Farran, watching the transformation.
 
 LEES
 (whispering, voice dry)
-You’ve just armed seventy Bolsheviks with heavy automatic weapons behind the front line of an Allied theater, Roy. If the War Office finds out, they’ll court-martial you twice.
+You've just armed seventy Bolsheviks with heavy automatic weapons behind the front line of an Allied theater, Roy. If the War Office finds out, they'll court-martial you twice.
 
 NARRATOR
 Farran picked up the bottle of Scotch from the table and took a sip.
 
 FARRAN
-Let them. Now we have a strike force. Tomorrow, we pick the throat we’re going to cut.
+Let them. Now we have a strike force. Tomorrow, we pick the throat we're going to cut.
 
 
 
@@ -933,7 +933,7 @@ Parla tedesco, Gordon. Let the Major hear it directly.
 
 NARRATOR
 Farran stepped forward, pulling a packet of Players cigarettes from his smock. He shook one loose, struck a match on the cellar wall, and held the flame out to the German soldier.
-Schmidt’s eyes flickered between the flame and Farran’s sand-colored beret. His lips trembled, but he leaned his head forward and drew smoke into his lungs with a sharp, ragged gasp.
+Schmidt's eyes flickered between the flame and Farran's sand-colored beret. His lips trembled, but he leaned his head forward and drew smoke into his lungs with a sharp, ragged gasp.
 
 SCHMIDT
 (whispering, trembling in German)
@@ -969,8 +969,8 @@ FARRAN
 Show us.
 
 NARRATOR
-Monducci cut the telephone wire around Schmidt’s wrists with the tip of the bayonet. The German rubbed his raw, purple skin, winced, and reached for a stub of graphite pencil Lees dropped onto the table.
-Schmidt pulled a sheet of brown butcher’s wrapping paper toward him. With hands that shook at first, then settled into the muscle memory of an orderly who knew every gate and ditch, he began to draw.
+Monducci cut the telephone wire around Schmidt's wrists with the tip of the bayonet. The German rubbed his raw, purple skin, winced, and reached for a stub of graphite pencil Lees dropped onto the table.
+Schmidt pulled a sheet of brown butcher's wrapping paper toward him. With hands that shook at first, then settled into the muscle memory of an orderly who knew every gate and ditch, he began to draw.
 
 SCHMIDT
 Botteghe. A small village, two kilometers south of Albinea proper. The corps took over two large estates owned by Italian aristocrats. They sit three hundred meters apart, separated by parkland, cypress trees, and an open meadow. Here—Villa Rossi. This is the officers' mess and the personal quarters of General Hauck and his senior operations officers. Hauck sleeps on the first floor, north wing. The ground floor has the great dining salon, the guard room, and the entrance hall. The grand staircase goes up to the staff bedrooms. It is guarded by corps military police—the Feldgendarmerie. There is an MG42 machine gun in a sandbag emplacement covering the main driveway, and two sentries posted by the front iron gates day and night.
@@ -994,7 +994,7 @@ FARRAN
 If the alarm is raised before we reach the doors, the MG42 on the driveway will cut an assault party to pieces across that lawn.
 
 LEES
-And if the telephone lines aren’t cut within the first thirty seconds, the garrison in Reggio will deploy armored cars to the Botteghe crossroads before we clear the ground floor.
+And if the telephone lines aren't cut within the first thirty seconds, the garrison in Reggio will deploy armored cars to the Botteghe crossroads before we clear the ground floor.
 
 FARRAN
 Can your Black Owls get eyes on those villas without tipping the sentries?
@@ -1011,13 +1011,13 @@ Giovanna?
 
 MONDUCCI
 (nodding)
-Giovanna Quadreri. Her partisan name is Giorgio. She can ride straight past the gates of Villa Calvi tomorrow morning. If Schmidt’s map is true, she will see the antenna trucks in the rose garden.
+Giovanna Quadreri. Her partisan name is Giorgio. She can ride straight past the gates of Villa Calvi tomorrow morning. If Schmidt's map is true, she will see the antenna trucks in the rose garden.
 
 NARRATOR
 Farran looked back down at the rough sketch on the butcher paper, a predatory smile crossing his lips.
 
 FARRAN
-Give the prisoner some food and keep him under guard. Get your courier on the road, Michael. If those antennas are in the roses, we’re going to burn the 51st Mountain Corps out of their beds.
+Give the prisoner some food and keep him under guard. Get your courier on the road, Michael. If those antennas are in the roses, we're going to burn the 51st Mountain Corps out of their beds.
 
 
 
@@ -1031,10 +1031,10 @@ March 20, 1945 – zero-eight thirty hours. Road to Albinea, Foothills of Reggio
 The iron bicycle frame rattled over the frozen ruts of the secondary road running north from Scandiano toward Botteghe.
 Giovanna Quadreri pedaled with a steady, unhurried cadence. She was barely twenty years old, dressed in a faded black woollen skirt that smelled of woodsmoke, a hand-knitted shawl pinned across her collarbones with an iron safety pin, and clogs worn smooth at the heels. On the handlebars hung a wicker basket covered with a damp, checkered kitchen rag. Underneath the cloth lay eight fresh chicken eggs bedded in dry straw, two heads of winter cabbage, and half a loaf of stale rye bread.
 Her partisan name was Giorgio. Among the couriers who slipped through the checkpoints, they called her work la staffetta della libertà.
-In her head, she was not carrying eggs. She was carrying Hans Schmidt’s hand-drawn pencil sketches, memorized line by line in the cellar at Minozzo the night before, then burned in the kerosene lantern until only grey flakes of ash remained on the flagstones.
+In her head, she was not carrying eggs. She was carrying Hans Schmidt's hand-drawn pencil sketches, memorized line by line in the cellar at Minozzo the night before, then burned in the kerosene lantern until only grey flakes of ash remained on the flagstones.
 The morning mist was lifting off the vineyards, leaving droplets of cold moisture clinging to the telephone wires overhead.
 Half a mile outside Botteghe, the road bent sharp around a stone irrigation culvert. Across the road sat a wooden roadblock—two sawhorses laced with accordion concertina wire, painted in dull red and white stripes.
-Beside the wire stood two Italian soldiers of the Brigate Nere—Mussolini’s black-shirted fascist militia—wearing black woollen field jackets, peaked caps with silver death's-head skull badges, and Italian M38 submachine guns slung across their bellies. Behind them, leaning against the radiator of an Opel Blitz truck painted in three-tone Wehrmacht camouflage, was a German Feldgendarm in a heavy green woollen overcoat, the metal crescent-shaped gorget plate gleaming dull bronze against his chest.
+Beside the wire stood two Italian soldiers of the Brigate Nere—Mussolini's black-shirted fascist militia—wearing black woollen field jackets, peaked caps with silver death's-head skull badges, and Italian M38 submachine guns slung across their bellies. Behind them, leaning against the radiator of an Opel Blitz truck painted in three-tone Wehrmacht camouflage, was a German Feldgendarm in a heavy green woollen overcoat, the metal crescent-shaped gorget plate gleaming dull bronze against his chest.
 Giovanna stopped pedaling, dragged her clogs along the dirt, and let the bicycle roll to a halt three feet from the wire.
 
 MILITIA BOY
@@ -1079,15 +1079,15 @@ The village was dead quiet, frozen in the brittle calm of an occupied nerve cent
 Botteghe was little more than a wide crossroads on the low plain where the hills melted into the agricultural flatlands of Reggio Emilia. But today, the crossroads bristled with steel.
 Giovanna did not stop. She pedaled slowly along the perimeter road, her eyes scanning left and right, cataloging every detail into her memory without turning her head.
 To the west sat the tall wrought-iron gates of Villa Rossi.
-Schmidt’s pencil sketch had been precise, but the reality was far more formidable.
+Schmidt's pencil sketch had been precise, but the reality was far more formidable.
 The three-story neoclassical manor stood eighty yards back from the perimeter wall, surrounded by an expanse of clipped lawn bordered by towering black cypress trees. The front driveway was flanked by two freshly dug emplacements—low sandbag parapets reinforced with pine logs.
-Giovanna caught the dull, blued glint of an MG42 barrel poking through the embrasure, its conical flash-hider trained directly down the center of the gravel entrance. Two sentries in Wehrmacht helmets and reversible camouflage smocks paced the front steps. On the first floor, the tall French windows had heavy black-out curtains drawn, but she could see the silhouette of an officer in a peaked cap smoking a cigar on the stone balcony—General Hauck’s quarters.
+Giovanna caught the dull, blued glint of an MG42 barrel poking through the embrasure, its conical flash-hider trained directly down the center of the gravel entrance. Two sentries in Wehrmacht helmets and reversible camouflage smocks paced the front steps. On the first floor, the tall French windows had heavy black-out curtains drawn, but she could see the silhouette of an officer in a peaked cap smoking a cigar on the stone balcony—General Hauck's quarters.
 She turned the bicycle south onto the narrow lane linking the two estates.
 Three hundred yards across an open meadow sat Villa Calvi.
 Here, the German activity was frantic.
 Parked beneath the ancient weeping willows in the garden were three six-wheeled Mercedes-Benz radio communications trucks, their olive-drab canvas roofs covered in drying evergreen branches to hide from Allied fighter-bombers. From each truck, tall pneumatic telescopic masts rose fifty feet into the air, held fast by steel guy-wires anchored to the lawns.
 Giovanna pedaled past the low brick garden wall.
-Thick bundles of black rubber-jacketed telephone trunk cables snaked out of the back of the radio vans, crawled across the gravel driveway, and plunged directly into the basement lightwells of the villa’s eastern wing—the corps exchange, the brain.
+Thick bundles of black rubber-jacketed telephone trunk cables snaked out of the back of the radio vans, crawled across the gravel driveway, and plunged directly into the basement lightwells of the villa's eastern wing—the corps exchange, the brain.
 She noted the sentry shifts—a squad of six German riflemen in field-grey greatcoats marched across the lawn from the nearby schoolhouse, rifles slung over their right shoulders, their boots thudding in sharp unison on the gravel. Guard change was happening at ten-thirty.
 She kept riding, circling past the Botteghe cemetery wall, her eyes flicking up to the telegraph poles running along the road toward Reggio Emilia.
 Near the road junction, she spotted the primary telephone junction box—a steel terminal casing mounted four feet up a wooden pole, wrapped in barbed wire. That was the line that alerted the mechanized reserve garrison six kilometers north in Reggio.
@@ -1111,7 +1111,7 @@ GIOVANNA
 The trucks are in the garden. Three radio vans under the trees. The aerials are up. The main telephone lines run through the basement windows on the east side.
 
 NARRATOR
-She reached onto the table, took Farran’s grease pencil, and drew a thick cross on the road junction between Botteghe and Reggio Emilia.
+She reached onto the table, took Farran's grease pencil, and drew a thick cross on the road junction between Botteghe and Reggio Emilia.
 
 GIOVANNA
 (tapping the mark)
@@ -1153,14 +1153,14 @@ He inspected the drones, blew into the blowpipe to test the leather flapper valv
 
 KIRKPATRICK
 (fierce satisfaction)
-Not a crack. The reed’s dry as a bone, Major.
+Not a crack. The reed's dry as a bone, Major.
 
 BALERDI
 (muttering in Spanish)
 Madre de Dios. We asked Florence for twenty thousand rounds of nine-millimeter and two cases of plastic explosive. They send us a Scotsman with a bag of cats.
 
 NARRATOR
-Farran walked up, his eyes hard and unsmiling in the moonlight. He reached down, grasped Kirkpatrick’s forearm, and hauled the young piper to his feet.
+Farran walked up, his eyes hard and unsmiling in the moonlight. He reached down, grasped Kirkpatrick's forearm, and hauled the young piper to his feet.
 
 FARRAN
 Welcome to the Apennines, David.
@@ -1170,7 +1170,7 @@ Glad to be here, sir. Though I cannae say much for the landing ground. Girvan wa
 
 LEES
 (quietly)
-Roy. Are you serious about this? You’re going to take a piper into a close-quarters assault on a corps headquarters?
+Roy. Are you serious about this? You're going to take a piper into a close-quarters assault on a corps headquarters?
 
 FARRAN
 Look down that valley, Michael. What happened at Marzabotto last October?
@@ -1181,17 +1181,17 @@ Major Walter Reder. 16th SS Panzergrenadier Division. They surrounded the villag
 
 FARRAN
 (cold and deliberate)
-And why did Reder do it? Because of Kesselring’s counter-insurgency order. The ten-for-one rule. For every German soldier killed by a partisan, ten Italian civilians are stood against a wall and shot. The SS treat the Italians as illegal bandits—francs-tireurs. If we go down to Botteghe dressed in peasant jackets and Italian smocks, if we kill General Hauck and fifty of his staff, what do you think the 148th Division and the Brigate Nere will do to Albinea by noon the next day?
+And why did Reder do it? Because of Kesselring's counter-insurgency order. The ten-for-one rule. For every German soldier killed by a partisan, ten Italian civilians are stood against a wall and shot. The SS treat the Italians as illegal bandits—francs-tireurs. If we go down to Botteghe dressed in peasant jackets and Italian smocks, if we kill General Hauck and fifty of his staff, what do you think the 148th Division and the Brigate Nere will do to Albinea by noon the next day?
 
 LEES
 (whispering)
 They will slaughter the entire village.
 
 FARRAN
-Exactly. The Germans do not apply the ten-for-one reprisal to regular Allied airborne troops. If a British commando unit raids an enemy headquarters in uniform, it is an act of war under the Geneva Convention. Kesselring’s reprisal order doesn't apply to regular troops. There are seventy Russians in British tunics who don't speak a word of English. There are forty Spanish Republicans who speak only broken Italian. And there are fifty local boys from the Gufo Nero who know every hedge in the valley. In the middle of the night, in the smoke and grenade blasts, a German officer won't know if he’s being attacked by Montgomery’s army or the local Communist brigade.
+Exactly. The Germans do not apply the ten-for-one reprisal to regular Allied airborne troops. If a British commando unit raids an enemy headquarters in uniform, it is an act of war under the Geneva Convention. Kesselring's reprisal order doesn't apply to regular troops. There are seventy Russians in British tunics who don't speak a word of English. There are forty Spanish Republicans who speak only broken Italian. And there are fifty local boys from the Gufo Nero who know every hedge in the valley. In the middle of the night, in the smoke and grenade blasts, a German officer won't know if he's being attacked by Montgomery's army or the local Communist brigade.
 
 NARRATOR
-Farran laid a heavy hand on Kirkpatrick’s shoulder.
+Farran laid a heavy hand on Kirkpatrick's shoulder.
 
 FARRAN
 You, David. You are the proof. When we breach the perimeter of Villa Rossi, you don't take cover. You step out onto the front lawn, in the searchlights, in full Royal Stewart tartan. You fill those pipes, and you play Highland Laddie as loud as your lungs can blow.
@@ -1207,7 +1207,7 @@ Kirkpatrick drew in a sharp breath. He tucked the sheepskin bag under his left a
 
 KIRKPATRICK
 (stubborn Scottish grit)
-Aye, Major. I’ll give them Highland Laddie until their ears bleed.
+Aye, Major. I'll give them Highland Laddie until their ears bleed.
 
 NARRATOR
 Farran nodded once, satisfied. He turned to Lees.
@@ -1238,7 +1238,7 @@ HUGHES
 Incoming priority from 15th Army Group, sir. Routed through SF1 base. High-grade cipher. Addressed to Major McGinty and Captain Lees.
 
 NARRATOR
-Hughes tore the silk sheet from his cipher pad and began running the transposition grid backwards, matching the random code groups against the day’s deciphering key. As the letters resolved into words, the corporal’s pencil slowed down.
+Hughes tore the silk sheet from his cipher pad and began running the transposition grid backwards, matching the random code groups against the day's deciphering key. As the letters resolved into words, the corporal's pencil slowed down.
 He stopped writing. He looked up at Farran, his face taut.
 
 FARRAN
@@ -1261,7 +1261,7 @@ Lees looked at the paper, then let out a sharp, bitter breath that plumed white 
 
 LEES
 (laced with venom)
-They’ve cold-footed. Just like November. Some staff colonel in a heated villa in Florence looks at his operational timetable, decides our target doesn't align with his artillery schedule, and sends two sentences to erase four months of planning.
+They've cold-footed. Just like November. Some staff colonel in a heated villa in Florence looks at his operational timetable, decides our target doesn't align with his artillery schedule, and sends two sentences to erase four months of planning.
 
 FARRAN
 If we stand down now, Michael, what happens to the men?
@@ -1270,7 +1270,7 @@ NARRATOR
 Lees took two paces across the room, kicking an empty pine crate out of his path.
 
 LEES
-The battalion collapses. Guido and the Communists will say the British betrayed them again. They’ll pull out of the alliance by midnight. Pirogov and his Russians won't stay locked in a cave eating chestnuts while the snow melts. They’ll launch their own raids, get themselves cornered in the Secchia, and be slaughtered. And what about Hans Schmidt? If the Germans realize Schmidt is gone, they’ll change the guard rotations and move Hauck’s quarters within seventy-two hours.
+The battalion collapses. Guido and the Communists will say the British betrayed them again. They'll pull out of the alliance by midnight. Pirogov and his Russians won't stay locked in a cave eating chestnuts while the snow melts. They'll launch their own raids, get themselves cornered in the Secchia, and be slaughtered. And what about Hans Schmidt? If the Germans realize Schmidt is gone, they'll change the guard rotations and move Hauck's quarters within seventy-two hours.
 
 FARRAN
 Exactly.
@@ -1292,18 +1292,18 @@ MCGINTY.
 Farran dropped the pencil onto the table. Hughes stared at the words, swallowing hard.
 
 HUGHES
-Sir... if I transmit this, they’ll know we’re lying. The march hasn't even begun.
+Sir... if I transmit this, they'll know we're lying. The march hasn't even begun.
 
 FARRAN
 (coldly)
-They are seventy miles away behind the Arno, Corporal. They don't know where our boots are. And by the time their signals staff finishes debating whether to relieve me of command, General Hauck’s villa will be in ashes.
+They are seventy miles away behind the Arno, Corporal. They don't know where our boots are. And by the time their signals staff finishes debating whether to relieve me of command, General Hauck's villa will be in ashes.
 
 NARRATOR
-Lees looked at the paper, then reached out, took the pencil from the table, and scribbled his own name underneath Farran’s—LEES, SOE MISSION ENVELOPE.
+Lees looked at the paper, then reached out, took the pencil from the table, and scribbled his own name underneath Farran's—LEES, SOE MISSION ENVELOPE.
 
 LEES
 (grim satisfaction)
-If we’re going to the gallows for insubordination, Roy, we might as well share the rope.
+If we're going to the gallows for insubordination, Roy, we might as well share the rope.
 
 FARRAN
 They don't hang officers who win, Michael. They only hang the ones who lose.
@@ -1315,10 +1315,10 @@ FARRAN
 Encode it. Transmit on the primary frequency. Once Siena acknowledges the receipt, shut down the generator, pull the aerial lead, and smash the crystals.
 
 NARRATOR
-Hughes’s hands trembled for a fraction of a second, then steadied. He placed his fingers on the Morse key. The room filled once more with the sharp, violent chatter of the brass contacts as the insubordinate signal was sent whistling across the Apennine ridges toward the Allied headquarters in Florence.
+Hughes's hands trembled for a fraction of a second, then steadied. He placed his fingers on the Morse key. The room filled once more with the sharp, violent chatter of the brass contacts as the insubordinate signal was sent whistling across the Apennine ridges toward the Allied headquarters in Florence.
 Dit-dit-dah. Dah-dit-dit. Dit-dit-dit.
 Ten minutes later, Hughes received the three-letter acknowledgement from Siena—R-D-R, Message Received.
-Without being told, Hughes reached into his web pouch, drew a brass mechanic’s hammer, and struck the quartz frequency crystals of the Type B transmitter squarely against the stone hearth. The delicate glass and quartz shattered into sparkling dust.
+Without being told, Hughes reached into his web pouch, drew a brass mechanic's hammer, and struck the quartz frequency crystals of the Type B transmitter squarely against the stone hearth. The delicate glass and quartz shattered into sparkling dust.
 Farran walked to the heavy oak door and pulled it open.
 Outside, in the freezing sleet that swept through the alleys of Febbio, one hundred and seventy men were falling into two single-file columns.
 British commandos with red and sand-colored berets. Exiled Spanish veterans checking their Bren magazines. Soviet soldiers in British battledress with red stars pinned to their caps. Italian mountaineers of the Gufo Nero with captured German carbines slung across their chests. At the rear, Piper David Kirkpatrick stood in his Royal Stewart tartan kilt, his bagpipes strapped securely across his chest beneath his airborne smock.
@@ -1340,7 +1340,7 @@ March 25, 1945 – eighteen thirty hours. The Northern Slopes of the Apennines.
 The column stretched three hundred yards down the goat path, a snaking spine of soaked wool, steel, and silence.
 They moved as dusk turned the snowfields of Cusna from blinding white to a dull, bruised violet. At the front walked the scouts of the Gufo Nero—four young Italians in rubber-soled climbing shoes, their captured German Kar98k carbines held across their chests, moving with the effortless, soundless gait of boys who had chased mountain hares through these ravines since childhood. Leading them was Glauco Monducci—'Gordon'—his Sten gun slung muzzle-down beneath his waterproof cape.
 Behind them came Farran and Lees. Then the forty men of 3 Squadron SAS, including the Basque Balerdi and the Spaniard Ramos, their Denison smocks weighted down with four hundred rounds of .303 ammunition apiece, toggle ropes looped across their chests, and Gammon bombs bulging in their thigh pockets.
-Behind the commandos marched Pirogov’s seventy Soviets, marching in lockstep two abreast, carrying their Bren guns and drums of 9mm ammunition with the implacable, mechanical rhythm of men who had marched from Stalingrad to the Dnieper.
+Behind the commandos marched Pirogov's seventy Soviets, marching in lockstep two abreast, carrying their Bren guns and drums of 9mm ammunition with the implacable, mechanical rhythm of men who had marched from Stalingrad to the Dnieper.
 At the rear, Piper David Kirkpatrick walked with his pipes wrapped securely inside a waterproof rubberized gas-cape, his heavy kilt pinned up with brass safety pins to keep the tartan out of the slush.
 By midnight, the snow began to die.
 As the altitude dropped from five thousand feet toward the rolling foothills above Carpineti, the frozen alpine scree gave way to something far worse—Emilian clay.
@@ -1354,11 +1354,11 @@ Me cago en Dios.
 
 NARRATOR
 Balerdi went down on one hip, catching a ninety-pound ammunition pannier before it slid down a thirty-foot embankment.
-Rafael Ramos reached down with a massive, calloused hand, hooked his fingers into Balerdi’s webbing harness, and hauled him upright with a grunt.
+Rafael Ramos reached down with a massive, calloused hand, hooked his fingers into Balerdi's webbing harness, and hauled him upright with a grunt.
 
 RAMOS
 (muttering in Spanish)
-Quiet, Basque. The German outpost at Baiso is one ridge over. If you want to curse, curse Franco. He’s the reason we are freezing our toes off in Italy.
+Quiet, Basque. The German outpost at Baiso is one ridge over. If you want to curse, curse Franco. He's the reason we are freezing our toes off in Italy.
 
 NARRATOR
 March 26 – zero-four thirty hours. Gully East of Scandiano.
@@ -1374,28 +1374,28 @@ LEES
 Alles gut?
 
 NARRATOR
-Pirogov looked up. The Russian’s skin was chapped raw, but he gave a sharp, wolfish grin.
+Pirogov looked up. The Russian's skin was chapped raw, but he gave a sharp, wolfish grin.
 
 PIROGOV
 (whispering back)
 Gut, Captain. My men have not had a full stomach in three months. But tonight they have British bullets. Tonight we do not run.
 
 NARRATOR
-Lees nodded, patting the Russian captain’s shoulder, and crawled on toward the head of the gully where Farran lay with Gordon.
+Lees nodded, patting the Russian captain's shoulder, and crawled on toward the head of the gully where Farran lay with Gordon.
 Farran was peering through a pair of captured 6x30 Carl Zeiss binoculars, training the lenses through a gap in the brushwood toward the low plain ahead.
 Through the mist, the world opened out. The mountains were behind them now. Ahead lay the flat, geometric chequerboard of the Po Valley—endless rows of mulberry trees, square fields of young winter wheat, and the white, straight line of the secondary road running north from Scandiano toward Albinea.
 Even from two miles away, the hum of Wehrmacht transport trucks on Highway 9 was a constant, low thrum in the earth.
 
 FARRAN
 (murmuring)
-We’re behind their operational belt. Look at that.
+We're behind their operational belt. Look at that.
 
 NARRATOR
 Lees looked through his own binoculars.
 A German dispatch rider on a BMW R75 motorcycle with a sidecar sputtered past a crossroads less than eight hundred yards below them, kicking up a rooster-tail of yellow mud. The German driver wore no helmet, only a soft field cap, and was driving with one hand, completely oblivious to the hundred and seventy heavily armed Allied commando shock-troops lying in the ditch above his head.
 
 LEES
-They think they’re in a garrison town. They have no idea.
+They think they're in a garrison town. They have no idea.
 
 FARRAN
 They will by two o'clock tomorrow morning. We stay in this mud until twenty-one hundred. When full dark hits, we cross the Scandiano road, swing west through the vineyards, and take up the final assault positions.
@@ -1432,7 +1432,7 @@ Farran checked his compass, sighting along the luminous needle toward the faint 
 He didn't speak. He raised two fingers, sliced his hand downward, and the column split cleanly into its three pre-arranged assault detachments.
 To the right went Captain Viktor Pirogov and his seventy Soviets, slipping through a sunken drainage lane toward the Botteghe crossroads and the German barracks at the village school. They carried five Bren guns, boxes of ammunition drums, and canvas sacks crammed with stick grenades. Their mission was simple and brutal—seal the road from Reggio Emilia. If the German garrison attempted to reinforce the villas, Pirogov was to butcher them in their trucks.
 To the center-left went the Villa Calvi strike party under SAS Sergeant Buster Gurney and Spanish commando Frank Williams, guiding twenty partisans through the orchard ditches toward the radio vans and the basement telephone exchange.
-Farran, Lees, Lieutenant James Riccomini, and Glauco Monducci’s scouts of the Gufo Nero took the left flank, moving along a deep irrigation canal directly toward the dark silhouette of Villa Rossi. At Farran’s heel walked Piper David Kirkpatrick, his kilt swishing softly against his knees, his hands clamped over the wooden drones of his pipes to prevent them clacking against his gear.
+Farran, Lees, Lieutenant James Riccomini, and Glauco Monducci's scouts of the Gufo Nero took the left flank, moving along a deep irrigation canal directly toward the dark silhouette of Villa Rossi. At Farran's heel walked Piper David Kirkpatrick, his kilt swishing softly against his knees, his hands clamped over the wooden drones of his pipes to prevent them clacking against his gear.
 March 27 – zero-zero thirty hours. The Telegraph Pole, Reggio-Albinea Road.
 Four hundred yards north of the village crossroads, Rafael Ramos crawled on his belly through a muddy ditch choked with dead reeds.
 Above him loomed the wooden telegraph pole Giovanna Quadreri had marked on the butcher-paper map. The heavy black rubber cables of the main military trunk line to Reggio Emilia hummed faintly in the night air, carrying the late-night operational traffic of the German 14th Army.
@@ -1440,7 +1440,7 @@ Ramos paused. He reached out with bare, mud-caked fingers, feeling along the edg
 A German sentry walked past twenty paces away, his steel helmet glistening wet in the darkness, a Kar98k slung muzzle-down beneath his waterproof cape. The sentry paused, struck a match inside the cup of his hands, lit a cigarette, and exhaled a thin stream of blue smoke into the rain.
 Ramos did not breathe. He lay flat in four inches of freezing water, his cheek pressed against the mud, a pair of ten-inch steel cable-cutters gripped between his teeth.
 The sentry turned, boots crunching on the wet macadam, and walked back toward the village guardhouse.
-The instant the German’s back was turned, Ramos rose onto his knees. He reached high up the wooden pole, wrapped the jaws of the cutters around the thickest bundle of insulated copper, and leaned his entire body weight into the handles.
+The instant the German's back was turned, Ramos rose onto his knees. He reached high up the wooden pole, wrapped the jaws of the cutters around the thickest bundle of insulated copper, and leaned his entire body weight into the handles.
 Snap.
 The tension in the cable tore the severed ends apart with a dull, whip-like crack. Ramos didn't stop. He cut through the secondary landlines, the civilian leads, and the emergency backup wire, slicing three feet of cable out of the loop and shoving the severed coils deep into the mud so they could not be spliced in the dark.
 The LI Mountain Corps was deaf to Reggio.
@@ -1450,14 +1450,14 @@ Beside him, two boys from his Gufo Nero detachment wielded insulated shears, wor
 Snip. Snip. Snip.
 The wire peeled back, pinned into the sod with wooden pegs to keep it from springing free.
 Through the gap, Lees crawled into the manicured estate grounds. His heart hammered against his ribs like a trapped bird.
-The estate was drenched in an unnatural, heavy silence. The neoclassical manor rose three stories above the parkland, its white stucco facade glowing pale through the drizzle. A single yellow light leaked from behind the drawn blackout curtains of a first-floor window—General Hauck’s quarters.
+The estate was drenched in an unnatural, heavy silence. The neoclassical manor rose three stories above the parkland, its white stucco facade glowing pale through the drizzle. A single yellow light leaked from behind the drawn blackout curtains of a first-floor window—General Hauck's quarters.
 Down on the ground floor, eighty yards away across the open lawn, the sandbagged machine-gun emplacement guarded the gravel drive. Lees raised his binoculars. He could see the dark, rounded shape of a German steel helmet behind the sandbags. The sentry was leaning over the receiver of his MG42, motionless.
 Farran slid into the wet ditch beside Lees, followed by Lieutenant Riccomini and Gordon.
 Riccomini pulled the pin on a Gammon bomb, holding the heavy weighted tape secure with his thumb. Inside the dark fabric sock was two pounds of malleable plastic explosive, armed with an instantaneous impact fuse.
 Farran checked the luminous hands of his watch—zero-one fifty.
 Ten minutes until zero hour.
-Across the meadow, three hundred yards to the east, Villa Calvi was black and silent; Buster Gurney’s commandos were already pressed against the basement lightwells, waiting. Down at the crossroads, Pirogov’s Soviets had laid their Bren guns on the garden walls, their barrels aimed down the empty throat of the highway.
-Farran leaned his mouth inches from Lees’s ear.
+Across the meadow, three hundred yards to the east, Villa Calvi was black and silent; Buster Gurney's commandos were already pressed against the basement lightwells, waiting. Down at the crossroads, Pirogov's Soviets had laid their Bren guns on the garden walls, their barrels aimed down the empty throat of the highway.
+Farran leaned his mouth inches from Lees's ear.
 
 FARRAN
 (whispering)
@@ -1469,10 +1469,10 @@ Kneeling in the wet grass behind them, David Kirkpatrick took a deep, silent bre
 The young Scotsman untied the gas-cape and let it slide into the mud. He smoothed the red Royal Stewart wool of his kilt over his thighs. He pulled the ribbons of his pipes straight, settled the great drone across his left shoulder, and placed the wooden blowpipe between his teeth.
 Zero-one fifty-eight.
 Zero-one fifty-nine.
-Farran’s left hand rose. Three fingers extended.
+Farran's left hand rose. Three fingers extended.
 Then two.
 Then one.
-Farran’s fist snapped shut.
+Farran's fist snapped shut.
 
 FARRAN
 (snarling)
@@ -1487,7 +1487,7 @@ Highland Laddie
 
 NARRATOR
 March 27, 1945 – zero-two hundred hours. The Lawn, Villa Rossi.
-David Kirkpatrick’s lungs emptied into the sheepskin bag with a sharp, gasping heave.
+David Kirkpatrick's lungs emptied into the sheepskin bag with a sharp, gasping heave.
 The drones woke with a low, guttural groan, then locked into a deafening, harmonic scream that shattered the silence of the valley like a pane of plate glass.
 Kirkpatrick rose from the drainage ditch, stepped over the severed strands of barbed wire, and walked deliberately out onto the manicured turf of the front lawn. His kilt swung in rhythmic snaps against his knees. His chin was held high, African blackwood drones balanced on his left shoulder, tartan ribbons fluttering in the wet breeze.
 His fingers danced across the blackwood chanter, striking into the opening bars of 'Highland Laddie.'
@@ -1500,7 +1500,7 @@ Was zum Teufel...
 
 NARRATOR
 That three-second pause was all the SAS needed.
-From the ditch to Kirkpatrick’s left, Lieutenant James Riccomini lunged forward onto one knee. His arm whipped back and came over in a violent, overhand pitcher’s strike.
+From the ditch to Kirkpatrick's left, Lieutenant James Riccomini lunged forward onto one knee. His arm whipped back and came over in a violent, overhand pitcher's strike.
 The Gammon bomb—a heavy, black stockinette sock packed with two and a half pounds of plastic explosive—tumbled end-over-end through the air, its weighted linen fuse-tape trailing behind it like a ribbon.
 It struck the double oak front doors of Villa Rossi squarely at chest height.
 CRACK-BOOM.
@@ -1515,7 +1515,7 @@ NARRATOR
 The ditch erupted.
 Fifteen commandos surged across the lawn in a dead sprint, weapons firing from the hip.
 Sergeant Justo Balerdi fired a long, tracking burst from his Bren gun directly into the sandbag emplacement, the heavy .303 rounds chewing through the burlap bags, kicking up clouds of sand and pulverizing the German gunner before he could right himself.
-To Balerdi’s right, Lees sprinted forward, his Sten gun tucked tight under his right arm, sending short, controlled three-round bursts through the shattered ground-floor windows into the guard room.
+To Balerdi's right, Lees sprinted forward, his Sten gun tucked tight under his right arm, sending short, controlled three-round bursts through the shattered ground-floor windows into the guard room.
 Inside the villa, bells were clanging furiously. Voices were screaming in terror and confusion down the corridors—Alarm! Überfall! Die Engländer sind da!
 Through it all, in the middle of the open lawn, with machine-gun fire cracking overhead and the acrid stench of high explosive rolling across the grass, David Kirkpatrick didn't run. He didn't drop to his knees.
 He turned on his heel, paced three yards to the left, three yards to the right, and kept playing.
@@ -1558,7 +1558,7 @@ The detonation was deafening inside the enclosed corridor. The iron cabinet blew
 Farran lunged past the smoking crater, kicking the shattered remains of the mess door inward.
 The dining hall was magnificent, furnished with eighteenth-century oil paintings and a banquet table laid for thirty. Half-empty wine bottles and roast pork platters from the previous night's dinner still sat under silver cloches.
 From behind the far end of the banquet table, a German major in full uniform—tunic buttoned to the throat, Iron Cross First Class gleaming on his pocket—leveled a Walther P38 and fired two quick shots.
-One bullet clipped the plaster inches from Farran’s left ear. The second punched clean through the shoulder seam of his Denison smock, tearing the wool without touching the skin.
+One bullet clipped the plaster inches from Farran's left ear. The second punched clean through the shoulder seam of his Denison smock, tearing the wool without touching the skin.
 Farran didn't flinch. He raised his Colt .45 and fired three heavy, deliberate rounds down the length of the table. Silver platters clattered. Wine glasses shattered into red spray. The German major jerked backward, his pistol flying from his hand, and collapsed over a plush velvet armchair, his blood pooling into the Persian carpet.
 Outside, faintly muffled through the stone walls and the continuous roar of automatic weapons, the wild, shrieking notes of 'Highland Laddie' continued to peel across the grounds.
 Lees stepped back into the central rotunda, slamming a fresh thirty-two-round magazine into his Sten.
@@ -1575,7 +1575,7 @@ Riccomini flattened himself against the curve of the wall, looking back at Lees 
 
 RICCOMINI
 (shouting against gunfire)
-They’re dug in on the landing! We have to take the stairs now, or they’ll box us on the ground floor!
+They're dug in on the landing! We have to take the stairs now, or they'll box us on the ground floor!
 
 NARRATOR
 Farran unhooked a Mills bomb from his webbing.
@@ -1607,7 +1607,7 @@ Up! Up!
 NARRATOR
 A burst of tracer caught Riccomini squarely in the chest.
 The impact stopped the young lieutenant mid-stride, lifting him off his feet. His submachine gun clattered down the marble steps, its magazine spinning free. Riccomini fell backward, crashing down the flight, his eyes wide and vacant before his body came to rest against the newel post at the bottom—dead before he stopped rolling.
-Behind him, Corporal Bolden surged forward to clear the gunner, a primed Mills bomb raised in his right fist. A second German burst ripped through the dust, striking Bolden in the throat and face. He collapsed across Riccomini’s legs, the unpinned grenade slipping from his fingers.
+Behind him, Corporal Bolden surged forward to clear the gunner, a primed Mills bomb raised in his right fist. A second German burst ripped through the dust, striking Bolden in the throat and face. He collapsed across Riccomini's legs, the unpinned grenade slipping from his fingers.
 
 FARRAN
 (roaring)
@@ -1627,7 +1627,7 @@ Then the world shattered.
 It did not feel like being shot. It felt like being struck across the chest and back with an iron crowbar swung by an invisible giant.
 Five high-velocity German rounds tore into him in a split-second pattern.
 One bullet pierced his right bicep. Two punched through his chest, punching clean through his right lung. A fourth shattered his ribs, tearing through muscle and cartilage. The fifth struck him squarely in the back, grazing the vertebrae of his lower spine before exiting his flank.
-The breath was hammered from Lees’s lungs in a red, frothy gasp.
+The breath was hammered from Lees's lungs in a red, frothy gasp.
 His legs vanished. The connection between his brain and his boots was severed instantly, as if a master switch had been thrown. His knees gave way, and he tumbled backward down the marble staircase, his Sten gun clattering away into the dark.
 He hit the checkered floor at the base of the stairs, rolling onto his side.
 The pain hadn't arrived yet—the shock was too profound. But the sensation of drowning was immediate. Cold air was whistling through a sucking chest wound in his right ribs. Every attempt to inhale drew a mouthful of hot, metallic blood into his throat. He tried to push himself up with his elbows, but his lower half was dead weight—a frozen, numb anchor pinned to the floor.
@@ -1643,13 +1643,13 @@ RAMOS
 Tranquilo, Miguel. I have you. I have you.
 
 NARRATOR
-Ramos hauled Lees backward with brutal, terrifying strength, dragging the paralyzed officer across the glass-strewn floor toward the rear entrance of the villa. Lees’s useless boots trailed limp through the debris, leaving two dark streaks through the dust.
+Ramos hauled Lees backward with brutal, terrifying strength, dragging the paralyzed officer across the glass-strewn floor toward the rear entrance of the villa. Lees's useless boots trailed limp through the debris, leaving two dark streaks through the dust.
 A stick grenade tumbled down the stairs, its porcelain pull-cord bobbing in the air.
 Farran lunged forward, grabbed the wooden handle off the floor, and hurled it back up toward the landing in a single, fluid motion.
 BOOM.
 The blast blew out the remaining balusters on the first-floor gallery, showering the Germans in burning timber.
 Farran backed toward the shattered rear portal, his Colt .45 empty, slamming a fresh seven-round magazine into the grip with the heel of his hand.
-He looked down at the base of the stairs. Riccomini lay still. Bolden and Guscott were motionless in the spreading pools of dark blood. Hauck’s officers were barricaded behind reinforced iron doors on the second floor, firing through peepholes into the smoke.
+He looked down at the base of the stairs. Riccomini lay still. Bolden and Guscott were motionless in the spreading pools of dark blood. Hauck's officers were barricaded behind reinforced iron doors on the second floor, firing through peepholes into the smoke.
 The staircase was a slaughterhouse.
 Farran raised his brass whistle to his lips and blew three piercing, high-pitched blasts that cut through the thunder of the raid.
 Cease assault. Fall back.
@@ -1730,7 +1730,7 @@ They did not fight with commando caution; they fought with the savage, accumulat
 Soviet soldiers jumped onto the flatbeds of the trucks, swinging their rifle butts and driving captured German bayonets through canvas tarpaulins. Stick grenades were hurled through the windows of the schoolhouse billets, blowing out the shutters in showers of fire and plaster.
 Within eight minutes, the German reaction force ceased to exist as a military unit. Thirty-five German soldiers lay dead or dying along the blood-slicked mud of the road. The three Opel trucks were blazing torches, their tires popping like pistol shots in the intense heat. The survivors had broken, fleeing through back gardens and orchards into the open fields toward Scandiano.
 Pirogov stood in the center of the burning crossroads, his British battledress spattered with soot and blood. He raised his whistle, signaling his men to hold fire and strip the dead of ammunition drums and weapons.
-From the direction of Villa Rossi, three long, high-pitched whistle blasts wailed through the night air—Farran’s signal.
+From the direction of Villa Rossi, three long, high-pitched whistle blasts wailed through the night air—Farran's signal.
 Pirogov turned toward the south. Across the orchards, a towering pillar of black smoke and roaring yellow flame marked the end of Villa Calvi. From Villa Rossi, small-arms fire had subsided into erratic, sporadic popping.
 Tarasov ran up to Pirogov with an empty flare casing smoking in his hand.
 
@@ -1754,7 +1754,7 @@ Retreat into the Foothills
 NARRATOR
 March 27, 1945 – zero-three hundred to zero-six hundred hours. The Fields South of Botteghe d'Albinea.
 The rendezvous in the southern orchard was a scramble of mud, blood, and shouted orders in four tongues.
-From the burning shell of Villa Calvi, Buster Gurney’s men came sprinting through the fruit trees, their faces black, smocks singed by the blast that had disintegrated the corps exchange. From the crossroads, Pirogov’s Soviets fell back in bounding overwatch, covering their withdrawal with short, violent bursts from their Brens.
+From the burning shell of Villa Calvi, Buster Gurney's men came sprinting through the fruit trees, their faces black, smocks singed by the blast that had disintegrated the corps exchange. From the crossroads, Pirogov's Soviets fell back in bounding overwatch, covering their withdrawal with short, violent bursts from their Brens.
 Roy Farran stood by a broken stone wall at the edge of the vineyard, his Colt .45 drawn, counting heads as the men vaulted into the drainage ditch.
 
 GURNEY
@@ -1763,11 +1763,11 @@ Where is Jimmy?
 
 FARRAN
 (flat, stripped of all emotion)
-Jimmy’s dead. Bolden and Guscott too. They're on the stairs.
+Jimmy's dead. Bolden and Guscott too. They're on the stairs.
 
 GURNEY
 (wild eyes)
-Sir, we can’t leave them—
+Sir, we can't leave them—
 
 FARRAN
 (brutal clarity)
@@ -1782,20 +1782,20 @@ Move the men! Double time!
 NARRATOR
 Through the ditch came Rafael Ramos.
 The broad-shouldered Spaniard was bent nearly double under an agonizing weight. Slung across his shoulders in a fireman's carry was Michael Lees.
-Lees’s face was the color of skimmed milk, his lips smeared with dark, frothy crimson. His arms dangled limp against Ramos’s chest. Every time Ramos took a heavy, lunging stride through the knee-deep clay mud, a sickening, wet whistling sound tore from the sucking puncture wound beneath Lees’s right shoulder blade.
+Lees's face was the color of skimmed milk, his lips smeared with dark, frothy crimson. His arms dangled limp against Ramos's chest. Every time Ramos took a heavy, lunging stride through the knee-deep clay mud, a sickening, wet whistling sound tore from the sucking puncture wound beneath Lees's right shoulder blade.
 Farran dropped to one knee beside them.
-Lees’s eyes fluttered open. His gaze was glassy, unfocused, locked onto Farran’s sand-colored beret. He tried to speak, but only a bubble of dark arterial blood welled over his lower lip.
+Lees's eyes fluttered open. His gaze was glassy, unfocused, locked onto Farran's sand-colored beret. He tried to speak, but only a bubble of dark arterial blood welled over his lower lip.
 
 LEES
 (whispering)
-My legs, Roy... I can’t... I can’t feel my boots.
+My legs, Roy... I can't... I can't feel my boots.
 
 FARRAN
-Don't talk, Michael. Save your wind. We’re getting you out.
+Don't talk, Michael. Save your wind. We're getting you out.
 
 RAMOS
 (grunting through clenched teeth)
-Está jodido, Major. The bullet took him in the spine. If we don’t get him up the mountain to a doctor, his lung will drown him before dawn.
+Está jodido, Major. The bullet took him in the spine. If we don't get him up the mountain to a doctor, his lung will drown him before dawn.
 
 NARRATOR
 Across the open fields to the north, two piercing beams of white light cut through the drizzle.
@@ -1816,7 +1816,7 @@ BALERDI
 Give them fifty rounds and fall back!
 
 NARRATOR
-The Basque commando took aim at the flickering glare of the lead armored car’s headlights, six hundred yards away down the road. He squeezed the trigger. The Bren barked three ten-round bursts, the heavy .303 armor-piercing slugs striking the vehicle's sloped front plate with sharp, metallic clangs.
+The Basque commando took aim at the flickering glare of the lead armored car's headlights, six hundred yards away down the road. He squeezed the trigger. The Bren barked three ten-round bursts, the heavy .303 armor-piercing slugs striking the vehicle's sloped front plate with sharp, metallic clangs.
 The headlights shattered. The German gunner panicked, swinging the heavy turret away from the orchard to hose the road with his coaxial machine gun.
 
 BALERDI
@@ -1828,7 +1828,7 @@ Balerdi hauled the hot Bren from the wall and sprinted through the vineyard rows
 For three agonizing hours, the retreat was a nightmare of sheer physical endurance.
 One hundred and sixty-seven men dragged themselves across three miles of freshly ploughed, waterlogged agricultural fields. The Emilian clay clung to their boots in massive, five-pound clumps, turning every stride into a test of will. There was no cover. The landscape was dead flat—an open kill zone bordered only by low ditches and wire-strung vines.
 Ramos refused to let Lees down.
-When the Spaniard’s thighs began to cramp, Balerdi moved under Lees’s left arm, sharing the weight. When Balerdi stumbled into an irrigation canal, two Italian boys from the Gufo Nero grabbed Lees’s belt, half-carrying, half-dragging the paralyzed British captain through the freezing, waist-deep drainage water.
+When the Spaniard's thighs began to cramp, Balerdi moved under Lees's left arm, sharing the weight. When Balerdi stumbled into an irrigation canal, two Italian boys from the Gufo Nero grabbed Lees's belt, half-carrying, half-dragging the paralyzed British captain through the freezing, waist-deep drainage water.
 Lees drifted between agonizing consciousness and the dark. Every footstep sent an electric jolt of white-hot agony through his severed ribs, but his lower half remained completely absent—a phantom weight trailing through the slush.
 Behind them, near the village of Albinea, the sky was glowing dull orange. Both villas were burning furiously, the smoke column flattening against the low clouds like an anvil. The German armored cars were trapped on the macadam roads, unable to navigate the deep, flooded agricultural ditches that crisscrossed the valley floor.
 By five in the morning, the flat ground began to buckle.
@@ -1848,7 +1848,7 @@ Farran pulled his woollen cap from his head, looking back down into the misty va
 
 FARRAN
 (quietly)
-He’s alive, Rafael. Now we have to keep him that way.
+He's alive, Rafael. Now we have to keep him that way.
 
 
 
@@ -1863,15 +1863,15 @@ The morning air smelled of wet soot, burned insulation, and cold calcified ash.
 Villa Calvi was a hollow stone tooth. The roof had collapsed inward during the pre-dawn hours, sending two floors of ornate timber crashing down into the cellar. The high-voltage Siemens switchboards and the telephone exchange were reduced to blackened heaps of twisted copper and slag. Out in the gardens, the three Mercedes radio vans were charred iron skeletons, their pneumatic mast antennas bent double like broken reeds.
 At Villa Rossi, the facade was pocked by thousands of bullet gouges, the white neoclassical stucco sprayed with jagged gray craters. The great double doors were gone, their splintered remnants scattered across the foyer where pools of dark, congealed blood had begun to dry on the checkered marble floor.
 General der Gebirgstruppe Friedrich-Wilhelm Hauck stepped through the shattered portal, his heavy riding boots crunching over pulverized glass and spent brass cartridges.
-Hauck was fifty-eight years old, a career mountain troops officer with an iron-grey mustache, a severe, aristocratic face, and the Knight’s Cross pinned at the collar of his high-necked field tunic. He had survived the retreat from the Caucasus and the meatgrinder of the Gothic Line.
+Hauck was fifty-eight years old, a career mountain troops officer with an iron-grey mustache, a severe, aristocratic face, and the Knight's Cross pinned at the collar of his high-necked field tunic. He had survived the retreat from the Caucasus and the meatgrinder of the Gothic Line.
 He had not slept. During the attack, he had been trapped in the upper apartments of the west wing, barricaded behind an iron security door while submachine-gun fire chewed through the floorboards beneath his feet.
 Behind him walked a major of the Feldgendarmerie and a plainclothes Sicherheitsdienst officer in a black leather trench coat, holding a leather clipboard.
-Out on the gravel driveway, fifty yards from the entrance, thirty Italian civilians from Botteghe—farm hands, estate gardeners, the village baker, and the parish priest—were kneeling in the cold gravel, their hands clasped behind their heads. Flanking them stood a squad of young fascist militiamen from the Brigate Nere, their submachine guns aimed at the civilians’ backs.
+Out on the gravel driveway, fifty yards from the entrance, thirty Italian civilians from Botteghe—farm hands, estate gardeners, the village baker, and the parish priest—were kneeling in the cold gravel, their hands clasped behind their heads. Flanking them stood a squad of young fascist militiamen from the Brigate Nere, their submachine guns aimed at the civilians' backs.
 The SD officer tapped his pencil against the clipboard.
 
 SD OFFICER
 (clipped, venomous)
-The local population aided them, Herr General. They cut the telephone lines three miles north. They guided the attackers through the vineyard ditches. Field Marshal Kesselring’s directive of July 1944 is explicit—a ten-for-one reprisal against the nearest civilian settlement. Thirty hostages are assembled. We can shoot them against the cemetery wall before noon.
+The local population aided them, Herr General. They cut the telephone lines three miles north. They guided the attackers through the vineyard ditches. Field Marshal Kesselring's directive of July 1944 is explicit—a ten-for-one reprisal against the nearest civilian settlement. Thirty hostages are assembled. We can shoot them against the cemetery wall before noon.
 
 NARRATOR
 Hauck did not answer. He walked past the kneeling villagers, who were weeping softly in the morning mist, and stopped at the edge of the manicured front lawn.
@@ -1879,8 +1879,8 @@ There, laid side by side on three coarse canvas groundsheets, lay three bodies.
 They were the three men left behind on the staircase of Villa Rossi—Lieutenant James Riccomini, Corporal Bolden, and Sergeant Sidney Guscott.
 The German medical orderlies had carried them down from the rotunda and stripped open their smocks to examine their wounds.
 Hauck knelt down on one knee in the wet grass.
-He looked at Riccomini’s face. The British lieutenant’s eyes were closed, his skin the color of marble, his hands stiffened around phantom grips. On the breast of his camouflage Denison smock, pinned through the thick canvas, was the embroidered parachute qualification wing. On his collar rested the fabric rank pips of a British Army subaltern.
-Hauck reached out with a gloved hand and lifted the metal identity disc dangling from the dead officer’s neck by a green cord—RICCOMINI, J. – 265882 – CE – SAS.
+He looked at Riccomini's face. The British lieutenant's eyes were closed, his skin the color of marble, his hands stiffened around phantom grips. On the breast of his camouflage Denison smock, pinned through the thick canvas, was the embroidered parachute qualification wing. On his collar rested the fabric rank pips of a British Army subaltern.
+Hauck reached out with a gloved hand and lifted the metal identity disc dangling from the dead officer's neck by a green cord—RICCOMINI, J. – 265882 – CE – SAS.
 Hauck dropped the dog tag, then stood and inspected the two soldiers beside him. Both wore British Army service dress trousers, standard commando-cleated airborne boots, and web belts bearing British War Department broad-arrow stamps. In their pockets, the search team had found no partisan armbands, no Communist red stars, and no civilian identity cards—only regular British Army paybooks, field dressings, and Player's cigarettes.
 Hauck turned to the Feldgendarmerie major.
 
@@ -1946,7 +1946,7 @@ Notify the parish priest in Albinea. These three men are to be placed in wooden 
 NARRATOR
 Hauck brought his gloved hand up to the brim of his peaked cap, saluting the dead British lieutenant.
 Across the lawn, forty miles away to the south, the high, snow-capped tooth of Monte Cusna vanished into the gathering rain clouds.
-David Kirkpatrick’s bagpipes had done their work. The people of Albinea were alive.
+David Kirkpatrick's bagpipes had done their work. The people of Albinea were alive.
 
 
 
@@ -1958,18 +1958,18 @@ Fire at Civago
 NARRATOR
 March 30, 1945 – eleven hundred hours. The Upper Secchia Valley, Civago.
 The people of Albinea had been spared, but the mountain paid the debt.
-General Hauck’s signals might have been severed at Villa Calvi, but the telegraph lines of the German 14th Army ran deep into the valley bastions. By the morning of March 29, the German command understood with absolute clarity where the strike force had come from. The raiders had not vanished into thin air; their bootprints and mule tracks led straight back into the rugged folds of the upper Secchia, into the redoubt around Monte Cusna.
+General Hauck's signals might have been severed at Villa Calvi, but the telegraph lines of the German 14th Army ran deep into the valley bastions. By the morning of March 29, the German command understood with absolute clarity where the strike force had come from. The raiders had not vanished into thin air; their bootprints and mule tracks led straight back into the rugged folds of the upper Secchia, into the redoubt around Monte Cusna.
 The retribution fell not as a summary firing squad on a manicured lawn, but as an iron fist—a full-scale rastrellamento.
 Three battalions of the German 148th Infantry Division, reinforced by two hundred fanatical blackshirts of the fascist Brigate Nere out of Reggio and Modena, surged up the mountain corridors. They came with armored halftracks where the roads permitted, then on foot with pack mules, mountain howitzers, and flamethrowers.
 Civago, perched high on the forested shoulder of the valley, was their primary objective.
-For months, Civago had been the beating heart of the resistance. Its stone houses had sheltered Lees’s radio operators, housed the clandestine partisan hospital, fed Pirogov’s Soviets, and hidden the supply parachutes dropped by the RAF.
+For months, Civago had been the beating heart of the resistance. Its stone houses had sheltered Lees's radio operators, housed the clandestine partisan hospital, fed Pirogov's Soviets, and hidden the supply parachutes dropped by the RAF.
 Now, black oily smoke rolled down the gorge, choking the smell of melting snow with the stink of burning chestnut timber, livestock, and petroleum.
 From a ridge half a mile above the village, Roy Farran crouched behind an outcrop of slate, watching through his binoculars as Civago was systematically consumed by fire.
 Through the lenses, the tragedy unfolded in brutal, clinical strokes.
 German mountain troops in green windbreakers and peaked caps moved from croft to croft. They didn't bother to search the houses; they kicked in the heavy oak doors, tossed incendiary grenades into the dry haylofts, and moved to the next. Barns erupted into sheets of roaring orange flame. Cattle and sheep, trapped in their stone pens, shrieked as the roofs collapsed inward under showers of sparks.
 In the center of the village, by the parish fountain, fascist militiamen dragged an elderly farmer and his son out into the dirt.
-Farran watched the boy’s father fall to his knees, pleading, waving his arms toward his burning house. A fascist officer drew a Beretta pistol, pressed the muzzle against the old man’s ear, and fired. The farmer crumpled face-down into the melting slush. The son turned to run, but a burst from an Italian submachine gun stitched him across the shoulders, dropping him across the low stone wall of the pigsty.
-Farran’s knuckles turned white around the binoculars. His teeth ground together with a harsh, audible crunch.
+Farran watched the boy's father fall to his knees, pleading, waving his arms toward his burning house. A fascist officer drew a Beretta pistol, pressed the muzzle against the old man's ear, and fired. The farmer crumpled face-down into the melting slush. The son turned to run, but a burst from an Italian submachine gun stitched him across the shoulders, dropping him across the low stone wall of the pigsty.
+Farran's knuckles turned white around the binoculars. His teeth ground together with a harsh, audible crunch.
 Beside him, Ermanno Gorrieri—'Claudio'—the political and military organizer of the Catholic Fiamme Verdi in the mountain sector, lay with his fist buried in the damp scree, tears cutting pale tracks through the soot on his cheeks.
 
 GORRIERI
@@ -1978,7 +1978,7 @@ They will burn every roof between here and Febbio. They know the English are in 
 
 FARRAN
 (deadly quiet)
-They have three battalions, Claudio. If we meet them in the valley with thirty SAS and your boys, they will encircle us on the slopes and grind us into the shale. We don’t fight on their terms.
+They have three battalions, Claudio. If we meet them in the valley with thirty SAS and your boys, they will encircle us on the slopes and grind us into the shale. We don't fight on their terms.
 
 NARRATOR
 Behind them, in a narrow ravine hidden by scrub beech, Rafael Ramos and two Italian partisans stood beside a wooden cart with iron-rimmed wheels.
@@ -1986,7 +1986,7 @@ Lying in the cart on a bed of blood-soaked straw was Michael Lees.
 Glauco Monducci, also wounded on the staircase of Villa Rossi, had already been carried by his own Black Owls to a hidden shelter further up the valley toward Secchia. But the retreat from Albinea and the three days of damp, freezing hiding had brought Lees to the absolute brink of death. His skin was gray, glistening with the cold, clammy sweat of septic shock. His lips were cracked and stained with dried brown crusts of coughed-up blood. His chest rose and fell in ragged, shallow spasms that sounded like a bellows whistling through a wet sponge.
 Every jolt of the cart as they hauled it over the mountain trail wracked his broken frame with agony, but his legs remained completely motionless—dead wood dragged through the straw.
 Beside the cart knelt Dr. Roberto Carità, the resistance surgeon. He was forty years old, a former Florentine physician who had fled into the mountains after refusing to take the fascist loyalty oath. His trench coat was stiff with grease and dried plasma, his fingers red and swollen from the cold.
-Carità pressed an ear against Lees’s right ribs, listening to the horrifying wet bubbling inside the pleural cavity.
+Carità pressed an ear against Lees's right ribs, listening to the horrifying wet bubbling inside the pleural cavity.
 
 CARITA
 (clinical urgency)
@@ -2003,14 +2003,14 @@ CARITA
 Operate here? In the snow? In the mortar fire? I have no clinic, Major. The fascists just burned my hospital in Civago to the ground. Every ampoule of morphine, every clean compress, every surgical clamp—gone.
 
 NARRATOR
-Farran stepped to the cart, looking down at Lees. Lees’s eyes opened a sliver. Through the glaze of fever, the SOE captain recognized the silhouette of Farran’s sand-colored beret.
+Farran stepped to the cart, looking down at Lees. Lees's eyes opened a sliver. Through the glaze of fever, the SOE captain recognized the silhouette of Farran's sand-colored beret.
 
 LEES
 (whispering, chest heaving)
 Roy... Don't... don't let them... take me.
 
 NARRATOR
-Farran reached down and gripped Lees’s cold, lifeless hand in both of his own.
+Farran reached down and gripped Lees's cold, lifeless hand in both of his own.
 
 FARRAN
 Nobody is taking you, Michael.
@@ -2023,14 +2023,14 @@ Where is the closest place with a roof and four stone walls that the Germans hav
 
 GORRIERI
 (pointing to ice cliffs)
-The shepherd’s cellar at Case Balocchi. It is cut deep into the bedrock, beneath an abandoned sheep barn. It has no chimney. If we light a candle, the German spotters will never see the smoke.
+The shepherd's cellar at Case Balocchi. It is cut deep into the bedrock, beneath an abandoned sheep barn. It has no chimney. If we light a candle, the German spotters will never see the smoke.
 
 NARRATOR
 Farran turned back to the doctor.
 
 FARRAN
 (commanding)
-Take him up. Save his life, Doctor. I will take Three Squadron and Pirogov’s Russians and draw the 148th into the ravines.
+Take him up. Save his life, Doctor. I will take Three Squadron and Pirogov's Russians and draw the 148th into the ravines.
 
 NARRATOR
 Ramos and the partisans leaned into the cart, hauling the wooden wheels through the rocky scree, heading up into the freezing white fog of the high peaks, while below them, the ancient stone roofs of Civago caved in, one by one, beneath a roaring sea of fascist fire.
@@ -2044,7 +2044,7 @@ Surgery by Grappa
 
 NARRATOR
 April 2, 1945 – twenty-one thirty hours. The Cellar at Case Balocchi, Altitude 3,600 Feet.
-The cellar was little more than a slit cut into the mountain’s limestone ribs, roofed with rough chestnut beams and buried beneath three feet of dirt and sheep manure.
+The cellar was little more than a slit cut into the mountain's limestone ribs, roofed with rough chestnut beams and buried beneath three feet of dirt and sheep manure.
 It was pitch-black save for the flickering flame of two tallow candles stuck to the lid of an empty grease barrel. The air was frigid, thick with the stench of damp earth, dried dung, gangrene, and the sharp, nose-stinging fumes of 120-proof mountain grappa.
 Outside, the mountain wind howled through the bare beeches, punctuated at irregular intervals by the distant, rhythmic thump-thump of German mortars searching the ravines around Febbio.
 Michael Lees lay face-down on a rough plank table that had been scrubbed with lye and scalding water. His battledress jacket had been sliced away with a commando dagger. His back and right side were a landscape of black-and-purple hematomas, swollen flesh, and dried arterial crust.
@@ -2061,14 +2061,14 @@ CARITA
 Nothing. The Brigate Nere burned the medical chests in Civago. I have half a bottle of ether, but if I drop ether in this enclosed cellar, the candle flame will ignite the vapors and burn us all alive. We operate cold.
 
 NARRATOR
-Carità looked down at Lees, touching the British officer’s temple. Lees’s skin was burning with fever, his eyes half-open, pupils dilated into black pools.
+Carità looked down at Lees, touching the British officer's temple. Lees's skin was burning with fever, his eyes half-open, pupils dilated into black pools.
 
 CARITA
 (softly in English)
 Captain. Michael. Can you hear me?
 
 NARRATOR
-Lees’s head turned half an inch on the wood. His jaw worked, his throat clicking before a hoarse whisper scraped past his cracked lips.
+Lees's head turned half an inch on the wood. His jaw worked, his throat clicking before a hoarse whisper scraped past his cracked lips.
 
 LEES
 (hoarse whisper)
@@ -2086,36 +2086,36 @@ You cannot scream. A German mountain patrol passed five hundred meters below thi
 
 NARRATOR
 Lees nodded—a barely perceptible dip of his chin.
-Ramos stepped to the head of the table. He reached into his webbing, unbuckled a thick British Army leather utility belt, and wiped it clean against his trousers. He rolled the leather into a tight, two-inch-thick cylinder and slid it between Lees’s front teeth.
+Ramos stepped to the head of the table. He reached into his webbing, unbuckled a thick British Army leather utility belt, and wiped it clean against his trousers. He rolled the leather into a tight, two-inch-thick cylinder and slid it between Lees's front teeth.
 
 RAMOS
 (whispering in Spanish)
 Bite, Miguel. Bite until your teeth break, but do not open your mouth.
 
 NARRATOR
-On the other side of the table, an Italian partisan named Corrado threw his entire body weight across Lees’s paralyzed thighs, anchoring the dead limbs to the wood.
+On the other side of the table, an Italian partisan named Corrado threw his entire body weight across Lees's paralyzed thighs, anchoring the dead limbs to the wood.
 Carità picked up the straight scalpel. He dipped his fingers in the grappa, rubbed the raw incision site, and positioned the steel blade an inch below the entry wound.
 He took a breath. Then he drove the blade through the intercostal muscle.
-Lees’s entire upper body arched with violent, spasmodic force.
+Lees's entire upper body arched with violent, spasmodic force.
 A muffled, animal grunt tore against the leather gag in his mouth. The veins in his neck surged outward, thick as hemp ropes, pulsing violently against the pale skin. His fingernails dug into the rough grain of the oak table, clawing at the wood until splinters drove under his nails.
-Ramos leaned his full two hundred pounds onto Lees’s shoulder blades.
+Ramos leaned his full two hundred pounds onto Lees's shoulder blades.
 
 RAMOS
 ¡Quédate quieto! Hold, Michael! Hold!
 
 NARRATOR
-A dark, foul-smelling geyser of black congealed blood, pus, and trapped pleural air erupted from the wound, spattering Carità’s apron and hissing onto the candle flame. The stench of internal corruption filled the cellar, thick and suffocating.
+A dark, foul-smelling geyser of black congealed blood, pus, and trapped pleural air erupted from the wound, spattering Carità's apron and hissing onto the candle flame. The stench of internal corruption filled the cellar, thick and suffocating.
 Carità did not flinch. His fingers moved with terrifying speed.
 He slid the blunt probe into the incision, feeling through the ruined tissue between the ribs. His brow furrowed as the metal clicked against bone.
 Carità laid down the probe, took up the clamp, and drove the blunt jaws deep into the wound canal, feeling for the loose bone splinter that had pierced the lung wall.
-Lees’s body shuddered uncontrollably. A high, strangled whistle tore from his nose as he clamped his jaws onto the leather belt so hard that the hide groaned under the pressure. Blood trickled from his gums, mixing with the sweat running down his chin. His vision went white, then grey, then plunged into a roaring crimson tunnel of pure, unadulterated agony.
+Lees's body shuddered uncontrollably. A high, strangled whistle tore from his nose as he clamped his jaws onto the leather belt so hard that the hide groaned under the pressure. Blood trickled from his gums, mixing with the sweat running down his chin. His vision went white, then grey, then plunged into a roaring crimson tunnel of pure, unadulterated agony.
 Carità twisted the forceps. The jaws bit into the splintered rib.
 With a slow, agonizing pull, the doctor drew the steel back through the muscle wall.
 Between the teeth of the clamp was a jagged, inch-long shard of yellow bone, its tip stained black with necrotic lung fluid. Behind it came another rush of dark venous blood.
 Carità dropped the bone shard into an empty tin can. It landed with a sharp, hollow tink.
-Without pausing, Carità took the demijohn of grappa, tilted the spout directly over the open, gaping hole in Lees’s chest, and poured.
+Without pausing, Carità took the demijohn of grappa, tilted the spout directly over the open, gaping hole in Lees's chest, and poured.
 The raw alcohol washed straight into the pleural cavity.
-Lees’s back bowed off the table with such terrifying violence that Corrado was nearly thrown from his legs. Lees’s eyes rolled back until only the whites showed beneath his fluttering lids. The agony was beyond human comprehension—a white-hot branding iron plunged directly into the lining of his chest wall.
+Lees's back bowed off the table with such terrifying violence that Corrado was nearly thrown from his legs. Lees's eyes rolled back until only the whites showed beneath his fluttering lids. The agony was beyond human comprehension—a white-hot branding iron plunged directly into the lining of his chest wall.
 His jaw locked. His knuckles went white, then bloodless.
 Then, his body went limp. His forehead slammed down onto the oak planking with a dull thud.
 The leather belt dropped from his slack mouth.
@@ -2125,16 +2125,16 @@ RAMOS
 Is he dead?
 
 NARRATOR
-Carità dropped the forceps, pressed two fingers against Lees’s carotid artery, and waited.
+Carità dropped the forceps, pressed two fingers against Lees's carotid artery, and waited.
 Five seconds. Ten seconds.
-Beneath the doctor’s fingertips, a faint, thready pulse fluttered—rapid, weak, but stubborn as mountain oak.
+Beneath the doctor's fingertips, a faint, thready pulse fluttered—rapid, weak, but stubborn as mountain oak.
 Carità let out a long, shuddering breath through his nose. He picked up the straight needle and the coarse fishing gut from the parachute silk.
 
 CARITA
 He is alive. The lung has space to expand. But this cellar is a tomb. The dampness will breed pneumonia in forty-eight hours. If we leave him here, he dies.
 
 NARRATOR
-Ramos wiped the froth of blood from Lees’s slack lips.
+Ramos wiped the froth of blood from Lees's slack lips.
 
 RAMOS
 Where do we take him? The 148th Division has sealed every road between here and Reggio.
@@ -2164,13 +2164,13 @@ The stretcher was a crude engine of survival.
 Two stripped pine saplings, hacked down with commando axes, served as the poles. Across them, the partisans had stretched green canvas supply bags, lashed tight with bronze telephone wire and lengths of white parachute silk.
 Michael Lees was strapped to the wood like a corpse prepared for burial. Thick woollen horse blankets were pinned around his body with safety pins, and over the blankets lay a waterproof rubberized groundsheet. Leather utility straps were cinched across his chest, thighs, and shins to keep his limp, paralyzed lower body from sliding off the frame when the gradient tilted toward vertical.
 Every twenty minutes, the eight Italian bearers rotated.
-Four men held the ends of the poles, their shoulders padded with folded burlap sacks. Behind them walked four relief bearers, ready to step in when a man’s thighs seized or his boots lost purchase on the ice. At the point walked Corrado, testing the snow bridges with an iron-tipped alpenstock; bringing up the rear was Rafael Ramos, a captured German Mauser carbine slung across his chest.
+Four men held the ends of the poles, their shoulders padded with folded burlap sacks. Behind them walked four relief bearers, ready to step in when a man's thighs seized or his boots lost purchase on the ice. At the point walked Corrado, testing the snow bridges with an iron-tipped alpenstock; bringing up the rear was Rafael Ramos, a captured German Mauser carbine slung across his chest.
 They did not speak. In the thin, freezing air near the six-thousand-foot crest, sound carried for miles across the canyons.
 The wind off the Tyrrhenian Sea slammed into the northern face of the ridge with locomotive force, whipping spindrift across the trail until the world dissolved into a blinding, white-and-grey void. The trail was barely fourteen inches wide—a treacherous sheep ledge cut into the vertical shale of the mountain wall. To their right rose a sheer face of black limestone glazed in sheet ice; to their left, the slope dropped twelve hundred feet into the rocky abyss of the Ozola gorge.
 Crunch. Slide. Crunch.
 A bearer slipped.
 His right boot punched through a hollow snow crust, and his knee struck the slate with a sharp crack. The stretcher pitched violently to port, dangling out over the precipice.
-Lees’s eyes tore open. The sudden shift tore at the freshly stitched wound beneath his shoulder blade. A strangled, breathless gasp ripped from his throat, followed by a dark trickle of blood from the corner of his mouth.
+Lees's eyes tore open. The sudden shift tore at the freshly stitched wound beneath his shoulder blade. A strangled, breathless gasp ripped from his throat, followed by a dark trickle of blood from the corner of his mouth.
 Ramos lunged forward, throwing his weight against the uphill pole, his iron-nailed boots digging into the scree until sparks flew from the flint. He caught the falling bearer by the collar of his sheepskin vest and hauled him backward.
 
 RAMOS
@@ -2184,10 +2184,10 @@ He looked up through frosted eyelashes at Ramos.
 
 LEES
 (wheezing)
-Rafael... Leave me on the pass. You’ll... you’ll lose the men.
+Rafael... Leave me on the pass. You'll... you'll lose the men.
 
 NARRATOR
-Ramos adjusted the straps across Lees’s chest, pulling the buckle so tight it pressed the blankets into the bandages.
+Ramos adjusted the straps across Lees's chest, pulling the buckle so tight it pressed the blankets into the bandages.
 
 RAMOS
 (growling in Spanish)
@@ -2202,7 +2202,7 @@ Two hundred yards below them, on the Tuscan side of the saddle, sat a German obs
 Two German soldiers in white snow-smocks stood outside the shelter, stamping their boots against the frost, blowing into their gloved hands.
 For forty-five minutes, the eight Italians, the Spaniard, and the dying British captain lay motionless in the snow.
 Lees drifted in and out of delirium. His mind wandered back to the ballroom in Florence, then to the smell of burning chestnuts in the Secchia, then to the face of James Riccomini lying dead at the foot of the grand staircase in Villa Rossi. He began to mumble—incoherent fragments of English and Cairo slang.
-Ramos leaned down and pressed a heavy, woollen mitten firmly over Lees’s mouth and nose, suffocating the sounds in the captain’s throat until the German sentries below turned and ducked back inside their dugout to escape the sharpening sleet.
+Ramos leaned down and pressed a heavy, woollen mitten firmly over Lees's mouth and nose, suffocating the sounds in the captain's throat until the German sentries below turned and ducked back inside their dugout to escape the sharpening sleet.
 Corrado whispered the command to move.
 They rose in absolute silence. Avoiding the track, the bearers hauled the litter straight down the southern face of the pass, sliding on their heels through five hundred yards of loose shale and melting slush, using their bodies as human brakes until they crossed beneath the lip of the ridge.
 They had crossed the spine. They were behind the German front line, dropping into the Allied sector.
@@ -2229,7 +2229,7 @@ Allies! British officer! Special Air Service! Medic! Call a medic!
 NARRATOR
 The American sergeant stepped out from behind the sandbags, his M1 Garand held at the low ready. He looked at the bearded, soot-blackened Spaniard, at the barefoot Italian partisans, and then down at the wooden litter.
 The sergeant knelt beside the poles. He flipped back the blood-crusted groundsheet.
-Lees lay motionless, his eyes sunken into grey hollows, his pulse a fluttering thread against his neck, his battledress tunic torn open to reveal Dr. Carità’s crude, black fishing-gut sutures holding together a chest wall crusted with dried blood and pus. On the lapel of the torn uniform, the small bronze crown and star of a British captain were still pinned.
+Lees lay motionless, his eyes sunken into grey hollows, his pulse a fluttering thread against his neck, his battledress tunic torn open to reveal Dr. Carità's crude, black fishing-gut sutures holding together a chest wall crusted with dried blood and pus. On the lapel of the torn uniform, the small bronze crown and star of a British captain were still pinned.
 
 AMERICAN SERGEANT
 (eyes wide)
@@ -2270,14 +2270,14 @@ Sergeant Buster Gurney, a former Royal Artillery gunner who had traded his tunic
 
 GALLAGHER
 (yelling)
-Here’s the cradle!
+Here's the cradle!
 
 NARRATOR
 They wrenched open the steel locking bands. Inside, packed in straw, cosmoline, and grease-paper, lay the dismantled components of a brand-new American 75-millimeter M1A1 pack howitzer.
 It was a marvel of ordnance engineering—designed to be broken down into six mule-loads or air-dropped in sections, then locked together with heavy steel pins and interrupted screw-threads.
 For two hours, in the dripping dark beneath a canopy of hazel trees, Gurney and Gallagher worked like shipyard mechanics.
-By the dim red beam of Gallagher’s torch, they wiped away the heavy shipping cosmoline with kerosene rags. Six partisans heaved the split-trail carriage out of its crate, sinking knee-deep into the clay as they positioned the trail legs.
-The heavy recoil mechanism slid home with a clean, hydraulic clonk. Four Soviet soldiers—broad-backed men from Pirogov’s company—muscled the four-foot-long rifled barrel onto the cradle, guiding the splines into place until Gurney slammed the locking key into the breech ring with a heavy blow from his mallet.
+By the dim red beam of Gallagher's torch, they wiped away the heavy shipping cosmoline with kerosene rags. Six partisans heaved the split-trail carriage out of its crate, sinking knee-deep into the clay as they positioned the trail legs.
+The heavy recoil mechanism slid home with a clean, hydraulic clonk. Four Soviet soldiers—broad-backed men from Pirogov's company—muscled the four-foot-long rifled barrel onto the cradle, guiding the splines into place until Gurney slammed the locking key into the breech ring with a heavy blow from his mallet.
 Next came the stamped-steel artillery wheels and the low gun shield.
 Lastly, the ammunition containers were cracked open. Inside were sixty rounds of 75mm high-explosive shells, their brass casings gleaming dull gold in the red light, alongside cardboard tubes packed with cordite propellant charges.
 By three in the morning, the gun was whole.
@@ -2297,7 +2297,7 @@ What did he say?
 
 GALLAGHER
 (grinning)
-He says the gun’s exhausted, sir. Says it’s Molto Stanco.
+He says the gun's exhausted, sir. Says it's Molto Stanco.
 
 NARRATOR
 Farran looked at the low-profile howitzer, its barrel spattered with Emilian clay, sitting in the middle of an occupied mountain range fifty miles behind the German front lines.
@@ -2316,7 +2316,7 @@ Get her zeroed on the crest of Valestra by dawn. Pirogov reports that two compan
 
 GURNEY
 (crisp salute)
-We’ll give 'em seventy-five millimeters of high explosive straight down their throats, Major.
+We'll give 'em seventy-five millimeters of high explosive straight down their throats, Major.
 
 NARRATOR
 Across the valley, the high peak of Monte Valestra was silhouetted by the first pale glow of dawn. The Allied offensive was hours away, and the pirates of Tombola now had their own field gun.
@@ -2337,7 +2337,7 @@ Many of them had never faced sustained artillery fire. As the mortar bursts crep
 
 GORRIERI
 (roaring)
-Tenete la linea! Hold the ridge, or they’ll herd us into the ravines!
+Tenete la linea! Hold the ridge, or they'll herd us into the ravines!
 
 NARRATOR
 Through the smoke on the military crest strode Roy Farran, his sand-colored beret pulled low, a pair of Carl Zeiss field glasses raised to his eyes.
@@ -2381,7 +2381,7 @@ Load HE! Keep it coming, Gallagher!
 NARRATOR
 Molto Stanco fired six rounds in ninety seconds.
 The high-explosive shells walked through the vineyard terraces, detonating against German machine-gun nests and showering the advancing infantry in lethal rock fragments.
-But down in the scrub, a German Hauptmann rallied a company of veteran mountain infantry. Using the dead ground of a deep erosion gully, seventy German riflemen crawled up the western shoulder of the ridge, bypassing the howitzer’s field of fire.
+But down in the scrub, a German Hauptmann rallied a company of veteran mountain infantry. Using the dead ground of a deep erosion gully, seventy German riflemen crawled up the western shoulder of the ridge, bypassing the howitzer's field of fire.
 At seventy yards, they rose and launched a counter-strike, hosing the partisan rifle pits with sustained MP40 fire and hurling potato-masher stick grenades.
 The Italian left flank shattered. Partisans fell back through the trees, screaming for ammunition. The Germans were thirty yards from rolling up the ridge and taking Molto Stanco from the rear.
 
@@ -2407,7 +2407,7 @@ Farran walked down the slope through the scorched brush, his boots crunching on 
 Across the terraces and inside the gully lay fifty-one German dead. Abandoned mortars, three MG42s, and dozens of rifles lay scattered through the weeds.
 Buster Gurney leaned against the warm gun shield of Molto Stanco, wiping sweat from his red-rimmed eyes, his hand resting on the breech handle.
 To the south, thirty miles away across the jagged blue waves of the Apennines, the entire horizon began to rumble with an apocalyptic, uninterrupted thunder.
-General Mark Clark’s Operation Grapeshot had begun.
+General Mark Clark's Operation Grapeshot had begun.
 The British Eighth Army had breached the Senio River on the Adriatic plains; the US Fifth Army was crashing through the mountain passes south of Bologna. The Gothic Line was broken. The entire German 14th Army was beginning to disintegrate, funneling fifty thousand retreating troops into the narrow gorge of Highway 12.
 Farran turned to Pirogov and Balerdi.
 
@@ -2453,7 +2453,7 @@ Gallagher, fire!
 
 NARRATOR
 CRACK-BOOM.
-The howitzer’s muzzle blast roared off the cliff wall, blowing dead leaves across the rocks. The 75mm shell plunged downward at eight hundred feet per second, its trajectory nearly vertical.
+The howitzer's muzzle blast roared off the cliff wall, blowing dead leaves across the rocks. The 75mm shell plunged downward at eight hundred feet per second, its trajectory nearly vertical.
 A heartbeat later, the stone bridge below erupted.
 The high-explosive round struck the engine block of the lead Opel truck dead center. The vehicle disintegrated into a boiling ball of fuel fire and sheared iron, flipping onto its side and blocking the single fifteen-foot lane completely.
 Behind it, a staff car slammed into the burning wreckage. A horse-drawn wagon reared in terror, spilling wooden crates of ammunition across the road before tipping over the stone parapet into the rocky river bed forty feet below.
@@ -2476,11 +2476,11 @@ Four 20-millimeter Hispano autocannons flashed along the fighter's wings. The ex
 German soldiers leaped from the lorries, diving into the drainage culverts, scrambling frantically over the riverbanks into the icy current of the Panaro.
 The second Spitfire released a pair of 250-pound general-purpose bombs. The ordnance struck the center of the stalled column, lifting an armored halftrack into the air and raining shattered iron, horses, and stone onto the road.
 By the time the four fighters pulled up into the sky, banking tightly to come around for a second strafing run, Highway 12 was a two-mile corridor of roaring orange fire, black oil smoke, and hysterical shouting.
-On the bluffs above, Pirogov’s Soviets stood on the boulders, watching the destruction below with dark, unblinking eyes. Some of the Russian soldiers leaned on their rifles, pointing down into the canyon and laughing softly—a harsh, vengeful sound that had waited three years for this morning.
+On the bluffs above, Pirogov's Soviets stood on the boulders, watching the destruction below with dark, unblinking eyes. Some of the Russian soldiers leaned on their rifles, pointing down into the canyon and laughing softly—a harsh, vengeful sound that had waited three years for this morning.
 Gurney pulled the breech handle of Molto Stanco, catching the hot brass shell casing in his leather mitt.
 
 GURNEY
-That’s twenty rounds down, sir. Shall I lay onto the fuel tankers further up the queue?
+That's twenty rounds down, sir. Shall I lay onto the fuel tankers further up the queue?
 
 NARRATOR
 Farran raised his glasses one last time.
@@ -2495,7 +2495,7 @@ Farran turned back toward the rear trail where two Willys Jeeps—fitted with tw
 
 FARRAN
 (yelling)
-Balerdi! Ramos! Mount the Jeeps! We’re heading down to the river crossings. Don't let them reform on the plains.
+Balerdi! Ramos! Mount the Jeeps! We're heading down to the river crossings. Don't let them reform on the plains.
 
 
 
@@ -2510,10 +2510,10 @@ The two stripped-down Willys Jeeps tore down the gravel track along the western 
 They were painted in flat olive drab, stripped of windscreens, doors, and hoods to save weight. Across the passenger floorboards and rear decks were welded heavy steel pedestals mounting twin Vickers .303 K gas-operated machine guns—aircraft weapons scavenged from downed bombers, capable of emptying a hundred-round pan magazine in six seconds flat.
 Major Roy Farran stood braced in the passenger seat of the lead Jeep, his left hand gripping the steel grab-bar welded to the dashboard, his sand-colored beret pulled low over his eyes to shield them from the gravel spray.
 Behind the twin Vickers handles stood Sergeant Justo Balerdi, his Basque face set like granite behind a pair of dust goggles, two canvas belts of spare drum magazines looped crosswise over his shoulders.
-Behind them, towing Molto Stanco behind an American three-quarter-ton weapons carrier, came Buster Gurney and Paddy Gallagher, with forty of Pirogov’s Soviets riding the running boards with Brens gripped across their knees.
+Behind them, towing Molto Stanco behind an American three-quarter-ton weapons carrier, came Buster Gurney and Paddy Gallagher, with forty of Pirogov's Soviets riding the running boards with Brens gripped across their knees.
 The mission was simple—the bridge at the Secchia.
-The German 14th Army had abandoned Highway 12’s blocked defile, spilling their motorized remnants westward through the mountain lanes, trying to reach the wide, paved concrete span across the Secchia River between Castellarano and Sassuolo. If the German 232nd Division and the remnants of Hauck's LI Mountain Corps crossed that bridge, they could link up with General von Senger’s panzers retreating toward the Po.
-Farran’s Jeeps broke from the poplar grove three hundred yards south of the crossing.
+The German 14th Army had abandoned Highway 12's blocked defile, spilling their motorized remnants westward through the mountain lanes, trying to reach the wide, paved concrete span across the Secchia River between Castellarano and Sassuolo. If the German 232nd Division and the remnants of Hauck's LI Mountain Corps crossed that bridge, they could link up with General von Senger's panzers retreating toward the Po.
+Farran's Jeeps broke from the poplar grove three hundred yards south of the crossing.
 Ahead, the river was running swollen and brown with spring snowmelt. Crossing it was a three-arch reinforced concrete road bridge.
 Jammed onto the western approach of the bridge was a German mechanized rearguard—two Sd.Kfz. 251 halftracks, three Kubelwagens, and an armored ammunition carrier. A squad of German combat engineers in black-piped field-grey tunics were kneeling along the bridge parapet, desperately uncoiling detonating cord and wiring twenty-pound boxes of TNT to the central piers to blow the span once their vehicles crossed.
 
@@ -2528,8 +2528,8 @@ BRRRRRRR-D-D-D-D-T.
 The twin guns didn't sound like standard infantry weapons; they sounded like a high-speed buzzsaw chewing through iron plate. At a combined rate of over two thousand rounds a minute, a solid stream of red tracer fire slashed across the concrete bridge.
 The effect was devastating.
 The German engineers working on the bridge railing were swept off their feet, thrown like rag dolls over the stone parapet into the churning brown floodwaters below. The high-velocity .303 bullets punched through the thin armor of the Kubelwagens, exploding their radiators in clouds of boiling steam and shredding tires to ribbons.
-From the second Jeep, Rafael Ramos opened up with his own twin Vickers, concentrating his fire on the driver’s slit of the lead halftrack.
-Sparks cascaded off the sloped armor plate. The German gunner in the halftrack’s forward machine-gun shield tried to pivot his MG42, but Ramos’s fire stitched across his torso, collapsing him over the breech before he could clear a single round.
+From the second Jeep, Rafael Ramos opened up with his own twin Vickers, concentrating his fire on the driver's slit of the lead halftrack.
+Sparks cascaded off the sloped armor plate. The German gunner in the halftrack's forward machine-gun shield tried to pivot his MG42, but Ramos's fire stitched across his torso, collapsing him over the breech before he could clear a single round.
 Through the hail of crossfire ran Frank Williams.
 The Spanish demolition commando sprinted across the open shingle of the riverbank, bent nearly double, carrying a heavy canvas haversack packed with sixteen one-pound slabs of British PE-2 plastic explosive and a spool of instantaneous orange Cordtex detonating cord.
 Williams leaped into the concrete shadow beneath the western bridge pier, half-immersed in the icy torrent of the Secchia.
@@ -2554,8 +2554,8 @@ The bridge was gone.
 On the western bank, the surviving German vehicles ground to a halt, completely cut off.
 Behind the Jeeps, Buster Gurney and the Soviets unlimbered Molto Stanco in the gravel. Within forty seconds, Gurney dropped two 75mm high-explosive shells into the stranded halftrack on the river approach, turning the vehicle into a roaring funeral pyre.
 White flags—torn undershirts and dirty handkerchiefs tied to rifle barrels—began to wave from the ditches on the far side of the road.
-Pirogov’s Soviets moved forward in a skirmish line, disarming the thirty surviving German soldiers who staggered out of the ditches with their hands raised.
-Williams climbed out from beneath the river embankment, dripping with freezing river water, his face gray with cement dust. He walked over to Farran’s Jeep and leaned against the front wing, shivering violently.
+Pirogov's Soviets moved forward in a skirmish line, disarming the thirty surviving German soldiers who staggered out of the ditches with their hands raised.
+Williams climbed out from beneath the river embankment, dripping with freezing river water, his face gray with cement dust. He walked over to Farran's Jeep and leaned against the front wing, shivering violently.
 Farran pulled a silver flask from his pocket and held it out.
 
 FARRAN
@@ -2584,9 +2584,9 @@ The Death of Justo Balerdi
 NARRATOR
 April 21, 1945 – zero-seven fifteen hours. Road Junction North of Torre Maino.
 The crossroads at Torre Maino smelled of wet clay, damp lilac blossoms, and the cold metal of an ambush waiting to be sprung.
-A mile south of Maranello, where the last low folds of the Apennines flattened into the endless fruit orchards of the Po Valley, the secondary road from Pavullo converged on the main artery to Modena. Across the asphalt, Farran’s mobile jeep detachment had dropped two massive poplar trees with plastic explosives, lacing the branches with Hawkins anti-tank mines and barbed wire to cut off retreating elements of the German 148th Division.
+A mile south of Maranello, where the last low folds of the Apennines flattened into the endless fruit orchards of the Po Valley, the secondary road from Pavullo converged on the main artery to Modena. Across the asphalt, Farran's mobile jeep detachment had dropped two massive poplar trees with plastic explosives, lacing the branches with Hawkins anti-tank mines and barbed wire to cut off retreating elements of the German 148th Division.
 In a drainage ditch forty yards east of the roadblock lay Sergeant Justo Balerdi.
-He had traded his place behind the Jeep’s twin Vickers for his favorite weapon—a .303 Bren gun, its steel bipod legs driven four inches into the soft turf of the ditch bank. Around his elbows lay five curved thirty-round magazines, stripped of transit grease and loaded with alternating ball and armor-piercing ammunition.
+He had traded his place behind the Jeep's twin Vickers for his favorite weapon—a .303 Bren gun, its steel bipod legs driven four inches into the soft turf of the ditch bank. Around his elbows lay five curved thirty-round magazines, stripped of transit grease and loaded with alternating ball and armor-piercing ammunition.
 Beside him crouched Rafael Ramos, holding two No. 36 Mills bombs, his face tense beneath a layer of grey dust.
 
 RAMOS
@@ -2605,9 +2605,9 @@ NARRATOR
 Through the early morning ground mist came the clanking rattle of steel tracks.
 It was not an unarmored transport column.
 Leading the retreat was an Sd.Kfz. 234/2 Puma eight-wheeled heavy armored car, its long 50mm gun barrel sweeping the tree line, followed by an open-topped Sd.Kfz. 250 halftrack packed with German infantry and a platoon of Wehrmacht riflemen moving in a crouch along the ditches.
-The Puma’s driver saw the felled poplars fifty yards ahead and slammed on the brakes. The heavy tires skidded on the wet macadam.
+The Puma's driver saw the felled poplars fifty yards ahead and slammed on the brakes. The heavy tires skidded on the wet macadam.
 The turret commander—an Oberleutnant in a black panzer jacket—popped his head from the hatch, raising binoculars to scan the barricade.
-From the second story of a stone barn on the left, two SAS commandos fired a PIAT anti-tank projector. The spring-loaded bomb arched through the mist, striking the Puma’s sloped front glacis plate. The shaped-charge warhead detonated with a sharp, concussive CRACK, but the angle was too steep; the molten copper jet gouged a deep furrow across the steel plate without penetrating the driver’s compartment.
+From the second story of a stone barn on the left, two SAS commandos fired a PIAT anti-tank projector. The spring-loaded bomb arched through the mist, striking the Puma's sloped front glacis plate. The shaped-charge warhead detonated with a sharp, concussive CRACK, but the angle was too steep; the molten copper jet gouged a deep furrow across the steel plate without penetrating the driver's compartment.
 The German armored car did not stall.
 Its turret swung violently to the left. The coaxial MG42 and the hull-mounted machine guns opened up in a deafening, continuous roar, hosing the brick face of the barn with high-velocity tracer, tearing the masonry to pieces and driving the gunners away from the window.
 Simultaneously, the German halftrack veered into the right-hand verge. Twenty German panzergrenadiers vaulted over the steel sideboards, dropping into the ditch sixty yards from the road, their MP40s laying down a murderous curtain of fire.
@@ -2615,15 +2615,15 @@ Ramos was pinned flat in the mud, machine-gun slugs clipping the grass two inche
 
 RAMOS
 (yelling)
-We’re cut off! The turret is covering the ditch!
+We're cut off! The turret is covering the ditch!
 
 NARRATOR
 Justo Balerdi did not stay down.
 The Basque commando knew the mathematics of an infantry ambush—if the armored car kept firing into the barn, the section would be pulverized in two minutes. The gun had to be turned.
 Balerdi rose onto his knees on the open ditch bank.
-He did not seek cover. He planted his boots into the mud, hauled the thirty-pound Bren to his shoulder, and took deliberate aim at the vision slits of the Puma’s turret.
+He did not seek cover. He planted his boots into the mud, hauled the thirty-pound Bren to his shoulder, and took deliberate aim at the vision slits of the Puma's turret.
 THUMP-THUMP-THUMP-THUMP.
-The Bren barked in steady, rhythmic four-round bursts. Balerdi’s armor-piercing rounds struck the turret mantle, shattering the periscope prisms, sparking off the commander’s cupola, forcing the German Oberleutnant to drop inside and slam the hatch shut.
+The Bren barked in steady, rhythmic four-round bursts. Balerdi's armor-piercing rounds struck the turret mantle, shattering the periscope prisms, sparking off the commander's cupola, forcing the German Oberleutnant to drop inside and slam the hatch shut.
 Balerdi shifted his fire to the infantry in the ditch. The heavy .303 slugs ripped through the weeds, cutting down three panzergrenadiers who were maneuvering to flank Ramos.
 
 RAMOS
@@ -2631,8 +2631,8 @@ RAMOS
 Justo, get down! ¡Bájate, coño! Get down!
 
 NARRATOR
-The Puma’s turret finished its traverse.
-The 50mm main gun was masked by the ditch bank, but the gunner locked his coaxial MG42 directly onto the muzzle flash of Balerdi’s Bren.
+The Puma's turret finished its traverse.
+The 50mm main gun was masked by the ditch bank, but the gunner locked his coaxial MG42 directly onto the muzzle flash of Balerdi's Bren.
 A single, ripping burst of twenty high-velocity rounds whipped through the morning air.
 The heavy German slugs caught Balerdi full in the chest.
 The impact drove the Basque backward through the air, throwing him into the center of the muddy ditch. His Bren flew from his hands, splashing into four inches of dirty water, its hot barrel hissing against the surface.
@@ -2644,33 +2644,33 @@ RAMOS
 NARRATOR
 From behind the roadblock, Frank Williams sprinted across the road under fire, carrying an unpinned Gammon bomb. Williams vaulted onto the engine deck of the Puma, shoved the two-pound plastic explosive pack directly beneath the turret ring, and rolled clear into the far ditch.
 BOOM.
-The blast peeled the armored car’s turret off its bearings in a blinding flash of orange fire. The ammunition inside cooked off, turning the Puma into a towering torch of black smoke and detonating shells.
+The blast peeled the armored car's turret off its bearings in a blinding flash of orange fire. The ammunition inside cooked off, turning the Puma into a towering torch of black smoke and detonating shells.
 The surviving German infantry broke, throwing down their weapons and fleeing through the orchard toward the river.
 The gunfire died, replaced by the crackle of burning rubber and the roar of the destroyed halftrack.
 Ramos scrambled through the ditch on his hands and knees until he reached Balerdi.
 The Basque commando lay on his back in the mud. His Denison smock was shredded across the chest, saturated in dark, thick arterial blood spreading rapidly through the green camouflage wool. His breathing was a harsh, wet rattle. The color had already drained from his face, leaving his weathered skin the pale, waxy hue of old paper.
-Ramos dropped to his knees, lifting Balerdi’s head onto his thighs.
+Ramos dropped to his knees, lifting Balerdi's head onto his thighs.
 
 RAMOS
 (voice breaking, weeping)
 Justo. Hold on. Hold on, brother.
 
 NARRATOR
-Balerdi’s eyelids fluttered. His dark eyes focused on Ramos’s face. A faint, bitter smile touched the corner of the Basque’s blood-stained lips.
+Balerdi's eyelids fluttered. His dark eyes focused on Ramos's face. A faint, bitter smile touched the corner of the Basque's blood-stained lips.
 
 BALERDI
 (fading rasp)
 Home, Rafael? We... we have no home. Franco has the home.
 
 NARRATOR
-He gripped Ramos’s wrist with fingers rapidly losing their warmth.
+He gripped Ramos's wrist with fingers rapidly losing their warmth.
 
 BALERDI
 (whispering)
 Tell Farran... Tell him... the Basque didn't run.
 
 NARRATOR
-His hand went limp. His head rolled to the side against Ramos’s knee.
+His hand went limp. His head rolled to the side against Ramos's knee.
 Rafael Ramos sat in the muddy ditch outside Torre Maino, clutching the lifeless body of Justo Balerdi to his chest, rocking back and forth in silence as the black smoke from the burning panzer drifted across the blossoming Italian peach trees.
 By midday, under the cover of the poplar groves, the commandos carried their comrade to a quiet churchyard near the river and committed him to the earth with a simple wooden marker reading Robert Bruce, 2 SAS—leaving him to rest in Italian soil until the war's end, while the rest of the squadron turned north to join Farran's attack on the city.
 
@@ -2683,7 +2683,7 @@ Artillery Bluff at Reggio
 
 NARRATOR
 April 21, 1945 – fourteen hundred hours. Southern Outskirts of Reggio Emilia, Buco del Signore.
-While Ramos's mobile jeep section fought their delaying action at Torre Maino, Roy Farran had brought the battalion’s heavy punch to the southern gates of the regional Axis bastion.
+While Ramos's mobile jeep section fought their delaying action at Torre Maino, Roy Farran had brought the battalion's heavy punch to the southern gates of the regional Axis bastion.
 Reggio Emilia, astride the ancient cobblestones of the Via Emilia, was ringed by roadblocks, wire, and brick factory walls. Inside the Caserma Zucchi and the municipal barracks were hundreds of German rearguard troops, backed by armored halftracks, machine-gun nests, and remnants of the fascist Guardia Nazionale Repubblicana.
 If the Germans dug in to hold the city as a fortified pivot, thousands of civilian lives would be pulverized in a house-to-house siege before the lead armor of the US Fifth Army could fight its way north from the Panaro.
 At the southern hamlet of Buco del Signore, barely two miles from the city center, Roy Farran stood behind the hedgerow of an orchard, studying the brick barracks through his field glasses.
@@ -2708,14 +2708,14 @@ NARRATOR
 Farran tapped the hood of the Jeep.
 
 FARRAN
-We are going to give him a full division’s artillery preparation. Shoot-and-scoot. Buster, lay three rounds into the barracks gate from this road. As soon as the third shell leaves the tube, hitch the gun to the Jeep and drive like blazes to the western canal. Fire three more rounds. Then move north to the railway embankment and fire four. Pirogov, take your men along the eastern ditch. Light smoke flares, fire your Brens in alternating volleys, and make enough noise to sound like a Soviet brigade.
+We are going to give him a full division's artillery preparation. Shoot-and-scoot. Buster, lay three rounds into the barracks gate from this road. As soon as the third shell leaves the tube, hitch the gun to the Jeep and drive like blazes to the western canal. Fire three more rounds. Then move north to the railway embankment and fire four. Pirogov, take your men along the eastern ditch. Light smoke flares, fire your Brens in alternating volleys, and make enough noise to sound like a Soviet brigade.
 
 PIROGOV
 (low, appreciative chuckle)
 We make them think Zhukov is at the gates, Major.
 
 FARRAN
-Precisely. If they think they’re surrounded by regular Allied artillery, their nerve will snap. When the garrison wavers, the city partisans will rise.
+Precisely. If they think they're surrounded by regular Allied artillery, their nerve will snap. When the garrison wavers, the city partisans will rise.
 
 NARRATOR
 Fourteen forty-five hours. The Barracks Sector, Reggio Emilia.
@@ -2738,8 +2738,8 @@ The Allied vanguard was not approaching; it had already arrived with artillery a
 The order went out over the short-range radio nets—Räumung vorbereiten! Rückzug auf den Po!—Prepare evacuation! Retreat to the Po!
 The artillery deception shattered the Axis command's resolve.
 As the first German convoys began their hurried retreat toward Guastalla and the river crossings, urban resistance fighters across Reggio Emilia seized the moment. Taking up arms cached in cellars and workshops, the city partisans launched a general uprising, hunting snipers, seizing municipal buildings, and cutting down rearguard elements.
-Over the next seventy-two hours, Farran’s commandos and the partisans sealed the southern approaches, capturing stragglers and holding the perimeter until the city was securely cleared for the formal arrival of American armor on April 24.
-Reggio Emilia’s defense had collapsed—ignited not by a division of heavy tanks, but by one tired pack howitzer, twenty-two shells, and a colossal bluff.
+Over the next seventy-two hours, Farran's commandos and the partisans sealed the southern approaches, capturing stragglers and holding the perimeter until the city was securely cleared for the formal arrival of American armor on April 24.
+Reggio Emilia's defense had collapsed—ignited not by a division of heavy tanks, but by one tired pack howitzer, twenty-two shells, and a colossal bluff.
 
 
 
@@ -2764,10 +2764,10 @@ Flanking them were fifty Italian mountaineers of the Gufo Nero, their red and gr
 And standing on top of an overturned wooden ammunition crate on the macadam was David Kirkpatrick.
 The Ayrshire miner was wearing his Royal Stewart tartan kilt, its pleats spattered with the dried mud of six different mountain battles, his Glengarry cap tilted sharply over his brow. His cheeks were puffed out like leather bellows, his fingers flying across the blackwood chanter, filling the flat Emilian plain with the soaring, triumphant notes of 'The Campbells Are Coming.'
 The American Sherman tanks rumbled to a halt forty yards from the roadblock, their diesel engines idling in a low, throbbing growl.
-Lieutenant Miller climbed down from the Greyhound’s turret, his M1 carbine slung over his shoulder, his eyes wide behind his dust goggles. Two armored infantrymen followed him, their Garands held at the low ready, staring at the Soviet red stars, the tartan kilt, and the British paratrooper berets.
+Lieutenant Miller climbed down from the Greyhound's turret, his M1 carbine slung over his shoulder, his eyes wide behind his dust goggles. Two armored infantrymen followed him, their Garands held at the low ready, staring at the Soviet red stars, the tartan kilt, and the British paratrooper berets.
 Major Roy Farran walked out from the shadow of the brick wall to meet them.
 He was wearing his sand-colored SAS beret, his Denison smock torn at the shoulder where the German bullet had grazed him in Villa Rossi, a silver-cased cigarette lighter clicking idly between his fingers.
-The American lieutenant stopped five paces away, looking at Farran’s badges, then at Kirkpatrick’s bagpipes, then at Pirogov’s Soviets standing at rigid attention.
+The American lieutenant stopped five paces away, looking at Farran's badges, then at Kirkpatrick's bagpipes, then at Pirogov's Soviets standing at rigid attention.
 
 MILLER
 (blurted out)
@@ -2782,7 +2782,7 @@ Major Patrick McGinty, 2nd Special Air Service. And this is the Battaglione Alle
 
 MILLER
 (stammering)
-Major. We were told the Gothic Line collapsed four days ago. We’ve been driving all night from the Panaro to clear the highway for the division. Reggio Emilia is supposed to be defended by a German corps garrison.
+Major. We were told the Gothic Line collapsed four days ago. We've been driving all night from the Panaro to clear the highway for the division. Reggio Emilia is supposed to be defended by a German corps garrison.
 
 NARRATOR
 Farran gestured with a flick of his lighter toward the spires of the city two miles to the west.
@@ -2793,7 +2793,7 @@ The German garrison has departed, Lieutenant. Reggio Emilia has been liberated. 
 NARRATOR
 The American stared at Farran for three long seconds.
 Then he looked at Molto Stanco, its empty breech standing open to the sky. He looked at Pirogov, who gave the American a slow, solemn nod of soldierly respect. He looked at Kirkpatrick, who brought the pipes down with a final, dying drone and took a deep, theatrical bow from his ammunition box.
-A slow, incredulous smile broke across the American lieutenant’s face.
+A slow, incredulous smile broke across the American lieutenant's face.
 
 MILLER
 (laughing, shaking head)
@@ -2827,7 +2827,7 @@ Before the tables stretched a queue of four hundred partisans.
 They were the men who had spent five months in the high snows of Cusna, living on boiled chestnuts and lard, sleeping in sheepfolds, charging machine-gun nests with frozen feet. Now, they shuffled forward in single file, their eyes downcast, their shoulders hunched inside torn jackets and oversized British battledress tunics.
 At the front of the queue, an eighteen-year-old Garibaldino laid his weapon onto the cobblestones.
 It was a British Sten Mk II, its sheet-metal casing scarred by shrapnel, its barrel blackened by cordite from the crossroads at Botteghe. The weapon clattered against a pile of hundreds of others—Bren guns, captured Mausers, Beretta carbines, and rusted Italian Carcanos.
-The British AMGOT major didn't look at the boy’s face. He checked an official ledger, stamped a sheet of coarse paper with purple ink, and slid it across the green baize.
+The British AMGOT major didn't look at the boy's face. He checked an official ledger, stamped a sheet of coarse paper with purple ink, and slid it across the green baize.
 
 AMGOT MAJOR
 (dry, administrative Italian)
@@ -2848,9 +2848,9 @@ Step aside, please. Next man. Lay the weapon on the heap.
 
 NARRATOR
 Watching from beneath the arched portico of the Palazzo del Municipio stood Roy Farran, Ermanno Gorrieri, and Rafael Ramos.
-Farran’s arms were crossed tightly over his chest. His sand-colored SAS beret was pulled low. He had watched Three Squadron hand in its operational logs that morning; already, the paperwork machines in Florence were moving to dissolve the irregular commands and absorb the commandos back into the formal army rosters.
-To Farran’s left stood Didimo Mantovani—'Guido'—the Communist commissar of the 26th Brigata Garibaldi.
-Guido had not shaved. His red silk neckerchief was frayed, his eyes cold as flint as he watched his men surrender their guns. But Farran noticed that Guido’s most trusted cadre members were not carrying their new British Brens; they were handing in rusted Italian rifles and broken Mausers.
+Farran's arms were crossed tightly over his chest. His sand-colored SAS beret was pulled low. He had watched Three Squadron hand in its operational logs that morning; already, the paperwork machines in Florence were moving to dissolve the irregular commands and absorb the commandos back into the formal army rosters.
+To Farran's left stood Didimo Mantovani—'Guido'—the Communist commissar of the 26th Brigata Garibaldi.
+Guido had not shaved. His red silk neckerchief was frayed, his eyes cold as flint as he watched his men surrender their guns. But Farran noticed that Guido's most trusted cadre members were not carrying their new British Brens; they were handing in rusted Italian rifles and broken Mausers.
 
 FARRAN
 (quietly)
@@ -2861,7 +2861,7 @@ Guido did not turn his head. He spat onto the marble flags of the portico.
 
 GUIDO
 (harsh whisper)
-Do you think we are fools, Major? Alexander told us to go home in November. Now his clerks sit in our municipal hall and give us paper certificates and paper money. They want to restore the old landlords, the old prefects, the factory owners who paid Mussolini’s wages.
+Do you think we are fools, Major? Alexander told us to go home in November. Now his clerks sit in our municipal hall and give us paper certificates and paper money. They want to restore the old landlords, the old prefects, the factory owners who paid Mussolini's wages.
 
 NARRATOR
 Guido pointed a finger toward the AMGOT tables.
@@ -2873,7 +2873,7 @@ NARRATOR
 From the other end of the portico walked Don Domenico Orlandini—Don Carlo.
 The priest had laid aside his paratrooper smock, appearing once more in his black clerical cassock, though his paratrooper jump boots were still laced tight to his shins and a silver cross hung against his chest. Behind him walked four sergeants of the Fiamme Verdi, their faces pale and watchful.
 Don Carlo stopped five paces from Guido. The two mountain commanders looked at each other across the colonnade.
-The brotherhood of the Secchia—the shared starvation, the joint parachute drops, the blood spilled together on the lawn of Villa Rossi—was evaporating before Farran’s eyes like morning mist.
+The brotherhood of the Secchia—the shared starvation, the joint parachute drops, the blood spilled together on the lawn of Villa Rossi—was evaporating before Farran's eyes like morning mist.
 
 DON CARLO
 (quiet)
@@ -2936,7 +2936,7 @@ QUARTERMASTER
 That too, mate. No metal on the transport.
 
 NARRATOR
-Pirogov did not move. He looked down at the sergeant with eyes that had watched the slaughter on the Don and the hanging of his family in Ukraine. His right hand came up slowly, his fingers wrapping around the sergeant’s wrist with the crushing, immovable grip of an anvil.
+Pirogov did not move. He looked down at the sergeant with eyes that had watched the slaughter on the Don and the hanging of his family in Ukraine. His right hand came up slowly, his fingers wrapping around the sergeant's wrist with the crushing, immovable grip of an anvil.
 He said nothing. He only stared.
 The sergeant went pale, his breath catching in his throat. He slowly pulled his hand back, swallowing hard, and stepped past to the next man.
 Pirogov turned toward the quayside where Roy Farran stood beneath the shadow of a dockside crane.
@@ -2946,7 +2946,7 @@ The ship was the Empire Pride—a British-flagged troop transport with rusted hu
 
 TARASOV
 (low, steady, devoid of hope)
-There are eighty thousand of them in the camps at Riccione and Aversa, Major. Cossacks, Vlasov men, forced laborers. But my men never fought for Hitler. We killed Germans for your army. We broke your enemy’s corps headquarters.
+There are eighty thousand of them in the camps at Riccione and Aversa, Major. Cossacks, Vlasov men, forced laborers. But my men never fought for Hitler. We killed Germans for your army. We broke your enemy's corps headquarters.
 
 FARRAN
 (raw with bitter, helpless fury)
@@ -2977,14 +2977,14 @@ All aboard! Move along! Column of twos!
 
 NARRATOR
 Pirogov stepped forward. He stood before Roy Farran, towering over the younger British major.
-The Russian captain did not salute. He reached into his pocket and drew out a small, bent strip of brass—the firing pin from Molto Stanco’s breech-block, which Buster Gurney had given him on the road into Reggio. He pressed the metal into Farran’s palm, closing the major’s fingers over it.
+The Russian captain did not salute. He reached into his pocket and drew out a small, bent strip of brass—the firing pin from Molto Stanco's breech-block, which Buster Gurney had given him on the road into Reggio. He pressed the metal into Farran's palm, closing the major's fingers over it.
 
 PIROGOV
 (deep, resonant Russian, then halting German)
 Spasibo, Major McGinty. You were a good soldier. We fought well.
 
 NARRATOR
-Farran gripped Pirogov’s hand. He felt the cold brass digging into his knuckles.
+Farran gripped Pirogov's hand. He felt the cold brass digging into his knuckles.
 
 FARRAN
 (whispering)
@@ -3013,7 +3013,7 @@ SMERSH OFFICER
 Traitor.
 
 NARRATOR
-The officer stamped a red stamp onto Pirogov’s dossier—ARTICLE 58 – SUSPICION OF ESPIONAGE FOR BRITISH INTELLIGENCE.
+The officer stamped a red stamp onto Pirogov's dossier—ARTICLE 58 – SUSPICION OF ESPIONAGE FOR BRITISH INTELLIGENCE.
 Two guards grabbed Pirogov by the arms, twisted his shoulders, and dragged him toward the open doors of the waiting boxcars.
 The wooden doors slammed shut with a sickening, final thud. The iron locking bars dropped home.
 The train whistled once—a long, mournful shriek across the ruins of Odessa—and began its slow, four-thousand-mile journey east toward the permafrost of the Gulags.
@@ -3028,7 +3028,7 @@ Bureaucratic Reckoning
 NARRATOR
 July 1945. Allied Headquarters, Florence.
 The war in Europe had been dead for two months, and the mahogany desks of Florence were drowning in paper.
-In the cool, marble salon of the requisitioned palazzo, a brigadier from General Mark Clark’s staff sat behind a red-tape dossier marked COURT-MARTIAL INQUIRY—FARRAN, ROY ALEXANDER (MAJ) – 2 SAS.
+In the cool, marble salon of the requisitioned palazzo, a brigadier from General Mark Clark's staff sat behind a red-tape dossier marked COURT-MARTIAL INQUIRY—FARRAN, ROY ALEXANDER (MAJ) – 2 SAS.
 Inside the folder lay the written order from February 26, signed in black ink, forbidding Farran from jumping into enemy territory. Beside it lay the insubordinate cipher telegram transmitted from the cellar in Febbio on March 24—The attack is irrevocable. McGinty.
 Across the desk sat Major Roy Farran.
 He was wearing a tailored No. 1 dress tunic of barathea wool, its brass buttons polished to mirror brightness. On his chest, above the ribbons of the Military Cross with two bars, the red and blue ribbon of the Distinguished Service Order had just been pinned.
@@ -3041,10 +3041,10 @@ You committed open, deliberate mutiny in the face of the enemy, Farran. You took
 NARRATOR
 Farran said nothing. He sat at stiff cavalry attention, his leather gloves folded neatly across his lap.
 The brigadier turned a page in the dossier. Pinned to the back was a personal memorandum written on the letterhead of the British Eighth Army, signed by Lieutenant-General Richard McCreery, along with an operational assessment from 2 SAS commander Brian Franks.
-The brigadier read McCreery’s assessment aloud—
+The brigadier read McCreery's assessment aloud—
 
 BRIGADIER
-The strike on the LI Mountain Corps headquarters at Albinea at zero-two-hundred hours on March 27 achieved total operational paralysis of the enemy’s signals infrastructure. The destruction of the corps switchboard at Villa Calvi blinded the German 148th and 232nd Divisions for seventy-two hours during the critical preparatory phase of Grapeshot. Subsequent interdiction of Highway 12 and the Secchia crossings by Three Squadron disrupted the German 14th Army’s retreat, accounting for over two hundred enemy killed and massive captures of materiel.
+The strike on the LI Mountain Corps headquarters at Albinea at zero-two-hundred hours on March 27 achieved total operational paralysis of the enemy's signals infrastructure. The destruction of the corps switchboard at Villa Calvi blinded the German 148th and 232nd Divisions for seventy-two hours during the critical preparatory phase of Grapeshot. Subsequent interdiction of Highway 12 and the Secchia crossings by Three Squadron disrupted the German 14th Army's retreat, accounting for over two hundred enemy killed and massive captures of materiel.
 
 NARRATOR
 The brigadier laid the paper down. He looked at Farran through gold-rimmed spectacles.
@@ -3069,7 +3069,7 @@ FARRAN
 Thank you, sir.
 
 NARRATOR
-Farran turned and walked out of the salon into the Tuscan sunlight. He was twenty-four years old, decorated with Britain’s highest awards for gallantry, his mutiny erased by the undeniable currency of victory.
+Farran turned and walked out of the salon into the Tuscan sunlight. He was twenty-four years old, decorated with Britain's highest awards for gallantry, his mutiny erased by the undeniable currency of victory.
 January 1946. Winford Orthopaedic Military Hospital, Near Bristol.
 The ward smelled of carbolic acid, boiled cabbage, and winter damp.
 Through the tall, steel-framed institutional windows, the bare Somerset hills were wrapped in a cold, grey drizzle that looked indistinguishable from the sleet of Cusna. Inside the high-ceilinged room, twenty iron beds were lined up in two parallel rows, each occupied by men who had left pieces of their bodies in Normandy, Arnhem, and the Gothic Line.
@@ -3078,7 +3078,7 @@ He was twenty-three years old, but his face belonged to an old man. His cheeks w
 Beside his bed, propped against the whitewashed wall, stood a pair of heavy, black leather-and-iron caliper leg-braces, alongside a pair of wooden crutches.
 Every breath was still a labor. Beneath his flannel pyjamas, a thick, discolored scar ran from his right collarbone around to his spine—the jagged track where Dr. Carità had cut him open with a scalpel and poured grappa over his exposed ribs.
 The ward doors swung open.
-A civilian clerk wearing a brown tweed overcoat and carrying a battered leather briefcase walked down the aisle, consulting a clipboard. He stopped at the foot of Lees’s bed.
+A civilian clerk wearing a brown tweed overcoat and carrying a battered leather briefcase walked down the aisle, consulting a clipboard. He stopped at the foot of Lees's bed.
 
 CLERK
 Captain Michael Lees? Late of Special Operations Executive, Mission Envelope?
@@ -3093,8 +3093,8 @@ CLERK
 Notification regarding your citation, Captain. The committee concluded its review in London on Tuesday.
 
 NARRATOR
-Lees’s fingers, thin and pale, tore open the envelope.
-Inside was a single typed memorandum. Lees’s eyes moved down the lines—
+Lees's fingers, thin and pale, tore open the envelope.
+Inside was a single typed memorandum. Lees's eyes moved down the lines—
 SUBJECT—RECOMMENDATION FOR IMMEDIATE OPERATIONAL AWARD (VICTORIA CROSS / DISTINGUISHED SERVICE ORDER).
 OFFICER—CAPT. M. LEES, SOE.
 ACTION—OPERATION TOMBOLA / BOTTEGHE D'ALBINEA, 27 MARCH 1945.
@@ -3105,7 +3105,7 @@ In consequence of these irregular circumstances, and having regard to administra
 Case closed.
 Lees stared at the paper.
 The words blurred before his eyes. He heard, across eight months of silence, the deafening scream of the bagpipes on the front lawn. He smelled the cordite smoke in the rotunda. He saw James Riccomini falling backward down the marble staircase, and Corporal Bolden dying in the blast, and Rafael Ramos carrying him through the freezing mud while machine-gun fire tore through the vines.
-He remembered Alexander’s broadcast in November—Go home. Disperse.
+He remembered Alexander's broadcast in November—Go home. Disperse.
 He had held three hundred starving partisans together through four months of blizzards. He had forged an alliance between Communists and Catholics. He had planned the raid, breached the perimeter, and taken five bullets through his lung and spine so that thirty Italian villagers would not hang from the trees in Botteghe.
 And to the clerks in London, he was simply an irregular officer who had broken protocol.
 
@@ -3136,29 +3136,29 @@ NARRATOR
 Autumn 1946 – Post-War. The Colliery at Girvan, Ayrshire, Scotland.
 A thousand feet beneath the slate-grey waters of the Firth of Clyde, the darkness was absolute.
 David Kirkpatrick swung his pick against a seam of wet, black coal, the steel point biting into the carbon with dull, rhythmic thuds. He was twenty-two years old. His skin was caked in black coal dust, his lungs whistling softly with the fine grit that settled into the throat of every miner in Ayrshire.
-At the end of his ten-hour shift, Kirkpatrick rode the iron cage back to the surface. He walked through the salt mist of the Scottish coast to his mother’s low stone cottage on the edge of Girvan, kicked his coal-blackened boots off at the scullery door, and washed his face in an enameled tin basin.
+At the end of his ten-hour shift, Kirkpatrick rode the iron cage back to the surface. He walked through the salt mist of the Scottish coast to his mother's low stone cottage on the edge of Girvan, kicked his coal-blackened boots off at the scullery door, and washed his face in an enameled tin basin.
 In the corner of the small parlor, tucked into the dark space behind a mahogany wardrobe, sat a battered canvas case lined with fleece.
 Inside lay the African blackwood bagpipes, their ivory mounts polished, the drones bound with the faded red-and-yellow ribbons of the Royal Stewart sett.
-Kirkpatrick rarely opened the case. When the men at the miners’ welfare hall asked him about the war, he told them he had been a private soldier in Italy, that he had seen some mountains, and that it was wretchedly cold in winter. He never spoke of the searchlights at Villa Rossi. He never spoke of the machine-gun tracers snapping over his head while he marched across an Italian lawn in a kilt, piping 'Highland Laddie' into the face of a German army.
+Kirkpatrick rarely opened the case. When the men at the miners' welfare hall asked him about the war, he told them he had been a private soldier in Italy, that he had seen some mountains, and that it was wretchedly cold in winter. He never spoke of the searchlights at Villa Rossi. He never spoke of the machine-gun tracers snapping over his head while he marched across an Italian lawn in a kilt, piping 'Highland Laddie' into the face of a German army.
 To the miners of Ayrshire, he was just Davie, who worked the seam.
 Botteghe d'Albinea, Northern Italy.
 In the valley of the Secchia, life returned with the relentless indifference of the seasons.
 Italian masons brought scaffolding to the front of Villa Rossi. With wooden floats and lime mortar, they filled in the thousands of jagged bullet gouges that scarred the neoclassical facade, smoothing white plaster over the places where James Riccomini had bled out on the marble, and where Michael Lees had fallen down the grand staircase.
 Across the meadow, the blackened, hollow stone tooth of Villa Calvi remained a ruin for years, overtaken by blackberry briars and wild ivy, until the rubble was cleared to build modern farm outbuildings.
-In the municipal cemetery of Albinea, three simple wooden crosses stood near the cypress wall, marking where the German garrison had buried Riccomini, Bolden, and Guscott with military honors under General Hauck’s orders. In time, the British Imperial War Graves Commission arrived with olive-drab trucks, exhumed the three commandos, and reinterred them beneath white Portland stone headstones in the Commonwealth War Cemetery at Milan.
+In the municipal cemetery of Albinea, three simple wooden crosses stood near the cypress wall, marking where the German garrison had buried Riccomini, Bolden, and Guscott with military honors under General Hauck's orders. In time, the British Imperial War Graves Commission arrived with olive-drab trucks, exhumed the three commandos, and reinterred them beneath white Portland stone headstones in the Commonwealth War Cemetery at Milan.
 The people of Botteghe never forgot.
 For decades, the elderly farmers who had knelt in the gravel of the driveway on the morning of March 28 told their grandchildren the same story—how thirty men of the village had been standing five minutes from a fascist firing squad, and how they were saved because an airborne soldier had dropped from the clouds in a red pleated skirt, playing music so wild that even the German generals recognized it as an act of regular war.
 The Forgotten Dead.
 For the men who did not have an empire to claim them, the peace was a closed door.
 Sergeant Justo Balerdi—the Basque who had fought fascists from San Sebastián to Torre Maino under the Scottish alias 'Robert Bruce'—lay buried in Italian earth. Francisco Franco ruled Spain from Madrid for another thirty years; the Spanish Republicans of the SAS never marched back over the Pyrenees. They died in exile—in London boarding houses, in French ports, or in foreign soil—unmentioned in British textbooks, their names filed away in War Office drawers under forged Scottish pseudonyms.
-And to the East, the seventy men of Captain Viktor Pirogov’s company vanished into the vast, silent machinery of the Gulag.
-Under Stalin’s Order 270, the men who had charged with fixed bayonets at Monte Valestra were stamped as traitors who had been tainted by British imperialists. Pirogov was stripped of his Order of the Red Star, sentenced without trial under Article 58, and shipped to the frozen coal pits of Vorkuta.
+And to the East, the seventy men of Captain Viktor Pirogov's company vanished into the vast, silent machinery of the Gulag.
+Under Stalin's Order 270, the men who had charged with fixed bayonets at Monte Valestra were stamped as traitors who had been tainted by British imperialists. Pirogov was stripped of his Order of the Red Star, sentenced without trial under Article 58, and shipped to the frozen coal pits of Vorkuta.
 Anatolij Tarasov survived the camps, living long enough to see the death of Stalin and the thaw that followed, writing in the 1960s of the brief, miraculous winter when escaped Soviet prisoners and Scottish commandos had worn the same wool and bled for the same mountain.
 The Long Shadow.
 Major Roy Farran returned to England a decorated hero, his mutiny forgotten in the glow of the Distinguished Service Order. He would live a life of restless action—in the deserts of Palestine, the political halls of Canada, and the publishing houses of the west—until his death in 2006.
 Michael Lees never fully recovered.
-Though he defied medical predictions and eventually learned to walk again with heavy calipers, canes, and an agonizing limp, his body was permanently shattered. His right lung was severely compromised by scar tissue from Dr. Carità’s grappa-soaked surgery, and he lived with constant, debilitating pain.
-He moved to a cottage in the rolling hills of Somerset, living on a modest invalid’s disability pension. For decades, he petitioned the British War Office to open the classified operational files of Mission Envelope and Operation Tombola—not for a pension increase, but to clear the names of the Italian partisans who had carried him over the six-thousand-foot ice ridges of Cusna, and to prove that his battalion had struck a decisive, legitimate blow for the Allied victory.
+Though he defied medical predictions and eventually learned to walk again with heavy calipers, canes, and an agonizing limp, his body was permanently shattered. His right lung was severely compromised by scar tissue from Dr. Carità's grappa-soaked surgery, and he lived with constant, debilitating pain.
+He moved to a cottage in the rolling hills of Somerset, living on a modest invalid's disability pension. For decades, he petitioned the British War Office to open the classified operational files of Mission Envelope and Operation Tombola—not for a pension increase, but to clear the names of the Italian partisans who had carried him over the six-thousand-foot ice ridges of Cusna, and to prove that his battalion had struck a decisive, legitimate blow for the Allied victory.
 The bureaucracy refused him to the end. The Victoria Cross and Military Cross recommendations were never reinstated.
 When Lees died in 1992, at the age of sixty-nine, the files were still classified under the thirty-year secrecy acts.
 Yet on the mountain, the paper did not matter.

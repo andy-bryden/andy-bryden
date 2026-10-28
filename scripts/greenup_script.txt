@@ -1,4 +1,4 @@
-Cast
+Greenup Cast
 
 NARRATOR
 I speak with the voice of Charon
@@ -143,7 +143,7 @@ The File from Cinecittà
 NARRATOR
 The villa on the outskirts of Bari smelled of damp limestone, stale Adriatic brine, and cigarette smoke.
 On the second floor, Dyno Löwenstein sat behind a folding trestle table littered with aerial reconnaissance prints, carbon paper, and mimeographed personnel rosters. Rain clicked against the glass of the tall terrace doors. Across the bay, gray convoy ships sat low in the water under a flat winter sky.
-Löwenstein rubbed his eyes. He had Kurt Löwenstein’s posture—the stoop of a Berlin intellectual who had spent years leaning over draft resolutions and anti-fascist pamphlets before the Gestapo burned the family flat. Now, in the uniform of an American officer, he was reading casualty summaries from the Secret Intelligence branch of the 2677th Regiment.
+Löwenstein rubbed his eyes. He had Kurt Löwenstein's posture—the stoop of a Berlin intellectual who had spent years leaning over draft resolutions and anti-fascist pamphlets before the Gestapo burned the family flat. Now, in the uniform of an American officer, he was reading casualty summaries from the Secret Intelligence branch of the 2677th Regiment.
 A knock rattled the wood.
 
 LOWENSTEIN
@@ -176,7 +176,7 @@ NARRATOR
 Löwenstein leaned forward, his elbows on the glass-topped table. He turned one of the aerial prints around so they could see it—a mosaic of high-altitude photographs taken by an RAF Mosquito, a narrow valley, almost black against white peaks, with a faint gray spine running down the center.
 
 LOWENSTEIN
-I did. Which means you're my problem now. The Brenner Pass. Every train feeding Kesselring’s army in northern Italy comes through this slit. Ammunition, coal, panzer engines, fresh divisions. The Fifteenth Air Force drops five hundred tons of high explosive on the tracks; the Germans bring in three thousand Italian forced laborers and have the rails relaid thirty-six hours later. We don't know what gets through. We don't know the repair schedules. We don't know when the trains are lined up waiting for green signals.
+I did. Which means you're my problem now. The Brenner Pass. Every train feeding Kesselring's army in northern Italy comes through this slit. Ammunition, coal, panzer engines, fresh divisions. The Fifteenth Air Force drops five hundred tons of high explosive on the tracks; the Germans bring in three thousand Italian forced laborers and have the rails relaid thirty-six hours later. We don't know what gets through. We don't know the repair schedules. We don't know when the trains are lined up waiting for green signals.
 
 MAYER
 Then send a team to sit on the tracks.
@@ -188,7 +188,7 @@ LOWENSTEIN
 We did. Twice. Company E dropped three men near Kufstein in November. Dead in four days. Another pair jumped into the Zillertal three weeks ago. Picked up before they unbuckled their harnesses. The locals hear an aircraft engine, look at the snow, see tracks, and call the Gendarmerie. If you're not from the valley, you don't last long enough to turn a radio on.
 
 WIJNBERG
-What’s the drop zone?
+What's the drop zone?
 
 LOWENSTEIN
 There isn't one. The valley floor is walled in by flak batteries and radar pickets. If you drop low, you hit rock or you get shot out of the harness. If you drop high, you land on ice at nine thousand feet in the middle of winter.
@@ -227,7 +227,7 @@ Determination doesn't keep you alive when you walk into an inn with the wrong ac
 
 MAYER
 (matter-of-fact)
-Then find us a guide. You’ve got thousands of them in the cages. Every week the British drag another five hundred Austrians out of the mountains in the north. Half of them were drafted. A quarter of them were socialists before thirty-eight. Find one who knows the Brenner, who knows the farms, who wants his town back. You put him in front, I handle the operational legwork, Hans runs the set.
+Then find us a guide. You've got thousands of them in the cages. Every week the British drag another five hundred Austrians out of the mountains in the north. Half of them were drafted. A quarter of them were socialists before thirty-eight. Find one who knows the Brenner, who knows the farms, who wants his town back. You put him in front, I handle the operational legwork, Hans runs the set.
 
 NARRATOR
 Löwenstein stood up, walked to the tall windows, and looked out at the harbor.
@@ -269,7 +269,7 @@ Deserter of Oberperfuss
 
 NARRATOR
 The sound stage smelled of unwashed wool, damp straw, and carbolic soap.
-Before the war, Mussolini’s film crews had built Roman palaces inside the Cinecittà complex. Now, concertina wire divided the hangars into holding pens, and hundreds of men in gray coats sat on wooden benches under the dead carbon-arc lights, waiting for their names to be called by Allied field police.
+Before the war, Mussolini's film crews had built Roman palaces inside the Cinecittà complex. Now, concertina wire divided the hangars into holding pens, and hundreds of men in gray coats sat on wooden benches under the dead carbon-arc lights, waiting for their names to be called by Allied field police.
 An armed British sergeant opened the side door to an empty sound-editing booth.
 
 BRITISH SERGEANT
@@ -480,7 +480,7 @@ WIJNBERG
 Innsbruck is Flatbush. The main passenger station at the center is Grand Army Plaza.
 
 MAYER
-The freight marshaling yards, where the rail lines split toward Italy—that’s Ebbets Field.
+The freight marshaling yards, where the rail lines split toward Italy—that's Ebbets Field.
 
 WIJNBERG
 The air base at Hotting?
@@ -544,7 +544,7 @@ The stripped-down B-24 Liberator had no gun turrets, no armor plating, and no in
 In the aft fuselage, the smell of 100-octane aviation fuel and hydraulic fluid hung thick in the uninsulated cold. Mayer, Wijnberg, and Weber sat on the metal ribbed floor, their backs wedged against the bulkhead. Each man was bundled into heavy canvas winter jump smocks worn over layers of wool, with thick gloves, jump boots, and chest-mounted reserve chutes strapped tight over their main packs.
 At eighteen thousand feet, the air was thin enough to make their lungs ache around the rubber rims of their oxygen masks.
 Up in the cockpit, Captain John Billings flew with the cockpit lights blacked out, watching the pale luminescence of the instrument needles. He had flown supply drops into Yugoslavia and northern Italy, but threading a four-engine bomber through the high granite corridors of the Tyrol in dead winter was a different matter. To stay below German radar stations at Verona and Innsbruck, he had crossed the Adriatic at low altitude, then climbed steeply over the Venetian plain into the teeth of an alpine crosswind.
-The intercom crackled in the crew chief’s headset. The sergeant leaned down to Mayer, pulling his mask back for a second.
+The intercom crackled in the crew chief's headset. The sergeant leaned down to Mayer, pulling his mask back for a second.
 
 CREW CHIEF
 (shouting over the roar)
@@ -588,8 +588,8 @@ Chapter Five
 Crevasse on the Glacier
 
 NARRATOR
-The canopy cracked open, snapping Mayer’s head back against the nylon risers with the force of a hammer blow.
-The deafening howl of the B-24’s four radial engines shrank into a faint, dying whine, swallowed by the immense granite basin. For several seconds, there was absolute, breathless stillness. The air was thin, pure, and so bitterly cold it burned his throat. Beneath his dangling boots, the vast white slope of the glacier tilted sideways in the moonlight, expanding until the texture of the wind-scoured crust resolved into jagged drifts and shadowy terraces of blue ice.
+The canopy cracked open, snapping Mayer's head back against the nylon risers with the force of a hammer blow.
+The deafening howl of the B-24's four radial engines shrank into a faint, dying whine, swallowed by the immense granite basin. For several seconds, there was absolute, breathless stillness. The air was thin, pure, and so bitterly cold it burned his throat. Beneath his dangling boots, the vast white slope of the glacier tilted sideways in the moonlight, expanding until the texture of the wind-scoured crust resolved into jagged drifts and shadowy terraces of blue ice.
 Mayer hit feet-first, drove straight through the crust, sank to his chest in powdery snow, and pitched forward. The silk canopy drifted down on top of him, smothering him in yards of suffocating white fabric.
 He fought his way out, spitting ice crystals, fumbled with numb, stiffening fingers at his chest harness, and punched the center release disc. The straps whipped free. He struggled to heave himself up, but the powder gave way under his elbows; he sank to his waist, his jump boots finding no bottom in the flour-like drifts. The temperature hung near ten below zero, with a cutting thermal downdraft shrieking off the knife-edge crest of the Schrankogel.
 
@@ -661,7 +661,7 @@ Horn-sled to Längenfeld
 NARRATOR
 The timber walls of the Amberger Hütte emerged from the gray predawn gloom like a stranded barge in an ocean of snow.
 Drifts reached halfway up the ground-floor shutters. The mountain refuge had been locked since October, its chimney capped against winter storms.
-Mayer stumbled against the heavy pine door, his legs shaking with exhaustion. His jump trousers were frozen solid from the knees down, stiff as sheet metal, scraping against his raw, bleeding shins with every step. Hans collapsed onto the snow-covered porch, his head slumped against the radio container, his breath rattling in his throat like broken glass. Weber’s face was bloodless, his lips purple.
+Mayer stumbled against the heavy pine door, his legs shaking with exhaustion. His jump trousers were frozen solid from the knees down, stiff as sheet metal, scraping against his raw, bleeding shins with every step. Hans collapsed onto the snow-covered porch, his head slumped against the radio container, his breath rattling in his throat like broken glass. Weber's face was bloodless, his lips purple.
 
 MAYER
 (hoarse rasp)
@@ -672,7 +672,7 @@ Weber didn't answer. He drew his heavy trench knife, rammed the steel blade into
 Weber kicked the door inward.
 Inside, the hut smelled of dry pine, cold soot, and wool mothballs. The air was freezing, but it was dead out of the wind.
 Weber went straight to the cast-iron stove, stripping dry shavings from an iron basket with trembling hands. He struck a match; the sulfur flared, catching shavings of dry larch. Within minutes, a dull orange glow flickered through the stove's draft door, casting long shadows across the empty tables.
-Hans pulled his gloves off with his teeth. His fingertips were waxy white and hard as wood. Mayer grabbed Hans’s hands and shoved them under his own wool sweater, pressing them against the warmth of his bare armpits. Hans let out a ragged hiss as the blood began to needle into the deadened tissue.
+Hans pulled his gloves off with his teeth. His fingertips were waxy white and hard as wood. Mayer grabbed Hans's hands and shoved them under his own wool sweater, pressing them against the warmth of his bare armpits. Hans let out a ragged hiss as the blood began to needle into the deadened tissue.
 Weber set a dented copper pot full of clean snow on the stove lid. He looked at Mayer.
 
 WEBER
@@ -703,7 +703,7 @@ Get on.
 
 NARRATOR
 Mayer and Hans squeezed onto the rear of the sled frame, while Weber gripped the curved ash steering horns in front. With a hard shove of his boots, Weber launched the sled onto the hard-packed, icy cart track leading down toward Längenfeld.
-The wooden runners hissed furiously against the packed ice. The sled picked up terrifying speed down the steep switchbacks, rattling over frozen ruts and dodging rock walls where the gorge plunged sheer down toward the roaring river. Weber leaned his body weight hard into the corners, dragging his iron-shod heel to brake, snow spraying into Mayer’s and Hans’s faces as they whipped beneath the frozen pines.
+The wooden runners hissed furiously against the packed ice. The sled picked up terrifying speed down the steep switchbacks, rattling over frozen ruts and dodging rock walls where the gorge plunged sheer down toward the roaring river. Weber leaned his body weight hard into the corners, dragging his iron-shod heel to brake, snow spraying into Mayer's and Hans's faces as they whipped beneath the frozen pines.
 At the bottom of the grade, the gorge opened up into the broad basin of the Ötztal. Weber steered the sled into a snowbank beside a farm barn on the road to Ötztal-Bahnhof.
 They unloaded the gear, hid the sled behind the haystacks, and brushed the snow from their clothing. Under their open coats, Mayer and Hans wore civilian wool trousers and sweaters, their military insignia long removed. Franz Weber adjusted the collar of his mountain-trooper field jacket—the Austrian deserter once again disguised as an ordinary soldier on leave.
 Down by the bridge, a dull mechanical rumble shook the morning stillness.
@@ -745,7 +745,7 @@ LEAD SERGEANT
 You. Papers.
 
 NARRATOR
-Before Mayer could reach into his pocket for the forged French transit slip, Franz Weber stepped directly into the sergeant’s path, blocking the aisle with his shoulders.
+Before Mayer could reach into his pocket for the forged French transit slip, Franz Weber stepped directly into the sergeant's path, blocking the aisle with his shoulders.
 
 WEBER
 (arrogant, biting bark)
@@ -758,8 +758,8 @@ WEBER
 Wir sind schon kontrolliert worden! We were checked at Ötztal before boarding. These men are under my orders, transporting electrical repair parts for the signal directorate in Innsbruck. If you want to delay critical Reichsbahn priority repairs to inspect paper that has already been stamped twice today, by all means, step out at Inzing and answer to the district transport commandant.
 
 NARRATOR
-Weber stepped in closer, his chin up, his eyes boring into the sergeant’s face with cold, aristocratic disgust.
-The military policeman hesitated. His thumb hovered over his ticket-punch. He looked at Mayer, whose face was completely expressionless, then back at Weber’s combat infantry ribbon and hollowed cheeks. In the German army of 1945, crossing a frontline combat officer over a bureaucratic paperwork check was an easy way to end up reassigned to a punishment battalion on the Oder.
+Weber stepped in closer, his chin up, his eyes boring into the sergeant's face with cold, aristocratic disgust.
+The military policeman hesitated. His thumb hovered over his ticket-punch. He looked at Mayer, whose face was completely expressionless, then back at Weber's combat infantry ribbon and hollowed cheeks. In the German army of 1945, crossing a frontline combat officer over a bureaucratic paperwork check was an easy way to end up reassigned to a punishment battalion on the Oder.
 
 LEAD SERGEANT
 (mumbling, half-hearted salute)
@@ -832,7 +832,7 @@ WEBER
 These are friends. American soldiers.
 
 NARRATOR
-Aloisia Weber set the lantern down on the table, her eyes darting between Mayer’s battered civilian coat and the thick, rubber-sealed rucksack Hans carried.
+Aloisia Weber set the lantern down on the table, her eyes darting between Mayer's battered civilian coat and the thick, rubber-sealed rucksack Hans carried.
 
 ALOISIA
 (voice shaking)
@@ -863,13 +863,13 @@ The kitchen fell dead quiet. Outside, a branch heavy with wet snow snapped in th
 
 ABENTHUNG
 (bluntly)
-You cannot transmit from this house. The Gestapo knows Franz is missing. His mother’s home is the first place the Gendarmerie will check if a direction-finding van picks up a signal from this plateau.
+You cannot transmit from this house. The Gestapo knows Franz is missing. His mother's home is the first place the Gendarmerie will check if a direction-finding van picks up a signal from this plateau.
 
 WEBER
 Where do we put Hans?
 
 ABENTHUNG
-At Alois Schatz’s place. The Taps farm, two hundred meters down the slope. Schatz is reliable. His attic has a blind crawlspace behind the hay storage, and his roofline is masked by fir trees. If a patrol comes up the road from Zirl, Schatz's dogs will bark five minutes before they reach the gate.
+At Alois Schatz's place. The Taps farm, two hundred meters down the slope. Schatz is reliable. His attic has a blind crawlspace behind the hay storage, and his roofline is masked by fir trees. If a patrol comes up the road from Zirl, Schatz's dogs will bark five minutes before they reach the gate.
 
 NARRATOR
 Abenthung looked at Aloisia Weber, then turned back to Hans.
@@ -890,7 +890,7 @@ Frozen Clothesline
 
 NARRATOR
 Dawn brought an iron frost that turned the mud in the farmyards hard as concrete.
-At first light, Alois Schatz’s wife carried a wooden basket of wet linens and rough work clothes out into the orchard behind their barn. The steam from the wash curled around her headscarf in the zero-degree air.
+At first light, Alois Schatz's wife carried a wooden basket of wet linens and rough work clothes out into the orchard behind their barn. The steam from the wash curled around her headscarf in the zero-degree air.
 Up in the barn gable of the Schatz farm, a small square ventilation flap opened half an inch. Hans Wijnberg fed the end of an enameled copper antenna wire through the gap. Alois Abenthung caught it from below, spliced it deftly into the galvanized clothesline wire strung between the barn eaves and a rusted iron hook on the cider shed, and helped Frau Schatz pin heavy work trousers and sheets along its length with wooden pegs.
 From fifty yards away on the mountain track, it looked like every other Tyrolean farmstead on washday—frozen laundry rattling stiffly in the alpine wind.
 Inside the barn attic, Hans worked in absolute darkness, kneeling on a sheepskin pelt behind a massive bulkhead of packed rye straw.
@@ -951,9 +951,9 @@ Chapter Ten
 The Seamstress of Oberperfuss
 
 NARRATOR
-Luise came back up the mountain road on the evening bus from Innsbruck, carrying her nurse’s tin lunch canister inside a straw basket.
+Luise came back up the mountain road on the evening bus from Innsbruck, carrying her nurse's tin lunch canister inside a straw basket.
 Underneath the boiled cabbage and ration rye lay three blank convalescent furlough sheets—Genesungsurlaubsscheine—stamped with the red cross of the Innsbruck Reserve Military Hospital. Tucked beside them inside a roll of gauze was a brass circular stamp of the Wehrkreiskommando and an ink pad soaked in purple aniline dye.
-In the back room of the Weber farmhouse, Maria Hörtnagl spread an old bedsheet over the table. She was a village seamstress with thick silver hair pinned tight behind her ears and hands scarred by needle pricks. On the sheet lay a field-gray officer’s tunic and breeches, brought out from the attic of an anti-Nazi neighbor whose son had fallen near Kharkov two winters earlier.
+In the back room of the Weber farmhouse, Maria Hörtnagl spread an old bedsheet over the table. She was a village seamstress with thick silver hair pinned tight behind her ears and hands scarred by needle pricks. On the sheet lay a field-gray officer's tunic and breeches, brought out from the attic of an anti-Nazi neighbor whose son had fallen near Kharkov two winters earlier.
 
 MARIA
 (tailor's cold appraisal)
@@ -963,7 +963,7 @@ MAYER
 Cut it down. Take four inches off the skirts, tighten the waist, take in the shoulders.
 
 NARRATOR
-Maria picked up her heavy tailor’s shears.
+Maria picked up her heavy tailor's shears.
 
 MARIA
 Strip off your shirt.
@@ -980,7 +980,7 @@ Mountain infantry. Eighty-eighth Regiment. Say I caught shrapnel outside Monte C
 NARRATOR
 Franz scratched the words into the fibrous paper—Diagnosis—Splitterverletzung linker Oberschenkel und Brustkorb. Convalescent leave—four weeks. Destination—Innsbruck and surrounding district for alpine air rehabilitation.
 Franz pressed the brass seal into the purple ink pad, lined it up carefully with the edge of the signature block, and brought his palm down hard on the wood. The imperial eagle and swastika appeared, slightly smudged at the bottom rim—an authentic, bureaucratic mark.
-Maria pulled the pinned jacket off Mayer’s shoulders, laid it flat across her knees, and began feeding the seam through the foot-treadle sewing machine. The needle rattled in a rhythmic, mechanical clatter.
+Maria pulled the pinned jacket off Mayer's shoulders, laid it flat across her knees, and began feeding the seam through the foot-treadle sewing machine. The needle rattled in a rhythmic, mechanical clatter.
 By midnight, the tunic was finished. She had restitched the silver aluminum cord along the collar, attached the shoulder boards of a Wehrmacht Leutnant, and sewn the black-and-silver ribbon of the Iron Cross Second Class through the second buttonhole.
 Mayer pulled on the breeches, the polished jackboots Franz had brought from his own wardrobe, and the altered tunic. He buttoned it to the throat.
 He turned toward the small mirror hung beside the cupboard.
@@ -1006,8 +1006,8 @@ Chapter Eleven
 The Footbridge at Ebbets Field
 
 NARRATOR
-In Oberperfuss, Anna Niederkircher—the sharp-eyed, fiercely anti-Nazi landlady of the Gasthof Zur Krone and mother of Franz Weber’s fiancée, Anni—quietly arranged the urban logistics for Mayer’s entry into Innsbruck.
-Through Niederkircher's trusted family channels, contacts were secured with Franz’s sisters, Margarethe Kelderer and Eva Weber, who maintained an apartment on the third floor of Anichstraße 19 in the heart of Innsbruck.
+In Oberperfuss, Anna Niederkircher—the sharp-eyed, fiercely anti-Nazi landlady of the Gasthof Zur Krone and mother of Franz Weber's fiancée, Anni—quietly arranged the urban logistics for Mayer's entry into Innsbruck.
+Through Niederkircher's trusted family channels, contacts were secured with Franz's sisters, Margarethe Kelderer and Eva Weber, who maintained an apartment on the third floor of Anichstraße 19 in the heart of Innsbruck.
 At dawn, Mayer took the local commuter bus down from the plateau into the city.
 He walked south with a deliberate, stiff hitch in his left stride, leaning lightly on a dark wooden walking stick. Enlisted men passing him on the Maria-Theresien-Straße snapped to attention, their boots smacking the wet pavement as their hands whipped to their temples. Mayer returned each salute with a curt, bored flick of his gloved right fingers, his face set in a permanent scowl.
 He took up a base of operations inside the city, shuttling between the Anichstraße flat and the local Offizierskasino, where his forged convalescent papers, iron-gray tunic, and Iron Cross ribbon gave him an unassailable cover among German officers on transit leave.
@@ -1071,29 +1071,29 @@ Chapter Twelve
 Thunder over the Brenner
 
 NARRATOR
-The slip of onionskin paper reached Oberperfuss inside Luise’s woolen sock.
-At twenty-three hundred, Hans sat under the crawlspace rafters with the SSTR-1 humming against his shins. He translated Mayer’s notes into four-digit groups, substituting Brooklyn landmarks for the switch tracks, the flak nests, and the ammunition sidings.
+The slip of onionskin paper reached Oberperfuss inside Luise's woolen sock.
+At twenty-three hundred, Hans sat under the crawlspace rafters with the SSTR-1 humming against his shins. He translated Mayer's notes into four-digit groups, substituting Brooklyn landmarks for the switch tracks, the flak nests, and the ammunition sidings.
 His thumb worked the key in steady, rhythmic bursts—
 TARGET EBBETS FIELD. Twenty-One ASSEMBLIES STATIONARY. TRACKS Seven THROUGH Eleven. HIGH EXPLOSIVE CARS CENTRAL SPUR. FLAK SUPPRESSION SILL GORGE. EXECUTE IMMEDIATE.
 Bari acknowledged with three short clicks.
 Fourteen hours later, at thirteen-twenty, the air raid sirens across Innsbruck began their mechanical wail.
 The sound bounced off the sheer limestone cliffs of the Nordkette, multiplying until the entire valley hummed with the vibration. On the streets below, pedestrians scrambled for cellar grates and concrete blast shelters. Mayer stood in the doorway of a bakery two hundred yards from the freight yards, his service cap pulled down against the soot falling from the railway chimneys.
 High above the southern peaks, where the Brenner road cut into the clouds, the first wave appeared.
-They came in combat boxes of twelve—B-17 Flying Fortresses of the 15th Air Force, trailing white contrails that scored the cold blue sky. The roar of seventy-two Wright Cyclone engines rolled down into the valley like sustained thunder, shaking the cobblestones under Mayer’s boots.
+They came in combat boxes of twelve—B-17 Flying Fortresses of the 15th Air Force, trailing white contrails that scored the cold blue sky. The roar of seventy-two Wright Cyclone engines rolled down into the valley like sustained thunder, shaking the cobblestones under Mayer's boots.
 The flak batteries along the Sill Gorge opened up. Black puffs of 88mm shrapnel blossomed in clusters around the lead formation, but the bombers didn't deviate. Their bomb bay doors swung open in unison.
 A second of silence hung over the city. Then the high, tearing whistle began.
-The first stick of five-hundred-pound general-purpose bombs struck the southern throat of the marshaling yards. The earth jumped under Mayer’s heels. A line of geysers—black dirt, pulverized ballast, and twisted rails—tore upward two hundred feet into the air.
+The first stick of five-hundred-pound general-purpose bombs struck the southern throat of the marshaling yards. The earth jumped under Mayer's heels. A line of geysers—black dirt, pulverized ballast, and twisted rails—tore upward two hundred feet into the air.
 Then the second wave dropped their payloads squarely across tracks seven through eleven.
 A red flash split the dust cloud. The forty-car ammunition train Mayer had tagged the night before went up in a chain reaction. The shockwave blew the plate-glass windows out of three blocks of storefronts, showering the street in crystalline shrapnel. A locomotive boiler ruptured with a scream of high-pressure steam, flung three hundred feet sideways into a line of idling coal tenders.
 Secondary explosions rolled across the basin for twenty minutes. Black smoke, thick with the stench of burning cordite and scorched creosote, billowed against the mountainside, blotting out the afternoon sun.
 The Brenner rail link was severed.
 By dusk, the fires were still burning, casting an orange glare over the ruins of the Hauptbahnhof. But the silence that followed was broken by the sirens of military police trucks.
-Mayer walked back toward Anna Niederkircher’s pension. At the corner of the Museumstraße, three Kübelwagens blocked the intersection. SS troopers in camouflage smocks and Feldgendarmerie with submachine guns held at low ready had strung concertina wire across the avenue.
+Mayer walked back toward Anna Niederkircher's pension. At the corner of the Museumstraße, three Kübelwagens blocked the intersection. SS troopers in camouflage smocks and Feldgendarmerie with submachine guns held at low ready had strung concertina wire across the avenue.
 Every officer on the street was being stopped. Three Wehrmacht captains stood against a brick wall, their tunic pockets turned inside out while a Gestapo agent cross-checked their paybooks against a teleprinted master manifest.
 Mayer pulled back into the shadow of an arched entryway.
 The strike had been too accurate. The German transport command knew immediately that the bombers hadn't dropped by radar through cloud cover; they had hit specific tracks with pinpoint intelligence. The city was being sealed. Every German uniform without a verified post in the local garrison would be dragged into Gestapo headquarters at Herrengasse 1 by midnight.
 Mayer reached into his tunic, fingered the forged convalescent pass, and turned down an unlit alley.
-The officer’s coat had done its job. If he wore it another twelve hours, it would be his shroud.
+The officer's coat had done its job. If he wore it another twelve hours, it would be his shroud.
 
 
 
@@ -1115,7 +1115,7 @@ You're done being a lieutenant. The Gestapo has motorized inspection squads comb
 
 NARRATOR
 Moser unfolded a stiff, blue cardboard identity card. On the cover was stamped—Service du Travail Obligatoire.
-Inside was Mayer’s photograph, lifted from an extra print Franz had brought from the hospital files, stamped with the round seal of the Arbeitsamt Innsbruck.
+Inside was Mayer's photograph, lifted from an extra print Franz had brought from the hospital files, stamped with the round seal of the Arbeitsamt Innsbruck.
 
 MOSER
 (tapping the card)
@@ -1138,7 +1138,7 @@ MOSER
 Walk across the room.
 
 NARRATOR
-Mayer took three strides. Moser stepped in and shoved Mayer’s left shoulder down.
+Mayer took three strides. Moser stepped in and shoved Mayer's left shoulder down.
 
 MOSER
 (snapping)
@@ -1161,14 +1161,14 @@ SS SENTRY
 Halt.
 
 NARRATOR
-Mayer stopped. He didn't look at the soldier’s face. He let his jaw hang slightly slack, slumped his shoulders, and fumbled into his overalls with blackened, greasy fingers.
+Mayer stopped. He didn't look at the soldier's face. He let his jaw hang slightly slack, slumped his shoulders, and fumbled into his overalls with blackened, greasy fingers.
 
 MAYER
 (flat, thick French nasal drawl)
 Pardon, m'sieur. Ausweis. Travailleur.
 
 NARRATOR
-The German barely glanced at the blue card. He smelled the dirty grease on Mayer’s jacket, saw the scuffed boots and the heavy screwdrivers in the wooden tray, and curled his lip in disgust.
+The German barely glanced at the blue card. He smelled the dirty grease on Mayer's jacket, saw the scuffed boots and the heavy screwdrivers in the wooden tray, and curled his lip in disgust.
 
 SS SENTRY
 (muttering, waving dismissively)
@@ -1192,14 +1192,14 @@ NARRATOR
 The tunnel mouth at Kematen had been blasted directly into the sheer limestone base of the mountain, shielded from aerial photography by heavy camouflage netting and evergreen boughs.
 A narrow-gauge rail spur led into the rock. Two SS guards in black helmets and rubberized coats stood by the reinforced steel blast gates, checking work badges under the yellow glare of an electric work lamp.
 Mayer shuffled forward in the line of forty foreign workers—Poles, Czechs, and Frenchmen with hollow faces and greasy canvas smocks. His wooden toolbox hung from his right hand, dragging his shoulder down.
-The SS guard took Mayer’s blue Arbeitsausweis, glanced at the photo, and checked the red maintenance authorization slip Robert Moser had forged two days prior—Elektro-Instandsetzung – Stollen 4 (Electrical Maintenance – Gallery 4).
+The SS guard took Mayer's blue Arbeitsausweis, glanced at the photo, and checked the red maintenance authorization slip Robert Moser had forged two days prior—Elektro-Instandsetzung – Stollen 4 (Electrical Maintenance – Gallery 4).
 
 SS GUARD
 (barking)
 Tool check.
 
 NARRATOR
-Mayer dropped the box onto the plank table, popped the latch, and stood back with his eyes lowered. The guard stirred the screwdrivers and wire coils with a wooden truncheon, found nothing, and thrust the blue card back into Mayer’s chest.
+Mayer dropped the box onto the plank table, popped the latch, and stood back with his eyes lowered. The guard stirred the screwdrivers and wire coils with a wooden truncheon, found nothing, and thrust the blue card back into Mayer's chest.
 
 SS GUARD
 Reingehen.
@@ -1207,7 +1207,7 @@ Reingehen.
 NARRATOR
 The tunnel interior was cool, damp, and smelled of drilling sludge, machine cutting oil, and ozone.
 Incandescent bulbs strung along heavy rubber cables hung from the rock ceiling every twenty yards, casting long, swaying shadows across the concrete floor. Deep inside the mountain, the cavern widened into an assembly gallery nearly three hundred yards long. Air compressors thudded in the distance, their rhythmic exhaust echoing off the raw rock walls.
-Here, safe from Allied carpet bombing, the Reich had dispersed the manufacturing lines for the Messerschmitt Me 262—the world’s first operational jet fighter.
+Here, safe from Allied carpet bombing, the Reich had dispersed the manufacturing lines for the Messerschmitt Me 262—the world's first operational jet fighter.
 Allied command in Caserta was convinced that hundreds of these twin-engine jets were being secretly assembled in alpine caverns, ready to surge into the sky and wipe the Fifteenth Air Force from the air.
 Mayer pulled a test-meter from his box, climbed an aluminum ladder near a central power distribution panel, and began unscrewing a junction plate. From eight feet off the floor, he had an unobstructed view down the entire length of Gallery 4.
 The shark-nosed fuselages sat in rows on steel assembly jigs. He began counting.
@@ -1245,7 +1245,7 @@ NARRATOR
 In mid-April, the snow began to pull back from the lower slopes, leaving the meadows black and greasy with meltwater.
 Reports from Supreme Headquarters Allied Expeditionary Force in Paris and the 15th Army Group in Caserta were fixated on a single nightmare—the Alpenfestung, the National Redoubt. German propaganda claimed that elite SS formations, armed with advanced weaponry and subterranean supply dumps carved into the granite, were preparing to retreat into the Bavarian and Austrian Alps to wage a guerrilla war that could drag on for years.
 Fred Mayer and Franz Weber spent five days moving through the valleys that were supposed to form the redoubt's impenetrable core.
-Weber wore civilian loden trousers and an old woolen hunting jacket, carrying an axe over his shoulder like a farmer clearing winter deadfall. Mayer walked ten paces behind him in his oil-stained blue overalls, the wooden toolbox banging against his thigh, his French worker’s pass pinned inside his shirt.
+Weber wore civilian loden trousers and an old woolen hunting jacket, carrying an axe over his shoulder like a farmer clearing winter deadfall. Mayer walked ten paces behind him in his oil-stained blue overalls, the wooden toolbox banging against his thigh, his French worker's pass pinned inside his shirt.
 They scouted the mouth of the Zillertal, the Stubai approach, and the narrow defiles flanking the Brenner highway.
 Where Allied intelligence maps showed fortified perimeter belts and heavy concrete pillboxes, Mayer found only log barricades thrown together by the Volkssturm—conscripted teenagers in oversized helmets and elderly men with First World War Mannlicher rifles.
 At a supply depot near Jenbach, where rumors claimed underground fuel reserves were buried beneath the rock, Mayer watched through binoculars from a pine ridge. Three rusted tanker trucks sat on wooden blocks without tires. A half-track with a blown cylinder head was being towed into a barn by a team of two draft horses.
@@ -1267,7 +1267,7 @@ There are no bunkers. No artillery emplacements in the rock. No underground hosp
 
 NARRATOR
 That night, Mayer slipped back up the trail to Oberperfuss.
-In the barn crawlspace, Hans Wijnberg sat under the eaves with his knees pulled up to his chin to ward off the damp chill. The SSTR-1 rested on the butter churn, its battery terminals connected to a truck battery Weber’s cousin had hauled up from Inzing.
+In the barn crawlspace, Hans Wijnberg sat under the eaves with his knees pulled up to his chin to ward off the damp chill. The SSTR-1 rested on the butter churn, its battery terminals connected to a truck battery Weber's cousin had hauled up from Inzing.
 Mayer laid a hand on Hans's shoulder.
 
 MAYER
@@ -1298,7 +1298,7 @@ The safehouse was a shuttered hunting lodge above Rum, nestled against the foot 
 Inside, blackout blankets were nailed across the window frames. On the timber table sat a kerosene lantern, a porcelain teapot of bitter chicory brew, and a topographical map of the Innsbruck municipal district.
 Dr. Karl Gruber stood by the dark hearth. He was thirty-five, tall, broad-shouldered, an electrical engineer with sharp gray eyes and the quiet, measured bearing of a man accustomed to running industrial plants under the eyes of the Gestapo. Gruber was the chief of the O5—the Austrian resistance movement—across the entire Tyrol.
 Franz Weber stepped in first, followed by Mayer, who still smelled of coal grease from the rail yards.
-Gruber looked at Mayer’s blue mechanic's overalls, the scuffed hands, and the wiry frame. He did not extend his hand immediately.
+Gruber looked at Mayer's blue mechanic's overalls, the scuffed hands, and the wiry frame. He did not extend his hand immediately.
 
 GRUBER
 Franz tells me you are an American lieutenant.
@@ -1333,7 +1333,7 @@ GRUBER
 Under the Moscow Declaration, Austria is promised restoration as an independent state only if we prove we contributed to our own liberation. We intend to take this city ourselves. We will disarm the Wehrmacht garrison, seize the provincial government at the Landhaus, and broadcast the liberation from the radio transmitter on the Adolf-Hitler-Platz before your tanks cross the Inn.
 
 NARRATOR
-Mayer studied the engineer’s face.
+Mayer studied the engineer's face.
 
 MAYER
 If you move too early, the SS will bring motorized units down from the Brenner and shoot you against the nearest wall.
@@ -1373,8 +1373,8 @@ NARRATOR
 On the morning of April 18, Robert Moser did not open his radio shop on the Leopoldstraße.
 By noon, word passed through the railway couriers—two men in leather trench coats had dragged Moser out of his workshop through the alley. The officer in charge was Gestapo Kriminalsekretär Walter Güttner, a veteran interrogator transferred from Vienna to crush the Tyrolean underground.
 The Gestapo had not stumbled onto the network by chance. Karl Niederwanger, an informant tied to local black-market and resistance channels, had been arrested and turned, providing the Gestapo with specific leads on foreign workers and safe addresses across Innsbruck.
-On the night of April 20—Adolf Hitler’s fifty-sixth birthday—Innsbruck lay under a total blackout curfew.
-In the third-floor apartment at Anichstraße 19, Fred Mayer sat at the kitchen table in his blue mechanic's overalls. With him were Franz Weber’s two sisters—twenty-two-year-old Eva, who carried dispatches up the mountain, and Margarethe Kelderer, whose home served as the urban relay point. A single candle burned inside a ceramic mug to shield its light from the window.
+On the night of April 20—Adolf Hitler's fifty-sixth birthday—Innsbruck lay under a total blackout curfew.
+In the third-floor apartment at Anichstraße 19, Fred Mayer sat at the kitchen table in his blue mechanic's overalls. With him were Franz Weber's two sisters—twenty-two-year-old Eva, who carried dispatches up the mountain, and Margarethe Kelderer, whose home served as the urban relay point. A single candle burned inside a ceramic mug to shield its light from the window.
 
 MAYER
 (quietly)
@@ -1409,8 +1409,8 @@ The Water Tub in Herrengasse
 NARRATOR
 The basement of Herrengasse 1 was cold, damp, and smelled of wet lime, carbolic acid, and sewage.
 They separated them in the lower corridor. Two guards dragged Eva Weber toward the women's holding cells at the end of the hall; within forty-eight hours, her transfer order was stamped—Reichenau transit camp on the eastern edge of Innsbruck.
-In the cell next to Mayer’s, a man groaned behind an iron-studded door—a wet, rattling sound that went on through the night without stopping. It was Robert Moser. Güttner and his squad had beaten him with steel rods to break the resistance contact chain. By the morning of April 23, the groaning stopped. Moser died on the damp straw of internal hemorrhaging, his mouth clamped shut, taking the location of the Oberperfuss radio to his grave.
-In the center of Mayer’s cell, an iron hook hung from a ring bolted into the ceiling arch.
+In the cell next to Mayer's, a man groaned behind an iron-studded door—a wet, rattling sound that went on through the night without stopping. It was Robert Moser. Güttner and his squad had beaten him with steel rods to break the resistance contact chain. By the morning of April 23, the groaning stopped. Moser died on the damp straw of internal hemorrhaging, his mouth clamped shut, taking the location of the Oberperfuss radio to his grave.
+In the center of Mayer's cell, an iron hook hung from a ring bolted into the ceiling arch.
 Walter Güttner took off his suit jacket, folded it neatly over the back of an iron chair, and rolled up his shirt sleeves. Beside him stood Dr. Primbs, the police physician, wearing a rubber apron and holding a brass pocket watch on a chain.
 For the first twelve hours, Mayer clung tenaciously to his cover. When Güttner demanded names, Mayer spoke only broken, nasal French.
 
@@ -1420,7 +1420,7 @@ Jean Marcel... électricien... je ne sais rien...
 
 NARRATOR
 The Gestapo stripped him. During the physical examination, the interrogators discovered he was circumcised—an immediate, damning anomaly for a supposedly Catholic French laborer from Lyon.
-Two Gestapo men jerked Mayer’s arms behind his back, ratcheted his wrists into heavy steel handcuffs, and looped a hemp rope through the chain. They tossed the loose end of the rope over the ceiling hook.
+Two Gestapo men jerked Mayer's arms behind his back, ratcheted his wrists into heavy steel handcuffs, and looped a hemp rope through the chain. They tossed the loose end of the rope over the ceiling hook.
 
 GUTTNER
 (quietly, voice level)
@@ -1433,24 +1433,24 @@ Je ne sais rien... Jean Marcel...
 NARRATOR
 Güttner nodded to the guards.
 They hauled on the rope.
-Mayer’s arms were hoisted straight up behind his back, wrenching his shoulder joints out of their sockets as his feet left the floor. The pain was immediate and blinding, tearing through the pectoral muscles and ligaments. Mayer gasped, his head snapping forward.
+Mayer's arms were hoisted straight up behind his back, wrenching his shoulder joints out of their sockets as his feet left the floor. The pain was immediate and blinding, tearing through the pectoral muscles and ligaments. Mayer gasped, his head snapping forward.
 They lowered him into a galvanized zinc tub filled to the rim with freezing water.
 Hands shoved his head under. The water rushed into his nostrils and throat, cutting off oxygen while the weight of his suspended body pulled his dislocated shoulders taut. When his chest began to convulse, they yanked the rope, pulling his head out of the water.
 Mayer choked, vomiting water and bile onto the rim of the tub.
-Dr. Primbs stepped forward, two fingers pressing against the carotid artery in Mayer’s neck, checking the seconds on his pocket watch.
+Dr. Primbs stepped forward, two fingers pressing against the carotid artery in Mayer's neck, checking the seconds on his pocket watch.
 
 PRIMBS
 (impassively)
 Pulse is one-forty. He can take another round.
 
 NARRATOR
-Güttner leaned in close to Mayer’s ear, the smell of his tobacco sharp against the reek of the cellar.
+Güttner leaned in close to Mayer's ear, the smell of his tobacco sharp against the reek of the cellar.
 
 GUTTNER
 You're not French, Marcel. Your hands have calluses from tools, but you move like a soldier. Where is the transmitter?
 
 NARRATOR
-Mayer’s body convulsed; his nose was shattered, his left cheek crushed, his lungs burning with bloody water.
+Mayer's body convulsed; his nose was shattered, his left cheek crushed, his lungs burning with bloody water.
 He knew the French cover was dead. If the Gestapo concluded he was a German-Jewish traitor or a local Austrian partisan, they would execute him against the cellar wall before sunrise.
 The only way to survive—and the only way to protect Hans Wijnberg and the radio at the Schatz farm—was to alter the game entirely.
 When they dragged his head from the water tub again, Mayer looked up through his swollen, blackened eyes. He spit a mouthful of dark blood onto Güttner's polished shoe and spoke in clear, unaccented German.
@@ -1490,7 +1490,7 @@ GUTTNER
 He claims he is an American officer.
 
 NARRATOR
-Hilliges took the cigarette holder from his mouth, looking at Mayer’s split lip, the swelling shutting his left eye, and the torn overalls soaked in bloody water.
+Hilliges took the cigarette holder from his mouth, looking at Mayer's split lip, the swelling shutting his left eye, and the torn overalls soaked in bloody water.
 
 HILLIGES
 (dry, bureaucratic German)
@@ -1503,7 +1503,7 @@ MAYER
 Mayer, Frederick. First Lieutenant, United States Army. Serial number 0-132-4752.
 
 HILLIGES
-You have no uniform. You were arrested in civilian clothes, in the company of known Austrian traitors, carrying forged French identity papers. Under the Führer’s Commando Order, you are not a prisoner of war. You are a spy. The penalty is death by hanging within twenty-four hours.
+You have no uniform. You were arrested in civilian clothes, in the company of known Austrian traitors, carrying forged French identity papers. Under the Führer's Commando Order, you are not a prisoner of war. You are a spy. The penalty is death by hanging within twenty-four hours.
 
 NARRATOR
 Mayer let out a dry, rattling cough that ended in a raw chuckle.
@@ -1531,13 +1531,13 @@ MAYER
 You want to talk about commando orders? Every American combat unit carries lists of Gestapo and SD personnel. Your names are on them. If I die in this cellar, General Patch will not treat this district as a conquered province. He will treat it as a crime scene. Every officer in this building—you, Güttner, your doctor with the pocket watch—will be on a gallows at Landsberg before the summer is out.
 
 NARRATOR
-The room was dead quiet except for the hiss of the radiator. Güttner’s hand hovered above the desk, the lead truncheon resting loose in his grip. Hilliges tapped his cigarette ash into a bronze tray.
+The room was dead quiet except for the hiss of the radiator. Güttner's hand hovered above the desk, the lead truncheon resting loose in his grip. Hilliges tapped his cigarette ash into a bronze tray.
 
 HILLIGES
 Where is the rest of your team?
 
 MAYER
-There is no team. I dropped blind from an Eighth Air Force bomber three weeks ago. My radio operator’s chute failed over the glacier. He broke his neck on the ice. The container with the transceiver fell into a crevasse. I walked down the mountain alone, bought those French papers off a pimp in Landeck, and was trying to make contact with local anti-fascists when your idiots kicked in the door.
+There is no team. I dropped blind from an Eighth Air Force bomber three weeks ago. My radio operator's chute failed over the glacier. He broke his neck on the ice. The container with the transceiver fell into a crevasse. I walked down the mountain alone, bought those French papers off a pimp in Landeck, and was trying to make contact with local anti-fascists when your idiots kicked in the door.
 
 HILLIGES
 You expect us to believe an American lieutenant operated across North Tyrol for two months without a radio?
@@ -1576,7 +1576,7 @@ We are not Leaving
 NARRATOR
 The mountain rain came down in gray sheets, turning the dirt tracks of Oberperfuss into ruts of black mud.
 In the kitchen of the Weber farmhouse, Aloisia Weber sat with her hands clasped in her lap, her knuckles white. Franz stood by the small window, peeling back the blackout curtain an inch to scan the switchbacks leading up from the valley floor.
-Margarethe’s message had reached them at dawn through an alpine forestry courier—Fred and Eva were taken at Anichstraße. Moser is dead in Herrengasse.
+Margarethe's message had reached them at dawn through an alpine forestry courier—Fred and Eva were taken at Anichstraße. Moser is dead in Herrengasse.
 The back door creaked open. Alois Schatz slipped into the kitchen, his loden cape soaked with rain. Behind him came Hans Wijnberg, wearing a rough civilian wool sweater, his eyes bloodshot from days spent in the darkness of the Schatz barn.
 
 WEBER
@@ -1680,10 +1680,10 @@ MATULL
 He runs the entire infiltration network for the alpine sector. Why do you think he was in Innsbruck himself? To take notes on boxcars? He came to negotiate the regional capitulation. And you hung him from a meat hook and drowned him in a tub.
 
 NARRATOR
-Matull leaned over the desk, pointing a finger at the Gestapo chief’s chest.
+Matull leaned over the desk, pointing a finger at the Gestapo chief's chest.
 
 MATULL
-When General Patch’s tanks cross the Inn—and they will be here by Tuesday—the first thing the Seventh Army counter-intelligence corps will ask for is Frederick Mayer. If he's dead, or if he's an invalid, you and every man in this building will be swinging from the lampposts on the Maria-Theresien-Straße before sunset. The Americans don't negotiate when you murder their command staff.
+When General Patch's tanks cross the Inn—and they will be here by Tuesday—the first thing the Seventh Army counter-intelligence corps will ask for is Frederick Mayer. If he's dead, or if he's an invalid, you and every man in this building will be swinging from the lampposts on the Maria-Theresien-Straße before sunset. The Americans don't negotiate when you murder their command staff.
 
 NARRATOR
 Hilliges stood up so fast his chair screeched against the parquet. He looked toward the door.
@@ -1748,8 +1748,8 @@ The country estate of Gauleiter Franz Hofer looked like an oversized alpine mano
 Mayer stepped out onto the gravel. His boots were polished leather, but beneath the charcoal wool trousers, his knees were stiff and his broken ribs sent sharp knives of pain through his diaphragm with every breath.
 Werner Hilliges guided him through a heavy oak vestibule into the main dining salon.
 The contrast with the Herrengasse cellar was almost obscene. A bronze chandelier cast warm light across a long mahogany table set with porcelain china, crystal wine glasses, and silver cutlery. A tiled stove radiated dry, cedar-scented heat.
-At the head of the table sat Gauleiter Franz Hofer. He was forty-two, sharp-nosed, with slick brown hair and a narrow mustache, wearing a high-collared Party tunic stripped of gold braid. To his right sat his wife, her hands folded rigidly in her lap. To his left sat a tall, aristocratic man in an expensive gray diplomatic suit—Dr. Rudolf Rahn, the German Ambassador to Mussolini’s Salò Republic and Hitler’s plenipotentiary to northern Italy.
-Hofer stood up slowly as Mayer entered. His eyes traveled from Mayer’s tailored lapels to the ruined landscape of his face—the blackened left eye, the crooked, swollen nose, the split lip.
+At the head of the table sat Gauleiter Franz Hofer. He was forty-two, sharp-nosed, with slick brown hair and a narrow mustache, wearing a high-collared Party tunic stripped of gold braid. To his right sat his wife, her hands folded rigidly in her lap. To his left sat a tall, aristocratic man in an expensive gray diplomatic suit—Dr. Rudolf Rahn, the German Ambassador to Mussolini's Salò Republic and Hitler's plenipotentiary to northern Italy.
+Hofer stood up slowly as Mayer entered. His eyes traveled from Mayer's tailored lapels to the ruined landscape of his face—the blackened left eye, the crooked, swollen nose, the split lip.
 
 HOFER
 (polite, formal)
@@ -1763,7 +1763,7 @@ MAYER
 You eat well for a city that has three days of flour left, Gauleiter.
 
 NARRATOR
-Hofer’s jaw tightened, but Ambassador Rahn raised a manicured hand, smiling thinly.
+Hofer's jaw tightened, but Ambassador Rahn raised a manicured hand, smiling thinly.
 
 RAHN
 (cultured, melodic cadence)
@@ -1829,8 +1829,8 @@ Chapter Twenty-Three
 The Open City Decree
 
 NARRATOR
-At zero-six hundred on the morning of May 2, the Telefunken cabinet radio in the study of Gut Lachhof hissed through three bars of funeral music from Wagner’s Götterdämmerung.
-Then the voice of the announcer from Hamburg came through the fabric grille, solemn and hollow—It is reported from the Führer’s Headquarters that our Führer, Adolf Hitler, fighting to his last breath against Bolshevism, has fallen for Germany this afternoon in his command post at the Reich Chancellery.
+At zero-six hundred on the morning of May 2, the Telefunken cabinet radio in the study of Gut Lachhof hissed through three bars of funeral music from Wagner's Götterdämmerung.
+Then the voice of the announcer from Hamburg came through the fabric grille, solemn and hollow—It is reported from the Führer's Headquarters that our Führer, Adolf Hitler, fighting to his last breath against Bolshevism, has fallen for Germany this afternoon in his command post at the Reich Chancellery.
 The broadcast ended. The carrier wave droned into silence.
 Franz Hofer sat at his heavy oak writing desk, his hands resting motionless on a leather-bound blotter. Outside in the courtyard of the estate, dark oily smoke billowed from two fifty-five-gallon steel drums. Staff orderlies and SS drivers were dumping armfuls of personnel records, party rosters, and Gestapo index cards into the flames. Several guards had already unbuttoned their tunics and discarded their silver SS collar tabs in the grass.
 Fred Mayer stood against the bookshelf, wearing the tailored charcoal suit. His left eye had swollen into a slit of dark red and purple, but his posture was upright, his thumbs hooked casually in his vest pockets.
@@ -1846,7 +1846,7 @@ MAYER
 The Reich died a long time ago. Now sign the papers.
 
 NARRATOR
-On the desk lay three typewritten sheets prepared by the provincial chancellery under Mayer’s direction—
+On the desk lay three typewritten sheets prepared by the provincial chancellery under Mayer's direction—
 One. The city of Innsbruck is declared an Open City.
 Two. All demolition orders against bridges, rail junctions, power stations, and municipal infrastructure—in accordance with the Nero Decree—are hereby immediately revoked.
 Three. All military units, including the Volkssturm, SS rear detachments, and local police, are ordered to cease combat operations, lay down their weapons, and remain in their quarters to await American forces.
@@ -1911,7 +1911,7 @@ Lower your weapons. Gauleiter Hofer has declared Innsbruck an open city. General
 NARRATOR
 The boys looked at the red-white-red armbands, then at the submachine guns emerging from the rain. They dropped their Mausers to the stone floor with a clatter.
 Gruber led the squad through the marble foyer and up the wide central staircase.
-They did not knock on the heavy double doors of the military commandant’s office. Gruber threw them open, his boots hitting the parquet floor with loud, deliberate strides.
+They did not knock on the heavy double doors of the military commandant's office. Gruber threw them open, his boots hitting the parquet floor with loud, deliberate strides.
 General Hans Böhaimb sat behind a massive walnut desk, an operational map of North Tyrol spread out before him. Two staff majors jumped to their feet, their hands darting toward their leather holsters.
 
 GRUBER
@@ -1920,7 +1920,7 @@ Hände weg!
 
 NARRATOR
 Behind Gruber, four partisans leveled captured rifles at the majors.
-General Böhaimb did not reach for his holster. He was sixty-one, with close-cropped white hair, bags of dark exhaustion beneath his eyes, and the red collar tabs of a Wehrmacht general officer. He looked at Gruber’s red-white-red armband, then at Franz Weber.
+General Böhaimb did not reach for his holster. He was sixty-one, with close-cropped white hair, bags of dark exhaustion beneath his eyes, and the red collar tabs of a Wehrmacht general officer. He looked at Gruber's red-white-red armband, then at Franz Weber.
 
 BOHAIMB
 (steady)
@@ -1930,13 +1930,13 @@ GRUBER
 Dr. Karl Gruber. Commander of the Austrian Resistance.
 
 NARRATOR
-Gruber stepped up to the edge of the desk, pulling Mayer’s copy of the Open City decree from his coat, laying it flat over the general’s map.
+Gruber stepped up to the edge of the desk, pulling Mayer's copy of the Open City decree from his coat, laying it flat over the general's map.
 
 GRUBER
 Hitler is dead in Berlin. Gauleiter Hofer has countermanded all demolition orders and stood down the district defenses. If you order your troops to resist, you are not defending Germany; you are murdering your own men. Surrender your sidearm, General.
 
 NARRATOR
-Böhaimb looked down at Hofer’s signature. He had heard the radio broadcasts from Hamburg. He knew the western front was a graveyard.
+Böhaimb looked down at Hofer's signature. He had heard the radio broadcasts from Hamburg. He knew the western front was a graveyard.
 Slowly, without a word, the general unbuckled his leather service belt, complete with holster and bayonet frog, and laid it across the map.
 
 BOHAIMB
@@ -2034,7 +2034,7 @@ MAYER
 Waiting for you at his estate in Kleinvolderberg. He wants to surrender to an American officer before the resistance hangs him from a balcony. Follow my car.
 
 NARRATOR
-The American column started its engines. With Mayer’s white-flagged staff car leading the way, followed by Major West’s command jeep and a column of armored scout cars, the 103rd Infantry Division rolled down the highway into the Inn Valley without firing a single shot.
+The American column started its engines. With Mayer's white-flagged staff car leading the way, followed by Major West's command jeep and a column of armored scout cars, the 103rd Infantry Division rolled down the highway into the Inn Valley without firing a single shot.
 They crossed the bridge into Innsbruck. The streets were lined with thousands of civilians waving Austrian red-white-red flags and Allied banners, cheering through tears as the American vehicles clattered past intact bridges, undamaged power stations, and untouched historic avenues.
 The convoy bypassed the celebrations, racing east past Hall in Tirol to the iron gates of Gut Lachhof.
 American infantrymen deployed quickly across the gravel driveway, rifles leveled at the timber portico. Mayer walked up the stone steps beside Major Bland West, pushing open the heavy front doors without knocking.
@@ -2064,12 +2064,12 @@ NARRATOR
 The mountain thaw came fast in the second week of May, turning the slopes above Oberperfuss into carpets of green rye and dandelions.
 An olive-drab Willys jeep climbed the switchbacks from the Inn Valley, its engine whining in low gear. Dyno Löwenstein sat in the passenger seat, his uniform dusty from the Brenner road, carrying a leather map case and a 35mm camera.
 He found them gathered on the wooden porch outside the Gasthof Zur Krone and the neighboring farmhouse.
-Franz Weber sat on the bench beside his fiancée, Anni Niederkircher, his arm resting quietly behind her shoulders. Standing beside them was Maria Hörtnagl, the village seamstress who had tailored Mayer’s Wehrmacht uniform in secret, along with Hans Wijnberg, who wore a clean woolen sweater and held a tin cup of real coffee traded from an American supply sergeant. Fred Mayer leaned against the timber rail, wearing an olive-drab American field jacket. His left eye was still ringed with a fading greenish shadow and the bridge of his nose remained crooked from Güttner’s truncheon, but his stance was easy.
-Löwenstein stepped down from the jeep and walked into the yard. He took Mayer’s hand in a hard grip, then Hans’s, then Franz’s.
+Franz Weber sat on the bench beside his fiancée, Anni Niederkircher, his arm resting quietly behind her shoulders. Standing beside them was Maria Hörtnagl, the village seamstress who had tailored Mayer's Wehrmacht uniform in secret, along with Hans Wijnberg, who wore a clean woolen sweater and held a tin cup of real coffee traded from an American supply sergeant. Fred Mayer leaned against the timber rail, wearing an olive-drab American field jacket. His left eye was still ringed with a fading greenish shadow and the bridge of his nose remained crooked from Güttner's truncheon, but his stance was easy.
+Löwenstein stepped down from the jeep and walked into the yard. He took Mayer's hand in a hard grip, then Hans's, then Franz's.
 
 LOWENSTEIN
 (quietly)
-Caserta thought you were dead, Fred. Hans’s dispatch on the twenty-fifth was the last clean transmission we logged before the division hit the valley.
+Caserta thought you were dead, Fred. Hans's dispatch on the twenty-fifth was the last clean transmission we logged before the division hit the valley.
 
 MAYER
 Hans kept the station open. He stayed on the air until the 103rd rolled past the switches.
@@ -2078,7 +2078,7 @@ NARRATOR
 Löwenstein pulled a wooden stool from the porch and sat down opposite them. He opened his leather case, pulled out the high-altitude aerial mosaic of the Inn Valley they had studied in Bari four months earlier, and laid it across the table.
 
 LOWENSTEIN
-The freight yards at the Hauptbahnhof are gone. The Fifteenth Air Force dropped six hundred tons directly on the switches you marked. The Germans never moved another supply train south to Kesselring. The Messerschmitt tooling at Kematen is being packed into crates for Wright Field. And General Patch’s staff has torn up the redoubt maps. There was nothing in these hills to fight.
+The freight yards at the Hauptbahnhof are gone. The Fifteenth Air Force dropped six hundred tons directly on the switches you marked. The Germans never moved another supply train south to Kesselring. The Messerschmitt tooling at Kematen is being packed into crates for Wright Field. And General Patch's staff has torn up the redoubt maps. There was nothing in these hills to fight.
 
 NARRATOR
 Franz Weber looked toward the road down to Innsbruck, his expression subdued.
@@ -2088,7 +2088,7 @@ Not everyone came back.
 
 NARRATOR
 The porch went quiet.
-Robert Moser’s body had been recovered from the cellar floor at Herrengasse 1 on the afternoon of May 3; they had buried him in the municipal cemetery near the river.
+Robert Moser's body had been recovered from the cellar floor at Herrengasse 1 on the afternoon of May 3; they had buried him in the municipal cemetery near the river.
 Down in Innsbruck, Eva Weber lay in a sterile ward at the Provincial Hospital. Though liberated from the brutal conditions of the Reichenau transit camp when the Americans arrived, the severe physical trauma, pneumonia, and internal illness contracted during her imprisonment had shattered her health. She would succumb to complications following emergency surgery before the end of the month, on May 24.
 Löwenstein looked down at the timber planks, silent for a moment, before unbuttoning his camera case and pulling out his Leica.
 

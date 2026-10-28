@@ -184,7 +184,7 @@ Through the oceanic wash of static on sixteen megacycles, the high-frequency sta
 QWA QWA QWA DE DAN DAN DAN
 Hoffmann did not need to consult the confidential commercial cipher. The three-letter group QWA was the prearranged emergency signal issued by the Reichsverkehrsministerium in Berlin. It informed all German merchant vessels at sea that diplomatic relations had ruptured, that armed conflict was imminent, and that masters were to abort commercial itineraries, avoid British and French sea lanes, and run for the nearest neutral or domestic port to evade capture.
 Hoffmann wrote the time, the callsign, and the signal on a telegraph slip, tore it from the pad, and slid the wooden door open.
-Captain Robert Rössing was standing by the starboard pelorus on the open bridge wing, a pair of Zeiss binoculars hanging by a leather lanyard around his neck. He was fifty years old, thickset, with iron-gray hair cropped close under his white officer’s cap. He had spent thirty years at sea with the DDG Hansa, starting as a cadet in square-rigged sailing barques before serving as a junior officer on the company’s Indian runs during the First World War.
+Captain Robert Rössing was standing by the starboard pelorus on the open bridge wing, a pair of Zeiss binoculars hanging by a leather lanyard around his neck. He was fifty years old, thickset, with iron-gray hair cropped close under his white officer's cap. He had spent thirty years at sea with the DDG Hansa, starting as a cadet in square-rigged sailing barques before serving as a junior officer on the company's Indian runs during the First World War.
 Hoffmann handed him the slip without speaking.
 Rössing looked at the penciled letters, then out toward the gray line of the coast.
 
@@ -204,7 +204,7 @@ NARRATOR
 He unrolled Admiralty Chart 2737—the Malabar Coast from Vengurla to Cape Comorin—and held the corners flat with brass parallel rules.
 The Ehrenfels was seventy miles west-southwest of Mangalore, squarely in the middle of the coastal shipping route.
 Two hundred and eighty miles to the north lay Bombay, the primary naval and commercial base of the British Raj on the western coast. The Naval Officer-in-Charge in Bombay was already enforcing the prearranged wartime control of shipping. If the Ehrenfels held her commercial track, she would steam directly into the outer examination anchorage off the Prongs Reef, where an armed prize crew would board her within thirty minutes of dropping anchor.
-To the south lay Ceylon. The Royal Navy’s East Indies Station, based at Colombo and Trincomalee under Vice-Admiral Ralph Leatham, had the light cruiser HMS Leander and armed boarding vessels on operational sweep. Within forty-eight hours of a British declaration of war, the southern choke-point around Cape Comorin would be closed.
+To the south lay Ceylon. The Royal Navy's East Indies Station, based at Colombo and Trincomalee under Vice-Admiral Ralph Leatham, had the light cruiser HMS Leander and armed boarding vessels on operational sweep. Within forty-eight hours of a British declaration of war, the southern choke-point around Cape Comorin would be closed.
 Between Bombay and Colombo, the coast of the Indian peninsula stretched for nine hundred miles under British jurisdiction, with one solitary geographic break - the Estado da Índia.
 Rössing placed the point of his brass dividers on the Zuari River estuary, midway between Bombay and Mangalore.
 
@@ -254,7 +254,7 @@ Port ten. Bring her head to three-five-eight.
 NARRATOR
 The telegraph clanged twice as the bridge levers were brought forward to FULL AHEAD BOTH. Deep in the double bottoms, the tone of the MAN diesels sharpened to a hard, concussive thrum that resonated through the teak planks of the wheelhouse floor. The bow rose against the monsoon swells, throwing sheets of gray water across the forecastle as her speed climbed to fifteen, then sixteen knots.
 Under the provisions of the 1907 Hague Convention XIII—governing the Rights and Duties of Neutral Powers in Naval War—a merchant ship belonging to a belligerent nation was legally entitled to seek shelter in a neutral port to avoid capture, provided she did not use the anchorage to fit out for war, conduct reconnaissance, or stage military actions.
-Portugal was Britain’s oldest treaty partner under the 1386 Treaty of Windsor. But Prime Minister António de Oliveira Salazar had declared strict Portuguese neutrality at the first signs of the Polish crisis.
+Portugal was Britain's oldest treaty partner under the 1386 Treaty of Windsor. But Prime Minister António de Oliveira Salazar had declared strict Portuguese neutrality at the first signs of the Polish crisis.
 In Goa, an enclave of four hundred square miles held by the Portuguese Crown since 1510, the Governor-General, Colonel José Ricardo Pereira Cabral, held the territory with a small colonial garrison, an antique river fort, and a handful of customs cutters. He possessed no modern coastal artillery. But behind that tiny colonial establishment stood the absolute shield of international law. If the Ehrenfels could place her hull inside Portuguese territorial waters before a British warship intercepted her, she could not be touched without a formal violation of Portuguese sovereignty.
 Throughout the afternoon and night of 1 September, the Ehrenfels ran under full blackout. Seamen moved along the alleyways, bolting down the iron deadlights and brushing black bitumen paint over the porthole glass. Lookouts were doubled on the forecastle head and the bridge wings, their glasses searching the rain squalls for the silhouette of an armed merchant cruiser or a Royal Indian Navy sloop sweeping down from Bombay.
 At dawn on 2 September, thirty miles south of Mormugao Head, the port lookout picked up two trails of black coal smoke low against the northern horizon.
@@ -301,7 +301,7 @@ The starboard bower anchor plunged. Iron struck water with a heavy crash, follow
 Astern of her, the Drachenfels and the Braunfels dropped anchor in turn, swinging to the tide four hundred yards apart. The three ships lay in a neat column, their bows pointing westward toward the bay entrance.
 The British naval net had been missed by barely four hours.
 At 14:15, a small wooden motor launch pushed off from the stone jetty of the Alfândega—the Portuguese customs house.
-Flying the green-and-red national flag from its stern staff, the launch came alongside the Ehrenfels’ port accommodation ladder. Four men climbed the teak steps to the deck.
+Flying the green-and-red national flag from its stern staff, the launch came alongside the Ehrenfels' port accommodation ladder. Four men climbed the teak steps to the deck.
 Captain Rössing received them at the rail in his blue service uniform, accompanied by Chief Engineer Redel and First Officer Walter Radau.
 The boarding officer was the Capitão dos Portos of Mormugao, Lieutenant Fernando Silva of the Portuguese Navy. He was thirty-eight, slight, with a dark, sharp-featured face, wearing white naval drill, flanked by an official from the Guarda Fiscal and two Goan colonial policemen armed with Mauser rifles.
 Silva saluted with formal courtesy.
@@ -323,7 +323,7 @@ We thank the Portuguese authorities, Lieutenant.
 
 SILVA
 (expression unsoftened, glancing upward toward the cargo derricks and the wireless aerial)
-Asylum carries strict legal conditions, Captain. You will provide complete manifests of your cargo, your fuel reserves, and your ship’s company by eighteen-hundred hours today. Your crew is prohibited from establishing residence ashore; they are permitted within the municipal boundaries of Vasco da Gama between sunrise and sunset, but all men must return aboard prior to the harbor curfew at twenty-two-hundred hours. <pause> Furthermore, Captain, you are forbidden under international law from using this neutral harbor for any belligerent purpose. You may not conduct surveillance, communicate military intelligence, or operate your wireless apparatus.
+Asylum carries strict legal conditions, Captain. You will provide complete manifests of your cargo, your fuel reserves, and your ship's company by eighteen-hundred hours today. Your crew is prohibited from establishing residence ashore; they are permitted within the municipal boundaries of Vasco da Gama between sunrise and sunset, but all men must return aboard prior to the harbor curfew at twenty-two-hundred hours. <pause> Furthermore, Captain, you are forbidden under international law from using this neutral harbor for any belligerent purpose. You may not conduct surveillance, communicate military intelligence, or operate your wireless apparatus.
 
 ROSSING
 We are a commercial merchant carrier, Lieutenant. We carry no arms.
@@ -382,7 +382,7 @@ At 18:00 European time, Benito Mussolini stepped onto the balcony of the Palazzo
 Two hundred miles off the Malabar Coast, steaming south toward Colombo with general cargo, was the Italian steam freighter SS Anfora.
 The Anfora was an eighteen-year-old single-screw freighter of 5,452 gross register tons, owned by the Società Anonima di Navigazione Lloyd Triestino. Built in 1922 at the San Rocco yard in Trieste, she was powered by a three-cylinder triple-expansion steam engine and manned by a crew of forty-six Italian officers and seamen under the command of Captain Leopoldo Lindemann. Her holds carried five thousand tons of freight loaded in Genoa and Naples - drums of olive oil, textiles, mechanical spares, and several thousand crates of bottled wine intended for European commercial communities in Singapore and Shanghai.
 Captain Lindemann received the Rome broadcast in his sea cabin.
-Like Rössing nine months earlier, Lindemann understood the naval geography of the Arabian Sea. Italy had entered the war without an operational fleet base in the Indian Ocean. The nearest Italian-controlled anchorage was Massawa on the Red Sea, fifteen hundred miles to the west through waters dominated by the Royal Navy’s East Indies Station and the fortified station at Aden.
+Like Rössing nine months earlier, Lindemann understood the naval geography of the Arabian Sea. Italy had entered the war without an operational fleet base in the Indian Ocean. The nearest Italian-controlled anchorage was Massawa on the Red Sea, fifteen hundred miles to the west through waters dominated by the Royal Navy's East Indies Station and the fortified station at Aden.
 The British light cruiser HMS Leander and armed merchant cruisers were patrolling the central shipping lanes. If the Anfora continued on her commercial course toward Ceylon, she would be intercepted, declared a prize of war, and her crew removed to an internment camp in British India within days.
 Lindemann ordered the helm over to the north-northwest and called for maximum steam pressure.
 Steaming through the night without navigation lights, the Anfora ran along the edge of the continental shelf, pushing her reciprocating engines to ten knots.
@@ -395,12 +395,12 @@ RADAU
 Lloyd Triestino. The Anfora. Italy has entered the war.
 
 NARRATOR
-Rössing said nothing. He watched the Italian freighter reverse her engine, her counter digging into the brown water of the estuary. Two hundred yards off the port beam of the Braunfels, the Anfora’s port bower anchor dropped into the mud, the chain rattling through the hawsehole with a sharp roar that echoed off the cliffs.
+Rössing said nothing. He watched the Italian freighter reverse her engine, her counter digging into the brown water of the estuary. Two hundred yards off the port beam of the Braunfels, the Anfora's port bower anchor dropped into the mud, the chain rattling through the hawsehole with a sharp roar that echoed off the cliffs.
 Within two hours, the green-and-red motor launch of the Capitão dos Portos was alongside.
-Lieutenant Fernando Silva, accompanied by an inspector from the Guarda Fiscal and armed colonial police, climbed the Anfora’s ladder to repeat the administrative routine that had sealed the German ships the previous September.
-Governor-General Pereira Cabral’s orders from Panjim were consistent - strict compliance with the 1907 Hague Convention. The Italian vessel was granted sanctuary as an unarmed commercial freighter of a belligerent state, conditional upon the submission of cargo manifests, the disarmament of any signaling equipment, and the confinement of her crew to the port's curfew boundaries.
-Silva and the customs officers climbed to the Anfora’s boat deck.
-The ship’s standard Marconi radio installation was shut down. Using braided copper wire and a handheld lead press, the Portuguese inspector secured the main transmitter key, the high-voltage knife switches, and the aerial feed lead, crimping a lead disc stamped with the arms of the Portuguese Republic over the terminals.
+Lieutenant Fernando Silva, accompanied by an inspector from the Guarda Fiscal and armed colonial police, climbed the Anfora's ladder to repeat the administrative routine that had sealed the German ships the previous September.
+Governor-General Pereira Cabral's orders from Panjim were consistent - strict compliance with the 1907 Hague Convention. The Italian vessel was granted sanctuary as an unarmed commercial freighter of a belligerent state, conditional upon the submission of cargo manifests, the disarmament of any signaling equipment, and the confinement of her crew to the port's curfew boundaries.
+Silva and the customs officers climbed to the Anfora's boat deck.
+The ship's standard Marconi radio installation was shut down. Using braided copper wire and a handheld lead press, the Portuguese inspector secured the main transmitter key, the high-voltage knife switches, and the aerial feed lead, crimping a lead disc stamped with the arms of the Portuguese Republic over the terminals.
 The Anfora was formally silenced, her forty-six crew members placed under the same twenty-two-hundred-hour municipal curfew that governed the Germans.
 With the arrival of the Anfora, the Axis enclave inside Mormugao reached its permanent wartime strength - four large merchant vessels, totaling nearly twenty-eight thousand gross register tons, riding their ground tackle in a compact column three hundred yards off the railway wharves.
 Seen from the upper verandas of the villas in Vasco da Gama and the terrace of the Palacio Grande Hotel overlooking the bay, the ships formed an enduring feature of the roadstead.
@@ -430,19 +430,19 @@ Accompanied by an escort from the Guarda Fiscal, the Portuguese officer climbed 
 On paper, the ship remained entirely mute.
 Yet Captain Robert Rössing and his senior officers operated under no illusions regarding their legal sanctuary.
 From the outset of the war, the standing directives issued by the Oberkommando der Marine (OKM) to the German merchant fleet were explicit - no German vessel was ever to be permitted to fall intact into enemy hands. If a British naval force attempted to violate Portuguese waters in a surprise cutting-out operation, or if Lisbon succumbed to British diplomatic coercion, the master was duty-bound to ensure the total and irreversible destruction of his ship.
-Deep in the bottom of the Ehrenfels, beneath the greasy floorplates of the shaft alley, Chief Engineer Wilhelm Redel prepared the freighter’s grave.
+Deep in the bottom of the Ehrenfels, beneath the greasy floorplates of the shaft alley, Chief Engineer Wilhelm Redel prepared the freighter's grave.
 The ship drew her cooling water through two massive bronze sea-cocks—the main condenser circulator intakes—penetrating the hull plates six feet below the harbor waterline. Each valve was an eighteen-inch bronze casting bolted to a heavy steel hull flange.
 Using heavy wrenches, Redel and his mechanics systematically backed off the securing studs on the intake flanges by several threads, coating the exposed metal with thick animal tallow to prevent salt corrosion from binding the iron.
 Beside each valve, resting in iron brackets welded directly to the frames, lay an eight-pound sledgehammer and a pair of cold chisels. With a few heavy, deliberate blows, a watchkeeper could shear the weakened bronze casting. Hydrostatic pressure would drive an eighteen-inch column of seawater into the machinery flats, flooding the double bottoms and pulling the ship into the riverbed within minutes.
-To guarantee that salvage would be impossible even if the sea valves were patched, Redel prepared demolition charges from the ship’s commercial blasting stores.
+To guarantee that salvage would be impossible even if the sea valves were patched, Redel prepared demolition charges from the ship's commercial blasting stores.
 Four heavy zinc-plated canisters, packed with pressed picric acid explosive, were clamped directly against the garboard strakes and the propeller shaft tunnel in the aft holds. Detonator leads were strung through the bilges, ending in a locked wooden box on the lower engine-room catwalk where two dry-cell batteries and a knife switch waited. Rössing kept the key on his personal ring.
 While Redel secured the vessel's destruction, the question of communications became an urgent operational puzzle.
 In Berlin, naval intelligence (Abwehr and the B-Dienst) understood the geographic value of the Goan anchorage. Mormugao sat fewer than three hundred miles south of Bombay, the central naval and shipping node of western India. If shipping movements, sailing dates, and convoy routes could be gathered in Bombay and transmitted to U-boats operating in the Indian Ocean, the interned freighters could serve as an invaluable forward reconnaissance post.
 The ship's standard Telefunken transmitter could not be used without destroying the Portuguese seals and inviting immediate armed internment by colonial police.
 To overcome this, Chief Wireless Officer Erich Hoffmann set about assembling an illicit shortwave installation.
-The work was slow, painstaking, and carried out under absolute secrecy. Hoffmann had access to the vessel’s electrical spares - air-spaced tuning capacitors, ceramic standoff insulators, and copper wire from spare generator windings. Specialized vacuum tubes, quartz crystals cut to specific megacycle frequencies, and high-voltage transformers, however, had to be procured from the outside.
+The work was slow, painstaking, and carried out under absolute secrecy. Hoffmann had access to the vessel's electrical spares - air-spaced tuning capacitors, ceramic standoff insulators, and copper wire from spare generator windings. Specialized vacuum tubes, quartz crystals cut to specific megacycle frequencies, and high-voltage transformers, however, had to be procured from the outside.
 The channel for these components was the river trade.
-Every week, local Goan bumboats and supply lighters tied up alongside the Ehrenfels’ accommodation ladder to deliver fresh river water, firewood, vegetables, and fruit purchased in the markets of Vasco da Gama and Margão.
+Every week, local Goan bumboats and supply lighters tied up alongside the Ehrenfels' accommodation ladder to deliver fresh river water, firewood, vegetables, and fruit purchased in the markets of Vasco da Gama and Margão.
 Through German commercial contacts operating in Panjim, discrete orders were placed with radio supply shops and intermediate importers in Bombay and Portuguese India. Vacuum tubes, rolls of enameled wire, and dry batteries arrived aboard hidden beneath crates of native produce and sacks of lentils.
 Hoffmann mounted the transmitter inside an unventilated storage locker abaft the chartroom, away from the casual glance of visiting customs inspectors.
 Power was tapped from an auxiliary diesel generator used to keep the domestic cold-storage plant running, routed through an isolated cable run that completely bypassed the ship's main distribution board.
@@ -462,11 +462,11 @@ Mid-1942
 From the first-floor balcony of the British Consulate in Panjim, the Mandovi River curved west toward the Arabian Sea beneath the humid glare of the midday sun.
 Lieutenant-Colonel Claude Edward Urquhart Bremner stood by the whitewashed balustrade, an unlit cheroot clamped between his teeth, his eyes fixed on the low red-tiled roof of a riverside villa two hundred yards downstream.
 Bremner was fifty years old, an officer of the Indian Army who had transferred in 1919 to the Foreign and Political Department of the Government of India. He had spent two decades on the harsh, dust-blown stations of the North-West Frontier—in Quetta, Dera Ismail Khan, and the Persian Gulf—before being dispatched to Portuguese India in November 1940. He was a high-strung, nervous man, worn down by twenty-five hot-weather seasons and chronic malaria, with a reputation in New Delhi for drafting excitable, pessimistic dispatches on insufficient data.
-Yet in the summer of 1942, Bremner’s anxieties were grounded in hard, undeniable arithmetic.
+Yet in the summer of 1942, Bremner's anxieties were grounded in hard, undeniable arithmetic.
 Ten miles to the south, riding placidly at their moorings inside Mormugao Bay, lay the four Axis merchantmen. From the terrace of the Palacio Grande Hotel in Vasco da Gama, where Bremner and his wife Anne had stayed upon their arrival, the hulls of the Ehrenfels, Drachenfels, Braunfels, and Anfora looked like abandoned iron islands. But to Bremner, who made the journey by car and ferry between Panjim and Mormugao three times a week, the ships were a visible abscess on the flank of British India.
 The enclave was governed from the Palácio do Idalcão—the ancient riverside fortress of Adil Shah in Panjim—by the Governor-General of the Estado da Índia, Colonel José Ricardo Pereira Cabral.
-Cabral was an authoritarian colonial officer who executed António de Oliveira Salazar’s decrees from Lisbon with glacial, bureaucratic exactitude. Whenever Bremner called upon him in his high-ceilinged office beneath portraits of Portuguese viceroys, demanding greater restrictions on the Axis crews or formal searches of the German hulls, Cabral received him with polite, formal inertia.
-The ships, Cabral insisted, were purely commercial craft disarmed under the provisions of the 1907 Hague Convention. The Portuguese port captain had sealed their radios with lead wire. The crews were subject to a nightly curfew. If His Majesty’s Government suspected illegal activities, the British Consul was welcome to submit documented evidence through the British Embassy in Lisbon.
+Cabral was an authoritarian colonial officer who executed António de Oliveira Salazar's decrees from Lisbon with glacial, bureaucratic exactitude. Whenever Bremner called upon him in his high-ceilinged office beneath portraits of Portuguese viceroys, demanding greater restrictions on the Axis crews or formal searches of the German hulls, Cabral received him with polite, formal inertia.
+The ships, Cabral insisted, were purely commercial craft disarmed under the provisions of the 1907 Hague Convention. The Portuguese port captain had sealed their radios with lead wire. The crews were subject to a nightly curfew. If His Majesty's Government suspected illegal activities, the British Consul was welcome to submit documented evidence through the British Embassy in Lisbon.
 Bremner had no legal evidence. What he had was surveillance, handled through a covert channel that officially did not exist.
 In the bazaar alleys behind the Church of the Immaculate Conception in Panjim, the British Empire operated not through diplomats, but through the Indian Political Intelligence (IPI).
 Run jointly by the India Office in London and the Government of India in New Delhi, IPI had spent two decades monitoring Indian nationalists, seditionists, and foreign agents across the subcontinent. In Goa, IPI maintained a handful of paid Goan informers—clerks in the colonial post office, lightermen working the Zuari ore berths, and telegraph runners along the railway.
@@ -476,18 +476,18 @@ In the official colonial alien registry in Panjim, Koch was registered as a Germ
 To Allied intelligence, he was known by the surveillance cipher "Trompeta."
 As early as late 1939, the Dutch East Indies intelligence service (NEFIS) had warned British authorities that Koch was an officer of the Abwehr—the German military intelligence organization—stationed in the East to run maritime espionage networks.
 When the outbreak of hostilities stranded the German freighters in Mormugao, Koch had been unable to secure passage back to Europe. He had settled in Goa, capitalizing on its neutral status and its porous, four-hundred-mile land border with the British Bombay Presidency to construct a clandestine intelligence post.
-From his desk in the Panjim consulate, Bremner compiled weekly surveillance logs on Koch’s movements.
+From his desk in the Panjim consulate, Bremner compiled weekly surveillance logs on Koch's movements.
 "The subject," Bremner wrote in a classified memorandum to the External Affairs Department in New Delhi in July 1942, "maintains an establishment entirely inconsistent with his declared income as an idle commercial clerk. He receives regular remittances through neutral banks in Lisbon and Portuguese Indian exchange brokers. He is in constant, unsupervised communication with the crews of the German vessels, particularly the master of the Ehrenfels, Captain Rössing."
-More alarming than Koch’s visits to Mormugao was the rail traffic arriving from the east.
+More alarming than Koch's visits to Mormugao was the rail traffic arriving from the east.
 The sole railway connecting Portuguese Goa to the rest of India was the West of India Portuguese Railway (WIPR), an English-built, meter-gauge line operated by the Madras and Southern Mahratta Railway Company.
 The line ran from the deep-water harbor at Mormugao, through the commercial center of Vasco da Gama and the rail junction at Margão, before climbing the dense, bamboo-covered wall of the Western Ghats. It crossed the international frontier at the high-altitude mountain post of Castle Rock, descending into the British district of Belgaum, where it connected to the vast trunk network leading directly to Bombay, Madras, and Calcutta.
 Every afternoon, passenger and goods trains rattled across the frontier at Castle Rock.
-Under Portuguese neutrality regulations, passenger luggage was subject to routine customs examination by Portuguese guardas fiscais at the frontier barrier. But the customs inspections were notoriously lax—easily evaded by a five-rupee note slipped into a guard’s pocket or a canvas bag passed through a carriage window in the mountain cuttings.
+Under Portuguese neutrality regulations, passenger luggage was subject to routine customs examination by Portuguese guardas fiscais at the frontier barrier. But the customs inspections were notoriously lax—easily evaded by a five-rupee note slipped into a guard's pocket or a canvas bag passed through a carriage window in the mountain cuttings.
 IPI informers in Vasco da Gama reported that two or three times a week, Indian couriers stepping off the afternoon train from Belgaum would walk directly to a small shipping agency near the railway goods shed.
 The couriers carried no commercial freight. They carried small, sealed packages - hollowed-out bamboo walking sticks, tin canisters of English pipe tobacco, or cotton waistbands stitched with thin slips of onionskin paper.
-Inside those slips were the departures from the Bombay docks - the Victoria, Prince’s, and Alexandra Docks, three hundred miles to the north.
+Inside those slips were the departures from the Bombay docks - the Victoria, Prince's, and Alexandra Docks, three hundred miles to the north.
 They contained the sailing manifests of Allied merchantmen, the bunker capacities, the cargo tallies—crude oil from Abadan, crated aircraft, tank spares, Australian wheat—and, most fatally, the zigzag routing tracks and assembly points issued to masters by the Naval Control of Shipping in Bombay.
-Once delivered to the agency in Vasco, the slips were transferred to Koch’s hands in Panjim.
+Once delivered to the agency in Vasco, the slips were transferred to Koch's hands in Panjim.
 From Koch, the information was passed via Goan boatmen to the accommodation ladder of the Ehrenfels, disappearing behind the teak bulkheads of the ship.
 In late August 1942, Bremner addressed a formal dispatch to Sir Olaf Caroe, Secretary of the External Affairs Department in New Delhi:
 
@@ -503,9 +503,9 @@ Across the river, on the road leading down to the harbor, a man in a white linen
 Bremner raised his binoculars. It was Koch.
 The German rode with the calm, unhurried ease of a man who knew he was completely protected by the red-and-green flag flying from the ramparts of Fort Mormugao, six miles across the water.
 Bremner lowered the glass, his hands trembling slightly against the cedar sill.
-He knew what the dispatch to New Delhi would produce - polite acknowledgments from Caroe’s clerks, warnings to exercise diplomatic caution, and reminders of the delicate state of Anglo-Portuguese relations in London.
+He knew what the dispatch to New Delhi would produce - polite acknowledgments from Caroe's clerks, warnings to exercise diplomatic caution, and reminders of the delicate state of Anglo-Portuguese relations in London.
 The Foreign Office would not intervene. The Governor-General would not move.
-And somewhere out in the deep water of the Indian Ocean, a thousand miles to the south, the ships whose names were written on the slips in Koch’s canvas case were steaming unescorted toward their courses.
+And somewhere out in the deep water of the Indian Ocean, a thousand miles to the south, the ships whose names were written on the slips in Koch's canvas case were steaming unescorted toward their courses.
 
 
 
@@ -524,7 +524,7 @@ The ship did not capsize slowly. The second torpedo ruptured the forward fuel bu
 Two miles off her port quarter, running on her diesels with only the low knuckle of her conning tower breaking the surface, U-178—a 1,600-ton, long-range Type IXD2 boat under the command of Kapitän zur See Hans Ibbeken—did not linger to watch the lifeboats drop. Her watch officers logged the time, the estimated tonnage, and the bearing, and the submarine slipped back into the dark on an interception vector already plotted before the first torpedo had left the tube.
 Hours later, Ibbeken struck again, sending the 5,244-ton British freighter Trekieve to the bottom in the same sector.
 Within three weeks, the Mozambique Channel was thick with drifting wreckage - water-logged timber, splintered life-rafts, kapok lifebelts keeping bloated corpses upright under the tropical sun, and square miles of black, coagulated oil that coated the beaches of neutral Portuguese East Africa. Working in tandem with U-181 under Kapitän zur See Wolfgang Lüth, the German long-range boats turned the corridor into a private hunting ground.
-In the subterranean naval plotting room of the Royal Navy’s Eastern Fleet at Kilindini, blasted into the coral bluffs of Mombasa on the Kenya coast, the air was stagnant. It smelled of damp distemper, cheap canteen tobacco, and the salt-sweat of two dozen men working under carbon-filament bulbs.
+In the subterranean naval plotting room of the Royal Navy's Eastern Fleet at Kilindini, blasted into the coral bluffs of Mombasa on the Kenya coast, the air was stagnant. It smelled of damp distemper, cheap canteen tobacco, and the salt-sweat of two dozen men working under carbon-filament bulbs.
 Admiral Sir James Somerville, Commander-in-Chief of the Eastern Fleet, stood before the floor-to-ceiling map of the Indian Ocean, his hands clasped behind the back of his unbuttoned white uniform.
 Somerville was fifty-nine, a veteran of the Mediterranean campaigns who had moved his fleet headquarters to Kilindini following the Japanese carrier raid into Ceylon seven months earlier. He commanded a fleet on paper, but in reality, his operational strength had been stripped to the bone.
 Every fleet carrier, modern destroyer, and escort sloop that could float had been recalled to European waters to cover Operation Torch—the Allied landings in French North Africa—or was frozen to the gunwales on the Arctic convoy runs to Murmansk. In the four million square miles of the Indian Ocean, Somerville had only a handful of aging D-class light cruisers, converted armed merchant cruisers, and two squadrons of Catalina flying boats struggling to keep their airframes intact in the coastal humidity.
@@ -544,7 +544,7 @@ Over one hundred thousand tons in three weeks, Admiral. And Durban reports anoth
 
 SOMERVILLE
 (softly)
-I can read the board. London is screaming about Persian Gulf petroleum, and the Eighth Army’s logistics line is being gutted before the hulls reach the Red Sea. What is Colombo doing about convoying?
+I can read the board. London is screaming about Persian Gulf petroleum, and the Eighth Army's logistics line is being gutted before the hulls reach the Red Sea. What is Colombo doing about convoying?
 
 OPERATIONS OFFICER
 Colombo can do nothing, sir. We haven't the sloops to escort a single line of merchantmen between Kilindini and Durban without stripping the Bombay oil route bare.
@@ -640,7 +640,7 @@ Flash intercept from the Jabalpur Y-Station, Colonel. Zero-two-one-six Indian St
 
 NARRATOR
 Marr-Johnson took the slip.
-The Adcock directional array at Jabalpur, built on the high, dry plateau of the Central Provinces, was the primary high-frequency listening post for the central subcontinent. Positioned far from the electrical noise of the coastal ports, its diamond-shaped aerials were tuned specifically to catch the skip-distance bounce of shortwave signals reflecting off the ionosphere’s F-layer.
+The Adcock directional array at Jabalpur, built on the high, dry plateau of the Central Provinces, was the primary high-frequency listening post for the central subcontinent. Positioned far from the electrical noise of the coastal ports, its diamond-shaped aerials were tuned specifically to catch the skip-distance bounce of shortwave signals reflecting off the ionosphere's F-layer.
 The docket read:
 FREQUENCY - 8240 KC/S.
 TIME - 0216 IST.
@@ -728,20 +728,20 @@ The Lisbon Veto
 December 1942
 
 In the winter chill of New Delhi, the British Empire transacted its business through the heavy architecture of permanence.
-Along the red sandstone corridors of the Secretariat—Sir Edwin Lutyens’ vast administrative acropolis rising above the dusty plains of the Yamuna—messengers in scarlet tunics and gold-braided turbans moved quietly across marble floors, bearing leather-bound dispatch boxes embossed with the royal cypher of King George VI.
+Along the red sandstone corridors of the Secretariat—Sir Edwin Lutyens' vast administrative acropolis rising above the dusty plains of the Yamuna—messengers in scarlet tunics and gold-braided turbans moved quietly across marble floors, bearing leather-bound dispatch boxes embossed with the royal cypher of King George VI.
 Behind the double teak doors of the External Affairs Department, there was no hum of thermionic valves and no clatter of naval teleprinters. There was only the dry rustle of airmail paper, the tick of a mahogany bracket clock, and the muted clink of porcelain tea cups.
 Sir Olaf Caroe, Foreign Secretary to the Government of India, sat behind a wide walnut desk cleared of all routine files.
 At fifty years of age, Caroe was an intellectual heavyweight of the Indian Civil Service. A former political officer on the North-West Frontier, he possessed a razor-sharp administrative intellect, icy composure, and an encyclopedic command of international law and imperial frontiers. Behind his steel-rimmed spectacles, his eyes were tired, carrying the strain of managing external policy while the Japanese Army stood on the eastern border of Bengal and civil unrest simmered across the provinces.
 Seated across the desk was Major-General Walter Cawthorn, Director of Military Intelligence at General Headquarters India. Australian-born, blunt, and professionally unsentimental, Cawthorn held the intelligence apparatus of the subcontinent in his hands, coordinating directly with the Directorate of Military Intelligence in Whitehall, the secret networks of Indian Political Intelligence, and the fledgling sabotage branches of the Special Operations Executive.
 Beside Cawthorn sat Captain James Montgomerie of the Royal Navy, representing the Commander-in-Chief, Eastern Fleet.
 Between them lay the red-jacketed dossier that had arrived by hand courier from Colonel Peter Marr-Johnson at Anand Parbat barely three hours earlier.
-The cover sheet bore Marr-Johnson’s high-confidence assessment - the direction-finding bearings from Jabalpur, Bangalore, and Karachi, aligned with the courier records of Indian Political Intelligence, proved that the clandestine transmissions vectoring the Type IXD2 U-boats in the Mozambique Channel originated from the anchored hull of the Ehrenfels inside Mormugao Harbor.
+The cover sheet bore Marr-Johnson's high-confidence assessment - the direction-finding bearings from Jabalpur, Bangalore, and Karachi, aligned with the courier records of Indian Political Intelligence, proved that the clandestine transmissions vectoring the Type IXD2 U-boats in the Mozambique Channel originated from the anchored hull of the Ehrenfels inside Mormugao Harbor.
 
 NARRATOR
 Cawthorn leaned forward. His forearms rested on the edge of the desk.
 
 CAWTHORN
-The operational picture is complete, Sir Olaf. It is no longer a question of deduction. The Ehrenfels is operating as a forward reconnaissance and signals post for the Kriegsmarine. She is receiving Bombay dock manifests via the West of India Portuguese Railway couriers, enciphering them, and transmitting them directly to Hans Ibbeken’s and Wolfgang Lüth’s boats off the African coast. In November alone, over one hundred thousand tons of merchant shipping were systematically butchered in that corridor. If the leak continues through the spring, the Persian Gulf tanker route will break down, and the Eighth Army in Egypt will run out of fuel.
+The operational picture is complete, Sir Olaf. It is no longer a question of deduction. The Ehrenfels is operating as a forward reconnaissance and signals post for the Kriegsmarine. She is receiving Bombay dock manifests via the West of India Portuguese Railway couriers, enciphering them, and transmitting them directly to Hans Ibbeken's and Wolfgang Lüth's boats off the African coast. In November alone, over one hundred thousand tons of merchant shipping were systematically butchered in that corridor. If the leak continues through the spring, the Persian Gulf tanker route will break down, and the Eighth Army in Egypt will run out of fuel.
 
 NARRATOR
 Captain Montgomerie tapped the edge of the tracking overlay.
@@ -775,7 +775,7 @@ Caroe laid the cable back on the blotter, pressing it flat with the palm of a pa
 
 CAROE
 (tone administrative, unyielding, lethal weight)
-Let me tell you what happens the instant a Royal Navy white ensign enters Mormugao Harbor and fires a single round of small-arms ammunition into an anchored vessel. The Portuguese Ambassador in London, Dr. Armindo Monteiro, will be inside Anthony Eden’s office in Whitehall within two hours of the report reaching Lisbon. By noon, Portugal will formally sever diplomatic relations with His Majesty's Government. By evening, Dr. Salazar will issue an executive decree declaring all British assets in Portuguese territories worldwide subject to immediate confiscation. The port of Lourenço Marques in Mozambique will be closed to Allied shipping. And the border between Portuguese East Africa and the Rhodesias will become an armed frontier.
+Let me tell you what happens the instant a Royal Navy white ensign enters Mormugao Harbor and fires a single round of small-arms ammunition into an anchored vessel. The Portuguese Ambassador in London, Dr. Armindo Monteiro, will be inside Anthony Eden's office in Whitehall within two hours of the report reaching Lisbon. By noon, Portugal will formally sever diplomatic relations with His Majesty's Government. By evening, Dr. Salazar will issue an executive decree declaring all British assets in Portuguese territories worldwide subject to immediate confiscation. The port of Lourenço Marques in Mozambique will be closed to Allied shipping. And the border between Portuguese East Africa and the Rhodesias will become an armed frontier.
 
 MONTGOMERIE
 (face flushed red above his white naval collar)
@@ -798,13 +798,13 @@ The room went completely still. The ticking of the bracket clock sounded unnatur
 
 CAROE
 (fixing Montgomerie with a cold stare)
-Do you comprehend what the Azores mean to the Grand Strategy of the Allies, Captain? The Azores archipelago sits squarely in the center of the Mid-Atlantic Air Gap. The 'Black Pit.' The five-hundred-mile oceanic void where our North Atlantic convoys have zero air cover from Iceland, Newfoundland, or the United Kingdom. It is there that Admiral Dönitz’s wolf packs are sinking fifty merchant vessels every single month. If we have operational airfields on Terceira and São Miguel, our very-long-range Liberators and Sunderlands can sweep the entire central Atlantic. We close the gap. We provide continuous escort cover to the trade convoys. We break the back of the submarine campaign, without which Great Britain starves and the war in Europe is irrevocably lost.
+Do you comprehend what the Azores mean to the Grand Strategy of the Allies, Captain? The Azores archipelago sits squarely in the center of the Mid-Atlantic Air Gap. The 'Black Pit.' The five-hundred-mile oceanic void where our North Atlantic convoys have zero air cover from Iceland, Newfoundland, or the United Kingdom. It is there that Admiral Dönitz's wolf packs are sinking fifty merchant vessels every single month. If we have operational airfields on Terceira and São Miguel, our very-long-range Liberators and Sunderlands can sweep the entire central Atlantic. We close the gap. We provide continuous escort cover to the trade convoys. We break the back of the submarine campaign, without which Great Britain starves and the war in Europe is irrevocably lost.
 
 NARRATOR
 Caroe picked up a silver paper knife and balanced it on his finger.
 
 CAROE
-Salazar is a neutral autocrat holding a knife to our jugular vein. He is terrified of the Axis; he is terrified that a breach of neutrality will provoke Adolf Hitler into demanding transit rights through Franco’s Spain to seize Gibraltar. He is morbidly sensitive regarding Portuguese imperial sovereignty. If the British armed forces commit an overt military act inside Portuguese Goa, Dr. Salazar will terminate the Azores negotiations that very afternoon. He will lock the Royal Navy and the Royal Air Force out of the Atlantic islands forever. And Mr. Churchill will personally ensure that whatever officer signed the operational order faces a court-martial for treason before the week is out.
+Salazar is a neutral autocrat holding a knife to our jugular vein. He is terrified of the Axis; he is terrified that a breach of neutrality will provoke Adolf Hitler into demanding transit rights through Franco's Spain to seize Gibraltar. He is morbidly sensitive regarding Portuguese imperial sovereignty. If the British armed forces commit an overt military act inside Portuguese Goa, Dr. Salazar will terminate the Azores negotiations that very afternoon. He will lock the Royal Navy and the Royal Air Force out of the Atlantic islands forever. And Mr. Churchill will personally ensure that whatever officer signed the operational order faces a court-martial for treason before the week is out.
 
 NARRATOR
 Montgomerie pushed back into his leather armchair.
@@ -818,7 +818,7 @@ CAROE
 The Royal Navy will not touch Mormugao. The Royal Indian Navy will not touch Mormugao. No soldier, sailor, or marine wearing the uniform of the King-Emperor will cross the border at Castle Rock or enter Goan territorial waters. That order comes directly from the War Cabinet in London, confirmed by the Chiefs of Staff Committee, and endorsed by the Prime Minister himself.
 
 NARRATOR
-General Cawthorn shifted his weight. He had remained silent throughout Caroe’s geopolitical exposition, observing the Foreign Secretary’s eyes.
+General Cawthorn shifted his weight. He had remained silent throughout Caroe's geopolitical exposition, observing the Foreign Secretary's eyes.
 Cawthorn had known Caroe for years, having navigated the intricate bureaucratic boundaries between military intelligence and external affairs through the darkest days of 1941. He noted the precise phrasing the diplomat had used.
 
 CAWTHORN
@@ -923,13 +923,13 @@ Robert Koch was seated at a heavy rosewood desk beneath the green glass shade of
 In the adjoining dining room, separated by an open timber archway, his wife, Grete, sat under the pendulum of a wall clock, mending a cotton tablecloth with needle and thread.
 The breach was executed in three seconds.
 Pugh cleared the window sill in a low, single stride. Before Koch registered the drop in temperature or the draft of wet night air, Pugh was behind him.
-Pugh’s left forearm hooked under Koch’s chin, locking across the windpipe with crushing force, choking off any scream before air could reach the vocal cords. Simultaneously, Pugh drove his right knuckles hard into the cervical nerve bundle behind Koch’s left ear, pulling the German back against his sternum.
-Koch reacted with the frantic, spastic thrashing of an animal caught in a snare. His heels hammered violently against the kneehole of the desk; his hands clawed desperately at Pugh’s wet sleeves. The rosewood desk shuddered, tipping an inkpot across the open ledger.
+Pugh's left forearm hooked under Koch's chin, locking across the windpipe with crushing force, choking off any scream before air could reach the vocal cords. Simultaneously, Pugh drove his right knuckles hard into the cervical nerve bundle behind Koch's left ear, pulling the German back against his sternum.
+Koch reacted with the frantic, spastic thrashing of an animal caught in a snare. His heels hammered violently against the kneehole of the desk; his hands clawed desperately at Pugh's wet sleeves. The rosewood desk shuddered, tipping an inkpot across the open ledger.
 In the dining room, Grete dropped her needlework and surged to her feet, drawing breath to scream.
 Stewart was through the archway before the sound cleared her throat.
 He did not waste time with restraint. He lunged forward, threw a heavy woolen traveling rug over her head and shoulders, and drove her hard down onto the timber floorboards. She thrashed inside the coarse wool, kicking against the legs of the dining table until Stewart pinned her wrists behind her back and twisted a pre-cut length of copper wire tightly around her joints.
-At the desk, Koch’s struggles ended as the blood flow to his brain failed.
-His limbs slackened. Pugh eased the chokehold, dragged the limp body onto the floor, pulled the German’s wrists behind his back, and bound them drum-tight with copper wire. He tore a four-inch strip of heavy adhesive tape across Koch’s mouth, sealing it from cheekbone to jaw, and pulled the dark cotton hood over the man’s head.
+At the desk, Koch's struggles ended as the blood flow to his brain failed.
+His limbs slackened. Pugh eased the chokehold, dragged the limp body onto the floor, pulled the German's wrists behind his back, and bound them drum-tight with copper wire. He tore a four-inch strip of heavy adhesive tape across Koch's mouth, sealing it from cheekbone to jaw, and pulled the dark cotton hood over the man's head.
 Stewart returned to the study, breathing heavily through his teeth.
 
 PUGH
@@ -948,7 +948,7 @@ Take the woman.
 NARRATOR
 Supporting Koch between them, half-carrying and half-dragging the two hooded figures through the rear jalousies and across the slick grass of the terrace, the two officers cleared the compound wall.
 Within five minutes of the window latch lifting, the rear doors of the Ford V8 swung open.
-Robert and Grete Koch were forced into the rear footwell, covered with an army blanket, and held pinned under Stewart’s boots.
+Robert and Grete Koch were forced into the rear footwell, covered with an army blanket, and held pinned under Stewart's boots.
 Pugh slid behind the steering wheel. He released the handbrake, eased the clutch out, and let the car roll down the Altinho gradient in neutral with the engine killed. Only when the vehicle reached the flat commercial road running east along the Mandovi did he throw the starter switch.
 The distance from Nova Goa to the British frontier was forty-five miles. In daylight, the mountain road through the Western Ghats was a narrow, treacherous track; on a pitch-black December night in torrential rain, it was an ordeal of second gear and skidding tires.
 The Ford skirted the southern bank of the river, swept past the unlit houses of Ponda, and began the brutal, twisting climb into the mountain range.
@@ -971,7 +971,7 @@ They are in the rear. The documents are in the sack.
 
 NARRATOR
 The IPI officers dragged Robert and Grete Koch out onto the platform gravel. Both prisoners were shivering violently from shock and soaked clothing.
-The IPI officer pulled the hood from Robert Koch’s head.
+The IPI officer pulled the hood from Robert Koch's head.
 The German blinked into the beam of a hooded storm lantern. His skin was pasty, his eyes bloodshot with terror, his jaw swollen where the adhesive tape was plastered across his mouth.
 The intelligence officer checked a passport photograph from an open dossier.
 
@@ -1028,7 +1028,7 @@ Forty miles northeast of the Secretariat in New Delhi, the headquarters of the S
 Known officially as the SOE India Mission—and later designated Force 136—the establishment was commanded by Colin Mackenzie.
 Forty-four years old, slender, with an austere, professorial bearing and a dry Scottish cadence, Mackenzie was not a career soldier. In civilian life, he had been a senior director of J&P Coats, the international textile trust in Glasgow. He brought to clandestine warfare the cold, systematic habits of international commerce - an instinctive disdain for military orthodoxy, a meticulous eye for logistical margins, and an absolute insistence that an operation was only as sound as its deniability.
 Inside the whitewashed bungalow that served as his private office, the wooden jalousies were drawn against the glare of the noon sun.
-On the drafting table between Mackenzie and Major-General Walter Cawthorn lay Lieutenant-Colonel Lewis Pugh’s operational dossier on Mormugao Harbor.
+On the drafting table between Mackenzie and Major-General Walter Cawthorn lay Lieutenant-Colonel Lewis Pugh's operational dossier on Mormugao Harbor.
 Pugh stood before them, his cream civilian suit carrying the red dust of the railway line from the south. He had spent the first week of January inside Goa, moving on a commercial passport through the railway cuttings above the Zuari River to assess the harbor from the landward approaches.
 
 PUGH
@@ -1066,11 +1066,11 @@ MACKENZIE
 And that brings us directly to the wall Sir Olaf Caroe built in New Delhi.
 
 NARRATOR
-Pugh did not need the Foreign Secretary’s veto explained. He had lived under its shadow since Cawthorn had pulled him into the planning rooms three weeks earlier.
+Pugh did not need the Foreign Secretary's veto explained. He had lived under its shadow since Cawthorn had pulled him into the planning rooms three weeks earlier.
 
 CAWTHORN
 (looking from Mackenzie to Pugh)
-The constraints are absolute. The Prime Minister’s directive to the Chiefs of Staff has not altered by a comma. The negotiations with Dr. Salazar for the Azores air bases are at their most fragile stage. If an active-duty British naval officer, a Royal Marine, a soldier in the King's uniform, or an armed craft carrying the white ensign violates Goan territorial waters, the Portuguese break off talks in Lisbon that very afternoon.
+The constraints are absolute. The Prime Minister's directive to the Chiefs of Staff has not altered by a comma. The negotiations with Dr. Salazar for the Azores air bases are at their most fragile stage. If an active-duty British naval officer, a Royal Marine, a soldier in the King's uniform, or an armed craft carrying the white ensign violates Goan territorial waters, the Portuguese break off talks in Lisbon that very afternoon.
 
 NARRATOR
 Cawthorn leaned forward.
@@ -1083,7 +1083,7 @@ PUGH
 Then we don't use regular troops.
 
 NARRATOR
-The room fell silent for several seconds. Outside, the steady crunch of a sentry’s boots on the dry gravel drive marked the passage of the midday relief.
+The room fell silent for several seconds. Outside, the steady crunch of a sentry's boots on the dry gravel drive marked the passage of the midday relief.
 Mackenzie tilted his head.
 
 MACKENZIE
@@ -1122,7 +1122,7 @@ CAWTHORN
 And where in India do you propose to find twenty men of that civilian description who know how to shoot, who possess the nerve to board a ship in the dark, and who will not talk in a club bar the following afternoon?
 
 NARRATOR
-Pugh’s mouth twitched with the ghost of a smile.
+Pugh's mouth twitched with the ghost of a smile.
 
 PUGH
 Calcutta. The Calcutta Light Horse.
@@ -1180,19 +1180,19 @@ As Pugh walked toward the station exit, the platform resembled an encampment und
 Outside, the mist over the Hooghly River was dense and greasy.
 Pugh hailed an ancient yellow-and-black Austin taxi. "Across the river," he told the driver. "Chowringhee."
 The taxi inched onto the pontoon bridge. Parallel to it, looming massive and gray through the morning vapor, rose the unfinished cantilever spine of the new Howrah Bridge—thousands of tons of Tata steel bolted together over the water, its road deck still closed to civilian traffic, flanked by the sandbagged emplacements of light anti-aircraft batteries.
-Along the riverbanks, the eastern industrial machine of the British Empire was working at a furious, round-the-clock cadence. From Garden Reach to Barrackpore, sixty miles of the Hooghly’s shores were choked with the brick chimneys of the jute mills. Their boilers spewed oily smoke into the overcast sky as they churned out millions of yards of burlap and billions of sandbags destined for the defenses of El Alamein, the Arakan, and the airfields of Assam.
+Along the riverbanks, the eastern industrial machine of the British Empire was working at a furious, round-the-clock cadence. From Garden Reach to Barrackpore, sixty miles of the Hooghly's shores were choked with the brick chimneys of the jute mills. Their boilers spewed oily smoke into the overcast sky as they churned out millions of yards of burlap and billions of sandbags destined for the defenses of El Alamein, the Arakan, and the airfields of Assam.
 Yet beneath the industrial roar, the city was fraying from the inside out.
 As the taxi turned off the river approaches onto the broad sweep of Chowringhee, Pugh looked through the salt-grimed glass.
 Slit trenches, hastily dug by Air Raid Precautions squads, scarred the green lawns of the Maidan like open graves. Barrage balloons hung motionless in the damp sky above the dome of the Victoria Memorial, tethered by steel cables that gleamed in the dim light. Along the iron railings of the park, where British officers in immaculate khaki drill had walked their terriers two years before, small groups of people were huddled in the gutters.
-They were not the city’s regular beggars. They were villagers from Midnapore and the coastal districts to the south—men with gaunt, protruding ribs and hollow cheeks, women clutching infants wrapped in rags, staring with dull, uncomprehending eyes at passing staff cars.
-In late 1942, a devastating cyclone had inundated the coastal paddies of Bengal. To compound the disaster, the colonial government’s "Boat Denial Scheme"—the scorched-earth policy enacted to strip the coastal delta of local country craft to prevent a Japanese sea invasion—had shattered the river trade. With the fall of Rangoon, the millions of tons of Burmese rice that normally fed Bengal’s millions were gone. Hoarders and grain speculators in the Marwari bazaars had already begun locking their godowns. The price of a maund of rice had doubled, then tripled, climbing far beyond the reach of day laborers.
+They were not the city's regular beggars. They were villagers from Midnapore and the coastal districts to the south—men with gaunt, protruding ribs and hollow cheeks, women clutching infants wrapped in rags, staring with dull, uncomprehending eyes at passing staff cars.
+In late 1942, a devastating cyclone had inundated the coastal paddies of Bengal. To compound the disaster, the colonial government's "Boat Denial Scheme"—the scorched-earth policy enacted to strip the coastal delta of local country craft to prevent a Japanese sea invasion—had shattered the river trade. With the fall of Rangoon, the millions of tons of Burmese rice that normally fed Bengal's millions were gone. Hoarders and grain speculators in the Marwari bazaars had already begun locking their godowns. The price of a maund of rice had doubled, then tripled, climbing far beyond the reach of day laborers.
 The catastrophic famine of 1943 had not yet fully engulfed the metropolis, but its vanguard had arrived. The human wreckage was gathering on the curbstones outside the grand stone façades of the European commercial houses.
 The taxi turned east, leaving Chowringhee behind, and entered Park Street.
 Number 24 Park Street was set back from the thoroughfare behind high stucco walls, buffered from the roar of municipal tramcars and the cries of hawkers by a broad gravel courtyard shaded by ancient rain trees.
 The brass plate beside the arched carriage entrance read simply - CALCUTTA LIGHT HORSE.
 Built in the late nineteenth century as a private townhouse before being acquired by the regiment, the building had the heavy, permanent demeanor of an English country manor house inexplicably deposited into the humid loam of Bengal.
-To the regular British Army officers passing through Calcutta on their way to the Burma front, 24 Park Street was an object of thinly veiled amusement. They called it the "Burra Sahibs’ Riding Club."
-Lieutenant-Colonel William Herbert "Bill" Grice stood on the second-floor veranda of the officers’ mess, watching four syces in blue turbans lead a string of chestnut polo ponies across the rear paddock. Grice was forty-six years old, thick-chested, with iron-gray hair parted with ruler-straight precision and a clipped mustache that had not varied in width since he had served in the trenches of the Western Front as a subaltern in the Machine Gun Corps.
+To the regular British Army officers passing through Calcutta on their way to the Burma front, 24 Park Street was an object of thinly veiled amusement. They called it the "Burra Sahibs' Riding Club."
+Lieutenant-Colonel William Herbert "Bill" Grice stood on the second-floor veranda of the officers' mess, watching four syces in blue turbans lead a string of chestnut polo ponies across the rear paddock. Grice was forty-six years old, thick-chested, with iron-gray hair parted with ruler-straight precision and a clipped mustache that had not varied in width since he had served in the trenches of the Western Front as a subaltern in the Machine Gun Corps.
 In the civilian directories of British India, Grice was a man of substantial commercial weight - the managing director of Imperial Chemical Industries (India) Ltd., directing the distribution of soda ash, explosives, and industrial acids across four provinces from his corporate headquarters on Clive Street.
 In the regimental rolls of the Auxiliary Force, India, he was the Commanding Officer of an outfit whose operational relevance appeared to have ended before the Boer War.
 
@@ -1201,25 +1201,25 @@ GRICE
 Look at them, Yogi. The veterinary officer in Fort William wants to requisition the lot for pack transport in the Chin Hills. Mules, he says. They want polo ponies to carry mortar baseplates through the mud.
 
 NARRATOR
-Major Terence "Yogi" Crossley, lounging in a wicker planter’s chair with a glass of cold lime water, let out a short, dry bark of laughter. Crossley was forty-five, a senior partner in a prominent Dalhousie Square jute-brokering firm, his broad face weathered by twenty-five hot-weather seasons and hundreds of chukkers on the turf of the Maidan.
+Major Terence "Yogi" Crossley, lounging in a wicker planter's chair with a glass of cold lime water, let out a short, dry bark of laughter. Crossley was forty-five, a senior partner in a prominent Dalhousie Square jute-brokering firm, his broad face weathered by twenty-five hot-weather seasons and hundreds of chukkers on the turf of the Maidan.
 
 CROSSLEY
-Tell Fort William they can have the horses if they take the riders with them. I’d rather pack three-inch mortar bombs over the mountains on my back than spend another Tuesday reviewing shipping manifests for sandbag burlap.
+Tell Fort William they can have the horses if they take the riders with them. I'd rather pack three-inch mortar bombs over the mountains on my back than spend another Tuesday reviewing shipping manifests for sandbag burlap.
 
 NARRATOR
 Grice did not smile. He turned his back to the paddock and looked into the long mess room behind them.
-The mess was a temple to a vanished age. Beneath the languid rotation of four-blade electric ceiling fans, the teak-paneled walls were hung with glass-fronted cases of regimental silver - silver polo cups, punch bowls presented by viceroys, and silver-mounted horse hooves from thoroughbreds that had won the Governor’s Cup in the 1890s. Oil portraits of past colonels looked down through amber varnish—Victorian gentlemen in frogged blue tunics, chain-mail epaulettes, and white-plumed pith helmets.
+The mess was a temple to a vanished age. Beneath the languid rotation of four-blade electric ceiling fans, the teak-paneled walls were hung with glass-fronted cases of regimental silver - silver polo cups, punch bowls presented by viceroys, and silver-mounted horse hooves from thoroughbreds that had won the Governor's Cup in the 1890s. Oil portraits of past colonels looked down through amber varnish—Victorian gentlemen in frogged blue tunics, chain-mail epaulettes, and white-plumed pith helmets.
 The Calcutta Light Horse had been raised in 1872, tracing its lineage back to the volunteer cavalry patrols formed by British merchants during the 1857 uprising to defend the European quarters between Chowringhee and the river. For seventy years, it had been the premier social-military preserve of the city's commercial aristocracy. Admission was strictly by ballot; a single blackball from a committee member could bar a man from the ranks, regardless of his wealth.
 Every Saturday morning between November and March, the regiment turned out on the Maidan. Bank managers, tea planters on home leave, shipping brokers, and senior barristers dressed in khaki service dress, polished riding boots, and white bandoliers, executing cavalry maneuvers that had been obsolete since the invention of the Maxim gun.
 Now, with the Japanese holding the east bank of the Chindwin River just three hundred miles away, the ritual felt grotesque.
 
 CROSSLEY
 (voice flattening into serious business)
-We had eighteen applications for discharge this week, Bill. Younger men from the jute mills. They’re resigning their volunteer commissions and trying to enlist as privates in the Chindits or the 14th Indian Division. They can't bear the shame of sitting in the Bengal Club reading casualty lists from the Arakan.
+We had eighteen applications for discharge this week, Bill. Younger men from the jute mills. They're resigning their volunteer commissions and trying to enlist as privates in the Chindits or the 14th Indian Division. They can't bear the shame of sitting in the Bengal Club reading casualty lists from the Arakan.
 
 GRICE
 (quietly)
-They'll be refused. The Governor’s office made it clear. Essential war work. If the managing agencies lose their European floor managers, the mill labor walks out. If the mills stop, the Middle East runs out of sandbags. We are tethered to the desks, Yogi. Until the war ends, we are clerks in uniform.
+They'll be refused. The Governor's office made it clear. Essential war work. If the managing agencies lose their European floor managers, the mill labor walks out. If the mills stop, the Middle East runs out of sandbags. We are tethered to the desks, Yogi. Until the war ends, we are clerks in uniform.
 
 NARRATOR
 A mess steward in a white linen tunic and regimental cummerbund appeared at the French doors, stepping onto the veranda with a silver salver.
@@ -1270,7 +1270,7 @@ PUGH
 Before you open that, Bill, you need to understand the legal ground under our feet. There isn't any.
 
 GRICE
-I’ve dealt with the military bureaucracy in New Delhi for three years, Lewis. I’m well aware of how thin the ice can be.
+I've dealt with the military bureaucracy in New Delhi for three years, Lewis. I'm well aware of how thin the ice can be.
 
 PUGH
 This isn't thin ice. There is no ice at all. It is open water.
@@ -1383,7 +1383,7 @@ GRICE
 You want us to be the scapegoats.
 
 PUGH
-I want you to be the solution. And you must understand the full cost of failure. If Rössing’s crew shoots you down, no warship will enter that harbor to pull you out. If the Portuguese take you alive, you have no protections under the Geneva Convention. You will be tried by a Portuguese tribunal for armed assault and piracy.
+I want you to be the solution. And you must understand the full cost of failure. If Rössing's crew shoots you down, no warship will enter that harbor to pull you out. If the Portuguese take you alive, you have no protections under the Geneva Convention. You will be tried by a Portuguese tribunal for armed assault and piracy.
 
 NARRATOR
 Pugh paused, letting the silence settle into the room.
@@ -1414,11 +1414,11 @@ You're looking at him.
 
 PUGH
 (frowning slightly)
-Bill, you’re forty-six years old. You are the managing director of ICI India. If you disappear from Clive Street for three weeks, people will notice.
+Bill, you're forty-six years old. You are the managing director of ICI India. If you disappear from Clive Street for three weeks, people will notice.
 
 GRICE
 (voice flat and unyielding)
-Let them notice. I’ve spent three years sitting behind a desk while men half my age are dying in the desert. I am not sending my junior partners and clerks to risk the gallows while I sit on the veranda of the Bengal Club drinking gin. If the Calcutta Light Horse goes to Goa, I command them. That is not negotiable, Lewis.
+Let them notice. I've spent three years sitting behind a desk while men half my age are dying in the desert. I am not sending my junior partners and clerks to risk the gallows while I sit on the veranda of the Bengal Club drinking gin. If the Calcutta Light Horse goes to Goa, I command them. That is not negotiable, Lewis.
 
 NARRATOR
 Pugh studied Grice for a long moment, then gave a single, slow nod.
@@ -1440,7 +1440,7 @@ Wait here.
 
 NARRATOR
 He unlocked the heavy mahogany door and stepped out onto the veranda. Two minutes later he returned, followed by Major Yogi Crossley. Grice closed the door and turned the brass key in the lock once more.
-Crossley looked from Grice’s set face to Pugh’s impassive eyes, then down at the aerial photographs of Mormugao Harbor lying on the green baize.
+Crossley looked from Grice's set face to Pugh's impassive eyes, then down at the aerial photographs of Mormugao Harbor lying on the green baize.
 
 GRICE
 (quietly)
@@ -1474,7 +1474,7 @@ Because you are cavalry, Yogi. You know how to ride, you know how to scout, and 
 
 GRICE
 (nodding once)
-Robert Duguid commands their active company. He’s thirty-six, senior accountant with a tea agency in Clive Street, and as sound as an anvil. If Duguid comes, he will bring three of his best junior ranks. That leaves fourteen places for the Light Horse.
+Robert Duguid commands their active company. He's thirty-six, senior accountant with a tea agency in Clive Street, and as sound as an anvil. If Duguid comes, he will bring three of his best junior ranks. That leaves fourteen places for the Light Horse.
 
 CROSSLEY
 (tapping his pencil on the margin of the first page)
@@ -1510,7 +1510,7 @@ Cren Sandys-Lumsdaine.
 
 GRICE
 (face softening slightly)
-Cren is thirty-nine. Stockbroker. Tough as rawhide, rides hard, can shoot the eye out of a jungle fowl at fifty yards with a service revolver. He’s unmarried, lives in a flat on Middleton Row, and his partners can cover his desk at the Exchange without raising an eyebrow.
+Cren is thirty-nine. Stockbroker. Tough as rawhide, rides hard, can shoot the eye out of a jungle fowl at fifty yards with a service revolver. He's unmarried, lives in a flat on Middleton Row, and his partners can cover his desk at the Exchange without raising an eyebrow.
 
 PUGH
 (looking at the entry)
@@ -1520,17 +1520,17 @@ GRICE
 Cren doesn't talk to his own family if he can avoid it. Put him down.
 
 NARRATOR
-Crossley made a small tick in blue pencil beside Sandys-Lumsdaine’s name.
-The process was slow, clinical, and ruthless. For two hours, the three officers combed through the names of Calcutta’s commercial aristocracy, stripping away men whose physical condition or business responsibilities made them liabilities.
+Crossley made a small tick in blue pencil beside Sandys-Lumsdaine's name.
+The process was slow, clinical, and ruthless. For two hours, the three officers combed through the names of Calcutta's commercial aristocracy, stripping away men whose physical condition or business responsibilities made them liabilities.
 
 CROSSLEY
-Henry Bell. Partner in Gillanders. Fit enough, but his liver is shot from twenty years of heavy port. He’d be vomiting his guts out before the boat cleared the river.
+Henry Bell. Partner in Gillanders. Fit enough, but his liver is shot from twenty years of heavy port. He'd be vomiting his guts out before the boat cleared the river.
 
 GRICE
 Cross him off.
 
 CROSSLEY
-Donald Graham. Good man, but his wife’s brother is an under-secretary in the Home Department in Delhi. Too close to the Secretariat. One careless letter home and the game is up.
+Donald Graham. Good man, but his wife's brother is an under-secretary in the Home Department in Delhi. Too close to the Secretariat. One careless letter home and the game is up.
 
 PUGH
 Cross him off.
@@ -1549,7 +1549,7 @@ Jock?
 
 CROSSLEY
 (looking across at his colonel)
-He's forty-seven, Bill. He was at Ypres with the Gordon Highlanders. He’s been in the Light Horse since nineteen-twenty-two. There isn't a man in the regiment who loves this outfit more than Jock Cartwright.
+He's forty-seven, Bill. He was at Ypres with the Gordon Highlanders. He's been in the Light Horse since nineteen-twenty-two. There isn't a man in the regiment who loves this outfit more than Jock Cartwright.
 
 NARRATOR
 Pugh stepped closer.
@@ -1594,14 +1594,14 @@ PUGH
 What do you mean?
 
 GRICE
-You said you need someone inside Goa. You need an advance party in Vasco da Gama to set up the diversion. You need someone to hire the halls, buy the beer, pay the local women, and make sure Rössing’s sailors are five miles away from their ship when your boat enters the harbor. Someone who can walk around a neutral Portuguese port without looking like an SOE killer.
+You said you need someone inside Goa. You need an advance party in Vasco da Gama to set up the diversion. You need someone to hire the halls, buy the beer, pay the local women, and make sure Rössing's sailors are five miles away from their ship when your boat enters the harbor. Someone who can walk around a neutral Portuguese port without looking like an SOE killer.
 
 NARRATOR
-Pugh’s face remained impassive, but his eyes flickered with calculated interest.
+Pugh's face remained impassive, but his eyes flickered with calculated interest.
 
 GRICE
 (voice picking up speed)
-Cartwright has a civilian passport. He travels the coastal ports constantly on business. He speaks Portuguese—enough to buy machinery and sweet-talk colonial harbor officials. If Jock Cartwright walks into Vasco da Gama two weeks before the raid, he’s just a tired British commercial traveler selling pump gaskets and looking for a drink.
+Cartwright has a civilian passport. He travels the coastal ports constantly on business. He speaks Portuguese—enough to buy machinery and sweet-talk colonial harbor officials. If Jock Cartwright walks into Vasco da Gama two weeks before the raid, he's just a tired British commercial traveler selling pump gaskets and looking for a drink.
 
 NARRATOR
 Pugh considered the proposition for several seconds, weighing the risks.
@@ -1620,7 +1620,7 @@ PUGH
 Leave Cartwright on the list. Not for the assault party. For the shore trap.
 
 NARRATOR
-Crossley circled Cartwright’s name in red ink.
+Crossley circled Cartwright's name in red ink.
 
 GRICE
 (closing the pigskin cover of the muster roll)
@@ -1641,7 +1641,7 @@ Chapter Thirteen
 The Shore Volunteer
 February 1943
 
-The regimental saddlery on the ground floor of 24 Park Street smelled of neat’s-foot oil, saddle soap, and damp leather.
+The regimental saddlery on the ground floor of 24 Park Street smelled of neat's-foot oil, saddle soap, and damp leather.
 It was a windowless, brick-vaulted room where the Light Horse kept their McClellan saddles, bridle leathers, and polished stirrup irons racked in long, uniform rows. Because the Indian syces rarely entered after dark, Grice used it when he needed to speak to a man without the stewards hearing the floorboards creak above.
 Jock Cartwright stood beneath the single unshaded light bulb, his back straight, his thumbs resting along the seams of his civilian flannel trousers.
 He was forty-seven years old, a Scotsman with a heavy, pugilistic jaw, iron-gray hair cropped close to the skull, and pale blue eyes that looked perpetually squinted against sunlight. In his civilian life, he was a senior technical representative for a British engineering conglomerate, spending his weeks negotiating contracts for steam valves, boiler tubes, and water pumps across the railway workshops of India.
@@ -1669,7 +1669,7 @@ GRICE
 You're not on the assault team, Jock.
 
 NARRATOR
-The light went out of Cartwright’s face as if someone had cut a wire. His jaw set, the muscles bunching under the weathered skin of his throat.
+The light went out of Cartwright's face as if someone had cut a wire. His jaw set, the muscles bunching under the weathered skin of his throat.
 
 CARTWRIGHT
 (voice dropping into a harsh whisper)
@@ -1741,7 +1741,7 @@ PUGH
 A distraction that will save eighteen lives. And do not mistake the risk, Cartwright. What you are doing is five times more dangerous than climbing that ladder.
 
 NARRATOR
-Grice stepped forward, laying a hand on Cartwright’s shoulder.
+Grice stepped forward, laying a hand on Cartwright's shoulder.
 
 GRICE
 (grimly)
@@ -1774,7 +1774,7 @@ PUGH
 Get your alibis in order, Cartwright. Once you cross the frontier at Castle Rock, you are on the moon.
 
 NARRATOR
-Cartwright nodded, tucked the heavy bag of sovereigns beneath his arm, turned on his heel with an old soldier’s precision, and limped out of the saddlery into the Calcutta dark.
+Cartwright nodded, tucked the heavy bag of sovereigns beneath his arm, turned on his heel with an old soldier's precision, and limped out of the saddlery into the Calcutta dark.
 
 
 
@@ -1785,13 +1785,13 @@ Requisitioning the Hopper
 February 1943
 
 Downriver from the commercial wharves of Clive Street, where the Hooghly bends south past the Kidderpore Docks, the river belonged to maintenance, mud, and coal.
-Here, in the oily basins of the Calcutta Port Commissioners’ workshops at Garden Reach, an assortment of battered iron craft lay tied to rotting timber pilings - bucket dredgers, sludge carriers, steam launches, and hopper barges designed for the unglamorous task of keeping forty miles of shifting silt channels navigable for deep-draft freighters.
+Here, in the oily basins of the Calcutta Port Commissioners' workshops at Garden Reach, an assortment of battered iron craft lay tied to rotting timber pilings - bucket dredgers, sludge carriers, steam launches, and hopper barges designed for the unglamorous task of keeping forty miles of shifting silt channels navigable for deep-draft freighters.
 Major Gavin Stewart of the SOE picked his way along the slippery granite edge of the dry-dock wall, dodging coils of wire rope and puddles of condensed steam. Beside him walked Commander Bernard Davies, Royal Navy (Retired).
-Davies was fifty-two years old, barrel-chested, with the leathery, wind-bitten complexion of a man who had spent thirty years on the open bridges of destroyers and escort sloops before retiring to the relatively tranquil employment of the Calcutta Port Trust. His uniform consisted of a battered white peaked cap with the Port Commissioners’ brass crest, a collarless flannel shirt, and gray work trousers tucked into sea boots.
+Davies was fifty-two years old, barrel-chested, with the leathery, wind-bitten complexion of a man who had spent thirty years on the open bridges of destroyers and escort sloops before retiring to the relatively tranquil employment of the Calcutta Port Trust. His uniform consisted of a battered white peaked cap with the Port Commissioners' brass crest, a collarless flannel shirt, and gray work trousers tucked into sea boots.
 
 DAVIES
 (pointing with a stubby finger toward the far end of the fitting-out basin)
-There she is. And if you’re asking me whether she can cross two thousand miles of open ocean to Goa, Stewart, my answer is that you’re stark, raving mad.
+There she is. And if you're asking me whether she can cross two thousand miles of open ocean to Goa, Stewart, my answer is that you're stark, raving mad.
 
 NARRATOR
 Stewart stopped. He looked at the vessel riding low in the turgid brown river water.
@@ -1805,13 +1805,13 @@ She has two triple-expansion steam engines. Twin screws. Coal-fired Scotch boile
 
 DAVIES
 (spitting, taking a pipe from his pocket and biting down on the stem without lighting it)
-In a river, Major. In a river with the tide behind her. A flat-bottomed hopper has no keel to speak of. The moment you take her out past the Sandheads into the swells of the Bay of Bengal, she’ll roll the galley fires out. She’ll corkscrew until every rivet in her bilges groans. And if you run into a force-six blow off the east coast of Ceylon, she won't ride the waves—she’ll plow straight through them until the sea-wash tears the engine-room skylights off their hinges and swamps the fires.
+In a river, Major. In a river with the tide behind her. A flat-bottomed hopper has no keel to speak of. The moment you take her out past the Sandheads into the swells of the Bay of Bengal, she'll roll the galley fires out. She'll corkscrew until every rivet in her bilges groans. And if you run into a force-six blow off the east coast of Ceylon, she won't ride the waves—she'll plow straight through them until the sea-wash tears the engine-room skylights off their hinges and swamps the fires.
 
 NARRATOR
-Stewart stepped onto the iron gangway that spanned the gap between the jetty and the Phoebe’s deck.
+Stewart stepped onto the iron gangway that spanned the gap between the jetty and the Phoebe's deck.
 
 STEWART
-She’s obscure, Bernard. That is her primary virtue. If the Royal Navy requisitions a motor gunboat or an armed trawler from the Bombay dockyards, half of naval intelligence knows about it before the ink is dry on the chit. The German consulate in Portuguese Goa has contacts in every commercial shipping office on the west coast. But who pays attention to a thirty-year-old river maintenance hopper being moved down the coast for harbor work?
+She's obscure, Bernard. That is her primary virtue. If the Royal Navy requisitions a motor gunboat or an armed trawler from the Bombay dockyards, half of naval intelligence knows about it before the ink is dry on the chit. The German consulate in Portuguese Goa has contacts in every commercial shipping office on the west coast. But who pays attention to a thirty-year-old river maintenance hopper being moved down the coast for harbor work?
 
 NARRATOR
 Davies followed him aboard, his boots ringing hollow on the iron plating.
@@ -1836,7 +1836,7 @@ From the depths came the rhythmic, wheezing breath of the donkey boiler keeping 
 
 DAVIES
 (looking up from the pit)
-The coal bunkers. She only carries eighty tons in her wing tanks. That’s enough to get her from Garden Reach down to the Sandheads and back three times. It won't get her around the corner of Ceylon, let alone up the Malabar Coast to Cochin.
+The coal bunkers. She only carries eighty tons in her wing tanks. That's enough to get her from Garden Reach down to the Sandheads and back three times. It won't get her around the corner of Ceylon, let alone up the Malabar Coast to Cochin.
 
 STEWART
 You'll coal at Trincomalee. We have an Admiralty voucher cleared for twenty tons of Welsh steam coal from the naval yard there. But you'll have to deck-cargo the rest. Fill the open hopper well with bagged coal. Stack it six feet high on the main deck if you have to.
@@ -1846,7 +1846,7 @@ DAVIES
 If we deck-cargo fifty tons of coal on a flat-bottomed hull, our center of gravity goes through the roof. A beam sea will roll us keel-up.
 
 STEWART
-Then you’ll have to pray for flat water, Commander.
+Then you'll have to pray for flat water, Commander.
 
 NARRATOR
 He paused, turning to face Davies directly under the bridge ladder.
@@ -1856,7 +1856,7 @@ The Light Horse and the Scottish aren't riding her down the coast, Bernard. Lewi
 
 DAVIES
 (eyebrows shooting up)
-They’re taking the railway?
+They're taking the railway?
 
 STEWART
 Civilian passenger coaches. In pairs. Traveling as commercial travelers, tea inspectors, and mining engineers. They will arrive in Cochin fresh, dry, and on their feet. Which means you have to deliver this bucket of scrap to Cochin harbor on time, intact, and ready to fight the night she arrives.
@@ -1866,10 +1866,10 @@ Davies took his cold pipe from his mouth, looking along the length of the batter
 
 DAVIES
 (mind already shifting from objection to execution)
-I need a chief engineer who knows these old Simons compound jobs. I need an engine-room crew of Lascars who will shovel coal for eighteen days without asking why we’re steering south instead of staying in the river. And I need double wages for every man jack in the stokehold.
+I need a chief engineer who knows these old Simons compound jobs. I need an engine-room crew of Lascars who will shovel coal for eighteen days without asking why we're steering south instead of staying in the river. And I need double wages for every man jack in the stokehold.
 
 STEWART
-You’ll have the double wages. In cash. Paid from Force 136 funds before you slip your lines.
+You'll have the double wages. In cash. Paid from Force 136 funds before you slip your lines.
 
 DAVIES
 (with a humorless grin)
@@ -1877,7 +1877,7 @@ And if we run into a Japanese submarine in the Bay of Bengal? The Phoebe doesn't
 
 STEWART
 (quietly)
-If a Japanese submarine spots you, Bernard, she won't waste a torpedo on a mud hopper. She’ll assume you’re an Indian port tender that lost its compass and let you rust to death on your own.
+If a Japanese submarine spots you, Bernard, she won't waste a torpedo on a mud hopper. She'll assume you're an Indian port tender that lost its compass and let you rust to death on your own.
 
 NARRATOR
 Davies grunted, looking up at the gray Calcutta sky where the greasy smoke of the jute mills hung like a shroud over the river. He spat over the rail into the yellow water of the Hooghly.
@@ -1919,7 +1919,7 @@ She's handling like a loaded pig, Commander. Sluggish on the rudder. You have to
 
 DAVIES
 (growling, keeping his eyes on the channel buoys)
-She’s a hopper, Pilot. She wasn't built to waltz on the Maidan. Keep your mind on the shoals.
+She's a hopper, Pilot. She wasn't built to waltz on the Maidan. Keep your mind on the shoals.
 
 NARRATOR
 The Hooghly River was eighty miles of liquid treachery. It was not a highway; it was a shifting, silt-choked labyrinth of mud banks, tidal bores, and razor-sharp sandbars where a grounded ship could be broken in two by the weight of the outgoing tide within twenty minutes.
@@ -1939,7 +1939,7 @@ By late afternoon, the river widened until the mangrove swamps of the Sundarbans
 Ahead, anchored in the open roads thirty miles out to sea, lay the Sandheads Pilot Brig.
 Here, where the river truly ended and the vast expanse of the Bay of Bengal began, the Bengal Pilot Service maintained its oceanic station. A small wooden cutter pulled away from the brig, riding the rolling swells toward the Phoebe.
 Davies throttled back to DEAD SLOW.
-The river pilot gathered his leather satchel, shook Davies' hand with professional indifference, and climbed down the rope Jacob’s ladder into the waiting launch.
+The river pilot gathered his leather satchel, shook Davies' hand with professional indifference, and climbed down the rope Jacob's ladder into the waiting launch.
 
 RIVER PILOT
 (shouting over the slap of the water)
@@ -1977,14 +1977,14 @@ For eight days and eight nights, the WV Phoebe crawled down the Coromandel Coast
 Inside the hull, every weld, stay, and angle-iron groaned in protest. The rivets in the forward collision bulkhead wept fine lines of rusty salt water that trickled down the frames into the bilges, where the reciprocating steam bilge pumps clattered day and night with an unceasing, metallic clank-thump, clank-thump.
 On the third day out from the Sandheads, forty miles off Vizagapatam, the deck cargo became an emergency.
 A rising force-five northeasterly wind whipped the sea into short, steep crests that broke repeatedly over the low port bulwark. The four hundred coarse jute sacks of coal stacked in the open central hopper well were soon saturated with green water.
-Wet coal does not merely add deadweight; it turns into a black, shifting slurry that chokes scuppers and ruins stability. Worse, the moisture seeping into the coal dust trapped in the bottom of the well created the immediate danger of spontaneous combustion—a smoldering subterranean fire that could burn through the hopper’s bottom plates undetected until the sea broke through.
+Wet coal does not merely add deadweight; it turns into a black, shifting slurry that chokes scuppers and ruins stability. Worse, the moisture seeping into the coal dust trapped in the bottom of the well created the immediate danger of spontaneous combustion—a smoldering subterranean fire that could burn through the hopper's bottom plates undetected until the sea broke through.
 
 DAVIES
 (roaring into the wind from the bridge wing, knuckles white on the spray shield)
 Get those bags down! All hands to the well!
 
 NARRATOR
-For sixteen unbroken hours, the watch schedule ceased to exist. Davies’ two Royal Navy ratings and twelve Indian Lascars formed a human bucket chain in the rolling, surging waist of the ship.
+For sixteen unbroken hours, the watch schedule ceased to exist. Davies' two Royal Navy ratings and twelve Indian Lascars formed a human bucket chain in the rolling, surging waist of the ship.
 Knee-deep in foul black water, coated from head to foot in a paste of coal dust and salt spray, the men hoisted eighty-pound wet burlap sacks out of the hopper well, dragged them along the narrow iron catwalks, and dumped the fuel down the bunker scuttles into the wing tanks.
 A heavy beam sea caught the Phoebe mid-roll, heeling her twenty-two degrees to starboard. Two sacks broke loose, smashing into the stokehold ventilator casing before washing overboard in an explosion of black froth. One of the Lascar trimmers lost his footing on the slick iron, his arm caught in the steering chains rattling in their open deck trough; a petty officer yanked him clear by the waistband of his lungi seconds before the chain links pulled tight against the fairlead.
 By the time the last sack was emptied and the heavy wooden hopper covers battened down under double tarpaulins, the men collapsed on the iron deckplates, their hands raw, their eyes bloodshot and swollen with salt.
@@ -1996,10 +1996,10 @@ The great natural harbor on the northeastern coast of Ceylon—the primary opera
 Among this armada of imperial naval power, the Phoebe looked like a piece of industrial refuse that had drifted out from an inland ditch.
 She was coated in salt crust and streaked with red rust from stem to stern. Her twin skinny funnels were caked in white salt-wash and black soot. A cloud of acrid, low-grade coal smoke trailed low over her wake, making the signalmen on the harbor boom defense vessels cough as she wheezed past the anti-submarine nets.
 Davies brought her alongside the Admiralty coaling jetty at China Bay.
-A Royal Navy lieutenant from the naval base commander’s office stepped onto the Phoebe’s deck, holding a clipboard with the disdain of an officer boarding a floating sewer.
+A Royal Navy lieutenant from the naval base commander's office stepped onto the Phoebe's deck, holding a clipboard with the disdain of an officer boarding a floating sewer.
 
 LIEUTENANT
-(looking at Davies’ stained trousers and the battered Port Commissioners’ cap)
+(looking at Davies' stained trousers and the battered Port Commissioners' cap)
 What on earth is this thing, Commander?
 
 NARRATOR
@@ -2059,10 +2059,10 @@ The Paper Trail of Alibis
 Late February – Early March 1943
 
 In the corporate offices along Clive Street and Dalhousie Square, the departure of eighteen senior British executives required a masterpiece of administrative fraud.
-Under the Defence of India Rules, no European manager in a reserved occupation could leave the municipal boundaries of Calcutta for more than forty-eight hours without a written travel clearance endorsed by the provincial Directorate of National Service. The city’s industrial machine was operating under martial law; if three senior partners from the managing agencies vanished at the same time, the civil police and military provost marshals would initiate inquiries within a day.
+Under the Defence of India Rules, no European manager in a reserved occupation could leave the municipal boundaries of Calcutta for more than forty-eight hours without a written travel clearance endorsed by the provincial Directorate of National Service. The city's industrial machine was operating under martial law; if three senior partners from the managing agencies vanished at the same time, the civil police and military provost marshals would initiate inquiries within a day.
 Every volunteer had to construct an airtight civilian paper trail.
 At the head office of Imperial Chemical Industries on Clive Street, Lieutenant-Colonel Bill Grice dictated three formal corporate memoranda to his Indian stenographer. The memos scheduled an exhaustive, two-week executive tour of the chemical distribution godowns in Madras, Bangalore, and the Kolar Gold Fields. Railway travel vouchers were drawn on ICI corporate accounts, hotel reservations were wired to the Connemara Hotel in Madras, and temporary power-of-attorney documents were signed over to his junior assistant directors to authorize company checks in his absence.
-Major Yogi Crossley went to the managing board of his jute-brokering firm with a doctor’s certificate from a Harley Street physician on Park Street. The slip prescribed fourteen days of mountain air to recover from a recurring bout of amoebic dysentery contracted during the previous monsoon; Crossley let it be known at the Bengal Club that he was taking a quiet fishing holiday in the Nilgiri Hills of southern India.
+Major Yogi Crossley went to the managing board of his jute-brokering firm with a doctor's certificate from a Harley Street physician on Park Street. The slip prescribed fourteen days of mountain air to recover from a recurring bout of amoebic dysentery contracted during the previous monsoon; Crossley let it be known at the Bengal Club that he was taking a quiet fishing holiday in the Nilgiri Hills of southern India.
 For Lieutenant Cren Sandys-Lumsdaine, the cover was big game. He arranged an official two-week shikar—a shooting permit issued by the forestry department for tiger and chital in the private reserves of a friendly maharaja in the Central Provinces.
 Captain Robert Hutton Duguid, responsible for the four-man detachment from the Calcutta Scottish, handled his men with the precision of the senior tea accountant he was. He secured internal transfer orders for his three territorial infantrymen—junior clerks from the commercial banks—dispatching them to conduct surprise physical audits of tea estates in the high country of Travancore.
 By the first of March, the paper alibis were complete, filed, stamped, and logged into the commercial registers of the city. To the Ministry of Supply, eighteen men were merely conducting the ordinary, tedious work of British commerce in the East.
@@ -2091,7 +2091,7 @@ Two No. 36 Mills pattern high-explosive hand grenades, their split pins taped se
 One pair of black canvas plimsolls—standard civilian gym shoes with thin rubber soles purchased in bulk from the Bata shoe shop on Chowringhee, essential for sprinting across wet, soot-covered steel decks without slipping or making a sound.
 A tin of matte-black greasepaint, a heavy brass whistle on a length of cord, and two spare pairs of dark cotton shorts.
 There was not a single scrap of paper, identity disc, or marked piece of clothing permitted inside the luggage. Every label was cut from the collars of their shirts; every tailor's tag was sliced from the waistbands of their shorts.
-If a bag were opened by a suspicious railway ticket inspector between Calcutta and the south, there was nothing inside to link the bearer to the King’s army—only the lethal tools of an armed criminal, accompanied by a civilian train ticket.
+If a bag were opened by a suspicious railway ticket inspector between Calcutta and the south, there was nothing inside to link the bearer to the King's army—only the lethal tools of an armed criminal, accompanied by a civilian train ticket.
 The hardest task was domestic.
 Most of the men were married. Their wives lived in the high-ceilinged colonial flats of Ballygunge and Alipore, attended by Indian cooks, ayahs, and bearers.
 Under the absolute terms of the SOE briefing, not a single wife could be told the truth. There could be no dramatic farewells, no solemn confessions, and no letters left behind in desk drawers "to be opened in the event of my death." A suspicious wife talking to a friend over morning tea at the Saturday Club could destroy the operation with a single anxious sentence.
@@ -2135,8 +2135,8 @@ The volunteers left Calcutta in nine separate pairs, spread across three differe
 Bill Grice traveled in a two-berth first-class coupé on the Madras Mail. Across from him, the lower bunk was empty; on the upper rack, resting directly beneath the slow, rhythmic sweep of a four-bladed electric ceiling fan, lay a battered leather portmanteau and a zipped canvas cricket bag.
 Inside the bag, wrapped in oily flannel shirts, were two dismantled Sten submachine guns, six loaded magazines, and four No. 36 Mills pattern hand grenades with their safety pins wired flat.
 Grice sat by the open window, wearing a light gray flannel suit and a Panama hat, holding an unread copy of The Statesman against his knee. Every sixty miles, the train ground to a halt at sun-baked provincial stations—Kharagpur, Balasore, Cuttack.
-Whenever the train slowed, the sensory world of rural India flooded the carriage - the sharp, acrid smell of dried cow-dung smoke drifting from trackside villages, the sulfurous reek of the locomotive’s firebox, and the relentless, chanting cries of the platform vendors - Chai garam, garam chai... Paan-bidi-cigarette...
-At Cuttack, an Indian station porter reached through the carriage door to hoist Grice’s cricket bag onto his shoulder.
+Whenever the train slowed, the sensory world of rural India flooded the carriage - the sharp, acrid smell of dried cow-dung smoke drifting from trackside villages, the sulfurous reek of the locomotive's firebox, and the relentless, chanting cries of the platform vendors - Chai garam, garam chai... Paan-bidi-cigarette...
+At Cuttack, an Indian station porter reached through the carriage door to hoist Grice's cricket bag onto his shoulder.
 
 GRICE
 (snapping, voice sharp with the instinctive authority of a burra sahib)
@@ -2152,7 +2152,7 @@ Only books, coolie. Heavy law reports for the High Court in Madras. I'll carry i
 NARRATOR
 The porter touched his forehead in salute, pocketed the silver, and disappeared into the crowd. Grice stayed seated, his heart pounding a steady, heavy rhythm against his ribs, his hand never straying more than six inches from the canvas zip.
 Six carriages back, in a crowded four-berth second-class compartment, Lieutenant Cren Sandys-Lumsdaine sat with his boots propped on a wooden packing crate. Beside him sat another Light Horseman, both men dressed in the rough khaki drill of civilian big-game hunters.
-Their cover was simple - an authorized shikar in the forests of the Nilgiris. Two double-barreled sporting shotguns sat in leather breakdown cases on the rack above them, providing an immediate, legitimate explanation for the presence of heavy ammunition tins and hunting knives. But tucked deep inside Sandys-Lumsdaine’s bedroll, rolled into the thick wool of a camp blanket, were two heavy, lead-weighted leather coshes and eighty rounds of 9mm parabellum.
+Their cover was simple - an authorized shikar in the forests of the Nilgiris. Two double-barreled sporting shotguns sat in leather breakdown cases on the rack above them, providing an immediate, legitimate explanation for the presence of heavy ammunition tins and hunting knives. But tucked deep inside Sandys-Lumsdaine's bedroll, rolled into the thick wool of a camp blanket, were two heavy, lead-weighted leather coshes and eighty rounds of 9mm parabellum.
 Through the wooden window louvers, the red, dust-choked plains of Orissa gave way to the rocky hills of the northern Circars. The heat became crushing. By midday, the temperature inside the wooden carriage hovered past ninety-five degrees.
 The fine, red dust of the Deccan plateau drifted through every seam in the floorboards, coating their skin, their hair, and their tongues in a dry, alkaline grit. Whenever the train heaved over a switch, Sandys-Lumsdaine reached up instinctively to steady the bedroll, making sure the metal receivers did not clink against the iron roof stays.
 At Waltair, where the coastal line paused for engines to water, Sandys-Lumsdaine stepped down onto the platform to buy a clay cup of tea from the railway buffet.
@@ -2165,7 +2165,7 @@ On the evening of 4 March, the trains converged on Madras Central.
 Under the towering red-brick Victorian arches of the terminal, the southern rail system took over. The volunteers had four hours to kill before boarding the South Indian Railway broad-gauge express that would take them across the spine of the peninsula to the Malabar Coast.
 Grice sat alone in the First Class Refreshment Room, eating a plate of dry cold mutton and sipping soda water under the slow rotation of the punkahs. Two tables away, Major Yogi Crossley sat with his back to him, quietly reading a month-old copy of The Illustrated London News.
 A patrol of three British Military Policemen, led by a sergeant with a Sten gun slung across his chest and blanco-white web gaiters, entered the dining room.
-The sergeant stopped by Crossley’s table, eyeing the heavy leather bag at his feet.
+The sergeant stopped by Crossley's table, eyeing the heavy leather bag at his feet.
 
 SERGEANT
 (voice polite but firm)
@@ -2179,7 +2179,7 @@ CROSSLEY
 Civilian, Sergeant. Traveling to the Malabar coast on the authority of the Ministry of Supply to inspect fiber baling installations.
 
 NARRATOR
-The military policeman inspected the blue rubber stamps, checked the photograph against Crossley’s broad, sun-reddened face, and handed the wallet back with a stiff salute.
+The military policeman inspected the blue rubber stamps, checked the photograph against Crossley's broad, sun-reddened face, and handed the wallet back with a stiff salute.
 
 SERGEANT
 Sorry to disturb you, sir. Routine check. A lot of deserters slipping down to the southern ports.
@@ -2214,7 +2214,7 @@ Rendezvous at Cochin Harbor
 
 Across the emerald expanse of the Vembanad backwaters, Willingdon Island rose from the tidal mud like a flat, artificial platform of dredged coral and asphalt.
 Constructed in the 1930s to create a modern deep-water port on the southwest coast of India, the island was a secure, controlled enclave. To the north lay the bustling native wharves of Mattancherry, lined with spice godowns and smelling of crushed pepper, coir rope, and drying ginger; to the south, behind barbed-wire perimeters, lay the restricted berths of the Royal Indian Navy depot.
-On an isolated commercial jetty near the mouth of the channel, away from the military base, Major Gavin Stewart stood in the shade of a corrugated iron copra shed, checking his wristwatch against the harbor pilot’s signal tower.
+On an isolated commercial jetty near the mouth of the channel, away from the military base, Major Gavin Stewart stood in the shade of a corrugated iron copra shed, checking his wristwatch against the harbor pilot's signal tower.
 Beside him stood Captain Lawrence White of the Royal Engineers.
 White was thirty-one, a quiet, methodical specialist in industrial sabotage and high-explosive breaching, seconded to Force 136 specifically for the mission. At his feet sat four olive-drab wooden crates containing fifty pounds of plastic explosive, electrical detonators, instantaneous fuse, and magnetic limpet clamps.
 
@@ -2242,10 +2242,10 @@ Try taking a flat-bottomed mud bucket through a force-six beam sea off Galle, Ma
 
 NARRATOR
 He signaled down to the stokehold. With a hiss of venting steam and the rattle of iron mooring lines being thrown over the granite bollards, the Phoebe was tied fast to the Malabar coast.
-Between noon and three o’clock in the afternoon, the volunteers arrived.
+Between noon and three o'clock in the afternoon, the volunteers arrived.
 They came across the harbor from the railway jetty at Ernakulam in small, civilian motor launches, arriving in pairs at twenty-minute intervals to avoid drawing the notice of the harbor police.
 They walked along the concrete wharf carrying their leather portmanteaus and canvas cricket bags, dressed in civilian linen jackets, open-collared shirts, and felt hats, looking like a touring committee of the Royal Calcutta Turf Club arriving for a weekend meeting.
-Major Yogi Crossley was the first of the Light Horse to reach the foot of the Phoebe’s gangway.
+Major Yogi Crossley was the first of the Light Horse to reach the foot of the Phoebe's gangway.
 He stopped. He set his leather Gladstone bag down on the concrete, pushed his hat back on his forehead, and stared up at the rusted, soot-blackened iron flank of the vessel.
 
 CROSSLEY
@@ -2260,7 +2260,7 @@ You're admiring our naval transport, Yogi?
 
 CROSSLEY
 (face deadpan)
-I’m wondering if we’re expected to capture the Ehrenfels with her, or if we’re simply going to dredge the bottom until she grounds on her own silt. I’ve seen cleaner coal barges on the Manchester Ship Canal.
+I'm wondering if we're expected to capture the Ehrenfels with her, or if we're simply going to dredge the bottom until she grounds on her own silt. I've seen cleaner coal barges on the Manchester Ship Canal.
 
 NARRATOR
 Davies leaned over the bridge rail above them, surveying the two middle-aged businessmen with dry amusement.
@@ -2273,7 +2273,7 @@ NARRATOR
 Grice gave a crisp nod, picked up his bag, and climbed the iron ladder.
 On deck, the transition from civilian comfort to operational reality was instant and violent.
 The heat on the iron plating was staggering—over one hundred and ten degrees, radiating from the boilers below. The ship smelled overwhelmingly of stale bilge water, sulfurous Welsh coal, and damp hemp.
-Pugh was already aboard, waiting in the tiny, wood-paneled officers’ mess beneath the bridge.
+Pugh was already aboard, waiting in the tiny, wood-paneled officers' mess beneath the bridge.
 One by one, the men filed into the cramped compartment - the fourteen volunteers from the Calcutta Light Horse, followed by Captain Robert Hutton Duguid and his three young Scottish infantrymen.
 They stood shoulder to shoulder in the suffocating heat, their civilian suits out of place against the grease-stained bulkheads.
 
@@ -2291,7 +2291,7 @@ Assemble the weapons. Clean every bolt with kerosene. Not a drop of grease on th
 
 NARRATOR
 The mess room filled with the metallic, rhythmic clatter of weapons assembly - the dry click-clack of Sten barrels screwing into their receivers, the sharp snap of skeleton buttstocks locking into place, and the sliding of heavy steel bolts against their return springs.
-Cren Sandys-Lumsdaine sat on an iron locker in the corner, working a dry rag over the bolt of his Sten, his eyes cold and focused. Beside him, one of Duguid’s junior Scots was methodically taping the levers of the Mills bombs with black friction tape so they could be carried loose in the pockets of their shorts without accidental detonation.
+Cren Sandys-Lumsdaine sat on an iron locker in the corner, working a dry rag over the bolt of his Sten, his eyes cold and focused. Beside him, one of Duguid's junior Scots was methodically taping the levers of the Mills bombs with black friction tape so they could be carried loose in the pockets of their shorts without accidental detonation.
 Pugh laid an Admiralty chart of the Arabian Sea across the mess table, weighting down the corners with a box of 9mm ammunition and a brass parallel rule.
 
 PUGH
@@ -2384,9 +2384,9 @@ NARRATOR
 He tapped the plan with a sharpened pencil, pointing to four distinct compartments.
 
 PUGH
-Here is the order of battle. The moment Bernard puts the Phoebe alongside the Ehrenfels’ port quarter, the three ladders go up simultaneously.
-Ladder One—The Bridge Party - Bill Grice, you lead. Take four Light Horsemen. Clear the bridge wing, neutralize the deck watch, and destroy the ship’s alarm bells and voicepipes. If Rössing reaches the bridge siren, he wakes the whole harbor.
-Ladder Two—The Radio Cabin - Yogi Crossley and Cren Sandys-Lumsdaine. You follow Duguid’s men. The wireless office sits behind the chartroom on the boat deck. You blow the door off its hinges with a plastic charge if it’s barred. Kill the operator before he can touch the key. Secure every codebook, cipher sheet, and log on the desk.
+Here is the order of battle. The moment Bernard puts the Phoebe alongside the Ehrenfels' port quarter, the three ladders go up simultaneously.
+Ladder One—The Bridge Party - Bill Grice, you lead. Take four Light Horsemen. Clear the bridge wing, neutralize the deck watch, and destroy the ship's alarm bells and voicepipes. If Rössing reaches the bridge siren, he wakes the whole harbor.
+Ladder Two—The Radio Cabin - Yogi Crossley and Cren Sandys-Lumsdaine. You follow Duguid's men. The wireless office sits behind the chartroom on the boat deck. You blow the door off its hinges with a plastic charge if it's barred. Kill the operator before he can touch the key. Secure every codebook, cipher sheet, and log on the desk.
 Ladder Three—The Engine Room - Captain White, myself, and the four Calcutta Scottish. We go straight down the midships companionway to the machinery spaces. Our objective is the main condenser intake and the propeller shaft tunnel. Rössing has scuttling charges rigged to the hull plates. We must sever the firing leads before he can touch the dry cells.
 
 NARRATOR
@@ -2412,7 +2412,7 @@ No wireless contact. A transmission from Goa would be picked up by Jabalpur with
 
 NARRATOR
 The men fell silent.
-The only sound was the steady, rhythmic thump-thump-thump of the Phoebe’s twin compound engines and the hiss of the bow wave sliding past the iron plates.
+The only sound was the steady, rhythmic thump-thump-thump of the Phoebe's twin compound engines and the hiss of the bow wave sliding past the iron plates.
 Across the water, forty miles ahead in the darkness, the light of Fort Aguada was sweeping the entrance to Mormugao Harbor.
 The time for alibis, trains, and corporate boardrooms was over.
 Eighteen middle-aged gentlemen from Calcutta were twelve hours from committing an act of war on the sovereign territory of the King of Portugal.
@@ -2426,7 +2426,7 @@ The Rot at Mormugao
 7–8 March 1943
 
 To live aboard an interned merchantman in the fourth year of the war was to experience the slow, conscious death of a ship.
-In the dead water of Mormugao Bay, the heat of early March was a physical weight. By midday, the steel deckplates of the Ehrenfels were hot enough to blister the soles of bare feet. Below decks, in the unventilated crew quarters, the air had the sour, greasy stink of unwashed hammocks, stale tallow, rotting bilge water, and the pungent vinegar used by the ship’s cook to preserve the last casks of rancid cabbage.
+In the dead water of Mormugao Bay, the heat of early March was a physical weight. By midday, the steel deckplates of the Ehrenfels were hot enough to blister the soles of bare feet. Below decks, in the unventilated crew quarters, the air had the sour, greasy stink of unwashed hammocks, stale tallow, rotting bilge water, and the pungent vinegar used by the ship's cook to preserve the last casks of rancid cabbage.
 The eighty men of the crew had spent forty-two consecutive months staring at the same red laterite cliffs of the headland and the white towers of the Catholic churches on the ridge above Vasco da Gama.
 They were sick with the peculiar tropical lethargy of the long-interned. Men walked the decks with their heads down, their skin pale yellow from recurrent bouts of malaria, their shins covered in raw, weeping tropical ulcers that refused to heal in the humid salt air.
 On the foredeck, the morning muster had degenerated into a sullen, exhausted formality. Even the young Party loyalists among the junior mechanics no longer bothered to polish the brass swastika pins on their soiled cotton caps.
@@ -2457,7 +2457,7 @@ The bronze retaining bolts have been backed off to the last three threads. The e
 
 ROSSING
 (nodding once, expression cold and detached)
-Good. If the British come, Wilhelm, they will come in the dark. They will try to put men on the bridge before we can sound the siren. We will have less than five minutes from the first alarm to initiate the sequence. The ship does not leave this mud. Berlin’s orders are absolute.
+Good. If the British come, Wilhelm, they will come in the dark. They will try to put men on the bridge before we can sound the siren. We will have less than five minutes from the first alarm to initiate the sequence. The ship does not leave this mud. Berlin's orders are absolute.
 
 REDEL
 Understood, Herr Kapitän.
@@ -2505,7 +2505,7 @@ The local ship chandlers, Herr Kapitän. They want our business when the war end
 
 NARRATOR
 Rössing turned back to the harbor.
-Below him, on the main hatch, twenty German deckhands were gathered around the ship’s carpenter, who was reading an identical pink handbill aloud. The men’s faces were transformed. For three and a half years, their lives had been a prison of rust, heat rash, and stale salt beef. The prospect of cold beer, fresh food, and women from the town was like water thrown on a dying fire.
+Below him, on the main hatch, twenty German deckhands were gathered around the ship's carpenter, who was reading an identical pink handbill aloud. The men's faces were transformed. For three and a half years, their lives had been a prison of rust, heat rash, and stale salt beef. The prospect of cold beer, fresh food, and women from the town was like water thrown on a dying fire.
 If he forbade them to go, Rössing knew, the crew would mutiny. The discipline that had held the Ehrenfels together through three monsoon seasons was stretched to its absolute breaking point. A single spark would snap it.
 
 ROSSING
@@ -2522,7 +2522,7 @@ NARRATOR
 He hurried down the ladder to spread the word.
 Rössing stood alone on the bridge wing, watching the white launch turn back toward the town.
 The heat was rising from the water, shimmering off the breakwater rocks.
-In Vasco da Gama, the brass bands were already beginning to tune their instruments for the evening’s festivities.
+In Vasco da Gama, the brass bands were already beginning to tune their instruments for the evening's festivities.
 Rössing reached into his pocket, his fingers closing around the cold brass key to the radio room. He looked down at the harbor entrance, where the green swells were breaking gently against the sandbar.
 Everything was quiet. The Portuguese flag hung limp against the flagpole of Fort Mormugao.
 Yet as the old captain watched the sun begin its long, slow descent toward the western horizon, an inexplicable chill settled into his bones—a certainty, cold and absolute, that the long, rotting peace of Mormugao Bay was living its final hours.
@@ -2532,14 +2532,14 @@ Yet as the old captain watched the sun begin its long, slow descent toward the w
 
 NARRATOR
 Chapter Twenty-Two
-Jock Cartwright’s Carnival
+Jock Cartwright's Carnival
 8–9 March 1943
 
 Vasco da Gama in the second week of March did not feel like part of the Indian subcontinent; it felt like a decaying provincial town in southern Portugal, pickled in salt air and Catholic ritual.
 Narrow alleys of red laterite stone wound past peeling whitewashed villas with green wooden shutters and red-tiled roofs. In the public squares, pigs rooted through refuse in the gutters under the shade of jacaranda trees, while barefoot Goan fishermen mended coir nets outside tavernas that reeked of fried mackerel, garlic, and cheap cashew feni.
 In a shuttered back room on the upper floor of a commercial guesthouse near the railway station, Jock Cartwright sat across an oilcloth-covered table from Robert "Dickie" Sloan.
 Sloan was thirty-three, an operative of Force 136 who had spent two years living in Portuguese Goa under the cover of a British mining consultant. He wore a rumpled linen shirt, his teeth stained from local cheroots, his face pale with the chronic jaundice of the coastal lagoons.
-Between the two men on the scarred wooden table lay the contents of Cartwright’s canvas bank bag - stacks of crisp blue Portuguese Indian escudos, rolls of silver half-rupees, and a velvet pouch containing two hundred uncirculated British gold sovereigns.
+Between the two men on the scarred wooden table lay the contents of Cartwright's canvas bank bag - stacks of crisp blue Portuguese Indian escudos, rolls of silver half-rupees, and a velvet pouch containing two hundred uncirculated British gold sovereigns.
 Cartwright reached down, massaging the dull ache in his scarred right hip with his thumb.
 
 CARTWRIGHT
@@ -2548,14 +2548,14 @@ The hall is secured?
 
 SLOAN
 (tapping the ash from his cheroot into an empty sardine tin)
-The Salão Municipal. Two blocks from the railway terminus, four hundred yards from the commercial jetty. The municipal secretary took fifteen hundred escudos and asked no questions. To him, we’re the 'European Hospitality Committee'—wealthy British and Swiss commercial travelers offering fraternal cheer to the interned crews for Shrove Tuesday.
+The Salão Municipal. Two blocks from the railway terminus, four hundred yards from the commercial jetty. The municipal secretary took fifteen hundred escudos and asked no questions. To him, we're the 'European Hospitality Committee'—wealthy British and Swiss commercial travelers offering fraternal cheer to the interned crews for Shrove Tuesday.
 
 CARTWRIGHT
 And the drink?
 
 SLOAN
 (with a thin, yellowed grin)
-I bought every drop of alcohol between here and Margão. Twelve hogsheads of red Portuguese wine from the bonded warehouses at Panjim. Forty cases of British lager smuggled through the customs barrier at Castle Rock. And two hundred gallons of double-distilled cashew feni that could strip the varnish off a church door. If those German stokers drink half of what we’ve laid out, they won't be able to stand by ten o'clock, let alone fight.
+I bought every drop of alcohol between here and Margão. Twelve hogsheads of red Portuguese wine from the bonded warehouses at Panjim. Forty cases of British lager smuggled through the customs barrier at Castle Rock. And two hundred gallons of double-distilled cashew feni that could strip the varnish off a church door. If those German stokers drink half of what we've laid out, they won't be able to stand by ten o'clock, let alone fight.
 
 NARRATOR
 Cartwright looked toward the shuttered window, where the sound of children blowing tin carnival horns drifted up from the lane below.
@@ -2564,10 +2564,10 @@ CARTWRIGHT
 What about the women, Dickie?
 
 NARRATOR
-Sloan’s smile vanished, replaced by the flat, cold professionalism of a field agent.
+Sloan's smile vanished, replaced by the flat, cold professionalism of a field agent.
 
 SLOAN
-There are four brothels behind the municipal market. Run by a Goan madame who caters to the railway crews and the lightermen. I gave her thirty gold sovereigns this morning. For that, she’s closing her doors to the public. She’s providing thirty-five girls—Goans, Anglo-Indians, and two women from Bombay. They’ll be inside the hall from seven o'clock, serving the drinks, sitting at the tables, and making sure no German sailor leaves the room before midnight.
+There are four brothels behind the municipal market. Run by a Goan madame who caters to the railway crews and the lightermen. I gave her thirty gold sovereigns this morning. For that, she's closing her doors to the public. She's providing thirty-five girls—Goans, Anglo-Indians, and two women from Bombay. They'll be inside the hall from seven o'clock, serving the drinks, sitting at the tables, and making sure no German sailor leaves the room before midnight.
 
 NARRATOR
 Cartwright nodded slowly, his face expressionless.
@@ -2588,7 +2588,7 @@ Silva won't double-cross us?
 
 SLOAN
 (dryly)
-Silva would sell the Holy Sepulchre for two hundred gold sovereigns, Jock. He thinks this is an ordinary carnival spree financed by rich eccentrics. He doesn't know there’s an iron hopper coming down the coast with twenty men armed with Sten guns.
+Silva would sell the Holy Sepulchre for two hundred gold sovereigns, Jock. He thinks this is an ordinary carnival spree financed by rich eccentrics. He doesn't know there's an iron hopper coming down the coast with twenty men armed with Sten guns.
 
 NARRATOR
 Cartwright stood up, his hip joint clicking as he straightened. He walked to the window, pushed the wooden louvers open half an inch, and looked out over the roofs toward Mormugao Bay.
@@ -2763,7 +2763,7 @@ NARRATOR
 Grice turned toward the waist deck.
 Below the bridge, eighteen men were sitting in the dark around the open hopper well.
 They were unrecognizable. The prosperous, middle-aged jute wallahs, senior partners, and accountants of Calcutta had vanished. In their place sat eighteen black-faced figures in rubber-soled plimsolls, their bare skin blackened to the waist, armed with Stens, Mills bombs, and lead coshes.
-They sat in complete silence. There was no joking, no nervous laughter. The only sound was the soft, metallic snick of Duguid’s men checking the bolts of their weapons one last time, and the gentle lapping of the sea against the iron hull.
+They sat in complete silence. There was no joking, no nervous laughter. The only sound was the soft, metallic snick of Duguid's men checking the bolts of their weapons one last time, and the gentle lapping of the sea against the iron hull.
 Grice leaned over the ladder rail, looking down into the shadows.
 
 GRICE
@@ -2790,7 +2790,7 @@ Dead Slow in the Swell
 At twenty-three-hundred, the WV Phoebe crossed the invisible line.
 There was no buoy, no sounding of a bell, no shift in the ocean current to mark the boundary. But on the brass chart table in the darkened wheelhouse, under the narrow, hooded cone of a red-filtered inspection lamp, Commander Bernard Davies laid his parallel rule across the five-fathom contour line three miles off the Goan headland.
 They were inside Portuguese territorial waters.
-From this moment forward, the King’s law ceased to protect them. Under the maritime statutes of the civilized world, the twenty-four men aboard the hopper were armed marauders without flag or commission, engaged in a capital felony against a sovereign non-belligerent state.
+From this moment forward, the King's law ceased to protect them. Under the maritime statutes of the civilized world, the twenty-four men aboard the hopper were armed marauders without flag or commission, engaged in a capital felony against a sovereign non-belligerent state.
 If a Portuguese patrol launch hailed them now and found twenty dismantled automatic weapons and sixty pounds of high-grade demolition plastic, the British government would not merely abandon them; Whitehall would formally applaud their arrest.
 Davies clicked the red torch off. The wheelhouse plunged back into ink-black darkness, save for the pale, ghostly luminescence of the compass bowl swaying gently in its gimbals.
 
@@ -2802,9 +2802,9 @@ NARRATOR
 Two decks below, the engine-room ratings throttled back the steam manifolds.
 The revolutions of the twin screws dropped from seventy to thirty-five a minute. The steady, pounding roar of the compound engines softened into a muffled, rhythmic sigh—hiss-shuck, hiss-shuck—barely louder than the slap of the small, glassy swells against the iron hull.
 The Welsh coal proved its worth.
-Unlike the dirty, bituminous slag from the Bengal fields that had belched plumes of black soot down the Hooghly, the Admiralty coal burned with an intense, smokeless heat. From the Phoebe’s twin funnels, nothing rose into the tropical night except a shimmering distortion of clear, superheated air.
+Unlike the dirty, bituminous slag from the Bengal fields that had belched plumes of black soot down the Hooghly, the Admiralty coal burned with an intense, smokeless heat. From the Phoebe's twin funnels, nothing rose into the tropical night except a shimmering distortion of clear, superheated air.
 Even the phosphorescence in the water was against them.
-The Arabian Sea was thick with dinoflagellates—microscopic marine organisms that flared with cold, blue-green fire whenever the water was disturbed. At eight knots, the Phoebe’s blunt bow would have carved a radiant, glowing wake visible from the watchtower of Fort Aguada five miles away. At three knots, the bow merely parted the water with a faint, velvet murmur, the cold green fire dying out within ten feet of the counter.
+The Arabian Sea was thick with dinoflagellates—microscopic marine organisms that flared with cold, blue-green fire whenever the water was disturbed. At eight knots, the Phoebe's blunt bow would have carved a radiant, glowing wake visible from the watchtower of Fort Aguada five miles away. At three knots, the bow merely parted the water with a faint, velvet murmur, the cold green fire dying out within ten feet of the counter.
 On the iron waist deck, eighteen men were sitting flat against the bulwarks, their knees drawn to their chests.
 The heat was staggering. Stripped to their cotton shorts, their bare torsos and faces smeared with black grease and charcoal, the volunteers were sweating so profusely that the carbon paste ran in dark, stinging rivulets into their eyes and down their ribs.
 Around their necks hung lengths of rawhide lanyard securing their brass alarm whistles; in their pockets were the heavy No. 36 Mills bombs, their pins checked and retaped; between their knees rested the cold, skeleton frames of their Sten guns.
@@ -2812,12 +2812,12 @@ Major Yogi Crossley sat next to Lieutenant Cren Sandys-Lumsdaine.
 Crossley looked at his hands. In the dim ambient starlight, they looked like the paws of an iron miner—blackened, calloused, scarred by thirty years of club polo, holding a stamped-steel submachine gun that cost less than three pounds to manufacture in an ordnance factory in Enfield.
 
 SANDYS-LUMSDAINE
-(whispering, voice barely audible two inches from Crossley’s ear)
+(whispering, voice barely audible two inches from Crossley's ear)
 Thinking about the office, Yogi?
 
 CROSSLEY
 (murmuring back through blackened lips)
-Thinking about my partner, Arthur. He’s sitting in our office on Clive Street right now, wondering why on earth the telegraph from Madras confirming my health cure hasn't arrived. If the Portuguese hang us, Cren, Arthur will have to audit the jute accounts on his own. It will kill him.
+Thinking about my partner, Arthur. He's sitting in our office on Clive Street right now, wondering why on earth the telegraph from Madras confirming my health cure hasn't arrived. If the Portuguese hang us, Cren, Arthur will have to audit the jute accounts on his own. It will kill him.
 
 NARRATOR
 Sandys-Lumsdaine let out a breath that sounded like a suppressed cough.
@@ -2830,22 +2830,22 @@ Five feet away, Captain Robert Hutton Duguid sat with his three young Scottish i
 Unlike the older Light Horsemen, whose joints ached with every roll of the hull and whose livers bore the scars of twenty years of colonial gin, the Scots were in their twenties and thirties—hard, quiet, professional territorials. They were methodically wrapping their spare Sten magazines in strips of dry lint to keep the salt spray off the follower lips.
 Duguid looked over at Bill Grice.
 The Colonel was sitting on a wooden coal locker, motionless, his back straight, his eyes fixed on the low black shadow of Mormugao Head rising against the eastern stars. He was forty-six years old, the managing director of the largest chemical trust in Asia, and he had not held an automatic weapon in anger since the Battle of the Somme in nineteen-sixteen.
-Yet in the dark, Grice’s face was as set and expressionless as a granite headstone.
+Yet in the dark, Grice's face was as set and expressionless as a granite headstone.
 Pugh was wearing a dark, sleeveless singlet, his .45 Colt automatic strapped high on his ribs in a quick-draw leather holster. He crouched down beside the Colonel.
 
 PUGH
 (whispering)
-Bill. The wind has shifted. It's blowing off the headland. It’s carrying the sound of our screws away from the anchorage. If Bernard keeps her in the deep channel, the Germans won't hear us until we round the breakwater.
+Bill. The wind has shifted. It's blowing off the headland. It's carrying the sound of our screws away from the anchorage. If Bernard keeps her in the deep channel, the Germans won't hear us until we round the breakwater.
 
 NARRATOR
-Grice checked the heavy brass pocket watch he had tied to the waistband of his shorts with a length of sailmaker’s twine.
+Grice checked the heavy brass pocket watch he had tied to the waistband of his shorts with a length of sailmaker's twine.
 
 GRICE
-Twenty-three-forty. Jock’s party in Vasco should be at peak drunk.
+Twenty-three-forty. Jock's party in Vasco should be at peak drunk.
 
 PUGH
 (with total confidence)
-Cartwright will have done his work. If he hasn't, we will know the moment our snout clears the stone jetty. If the searchlights come on, we do not turn back, Bill. We run straight in. We board her while she’s shooting.
+Cartwright will have done his work. If he hasn't, we will know the moment our snout clears the stone jetty. If the searchlights come on, we do not turn back, Bill. We run straight in. We board her while she's shooting.
 
 GRICE
 (simply)
@@ -2886,7 +2886,7 @@ Crossing the Harbor Bar
 9–10 March 1943 — 23:45 to 00:20
 
 The bar at the mouth of the Zuari River was a shallow ridge of shifting sand and dead coral that lay like a submerged tripwire across the entrance to Mormugao Harbor.
-At low water, it carried barely eight feet of clearance. Even now, with the spring tide flooding toward midnight high water, the sounding line in Davies’ hand showed only fourteen feet. The WV Phoebe, laden with Welsh coal, ballast, and the deadweight of her dredge machinery, was drawing eleven.
+At low water, it carried barely eight feet of clearance. Even now, with the spring tide flooding toward midnight high water, the sounding line in Davies' hand showed only fourteen feet. The WV Phoebe, laden with Welsh coal, ballast, and the deadweight of her dredge machinery, was drawing eleven.
 If her flat bottom touched the sand in the cross-swell, the surf would broach her in thirty seconds.
 Davies stood on the open bridge wing, his body leaning into the darkness, his bare fingers feeling the wet hemp line. He did not use the voicepipe.
 
@@ -2896,8 +2896,8 @@ Port a point. Ease her... <pause> ease her. Steady on the breakwater light.
 
 NARRATOR
 Beneath the iron deckplates, the water grew turbulent.
-The long oceanic swell coming in from the Arabian Sea encountered the shallowing bottom of the bar, steepening into short, sharp rollers that lifted the Phoebe’s stern and shoved her forward. The hopper shuddered violently, her twin rudders vibrating in the wash as the helmsman fought the helm to keep her blunt bow from swinging into the surf.
-For two agonizing minutes, the keel scraped through the liquid mud of the bar’s crest.
+The long oceanic swell coming in from the Arabian Sea encountered the shallowing bottom of the bar, steepening into short, sharp rollers that lifted the Phoebe's stern and shoved her forward. The hopper shuddered violently, her twin rudders vibrating in the wash as the helmsman fought the helm to keep her blunt bow from swinging into the surf.
+For two agonizing minutes, the keel scraped through the liquid mud of the bar's crest.
 A dull, hollow scraping sound—iron plates dragging through dense silt—resonated through the stokehold. The Lascar stokers froze, their shovels suspended above the coal heaps, their eyes rolling white in the red glare of the fireboxes.
 Then the shuddering ceased. The bow lifted smoothly. The sounding line ran out to five fathoms, then six.
 They were over the bar.
@@ -2905,7 +2905,7 @@ Ahead, three hundred yards off the starboard bow, the massive granite spine of t
 Above it, perched on the dark cliffs of the headland, the ancient Portuguese bastions of Fort Mormugao looked down over the water.
 Davies raised his night glasses, sweeping the stone parapets of the fort.
 There was no movement. The colonial artillery batteries—obsolete nineteenth-century guns mounted in open stone embrasures—were unmanned. The Portuguese searchlight tower on the headland was dark, its mirror shrouded in canvas.
-Cartwright’s gold and Sloan’s liquor had done their work. The garrison was asleep, drunk, or dancing in the plazas of Vasco da Gama.
+Cartwright's gold and Sloan's liquor had done their work. The garrison was asleep, drunk, or dancing in the plazas of Vasco da Gama.
 Davies brought the telegraph handle forward with a gentle, muffled motion, not allowing the brass pawl to click against the ratchet - HALF AHEAD BOTH.
 The Phoebe picked up speed, her twin screws biting into the sheltered, glassy water of the inner harbor.
 At 00:08, her blunt iron snout rounded the granite elbow of the breakwater.
@@ -2916,17 +2916,17 @@ Four vast, black hulls rode at their moorings, three hundred yards off the stone
 They were moored in a neat, orderly column, heading into the river current. Closest to the breakwater lay the Drachenfels, followed by the Braunfels and the Italian Anfora.
 And anchored three hundred yards beyond them, sitting high and majestic in the dark water, was the MV Ehrenfels.
 In the ambient starlight, she looked enormous. Her sheer, black-painted flanks rose twenty-four feet out of the water like the walls of a floating warehouse. A single, dim white anchor light burned on her forestay, casting a faint, pale shimmer across her forward cargo derricks and the curved bridge structure.
-On the Phoebe’s waist deck, eighteen men rose to their feet as one.
+On the Phoebe's waist deck, eighteen men rose to their feet as one.
 There was no sound of orders.
 Bill Grice moved to the starboard bulwark, his Sten gun slung across his chest on a short webbing strap, his right hand gripping a lead-weighted cosh. Behind him, Duguid and his three young Scottish infantrymen lifted the first of the twenty-six-foot bamboo scaling ladders from the engine-room casing.
-The rubber-wrapped iron hooks at the ladder’s head gleamed faintly with grease.
+The rubber-wrapped iron hooks at the ladder's head gleamed faintly with grease.
 Beside them, Yogi Crossley, Cren Sandys-Lumsdaine, and Captain Lawrence White took their stations at the second and third ladders.
 White carried a thirty-pound canvas demolition satchel slung over his bare shoulder, packed with slabs of plastic explosive, instantaneous fuse, and two magnetic limpet mines.
 Every man knew his breathing. It was the shallow, rapid respiration of men about to cross a threshold from which there was no legal or physical retreat.
 The distance shrank - two hundred yards... one hundred and fifty yards... one hundred yards.
-Through the still air, carrying across the flat water from the Ehrenfels, came the faint, rhythmic sound of an auxiliary diesel running deep within her hull—the very generator powering Erich Hoffmann’s secret shortwave transmitter.
-Davies stood on the bridge, his eyes locked on the German freighter’s port quarter.
-He was not attempting a gentle mooring. To put eighteen men over a twenty-four-foot bulwark in the dark required violence. He had to drive the Phoebe’s blunt iron snout straight against the Ehrenfels’ steel plating, letting the heavy timber fenders and railway sleepers absorb the impact, and hold the hopper pinned against her side with the sheer thrust of his screws while the ladders went up.
+Through the still air, carrying across the flat water from the Ehrenfels, came the faint, rhythmic sound of an auxiliary diesel running deep within her hull—the very generator powering Erich Hoffmann's secret shortwave transmitter.
+Davies stood on the bridge, his eyes locked on the German freighter's port quarter.
+He was not attempting a gentle mooring. To put eighteen men over a twenty-four-foot bulwark in the dark required violence. He had to drive the Phoebe's blunt iron snout straight against the Ehrenfels' steel plating, letting the heavy timber fenders and railway sleepers absorb the impact, and hold the hopper pinned against her side with the sheer thrust of his screws while the ladders went up.
 
 PUGH
 (voice rasping across the deck, barely above a whisper)
@@ -2936,7 +2936,7 @@ NARRATOR
 On the forecastle head, two Light Horsemen swung the muffled four-pronged iron hooks in short, silent pendulums.
 Fifty yards.
 Suddenly, a sharp, metallic sound cut through the silence of the anchorage.
-High above them, on the forward cargo deck of the Ehrenfels, a voice shouted into the darkness—a young, panicked voice speaking harsh, northern German. A figure appeared at the freighter's port rail, leaning over the bulwark, the white of his sailor’s singlet showing clean against the black steel.
+High above them, on the forward cargo deck of the Ehrenfels, a voice shouted into the darkness—a young, panicked voice speaking harsh, northern German. A figure appeared at the freighter's port rail, leaning over the bulwark, the white of his sailor's singlet showing clean against the black steel.
 
 DECKHAND MEYER
 Wer da? Wer ist da?
@@ -2950,7 +2950,7 @@ FULL AHEAD BOTH! HOLD ON ALL!
 
 NARRATOR
 The telegraph clanged twice with a deafening, brass shriek.
-The Phoebe’s twin compound engines screamed at full boiler pressure. Her screws tore the harbor water into a boiling cauldron of white foam, and the rusted hopper barge surged across the final thirty yards of open water like an iron battering ram.
+The Phoebe's twin compound engines screamed at full boiler pressure. Her screws tore the harbor water into a boiling cauldron of white foam, and the rusted hopper barge surged across the final thirty yards of open water like an iron battering ram.
 
 
 
@@ -2961,9 +2961,9 @@ The Iron Impact
 10 March 1943 — 00:20 to 00:26
 
 The collision was not a gentle brush of hulls; it was an iron earthquake.
-Commander Bernard Davies held the Phoebe’s wheel hard against the starboard stops, driving the blunt, armored snout of the hopper barge into the port flank of the Ehrenfels at an angle of twenty degrees, striking her twenty feet forward of the poop deck.
+Commander Bernard Davies held the Phoebe's wheel hard against the starboard stops, driving the blunt, armored snout of the hopper barge into the port flank of the Ehrenfels at an angle of twenty degrees, striking her twenty feet forward of the poop deck.
 The impact tore through the silence of Mormugao Harbor like an artillery shell detonating in an empty hall.
-The heavy teak balks and railway sleepers lashed along the Phoebe’s bulwarks took the primary shock. Two twelve-inch timber timbers splintered with a sound like pistol shots, showering the foredeck in heavy, jagged shards of wood. The thirty-year-old steel plates of the Phoebe screamed as they buckled inward against their angle-iron frames, grinding with violent, sparking friction against the riveted vertical wall of the German freighter.
+The heavy teak balks and railway sleepers lashed along the Phoebe's bulwarks took the primary shock. Two twelve-inch timber timbers splintered with a sound like pistol shots, showering the foredeck in heavy, jagged shards of wood. The thirty-year-old steel plates of the Phoebe screamed as they buckled inward against their angle-iron frames, grinding with violent, sparking friction against the riveted vertical wall of the German freighter.
 On the waist deck, the jolt threw three Calcutta Light Horsemen flat onto the iron plates.
 Major Yogi Crossley was slammed into the casing of the stokehold ventilator, his shoulder taking the blow, his Sten gun clattering against his knees.
 
@@ -2972,21 +2972,21 @@ PUGH
 Grappling lines! Get them over!
 
 NARRATOR
-On the Phoebe’s forecastle head, two Light Horsemen heaved the four-pronged iron grappling hooks upward.
-The muffled canvas shanks arced twenty feet into the night sky, cleared the rolled-iron bulwark of the Ehrenfels, and dropped onto the freighter’s timber-planked deck. The men threw their weight onto the lines, hauling them taut until the iron flukes bit into the scupper combings and the deck stanchions with a dull, iron clonk.
+On the Phoebe's forecastle head, two Light Horsemen heaved the four-pronged iron grappling hooks upward.
+The muffled canvas shanks arced twenty feet into the night sky, cleared the rolled-iron bulwark of the Ehrenfels, and dropped onto the freighter's timber-planked deck. The men threw their weight onto the lines, hauling them taut until the iron flukes bit into the scupper combings and the deck stanchions with a dull, iron clonk.
 Below, Davies did not throttle back.
-He kept the Phoebe’s twin compound engines turning at SLOW AHEAD, using the continuous thrust of her bronze screws and the wash of her rudders to pin the hopper hard against the freighter’s sheer side, preventing the recoil of the collision from throwing the two vessels apart.
+He kept the Phoebe's twin compound engines turning at SLOW AHEAD, using the continuous thrust of her bronze screws and the wash of her rudders to pin the hopper hard against the freighter's sheer side, preventing the recoil of the collision from throwing the two vessels apart.
 Above them, on the forward cargo hatch of the Ehrenfels, the night exploded into chaos.
-Deckhand Meyer had seen the black iron monster materialize from the dark. He raised his brass boatswain’s whistle to his lips, blowing four frantic, piercing blasts that shrieked across the calm water of the bay.
+Deckhand Meyer had seen the black iron monster materialize from the dark. He raised his brass boatswain's whistle to his lips, blowing four frantic, piercing blasts that shrieked across the calm water of the bay.
 
 DECKHAND MEYER
 (screaming, voice cracking with hysteria)
 Überfall! Überfall! Engländer! Alarm!
 
 NARRATOR
-He turned and bolted toward the bridge companionway, but before he took three strides, he lunged for the ship’s heavy brass alarm bell mounted beside the cargo winch.
+He turned and bolted toward the bridge companionway, but before he took three strides, he lunged for the ship's heavy brass alarm bell mounted beside the cargo winch.
 CLANG-CLANG-CLANG-CLANG!
-The iron clapper beat a furious, frantic tattoo that echoed off the cliffs of Fort Mormugao, while beneath the deckplates, the ship’s electrical alarm claxons began their shrill, automated wailing through every companionway and stokehold flat.
+The iron clapper beat a furious, frantic tattoo that echoed off the cliffs of Fort Mormugao, while beneath the deckplates, the ship's electrical alarm claxons began their shrill, automated wailing through every companionway and stokehold flat.
 
 GRICE
 (shouting from the waist deck)
@@ -2995,7 +2995,7 @@ Ladders up! Heave!
 NARRATOR
 The eighteen men went into action with the mechanical fury of a drilled cavalry squadron.
 Duguid and two of his Scottish territorials hoisted the first of the twenty-six-foot bamboo scaling ladders. The green poles, heavy with moisture and thick as fence posts, swept upward in a long arc.
-The rubber-wrapped iron hooks at the top slammed over the Ehrenfels’ port bulwark rail twenty-four feet above. Sandys-Lumsdaine and Crossley shoved the second ladder into the sky three paces forward, its hooks biting over the deck combing beneath the forward bridge wing.
+The rubber-wrapped iron hooks at the top slammed over the Ehrenfels' port bulwark rail twenty-four feet above. Sandys-Lumsdaine and Crossley shoved the second ladder into the sky three paces forward, its hooks biting over the deck combing beneath the forward bridge wing.
 Captain Lawrence White and Pugh hauled the third ladder into position opposite the midships companionway leading down into the engine room spaces.
 The bamboo ladders bowed like longbows under their own weight, flexing violently against the black steel plates as the Phoebe heaved in the backwash of her own screws.
 
@@ -3004,18 +3004,18 @@ GRICE
 Go!
 
 NARRATOR
-Bill Grice was forty-six years old. His knuckles were swollen, his chest was heaving with the suffocating humidity, and he had not climbed a ship’s side in twenty-five years.
+Bill Grice was forty-six years old. His knuckles were swollen, his chest was heaving with the suffocating humidity, and he had not climbed a ship's side in twenty-five years.
 He did not hesitate.
 He jumped onto the bottom rung of the first ladder, his black rubber-soled plimsolls finding purchase on the hemp-lashed teak batten. His right hand gripped the bamboo spar; his left hand held his Sten gun by the barrel shroud, slung across his chest.
 Beneath him lay a churning, four-foot chasm of black harbor water and grinding iron plates, where a slipped foot meant being crushed to pulp between a thousand tons of river hopper and seven thousand tons of German freighter.
 Grice climbed.
 Rung one. Rung two. Rung three.
-The bamboo pole bowed inward under his eleven-stone weight, shuddering with every revolution of the Phoebe’s engines below.
-Right behind him, Captain Robert Hutton Duguid was on the rungs, moving with the rapid, predatory agility of an infantry officer, a lead-weighted cosh clamped in his teeth, his Sten’s cocking handle pulled back to the safety notch.
-On the second ladder, Yogi Crossley’s right knee clicked with every step, the old polo injury flaring with white-hot pain as he hauled thirty pounds of ammunition and grenades up the vertical span.
+The bamboo pole bowed inward under his eleven-stone weight, shuddering with every revolution of the Phoebe's engines below.
+Right behind him, Captain Robert Hutton Duguid was on the rungs, moving with the rapid, predatory agility of an infantry officer, a lead-weighted cosh clamped in his teeth, his Sten's cocking handle pulled back to the safety notch.
+On the second ladder, Yogi Crossley's right knee clicked with every step, the old polo injury flaring with white-hot pain as he hauled thirty pounds of ammunition and grenades up the vertical span.
 Beside him, Sandys-Lumsdaine climbed with cold, fluid precision, his eyes locked on the dark line of the bulwark above.
 Ten feet. Fifteen feet. Twenty feet.
-Above them, over the lip of the Ehrenfels’ rail, a silhouette appeared.
+Above them, over the lip of the Ehrenfels' rail, a silhouette appeared.
 It was a German sailor in a white singlet, holding a heavy iron marline spike, screaming into the dark as he raised the iron bar to smash the rubber-padded hooks off the bulwark.
 Duguid, three rungs below the rail, took the cosh from his teeth with his left hand, drew his .45 Colt automatic from his belt with his right, pointed the heavy muzzle straight up between the rungs of the ladder, and fired.
 The gunshot tore through the night with a concussive, deafening roar, the muzzle blast illuminating the bamboo rungs in an instantaneous flash of yellow light.
@@ -3032,8 +3032,8 @@ Chapter Twenty-Seven
 Assault on the Superstructure
 10 March 1943 — 00:26 to 00:34
 
-The assault teams hit the wet teak planks of the Ehrenfels’ port deck in rapid succession, their rubber plimsolls gripping the camber of the deck plates.
-Above them, the three-tiered central deckhouse rose twenty feet against the night sky, its white-painted bulkheads catching the ambient starlight. Deckhand Meyer’s alarm whistle was still piercing the humid air from the forecastle head, competing with the frantic clanging of the ship’s brass bell and the shrill, automated wailing of the electrical claxons vibrating through the lower ventilator cowls.
+The assault teams hit the wet teak planks of the Ehrenfels' port deck in rapid succession, their rubber plimsolls gripping the camber of the deck plates.
+Above them, the three-tiered central deckhouse rose twenty feet against the night sky, its white-painted bulkheads catching the ambient starlight. Deckhand Meyer's alarm whistle was still piercing the humid air from the forecastle head, competing with the frantic clanging of the ship's brass bell and the shrill, automated wailing of the electrical claxons vibrating through the lower ventilator cowls.
 There was no time to establish a tactical perimeter. The German skeleton watch had been alerted; the element of surprise was measured in seconds.
 Bill Grice led the bridge party toward the starboard exterior companionway.
 At forty-six, carrying a loaded Sten gun, two Mills bombs, and extra magazines across his bare chest in ninety-degree heat, Grice took the teak treads two at a time. Behind him came three Light Horsemen—commercial men from the Calcutta managing agencies—their bare skin slick with engine grease and sweat.
@@ -3057,14 +3057,14 @@ GRICE
 Bridge secure! Inside! Sever the communications!
 
 NARRATOR
-The Light Horsemen pushed past Radau’s body into the wheelhouse.
+The Light Horsemen pushed past Radau's body into the wheelhouse.
 The room smelled of floor wax, stale coffee, and the sharp bite of gunpowder. The men went to work with cold, deliberate speed. One volunteer used a heavy iron wrench to smash the glass dials and internal ratchet levers of both engine-room telegraphs, preventing anyone from ringing orders to the stokehold.
 Beside the helm, another Light Horseman drew a combat knife, located the braided wire lanyard running up to the steam siren on the funnel casing, and sawed through the strands. The wire recoiled upward through the deckhead with a dull metallic snap.
-The ship’s main whistle was disabled. No steam blast would sound across the bay to alert the Portuguese garrison at Fort Mormugao.
+The ship's main whistle was disabled. No steam blast would sound across the bay to alert the Portuguese garrison at Fort Mormugao.
 One deck below, along the port alleyway of the boat deck, Major Yogi Crossley and Lieutenant Cren Sandys-Lumsdaine led the second party along the midships housing.
 Behind them came Captain Robert Hutton Duguid and his Calcutta Scottish infantrymen, their Stens held low, clearing the darkened passageway between the lifeboats and the cabin doors.
 A crewman burst out from the crew mess ten yards ahead, swinging a heavy iron fire nozzle.
-Duguid did not fire. He lunged inside the arc of the swing, driving the knurled frame of his weapon into the man’s sternum. The German staggered back against the steel casing, losing his grip on the nozzle, and was pinned instantly to the deck by two Scottish territorials with lead coshes.
+Duguid did not fire. He lunged inside the arc of the swing, driving the knurled frame of his weapon into the man's sternum. The German staggered back against the steel casing, losing his grip on the nozzle, and was pinned instantly to the deck by two Scottish territorials with lead coshes.
 Crossley pushed past them to the central companionway leading to the wireless office and the internal radio cabin.
 The heavy steel watertight door was dogged shut from within.
 Crossley threw his weight against the iron lever, but the locking dogs were hammered home. Inside the casing, the muffled mechanical hum of the auxiliary diesel was running, but the compartment was sealed tight behind deadlights and solid iron plating.
@@ -3109,17 +3109,17 @@ WHITE
 The machinery flats, Lewis! We have to get down to the shaft tunnel before they blow the flanges!
 
 NARRATOR
-Under the original operational plan drafted in Meerut, White’s team was tasked with penetrating the lower engine room, cutting the electrical firing leads to Rössing’s demolition charges, and securing the main condenser intake valves with iron wedges, preserving the 7,770-ton freighter intact as an Allied prize.
+Under the original operational plan drafted in Meerut, White's team was tasked with penetrating the lower engine room, cutting the electrical firing leads to Rössing's demolition charges, and securing the main condenser intake valves with iron wedges, preserving the 7,770-ton freighter intact as an Allied prize.
 They never reached the ladder.
 As White and Pugh reached the midships engine-room hatch, an overwhelming wave of heat and sulfurous exhaust blasted up through the iron grating.
 The heavy armored hatch cover was dogged shut from below. Through the steel vents came the hollow, metallic ringing of cold chisels biting into bronze, followed by the terrifying, deafening shriek of high-pressure steam escaping from fractured auxiliary lines.
 Then the charges blew.
 Deep inside the aft double bottoms, forty feet beneath their rubber-soled plimsolls, fifty kilograms of pressed picric acid detonated in the propeller shaft alley.
 The explosion did not sound like gunfire. It was a massive, subterranean hydraulic hammer—a concussive THUMP that drove through five fathoms of water and slammed into the bottom plating of the hull with shattering velocity.
-The shockwave compressed the air through the ventilation trunks with a concussive slap that blew Pugh’s balance, driving him against the steel handrail.
+The shockwave compressed the air through the ventilation trunks with a concussive slap that blew Pugh's balance, driving him against the steel handrail.
 Beneath their feet, the entire seven-thousand-ton structure of the Ehrenfels kicked violently upward. Deckplates buckled; rivet heads sheared off along the cabin bulkheads with the sound of snapping pistol shots. The deck leaped six inches into the air, throwing Crossley and Sandys-Lumsdaine flat onto the wet teak planks.
 Down in the electrical flats, the explosion tore through the auxiliary distribution cables.
-With a blinding shower of blue sparks that flashed through the skylights, the ship’s electrical generators tripped. The shrieking alarm claxons died in a long, descending groan. Every light across the vessel was extinguished simultaneously, plunging the decks, companionways, and bridge into total, suffocating blackness.
+With a blinding shower of blue sparks that flashed through the skylights, the ship's electrical generators tripped. The shrieking alarm claxons died in a long, descending groan. Every light across the vessel was extinguished simultaneously, plunging the decks, companionways, and bridge into total, suffocating blackness.
 For three seconds, a dead silence hung over the ship, broken only by the lapping of the harbor swell.
 Then came the roar of the sea.
 From the shattered engine flats below decks came a sound like a broken dam - thousands of tons of high-pressure seawater tearing through the ruptured garboard strakes and sheared condenser intakes, thundering into the lower holds under eight atmospheres of hydrostatic head.
@@ -3159,20 +3159,20 @@ The old master and his engine-room crew had stayed below to ensure the destructi
 White pulled his head back, his face soaked in hot, oily mist.
 
 WHITE
-(eyes wide, grabbing Pugh’s arm to brace against the tilting deck)
-The bottom is completely blown out, Lewis! Hold five is flooded to the deckhead and the screen bulkhead is tearing away! She’s taking ten thousand gallons a minute!
+(eyes wide, grabbing Pugh's arm to brace against the tilting deck)
+The bottom is completely blown out, Lewis! Hold five is flooded to the deckhead and the screen bulkhead is tearing away! She's taking ten thousand gallons a minute!
 
 NARRATOR
 The ship shuddered again—a long, metallic shriek that vibrated through the hull frames as the aft keel settled hard into four fathoms of mud.
 The list increased from eight degrees to twelve.
 The danger was no longer tactical; it was mechanical and immediate.
 The Ehrenfels was not sinking on an even keel. She was rolling heavily to port—leaning directly out over the low, flat-bottomed iron hull of the WV Phoebe.
-Twenty feet below, pinned hard against the freighter's side by the slow revolution of her screws, the hopper barge was caught directly beneath an overhanging wall of descending steel plates. The Phoebe had barely thirty inches of freeboard. If the 7,770-ton freighter rolled past fifteen degrees before the two craft could be separated, her rolled bulwark and cargo derricks would crash down across the hopper’s open waist deck, swamping her holds and dragging all twenty-four men to the bottom.
-From the darkness below, Commander Bernard Davies’ voice boomed through a brass megaphone, carrying above the roar of escaping steam:
+Twenty feet below, pinned hard against the freighter's side by the slow revolution of her screws, the hopper barge was caught directly beneath an overhanging wall of descending steel plates. The Phoebe had barely thirty inches of freeboard. If the 7,770-ton freighter rolled past fifteen degrees before the two craft could be separated, her rolled bulwark and cargo derricks would crash down across the hopper's open waist deck, swamping her holds and dragging all twenty-four men to the bottom.
+From the darkness below, Commander Bernard Davies' voice boomed through a brass megaphone, carrying above the roar of escaping steam:
 
 DAVIES
 (through brass megaphone, booming above the roar of escaping steam)
-Lewis! Get your men off her! She’s coming down on our port rail! Clear the deck!
+Lewis! Get your men off her! She's coming down on our port rail! Clear the deck!
 
 NARRATOR
 Pugh did not hesitate. The secondary objective—the capture of the Hansa freighter as a floating prize of war—was completely gone, drowned in the mud of the Zuari. But the primary mission—the permanent destruction of the vessel and her communications—was absolute.
@@ -3197,9 +3197,9 @@ The Tactical Deception
 10 March 1943 — 00:44 to 00:52
 
 Across the three hundred yards of water separating the Ehrenfels from the other three anchored freighters, the sensory indications of an attack had been accumulating for over twenty minutes.
-Aboard the Drachenfels, the 6,318-ton DDG Hansa steam freighter moored closest to the breakwater, the skeleton watch of nine men had been on deck since the initial impact. They had heard the heavy iron grinding of the collision, followed by the whistle blasts, the frantic beating of the Ehrenfels’ ship’s bell, and the distinct, rapid crackle of submachine-gun fire from the upper bridge decks.
+Aboard the Drachenfels, the 6,318-ton DDG Hansa steam freighter moored closest to the breakwater, the skeleton watch of nine men had been on deck since the initial impact. They had heard the heavy iron grinding of the collision, followed by the whistle blasts, the frantic beating of the Ehrenfels' ship's bell, and the distinct, rapid crackle of submachine-gun fire from the upper bridge decks.
 Then had come the underwater shockwaves.
-The detonation of Rössing’s picric acid charges in the propeller shaft alley of the Ehrenfels traveled through the shallow water of the roadstead with concussive velocity. The hydraulic hammer hit the riveted hull plates of the Drachenfels with a heavy, vibrating metallic blow, rattling the bunk frames in the crew quarters and causing the magnetic compass card in the wheelhouse binnacle to spin erratically in its gimbals.
+The detonation of Rössing's picric acid charges in the propeller shaft alley of the Ehrenfels traveled through the shallow water of the roadstead with concussive velocity. The hydraulic hammer hit the riveted hull plates of the Drachenfels with a heavy, vibrating metallic blow, rattling the bunk frames in the crew quarters and causing the magnetic compass card in the wheelhouse binnacle to spin erratically in its gimbals.
 Through binoculars, the watch officer on the Drachenfels could see the Ehrenfels listing steeply to port. Yellow smoke was venting from her engine-room cowls, while a low, dark vessel with twin skinny funnels remained pressed hard against her quarter.
 To the German watchstanders, isolated for three and a half years in a neutral harbor, the situation conformed to what standing operational orders had anticipated since September 1939.
 The instructions from the Seekriegsleitung (Naval Warfare Command) in Berlin were unambiguous:
@@ -3271,8 +3271,8 @@ The Ehrenfels shuddered violently as an internal bulkhead gave way below the wat
 The list increased another two degrees.
 The danger now was immediate and mechanical.
 The Ehrenfels was not sinking vertically; she was rolling to port—leaning directly out over the low, iron hull of the WV Phoebe.
-Twenty-four feet below, pinned against the freighter’s flank by the slow forward revolution of her screws, the hopper was caught beneath an overhanging wall of steel plates. If the 7,700-ton freighter rolled past twenty degrees before the two craft parted, her superstructure would come down directly across the dredge's waist deck, capsizing the smaller vessel and dragging all twenty-four men into the silt of the Zuari.
-Commander Bernard Davies leaned out of the Phoebe’s bridge cab, his face illuminated by the glare of the burning Hansa ships. He cupped his hands to his mouth.
+Twenty-four feet below, pinned against the freighter's flank by the slow forward revolution of her screws, the hopper was caught beneath an overhanging wall of steel plates. If the 7,700-ton freighter rolled past twenty degrees before the two craft parted, her superstructure would come down directly across the dredge's waist deck, capsizing the smaller vessel and dragging all twenty-four men into the silt of the Zuari.
+Commander Bernard Davies leaned out of the Phoebe's bridge cab, his face illuminated by the glare of the burning Hansa ships. He cupped his hands to his mouth.
 
 DAVIES
 (voice carrying above the crackle of the fires)
@@ -3284,7 +3284,7 @@ Ladders! Every man back over the rail!
 NARRATOR
 The evacuation was rapid, functional, and devoid of ceremony.
 The bamboo scaling ladders had warped under the shifting angle of the hull. The center ladder had buckled and parted its hemp lashings, leaving two spans swinging against the overhanging plates.
-Duguid took the captured German by the waistband of his shorts, shoved him over the bulwark, and guided him onto the upper rungs, where two Light Horsemen on the Phoebe’s deck hauled him down by his ankles onto the bagged coal.
+Duguid took the captured German by the waistband of his shorts, shoved him over the bulwark, and guided him onto the upper rungs, where two Light Horsemen on the Phoebe's deck hauled him down by his ankles onto the bagged coal.
 White and the two wounded Scottish territorials went next, sliding ten feet down the green poles and landing in heaps on the hopper's iron waist. Crossley followed, shielding the haversack with his body as he dropped the final six feet onto the tarpaulins, his strained right knee taking the impact with an audible grunt of pain.
 Sandys-Lumsdaine swung over the rail, followed by the remaining Light Horsemen.
 Pugh and Grice remained at the bulwark, checking the alleyways with red-lensed torches to ensure no man had been left behind in the smoke.
@@ -3300,11 +3300,11 @@ Grice followed immediately. As his plimsolls found the bamboo battens, an iron h
 Two Light Horsemen on the Phoebe leaned out over the bulwark, caught Grice by the leather belt of his shorts, and hauled him over the iron coaming onto the deckplates as the ladder plummeted into the water.
 All twenty-four men were back aboard the hopper.
 Above them, the steel cliff of the Ehrenfels leaned further into the night, blotting out the stars.
-And from the Phoebe’s bridge, Davies’ voice cracked through the voicepipe:
+And from the Phoebe's bridge, Davies' voice cracked through the voicepipe:
 
 DAVIES
 (through the voicepipe)
-Chop the hawsers! She’s dragging our port rail under!
+Chop the hawsers! She's dragging our port rail under!
 
 
 
@@ -3318,13 +3318,13 @@ The physical physics of displacement now threatened the WV Phoebe.
 The two-inch manila grappling lines, thrown over the rolled bulwarks of the Ehrenfels during the initial boarding, were wedged fast around the freighter's iron scupper stanchions. On the hopper, they were snubbed securely around the heavy cast-iron mooring bollards on the foredeck and aft counter.
 As the 7,770-ton German freighter settled into the mud by the stern and rolled eighteen degrees to port, the lines were placed under immense, vertical shear.
 The wet hemp stretched to its breaking limit, thinning under the strain until the fibers creaked with a high, vibrating hum like tightened harp strings.
-The descending weight of the larger vessel acted as an iron lever against the Phoebe’s port side.
-The hopper’s freeboard, already reduced to barely thirty inches by the deadweight of her coal reserves and dredge gear, began to vanish. Her port deck dipped into the harbor. Green water, thick with black scum and floating soot, poured over the bulwarks, swirling ankle-deep around the coal sacks in the central hopper well.
+The descending weight of the larger vessel acted as an iron lever against the Phoebe's port side.
+The hopper's freeboard, already reduced to barely thirty inches by the deadweight of her coal reserves and dredge gear, began to vanish. Her port deck dipped into the harbor. Green water, thick with black scum and floating soot, poured over the bulwarks, swirling ankle-deep around the coal sacks in the central hopper well.
 Commander Bernard Davies leaned out of the open wheelhouse window, his hands clamped to the brass telegraph levers.
 
 DAVIES
 (shouting down to the foredeck)
-Cut those lines! She’s taking us under! Cut them now!
+Cut those lines! She's taking us under! Cut them now!
 
 NARRATOR
 On the forward deck, Captain Robert Hutton Duguid did not waste seconds searching for a knife.
@@ -3336,10 +3336,10 @@ The steel blade bit two inches into the compressed core of the hemp. Outer stran
 Duguid wrenched the blade clear, raised his arms, and struck a second time in the exact same notch.
 The forward hawser parted with a report like a field gun.
 The severed upper section whipped twenty feet into the air, striking the steel overhang of the Ehrenfels before dropping into the boiling foam between the hulls.
-Released from the downward drag forward, the Phoebe’s bow bobbed upward six inches with a violent, rolling shudder that threw two Light Horsemen against the stokehold casing.
+Released from the downward drag forward, the Phoebe's bow bobbed upward six inches with a violent, rolling shudder that threw two Light Horsemen against the stokehold casing.
 Aft on the poop deck, Captain Lawrence White and Lieutenant Cren Sandys-Lumsdaine were working on the second line.
 The aft grappling iron had jammed behind a heavy deck fairlead on the German ship, binding the manila line into a rock-hard knot that resisted the blades of their fighting knives.
-The aft bollard was already submerged beneath three inches of harbor water, the hopper’s counter dragging lower as the Ehrenfels’ stern touched the riverbed.
+The aft bollard was already submerged beneath three inches of harbor water, the hopper's counter dragging lower as the Ehrenfels' stern touched the riverbed.
 White dropped his knife, reached into his webbing belt, and drew an eight-inch steel marline spike.
 He drove the tapered point through the center of the binding hitch, levering the compressed hemp upward off the iron casting, while Sandys-Lumsdaine brought the serrated edge of a heavy clasp knife across the exposed fibers, sawing with short, frantic strokes.
 One strand tore. Then another.
@@ -3416,7 +3416,7 @@ Stand by below. We are coming onto the bar.
 NARRATOR
 Here lay the critical navigational hazard.
 The high-water spring tide had turned twenty minutes earlier. The ebb was now draining out of the Zuari estuary, accelerating through the bottleneck between the breakwater and the outer shoals at over three knots. The clearance over the shallow river bar was diminishing with every passing minute.
-The Phoebe’s blunt bow met the crosscurrent of the outgoing tide.
+The Phoebe's blunt bow met the crosscurrent of the outgoing tide.
 The flat-bottomed hull heeled sharply to starboard, her low bulwark dipping to within six inches of the dark water. Davies fought the wheel, applying ten degrees of port rudder to prevent the hopper from broaching in the short, steepening surf.
 Beneath the deckplates, the vibration changed.
 SCRRR-APE.
@@ -3430,7 +3430,7 @@ Full ahead both! Open the dampers! Everything you have!
 NARRATOR
 In the stokehold, the ratings and Lascar stokers gave the Scotch boilers maximum draft.
 The engines hammered at full pressure. The screws bit into the water, dragging the flat hull across the sand with a heavy, sucking shudder.
-With a sudden forward lurch, the Phoebe broke clear of the bar’s outer ridge, dropping into the deep swells of the open roadstead.
+With a sudden forward lurch, the Phoebe broke clear of the bar's outer ridge, dropping into the deep swells of the open roadstead.
 Ahead lay the unobstructed expanse of the Arabian Sea.
 Behind them, the column of black, oily smoke rising from the burning fleet reached nearly a thousand feet into the sky, its base glowing a deep, violent orange.
 At 02:25, Davies laid his brass parallel rule across the navigation chart under the hooded red lamp.
@@ -3452,11 +3452,11 @@ The "LONGSHANKS" Signal
 10 March 1943 — 02:45 to 06:00
 
 Ten miles off the Goan headland, the ocean bottom shelves steeply from the continental shelf into the five-hundred-fathom trench of the Arabian Sea.
-Inside the Phoebe’s small deckhouse chartroom, the port deadlights were screwed tight into their rubber gaskets. The only light came from the hooded green dial of an SOE Type B Mk II field transceiver clamped to the navigation table between two iron brackets.
+Inside the Phoebe's small deckhouse chartroom, the port deadlights were screwed tight into their rubber gaskets. The only light came from the hooded green dial of an SOE Type B Mk II field transceiver clamped to the navigation table between two iron brackets.
 Major Gavin Stewart sat on the settee, wearing Bakelite headphones pressed over his ears, his shirt damp with salt spray and sweat.
 He did not transmit in plain language. From his breast pocket, he unfolded a three-inch square of printed silk—a single-use, one-time pad issued by the signals directorate at Meerut.
 The message required no tactical detail, no accounting of casualties, and no narrative of the scuttling. The entire four-month operation had been compressed into a single prearranged operational codeword.
-Stewart’s right index finger settled onto the brass knob of the key.
+Stewart's right index finger settled onto the brass knob of the key.
 Working with the steady, machine-drilled cadence of an instructor, he keyed ten letters into the ether on eight megacycles:
 Di-dah-di-di-dit... Dah-dah-dah... Dah-di-dit... Dah-dah-di-dit...
 L - O - N - G - S - H - A - N - K - S
@@ -3473,7 +3473,7 @@ LONGSHANKS.
 Cawthorn picked up the slip. He did not smile, and he did not summon his aides.
 He walked across the room to the small coal grate in the corner, struck a brass vesta against the masonry, and held the flame to the corner of the paper. He watched it burn down to his fingernails, dropped the blackened cinder into the grate, and crushed it into powder beneath the heel of his service shoe.
 The operation was formally concluded.
-On the official rolls of General Headquarters India, the War Office in London, and the Viceroy’s Council, not a single memorandum, operational order, or personnel receipt existed to show that eighteen members of the Auxiliary Force, India had ever left Bengal.
+On the official rolls of General Headquarters India, the War Office in London, and the Viceroy's Council, not a single memorandum, operational order, or personnel receipt existed to show that eighteen members of the Auxiliary Force, India had ever left Bengal.
 Aboard the Phoebe, the hours before dawn were devoted to the systematic sanitization of a crime.
 Under international maritime law, an uncommissioned vessel carrying automatic weapons, demolition gear, and prisoners taken from a neutral harbor was subject to seizure as a pirate craft by any sovereign naval patrol. Every trace of the boarding action had to disappear into deep water before the sun broke the horizon.
 On the waist deck, Captain Robert Duguid and Lieutenant Cren Sandys-Lumsdaine handled the heavy equipment.
@@ -3481,7 +3481,7 @@ The two surviving bamboo scaling ladders—their green spars splintered by impac
 Working with heavy baling wire, the men lashed twenty-pound chunks of iron slag from the stokehold bins to the rungs. They hoisted the spars onto the iron rail and shoved them outward. The ladders fell flat into the swell, the weights dragging them down into the ink-black water, sinking into five hundred fathoms of oceanic mud.
 Next went the severed grappling lines, the muffled four-pronged iron hooks, the rubber-padded ladder brackets made from bicycle tubes, and the empty canvas demolition crates.
 Two Calcutta Scottish territorials took stiff coir brooms and swept the iron deckplates from the forecastle to the poop.
-Every spent 9mm brass casing that had clattered from the Stens during the initial assault was collected into an empty five-gallon kerosene tin. Duguid dropped in the shattered fragments of the Ehrenfels’ telegraph dials, the severed siren wire, and the blood-soaked field dressings taken from the wounded men.
+Every spent 9mm brass casing that had clattered from the Stens during the initial assault was collected into an empty five-gallon kerosene tin. Duguid dropped in the shattered fragments of the Ehrenfels' telegraph dials, the severed siren wire, and the blood-soaked field dressings taken from the wounded men.
 He walked to the stern, held the tin over the wash of the twin screws, and tipped the contents into the white froth.
 Then came the physical transformation of the men.
 On the open deck, using buckets of cold seawater hauled up over the bulwarks on canvas lanyards, eighteen commercial executives stripped out of their torn, grease-stained shorts.
@@ -3492,8 +3492,8 @@ They opened their leather portmanteaus and canvas bedrolls.
 Out came pressed civilian clothes - clean khaki drill trousers, white linen shirts, striped regimental neckties, lightweight flannel jackets, and polished brown leather shoes.
 Major Yogi Crossley sat on a wooden locker beneath the bridge ladder, his swollen right knee bandaged with clean lint under gray flannel trousers, carefully parting his hair with a pocket comb before a cracked piece of mirror.
 Beside him, Bill Grice fastened his civilian collar studs and pulled on a lightweight linen jacket. He looked once more like the managing director of Imperial Chemical Industries who had corporate business to inspect in the commercial houses of the south.
-Below decks, in a locked storage compartment forward of the engine room, the three German crewmen taken off the freighter’s deck sat on flattened burlap sacks under the guard of an armed Royal Navy rating.
-Their cuts had been dressed with iodine from the ship’s first-aid kit; they had been given sweet, milky tea in enamel mugs. They were quiet, shivering slightly in the damp heat, their status anomalous and unrecorded - three prisoners of war who legally did not exist, carried aboard a vessel that officially was dredging silt in the backwaters of Cochin.
+Below decks, in a locked storage compartment forward of the engine room, the three German crewmen taken off the freighter's deck sat on flattened burlap sacks under the guard of an armed Royal Navy rating.
+Their cuts had been dressed with iodine from the ship's first-aid kit; they had been given sweet, milky tea in enamel mugs. They were quiet, shivering slightly in the damp heat, their status anomalous and unrecorded - three prisoners of war who legally did not exist, carried aboard a vessel that officially was dredging silt in the backwaters of Cochin.
 At 05:45, Commander Bernard Davies stepped onto the open bridge wing, his white Port Commissioners cap restored to his head, his blue serge jacket buttoned over his belly.
 He adjusted the brass binnacle ring.
 
@@ -3550,7 +3550,7 @@ CAPTAIN SILVA
 All crews fall in!
 
 NARRATOR
-Silva’s face was drawn tight with fear. The two hundred British gold sovereigns sitting in the safe in his municipal office had suddenly become a lethal liability. The entire colony was in a state of emergency.
+Silva's face was drawn tight with fear. The two hundred British gold sovereigns sitting in the safe in his municipal office had suddenly become a lethal liability. The entire colony was in a state of emergency.
 By order of Governor-General José Ferreira Bossa in Panjim, the Axis crews were stripped of their liberty chits, declared under protective military arrest, and herded onto open-bed railway lorries.
 Under armed guard, the convoy ground away from the water, heading north along the coast road toward the Mandovi River.
 Their destination was Fort Aguada—the massive seventeenth-century Portuguese coastal fortress whose damp, granite subterranean dungeons would serve as their military internment camp for the remaining twenty-six months of the war.
@@ -3597,9 +3597,9 @@ What His Excellency the Governor-General sees, Officer Lemke, is that on Carniva
 NARRATOR
 The inquiry was concluded before noon.
 The official Portuguese finding, cabled directly to Dr. António de Oliveira Salazar in Lisbon that afternoon, recorded that the four Axis merchant vessels had been systematically scuttled and fired by their own crews in an act of deliberate self-destruction, provoked by unfounded internal panic.
-It was the only verdict that preserved Portuguese dignity, protected Captain Silva’s bribe, and kept Great Britain’s negotiations for the Azores intact.
+It was the only verdict that preserved Portuguese dignity, protected Captain Silva's bribe, and kept Great Britain's negotiations for the Azores intact.
 In the shadow of the railway goods shed, two hundred yards from the commercial passenger platform, Jock Cartwright stood with his hands deep in the pockets of his linen trousers.
-He wore his Panama hat tilted forward against the midday sun, a thin cheroot clamped between his teeth. His scarred right hip throbbed with a persistent, burning ache from the night’s walking, but his posture was easy—the picture of an aging, tired machinery representative waiting for a late connection.
+He wore his Panama hat tilted forward against the midday sun, a thin cheroot clamped between his teeth. His scarred right hip throbbed with a persistent, burning ache from the night's walking, but his posture was easy—the picture of an aging, tired machinery representative waiting for a late connection.
 Robert "Dickie" Sloan stepped into the shade beside him, carrying a folded Portuguese gazette under his arm.
 
 SLOAN
@@ -3615,7 +3615,7 @@ CARTWRIGHT
 And Rössing?
 
 SLOAN
-Entombed in the engine room. Portuguese divers won't be able to get inside that hull for weeks. The ship is finished, Jock. She’ll never transmit another signal.
+Entombed in the engine room. Portuguese divers won't be able to get inside that hull for weeks. The ship is finished, Jock. She'll never transmit another signal.
 
 NARRATOR
 A whistle sounded from the mountain locomotive idling at the head of the three-coach passenger train at Platform 1.
@@ -3655,7 +3655,7 @@ Mid-March 1943 – Postwar
 
 On the morning of 14 March 1943, the WV Phoebe slipped past the Prongs Reef light into the commercial basin of the Bombay Docks.
 Her buff plating was caked in dried brine, her lashed timber fenders splintered and blackened, and her blunt iron snout scarred by gray lines of sheared rivets. No naval guard of honor attended her berth. No flags were flown.
-Major Gavin Stewart and Lieutenant-Colonel Lewis Pugh walked down the iron gangway into the commercial dockyard carrying a single canvas haversack containing the recovered Bombay manifests and the scorched fragments of signal logs salvaged from the freighter’s boat deck.
+Major Gavin Stewart and Lieutenant-Colonel Lewis Pugh walked down the iron gangway into the commercial dockyard carrying a single canvas haversack containing the recovered Bombay manifests and the scorched fragments of signal logs salvaged from the freighter's boat deck.
 A civilian saloon car was waiting beside the transit sheds. The bag was placed on the floorboards, the doors closed, and the vehicle turned onto Hornby Road, heading directly for the Naval Intelligence Directorate at the Bombay naval base.
 Three German prisoners—two mechanics and a deckhand taken off the Ehrenfels—were handed over to an armed naval provost escort under unrecorded movement chits, vanishing into the military prison camp system of the interior.
 An hour later, eighteen men in civilian suits walked out through the dock gates in pairs.

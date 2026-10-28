@@ -23,20 +23,20 @@
  Something was directing the German guns and fighters. Something with a razor-thin beam. And to get a beam that sharp without building an aerial array the size of a cathedral, the Germans had to be using wavelengths far shorter than anything the British had believed they could manufacture in quantity.
  There was a brisk knock at the office door.
  Squadron Leader Dudley Saward, the radar liaison officer from Bomber Command, stepped in, shaking the river damp from his service-dress cap. He was a regular officer, lean-faced, with eyes that looked perpetually red-rimmed from lack of sleep.
- "Morning, R.V.," Saward said, pulling off his gloves. "I’ve just come from the Command morning conference at High Wycombe. It’s bloody murder. The C-in-C is threatening to stop the Ruhr runs until we can guarantee cloud-cover."
+ "Morning, R.V.," Saward said, pulling off his gloves. "I've just come from the Command morning conference at High Wycombe. It's bloody murder. The C-in-C is threatening to stop the Ruhr runs until we can guarantee cloud-cover."
  "Cloud won't protect you, Dudley," Jones said, turning from the window. "Not anymore."
- "You’ve got something?"
+ "You've got something?"
  "I have a series of intercepts from the Y-Service station at Kingsdown." Jones walked back to his desk, selected a buff-coloured folder stamped MOST SECRET, and opened it before Saward. "Listen to this. For three weeks, our wireless operators on the South Foreland have been sweeping the ultra-high-frequency bands. They were listening for Knickebein and X-Gerät beams. Instead, on the twenty-ninth of October, an operator named Smallwood picked up a strange buzz."
  Saward leaned over the papers. "What frequency?"
  "Five hundred and seventy megacycles."
- Saward frowned, his forehead furrowing. "Five hundred and seventy? That’s... what, fifty-three centimeters?"
+ Saward frowned, his forehead furrowing. "Five hundred and seventy? That's... what, fifty-three centimeters?"
  "Fifty-three centimeters," Jones said with quiet intensity. "Centimetric radiation. Our own people at Swanage have only just managed to get stable pulses out of the cavity magnetron on ten centimeters, and we believed the Germans were two years behind us. We assumed they were stuck on meter-wave sets because they couldn't build valves capable of oscillating at high frequencies with any usable power."
  "Could it be harmonic spillover?" Saward asked, grasping for a conventional explanation. "A secondary emission from a Freya transmitter?"
  "No," Jones said firmly. "Smallwood is a first-rate operator. He held the signal for four minutes. It has an unmistakable pulse-repetition frequency of three thousand, seven hundred and fifty cycles per second. That is not spillover. That is a deliberate, highly engineered, short-pulse transmissions system."
  Jones pulled a blank sheet of paper toward him and drew a crude sketch - a hemisphere sitting on a pedestal.
  "Think of the physics, Dudley," Jones said, his pencil scratching sharply against the grain of the paper. "A dipole antenna cut to fifty-three centimeters is barely ten inches long. You can put that at the focal point of a parabolic reflector only ten feet across. A dish that size could be mounted on a light four-wheeled trailer. It would give you a conical pencil beam less than ten degrees wide. If you point that beam at an aeroplane, the echo doesn't just tell you there is an aircraft in the sky—it gives you its exact altitude, its exact speed, its exact line of flight to within fifty yards."
  Saward stared at the drawing. "A fire-control radar."
- "A gun-laying and fighter-directing set," Jones corrected. "Small enough to sit next to an anti-aircraft battery. Compact enough to park on a clifftop. The Freya picks up our bombers forty miles out and tells the sector controller where the swarm is. The controller hands the bomber over to this new set. The dish locks onto our kite like a searchlight beam made of radio waves, while a second dish locks onto the defending German night-fighter. The controller sits in an underground bunker with two spots of light on a glass map, and simply talks the fighter pilot onto our man’s tail until he is close enough to see the roundels with his own eyes."
+ "A gun-laying and fighter-directing set," Jones corrected. "Small enough to sit next to an anti-aircraft battery. Compact enough to park on a clifftop. The Freya picks up our bombers forty miles out and tells the sector controller where the swarm is. The controller hands the bomber over to this new set. The dish locks onto our kite like a searchlight beam made of radio waves, while a second dish locks onto the defending German night-fighter. The controller sits in an underground bunker with two spots of light on a glass map, and simply talks the fighter pilot onto our man's tail until he is close enough to see the roundels with his own eyes."
  The room went dead silent. The coal fire in the grate settled with a faint, brittle click.
  "Blimey," Saward breathed softly. "If they ring the Reich with those, our night offensive is finished. We won't be able to put an aircraft over the Ruhr without sending the crew to their funerals."
  "Precisely," Jones said. "Which brings us to the operational problem."
@@ -57,11 +57,11 @@
  It was a Supermarine Spitfire PR Mk IV, serial number AA815, and every trace of martial utility had been systematically stripped from its skin. The eight .303 Browning machine guns had been removed from the wings, their blast-tubes faired over with doped linen until the leading edges were as smooth as polished bone. The heavy armor-glass windscreen and rear bulkhead armor-plating had been unbolted and hauled out to save weight. In place of guns and ammunition boxes, auxiliary fuel tanks had been crammed into the leading edges, feeding a specialized Rolls-Royce Merlin 45 that drank 100-octane aviation spirit with a deep, liquid rumble.
  The entire machine was painted in a curious, flat, matte slate-blue—PRU Blue—mixed specifically to blend into the damp haze of the North European sky.
  Flight Lieutenant Anthony "Tony" Hill stood beneath the starboard wing, zipping his heavy sheepskin Irvin jacket over his blue woollen service dress. At twenty-four, Hill possessed the detached, laconic squint common to the pilots of No. 1 Photographic Reconnaissance Unit. To fly with the PRU was to operate under a solitary, uncompromising doctrine - you flew alone, without escort, without armament, and without radio communication. If intercepted, you could neither shoot nor call for aid; your only defense was the throttle quadrant and four miles of empty sky.
- The station intelligence officer held a canvas-backed map case against the Spitfire’s trailing edge.
- "Cap d’Antifer to the mouth of the Seine," the officer said, tapping a red pencil ring north of Le Havre. "The Air Ministry boys are quite specific. Dr. Jones believes there is a high-frequency transmitter perched on the chalk cliffs. He doesn't want high-altitude survey work this morning. The cloud base over the French coast is sitting at barely twelve hundred feet anyway. You’ll have to go in underneath."
+ The station intelligence officer held a canvas-backed map case against the Spitfire's trailing edge.
+ "Cap d'Antifer to the mouth of the Seine," the officer said, tapping a red pencil ring north of Le Havre. "The Air Ministry boys are quite specific. Dr. Jones believes there is a high-frequency transmitter perched on the chalk cliffs. He doesn't want high-altitude survey work this morning. The cloud base over the French coast is sitting at barely twelve hundred feet anyway. You'll have to go in underneath."
  Hill adjusted the chinstrap of his leather flying helmet. "Under twelve hundred feet? The coastal batteries along the clifftop will have open sights."
- "Jones says he needs resolution, Tony. He needs to see wires and aerials, not smudges on a ten-thousand-foot plate. If there’s an installation within two miles of the cape, find it."
- Hill climbed onto the wing root, stepped carefully onto the black non-slip walkway, and lowered himself into the cockpit. The interior smelled of raw glycol, stale rubber, dope, and the damp leather of the seat-pack parachute. In the lower fuselage behind the pilot’s seat sat the cameras - two vertically mounted Williamson F.24s with eight-inch lenses, and a third mounted obliquely, pointing down and out through a circular aperture cut into the port side of the aircraft.
+ "Jones says he needs resolution, Tony. He needs to see wires and aerials, not smudges on a ten-thousand-foot plate. If there's an installation within two miles of the cape, find it."
+ Hill climbed onto the wing root, stepped carefully onto the black non-slip walkway, and lowered himself into the cockpit. The interior smelled of raw glycol, stale rubber, dope, and the damp leather of the seat-pack parachute. In the lower fuselage behind the pilot's seat sat the cameras - two vertically mounted Williamson F.24s with eight-inch lenses, and a third mounted obliquely, pointing down and out through a circular aperture cut into the port side of the aircraft.
  He pumped the primer three times, locked the brass plunger, and caught the eye of the ground crew chief holding the battery trolley cable.
  "Contact!"
  The Merlin turned over with a sharp, pneumatic whistle, coughed twin plumes of blue exhaust smoke against the fuselage flank, and caught with a crack that settled into an unbroken, deafening roar.
@@ -70,23 +70,23 @@
  Ten miles south of the Isle of Wight, Hill dropped the nose until the Spitfire was skimming barely fifty feet above the sea.
  At this height, the English Channel ceased to be a geographical concept and became a physical, predatory mass. The water was the color of slate, whipped into vicious white crests by a gale blowing off the Atlantic. Salt spray streaked the Perspex of the canopy, drying into crusts of white brine that Hill wiped clear with the sleeve of his jacket.
  Flying at three hundred and twenty miles per hour fifty feet off the deck required an exhausting, microscopic concentration. There was no horizon—only the churning grey troughs of water below and the leaden ceiling of mist above. A half-degree twitch on the spade-grip would dip a wingtip into the swell and cartwheel the stripped aircraft into oblivion before the brain could register the error.
- Worse was the cold. The PR Mk IV’s cockpit heating had been reduced to save engine power; air whistled through the control rod boots, freezing Hill’s toes inside his sheepskin boots until they throbbed with a dull, aching numbness.
+ Worse was the cold. The PR Mk IV's cockpit heating had been reduced to save engine power; air whistled through the control rod boots, freezing Hill's toes inside his sheepskin boots until they throbbed with a dull, aching numbness.
  He kept his eyes glued to the compass needle. Zero-nine-zero. Then zero-nine-five.
  He was flying beneath the radar umbrella of the German Freya stations. Their two-and-a-half-meter beams could not dip beneath the horizon to paint a target skimming the surface waves. But the moment he lifted the nose to clear the French chalk cliffs, the German warning network from Cherbourg to Dieppe would see him instantly.
  Twenty minutes out from the English coast, the wall appeared.
  It rose out of the mist like a bleached ribcage - the chalk plateau of Normandy, three hundred feet of sheer, vertical white cliff topped by rolling meadows covered in dirty, patchy snow.
  Hill pulled the throttle back slightly, trimmed the elevators, and hauled the spade-grip back into his stomach. The Merlin screamed as the Spitfire leaped up the face of the cliff like a falcon clearing a stone parapet.
- In an instant, the grey sea vanished. Beneath the aircraft’s wings lay occupied France.
+ In an instant, the grey sea vanished. Beneath the aircraft's wings lay occupied France.
  The landscape was flat, segmented by dark hedgerows and stands of bare, skeletal beech trees. Just north of the village of Saint-Jouin, Hill spotted the landmark - Cap d'Antifer lighthouse, its black-and-white cylinder stabbing up through the coastal mist.
  He leveled off at eight hundred feet, banked ten degrees to port, and brought the coastline parallel to his port wing.
  His eyes scanned the chalk edges. There were anti-aircraft flak towers at the cape, concrete slit trenches, and barbed-wire enclosures. But Jones hadn't asked for gun emplacements; he had asked for something unusual, something isolated.
  Three miles south of the lighthouse, the cliffs were scored by a steep, narrow ravine descending to a pebble beach. A single, ornate mansion with steeply pitched roofs and decorative gables stood in absolute isolation in a depression three hundred yards back from the precipice - Villa Gosset.
  Hill banked harder, bringing the villa across his oblique camera line.
  Then he saw it.
- Sitting in an excavated earthen pit, fifty yards from the northern corner of the villa’s grounds, was an object that looked entirely foreign to the French landscape. It was not a mast. It was not a lattice tower.
+ Sitting in an excavated earthen pit, fifty yards from the northern corner of the villa's grounds, was an object that looked entirely foreign to the French landscape. It was not a mast. It was not a lattice tower.
  It was a saucer.
  A perfectly circular, dark metallic dish, roughly ten feet across, tilted upward toward the grey sky like a begging bowl, resting on a cruciform base.
- Hill’s heart hammered against his ribs. He reached to the cockpit control box on his left knee and flipped the toggle switch for the F.24 cameras. A small amber lamp began to pulse in rhythm with the mechanical clatter of the shutters behind his back - clack-whir... clack-whir... clack-whir.
+ Hill's heart hammered against his ribs. He reached to the cockpit control box on his left knee and flipped the toggle switch for the F.24 cameras. A small amber lamp began to pulse in rhythm with the mechanical clatter of the shutters behind his back - clack-whir... clack-whir... clack-whir.
  He straightened the wings to give the lenses a steady horizon, holding the aircraft level at three hundred miles per hour, eight hundred feet above the snow.
  Below him, the ground erupted.
  The German garrison at Villa Gosset and the clifftop flak positions had finally reacted. Bright, iridescent balls of light—green, lemon-yellow, and white—floated up from the scrub around the villa with deceptive, languid grace. Flak 38 twenty-millimeter automatic cannon fire.
@@ -111,33 +111,33 @@
  The glass-plate negatives were driven fifty miles through the dark from RAF Benson to Danesfield House, the sprawling Victorian country mansion requisitioned as RAF Medmenham.
  By dawn on Saturday, 6 December 1941, the wet prints were pinned to drying wires in the basement darkrooms of the Central Interpretation Unit. They were glossy, high-contrast, nine-by-nine-inch contact prints, smelling sharply of acetic stop-bath and sodium thiosulfate.
  Upstairs in the grand, wood-panelled salon overlooking the frost-rimed gardens and the Thames, Flight Lieutenant Claude Wavell was bent over an inclined oak table.
- Wavell was one of the unit’s master interpreters—a man whose eyes had been trained to perceive the three-dimensional geometry of Europe compressed into paper-thin emulsions. Beside him, leaning with both palms pressed flat against the mahogany veneer, stood Dr. R.V. Jones. Jones had taken the morning train down from Paddington, unable to endure the four-hour delay of waiting for prints to be dispatched by motorcycle dispatch-rider to Whitehall.
+ Wavell was one of the unit's master interpreters—a man whose eyes had been trained to perceive the three-dimensional geometry of Europe compressed into paper-thin emulsions. Beside him, leaning with both palms pressed flat against the mahogany veneer, stood Dr. R.V. Jones. Jones had taken the morning train down from Paddington, unable to endure the four-hour delay of waiting for prints to be dispatched by motorcycle dispatch-rider to Whitehall.
  "Here," Wavell said.
- He didn't point with a finger; skin oil ruined the plates. He held a brass draughtsman’s pointer with a needle-sharp tip, hovering an eighth of an inch above print number 2042.
+ He didn't point with a finger; skin oil ruined the plates. He held a brass draughtsman's pointer with a needle-sharp tip, hovering an eighth of an inch above print number 2042.
  Jones reached for a Casella mirror stereoscope—a heavy, twin-prismatic optical instrument mounted on folding steel legs—and adjusted the inter-pupillary screw until the two overlapping oblique prints taken during Hill's pass coalesced in his visual cortex into a single, startlingly deep three-dimensional terrain.
  The flat grey paper vanished. In its place, the cliff at Bruneval erupted upward.
  The chalk face plunged into the surging sea, the breaking foam frozen by the one-five-hundredth-of-a-second shutter into motionless, sculptural crests. Three hundred feet above the water, sitting in a gentle, saucer-shaped hollow of the plateau, was Villa Gosset. Through the binocular lenses, Jones could see the ornate, high-pitched slate roofs, the timbered gables, and the long, cold shadow cast westward toward the cliffs by the low winter sun.
- Fifty yards north of the villa’s perimeter wall, the needle pointed.
+ Fifty yards north of the villa's perimeter wall, the needle pointed.
  "Good grief," Jones murmured.
  Sitting in an excavated earthen depression was the object Tony Hill had reported.
  It was tilted upward at an angle of roughly twenty degrees toward the English Channel. It was not a trellis or an aerial array; it was a smooth, shallow, parabolic dish, supported on a central steel pedestal that rested on a cruciform iron base. From the exact focal point of the dish, a slender rod projected outward, terminating in a small, horizontal T-shaped crossbar - the dipole feed.
- "Look at the shadow," Wavell said softly. "The sun was at twenty-two degrees elevation when Hill crossed the coast. I’ve run the micrometric gauge across the ellipse."
+ "Look at the shadow," Wavell said softly. "The sun was at twenty-two degrees elevation when Hill crossed the coast. I've run the micrometric gauge across the ellipse."
  "Diameter?" Jones demanded.
  "Ten feet. Three meters precisely."
  Jones straightened up, his eyes watering slightly from the optical strain, then bent immediately back to the lenses.
  Ten feet. He did the mental arithmetic without touching his slide rule. A parabolic dish three meters across, operating at a ten-to-one ratio between diameter and wavelength, yielded a wavelength of roughly fifty to sixty centimeters.
- "Fifty-three centimeters," Jones whispered. "Smallwood’s buzz at Kingsdown."
- "It’s an electric bowl-fire," Wavell said with a faint, admiring chuckle. "Hill came down the mess last night and swore he’d seen a giant domestic radiator sitting on a lawn. That’s what it looks like, doesn't it? A three-meter electric fire pointed at the sky."
+ "Fifty-three centimeters," Jones whispered. "Smallwood's buzz at Kingsdown."
+ "It's an electric bowl-fire," Wavell said with a faint, admiring chuckle. "Hill came down the mess last night and swore he'd seen a giant domestic radiator sitting on a lawn. That's what it looks like, doesn't it? A three-meter electric fire pointed at the sky."
  "It is a precision-tracking radar," Jones said, his voice entirely devoid of amusement. "Telefunken. It has to be Telefunken. The firm has been playing with parabolic collectors since the Berlin radio exhibition in thirty-seven."
- He traced the brass pointer with his eyes. Behind the dish sat a small, square, flat-topped cabin or trailer—the operator’s cabin. Running from the cabin to the basement of Villa Gosset was a dark, narrow line scored into the frozen pasture.
+ He traced the brass pointer with his eyes. Behind the dish sat a small, square, flat-topped cabin or trailer—the operator's cabin. Running from the cabin to the basement of Villa Gosset was a dark, narrow line scored into the frozen pasture.
  "A trench," Jones said.
- "Telephone cables, almost certainly," Wavell agreed. "Or high-voltage power lines feeding from the villa’s generator. The villa is their barracks and their operations room. Notice the lack of external camouflage. There’s no netting. No foliage. They haven't even painted the dish with disruptive stripes."
+ "Telephone cables, almost certainly," Wavell agreed. "Or high-voltage power lines feeding from the villa's generator. The villa is their barracks and their operations room. Notice the lack of external camouflage. There's no netting. No foliage. They haven't even painted the dish with disruptive stripes."
  "Why should they?" Jones said grimly. "They didn't believe we could see it. And even if we saw it, they assumed we wouldn't understand what it was."
  He pulled the print from under the stereoscope, held it up to the cold northern light filtering through the leaded bay windows, and examined the perimeter.
  Now that the scientific mystery had resolved into steel and glass, the terrifying practical reality rushed in to fill the void.
  The machine sat on a table-flat plateau of frozen clay, bounded by a vertical precipice to the west. Three hundred yards to the east, a dirt track led toward an inland farm complex—Le Presbytère—which Wavell had already ringed with yellow chinagraph pencil. Surrounding the farm were long, rectangular shadows indicative of German Army transport lorries and barracks huts.
  "They have a garrison there," Jones said, tapping the farm.
- "A company, at least," Wavell confirmed. "We’ve seen vehicle tracks scoring the snow between the farm and the villa every day for a week. And look here, at the foot of the cliffs."
+ "A company, at least," Wavell confirmed. "We've seen vehicle tracks scoring the snow between the farm and the villa every day for a week. And look here, at the foot of the cliffs."
  Wavell slid another photograph under the clips.
  It showed the base of the gully—the narrow cleft that sliced down through the chalk cliffs to the shingle beach of Bruneval cove. Guarding the mouth of the gap, surrounded by rings of concertina wire, was a second stone building - Villa Stella Maris. Beside it, a concrete pillbox was clearly visible, its embrasure oriented to sweep the pebbles of the beach with interlocking machine-gun fire.
  Jones set the magnifying glass down on the mahogany table with a heavy, deliberate click.
@@ -153,16 +153,16 @@
  He needed its internal circuits in a laboratory at Swanage.
  "Thank you, Claude," Jones said, fastening the brass buckles of his briefcase. "Keep these plates locked in your personal safe. Don't let them go into the general files."
  "Where are you going, R.V.?"
- "Broadway Buildings," Jones said, stepping toward the heavy oak door. "I need to see Section VII. It’s time to see what our friends across the water have to say about the sentries at Villa Gosset."
+ "Broadway Buildings," Jones said, stepping toward the heavy oak door. "I need to see Section VII. It's time to see what our friends across the water have to say about the sentries at Villa Gosset."
 
  Chapter Four
  Confrérie Notre-Dame
  The telegram from London did not travel through the ether as spoken words. It arrived in an apartment on the Rue de Madrid in Paris as a sequence of five-figure numeral groups, tapped out at twenty words a minute by a clandestine operator whose fingers were stiff with the damp chill of an unheated attic.
  Gilbert Renault—known to the Free French intelligence bureau in Carlton Gardens as "Rémy"—sat at a small kitchen table beneath a 25-watt bulb. Beside him, his wife was quietly rocking their infant child in a wicker cradle, the rhythm of the wooden runners the only sound competing with the scratch of his steel pen.
- Rémy was thirty-seven years old, a former film financier with the quiet, deliberate movements of a chess player. He worked with a pocket code-silk - a strip of sheer haberdasher’s silk printed with transposition matrices, easily rolled into the hollow ferrule of a shoelace or swallowed if the Sicherheitsdienst hammered on the door.
+ Rémy was thirty-seven years old, a former film financier with the quiet, deliberate movements of a chess player. He worked with a pocket code-silk - a strip of sheer haberdasher's silk printed with transposition matrices, easily rolled into the hollow ferrule of a shoelace or swallowed if the Sicherheitsdienst hammered on the door.
  He subtracted the key, converted the numbers to letters, and stared at the decrypted lines in the faint yellow light:
   PRIORITY ABSOLUTE.
-  SECTOR - NORMANDY COAST. VICINITY CAP D’ANTIFER / BRUNEVAL.
+  SECTOR - NORMANDY COAST. VICINITY CAP D'ANTIFER / BRUNEVAL.
   TARGET - VILLA GOSSET AND ADJACENT APPARATUS (CIRCULAR METALLIC REFLECTOR).
   REQUIRED:
   1. DETAILED DISPOSITION OF LUFTWAFFE AND HEER GARRISONS.
@@ -182,17 +182,17 @@
  Rémy hung his damp hat on a coat hook and slipped into the opposite side of the booth. He did not order chicory; to buy food was to draw the eye of the proprietor, who had to account for every ration coupon.
  "The weather in the north is cold," Rémy said in a low, conversational tone.
  Dumont did not look up from his plate. "The winter has settled on the cliffs. It will be freezing until March."
- "London has sent a requirement," Rémy said. "Not the usual coastal traffic. Something specific. Cap d’Antifer. A house named Villa Gosset."
+ "London has sent a requirement," Rémy said. "Not the usual coastal traffic. Something specific. Cap d'Antifer. A house named Villa Gosset."
  Dumont paused, his knife resting on the wooden board. He knew the chalk plateaus above the sea; he had family connections throughout the Seine-Inférieure.
  "That is a dead sector," Dumont said, his voice barely carrying over the scrape of the coffee spoons. "There is nothing there except sheep, a few cider orchards, and the lighthouse. The Kriegsmarine and the Luftwaffe have closed the roads."
  "They have not closed them entirely," Rémy replied. "A circular apparatus has been placed on the grass beside the villa. A metallic dish, three meters wide. London must know who guards it, how many weapons they have, and where the telephone wires lead."
- Dumont raised his grey eyes, meeting Rémy’s gaze in the dark glass of the mirror behind them. He did not ask why London wanted it. In the trade of intelligence, to know the purpose of a requirement was merely to carry an additional burden into an interrogation room.
+ Dumont raised his grey eyes, meeting Rémy's gaze in the dark glass of the mirror behind them. He did not ask why London wanted it. In the trade of intelligence, to know the purpose of a requirement was merely to carry an additional burden into an interrogation room.
  "To approach the cliff, one must have a reason that satisfies a German NCO with a submachine gun," Dumont said. "If I take the train to Le Havre and walk down the lane toward Bruneval with a briefcase, I will be in a cell in Mont-Saint-Aignan before midday."
  "I know," Rémy said. "We cannot send an agent from Paris. We need someone who already has his boots in the mud. Someone whose presence on the lane causes no one to reach for a rifle."
  Dumont was silent for several seconds. He pulled a pack of cheap Troupe cigarettes from his pocket, offered one to Rémy, and struck a match. Through the drifting blue smoke, he turned a name over in his mind.
  "Chauveau," Dumont said.
  "Who is he?"
- "Charles Chauveau. He runs a garage and mechanical workshop in Saint-Jouin, barely two kilometers inland from the Bruneval ravine. He is an automobile mechanic—a good one. More importantly, the local Kommandantur relies on him. When the German staff cars break an axle on the frozen ruts between Le Havre and Cap d’Antifer, it is Chauveau who hauls them out with his breakdown truck. He has an Ausweis that allows him to drive on the military roads at any hour of the day or night."
+ "Charles Chauveau. He runs a garage and mechanical workshop in Saint-Jouin, barely two kilometers inland from the Bruneval ravine. He is an automobile mechanic—a good one. More importantly, the local Kommandantur relies on him. When the German staff cars break an axle on the frozen ruts between Le Havre and Cap d'Antifer, it is Chauveau who hauls them out with his breakdown truck. He has an Ausweis that allows him to drive on the military roads at any hour of the day or night."
  "Is he ours?" Rémy asked.
  "He is a Frenchman," Dumont said simply. "His father fought at Verdun. He sees the feldgrau uniforms in his village every morning, and every morning he grits his teeth until his jaw aches. I have used him twice to carry letters to Rouen. He does not talk. He does not boast in the bistro."
  Rémy reached into his pocket and slid a small, heavy object across the table under the cover of his palm. It was a brass pocket compass, its glass face unscratched, and a small roll of clean tracing paper the width of a cigarette paper.
@@ -202,13 +202,13 @@
  "Every meter of it," Rémy said. "From the clifftop to the shingle. London wants to know what lies at the bottom."
  Dumont took a final sip of his cold chicory, stood up, and buttoned his collar against the wind that was already blowing through the swing doors from the Place du Havre.
  "I will take the midday train to Rouen," Dumont said. "Then the local coach to Saint-Jouin. If Chauveau is willing, you will have your sketch before the week is out."
- He turned and walked toward the door. As he passed the two Feldgendarmen, Dumont didn't look down or hasten his stride. He stepped around the barrel of an MP 40 slung across an NCO’s chest with the casual, slightly irritated indifference of a clerk late for an appointment, and vanished into the Parisian fog.
+ He turned and walked toward the door. As he passed the two Feldgendarmen, Dumont didn't look down or hasten his stride. He stepped around the barrel of an MP 40 slung across an NCO's chest with the casual, slightly irritated indifference of a clerk late for an appointment, and vanished into the Parisian fog.
  Rémy watched him go, knowing that if Dumont was caught, the chain of arrest would lead back to the flat on the Rue de Madrid within forty-eight hours. He crushed out his cigarette, left two copper coins on the tin counter, and walked out into the cold drizzle to begin changing his safehouses.
 
  Chapter Five
  The Road to Beauminet
  The Simca 5 rattled northward from Le Havre along the snowbound ruts of Route Départementale 111, its rear tires wrapped in heavy iron chains that slapped the underside of the wheel arches with every turn of the axle.
- A fresh snowfall during the night had buried the Pays de Caux in six inches of white powder. In the passenger seat, Roger Dumont kept his gloved hands wedged beneath his thighs to stave off the bitter draft whistling through the Simca’s canvas window seals. He had spent the night in a back room of a cold-water boarding house near the Le Havre docks, unable to sleep, shivering in a wooden armchair with his overcoat buttoned to his chin.
+ A fresh snowfall during the night had buried the Pays de Caux in six inches of white powder. In the passenger seat, Roger Dumont kept his gloved hands wedged beneath his thighs to stave off the bitter draft whistling through the Simca's canvas window seals. He had spent the night in a back room of a cold-water boarding house near the Le Havre docks, unable to sleep, shivering in a wooden armchair with his overcoat buttoned to his chin.
  Beside him at the steering wheel was Charles Chauveau.
  Chauveau was forty-five years old, a former Great War pursuit pilot and navigation instructor who now owned an automobile dealership and repair agency. Known within the Confrérie Notre-Dame by the codename Charlemagne, he possessed what few men in Normandy had - an authentic, red-stamped Ausweis issued by the German port commander, permitting his vehicle to travel between Le Havre and the military zone along the cliffs.
  "Two kilometers to the ravine," Chauveau said without turning his head. He shifted the Simca down into second gear as the road climbed a frozen gradient between lines of bare apple trees. "If the Feldgendarmerie stop us before the descent, you are an associate from Paris inspecting requisitioned garage accounts. Let me do the talking. I know the tone these Saxon corporals like to hear."
@@ -238,10 +238,10 @@
  They left the Simca parked in the inn's courtyard and walked down the snow-covered lane on foot.
  The Bruneval gully narrowed rapidly, the chalk walls rising sheer on either side, cloaked in tangled, leafless brambles. Ahead, the sound of the sea grew into a continuous roar. At the bottom of the gorge stood Villa Stella Maris, its stone walls buttressed against the Atlantic storms, flanked by deep rolls of concertina barbed wire that stretched across the throat of the gap from cliff to cliff.
  Beyond the wire lay the shingle - steep terraces of black and grey flint pebbles shelving abruptly into the foaming surf.
- A single German infantry sentry stood in the lee of the villa’s terrace wall, wearing a heavy groundsheet over his shoulders, his hands tucked deep into his pockets, his Mauser 98k slung muzzle-down behind his back to keep snow out of the breech.
+ A single German infantry sentry stood in the lee of the villa's terrace wall, wearing a heavy groundsheet over his shoulders, his hands tucked deep into his pockets, his Mauser 98k slung muzzle-down behind his back to keep snow out of the breech.
  "Follow my lead," Chauveau whispered to Dumont. "Look stupid. Look cold."
  Chauveau stepped forward into the open, his breath steaming. He called out in cheerful, clumsy German - "Guten Tag, Posten!"
- The sentry stiffened, pulling his hands from his coat and taking a half-step forward, his eyes flicking over Chauveau’s work trousers and Dumont’s dark town coat. He did not unshoulder his rifle, but his voice was sharp.
+ The sentry stiffened, pulling his hands from his coat and taking a half-step forward, his eyes flicking over Chauveau's work trousers and Dumont's dark town coat. He did not unshoulder his rifle, but his voice was sharp.
  "Halt! Hier Durchgang verboten! Zurück!"
  Chauveau stopped five yards from the first coil of wire. He raised both hands in a placating gesture, smiling with the unhurried innocence of a local tradesman.
  "Pardon, comrade," Chauveau said in slow, broken German, gesturing toward Dumont. "My friend here has just arrived from Paris on family business. He has never seen the sea in winter. We only wanted to step onto the pebbles for two minutes to look at the tide before our petrol voucher runs out."
@@ -252,12 +252,12 @@
  The German laughed—a short, contemptuous snort of boredom. He glanced over his shoulder toward Villa Stella Maris, then leaned over the top strand of wire.
  "The signs are for French idiots," the sentry said in low German, speaking slowly as if to a child. "There are no mines there yet. The engineers haven't delivered the boxes. But if the Feldwebel looks out the window and sees you on the shingle, he will shoot you himself. Turn around. Go back up to the inn."
  "Thank you, comrade," Chauveau said with an exaggerated nod. "Understood. No trouble."
- While Chauveau spoke, Dumont’s eyes never stopped moving.
+ While Chauveau spoke, Dumont's eyes never stopped moving.
  He didn't look at the sentry. He looked at the terrain.
  He measured the wire with his eyes - three apron fences, roughly six to ten meters thick in depth, running across the throat of the gully. He noted the concrete pillbox built into the lower corner of Stella Maris—its firing slit cut at knee-height, oriented directly along the high-water mark to sweep the open shingle with flanking fire. And he spotted what London needed most - on the northern edge of the wire, where the fence met the vertical chalk cliff, the coils were loose, tied off to a wooden picket with a length of civilian telephone cable. A man with a pair of ten-inch wire-cutters could breach it in twenty seconds.
  Dumont pulled his collar tight, turned on his heel, and walked back up the gully beside Chauveau, their boots crunching into the fresh snow.
  Neither man spoke until they were past the Hôtel du Beauminet and back inside the cab of the Simca.
- Chauveau hit the starter. The small four-cylinder engine coughed twice and caught. He turned the car around in the inn’s courtyard, heading back toward the clifftop lane.
+ Chauveau hit the starter. The small four-cylinder engine coughed twice and caught. He turned the car around in the inn's courtyard, heading back toward the clifftop lane.
  "Did you get it?" Chauveau asked, his knuckles white against the steering wheel.
  "The minefield is a dummy," Dumont said, his voice flat and perfectly steady. "The wire at the beach can be cut at the northern foot. Thirty laborers at the inn. One hundred infantry at Le Presbytère. Two machine guns at Stella Maris."
  He pulled out the slip of tracing paper and a pencil stub. As the Simca bumped back toward Le Havre, Dumont began writing down the text of what would become Report No. 82.
@@ -278,7 +278,7 @@
  Rémy pulled a pad of carbon paper toward him. "Give it to me in order. Exactly as you saw it."
  For two hours, while the winter gale rattled the Parisian chimney pots outside, the two men condensed the reconnaissance into the rigid, mathematical economy required for radio transmission. Every syllable cost seconds on the air, and seconds on the air were measured against the speed of German direction-finding vans.
  Delattre sat in silence, checking his wristwatch. His allotted schedule—the "sked"—with the Secret Intelligence Service receiving station at Whaddon Hall in Buckinghamshire was fixed for 21:00 hours precisely.
- If he came up on the frequency even two minutes late, the British operator would have moved his tuning dial to the next agent’s callsign, and Normandy would remain dark for another twenty-four hours.
+ If he came up on the frequency even two minutes late, the British operator would have moved his tuning dial to the next agent's callsign, and Normandy would remain dark for another twenty-four hours.
  At 20:50, Delattre connected the terminal leads to the twelve-volt battery. A soft, high-pitched whine rose from the rotary transformer. The miniature valves—three tiny glass bulbs nestled in aluminum clips—glowed a faint, dull orange in the darkened room.
  "Are you ready, Bob?" Rémy asked.
  Delattre strapped a flat, nickel-plated Morse key to his right thigh with a leather belt. "Ready. Give me the enciphered text."
@@ -326,14 +326,14 @@
  The Airborne Gamble
  The planning room on the first floor of 1A Richmond Terrace smelled of damp Mackintoshes, Turkish cigarette smoke, and fresh printer's ink.
  Lord Louis Mountbatten stood at the head of a long trestle table strewn with low-altitude photographic enlargements. At forty-one, the newly appointed Chief of Combined Operations possessed a restless, electric vanity backed by sharp administrative ruthlessness. He wore the blue service dress of a Royal Navy Commodore, the cuffs bearing the broad gold band of his rank, his dark hair slicked flat.
- Surrounding the table were the service chiefs’ representatives - soldiers, sailors, and airmen whose natural bureaucratic instinct was to guard their own assets and strangle unorthodox ideas at birth.
+ Surrounding the table were the service chiefs' representatives - soldiers, sailors, and airmen whose natural bureaucratic instinct was to guard their own assets and strangle unorthodox ideas at birth.
  Dr. R.V. Jones sat at the far end of the table, his overcoat still damp from the morning sleet, with the SIS transcript of Messages 81 and 82 laid flat between his elbows.
  "The Commandos cannot do it," Mountbatten said without preamble. His voice was clipped, aristocratic, and brooked no interruption. "Let us dispense with that delusion immediately. We asked the raiding staff to look at an assault from the sea. Look at the photographs, gentlemen."
  Mountbatten laid the flat of his palm on the Medmenham print of the Bruneval beach.
  "The shingle cove is twenty-two meters wide," Mountbatten said. "It is flanked by three-hundred-foot vertical chalk cliffs. The mouth of the gully is swept by two machine guns in the seaside villa—Stella Maris—and an interlocking concrete pillbox. If we send Landing Craft Infantry onto those pebbles in the dark, the German gunners will catch the men as they drop the ramps. They will be slaughtered in the surf before they reach the concertina wire. And even if they survive the beach, they would have to fight three hundred feet up an icy ravine against an enemy holding the high ground. It is an impossible operation from the water."
  A staff officer from the Air Ministry cleared his throat. "Bomber Command has offered a squadron of Blenheims. Or a dozen Stirlings. A concentrated low-level strike with five-hundred-pound general-purpose bombs. We could obliterate the clifftop in ten seconds."
  Jones looked up, his brow furrowing with cold irritation.
- "A bomb tells us nothing," Jones said firmly. "If you drop five-hundred-pounders on Villa Gosset, you will blow the Würzburg into microscopic fragments. You will scatter the dipole across the English Channel and vaporise the receiver. And that assumes you can hit a ten-foot dish in the dark—which, given Bomber Command’s recent accuracy figures, is a statistical absurdity. I don't want a crater. I need the apparatus. I need the valves, the wiring, the local oscillator, and the cathode ray tube. Intact. Unmelted. Carried back to England in a canvas bag."
+ "A bomb tells us nothing," Jones said firmly. "If you drop five-hundred-pounders on Villa Gosset, you will blow the Würzburg into microscopic fragments. You will scatter the dipole across the English Channel and vaporise the receiver. And that assumes you can hit a ten-foot dish in the dark—which, given Bomber Command's recent accuracy figures, is a statistical absurdity. I don't want a crater. I need the apparatus. I need the valves, the wiring, the local oscillator, and the cathode ray tube. Intact. Unmelted. Carried back to England in a canvas bag."
  The room fell quiet. The traditional officers shifted in their chairs.
  To the regular military mind, raiding an occupied coastline to destroy a target was a recognized hazard of war. Raiding an occupied coastline to play the part of scientific burglars—to dismantle an electronic gadget with screwdrivers under the nose of a German infantry company—sounded like dangerous lunacy.
  From the shadows near the corner window, a tall, immaculate figure stepped forward.
@@ -349,8 +349,8 @@
  A murmur of protest rose from the Army staff officers.
  "It is too complex, General," an infantry brigadier said, leaning forward. "You are coordinating four independent services—the RAF transports, the paratroopers, scientific intelligence, and the Royal Navy. If one link in the chain snaps, the entire force is trapped against a three-hundred-foot wall of chalk."
  "The airborne forces are an unproven arm, sir," another officer added. "Operation Colossus was an unmitigated disaster."
- A hard, brittle edge entered Browning’s pale eyes.
- Colossus had been Britain’s first airborne raid—a drop of thirty-eight men of the 11th SAS Battalion in February 1941 to blow up the Tragino aqueduct in southern Italy. The aqueduct had been broken, but every single man, including their commanding officer, had been captured. In the corridors of the War Office, traditionalists were already whispering that the Parachute Regiment was an expensive, flamboyant waste of manpower that ought to be disbanded and its men returned to standard infantry battalions.
+ A hard, brittle edge entered Browning's pale eyes.
+ Colossus had been Britain's first airborne raid—a drop of thirty-eight men of the 11th SAS Battalion in February 1941 to blow up the Tragino aqueduct in southern Italy. The aqueduct had been broken, but every single man, including their commanding officer, had been captured. In the corridors of the War Office, traditionalists were already whispering that the Parachute Regiment was an expensive, flamboyant waste of manpower that ought to be disbanded and its men returned to standard infantry battalions.
  "Colossus was a strategic raid deep inside enemy territory with no extraction plan," Browning said, his voice dropping an octave, carrying the cold authority of the Guards. "The men were told to march fifty miles to the coast and hope a submarine was waiting. This is entirely different. This is a raid across the narrow seas with a secured beachhead and overwhelming naval support."
  Browning turned to Mountbatten.
  "My men need this, Dickie," Browning said quietly. "The airborne concept needs this. If we do not use them now, the War Office will dismantle the brigade before we ever see France. Give us the target."
@@ -359,7 +359,7 @@
  "The operation is approved," Mountbatten said. "Scientific priority absolute. Combined Operations will coordinate. The target is Henry."
  He turned to Browning. "Who will you send, Boy?"
  Browning did not hesitate. He had already reviewed the state of the battalions training on Salisbury Plain. He knew the officers who were mere administrators and the officers who possessed the cold, aggressive marrow required for an independent night action behind enemy lines.
- " 'C' Company," Browning said. "Second Parachute Battalion. Commanded by Major John Frost. He’s a former Cameronian. Level-headed, stubborn as a mule, and his men will follow him into a furnace."
+ " 'C' Company," Browning said. "Second Parachute Battalion. Commanded by Major John Frost. He's a former Cameronian. Level-headed, stubborn as a mule, and his men will follow him into a furnace."
  Mountbatten nodded once, closing the leather folder.
  "Very well," the Chief of Combined Operations said. "Tell Major Frost to get his company ready. The operation is codenamed Biting."
 
@@ -372,7 +372,7 @@
  Around his neck, tucked into the top of his woollen service-dress tunic, hung a polished copper hunting horn.
  Twenty yards down the slope, Company Sergeant Major Strachan was putting No. 2 Platoon through a rapid section attack against a line of chalk-bag breastworks.
  "Get down! Now!" Strachan roared, his Glasgow accent cutting through the whistling wind. "McIntyre, you're not strolling down Sauchiehall Street! Crawl, man! Drive with your knees!"
- The paratroopers of 'C' Company were an unusual breed. Every man was a volunteer, drawn from across the British Army. A large contingent were Scots—Cameronians, Black Watch, King’s Own Scottish Borderers, Seaforth Highlanders—men who had traded the steady, tedious routine of garrison infantry for two shillings a day jump pay and the promise of immediate action. They were rough, aggressive, and fiercely protective of their status. In the pubs of Salisbury, they had already established a reputation for brawling with regular line battalions who mocked their jumping gear.
+ The paratroopers of 'C' Company were an unusual breed. Every man was a volunteer, drawn from across the British Army. A large contingent were Scots—Cameronians, Black Watch, King's Own Scottish Borderers, Seaforth Highlanders—men who had traded the steady, tedious routine of garrison infantry for two shillings a day jump pay and the promise of immediate action. They were rough, aggressive, and fiercely protective of their status. In the pubs of Salisbury, they had already established a reputation for brawling with regular line battalions who mocked their jumping gear.
  A sudden rattle of automatic fire broke out from a ditch.
  Pop-pop-pop-clack.
  A private cursed violently, dropped onto his hip in the slush, and began hammering the side of his weapon with the heel of his palm.
@@ -380,7 +380,7 @@
  "Stovepipe, sir," the soldier gasped, breath pluming white in the freezing air. "The blimmin' extractor's chewed the case rim again."
  The weapon was a Sten Mark II—a piece of crude, mass-produced ordnance that had only just begun reaching frontline units. Made of stamped sheet metal, a length of steel bicycle tubing, and a simple blowback bolt, it was assembled at the Royal Small Arms Factory at Enfield for less than two pounds ten shillings. It had no wooden furniture, no fine finish, and an alarming habit of jamming if a single grain of Wiltshire chalk dust entered the open cocking slot.
  "Clear it," Frost said quietly. "Strip the magazine. Don't load more than twenty-eight rounds in a thirty-two-round box. The springs are too weak to feed the final four."
- He watched the soldier clear the crushed brass cartridge. The Sten was cheap, lethal at fifteen yards, and prone to accidental discharge if dropped butt-first onto a hard floor, but it was light enough to be strapped across a man’s chest during a parachute drop. That made it indispensable.
+ He watched the soldier clear the crushed brass cartridge. The Sten was cheap, lethal at fifteen yards, and prone to accidental discharge if dropped butt-first onto a hard floor, but it was light enough to be strapped across a man's chest during a parachute drop. That made it indispensable.
  A dark staff car—a Humber Super Snipe with red command pennants on the front wings—crawled along the perimeter track, its chains clattering against the frozen gravel. It stopped by the edge of the firing range.
  The passenger door opened, and Major-General "Boy" Browning stepped out.
  Even in the squalor of Salisbury Plain, Browning looked immaculate. His service-dress tunic was tailored to perfection, his leather gleaming, his silver-mounted swagger stick tucked beneath his left arm. He walked onto the firing range, his dark eyes sweeping over the chalk-splattered paratroopers who stood to attention in the snow, their woollen trousers torn at the knees, their hands black with carbon and grease.
@@ -390,7 +390,7 @@
  Frost smiled faintly. "They're meant to fight in the mud, sir, not dance at the Savoy."
  "Quite," Browning said, the trace of a smile touching his thin lips. "Though a razor wouldn't entirely diminish their fighting qualities."
  Browning gestured toward the staff car. "Walk with me, John."
- They walked along the edge of the chalk knoll, out of earshot of the platoons. The wind whipped Browning’s scarlet-lined trench coat around his calves.
+ They walked along the edge of the chalk knoll, out of earshot of the platoons. The wind whipped Browning's scarlet-lined trench coat around his calves.
  "The Chief of Combined Operations has approved an operation," Browning said, dropping all lightness from his tone. "A raid on the French coast. North of Le Havre. The target is a piece of German scientific apparatus—a precision radar. It is sitting on the edge of a three-hundred-foot cliff."
  Frost listened without interrupting, his pipe clenched cold between his teeth.
  "You will drop at night," Browning continued. "Twelve Whitleys. One hundred and twenty men. You will land behind the installation, seize the machine, guard the technicians while they pull it apart, and withdraw down a gully to the beach. The Royal Navy will have landing craft waiting on the shingle to carry you home."
@@ -400,7 +400,7 @@
  "Then you are backed against a three-hundred-foot cliff with an entire German division twenty miles inland and four miles of sea between you and England," Browning replied, meeting Frost's gaze squarely. "The War Office believes it is madness. Several officers on the general staff have already predicted that 'C' Company will follow the Tragino party into a prison camp."
  Browning stepped closer, his voice dropping into a hard, confessional intensity.
  "The future of the airborne forces rests on this, John. If you fail, the brigade will be broken up. The traditionalists will say that paratroopers are an expensive, useless toy. If you succeed, Churchill will give us an entire division. I chose your company because I know you won't lose your head when the plan starts coming apart."
- "The plan will come apart, sir," Frost said plainly. "Night drops always scatter. We’ve never dropped twelve aircraft at once without losing two sticks in the woods."
+ "The plan will come apart, sir," Frost said plainly. "Night drops always scatter. We've never dropped twelve aircraft at once without losing two sticks in the woods."
  "Then you will have to gather them in the dark," Browning said. "You have three weeks to train. But you will not be operating alone. I am attaching a section of Royal Engineers under Lieutenant Charteris to handle the demolitions and heavy tools."
  Browning paused, glancing sideways at Frost.
  "And there is one other detail," the General added. "The Air Ministry insists that a radar mechanic must examine the machine on the cliff. They are sending us an RAF flight sergeant. The man works on ground installations. He has never jumped from an aeroplane, he has never held a Tommy gun, and he doesn't know the difference between an airborne platoon and a Sunday school picnic."
@@ -419,7 +419,7 @@
  "Any history of dizziness? Ear trouble? Heart murmurs?"
  "No, sir. Perfect health."
  "Excellent. You have been selected for a special assignment of great technical importance. You are being posted this afternoon to No. 1 Parachute Training School at Ringway."
- Cox had blinked, his cap tucked under his arm. "Ringway, sir? But that’s the army jumping school."
+ Cox had blinked, his cap tucked under his arm. "Ringway, sir? But that's the army jumping school."
  "I am aware of what Ringway is, Flight Sergeant," the officer had replied with absolute administrative detachment. "You have two weeks to learn how to parachute. If you break your neck, your mother will receive an Air Council pension. If you don't, you will be attached to an army unit for an operational sortie. Dismissed."
 
  Now, standing on the sodden grass of Tatton Park near Manchester, Cox looked up into the grey Cheshire sky and decided that the British military establishment had collectively lost its mind.
@@ -428,11 +428,11 @@
  "Come on, Blue! Get a move on!"
  The RAF Physical Training Instructor—a wiry sergeant with three gold gymnastics badges on his forearm—gave Cox a shove toward the steel boarding ladder.
  Around them, forty paratroop volunteers from the Cameronians and the Royal Welch Fusiliers were standing in loose ranks, grinning with sadistic pleasure. They had already completed their hangar drills - hours of jumping off ten-foot wooden platforms onto coconut matting, tumbling head-over-heels across sawdust pits to learn the "parachute landing roll"—knees bent, elbows in, chin tucked into the sternum.
- Cox’s hips were already a mass of black-and-purple hematomas from the sawdust pits. His knuckles were raw, and his ribs ached whenever he took a deep breath. He looked absurd among the soldiers - while they wore rough khaki battledress, Cox was dressed in his standard-issue RAF blue-grey wool tunic, his three sergeant's chevrons and brass crown looking distinctly out of place beneath the webbing harness of an X-Type parachute.
+ Cox's hips were already a mass of black-and-purple hematomas from the sawdust pits. His knuckles were raw, and his ribs ached whenever he took a deep breath. He looked absurd among the soldiers - while they wore rough khaki battledress, Cox was dressed in his standard-issue RAF blue-grey wool tunic, his three sergeant's chevrons and brass crown looking distinctly out of place beneath the webbing harness of an X-Type parachute.
  He clambered into the wicker car beside three other men and the jump instructor.
  The winch-lorry groaned. The steel cable began to hum.
  The earth fell away with terrifying, sickening speed. The rows of brick barracks, the stands of leafless oak trees, and the laughing soldiers shrank until they were tiny black pins scattered on a damp green handkerchief.
- There was no engine noise. No vibration. Only the high, lonely whistle of the winter wind singing through the balloon’s rigging cables and the faint, rhythmic creak of the wicker basket.
+ There was no engine noise. No vibration. Only the high, lonely whistle of the winter wind singing through the balloon's rigging cables and the faint, rhythmic creak of the wicker basket.
  Cox looked through the circular hole in the floor. Seven hundred feet straight down, the winch-lorry looked no larger than a matchbox. His stomach gave a violent, liquid heave. Vertigo hammered into his temples like a brass chisel. He gripped the wooden gunwale of the basket until his fingernails turned white.
  "Number One!" the instructor barked, pointing at a trembling soldier from the Highland Light Infantry. "In the hole!"
  The soldier swung his legs into the aperture, sitting on the cold edge of the wood, his hands gripping the rim, his eyes fixed on the horizon.
@@ -442,12 +442,12 @@
  The instructor turned to Cox.
  "Number Two! In the hole, Flight!"
  Cox couldn't breathe. His tongue felt like a piece of dry leather wedged in the back of his throat. Every instinct developed over twenty-eight years of ordinary, domestic civilian life screamed at him to throw himself flat on the wicker floor and cling to the stays.
- "I’m a mechanic," Cox croaked.
- "You're a blimmin' paratrooper today, sunshine," the instructor said, not unkindly, but with iron finality. "Sit on the edge. Legs together. Head down. Don't look at your boots. If you catch your chin on the wood on the way through, you’ll knock yourself out cold."
+ "I'm a mechanic," Cox croaked.
+ "You're a blimmin' paratrooper today, sunshine," the instructor said, not unkindly, but with iron finality. "Sit on the edge. Legs together. Head down. Don't look at your boots. If you catch your chin on the wood on the way through, you'll knock yourself out cold."
  Cox swung his legs into the void.
  The cold air rushed up his trouser legs. Beneath the soles of his ammunition boots was seven hundred feet of empty English atmosphere. The static-line hook of his parachute pack was clipped to the steel overhead bar of the car.
  "Ready?"
- Cox squeezed his eyes shut. In his mind, he saw his mother’s kitchen in Wisbech, the smell of Sunday roast, the brass controls of the Kalee projector at the cinema.
+ Cox squeezed his eyes shut. In his mind, he saw his mother's kitchen in Wisbech, the smell of Sunday roast, the brass controls of the Kalee projector at the cinema.
  "Go!"
  A heavy hand struck him between the shoulder blades.
  Cox fell.
@@ -465,17 +465,17 @@
  He struck the frozen Cheshire turf with both heels, his legs locked straight. The impact drove his knees into his chin, snapping his teeth together with an audible crack. He cartwheeled sideways, his left shoulder plowing a six-foot furrow through the grass and mud before the dragging silk canopy finally collapsed in a wet heap forty yards downwind.
  He lay on his back in the frost, gasping for air, tasting copper and salt where his incisors had bitten deep into his lower lip.
  The jump instructor strolled over, unclipped the canopy releases, and looked down at the mud-streaked RAF uniform.
- "Well, Flight," the sergeant said, offering a calloused hand to drag him out of the slush. "You didn't break your neck. That’s one. You’ve only got seven more to go before you get your wings."
+ "Well, Flight," the sergeant said, offering a calloused hand to drag him out of the slush. "You didn't break your neck. That's one. You've only got seven more to go before you get your wings."
 
  Six days later, Flight Sergeant Charles Cox stepped off the local train at Salisbury station.
- He was limping. His left collarbone was heavily strapped with zinc-oxide tape to hold a bruised acromioclavicular joint in place, his right thigh was the color of a bruised plum, and a jagged scab covered his chin where he had clipped the rim of a Whitley bomber’s ventral exit on his fifth drop—his very own "Whitley kiss."
+ He was limping. His left collarbone was heavily strapped with zinc-oxide tape to hold a bruised acromioclavicular joint in place, his right thigh was the color of a bruised plum, and a jagged scab covered his chin where he had clipped the rim of a Whitley bomber's ventral exit on his fifth drop—his very own "Whitley kiss."
  Under his left arm, he carried his standard RAF kitbag. In his right hand, he carried a heavy, olive-drab canvas holdall secured with two brass padlocks. Inside were not spare socks or clean shirts, but a dozen specialized, non-magnetic beryllium-copper spanners, insulated pliers, a 100-watt soldering iron, three spare heating elements, and a pair of eight-inch heavy-duty steel wire-cutters.
  An open 15-cwt Bedford truck was waiting outside the station ticket hall, its canvas tilt flapping in the winter sleet.
- A paratroop corporal with a red beret cocked over his ear leaned against the radiator, chewing a matchstick. He eyed Cox’s RAF uniform, the lack of an airborne flash on his shoulder, and the limp.
+ A paratroop corporal with a red beret cocked over his ear leaned against the radiator, chewing a matchstick. He eyed Cox's RAF uniform, the lack of an airborne flash on his shoulder, and the limp.
  "Flight Sergeant Cox?" the corporal asked.
  "Yes," Cox said, his voice quiet, worn down to the bone.
  The corporal took the kitbag, threw it carelessly into the back of the truck, and gestured to the passenger seat.
- "Major Frost is waiting for you at Tilshead, Flight," the corporal said, shifting the truck into gear with a metallic clatter. "You’d better hold on tight. The Major doesn't like tradesmen who arrive behind schedule."
+ "Major Frost is waiting for you at Tilshead, Flight," the corporal said, shifting the truck into gear with a metallic clatter. "You'd better hold on tight. The Major doesn't like tradesmen who arrive behind schedule."
 
  Chapter Ten
  The Swanage Mock-Up
@@ -483,16 +483,16 @@
  Here sat the Telecommunications Research Establishment—TRE—the nerve center of British radar development. It was an austere, high-security compound of creosoted wooden huts, barbed wire, and muddy duckboards, dominated by the skeletal steel pylons of an experimental Chain Home station that hummed with thousands of volts of high-frequency power.
  Inside a draughty corrugated-iron hangar behind the laboratory huts, there was no heating. The air inside was as bitter as the wind blowing off the headland, smelling of damp sawdust, fresh grey paint, and raw timber.
  Standing in the center of the concrete floor was a ghost.
- It was a full-scale wooden replica of the Würzburg, built in forty-eight hours by TRE carpenters working from Tony Hill’s low-level photographs and Claude Wavell’s micrometric measurements. The parabolic dish was ten feet in diameter, constructed of curved spruce battens faced with fine wire mesh and painted battleship grey. It was mounted on a timber pedestal that rotated on an iron pivot, complete with a mock operator’s cabin built of rough deal boards.
+ It was a full-scale wooden replica of the Würzburg, built in forty-eight hours by TRE carpenters working from Tony Hill's low-level photographs and Claude Wavell's micrometric measurements. The parabolic dish was ten feet in diameter, constructed of curved spruce battens faced with fine wire mesh and painted battleship grey. It was mounted on a timber pedestal that rotated on an iron pivot, complete with a mock operator's cabin built of rough deal boards.
  Flight Sergeant Charles Cox stood before it, his canvas kitbag dropped on the concrete, his left shoulder still strapped with zinc-oxide tape beneath his blue woollen tunic.
- Beside him stood Captain Denis Vernon of the Royal Engineers. Vernon was twenty-five, an officer of the 1st Airborne Divisional Field Company, with sharp, observant features and the pragmatic, skeptical eye of a civil engineer. Between Vernon’s boots rested an open wooden crate containing sledgehammers, six-foot steel pinch-bars, cold chisels, and heavy hacksaws.
+ Beside him stood Captain Denis Vernon of the Royal Engineers. Vernon was twenty-five, an officer of the 1st Airborne Divisional Field Company, with sharp, observant features and the pragmatic, skeptical eye of a civil engineer. Between Vernon's boots rested an open wooden crate containing sledgehammers, six-foot steel pinch-bars, cold chisels, and heavy hacksaws.
  A tall figure in an unbuttoned trench coat stepped out from behind the wooden dish, wiping white chalk from his fingers with a handkerchief - Dr. R.V. Jones.
- Behind Jones walked Donald Preist, one of TRE’s most brilliant young scientific officers. Preist was a radar specialist with an easy, confident manner, wearing a thick cable-knit submarine sweater beneath his tweed jacket.
+ Behind Jones walked Donald Preist, one of TRE's most brilliant young scientific officers. Preist was a radar specialist with an easy, confident manner, wearing a thick cable-knit submarine sweater beneath his tweed jacket.
  "You're late, Flight Sergeant," Jones said, his tone dry rather than scolding.
  Cox saluted instinctively. "Train was held up at Brockenhurst, sir. Troop movements."
  "Never mind," Jones said, turning to the wooden machine. "This is Henry. Take a good look at him, Cox. If you do your job properly, you will save more aircrews in half an hour than an infantry division saves in a year."
  Jones took a wooden pointer from Preist and tapped the center of the wooden dish.
- "Tony Hill’s photographs have given us the external geometry," Jones said, speaking with the rapid, hypnotic clarity of a lecturer who had rehearsed the argument twenty times. "The dish is three meters across. That yields roughly fifty-three centimeters. But the external dish is just a mirror. It is dumb iron. You leave the dish on the cliff. What I must have is the nervous system."
+ "Tony Hill's photographs have given us the external geometry," Jones said, speaking with the rapid, hypnotic clarity of a lecturer who had rehearsed the argument twenty times. "The dish is three meters across. That yields roughly fifty-three centimeters. But the external dish is just a mirror. It is dumb iron. You leave the dish on the cliff. What I must have is the nervous system."
  The pointer moved to a cylindrical wooden casing mounted directly behind the apex of the reflector.
  "Here," Jones said. "The receiver. It contains the local oscillator and the intermediate-frequency amplifier. It is the heart of the set. From that receiver, we can determine the exact band on which the German night-fighter controllers are working, their receiver sensitivity, and whether the circuit has automatic frequency control."
  Jones moved the stick down to the base of the pedestal.
@@ -503,7 +503,7 @@
  Cox knelt, peering into the dark cavity beneath the wooden cabin. "If they're metric, British standard spanners will round the flats off the heads. One slip, and you've stripped the hex. Then you're stuck."
  Preist smiled faintly. "We have provided for that. Combined Operations has sourced three complete sets of German metric box-spanners and open-ended wrenches, stamped in millimeters. Made by Hazet in Remscheid. Captured in the Western Desert from an Afrika Korps repair lorry."
  Preist reached into a wooden box and handed Cox a roll of cold, heavy steel tools.
- Cox turned an eight-millimeter wrench in his hand, feeling the balance. "And the time, sir? How long will Major Frost’s men give me on the platform?"
+ Cox turned an eight-millimeter wrench in his hand, feeling the balance. "And the time, sir? How long will Major Frost's men give me on the platform?"
  Jones and Vernon exchanged a brief, silent glance.
  "Twenty minutes," Captain Vernon said, his voice hard and flat.
  Cox looked up, kneeling in the sawdust. "Twenty minutes?"
@@ -522,8 +522,8 @@
  Cox stood up, his jaw set, his RAF uniform covered in spruce sawdust. He felt very small, very cold, and acutely conscious of the bruised shoulder throbbing under his tunic.
  "I will get the boxes out, sir," Cox whispered.
  "I know you will," Jones said.
- He paused, his eyes traveling over Cox’s blue-grey RAF service-dress tunic, the light-blue sergeant's chevrons, and the brass eagle on his shoulder.
- Jones’s forehead creased with sharp anxiety.
+ He paused, his eyes traveling over Cox's blue-grey RAF service-dress tunic, the light-blue sergeant's chevrons, and the brass eagle on his shoulder.
+ Jones's forehead creased with sharp anxiety.
  "There is an administrative problem, Charles," Jones said, turning to Don Preist. "A serious one. If Cox is captured in that uniform, the Germans will know within ten seconds that this is not an ordinary Commando demolition raid."
  "The Luftwaffe will claim him immediately," Preist agreed, his casual demeanor vanishing. "A British paratrooper is simply an infantry soldier. But an RAF radar mechanic found dismantling a Würzburg on a French cliff? The Abwehr and the Luftwaffe signals intelligence branch in Paris will turn him inside out. They will realize we know about fifty-three centimeters, they will redesign their entire radar frequency band, and our scientific surprise is blown."
  Jones looked at Vernon. "Can you transfer him to the Army on paper? Issue him an Army paybook as a sapper in the Royal Engineers? If he is taken prisoner, he must look like a common soldier who was told to carry a crowbar, not an electronic technician."
@@ -551,10 +551,10 @@
  "Jellicoe," Frost continued. "One stick—ten men. Commanded by Lieutenant Peter Young. Young, you take the radar pit. You neutralize the sentries in the rifle trench, secure the perimeter, and cover Captain Vernon, his sappers, and Flight Sergeant Cox while they dismantle the apparatus."
  Peter Young, a twenty-six-year-old regular from the Bedfordshire and Hertfordshire Regiment with cold, pale eyes and a reputation for aggressive night patrolling, nodded once. "Understood, sir."
  Frost turned his eyes to Cox.
- "Cox," Frost said. "You stick to Lieutenant Young's heel like a shadow. You don't fire a shot. You don't look around. You run to the dish, you get into the mounting, and you use your spanners. Captain Vernon’s sappers will carry the canvas bags and handle the sledgehammers. You have twenty minutes."
+ "Cox," Frost said. "You stick to Lieutenant Young's heel like a shadow. You don't fire a shot. You don't look around. You run to the dish, you get into the mounting, and you use your spanners. Captain Vernon's sappers will carry the canvas bags and handle the sledgehammers. You have twenty minutes."
  "Yes, sir," Cox said quietly.
  Frost tapped the sand table five hundred yards to the east, where the rectangular cluster of Le Presbytère was modeled.
- "Drake," Frost said. "One stick—ten men. Commanded by Lieutenant Peter Naumoff. Naumoff, you advance inland to the crossroads and form a stop-line facing Rectangle. Chauveau’s intelligence tells us there are roughly one hundred Luftwaffe and Heer troops quartered in those barns. When the firing starts at Lone House, they will come down that track in force. Your ten men have three Bren guns. You dig in behind the stone wall and you hold that road. You do not let them reach the radar."
+ "Drake," Frost said. "One stick—ten men. Commanded by Lieutenant Peter Naumoff. Naumoff, you advance inland to the crossroads and form a stop-line facing Rectangle. Chauveau's intelligence tells us there are roughly one hundred Luftwaffe and Heer troops quartered in those barns. When the firing starts at Lone House, they will come down that track in force. Your ten men have three Bren guns. You dig in behind the stone wall and you hold that road. You do not let them reach the radar."
  Naumoff, a quiet, intense officer from the King's Shropshire Light Infantry, leaned over the sand. "How long do we hold, sir?"
  "Until Cox has the boxes," Frost replied bluntly. "If Drake breaks, the Germans roll up our rear while our heads are stuck in the back of the radar. You hold until you hear my horn."
  Frost shifted the pointer to the wide expanse of open fields stretching south of the road.
@@ -578,7 +578,7 @@
  "Outside," Frost ordered. "Full kit. We rehearse the withdrawal across the chalk."
 
  Ten minutes later, the cold air of Salisbury Plain hit them like an iron fist.
- The night was pitch-black, overcast, the wind driving frozen sleet across the ridges. In a depression between two chalk mounds, Captain Vernon’s sappers were practicing with the two-wheeled collapsible hand-trolley.
+ The night was pitch-black, overcast, the wind driving frozen sleet across the ridges. In a depression between two chalk mounds, Captain Vernon's sappers were practicing with the two-wheeled collapsible hand-trolley.
  It was a crude, lightweight tubular steel cart, fitted with small pneumatic tires, designed to carry two hundred pounds of delicate radio chassis across broken ground. In the snow, the wheels sank to the hubs.
  Sapper McIntyre and two other engineers leaned into the canvas hauling harness, cursing under their breath as their boots slipped in the freezing chalk slurry. The cart lurched, tilted violently on an uneven hummock, and nearly capsized into a ditch.
  Cox jogged beside it, holding his toolbag against his ribs, watching the sappers haul.
@@ -597,7 +597,7 @@
  A converted Belgian cross-channel passenger ferry requisitioned by the Admiralty, she swung at her anchors in the murky grey chop off Spithead, her peacetime white paint buried under coats of dark Western Approaches camouflage. Lashed to heavy steel gravity davits along her boat decks were eight Landing Craft Assault—the flat-bottomed, plywood-and-light-armor LCAs that were supposed to pluck 'C' Company off the shingle of France.
  On the night of 23 February 1942, the Solent was a freezing cauldron of wind, driving sleet, and pitch-black water.
  Major John Frost stood on a bleak, desolate spit of shingle near Warsash, his feet numb inside his boots. Around him in the frozen reeds, ninety men of 'C' Company lay prone in the mud, shivering violently. They had been dumped on the Hampshire shore to simulate the beachhead at Bruneval.
- The exercise was simple on paper - Frost was to fire a white recognition rocket seaward, the naval force waiting two miles offshore would spot it, and Commander F.N. Cook’s landing craft would drive through the surf to embark the company, their casualties, and the captured equipment in under ten minutes.
+ The exercise was simple on paper - Frost was to fire a white recognition rocket seaward, the naval force waiting two miles offshore would spot it, and Commander F.N. Cook's landing craft would drive through the surf to embark the company, their casualties, and the captured equipment in under ten minutes.
  Frost checked the luminous dial of his Rolex - 02:15.
  He loaded a copper cartridge into his heavy brass Webley flare pistol, snapped the breech shut, pointed the barrel thirty degrees above the black horizon, and pulled the trigger.
  Thump.
@@ -634,11 +634,11 @@
  Commander Cook stepped down from the steering position, his oilskins dripping, wiping salt from his eyebrows.
  "A bit of a wet embarkation, Major," Cook said, his Australian drawl cutting through the roar of the diesels.
  Frost looked at him. His eyes were cold, hard, and blazing with a fury that made the naval officer step back half an inch.
- "A wet embarkation?" Frost’s voice was dangerously quiet, shaking with suppressed rage. "We were sixty yards out, Commander. My men were swimming in six feet of water. If that had been the Bruneval shingle, the German machine guns at Villa Stella Maris would have had three hundred yards of enfilade fire down the waterline. We would have been floating corpses before the first man touched your ramp."
- Cook’s jaw tightened. "The tide ran five knots across the channel, Major. We hit an uncharted spit. In this weather—"
- "The German flak gunners won't give a fig about your uncharted spit!" Frost interrupted, his finger stabbing into Cook’s sheepskin coat. "My company’s radios are ruined. Our weapons are fouled with grit. If we cannot step from dry shingle straight onto your ramps in thirty seconds, the entire force is dead. Do you understand me? Dead on the pebbles."
+ "A wet embarkation?" Frost's voice was dangerously quiet, shaking with suppressed rage. "We were sixty yards out, Commander. My men were swimming in six feet of water. If that had been the Bruneval shingle, the German machine guns at Villa Stella Maris would have had three hundred yards of enfilade fire down the waterline. We would have been floating corpses before the first man touched your ramp."
+ Cook's jaw tightened. "The tide ran five knots across the channel, Major. We hit an uncharted spit. In this weather—"
+ "The German flak gunners won't give a fig about your uncharted spit!" Frost interrupted, his finger stabbing into Cook's sheepskin coat. "My company's radios are ruined. Our weapons are fouled with grit. If we cannot step from dry shingle straight onto your ramps in thirty seconds, the entire force is dead. Do you understand me? Dead on the pebbles."
  Cook looked at the shivering paratroopers huddled in the bottom of the craft, their skin grey, their teeth chattering uncontrollably as the cold wind whipped over the open gunwales. He nodded once, the professional seaman acknowledging an undeniable, terrifying truth.
- "We will adjust the trim," Cook said quietly. "We'll ballast the sterns deeper so the bows don't ground on the bars, and we’ll run the screws right onto the pebbles. But Major—if the swell on the French side is any heavier than this, no landing craft on earth will be able to hold the beach without broaching-to."
+ "We will adjust the trim," Cook said quietly. "We'll ballast the sterns deeper so the bows don't ground on the bars, and we'll run the screws right onto the pebbles. But Major—if the swell on the French side is any heavier than this, no landing craft on earth will be able to hold the beach without broaching-to."
 
  At dawn, Prince Albert returned to her mooring.
  In the officers' wardroom, Frost, Ross, and Cook stood over a wet Admiralty chart spread across the green baize table. A steward poured three mugs of neat navy rum, the fiery alcohol cutting through the bone-deep chill.
@@ -665,17 +665,17 @@
  He had laid out the Hazet metric spanners on an oily rag in numerical order - six-millimeter, eight-millimeter, ten-millimeter. Beside them lay his non-magnetic beryllium-copper screwdrivers and three pairs of fine insulated wire-cutters.
  Lieutenant Peter Young walked by, his hands in his pockets, his airborne smock open to reveal a woolen commando sweater. He stopped and nudged the eight-millimeter wrench with the toe of his boot.
  "Still polishing your ironmongery, Flight?" Young asked.
- Cox looked up, his face pale and shadowed with fatigue. "If a nut rounds off because of rust or dirt on the flats, Lieutenant, you don't get the box. I’d rather keep them clean."
- Young smiled—a hard, lean grin. "Don't fret about the nuts, Cox. If you can't turn 'em, Charteris’s sappers will take an axe to the frame. Your only job is to stay on your feet and not let the Jerry sentries put a hole through your head."
+ Cox looked up, his face pale and shadowed with fatigue. "If a nut rounds off because of rust or dirt on the flats, Lieutenant, you don't get the box. I'd rather keep them clean."
+ Young smiled—a hard, lean grin. "Don't fret about the nuts, Cox. If you can't turn 'em, Charteris's sappers will take an axe to the frame. Your only job is to stay on your feet and not let the Jerry sentries put a hole through your head."
  Cox looked past Young at the rows of silent, black-painted bombers filling the hangar.
  They were Armstrong Whitworth Whitley Mark Vs belonging to No. 51 Squadron. Ugly, slab-sided, twin-engine brutes with thick, rectangular wings and fixed tailwheels, they had a distinctive, aggressive stance even on the ground - because of the angle of incidence of the main plane, a Whitley sat with its nose tilted sharply down, looking like an iron bird leaning forward to peck at the tarmac. In the fuselage floor of each aircraft, where the ventral turret had been ripped out, the four-foot circular exit hole stood open, yawning like a black well into the dark beneath the aircraft.
  Across the hangar floor walked Wing Commander Percy Charles Pickard.
- Pickard, thirty-six years old, was already a legendary figure in Bomber Command. Tall, broad-shouldered, with an easy, rolling stride and a battered service-dress cap worn at an insolent angle, he had won a Distinguished Service Order and two Distinguished Flying Crosses flying Wellingtons through the worst of the Ruhr flak. He was famously the star of the Crown Film Unit’s documentary Target for To-night, where he had played the role of the pilot of "F for Freddie."
- Trotting at Pickard’s heels was Ming, an enormous, broad-chested German-bred Alsatian who accompanied the wing commander everywhere, even into the briefing rooms.
+ Pickard, thirty-six years old, was already a legendary figure in Bomber Command. Tall, broad-shouldered, with an easy, rolling stride and a battered service-dress cap worn at an insolent angle, he had won a Distinguished Service Order and two Distinguished Flying Crosses flying Wellingtons through the worst of the Ruhr flak. He was famously the star of the Crown Film Unit's documentary Target for To-night, where he had played the role of the pilot of "F for Freddie."
+ Trotting at Pickard's heels was Ming, an enormous, broad-chested German-bred Alsatian who accompanied the wing commander everywhere, even into the briefing rooms.
  Pickard stopped beside Frost, who was standing by the hangar doors, a cold briar pipe clamped in his jaw.
- "The met man has just finished the seventeen-hundred-hours chart, John," Pickard said, striking a match against his thumbnail and puffing his pipe into life. "The warm front is still stuck over Portland. The cloud base at Cap d'Antifer is down to four hundred feet. If we go tonight, my boys won't be able to see the coast until they’re fifty feet from the chalk. We’d fly two-thirds of the squadron straight into the cliff face."
+ "The met man has just finished the seventeen-hundred-hours chart, John," Pickard said, striking a match against his thumbnail and puffing his pipe into life. "The warm front is still stuck over Portland. The cloud base at Cap d'Antifer is down to four hundred feet. If we go tonight, my boys won't be able to see the coast until they're fifty feet from the chalk. We'd fly two-thirds of the squadron straight into the cliff face."
  Frost exhaled a long breath through his nose. "Scrubbed again?"
- "Scrubbed for tonight," Pickard said, resting a heavy hand on Ming’s head. "Stand the boys down until dawn."
+ "Scrubbed for tonight," Pickard said, resting a heavy hand on Ming's head. "Stand the boys down until dawn."
  Frost turned back to the hangar floor. The men were watching him. They didn't need to hear the words; they saw Pickard shake his head, and the collective groan of one hundred and twenty men rolled across the concrete like a wave of exhaustion.
  A paratrooper threw his pack onto a blanket and cursed violently. The psychological spring, wound tight for forty-eight hours, went slack.
  "They're going off the boil, Pick," Frost said quietly to the pilot. "You can only hold men at this pitch for so long. If we keep them locked in this barn for another two days, they'll be fighting each other instead of the Germans."
@@ -687,10 +687,10 @@
  Then, at 14:00 hours, the barometer on the wall began to tick.
  The needle—a thin steel hair resting against a revolving paper cylinder—crept upward. A fraction of a millibar. Then another.
  The station met officer dropped his dividers onto his chart and snatched a weather signal off the teleprinter. He read it twice, looked up at Frost, Pickard, and Jones, and pushed his glasses up his nose.
- "The cold front," the officer said, his voice unsteady with excitement. "A continental cold high is moving down from the North Sea. It’s pushing the maritime low out of the Channel. It will hit the French coast by nine this evening."
+ "The cold front," the officer said, his voice unsteady with excitement. "A continental cold high is moving down from the North Sea. It's pushing the maritime low out of the Channel. It will hit the French coast by nine this evening."
  Jones stepped forward, leaning both hands on the table. "Conditions at zero-zero-fifteen?"
  "Clear skies," the met man said. "Visibility ten miles. Cloud cover less than two-tenths. The wind is backing to the north-northwest at ten to twelve knots. Freezing temperatures—minus four to minus six Celsius. The snow on the Normandy plateau will be frozen hard."
- Pickard looked at Frost. The pipe was clamped tight between the wing commander’s teeth.
+ Pickard looked at Frost. The pipe was clamped tight between the wing commander's teeth.
  "Calm sea in the lee of the cliffs, John," Pickard said softly. "The landing craft can run straight onto the pebbles without broaching."
  Frost reached for his copper hunting horn, felt its smooth metal through the wool of his pocket, and looked at the clock on the wall. It was twenty minutes past two.
  "Assemble the company," Frost said. "Tell them to draw their parachutes and clean their smocks. Operation Biting goes tonight."
@@ -698,10 +698,10 @@
  Chapter Fourteen
  Inspection at Dusk
  The cold front arrived over Hampshire at five in the afternoon like an invisible sheet of plate glass.
- The low, suffocating yellow fog was swept south toward France by an Arctic breeze that smelled of clean ice and pine needles. Above RAF Thruxton, the sky cleared into a vault of deep, crystalline indigo, punctured by the first sharp, brilliant winter stars. Across the grassy verges of the perimeter track, the mud hardened into iron, crusted over with white rime frost that crackled under the heels of sentries’ boots.
+ The low, suffocating yellow fog was swept south toward France by an Arctic breeze that smelled of clean ice and pine needles. Above RAF Thruxton, the sky cleared into a vault of deep, crystalline indigo, punctured by the first sharp, brilliant winter stars. Across the grassy verges of the perimeter track, the mud hardened into iron, crusted over with white rime frost that crackled under the heels of sentries' boots.
  Inside Hangar No. 2, the ritual of departure had begun.
  Major John Frost walked between the rows of trestle tables, inspecting his company by the pale, humming light of electric drop-lamps. He had issued an order that struck the younger paratroopers as eccentric, almost archaic - every man was to wash with carbolic soap in the freezing ablutions hut and put on clean undergarments, clean socks, and a fresh woollen shirt.
- "It is not about spit and polish, Sergeant Major," Frost murmured to Strachan, who followed two paces behind with a clipboard. "If a piece of Jerry shrapnel or a nine-millimeter bullet punches through their smocks tonight, it will drive whatever cloth they're wearing deep into the muscle. I’d rather the surgeons at Haslar pull out clean cotton than three weeks of Salisbury Plain sweat and horse manure. Sepsis will kill a man just as dead as a bullet through the lungs."
+ "It is not about spit and polish, Sergeant Major," Frost murmured to Strachan, who followed two paces behind with a clipboard. "If a piece of Jerry shrapnel or a nine-millimeter bullet punches through their smocks tonight, it will drive whatever cloth they're wearing deep into the muscle. I'd rather the surgeons at Haslar pull out clean cotton than three weeks of Salisbury Plain sweat and horse manure. Sepsis will kill a man just as dead as a bullet through the lungs."
  The men stood by their kitbags in silence. The boisterous card games and barracks banter of the past seventy-two hours had vanished, replaced by the grim, introspective quiet of men who knew the clock was running down.
  They were blacking their faces.
  A corporal from the Seaforth Highlanders walked down the line with a tin plate piled with burnt wine corks and cold mutton fat. The men took the blackened stubs, spitting on them, and ground the soot across their cheeks, foreheads, and the bridges of their noses until all natural contours dissolved into flat, matte shadows. They rubbed the grease into the backs of their hands, around their necks, and behind their ears.
@@ -726,9 +726,9 @@
  His hands were bare. In his right pocket was the roll of Hazet metric spanners; in his left, three pairs of insulated pliers and his blue-filtered torch.
  Frost stopped and looked at the mechanic.
  "How is the shoulder, Flight Sergeant?"
- Cox tested his left arm, wincing slightly as the zinc-oxide tape pulled against his bruised collarbone. "It’ll hold, sir. Once the silk pulls, it won't matter anyway."
- "Lieutenant Young will be five paces ahead of you when you hit the grass," Frost said. "He knows the layout of the pit. You do not worry about the perimeter. You do not look at the Germans. You treat that dish as if it were sitting in your workshop at West Drayton. Take it apart, Cox. We’ll keep the world off your back until you’re done."
- "I’ll get the pieces, Major," Cox said. His voice was steady now, drained of panic, settled into the cold resignation of a technician about to perform a difficult job on a deadline.
+ Cox tested his left arm, wincing slightly as the zinc-oxide tape pulled against his bruised collarbone. "It'll hold, sir. Once the silk pulls, it won't matter anyway."
+ "Lieutenant Young will be five paces ahead of you when you hit the grass," Frost said. "He knows the layout of the pit. You do not worry about the perimeter. You do not look at the Germans. You treat that dish as if it were sitting in your workshop at West Drayton. Take it apart, Cox. We'll keep the world off your back until you're done."
+ "I'll get the pieces, Major," Cox said. His voice was steady now, drained of panic, settled into the cold resignation of a technician about to perform a difficult job on a deadline.
  A sharp command echoed from the hangar doors - "Attention!"
  The one hundred and twenty men snapped their heels together. The only sound was the rustle of smocks and the heavy slap of rifle slings against web equipment.
  Major-General "Boy" Browning stepped into the hangar.
@@ -736,14 +736,14 @@
  Browning walked slowly down the front rank of paratroopers. He did not give a patriotic speech. He was a Guardsman; he detested theatrical heroics. He stopped before individual soldiers, looking into their soot-blackened faces, checking the fit of their chin-straps, touching a Sten sling, speaking in a quiet, conversational voice that made the cavernous hangar feel intimate.
  "You look a great deal cleaner than you did on Salisbury Plain, men," Browning said with a thin, approving smile. "Though the charcoal doesn't do much for your complexions."
  A low ripple of chuckles ran down the line.
- Browning reached Major Frost at the head of the company. The General’s eyes were bright, clear, and unyielding.
- "The Navy is at sea, John," Browning said quietly. "Commander Cook’s flotilla left the Solent two hours ago. They are steaming south-southeast across the Channel now. The sea is flat calm. In six hours, they will be lying two miles off the Bruneval cliffs, waiting for your flares."
- Frost nodded. "We’ll be there, sir."
- "I know you will," Browning said. He took Frost’s hand and gripped it with an iron, dry pressure. "God be with you, John. Bring them back."
+ Browning reached Major Frost at the head of the company. The General's eyes were bright, clear, and unyielding.
+ "The Navy is at sea, John," Browning said quietly. "Commander Cook's flotilla left the Solent two hours ago. They are steaming south-southeast across the Channel now. The sea is flat calm. In six hours, they will be lying two miles off the Bruneval cliffs, waiting for your flares."
+ Frost nodded. "We'll be there, sir."
+ "I know you will," Browning said. He took Frost's hand and gripped it with an iron, dry pressure. "God be with you, John. Bring them back."
  Browning turned on his heel and stepped back toward the perimeter track.
  Wing Commander Pickard pulled a heavy silver pocket watch from his flying jacket, looked at the dial, and slipped it back into his pocket. He took his pipe from his mouth and knocked the cold dottle out against the heel of his flying boot.
  "Twenty-one forty-five, gentlemen," Pickard announced, his voice rolling through the hangar like a church bell. "The aircraft are fueled and the engines are warm. Take your sticks to your dispersals."
- Company Sergeant Major Strachan’s voice erupted into the rafters:
+ Company Sergeant Major Strachan's voice erupted into the rafters:
   " 'C' COMPANY! BY PLATOONS... TO THE DOORS... QUICK MARCH!"
  The heavy steel hangar doors groaned as they were hauled back on their iron rollers. The freezing night air rushed into the heated shed, smelling of aviation petrol, frost, and the vast, waiting darkness of the sea.
  One hundred and twenty men hoisted their equipment bags, adjusted their web belts, and marched out into the moonlight toward the twelve black Whitleys lined up along the runway.
@@ -754,21 +754,21 @@
  To board "Z-Zebra," the lead aircraft of No. 51 Squadron, Major John Frost and his stick of nine men had to climb a short steel ladder beneath the port tailplane and squeeze themselves through a narrow fuselage hatch.
  Inside, the aircraft was a long, dark, unheated tunnel of ribbed aluminum and green zinc-chromate primer. There were no passenger seats; the paratroopers sat on two bare wooden duckboards bolted along the fuselage sides, facing each other with their knees interlocked in the narrow aisle.
  Every man was swollen to twice his natural bulk.
- Over their woollen service dress and jumping smocks, they wore the heavy webbing harness of the X-Type parachute, the thick canvas pack pressed hard against their backs like a slab of cold beef. Across their chests, beneath the quick-release box, their Sten guns were strapped flat without their skeleton butt-stocks, the nine-millimeter barrels pointing down toward their jump boots. Their pockets bulged with thirty-two-round magazines, No. 36 Mills bombs, field dressings, and boiled sweets. Between Frost’s shins rested the company’s heavy canvas equipment valise, packed with extra Bren drums, smoke generators, and signaling lamps.
+ Over their woollen service dress and jumping smocks, they wore the heavy webbing harness of the X-Type parachute, the thick canvas pack pressed hard against their backs like a slab of cold beef. Across their chests, beneath the quick-release box, their Sten guns were strapped flat without their skeleton butt-stocks, the nine-millimeter barrels pointing down toward their jump boots. Their pockets bulged with thirty-two-round magazines, No. 36 Mills bombs, field dressings, and boiled sweets. Between Frost's shins rested the company's heavy canvas equipment valise, packed with extra Bren drums, smoke generators, and signaling lamps.
  At 22:15, Wing Commander Pickard brought the twin Rolls-Royce Merlin X engines up to full power.
- The airframe shook with a violent, rhythmic palsy that rattled the teeth in the men’s jaws. The smell inside the fuselage was a suffocating cocktail of high-octane aviation spirit, hot lubricating oil, damp wool, and the bitter, chalky stench of vomit from men who had never flown in an unpressurised bomber before.
+ The airframe shook with a violent, rhythmic palsy that rattled the teeth in the men's jaws. The smell inside the fuselage was a suffocating cocktail of high-octane aviation spirit, hot lubricating oil, damp wool, and the bitter, chalky stench of vomit from men who had never flown in an unpressurised bomber before.
  Pickard released the pneumatic brakes. Zebra surged down the Thruxton flare path, the tailwheel lifting, the heavy, rectangular wings biting into the frosty air.
  With a long, shuddering groan, the bomber broke contact with English soil.
 
- Ten miles south of St. Catherine’s Point on the Isle of Wight, the formation dropped.
+ Ten miles south of St. Catherine's Point on the Isle of Wight, the formation dropped.
  Pickard pushed the control yoke forward, easing Zebra down through the moonlit air until the altimeter needle settled at two hundred and fifty feet. Behind him, spaced at two-hundred-yard intervals in loose line-ahead formation, the other eleven Whitleys stepped down into the darkness.
  At two hundred and fifty feet, the English Channel was a rushing, black desert of water, illuminated only by the cold, pale light of the waning gibbous moon.
  Pickard flew by dead reckoning and the green glow of his instrument panel. Below that altitude, the sea spray was invisible; above it, the German coastal radar stations at Cherbourg and Cap de la Hague could snatch the formation's radar cross-section and vector Me 110 night-fighters from Saint-André-de-l'Eure before the aircraft were halfway across the water.
- In the cockpit, Pickard’s navigator, Pilot Officer Alan Broadley, sat bent over his small wooden plotting table behind a black curtain, tracking their drift with a mechanical Dalton computer and an airspeed indicator.
+ In the cockpit, Pickard's navigator, Pilot Officer Alan Broadley, sat bent over his small wooden plotting table behind a black curtain, tracking their drift with a mechanical Dalton computer and an airspeed indicator.
  Through his flying helmet headphones, Pickard listened to the background crackle of the wireless. Sixty miles to the east, RAF Fighter Command and two squadrons of Blenheims were executing the diversionary plan - flying ostentatious, high-altitude sweeps off Boulogne and Dunkirk, deliberately showing themselves on the German Freya screens to pull the Luftwaffe night-fighter squadrons north toward the Pas-de-Calais.
  Pickard adjusted his throttle levers, synchronizing the Merlins until the rhythmic wah-wah-wah vibration died into a steady, flat roar.
  "Channel clear, Broadley?" Pickard asked through the intercom.
- "On track, sir. Ground speed one hundred and forty-two knots. We should make landfall at Cap d’Antifer in twenty-two minutes."
+ "On track, sir. Ground speed one hundred and forty-two knots. We should make landfall at Cap d'Antifer in twenty-two minutes."
 
  In the fuselage of Zebra, the cold was absolute.
  At two hundred and fifty feet over the mid-Channel swell, the temperature inside the bare metal skin plunged to minus eight Celsius. There was no internal heating; the heat from the engine radiators was vented overboard to maintain airspeed.
@@ -777,26 +777,26 @@
  The Whitley had a notorious, wallowing motion in low-altitude turbulence—a sickening combination of a yawing tail and a pitching nose that seasoned aircrews called the "Whitley roll."
  Opposite Frost, Private Newman was gripping the edge of his wooden bench, his knuckles bone-white through his woollen mittens. His face was the color of lead beneath his cork-blacking. Suddenly, Newman lunged forward, grabbed an oilskin sick-bag from his webbing, and vomited violently into the sack.
  CSM Strachan reached out a calloused hand, steadying the young private by the shoulder.
- "Get it up, lad," Strachan shouted over the roar of the engines, his mouth three inches from Newman’s ear. "Better in the bag than in your harness. You’ll be breathing fresh French air in half an hour."
- Frost sat perfectly motionless at the forward end of the duckboards, his back against the timber bulkhead of the radio operator’s cabin.
+ "Get it up, lad," Strachan shouted over the roar of the engines, his mouth three inches from Newman's ear. "Better in the bag than in your harness. You'll be breathing fresh French air in half an hour."
+ Frost sat perfectly motionless at the forward end of the duckboards, his back against the timber bulkhead of the radio operator's cabin.
  He didn't look at his men; to stare at soldiers suffering from airsickness was to strip them of their dignity when they needed every scrap of their nerve. Instead, he kept his eyes on the floor between his boots.
  There, in the center of the wooden decking, was the aperture.
  It was a circular hatch, three and a half feet in diameter, where the belly turret had been cut away. It was currently covered by a circular wooden lid faced with canvas. Frost could hear the winter wind whistling through the ill-fitting rubber gasket around the rim, a high, thin scream that cut through the bass throb of the Merlins.
  Behind Frost, in the third aircraft of the formation, Flight Sergeant Charles Cox sat pressed between Lieutenant Peter Young and Sapper McIntyre.
  Cox was shivering so violently that his knees clattered together beneath his jump jacket. It was not merely the cold. He had his eyes glued to the heavy static line cable running along the roof of the fuselage above his head—the thick steel wire to which his parachute strops would be hooked.
- Every ten seconds, the aircraft would drop ten feet in a thermal trough, Cox’s stomach would rise into his throat, and the dark water of the Channel would seem to reach up through the skin of the bomber to drag them down.
+ Every ten seconds, the aircraft would drop ten feet in a thermal trough, Cox's stomach would rise into his throat, and the dark water of the Channel would seem to reach up through the skin of the bomber to drag them down.
  Beside him, Peter Young was calmly chewing on a piece of dried fruit, his eyes half-closed, perfectly balanced in the roll like a sailor on a frigate.
- Young leaned toward Cox, his breath hot against the mechanic’s ear.
- "Keep your boots together, Flight," Young shouted above the deafening mechanical din. "When the green goes, you don't think about the air. You jump straight down the center of the hole. If you hesitate for two seconds, the pilot will carry you half a mile past the radar pit, and I’ll have to drag your arse through three feet of snow."
+ Young leaned toward Cox, his breath hot against the mechanic's ear.
+ "Keep your boots together, Flight," Young shouted above the deafening mechanical din. "When the green goes, you don't think about the air. You jump straight down the center of the hole. If you hesitate for two seconds, the pilot will carry you half a mile past the radar pit, and I'll have to drag your arse through three feet of snow."
  Cox nodded, swallowed the dry knot in his throat, and reached into his jacket to touch the cold, reassuring steel of the Hazet metric spanners.
 
- At 23:48, the aircraft’s pitch angle altered.
+ At 23:48, the aircraft's pitch angle altered.
  Pickard pulled the control column smoothly back. The twin Merlins changed their pitch, settling into a deep, straining climb.
  Zebra was leaving the waves. She was climbing to six hundred feet—the minimum operational altitude required for the X-Type parachute canopy to deploy and stabilize before the jumper hit the ground.
- A small, circular red lamp mounted on the wooden bulkhead above Frost’s head flickered into life, casting a dull, bloody glare across the blackened faces of the ten paratroopers.
+ A small, circular red lamp mounted on the wooden bulkhead above Frost's head flickered into life, casting a dull, bloody glare across the blackened faces of the ten paratroopers.
  The RAF dispatcher—a flight sergeant in a heavy leather flying suit with a monkey-chain snapped to a fuselage ring—crawled aft along the duckboards. He leaned over the belly hatch, grabbed the iron handles of the circular wooden cover, and yanked it inward.
  A blast of sub-zero sea air tore into the fuselage like a hurricane.
- The wind roared through the aperture, blowing loose straw, paper bags, and dry frost into a blinding vortex that stung the men’s eyes.
+ The wind roared through the aperture, blowing loose straw, paper bags, and dry frost into a blinding vortex that stung the men's eyes.
  Frost looked down through the three-foot hole.
  Below the aircraft, barely six hundred feet away, the black water had vanished.
  In its place, emerging through the whistling dark with terrifying, sculptural sharpness, was a jagged wall of blinding white chalk, topped by a vast plateau of silent, frozen snow.
@@ -807,7 +807,7 @@
  Chapter Sixteen
  Antifer Flak
  At 00:02, the altimeter needle in the cockpit of "Z-Zebra" wound clockwise through five hundred feet, then six hundred.
- Below the aircraft, the black surface of the Channel terminated against the bleached vertical rampart of Cap d’Antifer. In the bright moonlight, the lighthouse stood like a pale, severed finger above the cliffs, surrounded by the geometric outlines of German revetments and communication trenches.
+ Below the aircraft, the black surface of the Channel terminated against the bleached vertical rampart of Cap d'Antifer. In the bright moonlight, the lighthouse stood like a pale, severed finger above the cliffs, surrounded by the geometric outlines of German revetments and communication trenches.
  Wing Commander Pickard held the control yoke with his left hand, his throttle friction-nuts tightened down against vibration.
  "Target run," Pickard said through his mask. "Hold heading one-two-zero."
  The response from the ground was instantaneous.
@@ -823,7 +823,7 @@
  When the aircraft corkscrewed to evade the flak, centrifugal force tore the men from their footing. Lieutenant Euan Charteris, a twenty-year-old regular officer of the Seaforth Highlanders, was thrown bodily against the aluminum fuselage frames, his steel helmet clattering against a stringer.
  Beside him, nine paratroopers tumbled into a heap on the duckboards, their heavy seventy-pound packs, strapped Bren drums, and Bangalore torpedoes crushing them into a tangle of canvas and boots.
  "Hold the cable!" Charteris shouted through the freezing roar of the wind. "On your feet! Number Two stick, get to the hole!"
- A piece of spent 20 mm shrapnel tore through the thin sheet-metal skin of the floor with the sound of ripping calico, punched through an empty ration tin, and lodged in a wooden spar six inches from a corporal’s boot. The smell of hot, sheared metal and sulfur joined the reek of fuel.
+ A piece of spent 20 mm shrapnel tore through the thin sheet-metal skin of the floor with the sound of ripping calico, punched through an empty ration tin, and lodged in a wooden spar six inches from a corporal's boot. The smell of hot, sheared metal and sulfur joined the reek of fuel.
  The aircraft was pitching wildly as the pilot leveled the wings, climbing to escape the flak.
  Up in the nose, the navigator was peering through his drift-sight into the snowbound landscape below. In daylight, the coastline was unmistakable. But at midnight, covered in an unbroken mantle of fresh snow, every hedgerow was buried, every lane was invisible, and every orchard looked like an identical smudge of dark pencil strokes across white paper.
  The navigator had lost his visual fix during the corkscrew.
@@ -833,21 +833,21 @@
  "Drop zone in sight!" the navigator called over the intercom, his voice shrill with tension. "Red lamp on!"
  In the belly of the aircraft, the red light glowed.
  Charteris stood at the edge of the circular opening, his legs braced against the rim, his static-line strop held high in his left hand. His face was black with soot, his jaw locked tight. He knew the schedule - Frost had given Nelson fifty minutes to clear the beach. Every second wasted in the air was a second lost against the German garrison.
- The trailing aircraft carrying the second half of Charteris’s stick—Whitley "W-William"—was following Uncle’s wingtips faithfully through the turn, compounding the error.
+ The trailing aircraft carrying the second half of Charteris's stick—Whitley "W-William"—was following Uncle's wingtips faithfully through the turn, compounding the error.
  Two miles north, over the real drop zone, Pickard in Zebra was flying straight and level through the flak, ignoring the tracers curving over his port wing. He was a veteran of thirty-five operations; he did not dodge. He flew through the bursts as if they were midges on an English summer evening, holding the aircraft rock-steady at five hundred and fifty feet directly across the frozen meadows east of Villa Gosset.
- Above Frost’s head in Zebra, the red lamp clicked off.
+ Above Frost's head in Zebra, the red lamp clicked off.
  The green lamp flashed.
- The dispatcher slapped Frost’s shoulder with the flat of his palm.
+ The dispatcher slapped Frost's shoulder with the flat of his palm.
  "GO!"
- Two miles to the south, over the wrong valley, the green lamp flickered in Charteris’s aircraft at the exact same second.
+ Two miles to the south, over the wrong valley, the green lamp flickered in Charteris's aircraft at the exact same second.
  Charteris did not hesitate. He stepped out over the circular rim, dropping straight down into the black abyss above the silent orchards of Saint-Jouin.
- Behind him, nineteen men of Nelson—the force that held the only key to the company’s escape down the cliffs—plunged into the freezing French air, scattered across two miles of empty, snowbound territory they had never seen on a map.
+ Behind him, nineteen men of Nelson—the force that held the only key to the company's escape down the cliffs—plunged into the freezing French air, scattered across two miles of empty, snowbound territory they had never seen on a map.
 
  Chapter Seventeen
  The Whitley Kiss
  Major John Frost sat on the wooden coaming of the belly hatch, his legs dangling into six hundred feet of freezing night air, his hands flat against the duckboards on either side of his hips.
  He did not look down. To look into the black maw was to let the inner ear betray the body. Instead, he kept his eyes fixed straight ahead on the dark ribbing of the fuselage bulkhead.
- When the green lamp flared, the dispatcher’s gloved hand struck his shoulder.
+ When the green lamp flared, the dispatcher's gloved hand struck his shoulder.
  Frost shoved off.
  He threw his torso forward and down, diving through the circular ring with his chin tucked into the hollow of his collarbone and his feet pressed tight together. The metal coaming swept past his forehead with an inch to spare—clearing the dreaded "Whitley kiss."
  The slipstream of the two Merlins caught him like a solid wall of ice.
@@ -880,7 +880,7 @@
  The non-magnetic screwdrivers were intact.
  The blue-filtered torch was unbroken.
  "Cox!" a voice hissed from the snow.
- Lieutenant Peter Young crouched beside him, a cocked Sten gun held low in his right hand. Young’s face was a black mask of soot, his teeth showing white in the moon.
+ Lieutenant Peter Young crouched beside him, a cocked Sten gun held low in his right hand. Young's face was a black mask of soot, his teeth showing white in the moon.
  "Can you walk, Flight?"
  Cox dragged himself to his feet, his knees sinking into the white powder, his breath coming in short, agonizing wheezes. "I can walk, sir."
  "Good man," Young muttered, his eyes darting across the empty, moonlit fields toward the dark roof of Villa Gosset. "Stay behind me. If you hear a whistle, throw yourself flat in the snow."
@@ -908,7 +908,7 @@
  A sharp, metallic click broke the quiet from forty yards away - the cocking piece of a Bren gun.
  "Seaforth," Charteris whispered into the dark.
  "Caber Feidh," came the low, guttural reply.
- Corporal Stewart crawled out from behind a bank of snow, dragging a heavy canvas equipment valise containing three sections of Bangalore torpedo. Behind him, filtering through gaps in the hawthorn hedges, came the rest of the stick. Within six minutes, the second Whitley’s stick appeared across the field, moving in a low, crouching file.
+ Corporal Stewart crawled out from behind a bank of snow, dragging a heavy canvas equipment valise containing three sections of Bangalore torpedo. Behind him, filtering through gaps in the hawthorn hedges, came the rest of the stick. Within six minutes, the second Whitley's stick appeared across the field, moving in a low, crouching file.
  All twenty men were accounted for. No broken limbs. No lost weapons.
  Charteris dropped to both knees beneath the earthen lip of the hedgerow, pulled the skirts of his jumping jacket over his head to form a light-tight hood, and clicked the shielded switch of his torch onto his compass.
  The luminous dial spun, hesitated, and settled.
@@ -921,14 +921,14 @@
  Charteris pulled his silk map from his breast pocket, shielded the beam of his torch with his fingers, and ran his thumb across the Pays de Caux. He matched the church tower, the sunken road, and the contour lines of the basin.
  "Saint-Jouin," Charteris murmured, his voice tight.
  Corporal Stewart knelt beside him in the snow. "Sir?"
- "The pilots overshot the cape," Charteris said, keeping his tone flat, refusing to let the panic in his chest reach his throat. "We’re two miles south of the drop zone. In the wrong parish."
- Stewart looked across the quiet, moonlit fields. "Two miles, sir? Where’s Captain Ross?"
- "Ross was in the leading Whitleys," Charteris said. "He’ll have dropped on the plateau. He has barely a dozen men to take that beach."
+ "The pilots overshot the cape," Charteris said, keeping his tone flat, refusing to let the panic in his chest reach his throat. "We're two miles south of the drop zone. In the wrong parish."
+ Stewart looked across the quiet, moonlit fields. "Two miles, sir? Where's Captain Ross?"
+ "Ross was in the leading Whitleys," Charteris said. "He'll have dropped on the plateau. He has barely a dozen men to take that beach."
  The full weight of the catastrophe settled upon the twenty men.
  Nelson was not an independent raiding party. It was the sole exit door for the entire operation. Its forty men were tasked with blowing three belts of concertina wire, capturing Villa Stella Maris at the bottom of the gully, and silencing the concrete machine-gun pillbox before Major Frost and the technical party arrived with the stolen radar components.
- With Charteris’s twenty men stranded two miles away in the snow of Saint-Jouin, Ross was hopelessly outnumbered. If the beach defenses remained intact, eighty paratroopers would reach the cliff edge with nowhere to go.
+ With Charteris's twenty men stranded two miles away in the snow of Saint-Jouin, Ross was hopelessly outnumbered. If the beach defenses remained intact, eighty paratroopers would reach the cliff edge with nowhere to go.
  Charteris checked his watch - 00:26.
- Frost’s assault on Villa Gosset on the clifftop was scheduled for 00:35. In less than ten minutes, the fighting would begin. At 01:15—barely forty-five minutes away—Frost would blow his horn to begin the withdrawal down to the shingle.
+ Frost's assault on Villa Gosset on the clifftop was scheduled for 00:35. In less than ten minutes, the fighting would begin. At 01:15—barely forty-five minutes away—Frost would blow his horn to begin the withdrawal down to the shingle.
  Two miles.
  Two miles through unbroken, crusted snow, carrying seventy pounds of battle equipment per man, four Bren guns, thirty-two loaded magazines, and sixty pounds of high-explosive Bangalore torpedoes.
  Charteris folded the silk map, jammed it into his tunic, and turned to face his nineteen soldiers.
@@ -972,7 +972,7 @@
  Frost looked at Captain Ross.
  "We go," Frost said.
  Ross did not blink. "What about the beach?"
- "Take your twelve men, John," Frost ordered, his voice dropping into a register of cold, absolute finality. "Advance directly to the crest of the ravine. Do not attempt to assault Stella Maris or the pillbox from the front with a dozen rifles—you’ll be chopped to ribbons in the wire. Take up position along the lip of the gorge, cover the path, and see what the German sentries are doing. If Charteris appears from the south, join forces and hit the beach from the rear. If he doesn't, hold the high ground above the gully until I bring the company down."
+ "Take your twelve men, John," Frost ordered, his voice dropping into a register of cold, absolute finality. "Advance directly to the crest of the ravine. Do not attempt to assault Stella Maris or the pillbox from the front with a dozen rifles—you'll be chopped to ribbons in the wire. Take up position along the lip of the gorge, cover the path, and see what the German sentries are doing. If Charteris appears from the south, join forces and hit the beach from the rear. If he doesn't, hold the high ground above the gully until I bring the company down."
  Ross nodded once. "Understood, John."
  "Move," Frost said.
  Ross tapped his twelve men on the shoulder. Without a word, the small, solitary file turned south-southwest, disappearing into the moonlit snowdrifts toward the dark throat of the Bruneval gully.
@@ -992,7 +992,7 @@
  The Silent Plateau
  The snow on the plateau was an enemy to silence.
  As Major John Frost led the twenty men of Hardy out from the shelter of the drainage ditch, every step sounded to his ears like the splintering of dry kindling.
- The crust—thawed slightly by the previous afternoon’s sun and refrozen into a thin, brittle glaze of ice—shattered beneath the paratroopers' ammunition boots with a sharp, rhythmic crunch-crack... crunch-crack.
+ The crust—thawed slightly by the previous afternoon's sun and refrozen into a thin, brittle glaze of ice—shattered beneath the paratroopers' ammunition boots with a sharp, rhythmic crunch-crack... crunch-crack.
  Frost held his left hand low, palm down, signaling his men to widen their intervals.
  Twenty men spread out across eighty yards of blinding white pasture, their soot-blackened faces invisible against the dark collars of their smocks, their Stens held across their chests at forty-five degrees. Behind them, forty yards in the rear, Peter Young and Jellicoe moved in a second line, escorting Vernon, Cox, and the four sappers carrying the tubular hand-trolley.
  To Frost's left, the Atlantic wind whistled over the lip of the three-hundred-foot chalk precipice, carrying with it the cold, briny tang of seaweed and the muffled, heavy thud of the swell breaking against the Bruneval shingle below.
@@ -1008,11 +1008,11 @@
  Frost surveyed the ground.
  Between the hawthorn hedge and the rear kitchen entrance of the villa lay fifty yards of open, flat lawn, covered in an unbroken sheet of snow. Running from the north side of the house to the radar pit was a shallow communication trench, its parapet revetted with frozen sandbags.
  There was no sound from within the villa. But as the wind shifted, Frost caught a sudden, unmistakable scent - the sweet, greasy smell of German synthetic coal-briquettes burning in a kitchen hearth, mingled with the faint aroma of stale tobacco.
- Frost touched Strachan’s sleeve.
- "Strachan," Frost whispered, his mouth inches from the sergeant major’s ear. "Take six men. Circle around the southern garden wall and cover the front door facing the sea. If anyone bolts out running for the cliff path, cut them down. Don't let them reach the gully."
+ Frost touched Strachan's sleeve.
+ "Strachan," Frost whispered, his mouth inches from the sergeant major's ear. "Take six men. Circle around the southern garden wall and cover the front door facing the sea. If anyone bolts out running for the cliff path, cut them down. Don't let them reach the gully."
  "Sir," Strachan breathed. He signaled with two fingers, and six paratroopers rose from the snow like shadows, crouching low as they filtered south along the line of the hedge.
  Frost turned to Peter Young, who had crawled up beside him, followed closely by Charles Cox.
- "Young," Frost murmured. "The dish is sixty yards out, half-past one. There’s a machine-gun pit dug into the chalk twenty paces north of the revetment. Take your ten men. The moment my whistle goes, you charge the pit, take out whatever is inside, and get Cox onto the platform."
+ "Young," Frost murmured. "The dish is sixty yards out, half-past one. There's a machine-gun pit dug into the chalk twenty paces north of the revetment. Take your ten men. The moment my whistle goes, you charge the pit, take out whatever is inside, and get Cox onto the platform."
  Young nodded, his eyes bright in the dark. He glanced at Cox, whose face was beaded with cold sweat despite the freezing air.
  "Keep your head down, Flight," Young whispered. "When I go, you follow my boots."
  Frost checked his watch - 00:38.
@@ -1035,34 +1035,34 @@
 
  Chapter Twenty-One
  Breaching Lone House
- The four piercing shrieks of Frost’s whistle tore the night apart.
+ The four piercing shrieks of Frost's whistle tore the night apart.
  Before the fourth blast had even died against the cliff face, Company Sergeant Major Gerald Strachan threw his shoulder against the unlatched timber door, sending it crashing back against the interior stone wall.
  Strachan didn't pause on the threshold. He pulled a No. 36 Mills bomb from his smock, hooked his index finger through the split-pin, jerked it free, and lobbed the four-second grenade down the dark, yawning stairwell leading to the basement.
  "Grenade!" Strachan roared, flattening himself against the plaster hallway wall.
  Three seconds later, the cellar erupted.
- The detonation was a muffled, subterranean thud that lifted the oak floorboards beneath Frost’s boots. A violent gust of hot, sulfurous air, pulverized brick dust, and splintered floor joists billowed up the basement steps, stinging the men’s eyes and leaving a thick, bitter coating of cordite on their tongues.
+ The detonation was a muffled, subterranean thud that lifted the oak floorboards beneath Frost's boots. A violent gust of hot, sulfurous air, pulverized brick dust, and splintered floor joists billowed up the basement steps, stinging the men's eyes and leaving a thick, bitter coating of cordite on their tongues.
  Behind the smoke came four paratroopers of Hardy, their rubber-soled jumping boots skidding on the dust-slick linoleum.
  They fanned out through the ground floor with brutal, rehearsed speed. Stens held at the hip, bolts cocked forward on the open sear, they kicked open the interior doors. The drawing room - empty. Heavy velvet curtains, a mahogany dining table, upholstered armchairs standing silent in the moonlight. The kitchen - a cast-iron range still radiating gentle warmth, a half-eaten loaf of dark German rye bread resting on a cutting board, a tin pot of cold chicory—and not a single human being.
  Frost stepped into the hallway, his weapon leveled, his ears ringing from the cellar blast.
  "Ground floor clear!" a corporal shouted from the salon. "Cellar empty, sir! Nobody down here!"
  The silence lasted three seconds.
- Then, directly above Frost’s head, a rifle cracked.
+ Then, directly above Frost's head, a rifle cracked.
  CRACK-THUD.
- The 7.92 mm Mauser round punched down through the plaster ceiling of the first floor, showering Frost’s steel helmet with white lime and leaving a smoking black puncture in the timber above.
+ The 7.92 mm Mauser round punched down through the plaster ceiling of the first floor, showering Frost's steel helmet with white lime and leaving a smoking black puncture in the timber above.
  Upstairs, the German occupant—awakened by the whistle and the grenade blast—had scrambled from his cot. A window sash was shoved violently open on the seaward side of the house. Through the broken glass, the rifle cracked again, firing out into the snow - CRACK-THUD.
  Outside on the plateau, fifty yards away, the bullet whipped through the freezing air and smacked into the snowdrift three paces from Flight Sergeant Charles Cox, who was running toward the radar dish behind Peter Young.
  Strachan didn't wait for orders.
  The sergeant major turned toward the narrow, uncarpeted wooden staircase at the end of the hall. He hit the steps at a dead sprint, taking them three at a time, his boots pounding the treads.
- At the landing, a second Mauser shot splintered the doorframe six inches above Strachan’s shoulder, peppering his soot-blackened cheek with flying pine shards. The German was inside a bedroom at the end of the corridor, cycling the bolt with frantic, metallic jerks.
+ At the landing, a second Mauser shot splintered the doorframe six inches above Strachan's shoulder, peppering his soot-blackened cheek with flying pine shards. The German was inside a bedroom at the end of the corridor, cycling the bolt with frantic, metallic jerks.
  Strachan reached the threshold, brought his right boot up, and smashed the door off its latch.
  In the pale, moonlit rectangle of the bedroom window stood a solitary German soldier. He was dressed only in grey flannel trousers and a woollen undershirt, barefoot on the cold floorboards, his Mauser 98k jammed into his shoulder, aiming through the shattered glass at the sappers approaching the radar dish below.
  Strachan didn't shout. He didn't demand surrender.
  He planted his feet and pulled the trigger of his Sten.
  The crude weapon rattled through half a magazine in an unbroken, deafening buzz - burrrr-up.
- Nine-millimeter slugs ripped through the lath-and-plaster wall, the bedside table, and the German soldier’s torso. The impact slammed the man violently backward against the windowsill. His rifle dropped from his hands, clattering onto the floorboards, and the soldier slumped forward onto his knees, his forehead striking the floor, dark blood pooling across the bare pine planks.
- Strachan stepped into the room, kicked the Mauser into the corner, and checked the man’s pulse.
+ Nine-millimeter slugs ripped through the lath-and-plaster wall, the bedside table, and the German soldier's torso. The impact slammed the man violently backward against the windowsill. His rifle dropped from his hands, clattering onto the floorboards, and the soldier slumped forward onto his knees, his forehead striking the floor, dark blood pooling across the bare pine planks.
+ Strachan stepped into the room, kicked the Mauser into the corner, and checked the man's pulse.
  There was none.
- Strachan leaned out the shattered window into the freezing night air. Below, on the moonlit grass, Lieutenant Peter Young’s section was already dropping into the shallow ditch surrounding the Würzburg.
+ Strachan leaned out the shattered window into the freezing night air. Below, on the moonlit grass, Lieutenant Peter Young's section was already dropping into the shallow ditch surrounding the Würzburg.
  "Upstairs clear!" Strachan bellowed down into the courtyard. "Get into the dish, Young!"
  Down in the ground-floor hallway, Frost stood by the open scullery door, pulling out his heavy pocket watch.
  It was 00:43.
@@ -1087,7 +1087,7 @@
  "Hold your fire," Naumoff whispered, his voice steady, frost misting on the gun's curved thirty-round magazine. "Let them clear the hedge. Wait until they hit the ditch."
  The German skirmishers crossed the first fifty yards of open snow in silence, their boots breaking the crust. They were cautious, but they clearly believed they were dealing with a small Commando sabotage group that had made a hit-and-run raid on the clifftop villa. They did not know that a reinforced company of British paratroopers was dug into the plateau.
  At one hundred and twenty yards, the leading German squad stepped into the shallow depression of a frozen drainage ditch.
- Naumoff tapped MacFarlane’s shoulder.
+ Naumoff tapped MacFarlane's shoulder.
  "Rapid fire. Engage."
  The three Brens opened up as one.
  The .303 British light machine gun had a measured, rhythmic cadence—five hundred rounds a minute, firing in tight, controlled five-round bursts - tak-tak-tak-tak... tak-tak-tak-tak.
@@ -1101,7 +1101,7 @@
  Within two minutes of the first volley, the German MG 34 went into action from the shelter of a stone horse trough three hundred yards down the lane.
  Unlike the measured, deliberate cadence of the British Bren, the German gun fired at twelve hundred rounds a minute. It did not sound like individual shots; it sounded like the violent, continuous tearing of heavy green canvas - brrrrrrrrrr-up.
  A stream of bright, yellow-green tracers lashed across the crossroads.
- The 7.92 mm rounds pulverized the top row of flint stones inches above Naumoff’s helmet, showering his neck with freezing grit and razor-sharp stone shards. A bullet clipped the steel bipod of the left-hand Bren, spinning the gun sideways into the snow, its gunner crying out as a ricocheting fragment sliced across his forearm.
+ The 7.92 mm rounds pulverized the top row of flint stones inches above Naumoff's helmet, showering his neck with freezing grit and razor-sharp stone shards. A bullet clipped the steel bipod of the left-hand Bren, spinning the gun sideways into the snow, its gunner crying out as a ricocheting fragment sliced across his forearm.
  "Keep your heads down!" Naumoff shouted against the roar of the gun. "Return fire by sections! Number Two gun, lay onto that horse trough!"
  From the rear, through the gap between Villa Gosset and the cliff, came Lieutenant John Timothy and six men from Rodney, crawling through the snow on their bellies to reinforce the wall. Timothy slid into the drift beside Naumoff, his Sten coated in ice, his face streaked with sweat.
  "Major Frost says Cox is at the dish," Timothy panted, spitting out a mouthful of snow. "How long can you hold here, Peter?"
@@ -1116,18 +1116,18 @@
  Chapter Twenty-Three
  Blue Flashlight
  The sandbagged revetment surrounding the Würzburg was circular, five feet deep, and crusted with frozen snow.
- Lieutenant Peter Young was the first man over the parapet. Landing in the trench on his boots, his Sten swept the shadows beneath the operator’s cabin. A German sentry in a dark Luftwaffe ground-crew jacket was scrambling backward against the duckboards, clawing at the bolt of a Mauser carbine propped against an empty ammunition crate.
+ Lieutenant Peter Young was the first man over the parapet. Landing in the trench on his boots, his Sten swept the shadows beneath the operator's cabin. A German sentry in a dark Luftwaffe ground-crew jacket was scrambling backward against the duckboards, clawing at the bolt of a Mauser carbine propped against an empty ammunition crate.
  Young fired a three-round burst from the hip.
- The 9 mm slugs punched into the sentry’s chest, snapping him back against the wooden siding. The German slumped into the snow, his fingers twitching once before going still.
+ The 9 mm slugs punched into the sentry's chest, snapping him back against the wooden siding. The German slumped into the snow, his fingers twitching once before going still.
  Young pivoted, scanning the pit. "All clear! Vernon! Bring up the tradesman!"
  Captain Denis Vernon slid down the frozen earthen bank, followed by Sapper McIntyre and Corporal Evans hauling the frame of the hand-trolley. Behind them stumbled Flight Sergeant Charles Cox, his breath coming in ragged, whistling gasps, his canvas toolbag clutched to his ribs like a stolen child.
  Cox pulled himself upright, wiped the frozen sweat from his eyelashes, and looked up.
  Standing directly above him in the moonlight was Henry.
  Seen from five paces, the machine was far more intimidating than the spruce-and-canvas mock-up in the Swanage hangar. The parabolic dish was ten feet across, composed of hundreds of interlocking ribs of pressed steel faced with fine, heavy-gauge wire mesh that hummed softly in the gale blowing over the cliff edge.
- Frost coated the iron framework like powdered sugar. Bolted directly beneath the center of the turntable was the rectangular operator’s cabin, its steel door standing unlatched.
- From the road to the east, the battle at Naumoff’s crossroads raged with deafening fury - the chattering buzz of the German MG 34 answering the heavy, rhythmic thumping of the three British Brens.
+ Frost coated the iron framework like powdered sugar. Bolted directly beneath the center of the turntable was the rectangular operator's cabin, its steel door standing unlatched.
+ From the road to the east, the battle at Naumoff's crossroads raged with deafening fury - the chattering buzz of the German MG 34 answering the heavy, rhythmic thumping of the three British Brens.
  Ping-crack.
- A stray 7.92 mm round struck the outer rim of the parabolic reflector, punching a clean hole through the steel mesh and showering Cox’s helmet with tiny flakes of chipped paint and ice.
+ A stray 7.92 mm round struck the outer rim of the parabolic reflector, punching a clean hole through the steel mesh and showering Cox's helmet with tiny flakes of chipped paint and ice.
  "Get to work, Flight!" Young barked, dropping into a firing step along the parapet, his Sten leveled at the open pastures. "Jerry is trying to get around Naumoff's left flank! You don't have all night!"
  Cox knelt on the frozen duckboards beneath the dish, his heart pounding in his ears with such violence that it drowned out the gunfire.
  He reached into his pocket and pulled out his torch. The brass bezel had been wrapped in two layers of blue photographic filter paper and capped with a cardboard hood that narrowed the beam to a two-inch circle of dim, azure light.
@@ -1157,7 +1157,7 @@
  Cox swung himself down, dropping heavily onto the duckboards, holding the metal crossbar aloft in his bleeding hands.
  "The dipole!" Cox gasped, thrusting the rod at McIntyre. "First piece!"
  McIntyre snatched the antenna, wrapped it in a padded woollen blanket, and slid it into the canvas holdall on the hand-trolley.
- Vernon checked his watch by the blue beam. "Seven minutes gone, Charles! What’s next?"
+ Vernon checked his watch by the blue beam. "Seven minutes gone, Charles! What's next?"
  Cox stepped behind the bowl of the reflector, pointing the blue torch at a cylindrical, cast-aluminum housing bolted directly to the rear of the dish apex.
  "The receiver," Cox said, his chest heaving. "The RF stage and the local oscillator. Dr. Jones must have this. Without this, the dipole is just a piece of bent pipe."
  He examined the casing.
@@ -1171,7 +1171,7 @@
  Captain Denis Vernon stepped forward, pushing Cox gently aside.
  The sapper officer laid down his Sten, reached into the wooden crate on the hand-trolley, and pulled out a four-pound steel club hammer and a fourteen-inch cold chisel.
  Vernon looked at Cox, his soot-streaked face splitting into a grim, wolfish grin in the blue light.
- "Step back, Flight," Vernon said, his voice deadly quiet beneath the roar of the guns. "The Air Ministry had their turn with the spanners. Now it’s the Royal Engineers' turn."
+ "Step back, Flight," Vernon said, his voice deadly quiet beneath the roar of the guns. "The Air Ministry had their turn with the spanners. Now it's the Royal Engineers' turn."
 
  Chapter Twenty-Four
  Sledgehammers
@@ -1185,9 +1185,9 @@
  "Mind the valves!" Cox shouted, throwing both hands up as if shielding his own face. "Captain, for goodness sake! The glass envelopes of the oscillator! If you shock the casing, the filaments will snap!"
  "They're German valves, Cox," Vernon grunted, already setting the chisel against the second stud. "They're built like panzers. Hold your nerve."
  CLANG.
- The second bolt head flew off, ricocheting off Vernon’s steel helmet with a dull thunk.
+ The second bolt head flew off, ricocheting off Vernon's steel helmet with a dull thunk.
  Around the lip of the pit, the world was growing rapidly more dangerous.
- From the crossroads four hundred yards to the east, the firing had shifted from intermittent bursts to an unbroken, deafening roar. Above the rattle of Naumoff’s three Brens came a new, terrifying sound - the high-pitched, hollow whistle of incoming light mortar rounds.
+ From the crossroads four hundred yards to the east, the firing had shifted from intermittent bursts to an unbroken, deafening roar. Above the rattle of Naumoff's three Brens came a new, terrifying sound - the high-pitched, hollow whistle of incoming light mortar rounds.
  Whheee-clack... CRUMP.
  A German 5 cm mortar bomb struck the open snow sixty yards north of the revetment. A geyser of frozen black clay, pulverized snow, and white smoke erupted into the moonlight, peppering the outer lattice of the dish with frozen clods.
  Lieutenant Peter Young leaned over the parapet, his face blackened, his eyes wild in the moonlight.
@@ -1203,14 +1203,14 @@
  Cox lunged forward, falling to his knees beneath the swaying chassis. He pulled his eight-inch heavy insulated cable-shears from his jump smock, forced the hardened steel jaws around the armored cable bundle, clamped both hands onto the rubber grips, and squeezed until his forearms knotted with agony.
  The brass braiding resisted. Cox threw his chest against the handles.
  Snip.
- The thick bundle of copper conductors severed. The heavy, twenty-five-pound cast-aluminum receiver casing dropped free into McIntyre’s outstretched arms.
+ The thick bundle of copper conductors severed. The heavy, twenty-five-pound cast-aluminum receiver casing dropped free into McIntyre's outstretched arms.
  "Got the bastard!" McIntyre wheezed, stumbling backward into the snow beneath the weight of the metal chassis.
  "Onto the cart!" Vernon ordered. "Wrap it in the horse blankets! Lash it down!"
  While McIntyre and Evans rolled the heavy chassis onto the canvas-covered deck of the hand-trolley, Cox turned on his heel. His hands were shaking violently, his fingers dripping blood where the sheared metal had torn the silk glove-liners, but his task was only half complete.
- He stepped to the unlatched steel door of the operator’s cabin tucked beneath the turntable.
+ He stepped to the unlatched steel door of the operator's cabin tucked beneath the turntable.
  "Where on earth are you going, Cox?" Young yelled from the parapet.
  "The cabin!" Cox shouted back. "The logbooks! The calibration charts!"
- Cox ducked through the narrow doorway into the cabin’s interior.
+ Cox ducked through the narrow doorway into the cabin's interior.
  The air inside was warm, stagnant, smelling of hot transformer oil, damp overcoats, and synthetic German grease. In the faint blue beam of his torch, the layout of the Würzburg control station was revealed.
  Directly in front of the operator's swivel seat was the main control console. In the center of the vertical panel sat two circular cathode-ray tube displays—the green phosphorescent screens where the echoes of British bombers were transformed into spikes of light. Flanking the screens were large, knurled aluminum tuning dials, stamped with metric frequency scales - 530 MHz... 550 MHz... 570 MHz.
  Cox didn't have time to unbolt the display tubes. He looked down at the timber shelf beside the operator's seat.
@@ -1222,7 +1222,7 @@
  A massive hand reached into the smoke, grabbed Cox by the collar of his smock, and yanked him bodily out of the cabin - Peter Young.
  "Out, Flight!" Young barked, hauling Cox onto his feet in the open pit. "The Major is blowing the rally!"
  Through the ringing in his ears, Cox heard it.
- From the threshold of Villa Gosset, fifty yards to the south, the clear, brassy note of Major Frost’s hunting horn cut through the crashing concussions of the mortar fire.
+ From the threshold of Villa Gosset, fifty yards to the south, the clear, brassy note of Major Frost's hunting horn cut through the crashing concussions of the mortar fire.
  One long, piercing call.
  The signal to break contact. The signal that the raid on the clifftop was finished.
  Vernon was already hauling the trolley up the earthen ramp out of the pit. Lashed to the steel frame, nestled beneath padded woollen blankets and secured with hemp rope, lay the dipole boom, the complete receiver chassis, the cable cutoffs, and sixty pounds of high-grade German electronic intelligence.
@@ -1235,13 +1235,13 @@
  The Interrogation
  The interrogation did not take place in the quiet shelter of a kitchen. It happened in the snow and mud of the radar pit, beneath the shattered rim of the parabolic dish, while German mortar fragments whined through the freezing dark.
  Crouched against the frozen sandbag parapet of the trench was the prisoner.
- He had been dragged from the darkness beside the operator's cabin by two paratroopers of Lieutenant Peter Young’s section. He was barely twenty years old, wearing the blue-grey flannel trousers and sheepskin-lined canvas vest of a Luftwaffe signals mechanic, without boots, his wool-stockinged feet buried in the icy churn of the trench bottom. He was trembling so violently that his teeth clicked together in rapid, audible spasms, his arms clamped over his bare head.
+ He had been dragged from the darkness beside the operator's cabin by two paratroopers of Lieutenant Peter Young's section. He was barely twenty years old, wearing the blue-grey flannel trousers and sheepskin-lined canvas vest of a Luftwaffe signals mechanic, without boots, his wool-stockinged feet buried in the icy churn of the trench bottom. He was trembling so violently that his teeth clicked together in rapid, audible spasms, his arms clamped over his bare head.
  Peter Young held the soldier down by the collar of his vest, his Sten resting against the trench revetment.
  "Newman!" Young shouted above the cracking rattle of machine-gun fire from the crossroads. "Get into this trench! Question him!"
  Private Peter Newman tumbled over the parapet into the pit, bringing a cascade of loose snow with him. His face was a solid mask of soot and tallow, his eyes bloodshot from the biting wind.
  Beside the dish, Flight Sergeant Charles Cox was pulling a thick, frozen sheet of weather-proofing canvas away from the rear access hatch of the radar chassis. He reached his bare, silk-lined hand into the recess where the local oscillator housing had just been unbolted, his bleeding fingers touching the internal aluminum framing.
  Cox jerked his head around toward Newman, his voice cutting sharp and loud through the noise of the battle.
- "Hey, Peter!" Cox yelled, pointing with a blackened thumb into the guts of the machine. "This thing’s still hot! The filaments were running! Ask the Jerry if he was tracking our aircraft as we came in!"
+ "Hey, Peter!" Cox yelled, pointing with a blackened thumb into the guts of the machine. "This thing's still hot! The filaments were running! Ask the Jerry if he was tracking our aircraft as we came in!"
  Newman knelt in the slush directly in front of the shivering German soldier.
  He didn't brandish a knife, and he didn't strike the boy. He leaned in close, until the German was forced to look into the blackened face of a British soldier whose eyes were entirely devoid of pity.
  When Newman spoke, the words did not come with an English accent. They came in the clean, flat, rapid German of an educated native.
@@ -1251,7 +1251,7 @@
  "Wie heißt deine Einheit?" Newman snapped. "What is your unit?"
  "Luftnachrichten," the boy gasped out, his chest heaving, the words tumbling over his frozen lips. "Luftnachrichten-Regiment... Abteilung Theuville..."
  "How many men?"
- "A hundred," the prisoner stammered, pointing a shaking arm toward the east, where Naumoff’s Brens were hammering away at the tree line. "At the rectory! Le Presbytère! There are two platoons of infantry from the 685th, and sixty of our signals company! They have heavy machine guns! They have mortars!"
+ "A hundred," the prisoner stammered, pointing a shaking arm toward the east, where Naumoff's Brens were hammering away at the tree line. "At the rectory! Le Presbytère! There are two platoons of infantry from the 685th, and sixty of our signals company! They have heavy machine guns! They have mortars!"
  Newman stepped closer, grabbing the front of the German's sheepskin vest.
  "The radar," Newman demanded. "Were you on watch when the bombers crossed the coast? Was the set tracking?"
  The boy nodded frantically, his head bobbing against the sandbags.
@@ -1260,18 +1260,18 @@
  "We thought they were going to Le Havre!" the prisoner sobbed. "The RAF flies nuisance sorties against the port every week! The sector controller said they were bombers for the docks! They were flying at six hundred feet—we thought they were laying mines in the Seine estuary! Nobody knew until the engines came right across the roof, and then the sky was full of parachutes!"
  Cox, who had been listening while Vernon and McIntyre lashed the heavy receiver chassis to the tubular frame of the hand-trolley, let out a short, triumphant bark of laughter.
  "They had us on the screen!" Cox shouted to Young. "The set was tracking us the whole way from the Isle of Wight!"
- Newman didn't smile. He pressed his knuckles into the prisoner’s sternum.
+ Newman didn't smile. He pressed his knuckles into the prisoner's sternum.
  "The mortar crews," Newman said. "Are they trained infantry?"
  The German shook his head, spitting blood from a split lip where he had struck the duckboards during his capture.
  "Nein! They are technicians! Most of them are signals operators and wiremen! We have the five-centimeter mortars, but we hardly ever fire them! The army infantry are at the farm, but the men with the mortars don't know the ranges in the dark!"
  Newman stepped back, turning to Lieutenant Young.
- "He’s Luftwaffe signals," Newman reported, his voice reverting instantly to disciplined English. "There are roughly a hundred men at the farm, split between signals and line infantry from the 685th. He confirms the radar was operational and tracking our Whitleys, but the sector controller mistook us for a low-level mine-laying run on Le Havre until the drop began. And the mortar crews don't know their business—they're shooting blind."
+ "He's Luftwaffe signals," Newman reported, his voice reverting instantly to disciplined English. "There are roughly a hundred men at the farm, split between signals and line infantry from the 685th. He confirms the radar was operational and tracking our Whitleys, but the sector controller mistook us for a low-level mine-laying run on Le Havre until the drop began. And the mortar crews don't know their business—they're shooting blind."
  Young nodded once, his jaw set. "Good enough."
  He grabbed the German prisoner by the nape of his sheepskin vest and shoved him toward Sapper McIntyre.
  "Lash his wrists behind his back with telephone wire, McIntyre," Young ordered. "Put a paratrooper on each side of him. If he tries to run, shoot him through the legs. The Major wants him on the boat."
  From the southern corner of Villa Gosset, fifty yards away, Major John Frost appeared out of the snow, moving at a fast, low jog. His Sten was tucked under his arm, his copper hunting horn swinging loose against his webbing.
  Frost slid down into the lip of the pit, his eyes sweeping over the stripped frame of the Würzburg.
- The dish was gutted. The dipole boom was gone, wrapped in blankets on the trolley; the receiver box was strapped down to the steel frame; and the operator’s cabin door hung open, its paper contents stuffed into Cox’s smock.
+ The dish was gutted. The dipole boom was gone, wrapped in blankets on the trolley; the receiver box was strapped down to the steel frame; and the operator's cabin door hung open, its paper contents stuffed into Cox's smock.
  Frost checked the luminous dial of his watch.
  It was 01:18.
  "Is the machine stripped, Vernon?" Frost asked, his voice cutting through the whistling wind.
@@ -1280,7 +1280,7 @@
  "Confirmed garrison strength," Newman said. "One hundred men at the farm. They're trying to outflank Naumoff's left as we speak."
  Frost didn't look at the German boy. He looked toward the eastern crossroads, where the sound of German MG 34 fire had suddenly doubled in volume, the distinctive tearing sound chewing through the hedgerows barely two hundred yards away.
  Frost brought his whistle to his lips and blew two sharp blasts - the company signal to peel off the rearguard.
- "That’s our cue," Frost said. "Naumoff is pulling back from the crossroads. We have five minutes before Jerry sweeps this plateau."
+ "That's our cue," Frost said. "Naumoff is pulling back from the crossroads. We have five minutes before Jerry sweeps this plateau."
  He turned and pointed down the dark slope leading toward the sea.
  "Vernon, take your sappers and the trolley. Young, take Jellicoe and cover the flanks. Newman, bring the prisoner. We move to the gully."
 
@@ -1296,7 +1296,7 @@
  With a wet, sucking sound, the trolley lifted out of the drift. Weighted down with sixty pounds of high-tensile steel, the twenty-five-pound cast-aluminum receiver, the three-foot dipole mast, and boxes of delicate valves, the awkward assembly weighed nearly one hundred and fifty pounds. The steel tubing bit through their woollen gloves like bars of ice.
  They moved southwest across the open plateau in a ragged, staggering lurch, their boots plunging knee-deep into the snow with every stride.
  Behind them, the rearguard was falling apart.
- Lieutenant Peter Naumoff’s section Drake was executing a fighting withdrawal from the crossroads, leapfrogging backward through the orchards by sections. The tactical discipline was textbook, but the physical reality was chaos.
+ Lieutenant Peter Naumoff's section Drake was executing a fighting withdrawal from the crossroads, leapfrogging backward through the orchards by sections. The tactical discipline was textbook, but the physical reality was chaos.
  One Bren team would drop into the snow behind an apple tree, empty a five-round burst toward the muzzle flashes along the lane to keep the German skirmishers down, then scramble backward on their bellies through the drifts while the second gun opened fire fifty yards to their rear.
  The German response from Le Presbytère was growing in weight and coordination.
  The 685th Infantry had brought up two heavy MG 34s, setting them on sustained-fire tripods at the farm entrance. The guns did not fire in bursts; they laid down long, sweeping cones of 7.92 mm fire across the white expanse between the farm and the villa, the green tracers clipping through the snowdrifts like glowing scythes.
@@ -1318,7 +1318,7 @@
  Frost turned and ran toward the crest of the cliffs.
  The ground here rose slightly, then dropped away into the jagged, V-shaped throat of the Bruneval gorge—the steep, scrub-choked ravine that led three hundred feet down to the shingle beach.
  Frost pulled up at the lip of the descent, panting hard, his breath freezing in his balaclava.
- He had expected to hear the sharp, distinctive crackle of Ross’s Brens clearing the beach below. He had expected to see white flares arching over the water, signaling that Nelson had breached the concertina wire and silenced the machine guns at Villa Stella Maris.
+ He had expected to hear the sharp, distinctive crackle of Ross's Brens clearing the beach below. He had expected to see white flares arching over the water, signaling that Nelson had breached the concertina wire and silenced the machine guns at Villa Stella Maris.
  Instead, from the pitch-black depths of the gully below, came a continuous, terrifying roar of automatic weapons.
  Frost dropped to his knees at the edge of the chalk precipice and peered down into the darkness.
  Down at the mouth of the gap, where the ravine opened onto the narrow strip of pebbles, the German beach defenses were fully awake, completely intact, and firing with murderous intensity.
@@ -1334,12 +1334,12 @@
  Major John Frost scrambled twenty yards down the steep, slippery path, digging his boot heels into the frozen clay, until he reached the shelf of rock where Captain John Ross lay prone behind a clump of frost-stiffened gorse.
  Below them, the ravine dropped another two hundred feet to the beach.
  The mouth of the gap—barely twenty-two meters wide—was a cauldron of crisscrossing tracers. From the ground-floor embrasures of Villa Stella Maris, a German MG 34 was firing on fixed lines across the path, its green bursts hammering against the chalk walls and showering the gorge with razor-sharp stone splinters. Beside the villa, a low concrete pillbox set into the base of the southern cliff was firing an alternating pattern of 7.92 mm ball ammunition down the high-water line, scouring the shingle.
- Between Ross’s twelve men and the sea lay three successive apron fences of German concertina barbed wire, anchored into the cliff face with heavy angle-iron pickets.
- Ross looked up as Frost slid into the dirt beside him. The Black Watch officer’s face was spattered with chalk dust, his eyes bloodshot from the muzzle flash and the wind.
+ Between Ross's twelve men and the sea lay three successive apron fences of German concertina barbed wire, anchored into the cliff face with heavy angle-iron pickets.
+ Ross looked up as Frost slid into the dirt beside him. The Black Watch officer's face was spattered with chalk dust, his eyes bloodshot from the muzzle flash and the wind.
  "We can't get through, John," Ross said, his voice flat, shouting against the continuous clatter of automatic fire echoing off the gorge walls. "The pillbox has interlocking fire with the house. If a man stands up on this path, he takes a burst through the chest before he takes three paces."
  Frost pulled his binoculars to his eyes, scanning the dark throat of the gully.
  "The wire," Frost said. "Can we blow it?"
- "With what?" Ross asked bitterly. "Charteris’s sappers had the Bangalore torpedoes. I have three Mills bombs per man and half our Sten magazines are empty. If we charge sixty yards down that open shale against two fixed machine guns, we won't even reach the first coil."
+ "With what?" Ross asked bitterly. "Charteris's sappers had the Bangalore torpedoes. I have three Mills bombs per man and half our Sten magazines are empty. If we charge sixty yards down that open shale against two fixed machine guns, we won't even reach the first coil."
  Frost looked back up the path behind him.
  The situation was developing with catastrophic precision into the exact nightmare General Browning had outlined in London - an airborne force backed against a three-hundred-foot precipice, unable to reach the water, with the enemy closing in from behind.
  Seventy yards up the gorge, huddled in a natural fold of the chalk near the lip of the plateau, the rest of the company was stalled.
@@ -1348,8 +1348,8 @@
  CSM Strachan came sliding down the icy descent on his buttocks, using his Sten like an alpenstock to brake his fall. He dropped beside Frost and Ross, breathing heavily.
  "Major," Strachan said, his voice tight. "We have trouble at our backs."
  Frost turned his head. "Report, Sergeant Major."
- "Jerry is into Villa Gosset," Strachan said bluntly. "A platoon of infantry from the farm worked around Timothy's left flank along the cliff path. They’ve occupied the upper floor of the house we just cleared. They’ve set up a machine gun in the master bedroom—the same window where I shot that sentry."
- Frost’s jaw set into an iron line.
+ "Jerry is into Villa Gosset," Strachan said bluntly. "A platoon of infantry from the farm worked around Timothy's left flank along the cliff path. They've occupied the upper floor of the house we just cleared. They've set up a machine gun in the master bedroom—the same window where I shot that sentry."
+ Frost's jaw set into an iron line.
  The trap had sprung shut.
  Down in the gorge, the German garrison at Villa Stella Maris and the beach pillbox held the only exit to the sea.
  Up on the plateau, German infantry from the 685th Regiment had re-occupied the high ground and the stone mansion Frost had abandoned barely ten minutes earlier.
@@ -1358,7 +1358,7 @@
  It was 01:42.
  The naval force under Commander Cook was scheduled to approach the beach between 02:00 and 02:15. If the landing craft hit the shingle while the pillbox and Stella Maris were still firing, the wooden LCAs would be splintered into firewood and the naval crews slaughtered at the wheel. If the landing craft turned back, the dawn would find 'C' Company still clinging to the frozen chalk of Bruneval, surrounded by an entire German division with nowhere left to retreat.
  Crack-thud.
- A rifle bullet fired from the upper windows of Villa Gosset high above them smacked into the chalk three inches from Frost’s right elbow, showering his sleeve with white powder.
+ A rifle bullet fired from the upper windows of Villa Gosset high above them smacked into the chalk three inches from Frost's right elbow, showering his sleeve with white powder.
  Frost didn't flinch. He looked up at the silhouette of the mansion, three hundred yards away against the moonlit sky, where yellow muzzle flashes were already winking from the second-storey windows.
  "Timothy's section can't hold them off from the open scrub," Frost said, his voice dropping into a register of cold, absolute resolve. "If Jerry brings a heavy machine gun to bear on the mouth of this ravine, they will shoot us like sheep in a pen."
  Ross looked at him. "What are you going to do, John?"
@@ -1377,22 +1377,22 @@
  The fire was high and erratic in the dark, but the volume was dangerous. Slugs cracked through the freezing air four feet off the ground, smacking into the chalk lip of the gorge behind them.
  Crack-thud.
  Private Alan Scott, who had been bringing up the rear of the file carrying an extra Bren magazine satchel, was struck in the chest. He collapsed into a snowdrift thirty yards from the lip of the gorge, gasping into the powder, the wool of his jump jacket turning dark. Two paratroopers dragged him by his webbing beneath the dead ground of an earthen bank, where a medical orderly ripped open a field dressing and pressed it into the wound. Scott was conscious, his eyes wide and glassy, his breathing shallow and wet.
- Frost reached a low depression sixty yards from the villa’s perimeter wall.
+ Frost reached a low depression sixty yards from the villa's perimeter wall.
  "Strachan," Frost panted, his chest burning from the climb. "Timothy's Bren. Bring it up on the left."
  They did not attempt to storm the house a second time. Frost had no intention of sending men with half-empty magazines into a dark building. Instead, he organized a concentrated, horizontal sweep of small-arms fire across the garden wall and the shadows around the scullery door.
- Timothy’s Bren gunner crawled onto a low hummock and fired three short, controlled bursts into the positions along the wall. The .303 rounds pulverized the top stones, scattering chalk and frozen dirt. Frost and four riflemen added single, aimed shots into the muzzle flashes flickering near the outbuildings.
+ Timothy's Bren gunner crawled onto a low hummock and fired three short, controlled bursts into the positions along the wall. The .303 rounds pulverized the top stones, scattering chalk and frozen dirt. Frost and four riflemen added single, aimed shots into the muzzle flashes flickering near the outbuildings.
  The effect was immediate.
- The German infantrymen on the plateau were an uncoordinated group of skirmishers, uncertain of the raiders’ numbers in the dark. Faced with aggressive, disciplined fire from an enemy they assumed had already fled down the cliffs, the German riflemen broke cover, abandoned the garden wall, and withdrew across the snowfields toward the safety of the orchard lines near Le Presbytère.
+ The German infantrymen on the plateau were an uncoordinated group of skirmishers, uncertain of the raiders' numbers in the dark. Faced with aggressive, disciplined fire from an enemy they assumed had already fled down the cliffs, the German riflemen broke cover, abandoned the garden wall, and withdrew across the snowfields toward the safety of the orchard lines near Le Presbytère.
  The clifftop fell into a tense, temporary silence.
  Frost did not pursue them. He checked his watch by the moonlight - 01:54.
  The plateau was clear for the moment, but the respite was razor-thin. His men were nearly out of ammunition, and German reinforcements inland were assembling in force.
  Frost raised his hand, signaling the withdrawal back down into the ravine to join Ross.
  Just as the men turned their boots toward the descent, a violent detonation echoed up from the dark throat of the gully below.
- It was followed immediately by the rapid, frantic clatter of automatic weapons and shouted commands at the water's edge. Charteris’s missing detachment had finally arrived from the south, hitting the German beach defenses in the flank.
+ It was followed immediately by the rapid, frantic clatter of automatic weapons and shouted commands at the water's edge. Charteris's missing detachment had finally arrived from the south, hitting the German beach defenses in the flank.
 
  Chapter Twenty-Nine
  Assault on the Beach Defenses
- The forty-five-minute march from Saint-Jouin had drained Lieutenant Euan Charteris’s twenty men to the marrow.
+ The forty-five-minute march from Saint-Jouin had drained Lieutenant Euan Charteris's twenty men to the marrow.
  They had not marched on roads; they had broken their own trail through unbroken snowdrifts, over sunken hedgerows, and through frozen apple orchards, each man carrying seventy pounds of battle gear. Their woollen uniforms were drenched in sweat that had begun to ice over under their jump jackets. Lungs burned with cold air; legs cramped with every stride through the knee-deep powder.
  At 01:50, Charteris brought his file to a halt on the snow-covered crest of the southern spur overlooking the Bruneval cove.
  Down in the dark throat of the ravine, the tactical situation was laid bare.
@@ -1424,7 +1424,7 @@
  "Charteris," Ross said, catching his breath. "You took your time."
  "Two miles through Saint-Jouin, sir," Charteris replied, his chest heaving, wiping a smear of blood and chalk from his cheek. "The pilots overshot."
  Ross looked at the shattered pillbox, the silent villa, and the open path leading down to the water.
- "The beach is clear," Ross said. "Get your men across the gap to cover the gully. I’ll signal Frost to bring down the company and the gear."
+ "The beach is clear," Ross said. "Get your men across the gap to cover the gully. I'll signal Frost to bring down the company and the gear."
 
  Chapter Thirty
  Red Flares on Shingle
@@ -1436,10 +1436,10 @@
  Frost stood at the water's edge, his jump boots sinking into the wet stones.
  The cove was an amphitheater of chalk and shadow, barely twenty-five yards wide. On either flank, the cliffs rose three hundred feet straight up into the moonlight—smooth, vertical precipices of bleached stone that curved around the beach like the jaws of a vise.
  Before them, stretching away into the freezing dark, was the English Channel.
- The tide was rising fast, throwing heavy, cold swells onto the shelf of flint with a continuous, rhythmic roar that drowned out normal speech - CRASH-hiss... CRASH-hiss. Salt spray blew off the breakers, coating the men’s soot-blackened faces in a freezing crust of brine.
+ The tide was rising fast, throwing heavy, cold swells onto the shelf of flint with a continuous, rhythmic roar that drowned out normal speech - CRASH-hiss... CRASH-hiss. Salt spray blew off the breakers, coating the men's soot-blackened faces in a freezing crust of brine.
  "Sergeant Major!" Frost shouted against the thunder of the sea. "Set the perimeter! Face the gully!"
  CSM Strachan deployed the eighty paratroopers in a tight, semicircular defensive arc across the stones.
- Lieutenant Timothy’s Rodney took the left flank; Naumoff’s Drake took the center, covering the mouth of the ravine; Charteris’s Highland stick took the right. They dropped onto their bellies into the loose pebbles, planting their Bren bipods into the shifting shingle, racking their Stens forward.
+ Lieutenant Timothy's Rodney took the left flank; Naumoff's Drake took the center, covering the mouth of the ravine; Charteris's Highland stick took the right. They dropped onto their bellies into the loose pebbles, planting their Bren bipods into the shifting shingle, racking their Stens forward.
  Behind the central shingle bank, the medical corporal had laid out the wounded.
  Private Alan Scott lay on a sodden groundsheet, his face grey, his breath a faint, bubbling wheeze, the field dressing on his shredded shoulder soaked through with dark, freezing blood. Beside him lay two other paratroopers with flesh wounds from mortar fragments. In the lee of the hand-trolley, Private Peter Newman sat on the stones, a cocked Sten across his knees, watching the two shivering German prisoners who lay face-down in the pebbles with their wrists lashed behind their backs.
  Frost knelt beside the company signals corporal, who was hunched over the metal case of the Type 18 wireless set.
@@ -1457,14 +1457,14 @@
  Silence returned, broken only by the crashing breakers.
  Frost lowered the pistol, his eyes straining into the blackness of the water.
  There was nothing. No silhouettes of landing craft. No distant rumble of Ford V8 marine engines. No flashing recognition lamps. Only three miles of empty, pitch-black water stretching toward England.
- "Nothing, sir," Ross said, standing at Frost’s shoulder, his Sten held low. "They aren't there."
+ "Nothing, sir," Ross said, standing at Frost's shoulder, his Sten held low. "They aren't there."
  Frost loaded a second red cartridge into the Webley and fired again.
  THUMP.
  The second star-shell illuminated the black water. Again, the sea was completely, terrifyingly barren.
  High above them, from the northern and southern clifftops three hundred feet over the cove, the German reaction began.
  The reserve garrison from Le Presbytère, having secured the burning shell of Villa Gosset, had reached the cliff edges overlooking the beach. Through the darkness, German shouts echoed down the chalk walls.
  Crack-thud.
- A rifle bullet smacked into the pebbles four feet from the hand-trolley, sending sharp stone chips flying into Cox’s shoulder.
+ A rifle bullet smacked into the pebbles four feet from the hand-trolley, sending sharp stone chips flying into Cox's shoulder.
  Then came the distinctive, hollow cough of a light mortar firing from the heights:
  Thunk.
  "Mortar!" Strachan roared. "Down!"
@@ -1507,7 +1507,7 @@
  The German garrison on the heights saw them coming.
  Alerted by the engine noise echoing off the water, German infantry along the northern and southern clifftops brought their machine guns to bear on the sea. Long, descending strings of green 7.92 mm tracers reached out from the 300-foot precipice, plunging into the water around the advancing landing craft, throwing up tiny plumes of white spray.
  Pung-pung-pung-pung.
- Two hundred yards to Cook’s seaward quarter, the escorting Motor Gun Boats went into action.
+ Two hundred yards to Cook's seaward quarter, the escorting Motor Gun Boats went into action.
  Lieutenant-Commander Goulding brought his MGBs parallel to the cliffs, elevating their forward two-pounder Pom-pom guns and twin power-operated turrets toward the heights.
  The heavy automatic cannons opened up with a deep, rhythmic hammering that shook the water - thump-thump-thump-thump.
  High-explosive two-pounder shells screamed upward into the night, bursting along the chalk lip in violent flashes of orange flame and pulverized white dust. The naval gunfire was not precision shooting; it was area suppression, driving the German riflemen and mortar crews back from the cliff edges and blinding them with smoke.
@@ -1524,9 +1524,9 @@
  Commander Cook stood on the forward coaming of the lead craft, his sea boots buried in three feet of foaming brine, roaring through a brass megaphone:
  "Army! Get aboard! Ramps are down! Move! Move!"
  Major John Frost stood at the water's edge, his boots sinking into the wet stones.
- "Vernon! Cox!" Frost’s voice cut through the gunfire. "Equipment first! Get the apparatus into the lead boat!"
+ "Vernon! Cox!" Frost's voice cut through the gunfire. "Equipment first! Get the apparatus into the lead boat!"
  Captain Denis Vernon, Sapper McIntyre, and Corporal Evans hauled the tubular hand-trolley down the final shelf of shingle, sliding through wet seaweed and shifting stones.
- As they hit the breaker line, a wave broke over McIntyre’s waist, knocking him to his knees. The heavy cart tilted dangerously, the lashed canvas sacks slipping toward the foaming water.
+ As they hit the breaker line, a wave broke over McIntyre's waist, knocking him to his knees. The heavy cart tilted dangerously, the lashed canvas sacks slipping toward the foaming water.
  Flight Sergeant Charles Cox plunged into the surf up to his chest.
  The shock of the sub-zero Channel sea tore the breath from his throat in a sharp, agonized gasp. The icy water surged through his jump smock, soaking the German manuals and calibration sheets wedged against his ribs. Cox threw his entire body across the frame of the trolley, wrapping his arms around the twenty-five-pound cast-aluminum receiver chassis, his bare, bleeding fingers clawing into the canvas strapping.
  "Lift the front!" Cox screamed against the roar of the sea. "Don't let the salt hit the valves!"
@@ -1541,9 +1541,9 @@
  The blast on the loose flints was lethal. Shards of pulverized stone sprayed across the beach.
  Near the mouth of the gully, Private Alan Scott—who had been carried down from the plateau after being shot through the chest during the rearguard fight—lay behind a low bank of stones with the medical corporal.
  A mortar fragment struck Scott where he lay, tearing through his torso.
- The medical corporal leaned over him, his fingers searching for a pulse in the freezing spray. Scott’s head fell back against the pebbles; his eyes fixed on the moonlit sky, his breathing stopped entirely.
+ The medical corporal leaned over him, his fingers searching for a pulse in the freezing spray. Scott's head fell back against the pebbles; his eyes fixed on the moonlit sky, his breathing stopped entirely.
  The corporal looked up at Frost, who had run back to the shingle bank.
- "He’s gone, sir," the corporal gasped, his hands slick with cold blood. "Scott is dead."
+ "He's gone, sir," the corporal gasped, his hands slick with cold blood. "Scott is dead."
  Frost looked down at the dead soldier, then at the waterline.
  There was no time for sentiment, and no room on the tossing craft for corpses. With mortar rounds bracketing the cove, every second spent attempting to haul a dead man through the surf was a second that risked the lives of the wounded and the loss of the boats.
  "Leave him," Frost ordered, his voice hard as iron. "Get to the boats. Move!"
@@ -1552,7 +1552,7 @@
  "Fall back!" Frost shouted down the line. "All sections! Embark!"
  The paratroopers broke contact, sprinting down the shingle in small groups, plunging into the surf, scrambling up the wet ramps of the tossing craft.
  The loading was a desperate, uncoordinated scramble. Men weighed down with soaked woolen uniforms were pulled over the armored sides by their collars, tumbling into heaps on the floorboards, their weapons clattering across the bilge.
- In the dark and the crashing confusion of the surf, the company’s cohesion broke.
+ In the dark and the crashing confusion of the surf, the company's cohesion broke.
  Fifty yards up the gully, hidden in the pitch-black shadows of the chalk boulders, six men of 'C' Company—separated during the withdrawal from Villa Gosset or pinned down by mortar bursts in the gully—did not reach the waterline. In the roar of the sea, the thunder of naval machine guns, and the dark mist, their absence went unnoticed.
  Commander Cook leaned over the steering coaming, looking at the water level against his hull.
  "Major Frost!" Cook bellowed through his megaphone. "The tide is dropping us onto the rocks! We have thirty seconds before the screws foul! Get aboard or I must back off!"
@@ -1578,7 +1578,7 @@
  One by one, the six Assault Landing Craft came alongside, their engines idling in plumes of white diesel smoke.
  The paratroopers were so thoroughly numbed by the sub-zero sea that few could climb the nets unassisted. Royal Navy ratings leaned out from the lower sponsons, hooking their arms beneath the soldiers' shoulders, hauling them bodily out of the pitching well-decks and dumping them onto the iron companionways like sacks of wet coal.
  The tubular hand-trolley was hoisted aboard first, hooked to a cargo whip and swung over the rail with frantic care, followed immediately by Flight Sergeant Charles Cox, who refused to let go of the canvas holdall until his boots touched the wooden decking of the mess hall.
- Down in the ship’s troop deck, the warmth was suffocating.
+ Down in the ship's troop deck, the warmth was suffocating.
  The space smelled overpoweringly of steam heaters, carbolic soap, stale navy tobacco, and the thick, greasy stench of sodden wool slowly baking dry against hot radiator pipes. Paratroopers sat slumped on long mess benches, their blackened faces streaked with white salt-tracks where sweat and spray had dried. They stripped off their waterlogged smocks with trembling hands, their fingers swollen, their skin dead-white and wrinkled from the sea.
  A naval steward moved down the tables, pouring steaming measures of navy rum into chipped enamel mugs from a brown stoneware jar stamped S.R.D.—Service Rum Diluted.
  The fiery, dark spirit cut through the bone-deep chill, burning the men's throats and bringing tears to their bloodshot eyes.
@@ -1594,24 +1594,24 @@
  "And the rest?" Frost asked.
  "Six wounded in the sickbay, sir," Strachan continued.
  He hesitated, his thumb tightening against the paper.
- "And six missing, sir. Six men unaccounted for. Two from Captain Ross's stick, three from Rodney, and one of Charteris’s sappers. They were cut off in the gully or lost the path in the dark during the descent. They didn't make the ramps."
+ "And six missing, sir. Six men unaccounted for. Two from Captain Ross's stick, three from Rodney, and one of Charteris's sappers. They were cut off in the gully or lost the path in the dark during the descent. They didn't make the ramps."
  Frost leaned his shoulder against the steel bulkhead.
  Six men alive in occupied France, out of ammunition, trapped against the cliffs.
  At dawn, when the Wehrmacht sealed the Bruneval perimeter with armor and search dogs, those six paratroopers would be hunted down through the snowdrifts. They were entirely alone, facing the cells of the Abwehr in Rouen and years in a German prison camp.
  "Did Newman get anything from the prisoners?" Frost asked, lifting his head.
- "They're locked in the paint store under armed guard," Strachan said. "Newman says the Luftwaffe boy is still weeping, but he’s talking. Confirmed the unit, the sector, and the frequency."
+ "They're locked in the paint store under armed guard," Strachan said. "Newman says the Luftwaffe boy is still weeping, but he's talking. Confirmed the unit, the sector, and the frequency."
  Frost turned and walked down the companionway to the forward mess deck.
  In the corner, sitting on an iron locker beneath a ventilator duct, Flight Sergeant Charles Cox was having his hands bandaged by a sickbay attendant. The skin of his knuckles had been ground down to the raw meat by the cold steel of the Hazet spanners; white lint and zinc ointment covered his bleeding fingers.
  Between Cox's stockinged feet rested the canvas holdall.
  Captain Denis Vernon was kneeling on the deck beside him, carefully unlacing the hemp cord around the neck of the sack.
  Vernon pulled back the coarse canvas.
- Lying inside, resting on a bed of dry ship’s towels, was the heart of Henry.
+ Lying inside, resting on a bed of dry ship's towels, was the heart of Henry.
  The cast-aluminum receiver casing was scratched, dented, and caked in frozen Normandy clay, its severed copper cables curling out of the chassis like stiff wire whiskers. Beside it lay the three-foot aluminum boom of the dipole feed, its delicate crossbar intact, completely unbent. Wedged into the bottom of the sack was the black oilcloth station logbook, its pages damp with seawater along the margins, but its penciled German frequency tables completely legible.
  Vernon looked up at Frost, his soot-streaked face splitting into a tired, crooked grin.
  "Not pretty, John," Vernon said softly. "The mounting studs are sheared off and the paint is ruined. But the local oscillator valve is unbroken. The circuits are intact."
  Cox looked up from his bandaged hands, his face pale, his blue RAF scarf still knotted tight around his throat.
  "I didn't break the glass, Major," Cox whispered, his voice cracking with exhaustion. "I kept the spanner off the valves."
- Frost stepped forward, reached down, and laid a heavy, calloused hand on the young mechanic’s shoulder.
+ Frost stepped forward, reached down, and laid a heavy, calloused hand on the young mechanic's shoulder.
  "You did your job, Cox," Frost said, his voice carrying the deep, unvarnished authority of a commander who had seen his men do the impossible. "You did your job well."
 
  At 08:30 on the morning of 28 February 1942, HMS Prince Albert slipped past the Nab Tower and entered the smooth, grey waters of Spithead.
@@ -1631,9 +1631,9 @@
  Laboratory Hut 4 at Worth Matravers was lit by the harsh, white glare of three adjustable Anglepoise lamps clamped to a long deal workbench.
  The room smelled of stale tobacco, hot resin, solder flux, and the sharp, alkaline tang of dried sea salt. Outside, across the Purbeck headland, the wind whistled through the steel lattice of the experimental Chain Home towers, but inside the hut, five men stood in complete silence around the bench.
  Resting on two clean army blankets was the wreckage of Henry.
- The cast-aluminum receiver casing had dried, leaving a pale, crusty patina of French chalk and dried Channel brine in every casting pit and machine groove. The severed conduits—chopped through by Sapper McIntyre’s fire axe—stuck out from the rear like stiff copper bristles, the multi-colored rubber insulation frayed and black with cordite soot. Beside the main chassis lay the three-foot aluminum boom of the dipole aerial, its crossbar wiped clean of frost, propped carefully on wooden blocks.
+ The cast-aluminum receiver casing had dried, leaving a pale, crusty patina of French chalk and dried Channel brine in every casting pit and machine groove. The severed conduits—chopped through by Sapper McIntyre's fire axe—stuck out from the rear like stiff copper bristles, the multi-colored rubber insulation frayed and black with cordite soot. Beside the main chassis lay the three-foot aluminum boom of the dipole aerial, its crossbar wiped clean of frost, propped carefully on wooden blocks.
  Dr. R.V. Jones stood over the bench with his jacket off, his shirtsleeves rolled to his forearms, a jeweler's loupe pressed into the socket of his right eye.
- Beside him, Don Preist was using an insulated brass screwdriver to loosen the four slotted screws holding the protective cover of the local oscillator compartment. Preist had returned from the Channel on one of Goulding’s Motor Gun Boats, his eyes bloodshot, his cable-knit sweater still damp with diesel spray.
+ Beside him, Don Preist was using an insulated brass screwdriver to loosen the four slotted screws holding the protective cover of the local oscillator compartment. Preist had returned from the Channel on one of Goulding's Motor Gun Boats, his eyes bloodshot, his cable-knit sweater still damp with diesel spray.
  "Careful with the flange, Don," Jones murmured. "If they've sealed the rim with varnish, don't force it."
  Preist eased the brass blade beneath the lid.
  With a soft, dry pop, the seal broke.
@@ -1642,8 +1642,8 @@
  It was a masterpiece of industrial design. Unlike the experimental, hand-wired British sets developed at Swanage—which often looked like a chaotic web of wire, bakelite, and soldered joints crammed into a bread tin—the Telefunken chassis was modular, standardized, and cast with microscopic precision. Every component was seated in its own milled screening compartment to prevent high-frequency interference.
  In the center of the cavity sat the local oscillator - a Telefunken LS180 ceramic triode valve, its glass envelope entirely unbroken, nestled within a silver-plated concentric resonator.
  Jones leaned down, his loupe three inches from the valve. He exhaled a long breath through his nostrils.
- "Look at the ceramic seal," Jones whispered, his voice tinged with professional admiration. "They aren't using conventional glass-to-metal pin seals. It’s a disc-seal triode. Low inter-electrode capacitance. That valve was designed from the ground up for frequencies above five hundred megacycles."
- Preist pointed the tip of his screwdriver at the tuning spindle. "What’s the range of the cavity, R.V.?"
+ "Look at the ceramic seal," Jones whispered, his voice tinged with professional admiration. "They aren't using conventional glass-to-metal pin seals. It's a disc-seal triode. Low inter-electrode capacitance. That valve was designed from the ground up for frequencies above five hundred megacycles."
+ Preist pointed the tip of his screwdriver at the tuning spindle. "What's the range of the cavity, R.V.?"
  Jones straightened up, took the loupe from his eye, and pulled the damp German logbook from the corner of the bench.
  The pages had buckled as the salt water evaporated, but the neat, black-ink script of the Luftwaffe radar mechanics at Villa Gosset remained entirely legible. Column after column of daily calibration readings - Frequenz - 569.8 MHz... 570.2 MHz... 570.0 MHz.
  "Five hundred and seventy megacycles," Jones said. "Fifty-three centimeters. Exactly as Smallwood heard it from Kingsdown."
@@ -1663,9 +1663,9 @@
  "Window," Preist said softly.
  "Window," Jones affirmed.
  He picked up one of the strips between his thumb and forefinger, letting it flutter in the draft from the laboratory window.
- "If an aircraft drops a bundle of these foil strips into the sky, each strip will act as a miniature half-wave resonator," Jones explained. "When the Würzburg’s fifty-three-centimeter pulse strikes the foil, the aluminium re-radiates the signal with maximum efficiency. A single packet containing two thousand strips weighs less than a pound—yet to the German radar screen, it creates an echo as large as a four-engine Lancaster."
+ "If an aircraft drops a bundle of these foil strips into the sky, each strip will act as a miniature half-wave resonator," Jones explained. "When the Würzburg's fifty-three-centimeter pulse strikes the foil, the aluminium re-radiates the signal with maximum efficiency. A single packet containing two thousand strips weighs less than a pound—yet to the German radar screen, it creates an echo as large as a four-engine Lancaster."
  Jones pointed at the open receiver chassis on the bench.
- "And because the Würzburg cannot change its frequency, they cannot tune it out. If Bomber Command drops bundles of these strips along their flight paths, the German operator’s cathode-ray screen will not show individual bombers. It will be completely smothered in an impenetrable blizzard of false returns. The night-fighter controllers in their bunkers will be entirely blind. Their fire-control predictors will lock onto drifting clouds of tin foil while our bombers pass directly overhead untouched."
+ "And because the Würzburg cannot change its frequency, they cannot tune it out. If Bomber Command drops bundles of these strips along their flight paths, the German operator's cathode-ray screen will not show individual bombers. It will be completely smothered in an impenetrable blizzard of false returns. The night-fighter controllers in their bunkers will be entirely blind. Their fire-control predictors will lock onto drifting clouds of tin foil while our bombers pass directly overhead untouched."
  Rowe stared at the strip of foil.
  "How many bombers will this save, R.V.?"
  "In a heavy raid on the Ruhr?" Jones said quietly. "Dozens per night. Hundreds across a campaign. It will break the Kammhuber Line in an hour."
@@ -1682,7 +1682,7 @@
  Chapter Thirty-Five
  The Execution Wall
  The German High Command received the report from Normandy with a mixture of disbelief and cold, bureaucratic fury.
- At the Wolfsschanze in East Prussia, Adolf Hitler was presented with the Wehrmacht investigation into the loss of Stützpunkt Theuville. The humiliation was total - an elite British airborne raiding party had dropped behind the Atlantic Wall, neutralised the guard post, systematically stripped the Reich’s most closely guarded radar installation with spanners and sledgehammers under the guns of a hundred-man garrison, and evacuated by sea with two prisoners of war.
+ At the Wolfsschanze in East Prussia, Adolf Hitler was presented with the Wehrmacht investigation into the loss of Stützpunkt Theuville. The humiliation was total - an elite British airborne raiding party had dropped behind the Atlantic Wall, neutralised the guard post, systematically stripped the Reich's most closely guarded radar installation with spanners and sledgehammers under the guns of a hundred-man garrison, and evacuated by sea with two prisoners of war.
  Hitler issued an immediate, personal Führerbefehl.
  Every radar installation along the Channel and Atlantic coasts was to be fortified without delay. Concrete bunkers, deep minefields, anti-tank ditches, and dense belts of concertina wire were thrown around every Würzburg and Freya site from northern Norway to the Spanish border.
  The German command did not realize that in their frantic effort to protect their machines, they had delivered an extraordinary gift to British scientific intelligence.
@@ -1698,7 +1698,7 @@
  The two British dead—Private Alan Scott and Rifleman Hugh McIntyre—remained in France.
  They were buried by the Germans with full military honours side by side in Cimetière Sainte-Marie in Le Havre. There they rested beneath simple wooden crosses, two Scottish soldiers lying in Norman soil three thousand yards from the sea they had crossed in the dark.
 
- The heaviest butcher’s bill was not paid on the shingle, nor in the air over the Channel. It was paid in the dark streets of occupied France.
+ The heaviest butcher's bill was not paid on the shingle, nor in the air over the Channel. It was paid in the dark streets of occupied France.
  In the wake of the Bruneval raid, the Abwehr and the Gestapo unleashed an unrelenting counter-espionage dragnet across the Seine-Inférieure and Paris. The Germans knew that a British raiding force could not have dropped with such surgical precision without detailed, local intelligence.
  For months, the Confrérie Notre-Dame continued its dangerous work. Gilbert Renault—"Colonel Rémy"—managed to evacuate his wife and children to England aboard a clandestine fishing lugger, narrowly escaping the Gestapo net. Charles Chauveau, the garage mechanic from Saint-Jouin whose paces had measured the distance to the radar pit, survived through careful evasion and the steadfast silence of his neighbors.
  Roger Dumont—"Pol"—did not escape.

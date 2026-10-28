@@ -170,7 +170,7 @@ NARRATOR
 The casualty ledger was laid out with clinical precision. It would require only twelve men - two officers, two non-commissioned officers, and eight marines.
 
 NARRATOR
-If all six canoes were lost after placing their charges, the sacrifice of twelve men would balance the destruction of up to four capital blockade runners and tens of thousands of tons of irreplaceable war materiel. It was, in Hasler’s words, an operation of maximum economy.
+If all six canoes were lost after placing their charges, the sacrifice of twelve men would balance the destruction of up to four capital blockade runners and tens of thousands of tons of irreplaceable war materiel. It was, in Hasler's words, an operation of maximum economy.
 
 NARRATOR
 In late April, Hasler submitted the paper through official Combined Operations channels.
@@ -179,7 +179,7 @@ NARRATOR
 It passed through the hands of conventional staff planners who regarded the notion of attacking an armed port sixty miles up a defended river in canvas canoes as military absurdity. But it did not stall. It landed on the desk of the Chief of Combined Operations, Commodore Lord Louis Mountbatten.
 
 NARRATOR
-Mountbatten was an unorthodox commander whose mandate from Churchill was to disrupt the German-held perimeter of Europe through asymmetric raids. He read Hasler’s memorandum, assessed the navigation tables, and saw the strategic arithmetic clearly.
+Mountbatten was an unorthodox commander whose mandate from Churchill was to disrupt the German-held perimeter of Europe through asymmetric raids. He read Hasler's memorandum, assessed the navigation tables, and saw the strategic arithmetic clearly.
 
 NARRATOR
 The paper was formally approved. The directive came back down the chain of command - Major Hasler was authorised to establish an experimental detachment, select twelve volunteers from the Royal Marines, requisition equipment, and report to Combined Operations when sea trials were complete.
@@ -212,10 +212,10 @@ NARRATOR
 The fort was cold, damp, and defensible from prying eyes. Its granite-faced casemates were built into an earth rampart overlooking the eastern approaches to the Solent. The gun embrasures were shuttered, the vaulted brick magazines smelled of wet lime and coal dust, and the only landward access was through a single narrow gate guarded by Royal Marines police.
 
 NARRATOR
-Hasler brought in Lieutenant John Mackinnon as his second-in-command. Mackinnon, twenty-one years old, was a Scots officer—reserved, physically robust, and possessing an even, methodical temperament that matched Hasler’s own.
+Hasler brought in Lieutenant John Mackinnon as his second-in-command. Mackinnon, twenty-one years old, was a Scots officer—reserved, physically robust, and possessing an even, methodical temperament that matched Hasler's own.
 
 NARRATOR
-The detachment’s personnel were drawn from a general Admiralty circular circulated to Royal Marines divisions at Chatham, Plymouth, and Portsmouth, requesting volunteers for "hazardous service of an unspecified nature."
+The detachment's personnel were drawn from a general Admiralty circular circulated to Royal Marines divisions at Chatham, Plymouth, and Portsmouth, requesting volunteers for "hazardous service of an unspecified nature."
 
 NARRATOR
 Hundreds applied. Hasler and Mackinnon vetted the service records in a small whitewashed room inside the fort's main casemate, cutting down the list through a process of negative selection.
@@ -431,10 +431,10 @@ He held up a six-foot jointed wooden rod with a spring-loaded brass claw at the 
 
 HASLER
 (demonstrating the motion)
-A loaded canoe sits low. You cannot lean over the gunwale to push the mine against the steel plating without capsizing your boat. You mount the limpet to the claw of this stick. You ease alongside the target. The bow man secures the canoe to the ship’s hull using this.
+A loaded canoe sits low. You cannot lean over the gunwale to push the mine against the steel plating without capsizing your boat. You mount the limpet to the claw of this stick. You ease alongside the target. The bow man secures the canoe to the ship's hull using this.
 
 NARRATOR
-He held up an ordinary plumber’s rubber suction cup, fitted with a short lanyard.
+He held up an ordinary plumber's rubber suction cup, fitted with a short lanyard.
 
 HASLER
 You moisten the rubber, press it against the hull plates, and hold the canoe firmly in place with one hand. With the other, you lower the placing stick into the water. The magnets take hold with forty pounds of magnetic pull. You pull a pin on the chemical delay fuse, twist the stick to release the claw, and back away. Silently.
@@ -475,14 +475,14 @@ NARRATOR
 Catch. Pull. Twist. Feather.
 
 NARRATOR
-The double-bladed ash paddle sliced the freezing surface of the Solent, entered the chop without a splash, levered seventy pounds of resistance against the shoulders, and lifted clear. A single bead of icy brine dropped from the rubber ring onto Bill Sparks’s canvas apron.
+The double-bladed ash paddle sliced the freezing surface of the Solent, entered the chop without a splash, levered seventy pounds of resistance against the shoulders, and lifted clear. A single bead of icy brine dropped from the rubber ring onto Bill Sparks's canvas apron.
 
 NARRATOR
 Tink.
 
 HASLER
 (from the stern, entirely devoid of emotion)
-You’re clicking the coaming, Sparks. Keep the shaft flat on the recovery. If I can hear that blade touch the timber from two feet away, a German sentry on a jetty will hear it from three hundred yards.
+You're clicking the coaming, Sparks. Keep the shaft flat on the recovery. If I can hear that blade touch the timber from two feet away, a German sentry on a jetty will hear it from three hundred yards.
 
 SPARKS
 (whispering)
@@ -495,7 +495,7 @@ NARRATOR
 It was three in the morning. They had been on the water since dusk, paddling in a great, punishing loop from Southsea shingle, out across the tide rip to the Isle of Wight, up into the black throat of the Beaulieu River, and back across the shipping lanes. Eleven hours without leaving the canvas cockpits.
 
 NARRATOR
-Sparks’s hands were no longer hands. They were clawed lumps of raw meat. The friction of the wooden shaft had raised blister upon blister across his palms; the salt spray had torn them open, weeping clear fluid that glued his flesh to the ash loom. When he uncurled his fingers at the end of a run, the skin tore anew with a sound like ripping paper.
+Sparks's hands were no longer hands. They were clawed lumps of raw meat. The friction of the wooden shaft had raised blister upon blister across his palms; the salt spray had torn them open, weeping clear fluid that glued his flesh to the ash loom. When he uncurled his fingers at the end of a run, the skin tore anew with a sound like ripping paper.
 
 NARRATOR
 Around them, the four other Cockles moved like shadows through the swell.
@@ -558,13 +558,13 @@ NARRATOR
 At midday, the deep thrum of aircraft engines rolled across the coast. An RAF spotter plane, tasked by Combined Operations to locate the detachment, banked low over the harbour. The aircraft circled three times at five hundred feet, its shadow sweeping across the mudbanks.
 
 NARRATOR
-Beneant the netting, Sparks felt an itch on his jaw that felt like a hot needle. He did not touch it. Beside him, Hasler’s body was as rigid as stone.
+Beneant the netting, Sparks felt an itch on his jaw that felt like a hot needle. He did not touch it. Beside him, Hasler's body was as rigid as stone.
 
 NARRATOR
 Twenty minutes later, a naval patrol launch chugged slowly up the winding tidal creek, its twin diesels thudding in the cold air. The launch passed within twenty yards of Catfish. An officer on the bridge swept the bank with binoculars, looking straight through the cluster of reeds where two tons of men and explosives lay concealed.
 
 NARRATOR
-The launch’s wash rippled the reeds, slapping against the side of the camouflaged hull.
+The launch's wash rippled the reeds, slapping against the side of the camouflaged hull.
 
 NARRATOR
 The boat did not stop. It chugged steadily out toward the channel.
@@ -598,10 +598,10 @@ NARRATOR
 In the autumn of 1942, British intelligence on the port of Bordeaux was divided between two organisations that operated in near-total isolation from one another.
 
 NARRATOR
-At 64 Baker Street, headquarters of the Special Operations Executive’s French Section, Colonel Maurice Buckmaster was receiving encrypted wireless transmissions from south-western France. The signals originated from Claude de Baissac, a Mauritian-born operative code-named "David," who had parachuted into France in July to establish the "Scientist" network.
+At 64 Baker Street, headquarters of the Special Operations Executive's French Section, Colonel Maurice Buckmaster was receiving encrypted wireless transmissions from south-western France. The signals originated from Claude de Baissac, a Mauritian-born operative code-named "David," who had parachuted into France in July to establish the "Scientist" network.
 
 NARRATOR
-De Baissac’s mission was industrial and infrastructural sabotage across the Gironde and Landes regions. He had based himself in Bordeaux, where he had methodically penetrated the commercial perimeter of the port.
+De Baissac's mission was industrial and infrastructural sabotage across the Gironde and Landes regions. He had based himself in Bordeaux, where he had methodically penetrated the commercial perimeter of the port.
 
 NARRATOR
 Through local contacts, de Baissac had recruited key French personnel inside the Bassens docks - crane operators, customs clerks, and dockers who had daily, unhindered access to the deep-water berths. By late October, Scientist had established a working sabotage cell with access to the German blockade runners discharging raw rubber and vegetable oils from the Far East. De Baissac reported to London that his French dockers were prepared to smuggle plastic explosives directly into the holds and engine spaces of the ships.
@@ -613,7 +613,7 @@ NARRATOR
 His reports to Baker Street were clear - the sabotage of the Axis merchant vessels could be executed from within, dressed as industrial accidents or structural failures, which would minimise the risk of violent collective reprisals against the French dock population.
 
 NARRATOR
-Two miles away, inside the Admiralty and at Combined Operations Headquarters, de Baissac’s signals were unknown.
+Two miles away, inside the Admiralty and at Combined Operations Headquarters, de Baissac's signals were unknown.
 
 NARRATOR
 The division between the regular military apparatus and the Special Operations Executive was institutional and severe. The Admiralty viewed the SOE—established under the Ministry of Economic Warfare—as an unvetted civilian outfit whose operations lacked naval discipline and whose security was chronically porous. In turn, Combined Operations guarded its own operations with strict naval secrecy.
@@ -625,13 +625,13 @@ NARRATOR
 No notification was forwarded to Baker Street. No intelligence was requested from Section F regarding conditions on the Bassens quays, the disposition of French security guards, or the presence of British agents in the city.
 
 NARRATOR
-The Admiralty’s operational planning assumed the port of Bordeaux was a closed enemy target, devoid of friendly assets. The SOE assumed that any British action against the blockade runners would come through their own embedded agents.
+The Admiralty's operational planning assumed the port of Bordeaux was a closed enemy target, devoid of friendly assets. The SOE assumed that any British action against the blockade runners would come through their own embedded agents.
 
 NARRATOR
 Neither organization knew the other was targeting the exact same hulls.
 
 NARRATOR
-The consequences of this failure of inter-service liaison were structural and permanent. If Hasler’s canoes penetrated the harbour and detonated mines against the ships, the immediate German military response would not distinguish between an external naval raid and domestic sabotage. The Kriegsmarine and the Gestapo would lock down the docks, declare martial law across the waterfront, arrest the French dockers, and dismantle the civilian networks that Scientist had spent four months constructing.
+The consequences of this failure of inter-service liaison were structural and permanent. If Hasler's canoes penetrated the harbour and detonated mines against the ships, the immediate German military response would not distinguish between an external naval raid and domestic sabotage. The Kriegsmarine and the Gestapo would lock down the docks, declare martial law across the waterfront, arrest the French dockers, and dismantle the civilian networks that Scientist had spent four months constructing.
 
 NARRATOR
 Unaware of the impending collision, the Royal Marines Boom Patrol Detachment reached the end of their preparation.
@@ -646,7 +646,7 @@ NARRATOR
 That evening, twelve Royal Marines paraded at Lumps Fort for the final time. They were issued their travel warrants, boarded a sealed military coach at Portsmouth railway station, and began the journey north to the Clyde.
 
 NARRATOR
-In occupied Bordeaux, Claude de Baissac’s dockers continued their routine shifts on the Bassens quays, waiting for their explosives to be cleared by London.
+In occupied Bordeaux, Claude de Baissac's dockers continued their routine shifts on the Bassens quays, waiting for their explosives to be cleared by London.
 
 NARRATOR
 In the waters of Holy Loch, Scotland, the submarine that was to bring twelve tons of high explosive and ten men to the mouth of the Gironde was already taking on fuel.
@@ -679,7 +679,7 @@ Marine William Ellery and Marine Leonard Fisher (Cachalot)
 Marine Norman Colley (spare reserve)
 
 NARRATOR
-The submarine’s crew was already engaged in pre-sailing preparations when the marines marched onto the casing. The transfer of the detachment’s equipment from Forth’s deck required precision and physical labor.
+The submarine's crew was already engaged in pre-sailing preparations when the marines marched onto the casing. The transfer of the detachment's equipment from Forth's deck required precision and physical labor.
 
 NARRATOR
 Because Tuna was an operational submarine embarking on an offensive patrol, her interior was already loaded to capacity with sea stores, fuel, fresh water, and sixteen 21-inch Mark VIII torpedoes. The only opening through which the six Mark II Cockles could enter the hull was the forward torpedo-loading hatch.
@@ -691,7 +691,7 @@ NARRATOR
 The six canoes were stripped of their floorboards, aprons, and stretchers. With the canvas sides collapsed flat and pinned by their brass wing-nuts, each folded hull was roughly seven inches thick, thirty-two inches wide, and fifteen feet long.
 
 NARRATOR
-Under Hasler’s direction, the marines and a working party of submariners formed a line on the casing.
+Under Hasler's direction, the marines and a working party of submariners formed a line on the casing.
 
 HASLER
 Ease them down flat. Do not let the canvas take the weight against the hatch rollers.
@@ -700,7 +700,7 @@ NARRATOR
 One by one, the craft—Catfish, Crayfish, Conger, Coalfish, Cuttlefish, and Cachalot—were passed through the angled hatchway into the forward torpedo compartment. The clearance on either side of the bronze hatch dogs was less than two inches.
 
 NARRATOR
-Below deck, the torpedo compartment was choked with equipment. The collapsed canoes were hoisted above the torpedo racks and lashed directly to the overhead frames using hemp lines. Lashed beneath them were the wooden crates containing forty-eight Type A limpet mines, the bundles of jointed ash placing sticks, the camouflage netting, spare paddles, and the men’s personal kitbags.
+Below deck, the torpedo compartment was choked with equipment. The collapsed canoes were hoisted above the torpedo racks and lashed directly to the overhead frames using hemp lines. Lashed beneath them were the wooden crates containing forty-eight Type A limpet mines, the bundles of jointed ash placing sticks, the camouflage netting, spare paddles, and the men's personal kitbags.
 
 NARRATOR
 The addition of thirteen Royal Marines overwhelmed the living accommodation. A T-class boat carried an operational crew of over sixty men; there were fewer than forty bunks on board.
@@ -718,7 +718,7 @@ NARRATOR
 On the casing, the torpedo-loading hatch was swung down, the rubber gasket seated, and the heavy dogs driven home with a steel mallet. Inside the forward compartment, the grey daylight cut out, replaced by the yellow glow of low-wattage bulbs behind wire cages.
 
 NARRATOR
-The hull began to vibrate as Tuna’s diesel engines engaged. The submarine moved slowly away from the depot ship, escorted by an armed trawler through the anti-submarine boom at the mouth of Holy Loch, and turned south down the Firth of Clyde toward the North Channel.
+The hull began to vibrate as Tuna's diesel engines engaged. The submarine moved slowly away from the depot ship, escorted by an armed trawler through the anti-submarine boom at the mouth of Holy Loch, and turned south down the Firth of Clyde toward the North Channel.
 
 NARRATOR
 In the forward compartment, Sparks and Mills cleared the gangway between the torpedo racks, securing the last loose lashings on the placing sticks as the motion of the open sea began to lift the boat.
@@ -742,7 +742,7 @@ NARRATOR
 Below the surface, the submarine was entirely quiet, but the physical environment degraded steadily with each passing hour.
 
 NARRATOR
-With thirteen additional men living in the forward torpedo room, the boat’s oxygen reserves depleted significantly faster than on a standard patrol. By mid-afternoon, the air grew warm, humid, and stale. Condensation ran down the cold steel plates of the pressure hull and dripped continuously onto the canvas hulls of the Cockles stowed above the torpedo racks.
+With thirteen additional men living in the forward torpedo room, the boat's oxygen reserves depleted significantly faster than on a standard patrol. By mid-afternoon, the air grew warm, humid, and stale. Condensation ran down the cold steel plates of the pressure hull and dripped continuously onto the canvas hulls of the Cockles stowed above the torpedo racks.
 
 NARRATOR
 The build-up of carbon dioxide produced persistent, throbbing headaches and physical lethargy. Matches struck to light cigarettes would flare briefly and immediately die for lack of oxygen. To minimise consumption, Raikes placed the boat on strict air-conservation routine - off-duty personnel were required to remain lying down, and all non-essential movement through the central control room was prohibited.
@@ -767,7 +767,7 @@ HASLER
 Our intelligence is derived from photographic reconnaissance and naval decrypts. The Gironde is the sole funnel through which German blockade runners bring raw materials from the Far East into occupied territory.
 
 NARRATOR
-His pencil indicated the river’s course, pointing out the major facilities sixty miles inland.
+His pencil indicated the river's course, pointing out the major facilities sixty miles inland.
 
 HASLER
 The port is divided. The first objective is the Bassens sector, five miles downriver from the city center. Long, modern commercial wharves equipped with heavy portal cranes. This is where the deep-draft blockade runners discharge raw rubber, wolfram, and tin into the railway network.
@@ -801,7 +801,7 @@ What margin do we have on the chemical timing, sir?
 
 HASLER
 (evenly)
-A variation of up to one hour either way. You will not crush the ampoules until the mine is firmly clamped to the target’s hull plating. Once the vial is broken, you cannot recall it.
+A variation of up to one hour either way. You will not crush the ampoules until the mine is firmly clamped to the target's hull plating. Once the vial is broken, you cannot recall it.
 
 NARRATOR
 On 4 December, Lieutenant Mackinnon oversaw the distribution of escape packs.
@@ -852,7 +852,7 @@ NARRATOR
 Sparks sat on the edge of a torpedo rack, smearing his face, neck, and ears with a greasy mixture of burnt cork and olive-drab cream. Laver and Mills helped each other check the lashings on their fighting knives and the drawstrings of their canvas spray aprons.
 
 NARRATOR
-Every item of civilian identification—letters, paybooks, photographs—had been surrendered to Lieutenant Mackinnon to be locked in the submarine’s safe. In their pockets remained only their escape kits, emergency rations, and water purification tablets.
+Every item of civilian identification—letters, paybooks, photographs—had been surrendered to Lieutenant Mackinnon to be locked in the submarine's safe. In their pockets remained only their escape kits, emergency rations, and water purification tablets.
 
 NARRATOR
 The adrenaline had pushed back the nausea and the headache of the foul air. The men were coiled, silent, waiting for the clatter of the torpedo hatch dogs being knocked clear.
@@ -861,7 +861,7 @@ NARRATOR
 At 18:30, the call came forward from the control room.
 
 CONTROL ROOM
-Major Hasler to the control room, please. Captain’s compliments.
+Major Hasler to the control room, please. Captain's compliments.
 
 NARRATOR
 Hasler stood up, checked the lanyard of his silenced Colt .45, and ducked through the oval watertight door.
@@ -880,7 +880,7 @@ Between the submarine and the distant shore, two silhouettes moved slowly throug
 
 RAIKES
 (quietly, his voice flat with exhaustion)
-We have two problems, Major. The first is the surface patrol. They’re running an active sweep across our drop sector. If I surface to clear the casing now, their hydrophones will pick up our diesels the moment we blow tanks.
+We have two problems, Major. The first is the surface patrol. They're running an active sweep across our drop sector. If I surface to clear the casing now, their hydrophones will pick up our diesels the moment we blow tanks.
 
 HASLER
 (eyes on the periscope reticle)
@@ -890,7 +890,7 @@ NARRATOR
 He pointed to the navigational chart weighted down with brass dividers on the plotting table.
 
 RAIKES
-The second is the bottom. The Admiralty intelligence on the German defensive minefield off the Banc des Olives is inaccurate. The shoals have shifted, and the German barrier sits three miles further out to sea than our charts indicate. I cannot close to the five-mile line without risking tearing the boat’s belly open on a moored horn mine.
+The second is the bottom. The Admiralty intelligence on the German defensive minefield off the Banc des Olives is inaccurate. The shoals have shifted, and the German barrier sits three miles further out to sea than our charts indicate. I cannot close to the five-mile line without risking tearing the boat's belly open on a moored horn mine.
 
 HASLER
 (studying the pencilled lines on the chart)
@@ -932,7 +932,7 @@ NARRATOR
 For the next twenty-four hours, the detachment existed in suspended animation.
 
 NARRATOR
-To conserve the submarine’s depleted air supply, the crew and the marines were ordered into their bunks. All non-essential lighting was switched off. Movement was forbidden.
+To conserve the submarine's depleted air supply, the crew and the marines were ordered into their bunks. All non-essential lighting was switched off. Movement was forbidden.
 
 NARRATOR
 The air in the torpedo compartment grew increasingly toxic. The carbon dioxide concentration reached levels where breathing required conscious muscular effort. Sparks lay on his lashing frame, his chest heaving shallowly, his skull pounding as if banded in hot iron. The condensation from the pressure hull dripped rhythmically onto his face - drop, drop, drop.
@@ -968,7 +968,7 @@ NARRATOR
 At 19:40 on 7 December, Tuna reached her designated launch position roughly ten miles off the coast of Montalivet, west of the Gironde estuary.
 
 NARRATOR
-The submarine’s main ballast tanks were blown, and the boat surfaced into the darkness. When the conning tower hatch was opened, the Atlantic air swept down through the hull—freezing, damp, and carrying a steady west-north-westerly wind.
+The submarine's main ballast tanks were blown, and the boat surfaced into the darkness. When the conning tower hatch was opened, the Atlantic air swept down through the hull—freezing, damp, and carrying a steady west-north-westerly wind.
 
 NARRATOR
 Forward in the torpedo compartment, the working party immediately set to work. The dogs on the forward torpedo-loading hatch were knocked back, and the heavy angled steel cover was hoisted open to the night sky.
@@ -983,7 +983,7 @@ NARRATOR
 The fourth craft to be hauled up was Cachalot, designated for Marines William Ellery and Leonard Fisher.
 
 NARRATOR
-As the canoe was being guided up the steel cylinder, Tuna rolled heavily to port into the trough of a swell. The movement caught the working party off-balance. The boat shifted on the hatch rollers, and the canvas skin of Cachalot’s port side snagged firmly on the protruding steel dog of the hatch coaming.
+As the canoe was being guided up the steel cylinder, Tuna rolled heavily to port into the trough of a swell. The movement caught the working party off-balance. The boat shifted on the hatch rollers, and the canvas skin of Cachalot's port side snagged firmly on the protruding steel dog of the hatch coaming.
 
 NARRATOR
 Before the weight could be checked from below, the fabric tore against the metal bracket—a jagged rip across the rubberised canvas and into the ash stringer beneath.
@@ -1011,7 +1011,7 @@ HASLER
 Strike Cachalot below.
 
 NARRATOR
-Ellery and Fisher were ordered to stand down and remain aboard the submarine. With Marine Norman Colley already held in reserve, three of the detachment’s thirteen men would stay with Tuna. The striking force was reduced from six craft to five - ten men.
+Ellery and Fisher were ordered to stand down and remain aboard the submarine. With Marine Norman Colley already held in reserve, three of the detachment's thirteen men would stay with Tuna. The striking force was reduced from six craft to five - ten men.
 
 NARRATOR
 The remaining five Cockles—Catfish, Crayfish, Conger, Coalfish, and Cuttlefish—were passed through the hatch without further incident.
@@ -1029,7 +1029,7 @@ Camouflage nets laced with dried marsh grass.
 Emergency rations, water bottles, and silenced pistols.
 
 NARRATOR
-One by one, the five canoes were manhandled over the submarine’s rounded saddle tanks and lowered into the sea.
+One by one, the five canoes were manhandled over the submarine's rounded saddle tanks and lowered into the sea.
 
 NARRATOR
 The Cockles bobbed violently alongside the steel hull, rising and falling with the surge of the swell. The commandos climbed down the casing, timing their movements with the rise of the water to drop into their seating positions.
@@ -1055,7 +1055,7 @@ NARRATOR
 Raikes saluted and ducked down into the conning tower. The heavy steel hatch swung down and seated against its rim.
 
 NARRATOR
-Moments later, Tuna’s ballast tanks flooded. The dark casing sank beneath the foam, the conning tower dipped below the swell, and the submarine slipped beneath the surface, turning back toward deep water.
+Moments later, Tuna's ballast tanks flooded. The dark casing sank beneath the foam, the conning tower dipped below the swell, and the submarine slipped beneath the surface, turning back toward deep water.
 
 NARRATOR
 The five canvas canoes were left alone on the open Atlantic, ten miles west of the Gironde, with the incoming tide beginning to make.
@@ -1107,7 +1107,7 @@ NARRATOR
 The water ceased to roll in predictable lines. Instead, steep, vertical pyramids of water—four to six feet high—erupted from the darkness without pattern. The Cockles, designed for flat water, were thrown violently off course.
 
 NARRATOR
-Sparks buried his paddle deep into the foam on the port side, fighting to keep Catfish’s bow pointed into the oncoming ridges. A breaking crest slammed over the spruce stem, driving gallons of freezing brine across the forward deck and burying Sparks to the chest before crashing into the canvas spray apron.
+Sparks buried his paddle deep into the foam on the port side, fighting to keep Catfish's bow pointed into the oncoming ridges. A breaking crest slammed over the spruce stem, driving gallons of freezing brine across the forward deck and burying Sparks to the chest before crashing into the canvas spray apron.
 
 NARRATOR
 The apron stretched tight against the shock-cord, but the weight of water pressed the fabric down onto his thighs. Icy brine leaked past the waist drawstrings, soaking his woollen underwear and pooling in the bilge around the spruce floorboards.
@@ -1129,16 +1129,16 @@ NARRATOR
 Near 23:00, the turbulence reached its maximum force as the flood tide began to force its way under the outgoing surface ebb.
 
 NARRATOR
-A heavy, steep breaker struck the column from an angle. Catfish broached slightly, her port gunwale dipping to the water’s edge before Hasler righted her with a violent sweep of his paddle.
+A heavy, steep breaker struck the column from an angle. Catfish broached slightly, her port gunwale dipping to the water's edge before Hasler righted her with a violent sweep of his paddle.
 
 NARRATOR
 Through the roar of breaking water came a brief, muffled shout from the rear of the line.
 
 NARRATOR
-Hasler brought Catfish’s head around, holding her into the wind with backwater strokes. He drew his red-lensed torch from his smock, shielding the glass with his palm, and swept the immediate perimeter of dark water.
+Hasler brought Catfish's head around, holding her into the wind with backwater strokes. He drew his red-lensed torch from his smock, shielding the glass with his palm, and swept the immediate perimeter of dark water.
 
 NARRATOR
-Laver’s Crayfish emerged from a trough fifteen yards away, her crew paddling furiously to clear the breakers. Seconds later, Sheard and Moffatt in Conger wallowed into view, followed by Mackinnon and Conway in Cuttlefish.
+Laver's Crayfish emerged from a trough fifteen yards away, her crew paddling furiously to clear the breakers. Seconds later, Sheard and Moffatt in Conger wallowed into view, followed by Mackinnon and Conway in Cuttlefish.
 
 NARRATOR
 Hasler counted the boats in the dim red reflection.
@@ -1165,7 +1165,7 @@ NARRATOR
 In the calmer water past the first line of shoals, Hasler held Catfish into the wind with gentle backwater strokes.
 
 NARRATOR
-Beside them, the three surviving canoes converged. Corporal Laver brought Crayfish alongside Catfish’s port gunwale, while Lieutenant Mackinnon in Cuttlefish and Corporal Sheard in Conger hovered three yards off. The men’s breath came in ragged, white plumes against the dark.
+Beside them, the three surviving canoes converged. Corporal Laver brought Crayfish alongside Catfish's port gunwale, while Lieutenant Mackinnon in Cuttlefish and Corporal Sheard in Conger hovered three yards off. The men's breath came in ragged, white plumes against the dark.
 
 HASLER
 (whispering across the water)
@@ -1198,7 +1198,7 @@ NARRATOR
 Half a mile behind them, near the northern tip of the Pointe de Grave, Coalfish was gone.
 
 NARRATOR
-In the confusion of the first overfall, a steep, vertical wall of water had broken directly across the canoe’s starboard beam. The weight of the sea crushed the canvas apron down into the cockpit, tearing the elastic shock-cord clear of the spruce coaming. Gallons of Atlantic brine flooded the hull in a fraction of a second.
+In the confusion of the first overfall, a steep, vertical wall of water had broken directly across the canoe's starboard beam. The weight of the sea crushed the canvas apron down into the cockpit, tearing the elastic shock-cord clear of the spruce coaming. Gallons of Atlantic brine flooded the hull in a fraction of a second.
 
 NARRATOR
 With her reserve buoyancy overwhelmed, Coalfish lost all stability. She rolled heavily to port, capsizing into the freezing, turbulent rip and throwing Sergeant Samuel Wallace and Marine Robert Ewart into the sea.
@@ -1255,7 +1255,7 @@ NARRATOR
 The estuary narrowed past the Pointe de Grave into the roadstead of Le Verdon.
 
 NARRATOR
-Here, compressed between the sand spit on the western shore and the Banc de Saint-Georges to the east, the Gironde funnelled the incoming Atlantic tide through a deep, constricted trench. The current accelerated, reaching four knots, and collided head-on with the river’s massive fresh-water discharge.
+Here, compressed between the sand spit on the western shore and the Banc de Saint-Georges to the east, the Gironde funnelled the incoming Atlantic tide through a deep, constricted trench. The current accelerated, reaching four knots, and collided head-on with the river's massive fresh-water discharge.
 
 NARRATOR
 The result was the second overfall.
@@ -1264,13 +1264,13 @@ NARRATOR
 It was more violent than the first. The water rose in steep, jagged pyramids without swell or rhythm, throwing spray ten feet into the air. The four surviving canoes—Catfish, Crayfish, Conger, and Cuttlefish—were drawn directly into the maelstrom.
 
 NARRATOR
-In Catfish’s bow, Sparks fought the steering. The bow was repeatedly driven under by breaking water that boiled across the apron, slamming into his chest and blinding him.
+In Catfish's bow, Sparks fought the steering. The bow was repeatedly driven under by breaking water that boiled across the apron, slamming into his chest and blinding him.
 
 NARRATOR
-From the stern, Hasler watched the low silhouettes around him. Laver’s Crayfish was twenty yards to the east, riding the crests with deep, powerful strokes. Behind them, Sheard and Moffatt in Conger were battling to keep their bow pointed into the waves.
+From the stern, Hasler watched the low silhouettes around him. Laver's Crayfish was twenty yards to the east, riding the crests with deep, powerful strokes. Behind them, Sheard and Moffatt in Conger were battling to keep their bow pointed into the waves.
 
 NARRATOR
-A vertical sea, rising out of the pitch darkness without warning, broke square over Conger’s port bow.
+A vertical sea, rising out of the pitch darkness without warning, broke square over Conger's port bow.
 
 NARRATOR
 The impact crushed the canvas apron inward. The elastic shock-cord snapped off the wooden coaming. Thousands of pounds of freezing water collapsed into the forward cockpit, instantly submerging Marine Moffatt to the waist.
@@ -1297,7 +1297,7 @@ NARRATOR
 The upturned canoe was wallowing low in the water, trapped in the undertow. George Sheard and David Moffatt were in the water, their heads barely clearing the foam. The temperature of the Gironde was barely six degrees Celsius. In clothing saturated with salt water, the shock to their cardiovascular systems was instantaneous—a violent, involuntary gasping for air, followed by rapid numbness in the extremities.
 
 NARRATOR
-Hasler brought Catfish’s port side alongside Sheard. Mackinnon brought Cuttlefish to Moffatt.
+Hasler brought Catfish's port side alongside Sheard. Mackinnon brought Cuttlefish to Moffatt.
 
 SHEARD
 (gasping, his teeth chattering violently, his speech thick and slurred from the freezing brine)
@@ -1314,10 +1314,10 @@ Mackinnon drew his fighting knife and severed the gear lashings, letting Conger 
 
 HASLER
 (to Sheard)
-Take hold of the stern loops. Moffatt—take Mackinnon’s stern.
+Take hold of the stern loops. Moffatt—take Mackinnon's stern.
 
 NARRATOR
-Sheard reached out with a gloved hand that had lost its motor control and hooked his fingers into the canvas lifting grommet at Catfish’s stern. Behind them, Moffatt secured himself to the stern of Cuttlefish.
+Sheard reached out with a gloved hand that had lost its motor control and hooked his fingers into the canvas lifting grommet at Catfish's stern. Behind them, Moffatt secured himself to the stern of Cuttlefish.
 
 NARRATOR
 The plan was a desperate field expedient - Catfish and Cuttlefish would attempt to tow the two swimming commandos toward the shallower waters off the western shore, where the current was less severe.
@@ -1326,7 +1326,7 @@ NARRATOR
 Hasler and Sparks dug their blades into the water.
 
 NARRATOR
-The resistance was staggering. A man submerged to the neck in heavy winter battledress and boots acts as a sea anchor. The weight dragged Catfish’s stern down until the gunwales were barely three inches above the black water.
+The resistance was staggering. A man submerged to the neck in heavy winter battledress and boots acts as a sea anchor. The weight dragged Catfish's stern down until the gunwales were barely three inches above the black water.
 
 NARRATOR
 With every stroke, Sparks felt the boat shudder as if tethered to a rock. His shoulders burned; the muscles in his lower back knotted into iron spasms.
@@ -1335,7 +1335,7 @@ NARRATOR
 Ahead of them, the ebb and flood tore at the canoes. Instead of making progress toward the shore, the two craft were caught in the main deep-water shipping channel, swept sideways by the cross-tides.
 
 NARRATOR
-Behind Catfish, Sheard’s head dipped repeatedly beneath the surface as the canoe surged through the crests.
+Behind Catfish, Sheard's head dipped repeatedly beneath the surface as the canoe surged through the crests.
 
 SPARKS
 (whispering over his shoulder, his breath coming in ragged gasps)
@@ -1354,7 +1354,7 @@ NARRATOR
 The drag was killing them. The canoes were making less than one knot against the current. If they remained anchored to the men in the water, daylight would find all four commandos trapped in the open channel under the guns of the coastal batteries.
 
 NARRATOR
-Hasler glanced back at Sheard’s frozen face in the dark, then looked across the water at Mackinnon.
+Hasler glanced back at Sheard's frozen face in the dark, then looked across the water at Mackinnon.
 
 NARRATOR
 The mathematics of the operation had caught them again.
@@ -1372,13 +1372,13 @@ NARRATOR
 The sound of breakers on sand carried through the darkness from the west.
 
 NARRATOR
-For nearly an hour, Catfish and Cuttlefish had clawed their way across the tidal stream, foot by agonizing foot. Sparks’s back was locked in a continuous, burning cramp. Every stroke sent sharp tremors through his forearms, where salt water had worked beneath his cuffs and stripped the skin raw.
+For nearly an hour, Catfish and Cuttlefish had clawed their way across the tidal stream, foot by agonizing foot. Sparks's back was locked in a continuous, burning cramp. Every stroke sent sharp tremors through his forearms, where salt water had worked beneath his cuffs and stripped the skin raw.
 
 NARRATOR
-Behind them, the resistance remained absolute. Corporal George Sheard was still gripping the canvas lifting grommet on Catfish’s stern, but his grip was no longer voluntary; it was the rigid spasm of a dying man.
+Behind them, the resistance remained absolute. Corporal George Sheard was still gripping the canvas lifting grommet on Catfish's stern, but his grip was no longer voluntary; it was the rigid spasm of a dying man.
 
 NARRATOR
-His chin was in the water. He was no longer kicking. Hypothermia had progressed from violent shivering into the quiet stupor of severe exposure. Beside them, Marine David Moffatt trailed from the stern of Mackinnon’s Cuttlefish, his face slack, his lips dark and swollen against the white foam.
+His chin was in the water. He was no longer kicking. Hypothermia had progressed from violent shivering into the quiet stupor of severe exposure. Beside them, Marine David Moffatt trailed from the stern of Mackinnon's Cuttlefish, his face slack, his lips dark and swollen against the white foam.
 
 NARRATOR
 Hasler glanced down into the water on his port side. He dipped his paddle vertically. The blade struck something hard and unyielding at four feet - a shelving sandbank.
@@ -1393,14 +1393,14 @@ NARRATOR
 They could go no further inshore without grounding the Cockles or being caught beneath the low-angle coastal searchlights.
 
 NARRATOR
-Hasler backed water, bringing Catfish almost to a standstill. He leaned back toward the stern, resting his hand near Sheard’s frozen shoulder.
+Hasler backed water, bringing Catfish almost to a standstill. He leaned back toward the stern, resting his hand near Sheard's frozen shoulder.
 
 HASLER
 (quietly)
 George.
 
 NARRATOR
-Sheard’s head lifted an inch from the surface. His eyes were glazed, reflecting the dull grey of the overcast sky.
+Sheard's head lifted an inch from the surface. His eyes were glazed, reflecting the dull grey of the overcast sky.
 
 SHEARD
 (whispering, word barely recognizable, slurred past a tongue swollen with cold)
@@ -1424,7 +1424,7 @@ NARRATOR
 Beside them, Mackinnon was giving the same instruction to Moffatt.
 
 NARRATOR
-Sheard’s fingers, white and rigid, slowly peeled away from the canvas grommet. The effort took seconds, his frozen tendons resisting the command to open. When his hands finally slipped from the stern, his body sank back into the wash of the river, supported only by the buoyant kapok of his life-jacket.
+Sheard's fingers, white and rigid, slowly peeled away from the canvas grommet. The effort took seconds, his frozen tendons resisting the command to open. When his hands finally slipped from the stern, his body sank back into the wash of the river, supported only by the buoyant kapok of his life-jacket.
 
 SHEARD
 (breathing into the dark)
@@ -1487,7 +1487,7 @@ NARRATOR
 Hasler checked his watch. It was 02:45. The flood tide had less than three hours to run before the slack water turned against them.
 
 HASLER
-(to the back of Sparks’s head)
+(to the back of Sparks's head)
 Single craft. Maintain course. Keep your blade below the gunwale.
 
 NARRATOR
@@ -1515,7 +1515,7 @@ NARRATOR
 Twenty minutes past three, a low, rounded shape detached itself from the gloom forty yards off the port bow. It was low to the water, drifting with the current.
 
 NARRATOR
-Hasler brought Catfish’s bow around, resting his paddle across the coaming. He slipped his hand inside his smock, touched the butt of the Colt automatic, and pulled out the reed whistle. He blew a single, almost inaudible note.
+Hasler brought Catfish's bow around, resting his paddle across the coaming. He slipped his hand inside his smock, touched the butt of the Colt automatic, and pulled out the reed whistle. He blew a single, almost inaudible note.
 
 NARRATOR
 Across the water came the immediate response - two short, dry chirps.
@@ -1528,7 +1528,7 @@ Corporal Albert Laver and Marine William Mills were resting on their paddles, th
 
 LAVER
 (whispering, his voice hoarse)
-Major. We were swept ahead in the second race. We’ve been holding station on the channel edge waiting for the line.
+Major. We were swept ahead in the second race. We've been holding station on the channel edge waiting for the line.
 
 NARRATOR
 He peered into the darkness behind Hasler.
@@ -1548,7 +1548,7 @@ Three canoes gone. Six men out of ten lost before they had covered eight miles o
 
 LAVER
 (softly)
-Then it’s just the two of us, sir?
+Then it's just the two of us, sir?
 
 HASLER
 It is the two of us. Keep station on my port quarter. Fifteen feet. From here the roadstead narrows. We are entering the German anchorage.
@@ -1576,22 +1576,22 @@ NARRATOR
 Sparks feathered his ash paddle, laying the blades flush against the surface of the water to eliminate any profile. The tide did the work, carrying Catfish and Crayfish down the steel flank of the ship.
 
 NARRATOR
-The sensory details of the enemy vessel were overwhelming. The commandos could hear the steady, rhythmic chug of an auxiliary diesel generator vibrating through the ship’s plating. The sharp stench of soft coal smoke and hot engine oil drifted down from the funnel.
+The sensory details of the enemy vessel were overwhelming. The commandos could hear the steady, rhythmic chug of an auxiliary diesel generator vibrating through the ship's plating. The sharp stench of soft coal smoke and hot engine oil drifted down from the funnel.
 
 NARRATOR
-Directly above them, on the forward deck, the heavy thud of an armed sentry’s hobnailed boots paced slowly along the starboard rail.
+Directly above them, on the forward deck, the heavy thud of an armed sentry's hobnailed boots paced slowly along the starboard rail.
 
 NARRATOR
-A metal lighter clicked. The sentry leaned over the bulwark, coughing once into the cold air. The glowing red tip of a cigarette flared in the dark, casting a faint, reddish circle against the hull twenty feet above Catfish’s cockpit.
+A metal lighter clicked. The sentry leaned over the bulwark, coughing once into the cold air. The glowing red tip of a cigarette flared in the dark, casting a faint, reddish circle against the hull twenty feet above Catfish's cockpit.
 
 NARRATOR
-Sparks stopped breathing. He stared at the rivet lines on the German ship’s plates, which were close enough to touch with an outstretched paddle blade. The canoe drifted silently beneath the flare of the match.
+Sparks stopped breathing. He stared at the rivet lines on the German ship's plates, which were close enough to touch with an outstretched paddle blade. The canoe drifted silently beneath the flare of the match.
 
 NARRATOR
 The sentry turned, his boots crunching on the cinder-strewn deck, and walked back toward the bridge.
 
 NARRATOR
-The canoes cleared the ship’s stern, carried along into the black gap between the next line of vessels.
+The canoes cleared the ship's stern, carried along into the black gap between the next line of vessels.
 
 NARRATOR
 For the next two hours, the passage was a waking nightmare of forced stillness and sudden, intense exertion. They threaded through four separate anchored warships. At one point, passing between an armed trawler and a low-lying tanker, a searchlight on the Le Verdon mole flicked on, its brilliant beam sweeping across the river.
@@ -1616,7 +1616,7 @@ HASLER
 Make for the western bank.
 
 NARRATOR
-Sparks dug his aching blades into the water, turning Catfish’s bow away from the deep-water channel toward the desolate marshlands of Saint-Vivien-de-Médoc.
+Sparks dug his aching blades into the water, turning Catfish's bow away from the deep-water channel toward the desolate marshlands of Saint-Vivien-de-Médoc.
 
 NARRATOR
 Ahead, looming through the early morning mist, lay a vast, stinking expanse of tidal mud, fringed by grey patches of dead marsh grass. It was their first hide—if they could reach it before the sun revealed them.
@@ -1634,7 +1634,7 @@ NARRATOR
 The water shoaled with treacherous speed.
 
 NARRATOR
-Fifty yards from the dyke line that guarded the reclaimed marshes of the Médoc, Catfish’s flat canvas bottom ground into the silt. The forward momentum died instantly. Beside them, Crayfish drifted to a halt in four inches of soupy, grey water.
+Fifty yards from the dyke line that guarded the reclaimed marshes of the Médoc, Catfish's flat canvas bottom ground into the silt. The forward momentum died instantly. Beside them, Crayfish drifted to a halt in four inches of soupy, grey water.
 
 NARRATOR
 The tide was already ebbing, draining out of the river channel with the pull of a opening sluice. Within minutes, the water would retreat several hundred yards into the stream, leaving a desert of exposed, liquid silt.
@@ -1708,7 +1708,7 @@ NARRATOR
 Later, a pair of French river fishermen in a flat-bottomed punt rowed past, working fish traps along the edge of the draining channel. They passed within seventy yards of the reed bed.
 
 NARRATOR
-Sparks felt Hasler’s hand rest firmly on his shoulder beneath the net—a silent, rigid command - do not breathe.
+Sparks felt Hasler's hand rest firmly on his shoulder beneath the net—a silent, rigid command - do not breathe.
 
 NARRATOR
 The fishermen did not look toward the dyke. They checked their baskets, spoke to each other in low, indistinct patois, and rowed on with the current.
@@ -1734,7 +1734,7 @@ HASLER
 Twenty-two miles to the Île de Marous. If the current holds. If we miss it, there is nothing between here and Blaye but open water and German radar stations.
 
 NARRATOR
-Hasler looked at Sparks. The young marine’s face was chalk-white beneath the smears of soot and grease, his lips split and bleeding from the salt.
+Hasler looked at Sparks. The young marine's face was chalk-white beneath the smears of soot and grease, his lips split and bleeding from the salt.
 
 HASLER
 (softly)
@@ -1829,13 +1829,13 @@ GERMAN OFFICER
 Take him out. Bring in the other.
 
 NARRATOR
-Robert Ewart was nineteen years old. The Glaswegian marine’s face was gaunt, his knuckles split and swollen from the cold Atlantic surf. When he halted before the desk, his legs trembled from muscular exhaustion, but he came to attention, fixing his eyes on the German officer.
+Robert Ewart was nineteen years old. The Glaswegian marine's face was gaunt, his knuckles split and swollen from the cold Atlantic surf. When he halted before the desk, his legs trembled from muscular exhaustion, but he came to attention, fixing his eyes on the German officer.
 
 NARRATOR
 The questions were repeated. The results were identical.
 
 NARRATOR
-Ewart answered only with his name, his rank, and his service number. When pressed on how he had arrived on the French coast, he stated only that he was a serving member of His Majesty’s armed forces, taken in uniform in time of war, and entitled to the status of a prisoner of war.
+Ewart answered only with his name, his rank, and his service number. When pressed on how he had arrived on the French coast, he stated only that he was a serving member of His Majesty's armed forces, taken in uniform in time of war, and entitled to the status of a prisoner of war.
 
 NARRATOR
 The Kriegsmarine intelligence officers were professional sailors. Their preliminary interrogation report, logged into the naval war diary (Kriegstagebuch) that afternoon, recorded that both British captives maintained exemplary military discipline, exhibited high morale, and refused all operational disclosure.
@@ -1859,7 +1859,7 @@ NARRATOR
 At 18:00, the bureaucratic reality of the Third Reich descended on Bordeaux.
 
 NARRATOR
-A classified teleprint from Paris arrived at Admiral Bachmann’s headquarters, referencing an order issued directly by Adolf Hitler on 18 October 1942 - the Kommandobefehl—the Commando Order.
+A classified teleprint from Paris arrived at Admiral Bachmann's headquarters, referencing an order issued directly by Adolf Hitler on 18 October 1942 - the Kommandobefehl—the Commando Order.
 
 NARRATOR
 The directive was absolute:
@@ -1871,7 +1871,7 @@ NARRATOR
 The German naval command faced an immediate legal and institutional conflict. Wallace and Ewart had been captured in uniform by coastal artillery troops; they were regular Royal Marines.
 
 NARRATOR
-The teleprint from Berlin left no room for interpretation - The Führer’s order applies without exception. The prisoners are not to be transferred to a POW camp.
+The teleprint from Berlin left no room for interpretation - The Führer's order applies without exception. The prisoners are not to be transferred to a POW camp.
 
 NARRATOR
 Wallace and Ewart were marched down into the basement cells of the naval barracks and locked into separate stone rooms under twenty-four-hour guard.
@@ -1910,19 +1910,19 @@ NARRATOR
 The moment they cleared the shallows and entered the main channel, the character of the Gironde asserted itself.
 
 NARRATOR
-The flood tide was running with ferocious speed—over four knots—surging up the funnel of the estuary toward the interior of France. As the river narrowed past Richard and Saint-Christoly, the incoming Atlantic water met the river’s outward pressure, generating le mascaret—a continuous, rolling turbulence that broke across the shallows in surging, foam-capped ridges.
+The flood tide was running with ferocious speed—over four knots—surging up the funnel of the estuary toward the interior of France. As the river narrowed past Richard and Saint-Christoly, the incoming Atlantic water met the river's outward pressure, generating le mascaret—a continuous, rolling turbulence that broke across the shallows in surging, foam-capped ridges.
 
 NARRATOR
 The temperature plummeted well below freezing.
 
 NARRATOR
-The salt spray thrown up by Catfish’s bow no longer ran down the apron. It froze where it struck, glazing the canvas decking in a thick, translucent crust of white rime.
+The salt spray thrown up by Catfish's bow no longer ran down the apron. It froze where it struck, glazing the canvas decking in a thick, translucent crust of white rime.
 
 NARRATOR
 Ice formed along the ash looms of the paddles. With every stroke, the cold wood chilled the commandos' fingers through their woollen mittens until sensation died completely. Sparks could no longer feel the oval shape of the loom in his grip; he had to guide the paddle by watching the angle of the blades in the dark, checking that the drip rings did not seize against the ice on the shafts.
 
 NARRATOR
-Behind them, Laver and Mills kept station fifteen feet off Catfish’s port quarter. The two canoes moved as a single unit, their stroke rates locked at twenty-eight dips a minute.
+Behind them, Laver and Mills kept station fifteen feet off Catfish's port quarter. The two canoes moved as a single unit, their stroke rates locked at twenty-eight dips a minute.
 
 HASLER
 (whispering forward)
@@ -1963,7 +1963,7 @@ NARRATOR
 Hour after hour, the physical punishment continued.
 
 NARRATOR
-The men had been awake for over forty hours, with only the fitful, freezing stupor under the nets at Saint-Vivien to sustain them. Hallucinations, brought on by extreme sleep deprivation and the hypnotic, repetitive dipping of the blades, began to creep into Sparks’s consciousness.
+The men had been awake for over forty hours, with only the fitful, freezing stupor under the nets at Saint-Vivien to sustain them. Hallucinations, brought on by extreme sleep deprivation and the hypnotic, repetitive dipping of the blades, began to creep into Sparks's consciousness.
 
 NARRATOR
 In the dim reflection of the water, the shapes of channel markers distorted into stone buildings; the distant line of poplars along the dykes looked like rows of German infantry kneeling with rifles levelled. Sparks shook his head violently, sending shards of frozen sweat tumbling from the wool of his cap onto the apron.
@@ -1993,7 +1993,7 @@ HASLER
 We make for the shore ahead. Before the ebb turns.
 
 NARRATOR
-The canoes turned out of the main stream, their bows sliding into the soft silt of the island’s northern point.
+The canoes turned out of the main stream, their bows sliding into the soft silt of the island's northern point.
 
 NARRATOR
 Sparks swung his leg out of the cockpit. His knee joints locked with acute pain, screaming as the circulation returned to frozen tendons.
@@ -2011,7 +2011,7 @@ The Gironde to the Entre-deux-Mers
 8 – 11 December 1942
 
 NARRATOR
-When the cross-current off the Le Verdon shallows swept Cuttlefish away from Hasler, Lieutenant John Mackinnon did not attempt to fight the rip back to Catfish’s position.
+When the cross-current off the Le Verdon shallows swept Cuttlefish away from Hasler, Lieutenant John Mackinnon did not attempt to fight the rip back to Catfish's position.
 
 NARRATOR
 The operational doctrine Hasler had drummed into them at Southsea was explicit - if separated, a canoe did not search. It became an independent striking element, bound by the same orders to press upriver on the night flood, lay its mines against the assigned targets, and scuttle.
@@ -2020,7 +2020,7 @@ NARRATOR
 In the bow, twenty-year-old Marine James Conway set a steady, unbroken rhythm. The former milk-carter from Stockport was broad-backed and accustomed to sustained physical labor. Behind him, Mackinnon kept the compass on the channel line.
 
 NARRATOR
-Alone on the wide estuary, without the visual guide of Catfish’s wake, the two men had navigated through the remainder of that first night, slipping past the patrol craft at Le Verdon and hauling into a reed bed on the eastern shore near Saint-Ciers-sur-Gironde as the dawn of 8 December broke.
+Alone on the wide estuary, without the visual guide of Catfish's wake, the two men had navigated through the remainder of that first night, slipping past the patrol craft at Le Verdon and hauling into a reed bed on the eastern shore near Saint-Ciers-sur-Gironde as the dawn of 8 December broke.
 
 NARRATOR
 They spent the daylight hours of the 8th shivering beneath their camouflage net, listening to German patrol launches moving in the distance.
@@ -2032,10 +2032,10 @@ NARRATOR
 It was on their third night on the water—10 December—that the operation ended for Cuttlefish.
 
 NARRATOR
-The canoe was moving through the darkness past the Bec d’Ambès, the narrow, low spit of land where the Dordogne and Garonne rivers converge to form the Gironde. The current here was chaotic, torn by the meeting of the two massive river systems and obstructed by sunken wooden pilings and the rusted hulls of scuttled French merchantmen left behind from the collapse of 1940.
+The canoe was moving through the darkness past the Bec d'Ambès, the narrow, low spit of land where the Dordogne and Garonne rivers converge to form the Gironde. The current here was chaotic, torn by the meeting of the two massive river systems and obstructed by sunken wooden pilings and the rusted hulls of scuttled French merchantmen left behind from the collapse of 1940.
 
 NARRATOR
-Cuttlefish was running at four knots on the flood when a submerged wooden spar, driven deep into the riverbed, struck the canoe’s flat canvas bottom.
+Cuttlefish was running at four knots on the flood when a submerged wooden spar, driven deep into the riverbed, struck the canoe's flat canvas bottom.
 
 NARRATOR
 The impact was blunt and catastrophic.
@@ -2044,11 +2044,11 @@ NARRATOR
 The spruce keel snapped with a sharp report like a pistol shot. The jagged timber punched upward through the floorboards, tearing an eight-inch breach through the rubberised canvas skin between the two cockpits.
 
 NARRATOR
-River water poured in under pressure. Within five seconds, the cockpit was flooded to Conway’s waist.
+River water poured in under pressure. Within five seconds, the cockpit was flooded to Conway's waist.
 
 CONWAY
 (hissing, hands grasping the coaming as the craft settled beneath him)
-She’s stove in, sir!
+She's stove in, sir!
 
 NARRATOR
 Mackinnon drove his paddle into the water, swinging the waterlogged craft toward the eastern bank of the Garonne. The Cockle was dying, its buoyancy destroyed, wallowing heavily as the cold current dragged it down by the stern.
@@ -2130,10 +2130,10 @@ NARRATOR
 As the four men hauled the Cockles out of the gray water, their physical degradation was absolute. They had lived for seventy-two hours in wet wool and proofed canvas in near-freezing temperatures.
 
 NARRATOR
-Sparks’s hands were no longer functional as grip tools; the skin across his palms had stripped away in sheets, leaving exposed, weeping tissue that adhered to his woollen mittens. Saltwater boils—hard, inflamed pustules the size of hazel-nuts—had erupted around his wrists where the wet cuffs of his smock sawed against his flesh with every stroke. His thighs and buttocks were rubbed raw and ulcerated from sitting in bilge water contaminated with diesel oil and urine.
+Sparks's hands were no longer functional as grip tools; the skin across his palms had stripped away in sheets, leaving exposed, weeping tissue that adhered to his woollen mittens. Saltwater boils—hard, inflamed pustules the size of hazel-nuts—had erupted around his wrists where the wet cuffs of his smock sawed against his flesh with every stroke. His thighs and buttocks were rubbed raw and ulcerated from sitting in bilge water contaminated with diesel oil and urine.
 
 NARRATOR
-Laver and Mills were in similar condition. Mills’s face was swollen from exposure, his eyes sunk deep into dark, bruised sockets.
+Laver and Mills were in similar condition. Mills's face was swollen from exposure, his eyes sunk deep into dark, bruised sockets.
 
 NARRATOR
 Under the camouflage netting on the frozen island mud, Hasler sat cross-legged, studying his tidal tables and operational timetable by pencil-torch.
@@ -2142,7 +2142,7 @@ NARRATOR
 The original operational plan drafted in London had scheduled the attack for the night of 10 December. But the initial twenty-four-hour delay aboard HMS Tuna off Montalivet had compressed their calendar.
 
 NARRATOR
-Now, a second tactical problem presented itself - the physical distance remaining to Bordeaux was sixteen miles, but the channel was narrowing and the river’s outward freshwater current was mounting.
+Now, a second tactical problem presented itself - the physical distance remaining to Bordeaux was sixteen miles, but the channel was narrowing and the river's outward freshwater current was mounting.
 
 HASLER
 We attempt the final run tonight. If the flood carries us into the harbour before midnight, we mine the targets and use the ebb to reach the scuttling point before first light.
@@ -2166,7 +2166,7 @@ NARRATOR
 They had made barely nine miles.
 
 NARRATOR
-They were seven miles short of Bordeaux, stuck in the lower reach near the Bec d’Ambès.
+They were seven miles short of Bordeaux, stuck in the lower reach near the Bec d'Ambès.
 
 NARRATOR
 The incoming tide was dying, smoothing out into slack water. If they continued toward the port, they would run out of darkness while still in the open roadstead below Bassens. To enter a fortified harbour at dawn in canvas canoes meant immediate discovery and annihilation.
@@ -2235,7 +2235,7 @@ HASLER
 Strike nets.
 
 NARRATOR
-The camouflage netting was rolled and stowed into the cargo wells. The limpet mines—eight to each craft, their magnet shields removed—were secured between the paddlers’ knees, resting on felt pads to prevent metal-on-metal clinking. The jointed ash placing sticks were checked, their brass claws greased, and laid along the coamings.
+The camouflage netting was rolled and stowed into the cargo wells. The limpet mines—eight to each craft, their magnet shields removed—were secured between the paddlers' knees, resting on felt pads to prevent metal-on-metal clinking. The jointed ash placing sticks were checked, their brass claws greased, and laid along the coamings.
 
 NARRATOR
 Sparks stepped into the shallow water, his hands gripping the spruce bow of Catfish. The mud sucked at his ankles, but the boat lifted easily on the rising tide.
@@ -2272,7 +2272,7 @@ NARRATOR
 Sergeant Samuel Wallace stood up from the wooden plank bed. The light from a kerosene lantern held by a German petty officer spilled into the cell, glinting off the bayonets of two armed sailors of the Kriegsmarine.
 
 NARRATOR
-Wallace was motioned out into the stone corridor. Beside the stairwell, Marine Robert Ewart was already waiting between two guards. The nineteen-year-old marine’s face was pale in the yellow lantern light, but he stood squarely on his feet, his hands clamped at his sides.
+Wallace was motioned out into the stone corridor. Beside the stairwell, Marine Robert Ewart was already waiting between two guards. The nineteen-year-old marine's face was pale in the yellow lantern light, but he stood squarely on his feet, his hands clamped at his sides.
 
 NARRATOR
 Neither man was informed of their destination.
@@ -2300,14 +2300,14 @@ WALLACE
 Keep your head up, Robert.
 
 NARRATOR
-A German sailor seated opposite jabbed the butt of his Mauser rifle against Wallace’s knee.
+A German sailor seated opposite jabbed the butt of his Mauser rifle against Wallace's knee.
 
 GERMAN SAILOR
 (in a flat voice)
 Ruhe. Kein Wort.
 
 NARRATOR
-Silence returned, filled only by the whine of the lorry’s transmission and the hum of the tyres on the frozen road.
+Silence returned, filled only by the whine of the lorry's transmission and the hum of the tyres on the frozen road.
 
 NARRATOR
 After thirty minutes, the vehicle slowed, turned sharply to the right off the main road, and ground along an unpaved sand track through a dense plantation of maritime pines. The pine boughs scraped against the canvas tilt.
@@ -2322,7 +2322,7 @@ NARRATOR
 The tailgate was dropped. Wallace and Ewart were pulled down into the freezing sand.
 
 NARRATOR
-The lorry’s headlights were switched on, two sharp cones of yellow light slicing through the pine trunks, illuminating a high, yellow face of excavated sandy soil twenty yards ahead.
+The lorry's headlights were switched on, two sharp cones of yellow light slicing through the pine trunks, illuminating a high, yellow face of excavated sandy soil twenty yards ahead.
 
 NARRATOR
 Standing in the beam of the lights was a six-man firing squad drawn from the local Kriegsmarine naval personnel, wearing long woollen watchcoats and steel helmets, their Mauser 98k rifles slung across their chests. Beside them stood the German naval officer holding a service automatic, his peaked cap pulled low against the cold.
@@ -2331,7 +2331,7 @@ NARRATOR
 There was no court-martial. There was no reading of a verdict.
 
 NARRATOR
-Under the terms of Hitler’s Kommandobefehl, the legal machinery had been bypassed entirely. The execution was an administrative military task, logged in the confidential annexes of the German Naval Command West as an operational disposal.
+Under the terms of Hitler's Kommandobefehl, the legal machinery had been bypassed entirely. The execution was an administrative military task, logged in the confidential annexes of the German Naval Command West as an operational disposal.
 
 NARRATOR
 The two marines were marched to the base of the sandbank and turned to face the headlights.
@@ -2376,7 +2376,7 @@ NARRATOR
 Twelve miles to the north, across the frozen marshes of the Garonne, the echo of the volley was swallowed entirely by the winter mist.
 
 NARRATOR
-In a muddy hollow behind the dykes at Bec d’Ambès, Major Hasler checked the luminous dial of his compass. It was 23:45.
+In a muddy hollow behind the dykes at Bec d'Ambès, Major Hasler checked the luminous dial of his compass. It was 23:45.
 
 NARRATOR
 The flood tide was making. The time had come to launch.
@@ -2415,7 +2415,7 @@ NARRATOR
 A few feet away under the same canopy of bare willow branches, Corporal Albert Laver and Marine William Mills were unpacking their gear bags.
 
 NARRATOR
-Mills’s hands were shaking from cold as he brought out the baize-lined wooden cases holding the Type A limpet mines. The six-pound cast-iron assemblies were cold to the touch, sweating moisture in the damp air.
+Mills's hands were shaking from cold as he brought out the baize-lined wooden cases holding the Type A limpet mines. The six-pound cast-iron assemblies were cold to the touch, sweating moisture in the damp air.
 
 NARRATOR
 Hasler crawled through the mud to their side, keeping low beneath the bare scrub.
@@ -2483,7 +2483,7 @@ HASLER
 Strike nets.
 
 NARRATOR
-The camouflage netting was rolled and stowed into the cargo wells. The limpet mines—eight to each craft, their magnet shields removed—were secured between the paddlers’ knees, resting on felt pads to prevent metal-on-metal clinking. The jointed ash placing sticks were checked, their brass claws greased, and laid along the coamings.
+The camouflage netting was rolled and stowed into the cargo wells. The limpet mines—eight to each craft, their magnet shields removed—were secured between the paddlers' knees, resting on felt pads to prevent metal-on-metal clinking. The jointed ash placing sticks were checked, their brass claws greased, and laid along the coamings.
 
 NARRATOR
 Sparks stepped into the shallow water, his hands gripping the spruce bow of Catfish. The mud sucked at his ankles, but the boat lifted easily on the rising tide.
@@ -2520,7 +2520,7 @@ NARRATOR
 Hasler signaled with a raised paddle blade. Catfish held to the western channel, slipping toward the dark silhouette of the cranes lining the Quai de Bacalan.
 
 NARRATOR
-Corporal Albert Laver adjusted Crayfish’s heading toward the eastern shore—the right bank of the river, opposite the illuminated silhouette of the city’s blackout sector.
+Corporal Albert Laver adjusted Crayfish's heading toward the eastern shore—the right bank of the river, opposite the illuminated silhouette of the city's blackout sector.
 
 LAVER
 (whispering forward)
@@ -2562,7 +2562,7 @@ NARRATOR
 It was a grueling operational decision. Bassens lay five miles back downriver on the eastern bank. To double back meant burning nearly an hour of slack water, consuming physical reserves they would need for the long escape paddle to Blaye.
 
 NARRATOR
-Laver swung Crayfish’s bow north into the stream.
+Laver swung Crayfish's bow north into the stream.
 
 NARRATOR
 They paddled downriver with hard, deep strokes. The silence of the night was broken only by the faint hum of power stations and the rhythmic clatter of distant railway points.
@@ -2587,10 +2587,10 @@ LAVER
 Ease alongside. Get the sucker on.
 
 NARRATOR
-Mills feathered his paddle and reached for the plumber’s suction cup. He leaned over the spruce gunwale, licked the rubber rim, and pressed it hard against a riveted hull plate just above the waterline.
+Mills feathered his paddle and reached for the plumber's suction cup. He leaned over the spruce gunwale, licked the rubber rim, and pressed it hard against a riveted hull plate just above the waterline.
 
 NARRATOR
-The suction took hold. The canoe was clamped firmly against the ship’s iron flank.
+The suction took hold. The canoe was clamped firmly against the ship's iron flank.
 
 NARRATOR
 Mills assembled the two jointed sections of the ash placing stick, checking that the spring claw held the first limpet securely.
@@ -2605,7 +2605,7 @@ NARRATOR
 Clunk.
 
 NARRATOR
-The six horseshoe magnets seized the steel plate with forty pounds of force, the sharp vibration traveling up the wooden shaft into Mills’s wrists.
+The six horseshoe magnets seized the steel plate with forty pounds of force, the sharp vibration traveling up the wooden shaft into Mills's wrists.
 
 NARRATOR
 Mills reached down to the release wire on the delay pencil and pressed firmly against the brass cap. Beneath the water, the internal glass ampoule shattered with a minute, muffled crunch.
@@ -2617,7 +2617,7 @@ NARRATOR
 Mills twisted the stick to clear the claw, brought the shaft aboard, and reloaded.
 
 NARRATOR
-Moving methodically along the freighter’s hull, Mills placed four more limpets at thirty-foot intervals beneath the engine room and forward cargo holds. Each time, the routine was identical - the wet slap of the rubber suction cup, the lowering of the placer, the magnetic thud in the dark, the crunch of the acid ampoule, and the withdrawal.
+Moving methodically along the freighter's hull, Mills placed four more limpets at thirty-foot intervals beneath the engine room and forward cargo holds. Each time, the routine was identical - the wet slap of the rubber suction cup, the lowering of the placer, the magnetic thud in the dark, the crunch of the acid ampoule, and the withdrawal.
 
 NARRATOR
 Five limpets were clamped to the hull. Three remained in the cargo well.
@@ -2629,13 +2629,13 @@ NARRATOR
 Tied up at the southern petroleum pier lay a smaller vessel—a passenger-cargo liner of roughly three thousand tons, requisitioned for naval service or escort duties.
 
 NARRATOR
-Working in the shadow of the ship’s anchor chain, where the current formed a quiet eddy beneath the bow, Mills clamped their final three limpet mines against the hull plating, crushing the acid ampoules with steady, mechanical pressure.
+Working in the shadow of the ship's anchor chain, where the current formed a quiet eddy beneath the bow, Mills clamped their final three limpet mines against the hull plating, crushing the acid ampoules with steady, mechanical pressure.
 
 NARRATOR
 The last charge was set at 01:10.
 
 NARRATOR
-All eight of Crayfish’s limpet mines were expended. The cargo well between Mills’s knees was bare.
+All eight of Crayfish's limpet mines were expended. The cargo well between Mills's knees was bare.
 
 NARRATOR
 Under the canoe, the river began to move. The slack water had broken; the ebb tide was beginning to run north toward the sea, carrying cold river water past the pilings at two knots.
@@ -2675,7 +2675,7 @@ NARRATOR
 The silence on the water was unnatural. Across the river, Bordeaux lay locked beneath the curfew. The only sounds were the distant clatter of a railway carriage being shunted on the dock tracks and the hollow hum of auxiliary generators pulsing through ship plating.
 
 NARRATOR
-Hasler brought Catfish’s bow toward the first major silhouette - the SS Tannenfels.
+Hasler brought Catfish's bow toward the first major silhouette - the SS Tannenfels.
 
 NARRATOR
 At 7,840 tons, the German merchantman was one of the largest Axis blockade runners afloat. Her deep holds were packed with thousands of tons of high-grade crude rubber, wolfram, and tin brought from Singapore.
@@ -2685,10 +2685,10 @@ HASLER
 Ease her into the flare of the port bow.
 
 NARRATOR
-Sparks drew his paddle in and reached for the rubber suction cup. He leaned over the spruce gunwale, spat onto the rubber face, and pressed it hard against the cold, barnacle-crusted steel of Tannenfels’s hull, just above the waterline.
+Sparks drew his paddle in and reached for the rubber suction cup. He leaned over the spruce gunwale, spat onto the rubber face, and pressed it hard against the cold, barnacle-crusted steel of Tannenfels's hull, just above the waterline.
 
 NARRATOR
-The rubber seated with a dull, wet suction. Sparks gripped the short lanyard, holding Catfish rigid against the ship’s plating.
+The rubber seated with a dull, wet suction. Sparks gripped the short lanyard, holding Catfish rigid against the ship's plating.
 
 NARRATOR
 Behind him, Hasler lifted the jointed placing stick. The four-and-a-half-pound Type A limpet was clamped in the brass jaws, its six horseshoe magnets bare.
@@ -2703,7 +2703,7 @@ NARRATOR
 Thunk.
 
 NARRATOR
-The magnets clamped onto the steel plate with forty pounds of force. The vibration traveled up the ash shaft, buzzing against Hasler’s palms.
+The magnets clamped onto the steel plate with forty pounds of force. The vibration traveled up the ash shaft, buzzing against Hasler's palms.
 
 NARRATOR
 Hasler reached down to the trip wire and exerted steady, downward pressure on the firing cap. Beneath the surface, the internal glass ampoule shattered with a sharp, minute crunch.
@@ -2722,7 +2722,7 @@ NARRATOR
 Sparks prised the edge of the rubber cup loose with his thumb. Catfish drifted downstream along the hull.
 
 NARRATOR
-They placed a second limpet beneath Tannenfels’s engine room spaces, and a third against the forward hold containing the rubber.
+They placed a second limpet beneath Tannenfels's engine room spaces, and a third against the forward hold containing the rubber.
 
 NARRATOR
 As Hasler was preparing to release the third mine, the heavy thud of hobnailed boots sounded on the steel deck above.
@@ -2737,16 +2737,16 @@ NARRATOR
 Above them, a click sounded.
 
 NARRATOR
-A sharp, yellow beam from a hand-held torch cut down from the ship’s rail. The light struck the water ten feet from Catfish’s bow, illuminating floating river debris, coal dust, and oil slick.
+A sharp, yellow beam from a hand-held torch cut down from the ship's rail. The light struck the water ten feet from Catfish's bow, illuminating floating river debris, coal dust, and oil slick.
 
 NARRATOR
 The sentry moved the beam slowly along the hull plates.
 
 NARRATOR
-Hasler and Sparks did not move a muscle. Huddled in their dark, hooded smocks beneath the overhanging flare of the ship’s counter, their matte-grey canvas apron blended directly into the dark shadow thrown by the hull.
+Hasler and Sparks did not move a muscle. Huddled in their dark, hooded smocks beneath the overhanging flare of the ship's counter, their matte-grey canvas apron blended directly into the dark shadow thrown by the hull.
 
 NARRATOR
-The beam of light flickered across the surface of the river, lingered for three agonizing seconds on the black water three feet from Sparks’s paddle blade, and then swept away.
+The beam of light flickered across the surface of the river, lingered for three agonizing seconds on the black water three feet from Sparks's paddle blade, and then swept away.
 
 NARRATOR
 The sentry turned, spat into the river, and continued his slow march toward the stern.
@@ -2839,7 +2839,7 @@ NARRATOR
 At 03:00, they swept past the Bassens wharves on the eastern bank. The commercial piers were dark, their portal cranes standing motionless against the grey cloud base. Catfish raced past in the deep-water channel, Hasler scanning the water for any sign of Crayfish. The river was empty.
 
 NARRATOR
-By 03:45, the river widened as they cleared the Bec d’Ambès, where the Dordogne and Garonne merged to reform the Gironde.
+By 03:45, the river widened as they cleared the Bec d'Ambès, where the Dordogne and Garonne merged to reform the Gironde.
 
 NARRATOR
 Here, the collision of the two river discharges generated a violent, churning cross-swell. Eddies caught the lightweight canoe, throwing her violently off trim. Sparks buried his blades deep into the foam, fighting the counter-currents to keep the bow from broaching.
@@ -2848,7 +2848,7 @@ NARRATOR
 Half an hour later, near 04:15, Catfish entered the eastern channel opposite the long, dark landmass of Île Cazeau.
 
 NARRATOR
-Through the fog forty yards ahead, a low, black shape detached itself from the shadow of the island’s willow beds. It was moving north with the ebb, sitting barely six inches above the surface.
+Through the fog forty yards ahead, a low, black shape detached itself from the shadow of the island's willow beds. It was moving north with the ebb, sitting barely six inches above the surface.
 
 NARRATOR
 Hasler rested his paddle across the coaming and slipped his hand inside his smock, gripping the butt of his Colt .45. He drew out the reed whistle and blew a single, low note.
@@ -2860,7 +2860,7 @@ NARRATOR
 Catfish surged forward. The silhouette resolved into the canvas hull of Crayfish.
 
 NARRATOR
-Corporal Albert Laver and Marine William Mills were resting on their paddles, their dark smocks grey with salt, their faces gaunt in the gloom. Laver brought Crayfish alongside Catfish’s port gunwale.
+Corporal Albert Laver and Marine William Mills were resting on their paddles, their dark smocks grey with salt, their faces gaunt in the gloom. Laver brought Crayfish alongside Catfish's port gunwale.
 
 HASLER
 (whispering)
@@ -2868,7 +2868,7 @@ Albert.
 
 LAVER
 (his voice hoarse)
-Major. We were caught in an eddy coming off the point. We’ve been holding the channel line.
+Major. We were caught in an eddy coming off the point. We've been holding the channel line.
 
 HASLER
 Your targets?
@@ -2882,7 +2882,7 @@ HASLER
 We placed eight on the western quays. Tannenfels, Dresden, Alabama, and Portland. All sixteen mines are active.
 
 NARRATOR
-Mills looked up from Crayfish’s bow, his face pale beneath the smears of soot. For the first time in five days, the four men knew the strike was complete. Every charge carried from the torpedo room of HMS Tuna was clamped to an enemy hull.
+Mills looked up from Crayfish's bow, his face pale beneath the smears of soot. For the first time in five days, the four men knew the strike was complete. Every charge carried from the torpedo room of HMS Tuna was clamped to an enemy hull.
 
 HASLER
 (softly)
@@ -2930,7 +2930,7 @@ NARRATOR
 The eastern bank of the Gironde emerged from the morning mist as a bleak expanse of grey tidal mud, backed by drainage dykes and tangled osier beds.
 
 NARRATOR
-At 06:00, four hundred yards south of Laver’s landing position, Catfish’s bow slid into the soft silt of a drainage creek near Saint-Genès-de-Blaye.
+At 06:00, four hundred yards south of Laver's landing position, Catfish's bow slid into the soft silt of a drainage creek near Saint-Genès-de-Blaye.
 
 NARRATOR
 Sparks cleared his spray apron and rolled over the gunwale into the freezing ooze. The mud took him to mid-calf. The vacuum gripped his shoes, but there was no time to register the pain in his raw, blistered feet. The eastern horizon was turning from charcoal to pale slate; in less than an hour, the low winter sun would expose the open mudflats.
@@ -2979,7 +2979,7 @@ NARRATOR
 Within ten minutes, he reached the agreed rendezvous point—a clump of black alders dividing two drainage ditches—where Laver and Mills were already waiting.
 
 NARRATOR
-The four men were barely recognizable from the detachment that had embarked at Holy Loch. Their faces were hollow and blackened with soot and river grime, their eyes bloodshot from five days of salt spray and sleeplessness. Laver’s hands were wrapped in field dressings to cover the weeping saltwater sores on his knuckles.
+The four men were barely recognizable from the detachment that had embarked at Holy Loch. Their faces were hollow and blackened with soot and river grime, their eyes bloodshot from five days of salt spray and sleeplessness. Laver's hands were wrapped in field dressings to cover the weeping saltwater sores on his knuckles.
 
 NARRATOR
 Hasler unbuttoned his tunic and brought out the escape purse containing French francs and silk maps.
@@ -3154,7 +3154,7 @@ NARRATOR
 As sirens continued to scream across the smoky crescent of the Garonne, the security net did not close merely on the commandos.
 
 NARRATOR
-It closed with crushing force on the French civilian population—and directly on the undercover agents of Section F who had spent four months operating in the city’s shadows.
+It closed with crushing force on the French civilian population—and directly on the undercover agents of Section F who had spent four months operating in the city's shadows.
 
 
 
@@ -3187,7 +3187,7 @@ NARRATOR
 De Baissac turned his back on the checkpoint and slipped down a narrow side street.
 
 NARRATOR
-He did not need to see the hulls to know what had occurred. Over five months of meticulous, agonizing underground labor, de Baissac—codename "David," head of Section F’s Scientist network—had built an infiltration route into the Bassens wharves and the central docks.
+He did not need to see the hulls to know what had occurred. Over five months of meticulous, agonizing underground labor, de Baissac—codename "David," head of Section F's Scientist network—had built an infiltration route into the Bassens wharves and the central docks.
 
 NARRATOR
 His cell had recruited French customs inspectors, crane drivers, and two mechanical engineers inside the port authority. They had established safe drops for plastic explosive and tyre-bursters. His dockers had mapped the gangway watches, identified the sentry rotations on the blockade runners, and were awaiting only the final drop of delayed-action detonators from London to place their charges directly into the machinery spaces of the rubber ships.
@@ -3226,7 +3226,7 @@ NARRATOR
 The consequences unfolded with mechanical brutality over the next forty-eight hours.
 
 NARRATOR
-The German response was not confined to the river. Admiral Bachmann’s naval command, convinced that the frogmen had been assisted by an extensive fifth column embedded within the municipal dock workforce, handed internal security directly to the Gestapo and the Sicherheitsdienst (SD), operating from their headquarters on the Place de la Bourse.
+The German response was not confined to the river. Admiral Bachmann's naval command, convinced that the frogmen had been assisted by an extensive fifth column embedded within the municipal dock workforce, handed internal security directly to the Gestapo and the Sicherheitsdienst (SD), operating from their headquarters on the Place de la Bourse.
 
 NARRATOR
 By midday on 12 December, martial law was clamped over Bordeaux.
@@ -3241,13 +3241,13 @@ NARRATOR
 Men were beaten against the brick walls with rifle butts to extract names of who had guided the saboteurs to the anchorages. Dozens of dockers—men who had no knowledge of Hasler, Sparks, or the Royal Marines—were dragged out to waiting covered trucks and driven to the Fort du Hâ prison for intensive interrogation.
 
 NARRATOR
-For de Baissac’s Scientist network, the commando raid was a catastrophic disaster.
+For de Baissac's Scientist network, the commando raid was a catastrophic disaster.
 
 NARRATOR
 The dockers de Baissac had spent months cultivating were either under arrest or terrified into total passivity. The security cordon around the berths was permanently reinforced with electrified wire, searchlights, and attack dogs; no civilian would be permitted within fifty yards of an Axis vessel without a special Kriegsmarine pass issued directly by the naval command.
 
 NARRATOR
-Scientist’s port sabotage operation was dead.
+Scientist's port sabotage operation was dead.
 
 DE BAISSAC
 We scatter. You shut down transmissions from this quarter immediately. The Funkabwehr will be crawling every street within an hour. Move the transmitter to the safe house in Talence. Mary—you take the train south to Poitiers if the station is still open.
@@ -3262,7 +3262,7 @@ NARRATOR
 De Baissac packed his minimal kit, checked his false French identity card under the name of Claude Boissière, and stepped out into the winter rain.
 
 NARRATOR
-The Admiralty’s refusal to coordinate with Baker Street had yielded its operational dividend - four damaged merchantmen sitting in the mud of the Garonne, at the expense of an entire intelligence apparatus paralyzed and scores of French civilians handed over to the Gestapo.
+The Admiralty's refusal to coordinate with Baker Street had yielded its operational dividend - four damaged merchantmen sitting in the mud of the Garonne, at the expense of an entire intelligence apparatus paralyzed and scores of French civilians handed over to the Gestapo.
 
 NARRATOR
 Forty miles to the north-east, far beyond the smoke of the burning ships and the screams of the sirens, two Royal Marines were walking in single file down a narrow, frozen country lane in the Charente-Maritime.
@@ -3289,7 +3289,7 @@ NARRATOR
 By nightfall on the 13th, the two marines had covered nearly twenty miles, skirting the German garrison town of Blaye and heading north-east toward the line of the RN10 highway.
 
 NARRATOR
-The physical toll of five nights on the water had now combined with the brutal punishment of forced marching. Mills was walking with a heavy, halting limp; during the long haul across the mudflats at Saint-Genès, the skin on his heels had separated into raw, weeping blisters that rubbed against the stiff leather of his ammunition boots. Laver’s hands, wrapped in sodden field dressings, were hot and throbbing with the poison of ruptured saltwater boils.
+The physical toll of five nights on the water had now combined with the brutal punishment of forced marching. Mills was walking with a heavy, halting limp; during the long haul across the mudflats at Saint-Genès, the skin on his heels had separated into raw, weeping blisters that rubbed against the stiff leather of his ammunition boots. Laver's hands, wrapped in sodden field dressings, were hot and throbbing with the poison of ruptured saltwater boils.
 
 NARRATOR
 They had eaten only frozen scraps of pemmican and dry chocolate squares from their escape tins. To quench their thirst, they scooped brown, brackish water from drainage ditches, treating it with chlorine tablets that left their mouths tasting of chemical bleach.
@@ -3339,7 +3339,7 @@ NARRATOR
 The response was not the conspiratorial nod of the French Resistance. It was the cold, bureaucratic compliance of the Vichy state.
 
 NARRATOR
-The senior gendarme’s face tightened. He stepped back, drawing his service revolver and pointing it directly at Laver’s chest. The second gendarme unslung a carbine.
+The senior gendarme's face tightened. He stepped back, drawing his service revolver and pointing it directly at Laver's chest. The second gendarme unslung a carbine.
 
 NARRATOR
 They did not offer bread. They did not point toward a safe barn. Instead, they ordered the two British commandos to drop their small escape packs into the road and raise their hands above their heads.
@@ -3478,7 +3478,7 @@ NARRATOR
 The psychological weight was as heavy as the physical exhaustion. They had received no word of Laver and Mills since parting at Saint-Genès; they did not know whether their mines had detonated in Bordeaux, or whether they were the only survivors of the ten men who had launched from HMS Tuna.
 
 NARRATOR
-They were two solitary, hunted figures moving across an occupied nation, sustained entirely by the instinct to survive and Hasler’s unshakeable navigational compass.
+They were two solitary, hunted figures moving across an occupied nation, sustained entirely by the instinct to survive and Hasler's unshakeable navigational compass.
 
 NARRATOR
 Before dawn on 18 December, the character of the landscape shifted.
@@ -3563,7 +3563,7 @@ YVONNE MANDINAUD
 Venez. Vite.
 
 NARRATOR
-She ushered them through a bead curtain into the warmth of the rear kitchen. Her brother, René Mandinaud, and their sister Alix were at the prep table. Yvonne spoke rapidly in low Charentais French, gesturing to the two men’s boots and the British military tailoring beneath their coats.
+She ushered them through a bead curtain into the warmth of the rear kitchen. Her brother, René Mandinaud, and their sister Alix were at the prep table. Yvonne spoke rapidly in low Charentais French, gesturing to the two men's boots and the British military tailoring beneath their coats.
 
 NARRATOR
 René Mandinaud did not ask for proof of rank. He pulled two wooden chairs to the fire, pushed Hasler and Sparks down, and brought out what remained of the lunch service - bowls of thick potato soup, coarse country bread, and red wine.
@@ -3660,7 +3660,7 @@ NARRATOR
 Lieutenant John Mackinnon and Marine James Conway arrived three weeks later, in mid-January 1943.
 
 NARRATOR
-After scuttling Cuttlefish near the Bec d’Ambès, Mackinnon and Conway had evaded capture for seventeen days across the Entre-deux-Mers, sheltered in barns and outbuildings by French civilians. But Mackinnon’s wrenched knee had developed a severe internal infection, the joint swelling to twice its normal circumference.
+After scuttling Cuttlefish near the Bec d'Ambès, Mackinnon and Conway had evaded capture for seventeen days across the Entre-deux-Mers, sheltered in barns and outbuildings by French civilians. But Mackinnon's wrenched knee had developed a severe internal infection, the joint swelling to twice its normal circumference.
 
 NARRATOR
 Unable to walk, Mackinnon had been sheltered by local sympathizers who managed to smuggle him into the municipal hospital at La Réole, thirty-five miles south-east of Bordeaux, under the pretext of civilian illness. There, the evasion collapsed. An informant notified the local Vichy authorities; French police surrounded the hospital ward on 28 December, arresting Mackinnon in his bed and taking Conway from an adjoining street.
@@ -3693,7 +3693,7 @@ NARRATOR
 Within weeks, the physical deterioration accelerated.
 
 NARRATOR
-Laver’s hands, denied antiseptic dressing, retained the scarred, purplish pits of his Gironde saltwater boils. Mills lost nearly twenty pounds, his uniform hanging loose around his broad frame. In his cell down the tier, Mackinnon spent weeks lying on his straw pallet, his injured leg throbbing, nursing the infected joint without medical attention.
+Laver's hands, denied antiseptic dressing, retained the scarred, purplish pits of his Gironde saltwater boils. Mills lost nearly twenty pounds, his uniform hanging loose around his broad frame. In his cell down the tier, Mackinnon spent weeks lying on his straw pallet, his injured leg throbbing, nursing the infected joint without medical attention.
 
 NARRATOR
 The interrogations were conducted not at Fresnes, but at the SD counter-espionage offices at 84 Avenue Foch and 11 Rue des Saussaies.
@@ -3705,7 +3705,7 @@ NARRATOR
 At Avenue Foch, the interrogators were officers of Section IV E (Counter-Sabotage), operating under SS-Sturmbannführer Karl Kieffer.
 
 NARRATOR
-The SD officers knew the men were Royal Marines. The red-on-navy shoulder titles taken at Montlieu and La Réole were sitting in the case files on Kieffer’s desk. But the SD was not interested in routine military order of battle; they were interrogating the four commandos to extract three specific pieces of intelligence:
+The SD officers knew the men were Royal Marines. The red-on-navy shoulder titles taken at Montlieu and La Réole were sitting in the case files on Kieffer's desk. But the SD was not interested in routine military order of battle; they were interrogating the four commandos to extract three specific pieces of intelligence:
 
 NARRATOR
 The exact method of insertion (the identity and operating base of the submarine).
@@ -3750,7 +3750,7 @@ NARRATOR
 Communication between the commandos was nearly impossible, but not entirely.
 
 NARRATOR
-French civilian wardens who secretly cooperated with the Resistance later recorded that the British commandos in Division III used the prison’s iron water pipes to tap out brief, coded messages in Morse code during the quiet hours after the evening inspection. The messages were sparse, checking on each other's condition and confirming their adherence to the silence order.
+French civilian wardens who secretly cooperated with the Resistance later recorded that the British commandos in Division III used the prison's iron water pipes to tap out brief, coded messages in Morse code during the quiet hours after the evening inspection. The messages were sparse, checking on each other's condition and confirming their adherence to the silence order.
 
 NARRATOR
 Through January and February 1943, the four men remained trapped in this bureaucratic vacuum.
@@ -3807,7 +3807,7 @@ NARRATOR
 Under the provisions of the 1929 Geneva Convention, condemned prisoners of war were entitled to spiritual counsel from a chaplain, the right to write a final letter to their next of kin, and formal notification to the International Red Cross.
 
 NARRATOR
-Under Adolf Hitler’s Kommandobefehl, all legal status had been erased. The order was designed to leave no administrative footprint:
+Under Adolf Hitler's Kommandobefehl, all legal status had been erased. The order was designed to leave no administrative footprint:
 
 NARRATOR
 "The commandos are to be ruthlessly eliminated... no notices of their capture or execution are to be issued, and no information is to be provided to the Red Cross."
@@ -3886,7 +3886,7 @@ NARRATOR
 The extraction from Marvaud began in the dead of winter.
 
 NARRATOR
-On 23 January 1943, after thirty-six days inside the windowless priest’s hole behind Armand Dubreuille’s wardrobe, the door swung open. Standing in the lamplight was a tall, severe Englishwoman with her arm carried in a sling - Mary Lindell, the Countess of Milleville, codenamed "Marie-Claire."
+On 23 January 1943, after thirty-six days inside the windowless priest's hole behind Armand Dubreuille's wardrobe, the door swung open. Standing in the lamplight was a tall, severe Englishwoman with her arm carried in a sling - Mary Lindell, the Countess of Milleville, codenamed "Marie-Claire."
 
 NARRATOR
 An aristocratic veteran of the First World War French Red Cross, Lindell ran one of the most effective escape lines in western Europe. She had travelled from Paris, recovering from injuries sustained when struck by a German military vehicle, to verify the identities of the two fugitives personally.
@@ -3901,7 +3901,7 @@ NARRATOR
 The journey south was an ordeal of passive terror.
 
 NARRATOR
-Equipped with forged French identity cards provided by the network, Hasler became "Georges Dassault," a timber surveyor, while Sparks was papered as an electrician’s apprentice.
+Equipped with forged French identity cards provided by the network, Hasler became "Georges Dassault," a timber surveyor, while Sparks was papered as an electrician's apprentice.
 
 NARRATOR
 Guided by eighteen-year-old Maurice Lindell, they boarded a provincial passenger train at the rural station of Roumazières. The cars were unheated, crowded with French peasants, Vichy railway officials, and German Wehrmacht soldiers travelling on leave. Sparks sat rigid against the wooden slats, his cap pulled low, his heart hammering against his ribs every time an armed German patrol stomped down the central aisle checking Ausweise.
@@ -3919,10 +3919,10 @@ NARRATOR
 Here, the railway ended. The remaining barrier between occupied France and the Iberian peninsula was sixty miles of alpine rock and snow.
 
 NARRATOR
-In a shepherd’s hut above the Tech valley, Maurice Lindell handed the two marines over to their mountain guides—Basque and Catalan passeurs who smuggled refugees, downed Allied airmen, and black-market tobacco through the high passes for gold sovereigns provided by MI9.
+In a shepherd's hut above the Tech valley, Maurice Lindell handed the two marines over to their mountain guides—Basque and Catalan passeurs who smuggled refugees, downed Allied airmen, and black-market tobacco through the high passes for gold sovereigns provided by MI9.
 
 NARRATOR
-The guides looked at the two Englishmen with professional skepticism. Hasler was lean and fit, but Sparks’s ammunition boots had disintegrated during the march across the Charente; his feet were wrapped in layers of wool and canvas tied with twine, his ankles weak from weeks of confinement.
+The guides looked at the two Englishmen with professional skepticism. Hasler was lean and fit, but Sparks's ammunition boots had disintegrated during the march across the Charente; his feet were wrapped in layers of wool and canvas tied with twine, his ankles weak from weeks of confinement.
 
 LEAD SMUGGLER
 (in broken French)
@@ -3938,11 +3938,11 @@ NARRATOR
 The physical punishment brought Sparks back to the agony of the Overfalls. The mountain wind tore through their thin civilian overcoats, dropping the temperature far below freezing. Every step into the drifts sent agonizing jolts through his ulcerated heels. On the steeper ascents, where the snow had frozen into sheets of glare ice, they climbed on their hands and knees, clawing at rocks and dwarf pine roots to keep from tumbling hundreds of feet down the scree slopes.
 
 NARRATOR
-Hasler walked directly behind Sparks. Whenever the young marine’s knees buckled under the thin air and muscular exhaustion, Hasler reached out, gripping his collar with one iron hand and shoving him forward into the smuggler’s footprints.
+Hasler walked directly behind Sparks. Whenever the young marine's knees buckled under the thin air and muscular exhaustion, Hasler reached out, gripping his collar with one iron hand and shoving him forward into the smuggler's footprints.
 
 HASLER
 (whispering against the howl of the wind)
-Keep your head up, Bill. We’re almost on the ridge.
+Keep your head up, Bill. We're almost on the ridge.
 
 NARRATOR
 Before dawn on 16 February, the trail levelled out onto a barren, wind-scoured plateau.
@@ -3954,7 +3954,7 @@ LEAD SMUGGLER
 España.
 
 NARRATOR
-They had crossed the frontier near Banyoles, north of Girona. They were in neutral territory—though in Francisco Franco’s fascist Spain, neutrality was hostile and treacherous. Allied evaders captured by the Guardia Civil were routinely interned in the squalid concentration camp at Miranda de Ebro for months while diplomats negotiated their release.
+They had crossed the frontier near Banyoles, north of Girona. They were in neutral territory—though in Francisco Franco's fascist Spain, neutrality was hostile and treacherous. Allied evaders captured by the Guardia Civil were routinely interned in the squalid concentration camp at Miranda de Ebro for months while diplomats negotiated their release.
 
 NARRATOR
 Following the smuggler's instructions, Hasler and Sparks avoided the town centers, walked south along railway tracks, and reached the outskirts of Barcelona.
@@ -3981,7 +3981,7 @@ NARRATOR
 At the Rock, the military caste system reasserted itself with bureaucratic finality.
 
 NARRATOR
-Hasler, as an officer possessing critical operational intelligence, was housed in the officers’ mess, issued fresh uniform, and debriefed by senior naval intelligence officers. Sparks, as an enlisted marine without papers or identification, was initially placed under armed guard by the military police until Hasler could personally walk into the provost marshal’s office to verify his identity.
+Hasler, as an officer possessing critical operational intelligence, was housed in the officers' mess, issued fresh uniform, and debriefed by senior naval intelligence officers. Sparks, as an enlisted marine without papers or identification, was initially placed under armed guard by the military police until Hasler could personally walk into the provost marshal's office to verify his identity.
 
 NARRATOR
 Their journeys home parted here.
@@ -4047,10 +4047,10 @@ NARRATOR
 The collateral cost was devastating.
 
 NARRATOR
-Across the street at Baker Street, the officers of Section F were assessing the ruin of Claude de Baissac’s Scientist network. The civilian dock sabotage network that had taken five months to build inside Bassens was dismantled. French stevedores, trade unionists, and customs clerks had been rounded up into Fort du Hâ, subjected to Gestapo interrogation, and deported to concentration camps in the East.
+Across the street at Baker Street, the officers of Section F were assessing the ruin of Claude de Baissac's Scientist network. The civilian dock sabotage network that had taken five months to build inside Bassens was dismantled. French stevedores, trade unionists, and customs clerks had been rounded up into Fort du Hâ, subjected to Gestapo interrogation, and deported to concentration camps in the East.
 
 NARRATOR
-The Admiralty’s operational isolation had secured a temporary tactical strike at the cost of an entire underground organization.
+The Admiralty's operational isolation had secured a temporary tactical strike at the cost of an entire underground organization.
 
 NARRATOR
 Then there was the human arithmetic.
