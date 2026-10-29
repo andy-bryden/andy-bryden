@@ -4,136 +4,136 @@ The raid on Saint-Nazaire, 1942
 Chariot cast
 
 NARRATOR
-Narrator - Charon. Accent: Vintage 1940s BBC British Received Pronunciation. Timbre & Pitch: Deep, commanding, resonant bass; cinematic gravitas and rich chest resonance. Cadence & Tempo: Measured, stately, dramatic pacing with deliberate historical weight and pauses for strategic impact. Mannerisms: Flawless mid-century BBC broadcast diction; crisp plosives; solemn, authoritative weight on key tactical revelations.
+Narrator - Charon. Accent - Vintage 1940s BBC British Received Pronunciation. Timbre & Pitch - Deep, commanding, resonant bass; cinematic gravitas and rich chest resonance. Cadence & Tempo - Measured, stately, dramatic pacing with deliberate historical weight and pauses for strategic impact. Mannerisms - Flawless mid-century BBC broadcast diction; crisp plosives; solemn, authoritative weight on key tactical revelations.
 
 MOUNTBATTEN 
-Lord Louis Mountbatten - Puck. Accent: High-Society British Received Pronunciation (Royal Navy Officer, Windsor court standard). Timbre & Pitch: Mid-to-high baritone; clear, crisp, perfectly resonant; zero vocal fry. Cadence & Tempo: Moderately brisk, fluid, effortless, and poised. Mannerisms: Impeccably clipped dental consonants (t, d); calm, hereditary confidence; never raises voice to command authority.
+Lord Louis Mountbatten - Puck. Accent - High-Society British Received Pronunciation (Royal Navy Officer, Windsor court standard). Timbre & Pitch - Mid-to-high baritone; clear, crisp, perfectly resonant; zero vocal fry. Cadence & Tempo - Moderately brisk, fluid, effortless, and poised. Mannerisms - Impeccably clipped dental consonants (t, d); calm, hereditary confidence; never raises voice to command authority.
 
 NAVAL PLANNER 1
-Naval Staff Planner (Admiralty) - Achird. Accent: Formal Whitehall British Received Pronunciation (Civil Service / Naval Staff). Timbre & Pitch: Dry, steady, mid-range baritone; reedy and pedantic. Cadence & Tempo: Measured, brisk, bureaucratic; clipped analytical tempo. Mannerisms: Fastidious enunciation; precise tapping of consonants; matter-of-fact skepticism with stiff-upper-lip composure.
+Naval Staff Planner (Admiralty) - Achird. Accent - Formal Whitehall British Received Pronunciation (Civil Service / Naval Staff). Timbre & Pitch - Dry, steady, mid-range baritone; reedy and pedantic. Cadence & Tempo - Measured, brisk, bureaucratic; clipped analytical tempo. Mannerisms - Fastidious enunciation; precise tapping of consonants; matter-of-fact skepticism with stiff-upper-lip composure.
 
 NAVAL PLANNER 2
-Senior Staff Officer (Combined Operations) - Fenrir. Accent: Upper-Class Scottish-inflected RP (Edinburgh / Naval Staff). Timbre & Pitch: Gritty, textured, low baritone with a dry, smoky edge. Cadence & Tempo: Deliberate, blunt, unvarnished; steady tactical rhythm. Mannerisms: Hard-rolled rhotic "r"s; tight jaw; low, no-nonsense delivery that cuts through speculative theories.
+Senior Staff Officer (Combined Operations) - Fenrir. Accent - Upper-Class Scottish-inflected RP (Edinburgh / Naval Staff). Timbre & Pitch - Gritty, textured, low baritone with a dry, smoky edge. Cadence & Tempo - Deliberate, blunt, unvarnished; steady tactical rhythm. Mannerisms - Hard-rolled rhotic "r"s; tight jaw; low, no-nonsense delivery that cuts through speculative theories.
 
 BEATTIE
-Lieutenant Commander Stephen Beattie - Orus. Accent: Welsh-inflected British Royal Navy Officer RP (Montgomeryshire roots). Timbre & Pitch: Deep, robust, resonant baritone; warm chest core with an iron edge. Cadence & Tempo: Calm, steady, unflappable; rhythmic and unhurried even under direct fire. Mannerisms: Soft, musical Welsh lilt on elongated vowels grounded by strict naval command authority; tight-lipped smile under pressure.
+Lieutenant Commander Stephen Beattie - Orus. Accent - Welsh-inflected British Royal Navy Officer RP (Montgomeryshire roots). Timbre & Pitch - Deep, robust, resonant baritone; warm chest core with an iron edge. Cadence & Tempo - Calm, steady, unflappable; rhythmic and unhurried even under direct fire. Mannerisms - Soft, musical Welsh lilt on elongated vowels grounded by strict naval command authority; tight-lipped smile under pressure.
 
 TIBBITS
-Lieutenant Nigel Tibbits - Achird. Accent: Refined Southern English RP (HMS Vernon torpedo & demolition specialist). Timbre & Pitch: Clear, focused, mid-register baritone; clean, bright, technical timbre. Cadence & Tempo: Methodical, brisk, articulate; calculated precision. Mannerisms: Mathematical exactitude; crisp dental articulation; quiet, understated confidence when explaining delayed-action fuses and lethal charges.
+Lieutenant Nigel Tibbits - Achird. Accent - Refined Southern English RP (HMS Vernon torpedo & demolition specialist). Timbre & Pitch - Clear, focused, mid-register baritone; clean, bright, technical timbre. Cadence & Tempo - Methodical, brisk, articulate; calculated precision. Mannerisms - Mathematical exactitude; crisp dental articulation; quiet, understated confidence when explaining delayed-action fuses and lethal charges.
 
 HOWARD
-Chief Engine Room Artificer Howard - Fenrir. Accent: West Country / Hampshire Royal Navy Dockyard English (Portsmouth regular). Timbre & Pitch: Gravelly, raspy, oil-and-smoke-caked low baritone; heavy chest vibration. Cadence & Tempo: Gruff, rapid, workaday tempo; urgent and visceral. Mannerisms: Swallowed word-endings; dropped "h"s; shouting effortlessly over roaring steam engines and boiler hum.
+Chief Engine Room Artificer Howard - Fenrir. Accent - West Country / Hampshire Royal Navy Dockyard English (Portsmouth regular). Timbre & Pitch - Gravelly, raspy, oil-and-smoke-caked low baritone; heavy chest vibration. Cadence & Tempo - Gruff, rapid, workaday tempo; urgent and visceral. Mannerisms - Swallowed word-endings; dropped "h"s; shouting effortlessly over roaring steam engines and boiler hum.
 
 PRITCHARD
-Captain Bill Pritchard - Iapetus. Accent: Northern English Educated RP (Royal Engineers dockyard specialist, Yorkshire undertones). Timbre & Pitch: Deep, heavy, resonant bass-baritone; dense and grounded. Cadence & Tempo: Slow, deliberative, architectural; authoritative technical breakdown. Mannerisms: Heavy downward inflection on final words; dry, pragmatic enunciation; unwavering certainty in demolitions analysis.
+Captain Bill Pritchard - Iapetus. Accent - Northern English Educated RP (Royal Engineers dockyard specialist, Yorkshire undertones). Timbre & Pitch - Deep, heavy, resonant bass-baritone; dense and grounded. Cadence & Tempo - Slow, deliberative, architectural; authoritative technical breakdown. Mannerisms - Heavy downward inflection on final words; dry, pragmatic enunciation; unwavering certainty in demolitions analysis.
 
 CHANT
-Lieutenant Stuart Chant - Puck. Accent: Youthful Vintage British Public School RP (The Gordon Highlanders / Commando). Timbre & Pitch: Resolute, warm, mid-to-high baritone; vibrant, clear, slightly strained with physical grit. Cadence & Tempo: Rapid, energetic, driving forward; breathless tenacity under heavy pain. Mannerisms: Plucky, stiff-upper-lip grit; audible breathing through teeth; determined, bright emphasis on mission objectives.
+Lieutenant Stuart Chant - Puck. Accent - Youthful Vintage British Public School RP (The Gordon Highlanders / Commando). Timbre & Pitch - Resolute, warm, mid-to-high baritone; vibrant, clear, slightly strained with physical grit. Cadence & Tempo - Rapid, energetic, driving forward; breathless tenacity under heavy pain. Mannerisms - Plucky, stiff-upper-lip grit; audible breathing through teeth; determined, bright emphasis on mission objectives.
 
 MONTGOMERY
-Captain Bob Montgomery - Achird. Accent: Home Counties Educated British English (Royal Engineers). Timbre & Pitch: Steady, calm, conversational mid-baritone; clean and unflustered. Cadence & Tempo: Smooth, fluid, moderate pace; relaxed professional rhythm. Mannerisms: Smooth vowel transitions; gentle, self-assured instructional tone; entirely relaxed under hazardous explosive handling.
+Captain Bob Montgomery - Achird. Accent - Home Counties Educated British English (Royal Engineers). Timbre & Pitch - Steady, calm, conversational mid-baritone; clean and unflustered. Cadence & Tempo - Smooth, fluid, moderate pace; relaxed professional rhythm. Mannerisms - Smooth vowel transitions; gentle, self-assured instructional tone; entirely relaxed under hazardous explosive handling.
 
 NEWMAN
-Lieutenant Colonel Augustus Charles Newman - Orus. Accent: Commanding British Army Officer RP with subtle Essex / London undertones. Timbre & Pitch: Powerful, authoritative, gravel-edged baritone; cavernous chest resonance. Cadence & Tempo: Staccato, martial, inspiring; punchy cadences built to carry over battlefield fire. Mannerisms: Barked operational commands; fierce, fatherly grit; unmistakable front-line swagger; bites off end-consonants with fierce conviction.
+Lieutenant Colonel Augustus Charles Newman - Orus. Accent - Commanding British Army Officer RP with subtle Essex / London undertones. Timbre & Pitch - Powerful, authoritative, gravel-edged baritone; cavernous chest resonance. Cadence & Tempo - Staccato, martial, inspiring; punchy cadences built to carry over battlefield fire. Mannerisms - Barked operational commands; fierce, fatherly grit; unmistakable front-line swagger; bites off end-consonants with fierce conviction.
 
 WYNN
-Sub-Lieutenant Robert “Mickey” Wynn - Puck. Accent: Aristocratic Anglo-Irish Patrician (Eccentric Dublin / Meath hunting gentry). Timbre & Pitch: Lively, brassy, high-spirited baritone; bright and mischievous. Cadence & Tempo: Fast, erratic, dashing; bouncy, devil-may-care theatrical cadence. Mannerisms: Flamboyant Irish vowel elongations; jaunty laugh audible under fire; daring, swashbuckling delivery.
+Sub-Lieutenant Robert “Mickey” Wynn - Puck. Accent - Aristocratic Anglo-Irish Patrician (Eccentric Dublin / Meath hunting gentry). Timbre & Pitch - Lively, brassy, high-spirited baritone; bright and mischievous. Cadence & Tempo - Fast, erratic, dashing; bouncy, devil-may-care theatrical cadence. Mannerisms - Flamboyant Irish vowel elongations; jaunty laugh audible under fire; daring, swashbuckling delivery.
 
 RYDER
-Commander Robert Ryder - Iapetus. Accent: Classic Traditional Royal Navy Received Pronunciation (Dartmouth officer standard). Timbre & Pitch: Deep, sonorous, granite bass; steady, majestic, unflinching resonance. Cadence & Tempo: Slow, icy, metronomic; monumental calm during devastating combat. Mannerisms: Impeccable naval restraint; low-pitched vocal economy; never raises his voice above the roar of battle, commanding absolute compliance.
+Commander Robert Ryder - Iapetus. Accent - Classic Traditional Royal Navy Received Pronunciation (Dartmouth officer standard). Timbre & Pitch - Deep, sonorous, granite bass; steady, majestic, unflinching resonance. Cadence & Tempo - Slow, icy, metronomic; monumental calm during devastating combat. Mannerisms - Impeccable naval restraint; low-pitched vocal economy; never raises his voice above the roar of battle, commanding absolute compliance.
 
 PIKE
-Leading Signalman Alfred Pike - Puck. Accent: Sharp London Cockney / Estuary English (Royal Navy rating). Timbre & Pitch: Bright, reedy, agile mid-baritone; rapid and punchy. Cadence & Tempo: Staccato, swift, nervous energy channeled into rigid protocol. Mannerisms: Glottal stops on "t"s; breathless, urgent reporting; razor-sharp signal acknowledgments delivered at machine-gun speed.
+Leading Signalman Alfred Pike - Puck. Accent - Sharp London Cockney / Estuary English (Royal Navy rating). Timbre & Pitch - Bright, reedy, agile mid-baritone; rapid and punchy. Cadence & Tempo - Staccato, swift, nervous energy channeled into rigid protocol. Mannerisms - Glottal stops on "t"s; breathless, urgent reporting; razor-sharp signal acknowledgments delivered at machine-gun speed.
 
 GREEN
-Lieutenant A.R. Green - Achird. Accent: Crisp, educated South East British English (RNVR). Timbre & Pitch: Calm, clear, steady mid-baritone; clean broadcast quality. Cadence & Tempo: Measured, brisk, disciplined; navigational efficiency. Mannerisms: Crisp consonants; clipped naval bearings; steady, alert vocal modulation under pressure.
+Lieutenant A.R. Green - Achird. Accent - Crisp, educated South East British English (RNVR). Timbre & Pitch - Calm, clear, steady mid-baritone; clean broadcast quality. Cadence & Tempo - Measured, brisk, disciplined; navigational efficiency. Mannerisms - Crisp consonants; clipped naval bearings; steady, alert vocal modulation under pressure.
 
 HOWARTH
-Lance-Sergeant Arnold Howarth - Fenrir. Accent: Gritty Lancashire / North West British English (Manchester / Salford working-class). Timbre & Pitch: Coarse, raspy, textured baritone; thick and muscular. Cadence & Tempo: Blunt, rhythmic, fast-paced; direct northern cadence. Mannerisms: Flat northern vowels; hard "k" and "g" endings; dark humor in tight corners; no-nonsense combat shouting.
+Lance-Sergeant Arnold Howarth - Fenrir. Accent - Gritty Lancashire / North West British English (Manchester / Salford working-class). Timbre & Pitch - Coarse, raspy, textured baritone; thick and muscular. Cadence & Tempo - Blunt, rhythmic, fast-paced; direct northern cadence. Mannerisms - Flat northern vowels; hard "k" and "g" endings; dark humor in tight corners; no-nonsense combat shouting.
 
 COPLAND
-Major William Copland - Iapetus. Accent: Cultured Scottish (Dundee / Angus gentleman-soldier). Timbre & Pitch: Rich, rumbling, gravelly bass-baritone; stern and weathered. Cadence & Tempo: Deliberate, unhurried, resolute; sturdy marching tempo. Mannerisms: Rolled alveolar "r"s; austere, veteran composure; quiet, fatherly firmness that commands immediate obedience.
+Major William Copland - Iapetus. Accent - Cultured Scottish (Dundee / Angus gentleman-soldier). Timbre & Pitch - Rich, rumbling, gravelly bass-baritone; stern and weathered. Cadence & Tempo - Deliberate, unhurried, resolute; sturdy marching tempo. Mannerisms - Rolled alveolar "r"s; austere, veteran composure; quiet, fatherly firmness that commands immediate obedience.
 
 TORPEDO RATING
-Torpedo Rating - Fenrir. Accent: Working-Class West Midlands / Black Country English. Timbre & Pitch: Raw, throaty, strained mid-baritone with a rough gravelly rasp. Cadence & Tempo: Short, sharp, panicked bursts turning into stubborn determination. Mannerisms: Dropped consonants; breathy, adrenaline-fueled shouting; raspy, mechanical readiness.
+Torpedo Rating - Fenrir. Accent - Working-Class West Midlands / Black Country English. Timbre & Pitch - Raw, throaty, strained mid-baritone with a rough gravelly rasp. Cadence & Tempo - Short, sharp, panicked bursts turning into stubborn determination. Mannerisms - Dropped consonants; breathy, adrenaline-fueled shouting; raspy, mechanical readiness.
 
 DOCKERILL
-Sergeant A. Dockerill - Orus. Accent: Broad London Cockney / East London Soldier. Timbre & Pitch: Heavy, abrasive, powerful baritone; raw, booming projection. Cadence & Tempo: Snappy, aggressive, driving tempo; sergeant-major swagger. Mannerisms: Aggressive dropped vowels; thumping emphasis on action verbs; defiant, mocking tone when facing enemy fire.
+Sergeant A. Dockerill - Orus. Accent - Broad London Cockney / East London Soldier. Timbre & Pitch - Heavy, abrasive, powerful baritone; raw, booming projection. Cadence & Tempo - Snappy, aggressive, driving tempo; sergeant-major swagger. Mannerisms - Aggressive dropped vowels; thumping emphasis on action verbs; defiant, mocking tone when facing enemy fire.
 
 CHAMBERLAIN
-Lance-Sergeant Chamberlain - Achird. Accent: West Country English (Devon / Somerset rustic lilt). Timbre & Pitch: Warm, steady, earthy mid-baritone; burly and dependable. Cadence & Tempo: Rolling, measured, unhurried; rhythmic pastoral lilt turned lethal. Mannerisms: Rhotic, elongated "r"s; calm reassurance amid chaotic crossfire; grounded, unshakeable demeanor.
+Lance-Sergeant Chamberlain - Achird. Accent - West Country English (Devon / Somerset rustic lilt). Timbre & Pitch - Warm, steady, earthy mid-baritone; burly and dependable. Cadence & Tempo - Rolling, measured, unhurried; rhythmic pastoral lilt turned lethal. Mannerisms - Rhotic, elongated "r"s; calm reassurance amid chaotic crossfire; grounded, unshakeable demeanor.
 
 WINTHROPE
-Surgeon Lieutenant W.J. Winthrope - Achird. Accent: Gentle Northumbrian / Lowland Scots-Border English. Timbre & Pitch: Soft, clinical, soothing mid-register baritone; velvet texture with a tired edge. Cadence & Tempo: Slow, quiet, rhythmic; bedside manner retained amidst falling shells. Mannerisms: Softened sibilants; steady, breathy cadence; calm, focused presence soothing the grievously wounded.
+Surgeon Lieutenant W.J. Winthrope - Achird. Accent - Gentle Northumbrian / Lowland Scots-Border English. Timbre & Pitch - Soft, clinical, soothing mid-register baritone; velvet texture with a tired edge. Cadence & Tempo - Slow, quiet, rhythmic; bedside manner retained amidst falling shells. Mannerisms - Softened sibilants; steady, breathy cadence; calm, focused presence soothing the grievously wounded.
 
 TWEEDIE
-Lieutenant Commander Hugo Tweedie - Orus. Accent: High-Tier British Naval Officer RP (Destroyer Captain). Timbre & Pitch: Crisp, ringing, commanding baritone; incisive and resonant. Cadence & Tempo: Brisk, decisive, razor-sharp; immediate combat tempo. Mannerisms: Punchy naval jargon; biting dental consonants; utterly focused anti-submarine predator instinct.
+Lieutenant Commander Hugo Tweedie - Orus. Accent - High-Tier British Naval Officer RP (Destroyer Captain). Timbre & Pitch - Crisp, ringing, commanding baritone; incisive and resonant. Cadence & Tempo - Brisk, decisive, razor-sharp; immediate combat tempo. Mannerisms - Punchy naval jargon; biting dental consonants; utterly focused anti-submarine predator instinct.
 
 STARBOARD BRIDGE LOOKOUT
-Starboard Bridge Lookout - Fenrir. Accent: South Wales Industrial / Cardiff English. Timbre & Pitch: High-tension, raspy, breathless baritone; strained from scanning black water. Cadence & Tempo: Rapid, spiking, urgent; sudden staccato bursts. Mannerisms: Melodic Welsh rising pitch at end of callouts; strained neck muscles audible in voice; wide-eyed panic held in check.
+Starboard Bridge Lookout - Fenrir. Accent - South Wales Industrial / Cardiff English. Timbre & Pitch - High-tension, raspy, breathless baritone; strained from scanning black water. Cadence & Tempo - Rapid, spiking, urgent; sudden staccato bursts. Mannerisms - Melodic Welsh rising pitch at end of callouts; strained neck muscles audible in voice; wide-eyed panic held in check.
 
 SUB-LIEUTENANT
-Royal Navy Sub-Lieutenant - Puck. Accent: Youthful British Received Pronunciation (Junior RNVR Officer). Timbre & Pitch: Bright, athletic, clear-cut mid-baritone; eager, clean resonance. Cadence & Tempo: Crisp, rapid, textbook naval cadence; lively and sharp. Mannerisms: Eager-to-please snap; precise, clean articulation; high energy fighting against fear.
+Royal Navy Sub-Lieutenant - Puck. Accent - Youthful British Received Pronunciation (Junior RNVR Officer). Timbre & Pitch - Bright, athletic, clear-cut mid-baritone; eager, clean resonance. Cadence & Tempo - Crisp, rapid, textbook naval cadence; lively and sharp. Mannerisms - Eager-to-please snap; precise, clean articulation; high energy fighting against fear.
 
 SERGEANT
-Commando Sergeant - Fenrir. Accent: Yorkshire / West Riding English (Industrial North). Timbre & Pitch: Harsh, gravelly, booming baritone; ironclad vocal core. Cadence & Tempo: Pounding, rhythmic, forceful; unrelenting drive. Mannerisms: Broad northern vowels ("u" sounds); guttural combat growls; direct, unyielding sergeant's authority.
+Commando Sergeant - Fenrir. Accent - Yorkshire / West Riding English (Industrial North). Timbre & Pitch - Harsh, gravelly, booming baritone; ironclad vocal core. Cadence & Tempo - Pounding, rhythmic, forceful; unrelenting drive. Mannerisms - Broad northern vowels ("u" sounds); guttural combat growls; direct, unyielding sergeant's authority.
 
 PURDON
-Lieutenant Corran Purdon - Achird. Accent: Educated Anglo-Irish / Ulster-Scots Officer (Belfast / Cork gentry blend). Timbre & Pitch: Engaging, dry, firm mid-baritone; melodic yet steely. Cadence & Tempo: Steady, fluid, confident; spirited tactical delivery. Mannerisms: Soft, lilting Irish cadence on vowels balanced by crisp Sandhurst consonants; cool, dry humor under fire.
+Lieutenant Corran Purdon - Achird. Accent - Educated Anglo-Irish / Ulster-Scots Officer (Belfast / Cork gentry blend). Timbre & Pitch - Engaging, dry, firm mid-baritone; melodic yet steely. Cadence & Tempo - Steady, fluid, confident; spirited tactical delivery. Mannerisms - Soft, lilting Irish cadence on vowels balanced by crisp Sandhurst consonants; cool, dry humor under fire.
 
 PLOTTING OFFICER
-German Coastal Radar & Plotting Officer - Achird. Accent: High German with clipped Berlin / Prussian bureaucratic cadence. Timbre & Pitch: Flat, precise, academic mid-baritone; monotone and clinical. Cadence & Tempo: Methodical, rapid, rigid; metronomic reporting tempo. Mannerisms: Sharp, percussive consonants; guttural German "ch"; unwavering procedural rigidity; confusion conveyed by tightening pitch.
+German Coastal Radar & Plotting Officer - Achird. Accent - High German with clipped Berlin / Prussian bureaucratic cadence. Timbre & Pitch - Flat, precise, academic mid-baritone; monotone and clinical. Cadence & Tempo - Methodical, rapid, rigid; metronomic reporting tempo. Mannerisms - Sharp, percussive consonants; guttural German "ch"; unwavering procedural rigidity; confusion conveyed by tightening pitch.
 
 PAUL
-Kapitänleutnant Friedrich-Karl Paul - Iapetus. Accent: North German / Baltic Maritime German (Kiel naval cadence). Timbre & Pitch: Deep, gruff, brine-caked bass-baritone; weathered and dense. Cadence & Tempo: Deliberate, stern, suspicious; slow, assessing cadence. Mannerisms: Guttural, throat-centered rasp; hard glottal stops; weary naval cynicism.
+Kapitänleutnant Friedrich-Karl Paul - Iapetus. Accent - North German / Baltic Maritime German (Kiel naval cadence). Timbre & Pitch - Deep, gruff, brine-caked bass-baritone; weathered and dense. Cadence & Tempo - Deliberate, stern, suspicious; slow, assessing cadence. Mannerisms - Guttural, throat-centered rasp; hard glottal stops; weary naval cynicism.
 
 MECKE
-Kapitän zur See Karl-Conrad Mecke - Orus. Accent: Stern Imperial Prussian-German (WWI naval veteran flak commander). Timbre & Pitch: Deep, thunderous, aristocratic baritone; razor-sharp metallic edge. Cadence & Tempo: Ponderous, imperious, explosive; rapid crescendo when giving firing orders. Mannerisms: Heavy guttural "r"s; rigid, aristocratic posture reflected in voice; biting, contemptuous interrogation tone.
+Kapitän zur See Karl-Conrad Mecke - Orus. Accent - Stern Imperial Prussian-German (WWI naval veteran flak commander). Timbre & Pitch - Deep, thunderous, aristocratic baritone; razor-sharp metallic edge. Cadence & Tempo - Ponderous, imperious, explosive; rapid crescendo when giving firing orders. Mannerisms - Heavy guttural "r"s; rigid, aristocratic posture reflected in voice; biting, contemptuous interrogation tone.
 
 MASTHEAD LOOKOUT
-Masthead Lookout - Puck. Accent: Geordie / Newcastle upon Tyne English. Timbre & Pitch: High, piercing, resonant tenor-baritone; carries through wind and engine roar. Cadence & Tempo: Sing-song, fast, anxious cadence. Mannerisms: Rising intonation on nautical directions; sharp, urgent warnings; breathy, cold-chapped vocal quality.
+Masthead Lookout - Puck. Accent - Geordie / Newcastle upon Tyne English. Timbre & Pitch - High, piercing, resonant tenor-baritone; carries through wind and engine roar. Cadence & Tempo - Sing-song, fast, anxious cadence. Mannerisms - Rising intonation on nautical directions; sharp, urgent warnings; breathy, cold-chapped vocal quality.
 
 LOOKOUT
-Deck Lookout - Achird. Accent: Scottish Highlands / Inverness English. Timbre & Pitch: Reedy, quiet, focused mid-baritone; breathy and sharp. Cadence & Tempo: Measured, sudden, alert; cautious pacing. Mannerisms: Soft Scottish rolling "r"s; sharp intakes of breath before shouting bearings; taut vigilance.
+Deck Lookout - Achird. Accent - Scottish Highlands / Inverness English. Timbre & Pitch - Reedy, quiet, focused mid-baritone; breathy and sharp. Cadence & Tempo - Measured, sudden, alert; cautious pacing. Mannerisms - Soft Scottish rolling "r"s; sharp intakes of breath before shouting bearings; taut vigilance.
 
 KELBLING
-Kapitänleutnant Gerd Kelbling - Fenrir. Accent: Northern German / Hamburg U-boat German. Timbre & Pitch: Low, gravelly, claustrophobic baritone; muffled, tense submarine timbre. Cadence & Tempo: Whispered, tense, clipped; rapid staccato whispers. Mannerisms: Tight throat; clipped German military terms; intense internal focus under depth-charge attack.
+Kapitänleutnant Gerd Kelbling - Fenrir. Accent - Northern German / Hamburg U-boat German. Timbre & Pitch - Low, gravelly, claustrophobic baritone; muffled, tense submarine timbre. Cadence & Tempo - Whispered, tense, clipped; rapid staccato whispers. Mannerisms - Tight throat; clipped German military terms; intense internal focus under depth-charge attack.
 
 HOPWOOD
-Sergeant Don Hopwood - Orus. Accent: Birmingham / West Midlands English. Timbre & Pitch: Heavy, hearty, gravel-edged baritone; resonant, blunt, and thick. Cadence & Tempo: Conversational, dogged, marching tempo. Mannerisms: Flat Brum vowels; unflinching physical stoicism; dry, deadpan delivery in the middle of battle.
+Sergeant Don Hopwood - Orus. Accent - Birmingham / West Midlands English. Timbre & Pitch - Heavy, hearty, gravel-edged baritone; resonant, blunt, and thick. Cadence & Tempo - Conversational, dogged, marching tempo. Mannerisms - Flat Brum vowels; unflinching physical stoicism; dry, deadpan delivery in the middle of battle.
 
 HENDERSON
-Lieutenant Ian B. Henderson - Orus. Accent: West Country Gentleman RP (Cornish / Devon yachting gentry). Timbre & Pitch: Authoritative, ringing, powerful baritone; open-throated maritime projection. Cadence & Tempo: Calm, bold, heroic; resolute and steady against overwhelming odds. Mannerisms: Resolute maritime commands; full, resonant vowels; fearless, chivalric defiance when engaging heavily armed warships.
+Lieutenant Ian B. Henderson - Orus. Accent - West Country Gentleman RP (Cornish / Devon yachting gentry). Timbre & Pitch - Authoritative, ringing, powerful baritone; open-throated maritime projection. Cadence & Tempo - Calm, bold, heroic; resolute and steady against overwhelming odds. Mannerisms - Resolute maritime commands; full, resonant vowels; fearless, chivalric defiance when engaging heavily armed warships.
 
 GERMAN INFANTRY PLATOON
-German Infantry Platoon - Fenrir. Accent: Harsh Regional German Chorus (Saxon / Ruhr / Bavarian infantry blend). Timbre & Pitch: Raspy, ragged, throat-tearing collective shouting; harsh mid-to-high register. Cadence & Tempo: Frenetic, chaotic, barking staccato bursts. Mannerisms: Raw guttural barks, frantic alarms, overlapping commands and muzzle-blast shouting.
+German Infantry Platoon - Fenrir. Accent - Harsh Regional German Chorus (Saxon / Ruhr / Bavarian infantry blend). Timbre & Pitch - Raspy, ragged, throat-tearing collective shouting; harsh mid-to-high register. Cadence & Tempo - Frenetic, chaotic, barking staccato bursts. Mannerisms - Raw guttural barks, frantic alarms, overlapping commands and muzzle-blast shouting.
 
 DOUGLAS
-Lance-Corporal Douglas - Achird. Accent: Lowland Scottish / Glasgow Working-Class English. Timbre & Pitch: Dry, wiry, determined mid-baritone; gravelly and tight. Cadence & Tempo: Fast, biting, rhythmic; pugnacious cadence. Mannerisms: Glottal stops; dark Scots banter; aggressive, compact delivery; keeps head down and rifle firing.
+Lance-Corporal Douglas - Achird. Accent - Lowland Scottish / Glasgow Working-Class English. Timbre & Pitch - Dry, wiry, determined mid-baritone; gravelly and tight. Cadence & Tempo - Fast, biting, rhythmic; pugnacious cadence. Mannerisms - Glottal stops; dark Scots banter; aggressive, compact delivery; keeps head down and rifle firing.
 
 COMMANDOS
-Commandos - Orus. Accent: Pan-British Military Chorus (Blend of Cockney, Scots, Welsh, and Northern). Timbre & Pitch: Roaring, aggressive, defiant baritone chorus; brassy and concussive. Cadence & Tempo: Explosive, rhythmic battle shouts and coordinated chants. Mannerisms: Roaring battle cries ("War Weapons Week!"); ferocious, teeth-gritting battle roars amidst demolition blasts.
+Commandos - Orus. Accent - Pan-British Military Chorus (Blend of Cockney, Scots, Welsh, and Northern). Timbre & Pitch - Roaring, aggressive, defiant baritone chorus; brassy and concussive. Cadence & Tempo - Explosive, rhythmic battle shouts and coordinated chants. Mannerisms - Roaring battle cries ("War Weapons Week!"); ferocious, teeth-gritting battle roars amidst demolition blasts.
 
 BRIDGE MESSENGER
-Bridge Messenger - Puck. Accent: South London / Kentish English (Junior naval rating). Timbre & Pitch: Reedy, youthful, breathy mid-to-high baritone; high-adrenaline edge. Cadence & Tempo: High-speed, gasping, urgent; panting reports. Mannerisms: Gulping breaths; frantic salute in vocal posture; shrill clarity cutting through explosion rumbles.
+Bridge Messenger - Puck. Accent - South London / Kentish English (Junior naval rating). Timbre & Pitch - Reedy, youthful, breathy mid-to-high baritone; high-adrenaline edge. Cadence & Tempo - High-speed, gasping, urgent; panting reports. Mannerisms - Gulping breaths; frantic salute in vocal posture; shrill clarity cutting through explosion rumbles.
 
 BRETT
-Lieutenant Gerard Brett - Achird. Accent: Vintage Cultured Bloomsbury British RP (Victoria & Albert Museum scholar turned Commando). Timbre & Pitch: Polished, refined, slightly reedy mid-baritone; elegant and quiet. Cadence & Tempo: Unflustered, lyrical, deliberate; surreal aristocratic calm amidst mayhem. Mannerisms: Gentle, scholarly articulation; completely unfazed by danger; apologetic politeness when directing deadly demolition charges.
+Lieutenant Gerard Brett - Achird. Accent - Vintage Cultured Bloomsbury British RP (Victoria & Albert Museum scholar turned Commando). Timbre & Pitch - Polished, refined, slightly reedy mid-baritone; elegant and quiet. Cadence & Tempo - Unflustered, lyrical, deliberate; surreal aristocratic calm amidst mayhem. Mannerisms - Gentle, scholarly articulation; completely unfazed by danger; apologetic politeness when directing deadly demolition charges.
 
 ROY
-Captain Donald Roy - Orus. Accent: Aristocratic Scottish Highland RP ("The Laird", Fettes / Liverpool Scottish). Timbre & Pitch: Booming, majestic, barrel-chested baritone; haughty, proud, and defiant. Cadence & Tempo: Galloping, grand, theatrical combat tempo; commanding and fearless. Mannerisms: Proudly rolled "r"s; audacious aristocratic swagger; roaring encouragement while leading bayonet charges in a kilt under fire.
+Captain Donald Roy - Orus. Accent - Aristocratic Scottish Highland RP ("The Laird", Fettes / Liverpool Scottish). Timbre & Pitch - Booming, majestic, barrel-chested baritone; haughty, proud, and defiant. Cadence & Tempo - Galloping, grand, theatrical combat tempo; commanding and fearless. Mannerisms - Proudly rolled "r"s; audacious aristocratic swagger; roaring encouragement while leading bayonet charges in a kilt under fire.
 
 SMALLEY
-Lieutenant Christopher Smalley - Fenrir. Accent: East Midlands / Northamptonshire English (Rugged county officer). Timbre & Pitch: Gritty, textured, stubborn mid-baritone; determined and gritty. Cadence & Tempo: Brisk, relentless, urgent; action-oriented cadence. Mannerisms: Hard-bitten focus; minimal words, maximal execution; barking firing commands while manning machine guns.
+Lieutenant Christopher Smalley - Fenrir. Accent - East Midlands / Northamptonshire English (Rugged county officer). Timbre & Pitch - Gritty, textured, stubborn mid-baritone; determined and gritty. Cadence & Tempo - Brisk, relentless, urgent; action-oriented cadence. Mannerisms - Hard-bitten focus; minimal words, maximal execution; barking firing commands while manning machine guns.
 
 GERMAN WATCH OFFICER
-German Watch Officer - Puck. Accent: Crisp Standard German (Hochdeutsch) with nervous military formality. Timbre & Pitch: Sharp, reedy, high-register baritone; tense and brittle. Cadence & Tempo: Fast, anxious, clipped staccato; hesitant pauses. Mannerisms: Rigid German syntax; cracking voice under sudden surprise; nervous clearing of throat while demanding recognition signals.
+German Watch Officer - Puck. Accent - Crisp Standard German (Hochdeutsch) with nervous military formality. Timbre & Pitch - Sharp, reedy, high-register baritone; tense and brittle. Cadence & Tempo - Fast, anxious, clipped staccato; hesitant pauses. Mannerisms - Rigid German syntax; cracking voice under sudden surprise; nervous clearing of throat while demanding recognition signals.
 
 GERMAN VOICE
-German Voice - Charon. Accent: Monotone, reverberant Northern German. Timbre & Pitch: Metallic, booming, cavernous deep bass; cold and impersonal. Cadence & Tempo: Slow, robotic, demanding; echoing repetitions. Mannerisms: Stern, megaphone-filtered clarity; booming interrogative cadence echoing over water.
+German Voice - Charon. Accent - Monotone, reverberant Northern German. Timbre & Pitch - Metallic, booming, cavernous deep bass; cold and impersonal. Cadence & Tempo - Slow, robotic, demanding; echoing repetitions. Mannerisms - Stern, megaphone-filtered clarity; booming interrogative cadence echoing over water.
 
 GERMAN OFFICER
-German Officer - Fenrir. Accent: Crisp Bavarian / Southern German Officer. Timbre & Pitch: Razor-sharp, haughty, biting mid-baritone; dry, gravelly edge. Cadence & Tempo: Deliberate, sneering, clipped; condescending interrogation cadence. Mannerisms: Sibilant German "s"s; patronizing chuckles; hard dental stops; sudden shock when outwitted by British prisoners.
+German Officer - Fenrir. Accent - Crisp Bavarian / Southern German Officer. Timbre & Pitch - Razor-sharp, haughty, biting mid-baritone; dry, gravelly edge. Cadence & Tempo - Deliberate, sneering, clipped; condescending interrogation cadence. Mannerisms - Sibilant German "s"s; patronizing chuckles; hard dental stops; sudden shock when outwitted by British prisoners.
 
 
 
@@ -442,7 +442,7 @@ It was precisely this civilian background that had caused Combined Operations to
 
 Under his command was No. 2 Commando—two hundred and twenty-six men—reinforced by forty demolition specialists hand-picked from Nos. 1, 3, 4, 5, 9, and 12 Commandos. Total strength - two hundred and sixty-six soldiers.
 
-Newman had organized them into three distinct groups with surgical precision:
+Newman had organized them into three distinct groups with surgical precision - 
 
 First were the Demolition Teams. Commanded overall by Captain Bob Montgomery, Royal Engineers, these men carried no rifles. Their weapons were 60-to-90-pound rucksacks packed with Nobel's 808 plastic explosive—a lethal compound smelling sharply of bitter almonds—along with sledgehammers, axes, and reels of Cordtex.
 
@@ -558,7 +558,7 @@ RYDER
 Provided you survive long enough to lay them.
 
 NARRATOR
-At 18:00 on 24 March, the curtain of secrecy was finally drawn back.
+At 1800 Hours on 24 March, the curtain of secrecy was finally drawn back.
 
 Newman, Ryder, and Beattie gathered the sub-unit commanders, demolition leaders, and senior NCOs below deck for the operational briefing. An orderly pulled a blanket from the wall, exposing a massive, eight-foot-wide hydrographic chart flanked by aerial reconnaissance photographs.
 
@@ -607,7 +607,7 @@ Late that night, in the mess decks of Campbeltown and the cramped cabins of the 
 
 On the morning of 26 March, the grey skies over Cornwall broke.
 
-At 14:00, a signal hoist rose to the yardarm of the shore station - EXECUTE OPERATION CHARIOT.
+At 1400 Hours, a signal hoist rose to the yardarm of the shore station - EXECUTE OPERATION CHARIOT.
 
 Capstans groaned. Iron links clattered through hawsepipes. One by one, the sixteen wooden launches fell into two parallel lines behind the disguised destroyer. At the head of the formation, MGB 314 took the lead.
 
@@ -620,7 +620,7 @@ NARRATOR
 Chapter Six
 Force Z Put to Sea
 The Western Approaches
-26 March, 14:00 - Night of 26/27 March 1942
+26 March, 1400 Hours - Night of 26/27 March 1942
 
 Once clear of the Black Rock at the entrance to Falmouth, the shelter of the Cornish headlands fell away. The Atlantic opened before them - a vast, rolling slate-grey wilderness topped with breaking whitecaps.
 
@@ -676,20 +676,20 @@ BEATTIE
 NARRATOR
 For forty minutes in the freezing dark, deck ratings on Campbeltown hauled on dripping hemp lines, taking the bucking torpedo boat back into the tow. It was brutal, finger-shredding labor in the spray, but the line was remade, the tension taken up, and the formation pushed forward.
 
-By 04:00 on 27 March, Force Z crossed the invisible line onto the continental shelf and entered the Bay of Biscay.
+By 0400 Hours on 27 March, Force Z crossed the invisible line onto the continental shelf and entered the Bay of Biscay.
 
 The sea moderated, flattening to a gentle, oily swell veiled in early morning mist. The horizon to the east was empty. They were two hundred miles off the coast of occupied France, completely undetected.
 
-Then, at 07:20, as the first grey light of dawn broke across the water, the siren on the lead escort destroyer, HMS Tynedale, wailed an urgent, stuttering alarm.
+Then, at 0720 Hours, as the first grey light of dawn broke across the water, the siren on the lead escort destroyer, HMS Tynedale, wailed an urgent, stuttering alarm.
 
 
 
 
 NARRATOR
 Chapter Seven
-The Periscope at 07:20
+The Periscope at 0720 Hours
 Bay of Biscay
-27 March 1942, 07:20 - 09:00
+27 March 1942, 0720 - 0900 Hours
 
 Two miles off the port bow of HMS Tynedale, a slim, dark blade cut a furrow through the low morning swell. Behind it rose the rounded iron lip of a conning tower, shedding a sheet of grey foam.
 
@@ -750,7 +750,7 @@ For ninety minutes, Tynedale and Atherstone worked the contact. They boxed the q
 
 Kelbling, however, was a veteran. U-593 crept deep into the Biscay thermocline, rigging for silent running at eighty meters. The charges shook the boat violently, shattering lightbulbs and popping sea valves, but the pressure hull held.
 
-Aboard MGB 314, Ryder checked his pocket watch. It was 08:45. Every minute spent hunting the U-boat was burning valuable daylight, pulling the escort destroyers out of position and increasing the risk of German air reconnaissance.
+Aboard MGB 314, Ryder checked his pocket watch. It was 0845 Hours. Every minute spent hunting the U-boat was burning valuable daylight, pulling the escort destroyers out of position and increasing the risk of German air reconnaissance.
 
 RYDER
 Signal to Tynedale and Atherstone by shaded lamp. Break off action. Reform on the line.
@@ -764,7 +764,7 @@ What Ryder could not know—what no one on Force Z would learn until after the w
 
 Kelbling had seen Tynedale's sharp bows and depth charges. But in the low morning sea haze, the low-profile wooden Fairmiles, sitting barely four feet off the water, had been completely invisible beneath the horizon. Kelbling had seen only British destroyers, steaming fast to the southwest, far out in the Bay of Biscay.
 
-When U-593 surfaced at 09:00 to clear her air, Kelbling tapped out a short contact report to headquarters - Three British destroyers sighted. Steering southwest. Presumed anti-submarine sweep.
+When U-593 surfaced at 0900 Hours to clear her air, Kelbling tapped out a short contact report to headquarters - Three British destroyers sighted. Steering southwest. Presumed anti-submarine sweep.
 
 The deception had held. To the German High Command, Force Z was just another routine British patrol tracking south toward Gibraltar.
 
@@ -775,7 +775,7 @@ RYDER
 We have four hours of daylight left before we turn toward the coast. Pray that the sky stays shut.
 
 NARRATOR
-Then, from the masthead lookout on Campbeltown, a sharp shout cut through the engine rumble:
+Then, from the masthead lookout on Campbeltown, a sharp shout cut through the engine rumble - 
 
 MASTHEAD LOOKOUT
 Sail ho! Dead ahead on the water!
@@ -787,7 +787,7 @@ NARRATOR
 Chapter Eight
 The Breton Trawlers
 Bay of Biscay, 50 Miles off Saint-Nazaire
-27 March 1942, 11:50 - 14:00
+27 March 1942, 1150 - 1400 Hours
 
 Through the thinning sea haze, tan canvas sails caught the pale midday sun.
 
@@ -842,7 +842,7 @@ At point-blank range, Tynedale's 4-inch guns fired into the wooden waterlines. T
 
 Aboard the trailing Fairmiles, the commandos lined the rails, watching the wooden hulls disappear beneath the water. The destruction of the fishing boats carried an unmistakable omen - there was no turning back now. The bridges had been burned.
 
-At 17:00, the sea turned from slate-grey to dark bottle-green. The depth sounder showed the shelf rising steadily.
+At 1700 Hours, the sea turned from slate-grey to dark bottle-green. The depth sounder showed the shelf rising steadily.
 
 Commander Ryder stepped into the small chartroom behind the bridge of MGB 314. Lieutenant A.R. Green leaned over the hydrographic chart, his brass dividers measuring the final leg of the approach.
 
@@ -865,7 +865,7 @@ The sun touched the horizon behind them, a dull red ball sinking into the Atlant
 
 In the gathering twilight, Force Z closed the French coast at eight knots. Every man checked his weapons for the final time. In the mess decks of Campbeltown, the soldiers blackened their hands and faces with burnt cork, tying down their toggle ropes and checking the safety pins on their grenades.
 
-At 22:00, in total blackness, twenty miles off the shoals of the Loire, a lookout on the lead launch whispered into the dark:
+At 2200 Hours, in total blackness, twenty miles off the shoals of the Loire, a lookout on the lead launch whispered into the dark - 
 
 LOOKOUT
 Stationary shadow on the surface. Dead ahead.
@@ -877,7 +877,7 @@ NARRATOR
 Chapter Nine
 The Beacon in the Shallows
 Point 'Z', Approaches to the Loire Estuary
-27 March 1942, 22:00 - 22:45
+27 March 1942, 2200 - 2245 Hours
 
 The shadow on the water did not rise and fall with the sea. It sat motionless, low and flat, a dark blade of wet steel cutting the surface forty miles off the French coast.
 
@@ -945,7 +945,7 @@ NARRATOR
 Chapter Eleven
 The Sky Betrayal
 Airspace over Saint-Nazaire & German Naval HQ
-28 March 1942, 00:00 - 01:00
+28 March 1942, 0000 - 0100 Hours
 
 Above the Loire, the sky was a blind, frozen vault.
 
@@ -975,7 +975,7 @@ The tactical conclusion was obvious - the aircraft were a decoy. The real threat
 
 Mecke picked up the direct telephone line to the harbor defense network.
 
-At 00:45, he cancelled the air raid warning.
+At 0045 hours, he cancelled the air raid warning.
 
 MECKE
 Cease high-angle anti-aircraft fire. Douse searchlights sweeping the cloud base. All harbor defense craft, coastal batteries, and flak units are to adopt immediate Verstärkte Gefechtsbereitschaft—reinforced combat readiness against surface attack.
@@ -989,7 +989,7 @@ Searchlight crews locked their heavy carbon-arc projectors on horizontal axes, r
 
 The British air diversion had not merely failed; it had systematically prepared the German fortress for the exact assault Force Z was about to deliver.
 
-Down in the estuary shallows, at 01:15, the men aboard Campbeltown and the sixteen wooden launches felt the sudden, unnatural cessation of gunfire from the town. The sky was silent.
+Down in the estuary shallows, at 0115 Hours, the men aboard Campbeltown and the sixteen wooden launches felt the sudden, unnatural cessation of gunfire from the town. The sky was silent.
 
 Ahead of them, the river narrowed. And on both banks, hundreds of German gunners stood closed up at their weapons, staring directly into the dark.
 
@@ -1000,7 +1000,7 @@ NARRATOR
 Chapter Twelve
 The Estuary Gates
 The Lower Loire, off Villès-Martin
-28 March 1942, 01:15 - 01:21
+28 March 1942, 0115 - 0121 Hours
 
 The water deepened beneath the keels. The brown, dragging silt of the flats gave way to the black, slate-smooth surface of the main navigation trench.
 
@@ -1033,7 +1033,7 @@ Shut your mouth and keep down.
 NARRATOR
 On the cliffs of Pointe de Chémoulin and the heights above Villès-Martin, the hydrophone listening stations had already passed the acoustic bearings to the gun plots. Multiple high-speed marine engines were moving up-river, traveling against the ebb at an impossible speed for merchant coasters.
 
-At 01:20, the night died.
+At 0120 Hours, the night died.
 
 From the northern shore, two miles ahead, an iron shutter snapped open with a sharp, metallic clang.
 
@@ -1081,7 +1081,7 @@ NARRATOR
 Chapter Thirteen
 The Five-Minute Bluff
 The Inner Loire, off Villès-Martin
-28 March 1942, 01:22 - 01:27
+28 March 1942, 0122 - 0127 Hours
 
 Leading Signalman Pike did not blink against the blue-white glare of the carbon-arcs.
 
@@ -1097,7 +1097,7 @@ Two miles to the south, on the Mindin bank, an 88mm coastal battery commander wa
 
 The geyser collapsed over the deck of ML 267, drenching the prone commandos in freezing, brackish water.
 
-Pike didn't wait for Ryder's order. He hammered the shutter again, transmitting rapid, flawless German Morse:
+Pike didn't wait for Ryder's order. He hammered the shutter again, transmitting rapid, flawless German Morse - 
 
 PIKE
 WAIT. SHIP UNDER FIRE FROM FRIENDLY COASTAL ARTILLERY. PROCEEDING TO HARBOR.
@@ -1116,17 +1116,17 @@ The guns on the southern bank fell silent. The river was suddenly quiet again, s
 
 Aboard MGB 314, Newman glanced at his watch.
 
-01:23.
+0123 Hours.
 
 Force Z was moving at fifteen knots. At that speed, every sixty seconds bought them five hundred yards of river. Every five hundred yards brought them deeper into the inner roads, bypassing the lethal, long-range fire arcs of the heavy 150mm and 88mm batteries at Chémoulin and Villès-Martin.
 
 Ahead of them, the river opened into the broad basin of the Avant-Port. The massive, dark rectangle of the submarine pens loomed against the low cloud base like an artificial cliff. Just beyond it lay the outer caisson of the Normandie Dock.
 
-01:24.
+0124 Hours.
 
 A single 20mm FlaK gun from a wooden flak-ship moored near the channel fired a tentative, three-round burst of red tracers. The incandescent beads stitched across Campbeltown's wake, hissing into the dark water.
 
-Pike instantly jammed his shutter down again. He didn't send a code. He sent pure German panic:
+Pike instantly jammed his shutter down again. He didn't send a code. He sent pure German panic - 
 
 PIKE
 ACHTUNG! WE ARE GERMAN! CEASE FIRE!
@@ -1134,7 +1134,7 @@ ACHTUNG! WE ARE GERMAN! CEASE FIRE!
 NARRATOR
 The flak-ship held its fire.
 
-01:25.
+0125 Hours.
 
 Aboard Campbeltown, Beattie stood behind the armor slit of the wheelhouse, his hands resting lightly on the binnacle. Sweat was running down his nose, stinging his eyes in the glare of the lights, but he did not wipe it away.
 
@@ -1149,7 +1149,7 @@ BEATTIE
 Keep the revolutions steady. Don't increase until they break the bluff. Every yard they give us in silence is a yard we don't have to bleed for.
 
 NARRATOR
-01:26.
+0126 Hours.
 
 In the bunker at Villès-Martin, the telephone receiver buzzed furiously. The watch officer clamped it to his ear.
 
@@ -1173,7 +1173,7 @@ GERMAN WATCH OFFICER
 Alarm! Feindliche Kriegsschiffe! Enemy warships! Open fire on all craft! Feuer frei!
 
 NARRATOR
-It was 01:27.
+It was 0127 Hours.
 
 The bluff had bought Force Z five minutes and nearly two miles of open water.
 
@@ -1186,11 +1186,11 @@ NARRATOR
 Chapter Fourteen
 The Estuary Ignites
 The Loire Channel, Approaching the Avant-Port
-28 March 1942, 01:28 - 01:33
+28 March 1942, 0128 - 0133 Hours
 
 A star-shell burst directly over Campbeltown's mainmast, bathing the river in a harsh, cold magnesium daylight.
 
-At 01:28, the bluff died.
+At 0128 Hours, the bluff died.
 
 From both shores, the dark erupted. FlaK batteries along the submarine pens, the cliff positions at Villès-Martin, and the fortified towers lining the Avant-Port opened fire simultaneously. Strings of 20mm and 37mm tracer shells—green, yellow, and red—crossed the water in low, intersecting arcs, while heavy coastal guns on the southern bank sent high-explosive rounds screaming overhead.
 
@@ -1257,7 +1257,7 @@ NARRATOR
 Chapter Fifteen
 Twenty Knots into the Gate
 Normandie Dock Outer Caisson, Saint-Nazaire
-28 March 1942, 01:34
+28 March 1942, 0134 Hours
 
 The stem of HMS Campbeltown struck the outer caisson of the Normandie Dock at nineteen knots.
 
@@ -1273,7 +1273,7 @@ Inside the wheelhouse, the deceleration threw the men against the forward armor.
 
 Beattie, Tibbits, and Captain Montgomery picked themselves up off the bloody deckplates. The compass binnacle glass had shattered, and the compass bowl hung loose in its gimbals.
 
-Beattie glanced down at his wristwatch. The hands showed 01:34.
+Beattie glanced down at his wristwatch. The hands showed 0134 Hours.
 
 BEATTIE
 (looking across at Tibbits and Montgomery, dry, deliberate calm)
@@ -1317,7 +1317,7 @@ NARRATOR
 Chapter Sixteen
 Disembarking into Hell
 Normandie Dock Outer Caisson & Quayside
-28 March 1942, 01:35 - 01:45
+28 March 1942, 0135 - 0145 Hours
 
 The bamboo scaling ladders clattered against the caisson plating.
 
@@ -1399,7 +1399,7 @@ NARRATOR
 Chapter Seventeen
 Forty Feet Underground
 Main Pumping Station, Normandie Dock
-28 March 1942, 01:45 - 02:00
+28 March 1942, 0145 - 0200 Hours
 
 The external entrance to the Main Pumping Station was a pair of heavy iron double doors set flush into a blast wall.
 
@@ -1520,7 +1520,7 @@ NARRATOR
 Chapter Eighteen
 Winding Houses and Winches
 Normandie Dock, North and South Quays
-28 March 1942, 01:50 - 02:15
+28 March 1942, 0150 - 0215 Hours
 
 The subterranean shockwave from Chant's detonation rumbled through the granite coping stones, vibrating up through the soles of Captain Bob Montgomery's boots.
 
@@ -1589,7 +1589,7 @@ NARRATOR
 Chapter Nineteen
 The Slaughter at the Old Mole
 The River Loire, off the Old Mole
-28 March 1942, 01:40 - 02:15
+28 March 1942, 0140 - 0215 Hours
 
 Four hundred yards south of the Normandie Dock, jutting two hundred feet into the Loire like an outstretched stone finger, lay the Old Mole—La Vieille Jetée.
 
@@ -1636,7 +1636,7 @@ ML 443, with coxswain Patrick Brady at the wheel, ran toward the jetty but was b
 
 ML 446 overshot the jetty in the smoke, circled back under intense fire from concrete flak towers, and found the entire slipway swept by machine-gun fire and choked with burning mahogany ribs. With casualties mounting rapidly and his upper works shattered, her commander was forced to pull out into the stream.
 
-By 02:15, the assault on the Old Mole was broken.
+By 0215 Hours, the assault on the Old Mole was broken.
 
 The primary evacuation gate was firmly in German hands. The slipway steps were swept by machine guns; the water around the jetty was a swirling vortex of burning gasoline, shattered timbers, and drowning men.
 
@@ -1649,7 +1649,7 @@ NARRATOR
 Chapter Twenty
 The Crushed Landing at the Old Entrance
 The Old Entrance (Vieille Entrée), Saint-Nazaire
-28 March 1942, 01:45 - 02:20
+28 March 1942, 0145 - 0220 Hours
 
 Three hundred yards upriver from the butchery at the Old Mole, the river opened into the narrow channel of the Old Entrance—the original tidal lock leading into the Saint-Nazaire basin.
 
@@ -1712,9 +1712,9 @@ NARRATOR
 Chapter Twenty-One
 Savage at the Pom-Pom
 The River Loire & Avant-Port
-28 March 1942, 01:45 - 02:25
+28 March 1942, 0145 - 0225 Hours
 
-At 01:45, MGB 314 nosed her mahogany stem against the stone slipway of the Old Entrance just long enough for Lieutenant Colonel Newman and his five headquarters staff to leap ashore onto the quay.
+At 0145 Hours, MGB 314 nosed her mahogany stem against the stone slipway of the Old Entrance just long enough for Lieutenant Colonel Newman and his five headquarters staff to leap ashore onto the quay.
 
 The moment their boots cleared the coaming, Lieutenant Dunstan Curtis, RNVR, threw the throttles astern, backing the wooden gunboat into the open current. Commander Ryder stayed aboard on the open bridge. As overall Naval Force Commander, his post was on the water, orchestrating the scattered launches and keeping the riverway open for the evacuation.
 
@@ -1742,7 +1742,7 @@ Curtis handled the vessel with exceptional aggression, throwing the rudders back
 
 For forty unbroken minutes, MGB 314 remained in the center of the Avant-Port. She was the only heavy gun platform available to support the wooden launches, and Savage fought his weapon without pause. The deck around his boots was ankle-deep in spent brass casings and blood, the air choking with cordite smoke and the stench of burning paint.
 
-Around 02:15, Ryder ordered Curtis to run downriver toward the Old Mole to assess the progress of the landing craft.
+Around 0215 Hours, Ryder ordered Curtis to run downriver toward the Old Mole to assess the progress of the landing craft.
 
 What Ryder saw through his glasses was total catastrophe.
 
@@ -1761,7 +1761,7 @@ NARRATOR
 Chapter Twenty-Two
 The Submerged Torpedoes
 The Avant-Port & Old Entrance
-28 March 1942, 02:15 - 02:35
+28 March 1942, 0215 - 0235 Hours
 
 Sub-Lieutenant Mickey Wynn handled MTB 74 like an offshore racing boat.
 
@@ -1837,7 +1837,7 @@ NARRATOR
 Chapter Twenty-Three
 Scuttling the Ram
 HMS Campbeltown, Normandie Dock Caisson
-28 March 1942, 02:20 - 02:40
+28 March 1942, 0220 - 0240 Hours
 
 In the forward mess deck, the air was choking with cordite smoke, the smell of burning lagging, and the sharp, almond scent of high explosive.
 
@@ -1930,7 +1930,7 @@ NARRATOR
 Chapter Twenty-Four
 The Empty River
 The Quayside & Old Entrance
-28 March 1942, 02:30 - 02:45
+28 March 1942, 0230 - 0245 Hours
 
 Lieutenant Colonel Charles Newman stood by the brick wall of a transit shed near the Old Entrance, his Thompson submachine gun resting against his hip.
 
@@ -2004,7 +2004,7 @@ NARRATOR
 Chapter Twenty-Five
 The Three Orders
 Transit Shed, Old Entrance
-28 March 1942, 02:45 - 03:00
+28 March 1942, 0245 - 0300 Hours
 
 Inside the transit shed, the air was cold, smelling of raw concrete, damp cardboard, and iodine.
 
@@ -2060,7 +2060,7 @@ NARRATOR
 He drew the bolt back on his Thompson, letting it snap home on an empty chamber with a sharp, oiled clack.
 
 NEWMAN
-I am issuing three orders. They apply to every officer, commando, and naval rating under my command:
+I am issuing three orders. They apply to every officer, commando, and naval rating under my command - 
 First - Do our best to get back to England.
 Second - Do not surrender until all our ammunition is exhausted.
 Third - Do not surrender at all if you can help it.
@@ -2096,7 +2096,7 @@ NEWMAN
 Very good, Sam. Keep your ratings close to the commandos. They have the automatic weapons.
 
 NARRATOR
-Newman checked his wristwatch. It was 03:00.
+Newman checked his wristwatch. It was 0300 Hours.
 
 NEWMAN
 (quietly)
@@ -2116,7 +2116,7 @@ NARRATOR
 Chapter Twenty-Six
 The Charge Across Pont Roulant
 Pont Roulant, Saint-Nazaire
-28 March 1942, 03:00 - 03:30
+28 March 1942, 0300 - 0330 Hours
 
 The transit shed's corrugated sliding door ground open four feet.
 
@@ -2202,7 +2202,7 @@ NARRATOR
 Chapter Twenty-Seven
 Street Fighting in the Dark
 Saint-Nazaire Town
-28 March 1942, 03:30 - 05:00
+28 March 1942, 0330 - 0500 Hours
 
 The town was a maze of high granite walls, narrow cobblestone streets, and shuttered two-story houses smelling of coal ash and wet slate.
 
@@ -2246,7 +2246,7 @@ British! Anglais!
 NARRATOR
 Inside, French civilians huddled in their basements, paralyzed with terror. They knew the rules of the German occupation - harboring an enemy soldier meant immediate execution by firing squad and the burning of the home. Occasionally, an upper shutter creaked open by an inch; an unseen hand threw out a crust of bread, a bottle of cider, or pointed frantically toward the next street to indicate where a German armored car was idling. But the heavy iron bolts stayed shot.
 
-By 04:30, the British momentum had broken against the stone walls of the town.
+By 0430 Hours, the British momentum had broken against the stone walls of the town.
 
 The naval party had fractured into isolated pockets. Lieutenant Commander Beattie, Lieutenant Tibbits, and Chief Howard, leading a group of thirty ratings through a series of dockside tenements, found their route blocked by an entire company of Wehrmacht infantry advancing behind an armored car.
 
@@ -2265,7 +2265,7 @@ We are out of brass, Colonel. Every gun is empty.
 NARRATOR
 Newman sat with his back against the damp stone foundation, checking his pocket watch by the red glow of a shaded torch.
 
-It was 05:00. The first pale, sickly grey light of dawn was beginning to seep through the cellar grating.
+It was 0500 Hours. The first pale, sickly grey light of dawn was beginning to seep through the cellar grating.
 
 They had done what they came to do. The dock was broken. Campbeltown was waiting in the caisson. But out on the open sea, five miles to the west, the final shot of the naval battle was about to be fired.
 
@@ -2276,7 +2276,7 @@ NARRATOR
 Chapter Twenty-Eight
 The Last Stand of ML 306
 The Outer Estuary, Bay of Biscay
-28 March 1942, 05:30 - 06:30
+28 March 1942, 0530 - 0630 Hours
 
 Four miles west of the Pointe de Chémoulin, where the brown river water met the long, rolling swell of the open Atlantic, ML 306 was limping toward England.
 
@@ -2330,7 +2330,7 @@ He was struck again in the stomach. Then in the chest.
 
 In total, sixteen separate bullets and shrapnel fragments pierced his body, tearing muscle, fracturing bone, and puncturing his torso. His hands were burned raw from changing red-hot barrels, but he remained locked in the gun ring, propping his failing weight against the steel mounting, firing until his ammunition pans were empty.
 
-At 06:15, after nearly forty-five minutes of continuous engagement, Durrant fired his final drum. The bolt slammed forward on an empty chamber.
+At 0615 Hours, after nearly forty-five minutes of continuous engagement, Durrant fired his final drum. The bolt slammed forward on an empty chamber.
 
 His knees buckled. He collapsed across the pedestal, his chest resting against the smoking barrels, unconscious from catastrophic blood loss.
 
@@ -2364,7 +2364,7 @@ NARRATOR
 Chapter Twenty-Nine
 The Trapped and the Cordon
 Saint-Nazaire Town
-28 March 1942, 06:00 - 08:30
+28 March 1942, 0600 - 0830 Hours
 
 The dawn brought no warmth, only a flat, grey light that exposed the narrow layout of the streets.
 
@@ -2459,7 +2459,7 @@ NARRATOR
 Chapter Thirty
 The Inspection Party
 The Normandie Dock & German Naval Headquarters, Saint-Nazaire
-28 March 1942, 08:30 - 10:34
+28 March 1942, 0830 - 1034 Hours
 
 By mid-morning, the estuary fog had thinned under a pale spring sun, laying bare the physical wreckage of the night.
 
@@ -2529,15 +2529,15 @@ Beattie listened to the words, but his mind was not in the room.
 
 His thoughts were down in the damp, cement-filled hold of his ship. He was calculating time, chemistry, and temperature.
 
-He knew what Nigel Tibbits had done in the dark at 02:20. He knew that the Number Ten Delay Switches—the thin brass pencils—relied on cupric chloride eating through a wire of spring steel.
+He knew what Nigel Tibbits had done in the dark at 0220 Hours. He knew that the Number Ten Delay Switches—the thin brass pencils—relied on cupric chloride eating through a wire of spring steel.
 
 At room temperature, the wire parted in six to eight hours. But Tibbits had warned him - in freezing water, the chemical reaction slowed down dramatically. Every drop of several degrees in temperature added hours to the burn. The night in the Loire estuary had been near freezing, and the hull had sat submerged in cold river mud since dawn.
 
-Eight hours from 02:20 was 10:20.
+Eight hours from 0220 Hours was 1020 Hours.
 
 Beattie's eyes shifted to the large regulator clock ticking on the whitewashed wall of the German office.
 
-The black hands showed 10:34.
+The black hands showed 1034 Hours.
 
 Fourteen minutes past the baseline estimate.
 
@@ -2554,16 +2554,16 @@ We shall see.
 NARRATOR
 The regulator clock on the wall clicked forward one minute.
 
-10:35.
+1035 Hours.
 
 
 
 
 NARRATOR
 Chapter Thirty-One
-10:35 - The Amatol Thunderclap
+1035 Hours - The Amatol Thunderclap
 The Normandie Dock & Saint-Nazaire
-28 March 1942, 10:35
+28 March 1942, 1035 Hours
 
 Inside the brass sleeve of the Number Ten Delay Switch, submerged beneath five feet of stagnant bilge water in Campbeltown's lower hold, the cupric chloride acid finished its work.
 
@@ -2632,7 +2632,7 @@ Saint-Nazaire Port & Town
 
 The column of smoke from the Normandie Dock rose two thousand feet into the sky, a black, oily smear visible from thirty miles across the plains of the Loire-Inférieure.
 
-In the minutes following the 10:35 detonation, the command structure of the German garrison fractured. The blast had not merely destroyed the caisson; it had killed the harbor salvage staff, wiped out senior naval engineering officers, and decapitated port communications.
+In the minutes following the 1035 Hours detonation, the command structure of the German garrison fractured. The blast had not merely destroyed the caisson; it had killed the harbor salvage staff, wiped out senior naval engineering officers, and decapitated port communications.
 
 To the headquarters of the 333rd Infantry Division and Seekommandant Mecke, the delayed explosion appeared impossible as a mechanical trick. The initial assumption inside the bunkers was catastrophic - the blast was the opening signal for an armed insurrection by the French civilian population, coordinated with a second wave of British airborne landings.
 
@@ -2662,7 +2662,7 @@ German armored cars patrolled empty avenues strewn with spent cartridges and sha
 
 The German authorities responded with collective punishment.
 
-Believing the local population had guided the British commandos through the back alleys during the night, the Gestapo and the Feldgendarmerie arrested over one hundred and fifty French civilians, marching them to the prison at Nantes for interrogation. Notice placards were nailed to church doors and town hall bulletin boards across the estuary:
+Believing the local population had guided the British commandos through the back alleys during the night, the Gestapo and the Feldgendarmerie arrested over one hundred and fifty French civilians, marching them to the prison at Nantes for interrogation. Notice placards were nailed to church doors and town hall bulletin boards across the estuary - 
 
 Any civilian found in possession of firearms, British military equipment, or aiding stragglers will be shot immediately. The entire civilian population within five hundred meters of the port installation is to be evacuated within twenty-four hours.
 
@@ -2681,11 +2681,11 @@ NARRATOR
 Chapter Thirty-Three
 The Second Detonation
 The Old Entrance, Saint-Nazaire
-Monday, 30 March 1942, 16:30
+Monday, 30 March 1942, 1630 Hours
 
 For two days, the two 18-inch torpedoes lay undisturbed in the cold silt forty feet beneath the surface of the Loire.
 
-They rested nose-down against the granite sill of the Old Entrance, buried in estuarine mud, their bronze propellers fouled with kelp. Inside their warheads, protected by watertight casings, the brass balance-wheels of the clockwork delay mechanisms had been ticking in steady, mechanical isolation since 02:25 on Saturday morning.
+They rested nose-down against the granite sill of the Old Entrance, buried in estuarine mud, their bronze propellers fouled with kelp. Inside their warheads, protected by watertight casings, the brass balance-wheels of the clockwork delay mechanisms had been ticking in steady, mechanical isolation since 0225 Hours on Saturday morning.
 
 By Monday afternoon, a semblance of routine had returned to the German naval command.
 
@@ -2693,7 +2693,7 @@ Seekommandant Mecke's engineers had cordoned off the ruined Normandie Dock, wher
 
 Because the main dry dock was obliterated, the lock gates of the Old Entrance were vital to keeping the inner Bassin de Saint-Nazaire operational for harbor defense vessels and coastal merchant traffic.
 
-At 16:00, a Kriegsmarine salvage team and two dozen civilian contractors arrived at the lock gates.
+At 1600 Hours, a Kriegsmarine salvage team and two dozen civilian contractors arrived at the lock gates.
 
 A harbor defense tug, Sperrbrecher tenders, and several armed patrol launches were moored alongside the granite walls. Engineers in grey overalls walked the stone walkway atop the lock gates, setting up survey levels and checking the hydraulic sluices that controlled the water flow between the river and the basin.
 
@@ -2703,7 +2703,7 @@ The mainspring of the first torpedo's delay fuse unwound to its final gear tooth
 
 The detonator struck.
 
-At 16:30, the river floor erupted.
+At 1630 Hours, the river floor erupted.
 
 Three hundred pounds of high explosive detonated directly against the underwater face of the northern lock gate.
 
@@ -2768,7 +2768,7 @@ The German garrison commander, observing traditional military honors before Hitl
 
 Then came the cold accounting of Combined Operations.
 
-Of the 611 men of the Royal Navy and the Commandos who had embarked from Falmouth:
+Of the 611 men of the Royal Navy and the Commandos who had embarked from Falmouth - 
 
 169 were dead (105 sailors of the Royal Navy, 64 soldiers of the Commandos).
 
@@ -2778,7 +2778,7 @@ Of the 611 men of the Royal Navy and the Commandos who had embarked from Falmout
 
 5 walked home through the Pyrenees.
 
-The raid produced eighty-nine decorations for valor, including five Victoria Crosses—the largest number ever awarded for a single action of that scale:
+The raid produced eighty-nine decorations for valor, including five Victoria Crosses—the largest number ever awarded for a single action of that scale - 
 
 Commander Robert Edward Dudley Ryder, who took the wooden MGB 314 into the center of the crossfire and brought his surviving men home.
 
