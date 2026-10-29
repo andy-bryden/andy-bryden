@@ -1,126 +1,98 @@
-Postmaster cast
+Operation Postmaster
+The Fernando Po raid, January 1942
+
+Cast
 
 NARRATOR
-I speak with the voice of Charon
-Narrator. British RP accent, deep, resonant, dramatic, and measured narrative delivery
+Narrator - Charon. Accent: Cultured Mid-Century British Received Pronunciation (Cinematic BBC Documentary standard). Timbre & Pitch: Deep, sonorous, dramatic bass; resonant, warm, and reverberant. Cadence & Tempo: Measured, authoritative, unhurried; impeccable dramatic pacing with stately pauses. Mannerisms: Grave historical weight; crystalline dental consonants; cinematic gravitas devoid of vocal fry.
 
 GUBBINS
-I speak with the voice of Fenrir
-Brigadier Colin McVean Gubbins. Scottish accent, wiry, clipped, incisive, and devoid of military pleasantries
+Brigadier Colin McVean Gubbins - Orus. Accent: Upper-Class British Military RP with subtle Scottish aristocratic undertones. Timbre & Pitch: Commanding, steel-edged baritone; compact, incisive chest resonance. Cadence & Tempo: Rapid, energetic, incisive; driving martial urgency. Mannerisms: Decisive, snappy consonant articulation; slight Highland roll on emphasized "r"s; brisk, unhesitating executive authority.
 
 MARCH-PHILLIPPS
-I speak with the voice of Puck
-Captain Gustavus March-Phillipps. British RP accent, aristocratic, lean, razor-sharp, and quietly resolute
+Captain Gustavus Henry March-Phillipps - Puck. Accent: Vintage Upper-Class British RP (Public School, cavalry officer cadence). Timbre & Pitch: Athletic, ringing, vibrant baritone; bright, open-throated, and buoyant. Cadence & Tempo: Spirited, brisk, adventurous; rhythmic swagger with dynamic tempo shifts. Mannerisms: Audible dashing grin behind words; aristocratic vowel elongation; fearless, charismatic bravado that never betrays doubt.
 
 APPLEYARD
-I speak with the voice of Achird
-Second Lieutenant Geoffrey Appleyard. British Cambridge RP accent, clear, methodical, scientific, and calm under operational stress
+Second Lieutenant John Geoffrey Appleyard - Achird. Accent: Educated Cambridge Received Pronunciation with subtle Yorkshire gentility. Timbre & Pitch: Warm, steady, clean mid-register baritone; exceptionally clear and soothing texture. Cadence & Tempo: Calm, deliberate, methodical; unruffled even under extreme operational pressure. Mannerisms: Analytical precision; quiet, gentlemanly pauses before speaking; articulate enunciation of navigational and technical detail.
 
 HAYES
-I speak with the voice of Fenrir
-Captain Graham Hayes. Yorkshire accent, broad, flat northern cadence, unhurried, heavy, and physically formidable
+Captain Graham Hayes - Fenrir. Accent: Broad Yorkshire / Northern English. Timbre & Pitch: Gritty, weathered mid-baritone; deep, sandpaper rumble rooted in the chest. Cadence & Tempo: Slow, sturdy, plainspoken; blunt, utilitarian meter. Mannerisms: Truncated Northern vowels; zero rhetorical polish; quiet, stubborn resolve delivered through steady, clenched jaw.
 
 LASSEN
-I speak with the voice of Orus
-Anders Lassen. Danish accent, flat vowels, clipped, cold, predatory, and brutally direct
-
-MECHANIC
-I speak with the voice of Achird
-Leonard Guise. West Country English accent, gruff, practical, working-class, and breathy under machinery heat
-
-OFFICIAL
-I speak with the voice of Fenrir
-Portuguese Customs Official. Portuguese accent, dry, skeptical, bureaucratic, and formally detached
-
-OPERATIVE
-I speak with the voice of Iapetus
-SOE Field Operative. British RP accent, subdued, urgent, conspiratorial, and speaking in a low whisper
-
-PERKINS
-I speak with the voice of Fenrir
-Private Frank "Buzz" Perkins. London Cockney accent, youthful, alert, disciplined, and steady
-
-LIEUTENANT
-I speak with the voice of Orus
-Royal Navy Patrol Lieutenant. Crisp British Royal Navy RP, officious, loud, and projecting through a megaphone
-
-BALFOUR
-I speak with the voice of Iapetus
-Balfour. Scottish accent, seasoned, quiet, weary, and carrying the gravity of clandestine station leadership
+Anders Frederik Emil Victor Schau Lassen - Orus. Accent: Aristocratic Danish-accented English (Scandinavian open vowels, light Nordic glottal inflections). Timbre & Pitch: Powerful, husky, resonant baritone; intense, predatory vocal depth. Cadence & Tempo: Deliberate, simmering tempo punctuated by sudden, explosive combat commands. Mannerisms: Soft-spoken, chilling calm; sharp intakes of breath before action; dangerous, suppressed combat excitement.
 
 LIPPETT
-I speak with the voice of Iapetus
-Captain Richard Lippett. British RP accent, understated, modest, polite, and unshakeable under physical interrogation
+Captain Richard Albert John Lippett - Puck. Accent: Suave Mid-Century Cosmopolitan British RP (Diplomatic / commercial agent standard). Timbre & Pitch: Silky, genial, adaptable light baritone; polite, disarming warmth. Cadence & Tempo: Fluid, engaging, socially relaxed; smooth, persuasive conversational flow. Mannerisms: Charming, breezy cadence designed to deflect suspicion; carefully masked alertness behind a facade of casual commercial innocence.
 
-DE MENTHON
-I speak with the voice of Puck
-François de Menthon. French accent, polished, charming, theatrical, and fluent with Continental sophistication
-
-SPECHT
-I speak with the voice of Fenrir
-Captain Giovanni Specht. Italian accent, florid, booming, dramatic, and emotionally volatile
-
-OFFICER
-I speak with the voice of Achird
-Italian Deck Officer. Italian accent, polite, weary, heat-oppressed, and conversational
-
-BOURDILLON
-I speak with the voice of Iapetus
-Sir Bernard Bourdillon. Cultivated British patrician RP, authoritative, measured, pragmatic, and commanding
-
-GIFFARD
-I speak with the voice of Iapetus
-General Sir George Giffard. British Military Establishment RP, rigid, barking, aristocratic, and vibrating with controlled fury
-
-HEAD-STOKER
-I speak with the voice of Iapetus
-Nigerian Head-Stoker. West African Kru Pidgin English accent, deep, gravelly, steady, and resonant
-
-WATCHMAN
-I speak with the voice of Orus
-German Deck Watchman. German accent, low, cautious, groggy, and suspicious on night watch
-
-MILLER
-I speak with the voice of Puck
-Private Miller. Northern English accent, quiet, taut, and disciplined under demolition tension
-
-MASTER OF THE LIKOMBA
-I speak with the voice of Orus
-Master of the Likomba. German Baltic accent, heavy, guttural, blunt, and panicky when startled
-
-CHIEF ENGINEER
-I speak with the voice of Achird
-Italian Chief Engineer. Italian accent, older, tired, malaria-worn, and speaking with a soft Mediterranean cadence
-
-SPANISH SERGEANT
-I speak with the voice of Achird
-Spanish Battery Sergeant. Spanish accent, frantic, screaming, Catalan-inflected, and disoriented under alarm
-
-PILOT
-I speak with the voice of Iapetus
-Nigerian Civilian Pilot. Coastal Nigerian English accent, calm, focused, and steady under maritime hazard
-
-COMMANDER NICHOLAS
-I speak with the voice of Puck
-Lieutenant Commander Herbert Nicholas. Crisp British Royal Navy RP, formal, commanding, and projecting across open water
+PERKINS
+Private Frank “Buzz” Perkins - Iapetus. Accent: Authentic Working-Class London Cockney / East End. Timbre & Pitch: Heavy, guttural, low bass-baritone; thick, muscular vocal weight. Cadence & Tempo: Punchy, bouncy, aggressive; rapid streetwise rhythmic delivery. Mannerisms: Dropped "h"s, strong glottal stops, and flattened diphthongs; throaty boxer's chuckle; raw, earthy physical confidence.
 
 WINTER
-I speak with the voice of Puck
-Commando Tom Winter. London Cockney accent, raspy, alert, sharp, and physically aggressive
+Commando Tom Winter - Achird. Accent: Broad West Country / Southwestern English regional burr. Timbre & Pitch: Earthy, warm, mellow mid-baritone; grounded and gravelly. Cadence & Tempo: Unhurried, rolling, steady; natural conversational cadence. Mannerisms: Rhotic rolling "r"s; laconic, wry soldierly humor; calm, unflappable battlefield pragmatism.
+
+MILLER
+Private Miller - Fenrir. Accent: Lowland Scottish / Glaswegian working-class. Timbre & Pitch: Raspy, tight, abrasive baritone; dry, gravelly edge. Cadence & Tempo: Fast, biting, staccato; sharp rhythmic bursts. Mannerisms: Glottalized stops; rolled alveolar "r"s; terse, disciplined soldierly brevity.
+
+DE MENTHON
+François de Menthon - Achird. Accent: Cultured Continental French-accented English (Upper-class Parisian / Savoyard cadence). Timbre & Pitch: Refined, melodious mid-register baritone; elegant, light nasal resonance. Cadence & Tempo: Graceful, measured, articulate; lyrical rise and fall. Mannerisms: Softened dental consonants ("th" softened toward "z"); diplomatic poise; quiet, unshakable European conviction.
+
+BOURDILLON
+Sir Bernard Henry Bourdillon - Iapetus. Accent: High Patrician British Received Pronunciation (Colonial Governor / Whitehall administrative elite). Timbre & Pitch: Deep, opulent, resonant bass; mature, dignified timbre. Cadence & Tempo: Stately, measured, paternal; slow and deliberate. Mannerisms: Broad, rounded vowels; unflappable imperial composure; quiet, formidable administrative authority.
+
+GIFFARD
+General Sir George Giffard - Fenrir. Accent: Severe, clipped Sandhurst British Military RP. Timbre & Pitch: Dry, grating, tight mid-baritone; rigid, brittle vocal quality. Cadence & Tempo: Rigid, curt, staccato; metronomic military delivery. Mannerisms: Tight-lipped enunciation; biting, dismissive consonants; bureaucratic finality that brook no irregular deviation.
+
+BALFOUR
+Balfour - Orus. Accent: Formal British RP (Intelligence Bureaucracy / Foreign Office). Timbre & Pitch: Firm, low-register, commanding baritone; controlled, velvety resonance. Cadence & Tempo: Measured, strategic, polished; deliberate pauses for emphasis. Mannerisms: Analytical detachment; steel concealed beneath consummate diplomatic courtesy; precise, quiet authority.
+
+NICHOLAS
+Lieutenant Commander Herbert Nicholas - Orus. Accent: Authoritative Royal Navy Officer RP (Dartmouth Naval College standard). Timbre & Pitch: Booming, clear, resonant baritone; powerful sea-deck projection. Cadence & Tempo: Crisp, brisk, nautical; decisive, driving tempo. Mannerisms: Sharp naval diction; clipped dental stops; efficient, brisk professionalism devoid of hesitation.
+
+SPECHT
+Captain Giovanni Specht - Fenrir. Accent: Northern Italian-accented English (Ligurian / Triestine maritime cadence). Timbre & Pitch: Weathered, smoky baritone; gravelly with excitable, throaty undertones. Cadence & Tempo: Rapid, volatile, highly musical; abrupt surges in volume and tempo. Mannerisms: Strongly rolled "r"s; pronounced vocal gestures; indignant, prideful maritime bluster when challenged.
+
+CHIEF ENGINEER
+Chief Engineer - Iapetus. Accent: Heavy Southern Italian-accented English (Neapolitan merchant marine). Timbre & Pitch: Thick, rumbling, oily bass; raspy and cavernous. Cadence & Tempo: Plodding, guttural, deliberate; interspersed with sudden animated complaints. Mannerisms: Elongated terminal vowels; deep mechanical sighs; startled guttural exclamations ("Dio mio") when ambushed.
+
+OFFICIAL
+Portuguese Harbour Official - Puck. Accent: Lusophone / Lisbon-accented English (European Portuguese). Timbre & Pitch: Melodic, breathy light baritone; easy, relaxed timbre. Cadence & Tempo: Leisurely, soft-spoken, fluid; rhythmic and non-confrontational. Mannerisms: Shushing sibilants (pronouncing "s" as "sh"); laid-back colonial indifference; bureaucratic lethargy.
+
+OFFICER
+Spanish Ship’s Officer - Achird. Accent: Peninsular Castilian Spanish-accented English (Naval officer cadence). Timbre & Pitch: Dry, formal, crisp mid-baritone; sharp, narrow resonance. Cadence & Tempo: Stiff, rhythmic, punctilious; moderate marching tempo. Mannerisms: Crisp, unyielding dental articulation; haughty neutrality; sharp, indignant protests.
+
+PILOT
+Pilot of the Maid Honor - Fenrir. Accent: Maritime Cornish / West Country Coastal English. Timbre & Pitch: Coarse, salty, low baritone; rasped by sea wind and pipe smoke. Cadence & Tempo: Rolling, rhythmic like sea swell; unbothered, steady pacing. Mannerisms: Broad coastal vowels; calm, taciturn delivery; unfazed confidence in treacherous waters.
+
+OPERATIVE
+Local Engineering Operative - Orus. Accent: Educated West African English (Nigerian coastal cadence). Timbre & Pitch: Rich, vibrant, resonant baritone; warm and full-bodied. Cadence & Tempo: Syllable-timed, rhythmic, energetic; lively cadence. Mannerisms: Crisp, percussive plosives; musical sentence inflections; eager, professional competence.
+
+MECHANIC
+Mechanic of the Maid Honor - Achird. Accent: Industrial Midlands / Birmingham English (Brummie). Timbre & Pitch: Nasal, flat, dry mid-baritone; gritty, mechanical texture. Cadence & Tempo: Conversational, steady, workmanlike drone. Mannerisms: Downward inflection at ends of phrases; muttered under-the-breath commentary; matter-of-fact industrial pragmatism.
+
+LIEUTENANT
+Royal Navy Harbour Lieutenant - Puck. Accent: Crisp Mid-Century British Public School / Naval RP. Timbre & Pitch: Youthful, bright, clean baritone; sharp projection. Cadence & Tempo: Snappy, brisk, energetic; by-the-book military tempo. Mannerisms: Perfectly clipped syllables; eager deference to senior commanders; crisp textbook efficiency.
 
 INSPECTOR
-I speak with the voice of Fenrir
-Spanish Police Inspector. Peninsular Spanish accent, harsh, aggressive, rapid, and contemptuous
+Spanish Police Inspector - Fenrir. Accent: Formal Castilian Spanish (Colonial Police authority). Timbre & Pitch: Dark, dry, sinister mid-baritone; narrow, gravelly resonance. Cadence & Tempo: Slow, calculating, predatory; lingering interrogative meter. Mannerisms: Heavy, deliberate sibilants; soft, menacing pauses before accusatory questions; dry, smoke-damaged rasp.
 
-SPANISH INTERROGATOR
-I speak with the voice of Orus
-Spanish Military Interrogator. Peninsular Spanish accent, heavy, furious, threatening, and relentlessly interrogative
+SPANISH SERGEANT
+Spanish Sergeant - Orus. Accent: Harsh, guttural Spanish-accented military command. Timbre & Pitch: Abrasive, barking, booming baritone; strained throat resonance. Cadence & Tempo: Staccato, furious, rapid-fire drill cadence. Mannerisms: Explosive, spitting consonants; short-fused colonial martinet hostility; sharp vocal punches.
+
+MASTER OF THE LIKOMBA
+Master of the Likomba - Iapetus. Accent: North German / Hamburg maritime English. Timbre & Pitch: Cavernous, rumbling, gravelly bass; thick, heavy chest resonance. Cadence & Tempo: Plodding, guttural, blunt; stubborn, unyielding cadence. Mannerisms: Hard glottal onset on initial vowels; guttural uvular "r"s; surly, defiant sea-dog resistance.
+
+HEAD-STOKER
+Head-Stoker of the Tug Vulcan - Fenrir. Accent: Industrial Tyneside / Geordie working-class English. Timbre & Pitch: Hoarse, soot-strained, roaring baritone; raw, booming projection over boiler noise. Cadence & Tempo: Fast, driving, melodic Geordie rhythm; breathless urgency. Mannerisms: Dropped consonants; rising musical sentence endings; furious industrial energy and commanding dockside bellows.
+
+WATCHMAN
+German Watchman - Puck. Accent: Low German / colloquial German-accented English. Timbre & Pitch: Tense, wiry, mid-register baritone; breathy and high-strung. Cadence & Tempo: Nervous, halting, staccato bursts. Mannerisms: Sharp "v" substitutions for "w"; sharp intakes of cold air; sudden panicked vocal cracking when startled on the dark deck.
 
 
 
 
 NARRATOR 
 Postmaster 
+
 The Fernando Po raid, January 1942
 
 NARRATOR

@@ -1,218 +1,176 @@
-Gideon cast
+Gideon Force
+Ethiopia, 1940-1941
+
+Cast
 
 NARRATOR
-I speak with the voice of Charon
-Narrator. Neutral storytelling tone with educated British gravitas, authoritative, measured, and observant
+Narrator - Charon. Accent: Vintage 1940s British Received Pronunciation (BBC wartime broadcast / documentary standard). Timbre & Pitch: Deep, cavernous, resonant bass; authoritative, rich, and commanding. Cadence & Tempo: Measured, stately, and rhythmic; dramatic pauses that heighten historical tension. Mannerisms: Crystalline enunciation; breath control of a classical orator; impartial, epic storytelling gravitas.
 
 HAILE SELASSIE
-I speak with the voice of Orus
-Emperor Haile Selassie I. Aristocratic Ethiopian cadence with soft, formal French diplomatic inflection, quiet, deliberate, and regal
+Emperor Haile Selassie I - Achird. Accent: Amharic native phonology overlaid with formal French-taught English. Timbre & Pitch: Soft-spoken, reedy tenor; light, delicate texture with a slight wavering breathiness. Cadence & Tempo: Very slow, liturgical, measured pacing; steady, rolling rhythmic rise and fall. Mannerisms: Gentle, aristocratic restraint; non-percussive consonants; quiet, meditative dignity.
 
 WINGATE
-I speak with the voice of Fenrir
-Major Orde Wingate. Intense British baritone, harsh, raspy, gravelly, and manic with Old Testament zeal
+Major-General Orde Charles Wingate - Orus. Accent: Strict, upper-class British Military Received Pronunciation. Timbre & Pitch: Harsh, reedy, grating mid-baritone; tight, strained vocal chords. Cadence & Tempo: Rapid, erratic, staccato delivery; unpredictable spikes in tempo. Mannerisms: Feverish, prophetic intensity; sharp intakes of breath; barking, uncompromising emphasis on biblical, tactical phrasing.
 
 CHAPMAN-ANDREWS
-I speak with the voice of Puck
-Major Edwin Chapman-Andrews. Polished British diplomatic RP, crisp, professional, and composed under pressure
-
-SANDFORD
-I speak with the voice of Achird
-Colonel Daniel Sandford. Weathered British elder RP, gentleman farmer and senior gunner, calm, unhurried, and diplomatic
+Major Edwin Chapman-Andrews - Puck. Accent: Cultured British Diplomatic Received Pronunciation (Foreign Office standard). Timbre & Pitch: Warm, polished, melodious mid-baritone; smooth and urbane. Cadence & Tempo: Fluid, articulate, conversational; calm and unflappable pacing. Mannerisms: Suave diplomatic tact; gentle, deferential softening at ends of sentences; crisp, effortless consonants.
 
 BOUSTEAD
-I speak with the voice of Iapetus
-Lieutenant-Colonel Hugh Boustead. Firm British military RP, disciplined, no-nonsense line officer, steely and veteran
+Lieutenant-Colonel Hugh Boustead - Fenrir. Accent: Tough, orthodox British Military Received Pronunciation (Royal Navy / Sudan Camel Corps officer). Timbre & Pitch: Gritty, robust, athletic baritone; dry, weathered rasp. Cadence & Tempo: Snappy, brisk, marching tempo; sharp, no-nonsense delivery. Mannerisms: Punchy, clipped consonants; barking parade-ground efficiency; dismissive, steely bite when irritated.
+
+SANDFORD
+Colonel Daniel Sandford - Iapetus. Accent: Edwardian British Received Pronunciation with natural ease in Amharic idioms. Timbre & Pitch: Deep, mellow, patriarchal bass; warm, gravelly, fatherly timbre. Cadence & Tempo: Unhurried, serene, contemplative; slow and steady. Mannerisms: Benevolent diplomacy; warm vocal smiles; patient, grandfatherly cadence that commands instinctive respect.
 
 DREW
-I speak with the voice of Puck
-Captain Donald Drew. Crisp British military RP, practical, brisk, and dry under pressure
+Captain Donald Drew - Achird. Accent: Crisp British Home Counties RP (Royal Artillery officer). Timbre & Pitch: Clear, dry, mid-register baritone; clean and steady. Cadence & Tempo: Methodical, businesslike, moderate pace. Mannerisms: Precise, analytical enunciation; utilitarian staff officer efficiency; steady, collected breathing.
 
 THESIGER
-I speak with the voice of Iapetus
-Captain Wilfred Thesiger. Austere British aristocratic drawl, deep, laconic, resonant, and utterly unflappable
-
-KABADA
-I speak with the voice of Orus
-Azaj Kabada Tessema. Traditional Ethiopian highland cadence, formal, blunt, and respectful
-
-MENGESHA
-I speak with the voice of Iapetus
-Dejazmach Mengesha Jembere. Deep, gravelly Ethiopian Gojjami accent, suspicious, proud, and fierce highland warlord
-
-SMITH
-I speak with the voice of Achird
-Lieutenant-General Arthur Smith. Stiff British high command RP, formal, bureaucratic, and irritated
-
-WAVELL
-I speak with the voice of Iapetus
-General Sir Archibald Wavell. World-weary British general officer RP, laconic, flat, low, and penetrating
-
-PLATT
-I speak with the voice of Puck
-Lieutenant-General William Platt. Fastidious British cavalry RP, clipped, precise, skeptical, and rigid
-
-SUDANESE CAPTAIN
-I speak with the voice of Puck
-Sudanese Transport Captain. Sudanese Arabic-accented military English, formal, defensive, and stiff
-
-CAMPBELL
-I speak with the voice of Achird
-Captain Jock Campbell. Weary Scottish accent, practical, blunt, and exasperated
-
-ETHIOPIAN SOLDIER
-I speak with the voice of Orus
-Ethiopian Sub-Officer. Battle-hardened Ethiopian accent, flat, stoic, and resolute
+Captain Wilfred Thesiger - Fenrir. Accent: Patrician Old Etonian British RP (laconic desert explorer). Timbre & Pitch: Low, gravelly, dry baritone; flinty, sun-baked rasp. Cadence & Tempo: Very slow, sparse, tight-lipped; economical with words. Mannerisms: Flat, unemotional delivery; minimal inflection; quiet, formidable intensity that never needs to raise its volume.
 
 AKAVIA
-I speak with the voice of Puck
-Lieutenant Abraham Akavia. Central European and Palestinian Jewish-accented English, precise, quiet, and intellectual
+Lieutenant Abraham Akavia - Achird. Accent: Mandate Palestine Hebrew-accented English (Central European / Sabra phonology). Timbre & Pitch: Light, earnest, warm baritone; slight nasal clarity. Cadence & Tempo: Deliberate, thoughtful, rhythmic cadence; careful, structured phrasing. Mannerisms: Hard, rolled alveolar "r"s; sharp dental stops; earnest, loyal devotion and quiet intellectual sharpness.
 
 VAN DER POST
-I speak with the voice of Orus
-Captain Laurens van der Post. South African English accent, resonant, booming, philosophical, and dramatic
-
-SUDANESE SENTRY
-I speak with the voice of Fenrir
-Sudanese Sentry. Sudden Sudanese Arabic military shout, sharp, alarmed, and vigilant
-
-ITALIAN OFFICERS
-I speak with the voice of Achird
-Italian Officers. Italian accent, rapid, frantic, screaming combat orders under artillery fire
-
-ITALIAN SENTRY
-I speak with the voice of Orus
-Italian Sentry. Sharp Italian accent, startled, challenging, and defensive
-
-JOHNSON
-I speak with the voice of Puck
-Major Ronnie Johnson. Urgent British military RP, low, pragmatic, and tactical under fire
-
-NOTT
-I speak with the voice of Achird
-Captain Donald Nott. Focused British military RP, tense and combative
-
-NATALE
-I speak with the voice of Iapetus
-Colonel Leopoldo Natale. Weary Italian accent, hoarse, defensive, and panicked veteran colonial brigade commander
-
-DE DOMINICIS
-I speak with the voice of Puck
-Major Mario de Dominicis. Proud Italian accent, aggressive, haughty, and sharp Blackshirt officer
-
-ROSSI
-I speak with the voice of Achird
-Captain Rossi. Stunned Italian accent, formal and polite under stress
-
-ROWE
-I speak with the voice of Achird
-Captain Alan Rowe. Stressed British military RP, exhausted, sharp, and combative
+Captain Laurens van der Post - Puck. Accent: Cultured South African English (Cape / Anglo-Afrikaner bilingual cadence). Timbre & Pitch: Velvety, resonant, lyrical baritone; warm and poetic. Cadence & Tempo: Gentle, lilting, unhurried; rhythmic storytelling tempo. Mannerisms: Softly rolled "r"s; open, rounded vowels; philosophical, reflective inflections that evoke vast landscapes.
 
 BOYLE
-I speak with the voice of Puck
-Major Edward Boyle. Dry British colonial service accent, flat, unromantic, and battle-weary
+Major Boyle - Fenrir. Accent: Stiff, formal British Military RP (conventional regular infantry). Timbre & Pitch: Tense, tight-throated baritone; abrasive, metallic edge. Cadence & Tempo: Staccato, rigid, hurried. Mannerisms: Pedantic military barking; nervous throat-clearing; strained frustration under operational pressure.
+
+ROWE
+Captain Alan Rowe - Puck. Accent: Down-to-earth British RP with light West Country warmth. Timbre & Pitch: Bright, open, cheerful baritone; sturdy and engaging. Cadence & Tempo: Brisk, practical, conversational. Mannerisms: Practical cheerfulness; upbeat inflection; clear, reassuring frontline officer tone.
 
 TUTTON
-I speak with the voice of Fenrir
-Lieutenant B. A. Tutton. Frantic British military RP, combat-stressed, shouting over machine-gun fire
+Lieutenant B. A. Tutton - Achird. Accent: Youthful, polite British Public School RP. Timbre & Pitch: Lean, light mid-baritone; crisp and slightly reedy. Cadence & Tempo: Eager, brisk, prompt. Mannerisms: Snappy subordinate acknowledgment ("Sir!"); sharp dental consonants; disciplined, youthful enthusiasm.
 
-ETHIOPIAN SCOUT
-I speak with the voice of Orus
-Ethiopian Scout. Breathless, terrified Ethiopian Amharic cadence, urgent and gasping
+JOHNSON
+Major Ronnie Johnson - Iapetus. Accent: Gruff, seasoned British Military RP (veteran colonial officer). Timbre & Pitch: Heavy, chest-resonant, rumbling bass-baritone; smoky rasp. Cadence & Tempo: Slow, deliberate, steady as an anvil. Mannerisms: Low, muttered curses under breath; phlegmatic calm in firefights; dry, pragmatic enunciation.
 
-FARMER
-I speak with the voice of Iapetus
-Gojjami Farmer. Rough highland Ethiopian dialect, vengeful, rustic, and trembling before authority
-
-HIGHLAND SPEARMEN
-I speak with the voice of Orus
-Highland Spearmen. Emotional Ethiopian choral cadence, chanting and reverent
-
-ABUNA
-I speak with the voice of Puck
-Elderly Abuna. Frail, quavering Ethiopian liturgical cadence, ancient and solemn
-
-SUDANESE SERGEANT
-I speak with the voice of Fenrir
-Sudanese Sergeant. Formal Sudanese Arabic cadence, respectful and disciplined
-
-MARAVENTANO
-I speak with the voice of Achird
-Colonel Saverio Maraventano. Stoic Italian accent, thickset, grave, and disciplined fortress commander
-
-HAILU
-I speak with the voice of Puck
-Ras Hailu Tekle Haymanot. Silk-smooth, aged Ethiopian aristocratic cadence, cunning, velvet, and theatrical
-
-NASI
-I speak with the voice of Iapetus
-General Guglielmo Nasi. Aristocratic Italian general officer accent, icy, razor-sharp, and coldly furious
+NOTT
+Captain Donald Nott - Fenrir. Accent: Direct, hard-edged British Officer RP. Timbre & Pitch: Gritty, incisive, punchy baritone; wiry, urgent texture. Cadence & Tempo: Rapid, energetic, aggressive operational tempo. Mannerisms: Quick-fire situational assessments; explosive emphasis on tactical commands; fearless frontline drive.
 
 MACDONALD
-I speak with the voice of Puck
-Bimbashi Colin MacDonald. Gentle Scottish accent, quiet, resolute, and courageous
+Bimbashi Colin MacDonald - Orus. Accent: Highland Scottish-accented Military English (Sudan Defence Force). Timbre & Pitch: Rich, sonorous, barrel-chested baritone; rolling resonance. Cadence & Tempo: Rhythmic, robust, marching pace. Mannerisms: Strongly rolled Scottish "r"s; hearty, commanding vocal projection; warm soldierly camaraderie.
 
 TURRALL
-I speak with the voice of Achird
-Lieutenant Turrall. Gritty English working-class veteran accent, laconic, gravelly, and seasoned
+Lieutenant Turrall - Puck. Accent: Practical London / Southeastern British English (Royal Engineers). Timbre & Pitch: Clear, buoyant, agile baritone; clean projection. Cadence & Tempo: Rapid, problem-solving tempo; agile and lively. Mannerisms: Matter-of-fact technical clarity; energetic vocal lift at sentence ends; upbeat can-do attitude.
 
-ITALIAN PICKETS
-I speak with the voice of Orus
-Italian Pickets. Panic-stricken Italian shouts, desperate and retreating
+CAMPBELL
+Captain Jock Campbell - Fenrir. Accent: Lowland Scots / Glaswegian military inflection. Timbre & Pitch: Raspy, biting, high-energy baritone; rough-hewn texture. Cadence & Tempo: Driving, staccato, relentless. Mannerisms: Sharp, percussive consonants; guttural chuckles; fiery fighting enthusiasm.
 
-BELAI
-I speak with the voice of Fenrir
-Fitawrari Belai Zelleke. Deep, raspy Ethiopian Gojjami warlord cadence, arrogant, guttural, and ferocious
+WAVELL
+General Sir Archibald Wavell - Iapetus. Accent: Vintage Patrician British RP (Winchester / Sandhurst high command). Timbre & Pitch: Low, gravelly, taciturn bass; dry, smoky, contemplative depth. Cadence & Tempo: Extremely slow, laconic, weighed down with vast strategic burden; long, thoughtful silences. Mannerisms: Speaks barely above a murmur; economical, poetic precision; unflappable, weary philosophical calm.
 
-HENDERSON
-I speak with the voice of Achird
-Captain Henderson. Stiff British Military Police RP, polite, bureaucratic, and unyielding until threatened
+SMITH
+Lieutenant-General Arthur Smith - Achird. Accent: Austere, formal British Staff Received Pronunciation. Timbre & Pitch: Dry, tidy, mid-register baritone; thin, ascetic texture. Cadence & Tempo: Metronomic, regulated, unruffled staff-table cadence. Mannerisms: Pious, restrained formality; razor-sharp dental stops; strict, legalistic administrative precision.
 
-RAS ABEBE
-I speak with the voice of Iapetus
-Ras Abebe Aregai. Deep, rugged Ethiopian Shoan guerrilla cadence, battle-scarred and emotional
+PLATT
+Lieutenant-General William Platt - Fenrir. Accent: Biting, aristocratic British Military RP (sharp northern grit undertones). Timbre & Pitch: Snappish, grating, high-baritone; acid-edged, raspy bark. Cadence & Tempo: Curt, impatient, rapid-fire bursts. Mannerisms: Sharp, dismissive snorts; barking reprimands; zero tolerance for unorthodox irregular warfare.
 
 CUNNINGHAM
-I speak with the voice of Achird
-Lieutenant-General Sir Alan Cunningham. Aristocratic British regular high command RP, cold, formal, and detached
-
-ITALIAN MAJOR
-I speak with the voice of Achird
-Italian Staff Major. Feverish, broken Italian accent, formal, exhausted, and humiliated
-
-KAR CAPTAIN
-I speak with the voice of Achird
-King's African Rifles Captain. Supercilious British staff RP, polished, clean, and disdainful
+Lieutenant-General Sir Alan Cunningham - Puck. Accent: High-ranking British Aristocratic RP (polished imperial commander). Timbre & Pitch: Expansive, smooth, resonant baritone; confident and well-projected. Cadence & Tempo: Fluid, stately, deliberate; commanding yet accessible. Mannerisms: Effortless patrician ease; rounded vowels; optimistic, broad strategic sweep.
 
 LUSH
-I speak with the voice of Iapetus
-Brigadier Maurice Lush. Cold British colonial service RP, smooth, bureaucratic, and imperious
+Brigadier Maurice Lush - Achird. Accent: Upper-Class British Colonial Administrative RP (Sudan Civil Service). Timbre & Pitch: Steady, calm, diplomatic baritone; mellow, reassuring timbre. Cadence & Tempo: Measured, orderly, polite; bureaucratic poise. Mannerisms: Measured governmental tone; softly clipped consonants; soothing colonial diplomacy.
 
-STAFF OFFICER
-I speak with the voice of Puck
-British Staff Officer. Curt, formal British regular military RP, sharp and uncompromising
-
-SUBALTERN
-I speak with the voice of Achird
-Administrative Subaltern. Bored, perfunctory British colonial service accent, dismissive and routine
+HENDERSON
+Captain Henderson - Puck. Accent: Standard British Officer RP (Home Counties). Timbre & Pitch: Light, clean, athletic baritone; vibrant and clear. Cadence & Tempo: Brisk, attentive, disciplined. Mannerisms: Respectful, snappy military delivery; clean enunciation; bright, alert posture audible in voice.
 
 THORNHILL
-I speak with the voice of Iapetus
-Lieutenant-Colonel Cudbert Thornhill. Gritty British intelligence RP, decisive, seasoned, and calm in blood and crisis
-
-PRESIDING COLONEL
-I speak with the voice of Achird
-Presiding Medical Colonel. Dry British medical officer RP, clinical, bureaucratic, and flat
+Lieutenant-Colonel Cudbert Thornhill - Iapetus. Accent: Vintage Edwardian Aristocratic British RP (Imperial Russian liaison veteran). Timbre & Pitch: Deep, dusty, rumbling bass; aristocratic drawl. Cadence & Tempo: Slow, languid, conspiratorial. Mannerisms: Worldly, cynical amusement; drawn-out vowels; quiet, smoky intelligence-insider whispers.
 
 MITCHELL
-I speak with the voice of Iapetus
-Sir Philip Mitchell. Dignified British diplomatic RP, statesmanlike, respectful, and measured
+Sir Philip Mitchell - Orus. Accent: Imperial British High-Civil-Service RP. Timbre & Pitch: Full, booming, authoritative baritone; rigid, resonant timbre. Cadence & Tempo: Formal, unyielding, heavy and deliberate. Mannerisms: Pompous colonial gravitas; downward-inflecting final syllables; commanding bureaucratic certainty.
+
+MENGESHA
+Dejazmach Mengesha Jembere - Orus. Accent: Highland Ethiopian Amharic phonology (Gojjam chieftain cadence). Timbre & Pitch: Booming, guttural, mountainous baritone; thunderous chest resonance. Cadence & Tempo: Proud, declamatory, theatrical; rolling, majestic cadence. Mannerisms: Explosive, glottalized consonants; sweeping dramatic rhetorical surges; haughty, warrior-chieftain pride.
+
+KABADA
+Azaj Kabada Tessema - Puck. Accent: Formal Imperial Court Amharic English. Timbre & Pitch: Smooth, poised, mid-register baritone; loyal, warm, velvety texture. Cadence & Tempo: Balanced, respectful, graceful; moderate pacing. Mannerisms: Deferential, gentle courtier dignity; soft sibilants; calm, unwavering loyalty to the Crown.
+
+HAILU
+Ras Hailu Tekle Haymanot - Iapetus. Accent: Feudal Gojjam Amharic (aged aristocratic dynastic cadence). Timbre & Pitch: Heavy, raspy, decadent bass; oily, rumbling gravel. Cadence & Tempo: Slow, serpentine, heavily calculating; dripping with false courtesy. Mannerisms: Wheezing chuckles; lingering, honeyed pauses; predatory, political cunning masked by feudal politesse.
+
+BELAI
+Fitawrari Belai Zelleke - Fenrir. Accent: Fierce Amhara Highland vernacular (uncompromising rebel warrior). Timbre & Pitch: Snarling, raw, razor-sharp baritone; cracked, dust-dry intensity. Cadence & Tempo: Volatile, rapid staccato surges; eruptive crescendos. Mannerisms: Guttural, throat-catching glottals; fiery, defiant spat syllables; ferocious independence refusing any foreign master.
+
+MARAVENTANO
+Colonel Maraventano - Iapetus. Accent: Southern Italian-accented English (weary regular officer). Timbre & Pitch: Heavy, hollow, exhausted bass-baritone; melancholic gravel. Cadence & Tempo: Slow, dragging, burdened; tragic military dignity. Mannerisms: Elongated, sighing vowels; fatalistic shoulder-shrug inflections; resolute, tired honor facing unavoidable capitulation.
+
+NATALE
+General Natale - Fenrir. Accent: Northern Italian-accented English (frantic Alpine/Piedmontese cadence). Timbre & Pitch: High-pitched, strained, breathy baritone; tremulous, ragged edge. Cadence & Tempo: Erratic, hyper-accelerated bursts; flustered and panicky. Mannerisms: Rapid, swallowed syllables; sharp, gasping intakes of air; despairing vocal spikes under psychological siege.
+
+NASI
+General Guglielmo Nasi - Orus. Accent: Aristocratic Northern Italian English (Milanese/Piedmontese high command). Timbre & Pitch: Proud, resonant, steely baritone; impeccably focused. Cadence & Tempo: Measured, theatrical, disciplined. Mannerisms: Crisp, dental articulation; noble, tragic Roman martial posture; commanding authority even in lost causes.
+
+DE DOMINICIS
+Major Mario de Dominicis - Puck. Accent: Dashing Central Italian-accented English (cavalry officer bravura). Timbre & Pitch: Bright, punchy, metallic baritone; athletic and bold. Cadence & Tempo: Galloping, fiery, rhythmic and aggressive. Mannerisms: Flamboyant, rolling "r"s; theatrical bravado; sharp, swaggering battle cries.
+
+ROSSI
+Captain Rossi - Achird. Accent: Melodic, nervous Italian-accented English (Regio Esercito staff officer). Timbre & Pitch: Light, reedy, clear tenor-baritone; slightly tremulous. Cadence & Tempo: Rapid, cautious, hesitant. Mannerisms: Softly rising inflections on statements; careful, apologetic delivery; tight-lipped apprehension.
+
+SUDANESE SENTRY
+Sudanese Sentry - Fenrir. Accent: Northern Sudanese Arabic-inflected military English. Timbre & Pitch: Harsh, guttural, razor-sharp baritone; coarse sand texture. Cadence & Tempo: Snappy, barked, hyper-alert. Mannerisms: Sudden, explosive challenges ("Halt!"); sharp glottal stops; vigilant, tense military readiness.
+
+SUDANESE CAPTAIN
+Sudanese Captain - Orus. Accent: Formal Sudanese Military Arabic English (Omdurman SDF officer standard). Timbre & Pitch: Deep, commanding, resonant baritone; firm and upright. Cadence & Tempo: Steady, proud, rhythmic marching cadence. Mannerisms: Clear, authoritative military projection; rolling "r"s; dignified, unwavering desert discipline.
+
+SUDANESE SERGEANT
+Sudanese Sergeant - Iapetus. Accent: Gruff Sudanese Arabic-tinged soldier English. Timbre & Pitch: Rumbling, earth-shaking, gravelly bass; thick, smoky depth. Cadence & Tempo: Heavy, deliberate, thunderous cadence. Mannerisms: Deep chest growls; barking disciplinary shouts; unshakable, granite-like noncom authority.
+
+ETHIOPIAN SOLDIER
+Ethiopian Soldier - Fenrir. Accent: Highland Amharic-accented English / battle Amharic. Timbre & Pitch: Raw, breathy, hard-bitten baritone; wind-scoured rasp. Cadence & Tempo: Urgent, breathless, staccato. Mannerisms: Fierce glottal emphasis; sharp, panting pauses; raw frontline grit and survival instinct.
+
+ETHIOPIAN SCOUT
+Ethiopian Scout - Puck. Accent: Whispering, agile Highland Amharic. Timbre & Pitch: Lean, light, supple baritone; conspiratorial and hushed. Cadence & Tempo: Quick, secretive, gliding tempo. Mannerisms: Sibilant, soft-treading whispers; sharp, darting vocal cues; tense, mountain-honed vigilance.
+
+ABUNA
+Abuna of the Ethiopian Church - Iapetus. Accent: Solemn Ge'ez / Ecclesiastical Amharic liturgical English. Timbre & Pitch: Cavernous, ancient, hollow bass; resonant like a stone cathedral. Cadence & Tempo: Extremely slow, chanting, ritualistic cadence. Mannerisms: Chanted vowel elongation; deep, prayerful inhalations; sacred, timeless spiritual authority.
+
+FARMER
+Ethiopian Farmer - Achird. Accent: Rural Gojjam Amharic vernacular. Timbre & Pitch: Weathered, raspy, warm tenor-baritone; cracked earth texture. Cadence & Tempo: Simple, hesitant, unhurried folk cadence. Mannerisms: Humble, deferential dips in pitch; earthy, quiet sincerity; weary bewilderment at war.
+
+HIGHLAND SPEARMEN
+Highland Spearmen - Orus. Accent: Chanted Highland Amharic war dialect. Timbre & Pitch: Booming, raw, collective choral baritone; vibrating with primal resonance. Cadence & Tempo: Driving, pulsing, rhythmic war chants. Mannerisms: Thundering unison battle roars; guttural war ululations; terrifying tribal collective power.
+
+CROWD
+Ethiopian Crowd - Fenrir. Accent: Multitude of Amharic / Oromo Highland voices. Timbre & Pitch: Surging, tumultuous, multi-layered roar; gritty, massive vocal texture. Cadence & Tempo: Swelling crescendos; undulating waves of jubilation and fury. Mannerisms: Piercing women's joyous ululations ("ililta") clashing with deep male cheers; ecstatic, tearful patriotic fervor.
+
+ITALIAN SENTRY
+Italian Sentry - Fenrir. Accent: Working-class Southern Italian / Neapolitan dialect. Timbre & Pitch: Dry, raspy, frightened baritone; tense, strained throat. Cadence & Tempo: Rapid, jumpy, jittery. Mannerisms: Nervous throat-clearing; anxious, echoing night shouts; panicked trigger-finger breathless delivery.
+
+ITALIAN SENTRIES
+Several Italian Sentries - Puck. Accent: Blended Italian regional dialects (Venetian, Roman, Sicilian). Timbre & Pitch: Whispering, overlapping, agitated baritones; reedy and fragile. Cadence & Tempo: Murmuring, rushed, hurried exchanges. Mannerisms: Hushed, claustrophobic mutters; shared terror in the darkness; nervous questioning inflections.
+
+ITALIAN PICKETS
+Italian Pickets - Achird. Accent: Echoing Northern Italian military calls. Timbre & Pitch: Distant, echoing, strained mid-baritone; shrill edge across valleys. Cadence & Tempo: Staccato alarm calls; rapid shouting bursts. Mannerisms: Strident, piercing shouts through mist; rising panic on perimeter contacts; desperate signaling.
+
+ITALIAN OFFICERS
+Italian Officers - Orus. Accent: Standard Northern Italian military cadence (Turin / Modena Academy). Timbre & Pitch: Crisp, ringing, collective baritone; theatrical projection. Cadence & Tempo: Formal, disciplined, brisk. Mannerisms: Sharp, synchronized commands; proud aristocratic cadence attempting to mask mounting chaos.
+
+ITALIAN COMMANDER
+Italian Commander - Iapetus. Accent: Senior Italian Regular Army standard (Piedmontese nobility). Timbre & Pitch: Solemn, hollow, aged bass; fatigued and worn. Cadence & Tempo: Measured, grave, resigned. Mannerisms: Heavy sighs between sentences; stiff aristocratic spine; somber, dignified acknowledgment of military reality.
+
+ITALIAN MAJOR
+Italian Major - Fenrir. Accent: Sharp, percussive Milanese Italian. Timbre & Pitch: Grating, high-strung, abrasive baritone; dry and raspy. Cadence & Tempo: Fast, irritable, frantic. Mannerisms: Barked, exasperated complaints; sharp snaps at subordinates; brittle, high-stress delivery under artillery fire.
+
+KAR CAPTAIN
+King's African Rifles Captain - Puck. Accent: Crisp, energetic East African Colonial British RP (Kenya settler / officer). Timbre & Pitch: Robust, clear, sun-warmed baritone; resonant and vibrant. Cadence & Tempo: Brisk, confident, marching cadence. Mannerisms: Casual colonial swagger; clipped consonants; easy, commanding familiarity with bush warfare.
+
+STAFF OFFICER
+British Staff Officer - Achird. Accent: Impeccable War Office British Received Pronunciation. Timbre & Pitch: Flat, tidy, emotionless mid-baritone; clipped and dry. Cadence & Tempo: Metronomic, swift, strictly professional. Mannerisms: Dispassionate briefing tone; crisp efficiency; complete absence of frontline emotional engagement.
+
+SUBALTERN
+British Subaltern - Puck. Accent: Eager, youthful British Public School RP. Timbre & Pitch: Bright, ringing, slightly breathless light baritone; pristine clarity. Cadence & Tempo: Brisk, enthusiastic, slightly nervous tempo. Mannerisms: Punctilious deference; eager-to-please vocal lift; sharp, textbook military salutations.
+
+PRESIDING COLONEL
+British Presiding Colonel - Iapetus. Accent: Rigid, senior British Regular Army RP (Old Guard / Court-Martial President). Timbre & Pitch: Heavy, flinty, cavernous bass; dry, dusty timber. Cadence & Tempo: Deliberate, ponderous, unyielding. Mannerisms: Authoritarian judicial weight; curt, downward-pitch dismissals; glacial, starch-collared traditionalism.
 
 
 
 
 NARRATOR
 Gideon
+
 Ethiopia, 1940-1941
 
 Chapter One

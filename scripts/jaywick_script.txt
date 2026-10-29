@@ -1,97 +1,80 @@
-Jaywick Cast
+Operation Jaywick
+Z Special Unit and the Raid on Singapore Harbour, 1943
+
+Cast
 
 NARRATOR
-I speak with the voice of Iapetus
-Narrator. Australian accent, grounded, mature, and measured, with the steady gravity of a documentary storyteller
+Narrator - Charon. Accent: Vintage Educated Australian / Commonwealth RP (1940s newsreel documentary standard). Timbre & Pitch: Deep, commanding, resonant bass; rich and cinematic with atmospheric weight. Cadence & Tempo: Deliberate, rhythmic, and unhurried; built around sweeping narrative arcs and dramatic pauses. Mannerisms: Authoritative, solemn weight on pivotal moments; crisp historical detachment with an undercurrent of suspense.
 
 MOTT
-I speak with the voice of Iapetus
-Mott. British RP accent, dry, weary, and measured, a senior staff officer behind a desk
+Lieutenant-Colonel G.E. Mott - Orus. Accent: Vintage Upper-Class British Military RP (Staff Officer, Special Operations Executive). Timbre & Pitch: Authoritative, dry baritone; crisp, formal resonance with a cool, aristocratic edge. Cadence & Tempo: Measured, brisk, and clipped; direct and official. Mannerisms: Efficient bureaucratic precision; dismissive drops in pitch at phrase ends; exudes clandestine administrative command.
 
 LYON
-I speak with the voice of Orus
-Lyon. Scottish educated officer-class accent, quiet, clipped, cold, and completely flat, devoid of inflection
+Major Ivan Lyon - Puck. Accent: Classic British Public School RP (Harrow and Sandhurst, Gordon Highlanders officer). Timbre & Pitch: Engaging, bright baritone; vibrant, cultured, and resonant with underlying steely resolve. Cadence & Tempo: Fluid, articulate, and brisk; spirited yet tightly controlled. Mannerisms: Audibly enthusiastic when detailing daring schemes; clipped aristocratic consonants; passionate, quietly intense leadership.
 
 REYNOLDS
-I speak with the voice of Puck
-Reynolds. Australian North Queensland (Thursday Island) accent, gruff, laconic, and salt-cured
-
-DAVIDSON
-I speak with the voice of Puck
-Davidson. British RP accent, crisp, formal, and precise, a stiff by-the-book naval officer
-
-PAGE
-I speak with the voice of Achird
-Page. Australian educated Sydney accent, calm, level, and clinical, warm underneath under pressure
+William “Bill” Reynolds - Orus. Accent: Weathered Mid-Century Australian (seasoned island trader and merchant captain). Timbre & Pitch: Heavy, gravelly, mature baritone; dry, raspy, salt-encrusted timbre. Cadence & Tempo: Laconic, drawling, and relaxed; deliberate pauses between dry observations. Mannerisms: Low, gravelly chuckles; unhurried island-trader nonchalance; pragmatic, seen-it-all fatalism.
 
 CARSE
-I speak with the voice of Fenrir
-Carse. Australian weathered island-trader accent, deep, dry, gravelly, cynical, and stubborn
+Lieutenant Hubert “Ted” Carse - Iapetus. Accent: Broad Mid-Century Victorian Australian (mature mariner and naval reserve officer). Timbre & Pitch: Mature, rich, grounded bass; rough-hewn, chesty, and deeply resonant. Cadence & Tempo: Slow, methodical, rolling naval cadence; heavy and calm under pressure. Mannerisms: Gruff, weathered directness; biting down on syllables; speaks with the steady, unyielding authority of an experienced sea captain.
+
+DAVIDSON
+Lieutenant Donald Davidson - Fenrir. Accent: British Royal Navy Received Pronunciation with slight Colonial / Malayan planter influences. Timbre & Pitch: Textured, steely, mid-to-low baritone; dry, taut, and disciplined. Cadence & Tempo: Steady, quiet, and economical; rarely wastes a syllable. Mannerisms: Understated grim focus; quiet intensity; jaw set firmly, projecting calm grit rather than bombast.
+
+PAGE
+Lieutenant Robert “Bob” Page - Achird. Accent: Cultured Mid-Century Australian (Sydney university medical student, educated AIF officer). Timbre & Pitch: Warm, steady, clear mid-baritone; bright and conversational. Cadence & Tempo: Balanced, youthful, and earnest; easygoing yet focused. Mannerisms: Gentle, thoughtful cadence; precise enunciation; calm, companionable courage.
 
 FALLS
-I speak with the voice of Charon
-Falls. Australian NSW country accent, quiet, tough, and strained
+Able Seaman Walter “Wally” Falls - Iapetus. Accent: Gritty Working-Class Australian (bushman and seaman). Timbre & Pitch: Low, gravelly, grounded bass; dry, raspy, and weathered. Cadence & Tempo: Laconic, steady, and unhurried; blunt, rhythmic timing. Mannerisms: Cheerful cynicism; swallowed word endings; speaks with tough, understated resilience.
 
 JONES
-I speak with the voice of Fenrir
-Jones. Australian Sydney drawl, wry, grumbling, and irreverent
+Able Seaman Joe Jones - Puck. Accent: Larrikin Urban Australian (young naval rating). Timbre & Pitch: Lively, bright, warm baritone; youthful and flexible. Cadence & Tempo: Quick, bouncy, colloquial; animated and banter-ready. Mannerisms: Audible grin; playful inflections; quick, sharp Australian slang delivered with nervous irreverence.
 
 HUSTON
-I speak with the voice of Fenrir
-Huston. Australian Queensland country accent, quiet, hoarse, and stoic
-
-MORRIS
-I speak with the voice of Puck
-Morris. Welsh South Wales valleys accent, soft lilt, calm, and unruffled
-
-YOUNG
-I speak with the voice of Achird
-Young. Australian Western Australian accent, tense, hoarse, and complaining
+Able Seaman Andrew Huston - Achird. Accent: Dry Rural Australian (easygoing bush seaman). Timbre & Pitch: Melodic, grounded, conversational baritone; relaxed, warm, and natural. Cadence & Tempo: Unflappable, slow-to-moderate drawl; easy and conversational. Mannerisms: Relaxed vocal posture; elongated Australian vowels; calm, dependable steadiness in tense moments.
 
 CAIN
-I speak with the voice of Achird
-Cain. Australian broad working-class Sydney accent, deadpan, gruff, and cheeky
+Leading Seaman Kevin Cain - Orus. Accent: Hard-bitten Working-Class Australian (experienced naval rating). Timbre & Pitch: Resonant, commanding, gravel-edged baritone; punchy and firm. Cadence & Tempo: Brisk, no-nonsense, utilitarian tempo. Mannerisms: Sharp, barked operational acknowledgments; firm, heavy emphasis on commands; rough, fraternal tone.
 
 BERRYMAN
-I speak with the voice of Puck
-Berryman. Australian Victorian (Melbourne) accent, youthful, nervous, and cracking
+Able Seaman Mostyn “Moss” Berryman - Fenrir. Accent: Youthful South Australian (Adelaide standard, nineteen-year-old seaman). Timbre & Pitch: Textured, slightly strained, youthful baritone; reedy and alert. Cadence & Tempo: Rapid, tense, and earnest; quick intakes of breath when surprised. Mannerisms: Wide-eyed honesty; youthful modesty; tension audible in pitch spikes during extreme peril.
+
+YOUNG
+Able Seaman Horace “Horrie” Young - Achird. Accent: Crisp Mid-Century Australian (disciplined naval telegraphist). Timbre & Pitch: Neat, dry, level baritone; clear, clean, and radio-filtered tone. Cadence & Tempo: Metronomic, concise, and methodical; measured telegraphic cadence. Mannerisms: Monotone composure under stress; tight, clipped phonetic delivery; calm, analytical observations.
+
+MORRIS
+Corporal Ronald “Taffy” Morris - Puck. Accent: Melodic South Wales (Rhondda Valley Welsh, working-class RAMC medic). Timbre & Pitch: Warm, lyrical, resonant tenor-baritone; vibrant, sing-song lilt. Cadence & Tempo: Rhythmic, lilting, and buoyant; fluid up-and-down vocal rollercoaster. Mannerisms: Rolled Welsh "r"s; cheerful gallows humor; reassuring bedside warmth masking hardened commando training.
 
 MCDOWELL
-I speak with the voice of Charon
-McDowell. Scottish Glaswegian accent, gruff, exhausted, and blunt
-
-COMMANDER
-I speak with the voice of Charon
-Commander. American Midwestern drawl, easygoing, curious, and casual for a naval officer
-
-HELMSMAN
-I speak with the voice of Charon
-Helmsman. Indonesian Madurese-Malay accent, sharp and carrying, friendly turning suspicious
+Leading Stoker James McDowell - Iapetus. Accent: Gruff Ulster Scots / Northern Irish (Belfast shipyard and RN veteran). Timbre & Pitch: Deep, gravelly, rumbling bass; raspy and grease-stained resonance. Cadence & Tempo: Choppy, heavy, rolling tempo; thick, punchy consonants. Mannerisms: Guttural chuffs; short, explosive bursts of speech; mutters affectionately to his diesel engines like recalcitrant mules.
 
 MARSH
-I speak with the voice of Charon
-Marsh. Australian South Australian accent, weak, hoarse, and sick
+Able Seaman Fred Marsh - Fenrir. Accent: Broad Queensland Australian (tough Brisbane larrikin, "Boofhead"). Timbre & Pitch: Low, gravelly, thick baritone; heavy and muscular vocal texture. Cadence & Tempo: Slow, blunt, and punchy; pauses before speaking. Mannerisms: Man of few words; deadpan delivery; husky, guttural chuckle when facing trouble.
 
 CRILLEY
-I speak with the voice of Charon
-Crilley. Australian broad Victorian accent, dry, flat, and tired
+Corporal Andrew Crilley - Orus. Accent: Earthy Working-Class Australian (AIF combat engineer and expedient ship's cook). Timbre & Pitch: Heavy, rasping, grounded baritone; worn, sandpaper quality. Cadence & Tempo: Deliberate, dry, and unpolished; conversational and blunt. Mannerisms: Dry grunts; wry, sardonic delivery about food and duty; completely unbothered by discomfort.
+
+COMMANDER
+United States Navy Commander - Orus. Accent: Crisp Mid-Century American Naval Officer (East Coast establishment / Annapolis standard). Timbre & Pitch: Deep, booming, authoritative baritone; metallic, brassy projection. Cadence & Tempo: Rapid, confident, and direct; sharp, clipped military cadence. Mannerisms: Barked orders; assertive, forward-leaning enunciation; zero hesitation.
 
 AMERICAN
-I speak with the voice of Charon
-American. American Midwestern drawl, hushed, stunned, and disbelieving
+Young American Sailor - Achird. Accent: Vernacular 1940s Mid-Century American (California / West Coast naval rating). Timbre & Pitch: Casual, warm, mid-register baritone; clear and open-throated. Cadence & Tempo: Relaxed, colloquial, slightly drawling American swing. Mannerisms: Friendly, inquisitive pitch rises; informal slang; curious, wide-eyed wonder at the ragged disguised vessel.
+
+HELMSMAN
+Indonesian Prahu Helmsman - Achird. Accent: Native Malay / Indonesian (soft, accented coastal Riau / Sunda cadence). Timbre & Pitch: Soft, reedy, gentle baritone; quiet and breathy. Cadence & Tempo: Slow, rhythmic, lilting, and cautious; rising interrogative endings. Mannerisms: Deferential, watchful restraint; quiet, non-confrontational delivery; soft vowels and gentle dental consonants.
 
 MONAI
-I speak with the voice of Orus
-Monai. Japanese accent, soft, polite, precise English with quiet menace
+Captain Monai - Fenrir. Accent: Mid-Century Imperial Japanese-accented English (Kempeitai officer). Timbre & Pitch: Hard, guttural, tense baritone; harsh, raspy, throat-constricted edge. Cadence & Tempo: Staccato, abrupt, explosive bursts punctuated by cold, menacing silences. Mannerisms: Snapped syllable endings; sharp, percussive plosives; chilling, predatory politeness shifting violently into barked demands.
 
 ELIZABETH
-I speak with the voice of Leda
-Elizabeth. Singaporean Straits Chinese English accent, whispering, bruised, and dignified
+Elizabeth Choy - Kore. Accent: Educated Straits Settlement Singaporean-British English (colonial schoolteacher cadence). Timbre & Pitch: Poised, warm, delicate alto; clear, crystal resonance with profound emotional depth. Cadence & Tempo: Measured, graceful, and unshakeable; quiet dignity without hurry. Mannerisms: Soft, articulate diction; calm, steady breathing even in extreme agony; unwavering moral authority and quiet fortitude.
+
 
 
 
 NARRATOR
 Jaywick
+
 Z Special Unit and the Raid on Singapore Harbour, 1943
 
 Chapter 1. The Ash of Singapore.

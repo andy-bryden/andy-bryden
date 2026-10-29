@@ -1,238 +1,188 @@
-Cananatuan cast
+Cabanatuan
+The raid on Cabanatuan, January 1945
+
+Cast
 
 NARRATOR
-I speak with the voice of Charon
-Narrator. General American accent, steady, cinematic, authoritative, and evocative
+Narrator - Charon. Accent: Mid-Century General American (Broadcaster standard). Timbre & Pitch: Deep, resonant, cinematic bass; rich low-end chest resonance. Cadence & Tempo: Measured, steady, authoritative pacing; dramatic pauses building narrative tension. Mannerisms: Impartial journalistic sobriety; crisp, polished enunciation; evokes 1940s newsreels and documentary solemnity.
 
-ARMY CORPORAL
-I speak with the voice of Puck
-Army Corporal. American accent, cracked, weak, malnourished, and terrified whisper
-
-ARTILLERY SERGEANT
-I speak with the voice of Puck
-Artillery Sergeant. Ohio Midwestern accent, agonizingly weak, fevered, and groaning
-
-ARTILLERYMAN
-I speak with the voice of Puck
-Artilleryman. American accent, frail, sobbing, clutching, and desperate survivor
-
-AUGUSTINE
-I speak with the voice of Orus
-Technician Fifth Grade James Augustine. General American accent, dedicated, emotional, and urgent combat medic
-
-CAVALRYMAN
-I speak with the voice of Fenrir
-Cavalryman. American accent, broken, weeping, disbelieving, and deeply emotional veteran
-
-CORPORAL
-I speak with the voice of Puck
-Corporal. American drawl, casual, skeptical, and relaxed outpost sentry
-
-COX
-I speak with the voice of Puck
-Private First Class Gilbert Cox. Midwestern American accent, breathless, hushed, and urgent Alamo Scout
-
-DRIVER
-I speak with the voice of Achird
-Ambulance Driver. General American accent, choked up, tender, compassionate, and reassuring
-
-DR. LAYUG
-I speak with the voice of Fenrir
-Dr. Carlos Layug. Filipino accent, educated, calm, clinical, and urgent civilian physician
-
-FILIPINO LEADER
-I speak with the voice of Fenrir
-Filipino Leader. Filipino accent, hushed, cautious, disciplined, and respectful guerrilla scout
-
-FILIPINO WOMAN
-I speak with the voice of Kore
-Filipino Woman. Filipino accent, soft, gentle, reverent, and quietly generous
-
-FIRST PRISONER
-I speak with the voice of Orus
-First Prisoner. American accent, hollow, weary, flat monotone of long-term captivity
-
-FISHER
-I speak with the voice of Achird
-Captain James C. Fisher. Boston New England Brahmin accent, gentle, scholarly, stoic, fading, yet clinically lucid
-
-GUERRILLA LEADER
-I speak with the voice of Fenrir
-Guerrilla Leader. Filipino accent, incredulous, suspicious, and then warmly amused
-
-HIBBS
-I speak with the voice of Iapetus
-Captain Ralph Hibbs. Midwestern American accent, exhausted, strained, compassionate, and commanding under pressure
-
-HUK COMMANDER
-I speak with the voice of Puck
-Huk Commander. Filipino accent, sharp, suspicious, authoritarian, and wary
-
-JAPANESE GUARD
-I speak with the voice of Fenrir
-Japanese Guard. Japanese accent, guttural, harsh, barking, and brutal
-
-JAPANESE GUARDS
-I speak with the voice of Fenrir
-Japanese Guards. Japanese accent, panicked, screaming, and barking urgent orders
-
-JAPANESE SENTRIES
-I speak with the voice of Fenrir
-Japanese Sentries. Japanese accent, excited, shouting, and distracted
-
-JAPANESE SENTRY
-I speak with the voice of Fenrir
-Japanese Sentry. Japanese accent, sharp, startled, and aggressive bark
-
-JAPANESE SOLDIERS
-I speak with the voice of Fenrir
-Japanese Soldiers. Japanese accent, fanatical, aggressive, and roaring ancestral battle cries
-
-JAPANESE VOICES
-I speak with the voice of Fenrir
-Japanese Voices. Japanese accent, chaotic, shouting, and urgent commands over machinery
-
-JOSON
-I speak with the voice of Puck
-Captain Eduardo Joson. Filipino accent, fiery, youthful, energetic, and aggressive guerrilla commander
-
-KITTLESON
-I speak with the voice of Orus
-Private First Class Galen Kittleson. Iowa Midwestern accent, youthful, hushed, steely, and confident scout
-
-KRUEGER
-I speak with the voice of Fenrir
-Lieutenant General Walter Krueger. Prussian-accented English, deep, deliberate, gravelly baritone, stern, and commanding
-
-LAPHAM
-I speak with the voice of Fenrir
-Major Robert Lapham. Midwestern American accent, weathered, curt, and experienced jungle guerrilla leader
-
-LEAD SCOUT
-I speak with the voice of Fenrir
-Lead Scout. General American accent, hushed, tense, vigilant, and observant point man
-
-LOADER
-I speak with the voice of Puck
-Bazooka Loader. General American accent, fast, sharp, combat-focused shout
-
-MACARTHUR
-I speak with the voice of Fenrir
-General Douglas MacArthur. Mid-Atlantic Southern aristocratic American accent, resonant, theatrical, deeply emotional, and solemn
+MACARTHUR 
+General Douglas MacArthur - Orus. Accent: Mid-Century Patrician Transatlantic (Mid-Atlantic blend of elite East Coast American and British RP). Timbre & Pitch: Deep, sonorous, theatrical baritone with an audible, dramatic vibrato on elongated vowels. Cadence & Tempo: Grand, slow, rhythmic; declamatory stage delivery with heavy pauses. Mannerisms: Shakespearean gravity; enunciates every syllable with military grandeur.
 
 MUCCI
-I speak with the voice of Puck
-Lieutenant Colonel Henry Mucci. Italian-American East Coast accent, aggressive, brassy, rapid-fire, theatrical, and fiercely determined
-
-MURPHY
-I speak with the voice of Iapetus
-First Lieutenant John Murphy. Irish-American accent, tough, terse, and tactically focused
-
-MUSSELMAN
-I speak with the voice of Iapetus
-First Lieutenant Merle McNeil Musselman. Midwestern American accent, grave, direct, weary, and clinically objective physician
-
-NELLIST
-I speak with the voice of Achird
-First Lieutenant William E. Nellist. Northern California American accent, cool, quiet, lethal, and professional scout leader
-
-NIELSEN
-I speak with the voice of Orus
-Staff Sergeant Eugene Nielsen. General American accent, breathless, horrified, adrenaline-surged, and grimly resolved
-
-O'CONNELL
-I speak with the voice of Fenrir
-First Lieutenant William J. O'Connell. Boston East Coast accent, gritty, sharp, skeptical, and battle-ready
-
-O'KEEFE
-I speak with the voice of Achird
-Father Eugene O'Keefe. Irish-American accent, frail, gentle, solemn, spiritual, and comforting
-
-PAJOTA
-I speak with the voice of Fenrir
-Captain Juan Pajota. Filipino accent, formal, crisp, immaculate, unflinching, and quietly authoritative
-
-POINT SCOUT
-I speak with the voice of Puck
-Point Scout. General American accent, sharp, urgent hiss of warning
+Lieutenant Colonel Henry Mucci - Fenrir. Accent: Italian-American (Bridgeport, Connecticut / Northeast working-class officer). Timbre & Pitch: Gritty, raspy mid-baritone; gravelly, smoke-roughened vocal texture. Cadence & Tempo: Fast, punchy, aggressive; explosive bursts of commands. Mannerisms: Intense martial swagger; clipped, biting consonants; delivers orders with fiery, unapologetic urgency.
 
 PRINCE
-I speak with the voice of Orus
-Captain Robert Prince. Pacific Northwest American accent, soft-spoken, analytical, measured, calm, and tactically precise
+Captain Robert Prince - Puck. Accent: Mid-Century Pacific Northwest American (Stanford educated, refined West Coast cadence). Timbre & Pitch: Warm, balanced, clear baritone; smooth, steady resonance. Cadence & Tempo: Methodical, relaxed, unhurried; calm and analytical pacing. Mannerisms: Controlled emotional reserve; quiet, reassuring confidence; thoughtful, clean articulation without bluster.
 
-PRISONER
-I speak with the voice of Iapetus
-Prisoner. American accent, raspy, hostile, cynical, and defensively defiant
+FISHER
+Captain James Fisher - Achird. Accent: Vintage Educated New England American (Dartmouth and Harvard educated, Vermont roots). Timbre & Pitch: Gentle, melodic mid-baritone; warm, compassionate, slightly reedy. Cadence & Tempo: Conversational, gentle, steady, and humane. Mannerisms: Soothing bedside manner; soft dental consonants; palpable empathy, remaining calm and tender even in crisis.
 
-PRIVATE
-I speak with the voice of Fenrir
-Private. General American accent, casual, inquiring barracks comrade
-
-RESCUED MAN
-I speak with the voice of Puck
-Rescued Man. American accent, weeping, childlike, fragile, and overwhelmed survivor
-
-ROSE
-I speak with the voice of Achird
-Edwin Rose. British RP accent, mild, unflappable, eccentric, cultured, and courteous
-
-ROUNSAVILLE
-I speak with the voice of Iapetus
-First Lieutenant Thomas Rounsaville. Oklahoma Southern Plains accent, athletic, steady, watchful, and dry
-
-RUCKS
-I speak with the voice of Iapetus
-First Lieutenant Bonnie B. Rucks. Southern American accent, sharp, radio-filtered, and tense radar operator
-
-SCHILLI
-I speak with the voice of Puck
-Ranger Francis Schilli. General American accent, frantic, sorrowful, and desperate young soldier
-
-SCHRIEBER
-I speak with the voice of Puck
-Captain Kenneth Schrieber. American aviator accent, cool, confident, focused, and daring night fighter pilot
-
-SECOND PRISONER
-I speak with the voice of Puck
-Second Prisoner. American accent, cracked, rasping, bitter, and cynical fatalist
-
-SOLDIER
-I speak with the voice of Puck
-Soldier. American accent, shrill, hysterical, and terrified of execution
-
-STAFF CAPTAIN
-I speak with the voice of Orus
-Staff Captain. General American accent, crisp, administrative, and hurried division staff officer
-
-STEWART
-I speak with the voice of Fenrir
-Sergeant Marvin "Red" Stewart. Texas drawl, deep, gentle giant, protective, and resolute
-
-SWEEZY
-I speak with the voice of Iapetus
-Corporal Roy Sweezy. Missouri Midwestern accent, calm, reliable, steady, and selfless squad leader
-
-TECHNICIAN
-I speak with the voice of Puck
-Radio Technician. General American accent, stunned, trembling with disbelief and relief
-
-VAQUILAR
-I speak with the voice of Fenrir
-Private First Class Rufo Vaquilar. Filipino-American Northern California accent, subdued, focused, and steady scout
-
-VOICE
-I speak with the voice of Fenrir
-Voice. General American accent, sudden, frantic shout of incoming fire
+KRUEGER
+Lieutenant General Walter Krueger - Iapetus. Accent: Gruff German-American Mid-Century (Upper Midwestern undertones with subtle Prussian phonological weight). Timbre & Pitch: Deep, stony, guttural bass; dry, heavily weathered timbre. Cadence & Tempo: Deliberate, firm, unyielding; slow, methodical cadences. Mannerisms: Stern military discipline; hard, blunt terminal consonants; no-nonsense, pragmatic brevity.
 
 WHITE
-I speak with the voice of Iapetus
-Colonel Horton V. White. General American accent, crisp, professional, clinical, and sharp intelligence officer
+Colonel Horton White - Achird. Accent: Mid-Century Midwestern General American (Sixth Army G-2 intelligence officer). Timbre & Pitch: Flat, dry, articulate baritone; crisp, clinical clarity. Cadence & Tempo: Brisk, efficient, even-paced; briefing-room tempo. Mannerisms: Analytical detachment; clipped phrasing; delivers grim intelligence data with quiet, objective certainty.
+
+NIELSEN
+Staff Sergeant Eugene Nielsen - Fenrir. Accent: Rural Intermountain West (Utah working-class American). Timbre & Pitch: Thin, hoarse, hollow baritone; tremulous and cracked from trauma. Cadence & Tempo: Stumbling, hesitant tempo; breathless, haunted pauses. Mannerisms: Tight throat; quiet, shuddering intakes of breath; conveys the visceral horror and shock of a survivor recounting an atrocity.
+
+ARMY CORPORAL
+Army corporal, prisoner at Puerto Princesa - Puck. Accent: Rustic American (Southern / Midwestern enlisted). Timbre & Pitch: Strained, high-strung baritone; raw, breathy, terrified edge. Cadence & Tempo: Rapid, panicked, irregular; ragged gasps between phrases. Mannerisms: Choked vowels; frantic, desperate delivery shouting through fire and smoke.
+
+JAPANESE GUARDS
+Japanese guards - Fenrir. Accent: Native Japanese (Imperial Japanese Army military drill cadence). Timbre & Pitch: Gruff, guttural, collective barking baritones. Cadence & Tempo: Sharp, staccato, rhythmic chanting and aggressive commands. Mannerisms: Hard glottal attacks; clipped syllables; harsh, intimidating military presence.
+
+JAPANESE GUARD
+Japanese guard - Fenrir. Accent: Native Japanese (Kanto dialect inflections). Timbre & Pitch: Harsh, raspy mid-baritone; abrasive vocal fry. Cadence & Tempo: Barking, abrupt, rapid staccato. Mannerisms: Percussive consonants; curt, interrogative inflections; sudden sharp shouts.
+
+JAPANESE SENTRY
+Japanese sentry - Puck. Accent: Native Japanese (vigilant guard standard). Timbre & Pitch: Tense, mid-register baritone; tight throat, slightly breathy. Cadence & Tempo: Halting, cautious, punctuated by sudden alert calls. Mannerisms: High vigilance; sharp rising pitch on inquiries in the darkness.
+
+JAPANESE SENTRIES
+Japanese sentries - Achird. Accent: Native Japanese. Timbre & Pitch: Subdued, low-to-mid baritones; murmurous, weary texture. Cadence & Tempo: Steady, rhythmic night-watch chatter alternating with sudden alerts. Mannerisms: Low whispers shifting rapidly to shrill warning cries.
+
+JAPANESE VOICES
+Japanese voices - Puck. Accent: Native Japanese. Timbre & Pitch: Varied mid-to-high baritones; disordered, panicked resonance. Cadence & Tempo: Chaotic, fast, overlapping shouts in the darkness. Mannerisms: Frantic, clipped syllables; rising inflection of surprise and confusion under fire.
+
+JAPANESE SOLDIERS
+Japanese soldiers - Fenrir. Accent: Native Japanese (wartime combat delivery). Timbre & Pitch: Raw, strained, aggressive baritone shouts. Cadence & Tempo: Fast, irregular, explosive combat tempo. Mannerisms: Guttural battle cries; barking, desperate commands amidst artillery fire.
+
+ROUNSAVILLE
+First Lieutenant Thomas Rounsaville - Puck. Accent: Southwestern American (Oklahoma / Texas officer). Timbre & Pitch: Bright, textured, lean baritone; wiry resonance. Cadence & Tempo: Alert, fluid, moderately brisk; scout's stealthy tempo. Mannerisms: Softened drawl; quick, observant pauses; youthful tactical maturity.
+
+NELLIST
+First Lieutenant William Nellist - Achird. Accent: Northern California / Pacific West Coast American. Timbre & Pitch: Low, steady, hushed baritone; calm, velvety resonance. Cadence & Tempo: Deliberate, quiet, economical; whispers with complete clarity. Mannerisms: Controlled breathing; stealth-reconnaissance composure; speaks in concise, unhurried visual reports.
+
+LAPHAM
+Major Robert Lapham - Fenrir. Accent: Upper Midwestern American (Iowa roots hardened by years in the Luzon jungle). Timbre & Pitch: Worn, gravelly baritone; leathery, dust-coated texture. Cadence & Tempo: Lean, laconic, unhurried; quiet frontier gravity. Mannerisms: Chews his words slightly; dry, cynical humor; speaks with the fatigue and hardened grit of a guerrilla chieftain.
+
+CORPORAL
+Corporal at the forward outpost - Puck. Accent: Mid-Atlantic / Pennsylvania American. Timbre & Pitch: Clear, youthful, tight baritone; heightened sensory tension. Cadence & Tempo: Fast, whisper-quiet, urgent pacing. Mannerisms: Swallows nervously between sentences; sharp eye-line focus reflected in crisp, hushed enunciation.
+
+KITTLESON
+Private First Class Galen Kittleson - Fenrir. Accent: Rural Iowa / Midwestern farm country. Timbre & Pitch: Low, rasping, quiet baritone; coarse, unpolished texture. Cadence & Tempo: Very slow, drawled, economical; patient hunting cadence. Mannerisms: Muted, flat delivery; words dropped with hunter-like stillness; zero nervous inflection.
+
+O’CONNELL
+First Lieutenant William O’Connell - Puck. Accent: Urban Northeast American (Boston / New York Irish-American). Timbre & Pitch: Crisp, brassy, energetic baritone; assertive projection. Cadence & Tempo: Snappy, driving, brisk combat tempo. Mannerisms: Punchy plosives; energetic combat leadership; sharp, focused field commands.
+
+PRIVATE
+Ranger private - Puck. Accent: General American (working-class Midwestern). Timbre & Pitch: Young, vibrant baritone; slightly breathy with adrenaline. Cadence & Tempo: Rapid, responsive, eager. Mannerisms: Deferential "yes sir" cadence; tight-jawed combat excitement.
+
+SWEEZY
+Corporal Roy Sweezy - Puck. Accent: Midwestern American (Bellefontaine, Ohio). Timbre & Pitch: Sincere, warm, youthful baritone; earnest, open timbre. Cadence & Tempo: Steady, focused, brave; unflinching moderate pace. Mannerisms: Gentle Midwestern diphthongs; quiet steadfastness; calm courage under heavy fire.
+
+POINT SCOUT
+Point scout - Achird. Accent: Western American (dry plains drawl). Timbre & Pitch: Whispering, airy, low-register baritone. Cadence & Tempo: Slow, stalking, hyper-controlled pacing. Mannerisms: Utterly silent consonants; speaks barely above a breath; watchful, predatory stillness.
+
+LEAD SCOUT
+Lead scout - Puck. Accent: Great Lakes / Ohio Valley American. Timbre & Pitch: Muffled, lean, resonant mid-baritone. Cadence & Tempo: Measured, stealthy, staccato hand-signal cadence. Mannerisms: Clipped whispers; pauses after every observation; hyper-attentive enunciation.
+
+FILIPINO LEADER
+Filipino leader - Iapetus. Accent: Traditional Philippine English (Central Luzon Tagalog phonology). Timbre & Pitch: Deep, resonant, gravelly bass; earthy, weathered dignity. Cadence & Tempo: Measured, formal, unhurried. Mannerisms: Pure, open vowels; rolled Spanish-influenced "r"s; solemn, respectful patriarchal authority.
+
+FILIPINO WOMAN
+Filipino woman - Leda. Accent: Gentle Philippine English (Nueva Ecija Tagalog dialect). Timbre & Pitch: Warm, soft, empathetic alto; gentle maternal resonance. Cadence & Tempo: Lyrical, musical, steady, and soothing. Mannerisms: Rounded, rising sentence endings; tender emotional care; quiet reverence and relief.
+
+ARTILLERY SERGEANT
+Artillery sergeant, a prisoner at Cabanatuan - Fenrir. Accent: New York / Brooklyn working-class American. Timbre & Pitch: Broken, rasping, hollow baritone; cracked vocal chords from malnutrition. Cadence & Tempo: Sluggish, weary, halting; surges with sudden disbelief. Mannerisms: Dry coughs; cynical, defensive tone born of long captivity; raw, stunned emotion.
+
+HIBBS
+Captain Ralph Hibbs - Achird. Accent: Midwestern American (Iowa medical officer). Timbre & Pitch: Tired, raspy, but soothing mid-baritone; clinical calm laced with exhaustion. Cadence & Tempo: Measured, patient, low-energy cadence. Mannerisms: Weary sighing; gentle bedside reassurance; tight, clinical precision maintaining morale despite starvation.
+
+O’KEEFE
+Father Eugene O’Keefe - Iapetus. Accent: Urban Irish-American (New Jersey / New York Catholic standard). Timbre & Pitch: Deep, rich, velvet bass; comforting pastoral warmth. Cadence & Tempo: Slow, liturgical, calm, and soothing. Mannerisms: Rounded, pastoral delivery; steady, prayerful resonance; acts as an anchor of serenity amid suffering.
+
+FIRST PRISONER
+First prisoner - Achird. Accent: Mid-Southern American (Tennessee / Kentucky). Timbre & Pitch: Weak, papery, tremulous baritone; thin and hoarse. Cadence & Tempo: Faltering, sluggish, incredulous. Mannerisms: Wavering tone; bewildered disbelief; asks questions with childlike vulnerability.
+
+SECOND PRISONER
+Second prisoner - Puck. Accent: Upper Midwestern American (Chicago / Illinois). Timbre & Pitch: Frail, reedy baritone; strained, wheezing breath. Cadence & Tempo: Hesitant, cautious, sudden bursts of trembling relief. Mannerisms: Quiet weeping under speech; stunned pauses as reality sets in.
+
+PAJOTA
+Captain Juan Pajota - Orus. Accent: Fluent Philippine English (Nueva Ecija Tagalog phonology, USAFFE officer training). Timbre & Pitch: Deep, resonant, steel-edged baritone; exceptionally steady. Cadence & Tempo: Precise, deliberate, tactical, perfectly controlled. Mannerisms: Melodic cadence harnessed with strict military command; crisp, unyielding consonants; absolute calm authority and strategic genius.
+
+JOSON
+Captain Eduardo Joson - Fenrir. Accent: Passionate Philippine English (Central Luzon Tagalog cadence). Timbre & Pitch: Gritty, ringing, intense baritone; fiery, athletic resonance. Cadence & Tempo: Brisk, martial, punchy; rapid tactical commands. Mannerisms: Sharp, percussive consonants; fierce anti-Japanese resolve; intense, warrior-like energy.
+
+VAQUILAR
+Private First Class Rufo Vaquilar - Puck. Accent: Filipino-American bilingual blend (Ilocano/Tagalog native speaking fluent US Army GI English). Timbre & Pitch: Clear, agile, bright baritone; youthful and buoyant. Cadence & Tempo: Quick, nimble, light-footed cadence. Mannerisms: Snappy articulation; seamless transitions between English and local dialects; effortless, cheerful bravery.
+
+COX
+Private First Class Gilbert Cox - Achird. Accent: Midwestern American (rural Indiana / Ohio). Timbre & Pitch: Plainspoken, steady, grounded baritone; dependable warmth. Cadence & Tempo: Moderate, calm, unshakeable. Mannerisms: Unvarnished enunciation; solid, unflappable Midwestern demeanor under fire.
+
+MURPHY
+First Lieutenant John Murphy - Orus. Accent: New England / Massachusetts Irish-American. Timbre & Pitch: Heavy, commanding, brassy baritone; loud, booming projection. Cadence & Tempo: Driving, forceful, marching cadence. Mannerisms: Authoritative, barked commands; dropped "r"s with hard dental stops; aggressive, resolute leadership.
+
+STEWART
+Sergeant Marvin “Red” Stewart - Fenrir. Accent: Southern / East Texas American drawl. Timbre & Pitch: Deep, gravelly, smoke-cured baritone; heavy chest vibration. Cadence & Tempo: Slow, languid drawl in camp, turning explosively violent in combat. Mannerisms: Biting down on diphthongs; deadpan, chewing-tobacco delivery; brutally effective bazooka gunner coolness.
+
+SCHRIEBER
+Captain Kenneth Schrieber - Puck. Accent: West Coast / California Aviator General American. Timbre & Pitch: Brash, jaunty, resonant mid-baritone; confident cockpit projection. Cadence & Tempo: Casual, upbeat, syncopated rhythm; completely unflappable. Mannerisms: Radio-filtered casualness; smirking, daredevil wit; executes dangerous low-level aerobatics with playful ease.
+
+RUCKS
+First Lieutenant Bonnie Rucks - Achird. Accent: Gentle Gulf Coast Southern American (Texas / Louisiana). Timbre & Pitch: Mellow, dry, nasal-edged baritone; steady cockpit calm. Cadence & Tempo: Laconic, steady, rhythmic radar-callout pace. Mannerisms: Drawled navigation readouts; unhurried deadpan banter over aircraft intercom; unflinching focus.
+
+LOADER
+Artillery loader - Puck. Accent: Deep South rural American (Georgia / Alabama). Timbre & Pitch: Rough, sweaty, mid-baritone; strain-filled projection. Cadence & Tempo: Rhythmic, rapid, mechanical shouting. Mannerisms: Grunting between heavy shell loads; percussive, monosyllabic military yells.
+
+SOLDIER
+American soldier - Achird. Accent: Standard Mid-Century General American. Timbre & Pitch: Clean, functional, balanced baritone; clear projection. Cadence & Tempo: Direct, businesslike, moderate. Mannerisms: Standard military discipline; crisp protocol; utilitarian and reliable.
+
+RANGER
+Ranger - Fenrir. Accent: Rustbelt working-class American (Pittsburgh / Ohio Valley). Timbre & Pitch: Gritty, hardened, breathless baritone; coated in cordite and mud. Cadence & Tempo: Fast, adrenaline-surged, barking commands. Mannerisms: Raspy battle yelling; harsh, clipped imperatives to moving prisoners.
+
+PRISONER
+Prisoner - Puck. Accent: Southern California / Southwest American. Timbre & Pitch: Frail, paper-thin, dry baritone; cracked vocal fry. Cadence & Tempo: Weak, dragging, bewildered pacing. Mannerisms: Trembling lips audible in voice; hesitant, stunned wonder; clutching disbelief.
+
+RESCUED MAN
+Rescued man - Iapetus. Accent: Deep South American (Mississippi / Alabama). Timbre & Pitch: Low, gravelly, emaciated bass; fragile yet deep chest resonance. Cadence & Tempo: Very slow, ponderous, tearful cadence. Mannerisms: Shuddering sighs; whispered prayers of thanksgiving; voice breaking under sudden salvation.
+
+SCHILLI
+Ranger Francis Schilli - Puck. Accent: Midwestern American (Missouri / St. Louis). Timbre & Pitch: High-energy, warm, athletic baritone; punchy and clear. Cadence & Tempo: Brisk, aggressive, urgent patrol tempo. Mannerisms: Snappy combat enunciation; practical, focused, quick-witted.
+
+VOICE
+A voice in the dark - Iapetus. Accent: Deep Southern drawl (Georgia / Carolinas). Timbre & Pitch: Low, cavernous, reassuring bass; rumbling and warm. Cadence & Tempo: Slow, deliberate, intimate whisper. Mannerisms: Relaxed drawled vowels; conspiratorial warmth; instantly cuts through panic to comfort terrified prisoners.
+
+AUGUSTINE
+Technician Fifth Grade James Augustine - Achird. Accent: Upper Plains / Minnesota American. Timbre & Pitch: Modest, quiet, steady baritone; clean, slightly rounded timbre. Cadence & Tempo: Patient, unruffled, deliberate pacing. Mannerisms: Low, quiet observation notes; modest, unassuming Midwestern reserve; total technical and scout competence.
+
+ARTILLERYMAN
+Artilleryman - Fenrir. Accent: Appalachian / Kentucky American. Timbre & Pitch: Smoky, raspy, throat-worn baritone. Cadence & Tempo: Barked, urgent, rhythmic gunnery pace. Mannerisms: Shouting over gun blasts; hard, twanged vowels; muscular, mechanical efficiency.
+
+DR. LAYUG
+Dr. Carlos Layug - Achird. Accent: Sophisticated Philippine English (educated Manila / Nueva Ecija medical practitioner). Timbre & Pitch: Smooth, gentle, polished mid-baritone; warm and reassuring. Cadence & Tempo: Controlled, calm, clinical, steady pacing. Mannerisms: Soft-spoken bedside reassurance; impeccable, precise Tagalog-inflected medical English; quiet courage under makeshift surgical conditions.
+
+MUSSELMAN
+First Lieutenant Merle Musselman - Achird. Accent: Heartland Midwestern American (Nebraska City, Nebraska). Timbre & Pitch: Dry, raspy, exhausted baritone; strained by long captivity yet clinically lucid. Cadence & Tempo: Methodical, unhurried, focused surgical pace. Mannerisms: Suppressed physical pain; weary, intense dedication to wounded patients; steady hands reflected in quiet, unshakable speech.
+
+GUERRILLA LEADER
+Guerrilla leader - Puck. Accent: Northern Luzon Philippine English (Ilokano / Tagalog inflections). Timbre & Pitch: Sharp, sinewy, energetic baritone; carrying projection. Cadence & Tempo: Fast, agile, commanding; urgent tactical delivery. Mannerisms: Staccato phrasing; rolled "r"s; fierce, decisive insurgent leadership.
+
+ROSE
+Edwin Rose - Puck. Accent: Civilian British English (Southern England / London Merchant Navy purser). Timbre & Pitch: Plummy, slightly dry, mid-to-high baritone; slightly elevated volume due to severe deafness. Cadence & Tempo: Cheerful, unflappable, slightly theatrical British pacing. Mannerisms: Unaware of ambient noise; speaks with eccentric nonchalance and jaunty colonial poise; perfectly dressed diction completely oblivious to the chaos around him.
+
+TECHNICIAN
+Radio technician - Achird. Accent: Mid-Atlantic American (technical corps standard). Timbre & Pitch: Clean, flat, steady baritone; clear headset frequency. Cadence & Tempo: Metronomic, concise, brisk Morse-and-radio pacing. Mannerisms: Crisp phonetic alphabet readouts; neutral, procedural calm; devoid of combat excitement.
+
+CAVALRYMAN
+Cavalryman - Orus. Accent: Texas / Southwestern American (6th Cavalry reconnaissance). Timbre & Pitch: Deep, booming, sun-baked baritone; commanding projection. Cadence & Tempo: Confident, rolling, brisk canter. Mannerisms: Big-chested Texas drawl; hearty swagger; protective and robust welcome to rescued survivors.
+
+DRIVER
+Truck driver - Puck. Accent: Urban Midwest / Detroit American. Timbre & Pitch: Gritty, loud, gravelly mid-baritone; shouting over a diesel engine. Cadence & Tempo: Fast, jaunty, practical pacing. Mannerisms: Rough-and-tumble camaraderie; working-class warmth; shouted reassurance over rattling floorboards.
+
+STAFF CAPTAIN
+Staff captain - Achird. Accent: Standard Mid-Century General American (Sixth Army Headquarters officer). Timbre & Pitch: Polished, orderly, brisk mid-baritone; neat, balanced resonance. Cadence & Tempo: Crisp, regulation speed; efficient and organized. Mannerisms: Formal staff protocol; clear, upright delivery; respectful military etiquette.
+
+HUK COMMANDER
+Huk commander - Fenrir. Accent: Central Luzon Tagalog-inflected English (hard peasant resistance dialect). Timbre & Pitch: Harsh, guttural, suspicious mid-baritone; flinty and tight. Cadence & Tempo: Guarded, curt, sharp staccato tempo. Mannerisms: Cold, calculating pauses; sharp, suspicious glances implied in tight-jawed enunciation; revolutionary wariness.
 
 
 
 
 NARRATOR
 Cabanatuan
+
 The raid on Cabanatuan, January 1945
 
 Chapter One

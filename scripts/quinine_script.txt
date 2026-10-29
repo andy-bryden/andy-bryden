@@ -1,183 +1,140 @@
-Quinine Cast
+Operation Quinine
+Jedburgh in the Massif Central, 1944
 
+Cast
 
 NARRATOR
-I speak with the voice of Charon
-Narrator. British RP and Mid-Atlantic accent, cinematic, resonant, authoritative, and evocative historical narrative
+Narrator - Charon. Accent: Mid-Century British Documentary RP. Timbre & Pitch: Deep, sonorous bass; rich chest resonance, commanding and theatrical. Cadence & Tempo: Measured, deliberate, dramatic pacing with evocative pauses. Mannerisms: Impartial gravity; crisp, classical diction; cinematic and historical weight.
 
 MACPHERSON
-I speak with the voice of Puck
-Major Tommy Macpherson. Scottish Argyll accent with refined Oxford cadence, lean, steely, controlled, and intensely authoritative
+Major Tommy Macpherson - Orus. Accent: Patrician Scottish (Edinburgh Public School RP with Highland lilt). Timbre & Pitch: Resonant, commanding baritone; steel-edged and ringing. Cadence & Tempo: Crisp, martial, energetic, unflinching and direct. Mannerisms: Rolled alveolar "r"s; audacious, iron-willed authority delivered with effortless dry wit and aristocratic calm.
 
 MICHEL
-I speak with the voice of Achird
-Lieutenant Prince Michel de Bourbon-Parme. French aristocratic accent with effortless English fluency, dry, polished, calm, and subtly sardonic
+Lieutenant Prince Michel de Bourbon-Parme - Puck. Accent: Aristocratic French (Cultured Parisian / High Nobility phonology speaking fluent English). Timbre & Pitch: Mid-register, warm, melodious baritone with a supple, youthful ring. Cadence & Tempo: Brisk, spirited, fluid; polished courtly rhythm. Mannerisms: Soft uvular "r"; natural Gallic charm and breeziness; relaxed, fearless bravado.
 
 BROWN
-I speak with the voice of Fenrir
-Sergeant Arthur Brown. British Tyneside Geordie accent, flat, mechanical, unflappable, and working-class pragmatic
+Sergeant Oswald Arthur Brown - Achird. Accent: Down-to-earth London / Southern English (Cockney-leaning working-class). Timbre & Pitch: Steady, clear mid-baritone; slightly dry, warm, conversational. Cadence & Tempo: Quick, practical, unpretentious; rhythmic trade-craft tempo. Mannerisms: Dropped terminal consonants; unflappable British corporal calm; efficient, wry, telegrapher's concentration.
 
 COLONEL
-I speak with the voice of Orus
-SOE French Section Colonel. British RP accent, cold, analytical, detached, and commanding
+Lieutenant Colonel of the SOE French Section - Iapetus. Accent: Senior British Military RP (Savile Row / Whitehall officer). Timbre & Pitch: Deep, dry, weathered bass; clipped and austere. Cadence & Tempo: Slow, quiet, methodical, strictly confidential. Mannerisms: Understated authority; tight jaw; speaks in brief, calculated bursts with zero wasted breath.
 
 CAPTAIN
-I speak with the voice of Iapetus
-Staff Captain. British RP accent, brisk, bureaucratic, and formal War Office liaison
+Captain of the Halifax Bomber - Puck. Accent: Crisp RAF Officer RP. Timbre & Pitch: High-mid baritone; bright, focused, cutting clearly above engine noise. Cadence & Tempo: Rapid, cool-headed, brisk; practiced cockpit cadence. Mannerisms: Clipped radio delivery; unflustered technical precision under anti-aircraft fire.
 
 DISPATCHER
-I speak with the voice of Iapetus
-RAF Flight Sergeant Dispatcher. British Cockney London accent, loud, gruff, and strained against roaring slipstream
+RAF Dispatcher - Fenrir. Accent: Working-Class Northern English (Yorkshire). Timbre & Pitch: Husky, gravelly mid-baritone; loud and percussive. Cadence & Tempo: Fast, punchy, rhythmic shout over slipstream roar. Mannerisms: Sharp, percussive consonants; hearty, urgent physical delivery.
 
 COURNIL
-I speak with the voice of Orus
-Commandant Bernard Cournil. French Auvergne regional accent, gravelly, rough-hewn, skeptical, and profane mountain resistance leader
+Monsieur Cournil - Iapetus. Accent: Regional Southwestern French (Occitan / Massif Central rural undertone). Timbre & Pitch: Heavy, earthy bass; raspy and nicotine-stained. Cadence & Tempo: Deliberate, conspiratorial, measured; wary countryman's pacing. Mannerisms: Throaty uvular friction; low, cautious murmur; heavy shrugs audible in phrasing.
 
 PARTISAN
-I speak with the voice of Iapetus
-French Partisan. French provincial accent, youthful, nervous, raw, and reactive maquisard
+French Maquisard - Fenrir. Accent: Rural Auvergnat French. Timbre & Pitch: Gritty, tense baritone; raw, breathy, and agitated. Cadence & Tempo: Rapid, nervous, breathless; staccato bursts. Mannerisms: Sharp intakes of breath; defiant edge; youthful, desperate intensity.
 
 CHAPOU
-I speak with the voice of Iapetus
-Jacques Chapou. French southern Cahors accent, sharp, intellectual, raspy, and dogmatically intense communist commander
-
-COURIER
-I speak with the voice of Orus
-FTP Youth Courier. French Limousin accent, breathless, cracked, haunted, and traumatized
-
-CORPORAL
-I speak with the voice of Puck
-Wehrmacht Corporal. German accent, panicked, terrified, sobbing, and desperate transport clerk
-
-MINER
-I speak with the voice of Fenrir
-Partisan Miner. French Corrèze pithead accent, fierce, vengeful, weeping with rage
+Jacques Chapou ("Capitaine Jean-Louis") - Orus. Accent: Intellectual Southwestern French (Lot / Corrèze). Timbre & Pitch: Firm, penetrating baritone; passionate and ringing. Cadence & Tempo: Rhythmic, rhetorical, persuasive, teacher-like clarity. Mannerisms: Dogged ideological conviction; crisp enunciation; uncompromising, hard-driving political fervor.
 
 VAUR
-I speak with the voice of Orus
-Cheminot Vaur. French Auvergne railwayman accent, hushed, gravelly, practical, and coal-dust dry
+Monsieur Vaur - Achird. Accent: Provincial Central French (Limousin railway worker). Timbre & Pitch: Gravelly, dry mid-baritone; steady and pragmatic. Cadence & Tempo: Unhurried, matter-of-fact, practical. Mannerisms: Flat, honest delivery; speaks with the quiet confidence of an experienced saboteur.
+
+COURIER
+French Courier - Zephyr. Accent: Parisian / Central French. Timbre & Pitch: Light, hushed, breathless mezzo-soprano. Cadence & Tempo: Hurried, urgent whispers; taut and rapid. Mannerisms: Furtive pauses; watchful, nervous glances reflected in quick-dropping pitch.
+
+MINER
+French Miner - Fenrir. Accent: Heavy Cévennes / Massif Central working-class French. Timbre & Pitch: Low, gravelly baritone; coarse, soot-roughened vocal texture. Cadence & Tempo: Blunt, plodding, forceful. Mannerisms: Guttural vowels; defiant, working-class solidarity; hard-bitten stubbornness.
+
+CORPORAL
+French Corporal - Puck. Accent: Standard Metropolitan French Military. Timbre & Pitch: Snappy, bright mid-baritone; alert and eager. Cadence & Tempo: Crisp, martial, responsive. Mannerisms: Quick verbal salutes; energetic posture; sharp, respectful delivery.
 
 GASPARD
-I speak with the voice of Orus
-Colonel Gaspard. French Auvergne accent, frantic, exhausted, desperate, and shouting over artillery fire
+Lieutenant Colonel Émile Coulaudon ("Colonel Gaspard") - Fenrir. Accent: Broad Auvergne French (Clermont-Ferrand regional cadence). Timbre & Pitch: Deep, rough-hewn baritone; gravelly, booming, and authoritative. Cadence & Tempo: Boisterous, direct, impatient, rallying. Mannerisms: Thumping vocal emphasis; rough country warmth; charismatic, fiery commander's projection.
 
 BOUSSAC
-I speak with the voice of Orus
-Marcel Boussac. French Cantal peasant mechanic accent, raspy, conspiratorial, and tobacco-stained veteran
+Monsieur Boussac - Achird. Accent: Provincial Southern French. Timbre & Pitch: Warm, reedy mid-baritone; oily, workshop-worn texture. Cadence & Tempo: Conversational, easygoing, shrewdly practical. Mannerisms: Chuckling undertones; sly mechanical confidence; expressive shrugs in tone.
 
 MAYOR
-I speak with the voice of Orus
-Village Mayor. French formal provincial accent, dignified, quavering, and stunned by audacity
+Mayor of a Cantal Town - Iapetus. Accent: Formal Provincial French (Third Republic civic dignitary). Timbre & Pitch: Plump, pompous bass; hollow chest resonance. Cadence & Tempo: Ponderous, ceremonial, self-important. Mannerisms: Throat-clearing between sentences; grand, florid vocal arcs; tremulous anxiety beneath official pride.
 
 ROQUEMAUREL
-I speak with the voice of Iapetus
-Lieutenant Colonel Jean de Roquemaurel. French formal military accent, aristocratic, measured, and tactically disciplined cavalry officer
-
-GERMAN SENTRY
-I speak with the voice of Fenrir
-German Barracks Sentry. German accent, high-pitched, strained, and nervous sentry behind iron gates
+Lieutenant Colonel Jean de Roquemaurel - Orus. Accent: High-Bourgeois French Military (Saint-Cyr regular officer). Timbre & Pitch: Controlled, dry, aristocratic baritone; impeccably steady. Cadence & Tempo: Strict, measured, unflappable staff tempo. Mannerisms: Chiseled consonants; aristocratic reserve; professional, unyielding military decorum.
 
 GERMAN CAPTAIN
-I speak with the voice of Iapetus
-German Staff Captain. German Prussian military accent, weary, haggard, cornered, and desperate for honorable withdrawal
+German Wehrmacht Captain - Fenrir. Accent: Sharp High German (Prussian officer cadence). Timbre & Pitch: Tense, raspy mid-baritone; metallic edge. Cadence & Tempo: Barked, clipped staccato; tight, aggressive pacing. Mannerisms: Snapped dental stops ("t", "k"); rigid, hard-jawed vocal pressure.
+
+GERMAN SENTRY
+German Sentry - Achird. Accent: Regional German (Rhineland / Westphalian). Timbre & Pitch: Flat, tired mid-baritone; hollow and weary. Cadence & Tempo: Halting, sudden, suspicious. Mannerisms: Anxious edge; breathy shouts; strained, defensive wariness.
 
 ELSTER
-I speak with the voice of Iapetus
-Generalmajor Botho Henning Elster. German Prussian accent, deep, gravelly, weary, stoic, and carrying heavy aristocratic dignity
+Generalmajor Botho Henning Elster - Iapetus. Accent: Northern Aristocratic German (Old Prussian Junker cadence). Timbre & Pitch: Deep, heavy, gravelly bass; weary, worn, and rumbling. Cadence & Tempo: Very slow, deliberate, fatigued yet dignified. Mannerisms: Exhausted sighs between long sentences; old-school Imperial gravity; aristocratic resignation under crushing responsibility.
 
 ERNST
-I speak with the voice of Fenrir
-Major Ernst. German General Staff accent, precise, nervous, protocol-bound, and cracking under pressure
-
-LIEUTENANT
-I speak with the voice of Orus
-German Motorcyclist Lieutenant. German accent, winded, soot-choked, and urgent dispatch rider
-
-BLACKSMITH
-I speak with the voice of Orus
-Partisan Blacksmith. French Berry regional accent, gruff, superstitious, weathered elder maquisard
-
-MACON
-I speak with the voice of Iapetus
-Major General Robert C. Macon. American Virginian Southern accent, gravelly, deliberate, authoritative, and battle-hardened division commander
-
-JAMES
-I speak with the voice of Orus
-Lieutenant Colonel James. American Mid-Atlantic military accent, crisp, analytical, and professional intelligence officer
-
-MAGILL
-I speak with the voice of Fenrir
-First Lieutenant Samuel W. Magill. American Midwestern Ohio accent, flat, nasal, practical, and alert combat reconnaissance scout
-
-COX
-I speak with the voice of Iapetus
-Captain Arthur Cox. British RP accent, calm, airborne-trained, steady, and seasoned liaison officer
-
-GALLEY
-I speak with the voice of Orus
-Lieutenant Robert Galley. French Parisian accent, sharp, cynical, intellectual, and dryly realistic Free French officer
+Major Ernst - Puck. Accent: Formal German Staff Officer (Bavarian / Central German). Timbre & Pitch: Mid-to-low baritone; smooth, disciplined, bureaucratic. Cadence & Tempo: Even, brisk, diplomatic, businesslike. Mannerisms: Precise military deference; controlled breathing; anxious moderation trying to avoid catastrophe.
 
 HASSEL
-I speak with the voice of Achird
-Stabsarzt Dr. Hassel. German military medical accent, exhausted, raspy, professional, and overwhelmed by surgical trauma
+Stabsarzt Dr. Hassel - Achird. Accent: Academic German (Saxon / North German). Timbre & Pitch: Soft, reedy baritone; weary, compassionate, clinical. Cadence & Tempo: Gentle, unhurried, reasoned, and persuasive. Mannerisms: De-escalating softness; careful, humane cadence; calm medical neutrality.
+
+LIEUTENANT
+German Lieutenant - Puck. Accent: Standard High German. Timbre & Pitch: High-strung, brittle baritone; tense, sharp vocal timbre. Cadence & Tempo: Staccato, rushed, edge of panic. Mannerisms: High-pitched orders; nervous clicks of the throat; strained obedience.
 
 OBERFELDWEBEL
-I speak with the voice of Orus
-Checkpoint Oberfeldwebel. German Prussian NCO accent, harsh, barking, disoriented by shock, and rigidly disciplined
+German Oberfeldwebel - Fenrir. Accent: Coarse Northern German (Berlin / Prussian working-class). Timbre & Pitch: Deep, guttural, rasping baritone; sandpaper harshness. Cadence & Tempo: Short, bellowing commands; relentless parade-ground cadence. Mannerisms: Raw throat barking; spit-flecked consonants; ruthless combat veteran authority.
 
 GERMAN SOLDIERS
-I speak with the voice of Iapetus
-German Infantrymen. German regional accents, hushed, awe-struck, and fearful street whispers
+German Soldiers (Chorus / Ensemble) - Fenrir. Accent: Mixed regional German (Bavarian, Saxon, Silesian blends). Timbre & Pitch: Rough, muddy, exhausted unison baritones. Cadence & Tempo: Disorganized, panicked, sluggish mutter to sudden shout. Mannerisms: Trembling vocal fatigue; hollow, murmuring defeat.
 
 LUFTWAFFE CAPTAIN
-I speak with the voice of Achird
-Luftwaffe Captain. German aristocratic officer accent, high-strung, haughty, arrogant, and defensive
+Luftwaffe Captain - Orus. Accent: Refined North German. Timbre & Pitch: Crisp, ringing, cold baritone; arrogant edge. Cadence & Tempo: Sharp, haughty, rapid. Mannerisms: Icy, superior detachment; clipped pronunciation; contemptuous inflection.
 
 WEBER
-I speak with the voice of Orus
-Colonel Kurt von Weber. German security police accent, aggressive, furious, rigid, and defiant Prussian colonel
+Colonel Kurt von Weber - Iapetus. Accent: Traditional Prussian Military (Junker caste). Timbre & Pitch: Heavy, stern, granite bass; dark and humorless. Cadence & Tempo: Rigid, unyielding, slow metronome. Mannerisms: Iron-jawed stillness; guttural, low growl; absolute refusal of informality.
 
 SS HAUPTSTURMFUHRER
-I speak with the voice of Achird
-SS Hauptsturmführer. German Berlin accent, venomous, fanatical, menacing, and dogmatic security officer
+SS-Hauptsturmführer - Fenrir. Accent: Harsh, hardline High German. Timbre & Pitch: Piercing, venomous baritone; strained, fanatical snarl. Cadence & Tempo: Aggressive, sharp, sudden lunges in pitch. Mannerisms: Spat sibilants; seething, menacing quiet erupting into sudden ideological shouts.
 
 GERMAN LOOKOUT
-I speak with the voice of Fenrir
-German Vehicle Lookout. German accent, frantic, shrieking in sheer terror at incoming aircraft
+German Lookout - Achird. Accent: Southwest German (Swabian). Timbre & Pitch: Light, reedy, alarmed tenor-baritone. Cadence & Tempo: Broken, stammering, hurried. Mannerisms: Breathy gasp; voice cracking on alarms; shrill under sudden stress.
 
 PIONEER OBERFELDWEBEL
-I speak with the voice of Iapetus
-Pioneer Oberfeldwebel. German Bavarian accent, battle-weary, explosive, and pushed to the breaking point
+German Pioneer Oberfeldwebel - Fenrir. Accent: Grimy Silesian / Industrial German. Timbre & Pitch: Low, gravelly, dust-choked baritone. Cadence & Tempo: Utilitarian, gruff, rapid. Mannerisms: Abrupt, practical commands; no-nonsense demolition veteran rasp.
 
-FRENCH CROWD
-I speak with the voice of Puck
-French Village Crowd. French regional accents, raw, venomous, and shouting collective threats
+MACON
+Major General Robert C. Macon - Orus. Accent: Mid-Atlantic / Southern Virginian General American (Mid-Century US Senior Officer). Timbre & Pitch: Deep, commanding, gravel-and-honey baritone; warm chest resonance. Cadence & Tempo: Measured, authoritative, leisurely yet unshakeable. Mannerisms: Broad vowels; easy, confident tobacco-cured drawl; formidable, unruffled field-commander swagger.
+
+JAMES
+Lieutenant Colonel James - Iapetus. Accent: Midwestern General American (US Regular Army staff officer). Timbre & Pitch: Solid, low, resonant bass; dry and grounded. Cadence & Tempo: Methodical, steady, standard operational tempo. Mannerisms: Direct, no-frills military brevity; calm administrative confidence.
+
+MAGILL
+First Lieutenant Samuel W. Magill - Puck. Accent: Midwestern American (Ohio / Great Lakes vernacular). Timbre & Pitch: Bright, athletic, energetic baritone; clear, forward projection. Cadence & Tempo: Brisk, bold, persuasive, fast-talking initiative. Mannerisms: Eager, can-do cavalry optimism; natural American informality; sharp, confident conversational pitch.
+
+COX
+Captain Arthur Cox - Achird. Accent: Northeastern American (New York / New England blend). Timbre & Pitch: Dry, level, mid-register baritone; clear and unadorned. Cadence & Tempo: Crisp, efficient, matter-of-fact. Mannerisms: Straightforward staff efficiency; calm diplomatic steadiness; concise tactical phrasing.
+
+GALLEY
+Lieutenant Robert Galley - Puck. Accent: Modern Metropole French (accented Free French English / military French). Timbre & Pitch: Young, vibrant, resonant baritone; sharp and dynamic. Cadence & Tempo: Energetic, rapid, forward-leaning cadence. Mannerisms: Spirited national pride; precise French officer articulation; buoyant tactical focus.
 
 PARTISAN LEADER
-I speak with the voice of Orus
-FFI Partisan Leader. French Sologne accent, hysterical with grief, breathless, and raging against restraint
+Resistance Partisan Leader - Orus. Accent: Gruff Southern French (Auvergne / Limousin Maquis). Timbre & Pitch: Weathered, roaring, smoky baritone; powerful lung capacity. Cadence & Tempo: Fiery, irregular, booming and vehement. Mannerisms: Passionate revolutionary declamation; heavy rolled "r"s; fierce, untamed authority.
 
-PHOTOGRAPHER
-I speak with the voice of Orus
-American Army Photographer. American New York accent, pushy, hurried, and persistent war correspondent
+FRENCH CROWD
+French Civilian Crowd - Kore. Accent: Regional Provincial French (Cantal / Allier townspeople). Timbre & Pitch: Vibrant, multi-layered choral texture, alto-led with high resonant calls. Cadence & Tempo: Surging, rhythmic, emotional crescendos. Mannerisms: Spontaneous cheering; tearful cries of liberation; chaotic, jubilant overlapping chatter.
 
 CHOMEL
-I speak with the voice of Iapetus
-Colonel Raymond Chomel. French formal cavalry accent, fiery, proud, commanding, and uncompromising on national honor
+Colonel Raymond Chomel ("Colonel Charles") - Iapetus. Accent: Traditional French Cavalry Officer RP (Aristocratic, polished). Timbre & Pitch: Deep, aristocratic bass-baritone; dignified, resonant, and calm. Cadence & Tempo: Stately, unhurried, impeccably poised. Mannerisms: Gallic chivalric elegance; quiet, unshakeable national dignity; precise, classical French cadence.
+
+PHOTOGRAPHER
+American Press Photographer - Puck. Accent: Fast-talking Mid-Atlantic / New York American. Timbre & Pitch: Brash, nasal, high-mid baritone; punchy and lively. Cadence & Tempo: Rapid-fire, syncopated, tabloid newsman tempo. Mannerisms: Shouted queries around a cigar; snappy, streetwise inflections; relentless, upbeat momentum.
 
 LATTMANN
-I speak with the voice of Iapetus
-Generalrichter Erich Lattmann. German judicial Prussian accent, cold, booming, draconian, and utterly devoid of mercy
+Generalrichter Erich Lattmann - Charon. Accent: Stern Formal Prussian German (Academic Legalistic). Timbre & Pitch: Cavernous, ominous bass; cold, echoing, devoid of warmth. Cadence & Tempo: Metronomic, chillingly slow, inflexible judicial pace. Mannerisms: Heavy, downward vocal drops; absolute bureaucratic detachment; dead, pitiless legalism.
 
 PROSECUTOR
-I speak with the voice of Orus
-Military Prosecutor. German bureaucratic military accent, dry, clipped, relentless, and legalistic
+Prosecutor of the German Court Martial - Fenrir. Accent: Hard Prussian High German. Timbre & Pitch: Grating, severe, tight-throated baritone; venomously sharp. Cadence & Tempo: Relentless, staccato, accusatory crescendo. Mannerisms: Percussive, striking consonants; acidic, contemptuous emphasis; cold fury in judicial condemnation.
 
 
 
 
 NARRATOR 
 Quinine 
+
 Jedburgh in the Massif Central, 1944
 
 Chapter One

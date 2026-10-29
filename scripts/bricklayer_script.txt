@@ -1,116 +1,91 @@
-Bricklayer Cast
+Operation Bricklayer
+The abduction of General Kreipe, Crete, 1944
+
+Cast
 
 NARRATOR
-I speak with the voice of Charon
-Narrator. Mid-Atlantic accent, cinematic, resonant, grave, and evocative
+Narrator - Charon. Accent: 1940s British Documentary RP (BBC Wartime Broadcast / Pathé Newsreel standard). Timbre & Pitch: Deep, cavernous, resonant bass; authoritative, dark warmth. Cadence & Tempo: Measured, stately, dramatic pacing with deliberate rhetorical pauses. Mannerisms: Cinematic gravitas; impeccable historical sobriety; crisp, aristocratic consonants with room-filling projection.
 
 PADDY
-I speak with the voice of Puck
-Paddy. British RP accent, charismatic, literate, passionate, and boldly energetic
+Major Patrick Leigh Fermor ("Paddy") - Puck. Accent: Classic 20th-century Plummy British Aristocratic RP. Timbre & Pitch: Booming, open-throated, rich baritone; full of chest resonance and vigor. Cadence & Tempo: Fluid, buoyant, expansive; infectious storytelling rhythm. Mannerisms: Smiles audible through speech; elongated, rounded vowels; robust, romantic, energetic gusto.
 
 BILLY
-I speak with the voice of Fenrir
-Billy. British RP accent, aristocratic Coldstream Guardsman, dry, sharp, and confident
-
-TAMPLIN
-I speak with the voice of Orus
-Tamplin. British RP accent, rigid, skeptical, and commanding senior staff officer
-
-FLIGHT SERGEANT
-I speak with the voice of Achird
-Flight Sergeant. Cockney accent, brisk, practical, and loud over aircraft noise
-
-DISPATCHER
-I speak with the voice of Iapetus
-Dispatcher. Northern English accent, disciplined, gritty, and booming over the slipstream
-
-KIMON
-I speak with the voice of Orus
-Kimon. Greek Cretan accent, fierce, gravelly, defiant, and alert mountain fighter
-
-FLEMING
-I speak with the voice of Orus
-Fleming. Scottish accent, blunt, exhausted, defensive, and weather-beaten RAF pilot
-
-LIAISON OFFICER
-I speak with the voice of Achird
-Liaison Officer. British RP accent, weary, fatalistic, and bureaucratic staff officer
-
-ANTONIOS
-I speak with the voice of Iapetus
-Antonios. Greek Cretan accent, breathless, earnest, urgent, and loyal partisan courier
-
-PATERAKIS
-I speak with the voice of Fenrir
-Paterakis. Greek Cretan accent, rugged, low-pitched, stoic, and lethal
-
-MICKY
-I speak with the voice of Achird
-Micky. Greek Cretan accent, sharp, intelligent, hushed, and tactical underground operative
-
-TYRAKIS
-I speak with the voice of Orus
-Tyrakis. Greek Cretan accent, intense, predatory, stealthy, and grimly humorous
-
-FENSKE
-I speak with the voice of Achird
-Fenske. German accent, irritated, startled, and sharp Wehrmacht staff driver
+Captain William "Billy" Stanley Moss - Achird. Accent: 1940s English Public School RP (Charterhouse, Coldstream Guards). Timbre & Pitch: Youthful, refined, mid-register baritone; clear, smooth, resonant. Cadence & Tempo: Brisk, jaunty, confident; energetic military cadence. Mannerisms: Debonair nonchalance; clipped officer consonants; unflappable dry humor under extreme tension.
 
 KREIPE
-I speak with the voice of Charon
-Kreipe. German accent, aristocratic Prussian general, formal, haughty, yet cultured and world-weary
-
-SAVIOLAKIS
-I speak with the voice of Charon
-Saviolakis. Greek Cretan accent, quiet, grounded, somber, and steady mountaineer
+Major-General Heinrich Kreipe - Orus. Accent: Aristocratic Northern German (Prussian / Hanoverian military standard). Timbre & Pitch: Stiff, formal, commanding baritone; tight, metallic, chest-driven resonance. Cadence & Tempo: Rigid, deliberate, pompous tempo; punctilious pauses. Mannerisms: Sharp glottal stops; indignation bristling beneath icy Prussian etiquette; haughty, clipped German-accented English.
 
 BRÄUER
-I speak with the voice of Orus
-Bräuer. German accent, thunderous, imperious, furious, and venomous commanding general
-
-TOWN COMMANDANT
-I speak with the voice of Fenrir
-Town Commandant. German accent, stammering, defensive, anxious, and rattled garrison officer
+General Bruno Bräuer - Iapetus. Accent: East Prussian Military German (Luftwaffe Fallschirmjäger General). Timbre & Pitch: Low, gravelly, battle-hardened bass; smoky, guttural undertone. Cadence & Tempo: Slow, authoritative, heavy-set pacing with blunt rhetorical thuds. Mannerisms: World-weary authority; gruff, dismissive throat clears; hard alveolar consonants.
 
 HARTMAN
-I speak with the voice of Iapetus
-Hartman. German accent, cold, analytical, measured, and academic Abwehr intelligence officer
+Major Hartman - Puck. Accent: Cultured Southern German / Bavarian-inflected English. Timbre & Pitch: Mid-register, dry, disciplined baritone; crisp, polished texture. Cadence & Tempo: Punctual, orderly, efficient staff-officer tempo. Mannerisms: Correct, formal military deference; quiet, analytical delivery with precise dental stops.
+
+TOWN COMMANDANT
+Town Commandant of Heraklion - Orus. Accent: Severe Prussian-accented German / English. Timbre & Pitch: Sharp, biting, brassy baritone; grating, strained edge. Cadence & Tempo: Staccato, snappy, impatient barking delivery. Mannerisms: Abrupt military snap; dismissive downward inflections; domineering, officious presence.
+
+FENSKE
+Corporal Albert Fenske - Fenrir. Accent: Urban Working-Class German (Berlin / Central German enlisted phonology). Timbre & Pitch: Tense, reedy, gravel-flecked mid-baritone; tight and nervous. Cadence & Tempo: Rapid, jerky, breathless; spikes into panic. Mannerisms: Startled intakes of breath; rapid apologetic sputtering; vocal distress when cornered.
+
+TAMPLIN
+Colonel Guy Tamplin - Iapetus. Accent: Senior British Staff Officer RP (Cairo Special Operations Executive). Timbre & Pitch: Deep, sonorous, mahogany bass; smoky and dry. Cadence & Tempo: Unhurried, contemplative, methodical. Mannerisms: Low, conspiratorial authority; sounds like an intelligence director speaking through pipe smoke; unflappable calm.
+
+FLIGHT SERGEANT
+Flight Sergeant - Fenrir. Accent: Broad London Cockney / Estuary British. Timbre & Pitch: Coarse, raspy mid-baritone; gravelly, chesty edge. Cadence & Tempo: Snappy, utilitarian, rhythmic aircrew cadence. Mannerisms: Dropped "h"s and glottal stops; direct, irreverent enlisted warmth; blunt competence under pressure.
+
+DISPATCHER
+Dispatcher - Orus. Accent: Northern English (Yorkshire industrial / RAF non-commissioned officer). Timbre & Pitch: Full, booming, brass-toned baritone; broad and resonant. Cadence & Tempo: Crisp, rhythmic, metronomic jump-timing cadence. Mannerisms: Projecting forcefully over engine roar; flat, grounded vowels; firm, reassuring military cadence.
+
+FLEMING
+Flight Lieutenant Fleming - Puck. Accent: Scottish-inflected British Officer RP (Mid-century RAF Special Duties pilot). Timbre & Pitch: Bright, athletic, clear-ringing baritone; relaxed warmth. Cadence & Tempo: Smooth, rhythmic, controlled radio-chatter cadence. Mannerisms: Tapped alveolar "r"s; effortless flyboy nonchalance; steady, easy confidence through turbulence.
+
+LIAISON OFFICER
+Liaison Officer - Achird. Accent: Vintage British Intelligence RP (Whitehall / SOE Cairo). Timbre & Pitch: Neutral, dry, low-register baritone; steady and guarded. Cadence & Tempo: Controlled, quiet, confidential pacing. Mannerisms: Precise legalistic diction; low-energy bureaucratic discretion; crisp, unemotional briefings.
+
+KIMON
+Kimon Zografakis - Achird. Accent: Rugged Cretan Greek with broken, phonetically accented English. Timbre & Pitch: Warm, earthy, conversational mid-baritone; slightly husky. Cadence & Tempo: Flowing, lilting Mediterranean cadence; unhurried. Mannerisms: Rolled "r"s; soft, conspiratorial vocal chuckles; grounded peasant sincerity and quiet courage.
+
+ANTONIOS
+Antonios Zoidakis - Fenrir. Accent: Fierce Cretan Greek (White Mountains / Sfakian dialect inflections). Timbre & Pitch: Gritty, raw, nicotine-cured mid-baritone; raspy and sharp. Cadence & Tempo: Staccato, urgent, sudden bursts of passionate speech. Mannerisms: Explosive dental stops; intense, hushed whispers; simmering guerrilla defiance.
+
+PATERAKIS
+Manolis Paterakis - Orus. Accent: Harsh, guttural Southwestern Cretan (Sfakian Andarte dialect). Timbre & Pitch: Deep, resonant, thunderous baritone; gravel-laden and fierce. Cadence & Tempo: Heavy, deliberate, proud marching tempo; sudden explosive peaks. Mannerisms: Fierce mountain-chieftain cadence; guttural tongue-clicks; raw, untamed authority that commands instant obedience.
+
+TYRAKIS
+George Tyrakis - Puck. Accent: Robust, energetic Central Cretan Greek. Timbre & Pitch: Open-throated, vibrant, athletic baritone; bright and ringing. Cadence & Tempo: Agile, brisk, bouncing cadence; highly animated. Mannerisms: Musical Mediterranean vocal inflection; fearless, cheerful vitality; rapid, spirited delivery in the field.
+
+SAVIOLAKIS
+Stratis Saviolakis - Iapetus. Accent: Deep Mountain Cretan Greek. Timbre & Pitch: Low, cavernous, rumble-heavy bass; thick and weathered. Cadence & Tempo: Slow, ponderous, steady as a rock; long, contemplative pauses. Mannerisms: Heavy, chesty throat grunts; quiet, immovable gravity; calm lethality beneath a placid exterior.
+
+MICKY
+Michalis "Micky" Akoumianakis - Achird. Accent: Educated Heraklion Cretan Greek (Cultured urban Greek with fluent English). Timbre & Pitch: Smooth, velvety, warm mid-baritone; articulate and balanced. Cadence & Tempo: Fluid, discreet, conversational pacing. Mannerisms: Subdued aristocratic refinement; cautious, conspiratorial murmurs; urban charm set against harsh partisan mountain life.
 
 BARBA GIORGI
-I speak with the voice of Charon
-Barba Giorgi. Greek Cretan accent, deep, ancient, patriarchal, and fearlessly hospitable
+Barba Giorgi - Iapetus. Accent: Archaic Rural Cretan Greek Patriarch. Timbre & Pitch: Ancient, wheezy, rumbling bass-baritone; rough, wood-smoke texture. Cadence & Tempo: Dragging, solemn, storytelling tempo; heavy exhalations. Mannerisms: Weather-beaten pauses; paternal warmth; rich, grandfatherly cadence redolent of ancient folklore and mountain survival.
 
 GUIDE
-I speak with the voice of Achird
-Guide. Greek Cretan accent, young, nimble, urgent, and focused alpine pathfinder
-
-BARNES
-I speak with the voice of Achird
-Barnes. Cockney accent, modest, focused, professional, and technical radio signaller
-
-CICLITIRA
-I speak with the voice of Iapetus
-Ciclitira. British RP accent, wry, seasoned, dryly sarcastic, and unflappable SOE veteran
-
-NAVAL OFFICER
-I speak with the voice of Achird
-Naval Officer. British RP accent, clipped, efficient, and watchful Royal Navy beach officer
-
-RATING
-I speak with the voice of Orus
-Rating. Cockney accent, wide-eyed, working-class, and breathlessly surprised sailor
+Guide - Fenrir. Accent: Broad Cretan Shepherd Greek. Timbre & Pitch: Tense, breathy, reedy mid-baritone; dry and cautious. Cadence & Tempo: Whispering, rapid, scanning tempo; sharp halts. Mannerisms: Constant watchful sibilance; clipped directional murmurs; animal-alert vocal vigilance.
 
 RUNNER
-I speak with the voice of Iapetus
-Runner. Greek Cretan accent, passionate, rugged, fatalistic, and proud mountain runner
+Runner - Puck. Accent: Youthful Mountain Cretan Greek. Timbre & Pitch: High-energy, wiry, breathless baritone; bright and urgent. Cadence & Tempo: Racing, panting, staccato burst delivery. Mannerisms: Audible gasp between sentences; adrenaline-soaked urgency; reports delivered on the ragged edge of exhaustion.
+
+CICLITIRA
+Major Dennis Ciclitira - Orus. Accent: Cultured British RP with subtle Greek phonetic fluency (Anglo-Greek SOE operative). Timbre & Pitch: Resonant, commanding, handsome baritone; calm and steady. Cadence & Tempo: Measured, articulate, authoritative pacing. Mannerisms: Flawless diplomatic composure; quiet, steadying leadership on the shorelines; clear and unshakeable operational focus.
+
+NAVAL OFFICER
+Royal Navy Officer - Puck. Accent: Crisp Royal Navy Wardroom RP. Timbre & Pitch: Clear, ringing, buoyant baritone; forward-projecting. Cadence & Tempo: Snappy, rhythmic, maritime brevity. Mannerisms: Impeccably clipped nautical delivery; brisk, cheerful efficiency amidst nighttime danger.
+
+RATING
+Royal Navy Rating - Fenrir. Accent: British Coastal Enlisted (Portsmouth / West Country blend). Timbre & Pitch: Husky, salty, sea-sprayed mid-baritone; coarse sandpaper texture. Cadence & Tempo: Quick, practical, utilitarian deck-crew cadence. Mannerisms: Dropped consonants; deadpan, salt-of-the-earth calm; dry maritime banter under fire.
 
 COLEMAN
-I speak with the voice of Achird
-Coleman. British RP accent, calm, breezy, wryly humorous, and unflappable RNVR skipper
+Lieutenant Brian Coleman - Achird. Accent: 1940s British RNVR RP (Motor Launch Commander). Timbre & Pitch: Steady, calm, dark-timbered mid-baritone; quiet, reassuring texture. Cadence & Tempo: Methodical, unruffled, low-stress bridge cadence. Mannerisms: Steely composure; hushed navigational commands; professional naval coolness navigating enemy-held waters.
 
 PROVOST-MARSHAL
-I speak with the voice of Orus
-Provost-Marshal. British RP accent, formal, respectful, crisp, and senior military police officer
+Provost-Marshal - Orus. Accent: Rigid British Military Police RP. Timbre & Pitch: Heavy, booming, iron-jawed baritone; loud, barking projection. Cadence & Tempo: Pompous, measured, rulebook cadence; sharp, puncturing emphasis. Mannerisms: Stiff, formal bureaucratic indignance; clipped, sharp consonants; unbending martinet authority.
+
+BARNES
+Corporal Barnes - Fenrir. Accent: British Midlands / Birmingham working-class soldier. Timbre & Pitch: Flat, dry, nasal-tinged mid-baritone; unadorned and weary. Cadence & Tempo: Steady, casual, enlisted-man tempo. Mannerisms: Deadpan, matter-of-fact compliance; resigned fatalism; laconic, blunt soldierly responses.
 
 
 
@@ -118,6 +93,7 @@ Provost-Marshal. British RP accent, formal, respectful, crisp, and senior milita
 
 NARRATOR
 Bricklayer
+
 The abduction of General Kreipe, Crete, 1944
 
 Chapter One

@@ -1,154 +1,125 @@
-Semut cast
+Operation Semut
+The Z Special Unit campaign in Borneo, 1945
+
+cast
 
 NARRATOR
-I speak with the voice of Iapetus
-Narrator. Neutral Commonwealth English accent, grounded, cinematic, mature, and deeply resonant
+Narrator - Charon. Accent: Mid-Century Commonwealth / 1940s Australian Documentary. Timbre & Pitch: Deep, commanding, cinematic bass; rich reverberation, solemn and authoritative. Cadence & Tempo: Measured, stately, documentary pacing with broad rhythmic weight. Mannerisms: Unhurried theatrical gravitas; hard dental enunciation; evocative pauses designed for historical drama.
 
 HARRISSON
-I speak with the voice of Puck
-Major Tom Harrisson. British RP accent, flamboyant, sharp-edged, restless, and intellectually aggressive with patrician confidence
+Major Tom Harrisson - Fenrir. Accent: Vintage Upper-Class British (1930s Oxford and Harrow RP, erratic and theatrical). Timbre & Pitch: Gritty, tense, reedy mid-baritone with an abrasive edge; prone to sudden dynamic swells. Cadence & Tempo: Fast, breathless, volatile bursts; erratic shifts from confidential whispers to barking imperatives. Mannerisms: Hyperactive vocal energy; clipped consonants; impatient snorts and theatrical chuckles; utterly self-assured eccentricity.
 
 CARTER
-I speak with the voice of Achird
-Major G.S. "Toby" Carter. New Zealand accent, quiet, steady, measured, and pragmatic with surveyor's calm
+Major G.S. “Toby” Carter - Achird. Accent: Mid-Century Educated New Zealand English (mild Kiwi vowel shifts, understated and polite). Timbre & Pitch: Warm, mellow, steady baritone; clean, reassuring, natural resonance. Cadence & Tempo: Relaxed, unhurried, conversational tempo; thoughtful, diplomatic spacing. Mannerisms: Gentle, modest delivery; never raises voice; quiet, dry colonial irony; soothing and paternal presence.
 
 EDMEADES
-I speak with the voice of Fenrir
-Captain Eric Edmeades. New Zealand accent, rugged, dry, physically solid, and restrained with veteran bushman discipline
+Captain Eric Edmeades - Orus. Accent: Cultured Mid-Century Australian (Officer Class / AIF standard with colonial overtones). Timbre & Pitch: Crisp, firm, resonant baritone; clear projection and authoritative brassiness. Cadence & Tempo: Direct, crisp, brisk military cadence; economical and focused. Mannerisms: Precise articulation; calm professional confidence under duress; sharp, decisive terminal consonants.
 
 TREDREA
-I speak with the voice of Orus
-Warrant Officer Class II H.J. "Jack" Tredrea. Australian accent, dry, measured, clinical, and authoritative under operational pressure
-
-POCKLEY
-I speak with the voice of Charon
-Squadron Leader Harold Graham Pockley. Australian accent, deep, calm, flat, and professional with bomber pilot composure
-
-ELLIS
-I speak with the voice of Orus
-Major Harry Everard Ellis. British RP accent, sharp, clipped, commanding, and seasoned with special operations urgency
+Warrant Officer Class II H.J. “Jack” Tredrea - Puck. Accent: Working-Class 1940s South Australian (Adelaide vernacular, broad and laconic). Timbre & Pitch: Warm, gritty, versatile mid-baritone with a dry chest resonance. Cadence & Tempo: Easy-going, moderately brisk, pragmatic Aussie bounce; dry comedic timing. Mannerisms: Audible wry amusement; dropped "g"s on participles; blunt, fearless commando candor; steady breath control.
 
 SANDERSON
-I speak with the voice of Fenrir
-Lieutenant Colin Sanderson. British RP accent, intelligent, soft-spoken, precise, and fluent in interior dialects
-
-KELABIT HUNTER
-I speak with the voice of Charon
-Kelabit Hunter. Highland Bazaar Malay accent, hesitant, cautious, low, and watchful
-
-BOWER
-I speak with the voice of Achird
-Staff Sergeant Doug Bower. Australian accent, weary, conversational, rapid, and strained under signals room fatigue
-
-HALLAM
-I speak with the voice of Puck
-Sergeant Kel Hallam. Australian accent, steady, practical, disciplined, and alert
-
-BISARA
-I speak with the voice of Charon
-Penghulu Lawai Bisara. Highland Kelabit Malay accent, deep, resonant, deliberate, and dignified with tribal authority
+Lieutenant Colin Sanderson - Fenrir. Accent: Broad Australian Bush English (1940s rural AIF cadence). Timbre & Pitch: Rough-hewn, textured, dry baritone; raspy and sun-baked vocal grain. Cadence & Tempo: Deliberate, clipped, no-nonsense soldierly tempo. Mannerisms: Tight-jawed vocalization; guttural pauses; terse, direct phrasing with zero embellishment.
 
 CUSACK
-I speak with the voice of Charon
-Warrant Officer Class I Frank Cusack. Australian drawl, dry, flat, unflappable, and gravelly with veteran cynicism
+Warrant Officer Class I Ronald “Frank” Cusack - Iapetus. Accent: Strong Mid-Century General Australian (veteran senior NCO cadence). Timbre & Pitch: Deep, heavy, gravelly bass; thick, rumbling chest resonance. Cadence & Tempo: Slow, methodical, heavy-footed pacing; unshakeable steadiness. Mannerisms: Low, phlegmatic delivery; weary authority of a seasoned warrant officer; flat, matter-of-fact stoicism.
 
-CROCKER
-I speak with the voice of Puck
-Tom Crocker. Anglo-Sarawakian British accent, breathless, feverish, trembling, and hoarse from captive labor
+BOWER
+Staff Sergeant Douglas Bower - Achird. Accent: Mid-Century Australian (New South Wales urban/coastal inflection). Timbre & Pitch: Steady, clear, dry baritone; level, balanced acoustic profile. Cadence & Tempo: Controlled, methodical, even-paced signaller's tempo. Mannerisms: Efficient, technical clarity; calm precision; clinical, factual delivery devoid of panic.
 
-AWANG AMAT
-I speak with the voice of Achird
-Awang Amat. Formal Sarawak Malay accent, polite, measured, crisp, and dignified with colonial civil service formality
+HALLAM
+Sergeant Keith “Kel” Hallam - Puck. Accent: Colloquial Australian English (cheerful frontline AIF vernacular). Timbre & Pitch: Bright, energetic, flexible mid-baritone with an engaging raspy lift. Cadence & Tempo: Brisk, lively, syncopated; rapid-fire soldier banter. Mannerisms: Smirking, irreverent Aussie inflection; rising terminal intonation; snappy, animated radio operator cadence.
 
-SOCHON
-I speak with the voice of Orus
-Captain Bill Sochon. British RP accent, firm, commanding, experienced, and steady with frontier police authority
+BARRIE
+Sergeant J. Keith Barrie - Achird. Accent: Educated Australian (Queensland surveyor background, thoughtful and precise). Timbre & Pitch: Smooth, pleasant, grounded baritone with a light, warm reediness. Cadence & Tempo: Measured, analytical, calm observational cadence. Mannerisms: Deliberate choice of words; scientific curiosity audible in speech; soft, reassuring conversational warmth.
 
-OYONG PUSO
-I speak with the voice of Charon
-Penghulu Oyong Puso. Kayan Malay accent, low, gravelly, slow, and shrewdly cautious
+POCKLEY
+Squadron Leader Harold Graham Pockley - Orus. Accent: Patrician Australian English (Sydney Grammar standard, refined Trans-Tasman officer cadence). Timbre & Pitch: Crisp, ringing, commanding baritone; brilliant projection and spotless clarity. Cadence & Tempo: Sharp, disciplined, brisk RAF/RAAF operational cadence. Mannerisms: Impeccable officer diction; clipped consonants; completely devoid of vocal tremor under extreme pressure.
 
-SHEPHERD
-I speak with the voice of Fenrir
-Sergeant Dennis Shepherd. Australian accent, crisp, direct, aggressive, and efficient commando instructor tone
-
-KENYAH TRACKER
-I speak with the voice of Fenrir
-Kenyah Tracker. Kenyah Malay accent, sharp, tense, commanding, and alert in ambush
-
-SUNDAI
-I speak with the voice of Charon
-Sundai. Iban Malay accent, fierce, adrenaline-charged, proud, and guttural with triumphant warrior energy
-
-HORSNELL
-I speak with the voice of Orus
-Warrant Officer Class II Donald "Shorty" Horsnell. Australian accent, blunt, practical, tactical, and vigilant
-
-GRIFFITHS-MARSH
-I speak with the voice of Fenrir
-Corporal Roland Griffiths-Marsh. Australian accent, gritty, youthful yet battle-hardened, sharp, and lethal with commando economy
-
-MURUT SCOUT
-I speak with the voice of Fenrir
-Murut Scout. Murut Malay accent, guttural, ruthless, flat, and matter-of-fact
-
-DISTRICT CHIEF
-I speak with the voice of Charon
-District Chief. Lun Dayeh Malay accent, elderly, trembling, guarded, and suspicious
-
-SCHOOLTEACHER
-I speak with the voice of Achird
-Schoolteacher. Lun Dayeh Malay accent, earnest, respectful, articulate, and urgent
-
-KAMIMURA
-I speak with the voice of Fenrir
-Lieutenant Eikichi Kamimura. Japanese military accent, rigid, venomous, barked, and uncompromisingly fanatical
-
-FUJINO
-I speak with the voice of Charon
-Captain Tsunekichi Fujino. Japanese military accent, dry, raspy, exhausted yet iron-disciplined and gravely composed
-
-LUN BAWANG ELDER
-I speak with the voice of Charon
-Lun Bawang Elder. Lun Bawang Malay accent, burning with outrage, impassioned, and fiercely accusatory
-
-BLOW
-I speak with the voice of Orus
-Major Rex Blow. Australian accent, intense, explosive, authoritative, and dominant in crisis
-
-LUN BAWANG WARRIOR
-I speak with the voice of Fenrir
-Lun Bawang Warrior. Lun Bawang Malay accent, high-strung, furious, raw, and trembling with blood vengeance
-
-PENGHULU YUDAN MERU
-I speak with the voice of Charon
-Penghulu Yudan Meru. Lun Bawang Malay accent, proud, searing, measured, and heavy with ancestral grief
-
-METIUS PELANUK
-I speak with the voice of Achird
-Metius Pelanuk. Lun Bawang Malay accent, gravelly, bitter, pragmatic, and resigned to realities of power
-
-BMA STAFF OFFICER
-I speak with the voice of Orus
-BMA Staff Officer. British RP accent, stiff, formal, bureaucratic, and sharp with institutional arrogance
-
-CIVIL ADMINISTRATOR
-I speak with the voice of Achird
-Civil Administrator. British RP accent, stuffy, prim, indignant, and paternalistic colonial civil servant tone
-
-PENGHULU TAMA WEN AGIN
-I speak with the voice of Charon
-Penghulu Tama Wen Agin. Kenyah Malay accent, deep, majestic, resonant, and solemn with paramount chieftain dignity
+ELLIS
+Major Harry Everard Ellis - Puck. Accent: Classic British Military RP (1940s SOE liaison officer standard). Timbre & Pitch: Warm, refined, well-rounded baritone; suave and open-chested resonance. Cadence & Tempo: Buoyant, fluid, moderately paced; smooth aristocratic cadence. Mannerisms: Suave, understated bravery; light dental consonants; effortless, cool professionalism.
 
 RAAF FLIGHT CREWMAN
-I speak with the voice of Orus
-RAAF Flight Crewman. Australian accent, bright, casual, practical, and colloquial airman delivery
+RAAF Flight Crewman - Achird. Accent: 1940s General Australian (young RAAF technical crew). Timbre & Pitch: Youthful, clear, steady mid-register baritone; tight, slightly nasal cockpit resonance. Cadence & Tempo: Rapid, punchy, alert intercom cadence. Mannerisms: Clipped radio jargon; focused, disciplined breathing; functional brevity.
+
+BISARA
+Penghulu Lawai Bisara - Iapetus. Accent: Indigenous Borneo Highlands (Kelabit phonology speaking measured English and Malay loan-phrases). Timbre & Pitch: Deep, cavernous, weathered bass; richly resonant and earthy. Cadence & Tempo: Very slow, ponderous, ceremonial rhythm; long, watchful silences between thoughts. Mannerisms: Deep chest rumbles; softened stop consonants; dignified, regal highland stillness; quiet, absolute authority.
+
+SOCHON
+Captain W.L.P. “Bill” Sochon - Puck. Accent: Cheerful Colonial British RP (pre-war Brooke Sarawak official blend). Timbre & Pitch: Jovial, robust, booming baritone; full-bodied, warm, and theatrical. Cadence & Tempo: Expansive, rolling, fluid storytelling tempo; hearty and welcoming. Mannerisms: Audible joviality; rich chuckles in the throat; generous, affectionate manner when addressing local leaders.
+
+HORSNELL
+Warrant Officer Class II Donald “Shorty” Horsnell - Fenrir. Accent: Pungent Outback Australian (dry, sardonic bushman dialect). Timbre & Pitch: Coarse, raspy, low-mid baritone; gravelly with a sharp, cutting edge. Cadence & Tempo: Short, jerky, staccato delivery; laconic and biting. Mannerisms: Cynical, sardonic drawl; tight lips; muttered under-the-breath observations; zero patience for pomp.
+
+OYONG PUSO
+Penghulu Oyong Puso - Orus. Accent: Baram River Kayan Native Phonology (deep, aristocratic tribal phrasing). Timbre & Pitch: Resonant, heavy, commanding baritone; dark, smoky texture. Cadence & Tempo: Stately, deliberate, rhythmic; wave-like cadence mimicking river chant. Mannerisms: Piercing vocal projection; decisive emphasis on guttural glottals; immoveable warrior dignity.
+
+CROCKER
+Tom Crocker - Achird. Accent: Anglo-Sarawakian Eurasian English (vintage British public school softened by lifelong Borneo residency). Timbre & Pitch: Fragile, soft, reedy baritone; thin, strained resonance born of malnutrition and forced labor. Cadence & Tempo: Hesitant, cautious, subdued tempo; starts slowly and gathers quiet momentum. Mannerisms: Subdued deference; soft, breathy intakes; emotional tremor when discussing liberation; polite colonial gentility.
+
+AWANG AMAT
+Awang Amat - Puck. Accent: Colonial Sarawak Malay-Inflected English (formal, courtly administrative cadence). Timbre & Pitch: Melodic, light-to-mid baritone; smooth, polite, lyrical resonance. Cadence & Tempo: Moderately brisk, fluid, lilting syllable-timed cadence. Mannerisms: Deferential courtliness; softened dental stops; precise bureaucratic vocabulary delivered with warm Southeast Asian gentleness.
+
+SHEPHERD
+Shepherd - Fenrir. Accent: Tough Working-Class Australian (commando instructor bark). Timbre & Pitch: Harsh, gravelly, throat-scraped baritone; aggressive, dry bite. Cadence & Tempo: Rapid, barking, rhythmic parade-ground bursts. Mannerisms: Percussive consonants; sharp, biting military commands; abrasive, drill-hardened authority.
+
+TAMA WEN AGIN
+Penghulu Tama Wen Agin - Iapetus. Accent: Kenyah Native Phonology (Baram River paramount chieftain cadence). Timbre & Pitch: Sonorous, rumbling, grounded bass; rich, dark timbre with an ancient, chanting gravity. Cadence & Tempo: Slow, solemn, rolling cadence; oratorical and hypnotic pacing. Mannerisms: Meditative pauses; resonant chest vibrations on open vowels; magnificent patriarchal composure.
+
+SUNDAI
+Sundai - Fenrir. Accent: Iban Dialect-Inflected English / Malay (aggressive interior river warrior cadence). Timbre & Pitch: Intense, gritty, muscular baritone; guttural, sharp, and fiery. Cadence & Tempo: Fast, explosive, aggressive staccato tempo; sudden leaps in intensity. Mannerisms: Fierce, percussive consonants; sharp warrior exhalations; combative gusto and unyielding pride.
+
+GRIFFITHS-MARSH
+Corporal Roland Griffiths-Marsh - Puck. Accent: 1940s Melburnian Australian with subtle Straits-Colonial nuances (enlisted underage, seasoned commando). Timbre & Pitch: Compact, wiry, athletic baritone; youthful yet battle-worn rasp. Cadence & Tempo: Snappy, restless, alert, fast-paced rhythm. Mannerisms: Cynical young veteran bravado; quick-witted, dry gallows humor; sharp intakes of breath when adrenaline spikes.
+
+FUJINO
+Captain Fujino - Orus. Accent: Formal Imperial Japanese Military-Accented English (Taisho-Showa officer cadence). Timbre & Pitch: Tense, metallic, rigid baritone; tightly clenched throat resonance. Cadence & Tempo: Severely clipped, staccato, regimented; abrupt stops and stark silences. Mannerisms: Sharp, percussive plosives; uncompromising martial stiffness; vocal pitch tightening when cornered or issuing demands.
+
+KAMIMURA
+Lieutenant Eikichi Kamimura - Achird. Accent: Japanese-Accented English (disciplined, stoic junior officer standard). Timbre & Pitch: Dry, flat, restrained baritone; clean, controlled, emotionally guarded. Cadence & Tempo: Methodical, deliberate, unhurried; flat, uninflected line delivery. Mannerisms: Strict military etiquette; suppressed desperation beneath absolute composure; hard glottal breaks.
+
+BLOW
+Major Rex Blow - Orus. Accent: Rugged Mid-Century Australian (Northern NSW bush/country townsman turned legendary guerrilla). Timbre & Pitch: Deep, commanding, booming baritone; granite-hard, weathered chest projection. Cadence & Tempo: Measured, forceful, rolling soldier's tempo; immovable confidence. Mannerisms: Natural authority of an escapee and jungle commander; broad, drawled vowels punctuated by ironclad military directives.
+
+YUDAN MERU
+Penghulu Yudan Meru - Achird. Accent: Lun Bawang / Highland Borneo Phonology (mountain village chieftain). Timbre & Pitch: Warm, steady, weathered mid-baritone; grounded and earthy. Cadence & Tempo: Calm, steady, circular conversational rhythm; respectful and resolute. Mannerisms: Gentle, unhurried delivery; nodding vocal affirmation; quiet, resilient highland solidarity.
+
+METIUS PELANUK
+Metius Pelanuk - Puck. Accent: Kelabit Highland Cadence (Bario village headman cadence). Timbre & Pitch: Warm, melodic, high-register baritone; clear, welcoming, open tone. Cadence & Tempo: Lyrical, rolling, hospitable tempo; buoyant and engaging. Mannerisms: Warm, singsong lilt; welcoming smiles audible in voice; courteous, earnest storytelling inflections.
+
+DISTRICT CHIEF
+District Chief - Orus. Accent: Administrative Sarawak Malay English (Brooke Native Officer standard). Timbre & Pitch: Dignified, resonant, authoritative baritone; polished and solemn. Cadence & Tempo: Deliberate, formal, judicial pacing. Mannerisms: Aristocratic poise; precise legalistic pronunciation with soft Malay vowels; smooth, diplomatic authority.
+
+SCHOOLTEACHER
+Village Schoolteacher - Achird. Accent: Mission-Educated Sarawak English (Anglican/Borneo Evangelical Mission cadence). Timbre & Pitch: Light, articulate, gentle tenor-baritone; earnest and clean texture. Cadence & Tempo: Precise, pedagogical, moderate tempo; careful enunciation. Mannerisms: Thoughtful, polite pauses; earnest, moral clarity; slightly formal bookish diction.
+
+BMA STAFF OFFICER
+BMA Staff Officer - Puck. Accent: High-Society British Military RP (post-war Staff College standard). Timbre & Pitch: Crisp, mid-high baritone; cool, polished, slightly nasal clarity. Cadence & Tempo: Brisk, efficient, clipped, detached. Mannerisms: Aloof administrative confidence; sharp, biting dental consonants; dismissive impatience with irregular warfare methods.
+
+CIVIL ADMINISTRATOR
+Civil Administrator - Iapetus. Accent: Vintage British Colonial RP (Raj of Sarawak service, weary and paternal). Timbre & Pitch: Low, gravelly, exhausted bass-baritone; dry, faded resonance. Cadence & Tempo: Slow, languid, world-weary tempo; aristocratic drawl. Mannerisms: Sighing pauses; paternalistic affection for local people; clipped, aristocratic consonants softened by decades in the tropics.
+
+MURUT SCOUT
+Murut Scout - Fenrir. Accent: Northern Borneo Highland Murut (interior mountain cadence). Timbre & Pitch: Gritty, hushed, reedy baritone; raspy, jungle-conditioned whisper. Cadence & Tempo: Sparse, rapid, breathy bursts; abrupt, hyper-alert pacing. Mannerisms: Whispered urgency; sharp, animal-like observational precision; minimal phrasing; sudden quiet halts.
+
+KELABIT HUNTER
+Kelabit Hunter - Achird. Accent: Interior Bario Kelabit Phonology (mountain hunter cadence). Timbre & Pitch: Earthy, low-mid baritone; dry, weathered resonance. Cadence & Tempo: Unhurried, watchful, steady tempo. Mannerisms: Soft clicks and guttural stops; quiet observational brevity; voice rarely elevated above the rustle of the forest canopy.
+
+KENYAH TRACKER
+Kenyah Tracker - Puck. Accent: Upper Baram Kenyah Riverine Cadence. Timbre & Pitch: Lyrical, agile, light baritone; clear, water-smooth resonance. Cadence & Tempo: Fluid, rhythmic, musical pacing; rises and falls like canoe paddling. Mannerisms: Soft, melodic inflection; relaxed riverman confidence; rhythmic breathing synchronized with movement.
+
+LUN BAWANG ELDER
+Lun Bawang Elder - Iapetus. Accent: Lawas / Trusan Valley Lun Bawang Phonology. Timbre & Pitch: Ancient, deep, gravel-strewn bass; smoky and frail yet deeply resonant. Cadence & Tempo: Extremely slow, solemn, chant-like cadence. Mannerisms: Long meditative silences; raspy chest vibration; reverent, ancestral gravity in every utterance.
+
+LUN BAWANG WARRIOR
+Lun Bawang Warrior - Fenrir. Accent: Interior Lun Bawang Highland Dialect (guerrilla insurgent cadence). Timbre & Pitch: Harsh, fibrous, guttural baritone; aggressive, energetic projection. Cadence & Tempo: Urgent, driving, punchy staccato rhythm. Mannerisms: Sharp, fierce intakes of breath; barking combat consonants; uncompromising, vengeful defiance against the Japanese.
 
 
 
 
 NARRATOR
 Semut
+
 The Z Special Unit campaign in Borneo, 1945
 
 Chapter One

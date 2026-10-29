@@ -1,161 +1,130 @@
-Thursday cast
+Operation Thursday
+The second Chindit expedition, 1944
+
+Cast
 
 NARRATOR
-I speak with the voice of Charon
-Narrator. British neutral accent, authoritative, cinematic, and measured with documentary gravitas
+Narrator - Charon. Accent: Formal Mid-Century British Received Pronunciation (1940s BBC documentary standard). Timbre & Pitch: Deep, resonant, cinematic bass; solemn, authoritative warmth. Cadence & Tempo: Measured, stately, impeccably paced; clear dramatic pauses. Mannerisms: Weighty narrative detachment; crystal-clear diction with dignified historical gravitas.
 
 WINGATE
-I speak with the voice of Fenrir
-Major-General Orde Charles Wingate. British RP accent, low, resonant, intense, and prophetic with severe conviction
-
-MARSHALL
-I speak with the voice of Orus
-General George C. Marshall. General American accent, stately, composed, and soberly authoritative
-
-ARNOLD
-I speak with the voice of Iapetus
-General Henry H. "Hap" Arnold. American accent, blunt, gravelly, energetic, and commanding
-
-COCHRAN
-I speak with the voice of Puck
-Lieutenant Colonel Philip Cochran. American Pennsylvania accent, swaggering, fast-talking, sharp, and charismatic
-
-ALISON
-I speak with the voice of Achird
-Lieutenant Colonel John Alison. American Florida accent, soft-spoken, cool, understated, and technically precise
-
-SERGEANTS
-I speak with the voice of Orus
-British Sergeants. British Northern English accent, harsh, raspy, and relentlessly barking
-
-LIEUTENANT
-I speak with the voice of Puck
-Young Lieutenant of the Leicesters. British RP accent, youthful, trembling, strained, and terrified
-
-SHARP
-I speak with the voice of Iapetus
-Captain Douglas Sharp. British RP accent, crisp, lean, quiet, and professionally inquisitive
-
-HKUN NAW
-I speak with the voice of Puck
-Jemadar Hkun Naw. Burmese-Kachin accent, quiet, soft, cautious, and sibilant in a low whisper
-
-ENGINEER CORPORAL
-I speak with the voice of Puck
-American Engineer Corporal. American Midwestern drawl, casual, working-class, and dryly irreverent
-
-FERGUSSON
-I speak with the voice of Fenrir
-Brigadier Bernard Fergusson. Scottish aristocratic accent, monocled, wry, caustic, and stoically determined
-
-SERGEANT OF THE QUEEN'S
-I speak with the voice of Orus
-Sergeant of the Queen's. British Cockney accent, gritty, desperate, and shouting over chaos
-
-SLIM
-I speak with the voice of Orus
-Lieutenant-General William Slim. British West Midlands accent, deep, earthy, calm, and unshakably authoritative
-
-RUSSHON
-I speak with the voice of Iapetus
-Flight Officer Charles Russhon. American accent, hurried, breathless, and taut with urgent tension
-
-CALVERT
-I speak with the voice of Achird
-Brigadier Mike Calvert. British RP with a rough soldier's edge, pugnacious, gravelly, volcanic, and fiercely defiant
-
-WIRELESS OPERATOR
-I speak with the voice of Iapetus
-Wireless Operator (Broadway). British working-class accent, tense, rhythmic, and disciplined under heavy fire
-
-CASEY
-I speak with the voice of Fenrir
-Captain Patrick Casey. American practical accent, brisk, confident, and direct with engineering focus
-
-LENTAIGNE
-I speak with the voice of Iapetus
-Major-General Joe Lentaigne. British Anglo-Irish accent, blunt, orthodox, disciplined, and coldly resolute
-
-JAPANESE INFANTRY
-I speak with the voice of Puck
-Japanese Infantry. Japanese accent, fierce, fanatical, and shouting in unison
-
-VOICE ON FIELD TELEPHONE
-I speak with the voice of Iapetus
-Voice on Field Telephone. British RP accent, sharp, metallic, urgent, and commanding
-
-BATTERY COMMANDER
-I speak with the voice of Fenrir
-Mortar Battery Commander. British military accent, deafened, hoarse, and shouting over concussions
-
-BLACK FLIGHT
-I speak with the voice of Puck
-Black Flight Leader. American fighter pilot drawl, flat, calm, and laconic over radio crackle
-
-RAF CONTROLLER
-I speak with the voice of Iapetus
-RAF Flight Lieutenant (VCP). British RP accent, crisp, measured, and efficient over tactical radio
-
-VOICE IN THE DITCH
-I speak with the voice of Orus
-Voice in the Ditch. British regular infantry accent, taut, low, and steely before the charge
-
-CAIRNS
-I speak with the voice of Puck
-Lieutenant George Albert Cairns. British London accent, faint, gasping, heroic, and weakened by terminal blood loss
-
-MORRIS
-I speak with the voice of Iapetus
-Lieutenant Colonel Jumbo Morris. British military accent, measured, experienced, stealthy, and pragmatic
-
-RADIO OPERATOR
-I speak with the voice of Iapetus
-American Radio Operator (Lalaghat). American military accent, routine, steady, and procedural through static
-
-DOCTOR
-I speak with the voice of Iapetus
-RAMC Medical Officer (Blackpool). British RP accent, hollow, clinical, emotionally drained, and deadened by shock
-
-MASTERS
-I speak with the voice of Orus
-Brigadier John Masters. British Indian Army accent, cultured, grimly analytical, and strained by tragic command
-
-BOATNER
-I speak with the voice of Fenrir
-Brigadier General Haydon L. Boatner. American Southern accent, abrasive, cynical, sharp, and bureaucratic
+Major-General Orde Charles Wingate - Orus. Accent: Strict, upper-class British Military Received Pronunciation. Timbre & Pitch: Harsh, reedy, grating mid-baritone; tight, strained vocal chords. Cadence & Tempo: Rapid, erratic, staccato delivery; unpredictable spikes in tempo. Mannerisms: Feverish, prophetic intensity; sharp intakes of breath; barking, uncompromising emphasis on biblical, tactical phrasing.
 
 STILWELL
-I speak with the voice of Orus
-Lieutenant General Joseph W. "Vinegar Joe" Stilwell. American New England accent, nasal, acidic, acerbic, and relentless
+Lieutenant General Joseph Stilwell ("Vinegar Joe") - Fenrir. Accent: Flat, unvarnished Northeastern General American (mid-century New York origin). Timbre & Pitch: Dry, rasping, mid-register voice with a coarse, sandpaper edge. Cadence & Tempo: Clipped, blunt, fast-to-moderate; utilitarian. Mannerisms: Monotone delivery with sharp, cynical inflections; biting, matter-of-fact articulation with zero pretension.
 
-BRITISH LIAISON OFFICER
-I speak with the voice of Iapetus
-British Liaison Colonel (NCAC). British RP accent, diplomatic, urgent, appalled, and strained by protocol
+SLIM
+Lieutenant-General William Slim ("Uncle Bill") - Orus. Accent: Down-to-earth British English with distinct Birmingham / West Midlands working-class undertones. Timbre & Pitch: Deep, hearty, resonant baritone; warm and gravelly. Cadence & Tempo: Conversational, unhurried, steady, and plainspoken. Mannerisms: Grounded, relatable warmth; vowels slightly broadened; feels like an experienced sergeant talking to friends in a dugout.
 
-GURKHA RIFLEMEN
-I speak with the voice of Puck
-Gurkha Riflemen. Nepali-Gurkhali accent, fierce, guttural, and ferocious in battle cry
+CALVERT
+Brigadier Michael "Mad Mike" Calvert - Fenrir. Accent: British Public School Received Pronunciation overlaid with raw frontline grit. Timbre & Pitch: Coarse, strained baritone; rough-edged, gravelly combat rasp. Cadence & Tempo: Impulsive, rapid, percussive bursts; occasional slight, tense hesitation before surges of speech. Mannerisms: Aggressive, combative energy; breathy, ferocious emphasis; sounds like an officer speaking through cordite smoke.
 
-BBC ANNOUNCER
-I speak with the voice of Iapetus
-BBC Announcer. Pristine British Received Pronunciation, polished, serene, and formal radio broadcast delivery
+COCHRAN
+Colonel Philip Cochran - Puck. Accent: Brash 1940s Mid-Atlantic American (Erie, Pennsylvania working-class swagger). Timbre & Pitch: Bright, punchy, charismatic baritone; brassy and energetic. Cadence & Tempo: Fast, syncopated, fluid; effortless casual bounce. Mannerisms: Audibly chewing an unlit cigar; cocky fighter-pilot grin; breezy, irreverent humor masking sharp tactical acuity.
 
-BRIGADE MAJOR
-I speak with the voice of Fenrir
-77th Brigade Major. British RP accent, quiet, hollow, stunned, and wounded by betrayal
+ALISON
+Lieutenant Colonel John Alison - Achird. Accent: Polite Southern-inflected Mid-Century General American (Florida origin). Timbre & Pitch: Warm, steady, clear mid-register baritone; smooth and unforced. Cadence & Tempo: Even, measured, disciplined; calm and reassuring. Mannerisms: Professional flyers' composure; soft, precise dental articulation; total absence of panic under crisis.
 
-OPERATOR
-I speak with the voice of Puck
-77th Brigade Signals Operator. British working-class accent, wide-eyed, nervous, and hesitant before an explosive order
+ARNOLD
+General Henry H. "Hap" Arnold - Orus. Accent: Mid-Atlantic American Patrician Military (Pennsylvania-rooted). Timbre & Pitch: Full, booming, authoritative baritone with robust chest projection. Cadence & Tempo: Driving, brisk, decisive; commanding executive momentum. Mannerisms: Hearty, expansive delivery; firm, gravelly chuckle behind formidable institutional authority.
+
+MARSHALL
+General George C. Marshall - Iapetus. Accent: Restrained Mid-Century Mid-Atlantic American (Virginia/Pennsylvania military standard). Timbre & Pitch: Low, austere, resonant bass-baritone; granite-like and dry. Cadence & Tempo: Deliberate, unhurried, metronomic; impeccably disciplined pacing. Mannerisms: Supreme, unemotional detachment; surgical economy of words; quiet moral and institutional gravity.
+
+LENTAIGNE
+Major-General Walter "Joe" Lentaigne - Iapetus. Accent: Anglo-Irish Officer British Indian Army cadence (clipped, conservative). Timbre & Pitch: Heavy, gruff, throaty bass; weathered and skeptical. Cadence & Tempo: Blunt, plodding, deliberate; heavy downward inflections. Mannerisms: Worn sighing respirations; no-nonsense, hardbitten delivery; skeptical, gravelly grunts between sentences.
+
+FERGUSSON
+Brigadier Bernard Fergusson - Puck. Accent: Patrician Scottish Upper-Class RP (Black Watch, Old Etonian Highland lilt). Timbre & Pitch: Resonant, rich, slightly nasal upper-baritone; melodic and aristocratic. Cadence & Tempo: Lyrical, rolling, moderately brisk; bouncy and buoyant. Mannerisms: Audible monocled squint; rolled alveolar "r"s; cheerful, unflinching upper-crust stoicism.
+
+BOATNER
+Brigadier General Haydon Boatner - Fenrir. Accent: Sharp Southern American military drawl (New Orleans origin). Timbre & Pitch: Dry, biting, metallic mid-baritone with a raspy nasal sting. Cadence & Tempo: Rapid, snapping, staccato delivery. Mannerisms: Caustic, impatient snorts; sharp, clipped consonants; aggressive, sarcastic administrative bite.
+
+MASTERS
+Brigadier John Masters - Achird. Accent: Polished British Indian Army RP (Sandhurst-educated, Calcutta Anglo-Indian background). Timbre & Pitch: Crisp, cultured, melodious baritone; smooth, refined timber. Cadence & Tempo: Articulate, rhythmic, lucid; novelistic clarity. Mannerisms: Erudite, precise enunciation; calm under heavy mortar fire; quietly lyrical yet lethal military precision.
+
+MORRIS
+Lieutenant Colonel J. R. "Jumbo" Morris - Iapetus. Accent: Stolid, conservative British Indian Army RP. Timbre & Pitch: Deep, rumbling, heavy bass; thick, grounded resonance. Cadence & Tempo: Slow, unshakeable, ponderous pace. Mannerisms: Heavy, deliberate breathing; immoveable veteran steadiness; speaks with weary, unyielding authority.
+
+SHARP
+Captain Douglas Sharp - Puck. Accent: Crisp, outdoorsman British Received Pronunciation. Timbre & Pitch: Taut, athletic, lean mid-baritone; clear and breath-efficient. Cadence & Tempo: Alert, swift, hushed whispers giving way to crisp directives. Mannerisms: Vigilant, predatory quietness; jungle-trained restraint; clipped, urgent phrasing.
+
+HKUN NAW
+Jemadar Hkun Naw - Achird. Accent: Kachin-Burmese inflected military English (clipped, melodic, rhythmic phonology). Timbre & Pitch: Reedy, quiet, compact mid-register; clean, dry timbre. Cadence & Tempo: Very steady, sparse, deliberate; pauses before speaking. Mannerisms: Soft-spoken, deferential yet fearless composure; clipped short vowels; total economy of sound.
+
+RUSSHON
+Major Charles Russhon - Fenrir. Accent: Fast-talking 1940s New York City / Manhattan American. Timbre & Pitch: Gritty, brassy, high-mid baritone; sharp streetwise edge. Cadence & Tempo: Motormouth, rapid-fire, restless tempo. Mannerisms: Punchy, urgent salesmanship; aggressive street-level charm; breathless, fast-talking kinetic energy.
+
+CASEY
+Captain Patrick Casey - Achird. Accent: Midwestern American (Ohio working-class practicality). Timbre & Pitch: Plain, firm, honest mid-register baritone; unpolished and direct. Cadence & Tempo: Practical, steady, workmanlike; unhurried under pressure. Mannerisms: Heavy tool-in-hand practicality; blunt engineering focus; calm, unvarnished matter-of-fact tone.
+
+CAIRNS
+Lieutenant George Albert Cairns - Fenrir. Accent: British London / East End with working-class South Staffordshire military edge. Timbre & Pitch: Raw, ragged, intense young baritone; rough, strained throat resonance. Cadence & Tempo: Breathless, ferocious, charging cadence. Mannerisms: Guttural, primal combat intensity; fiercely dropped aspirates; explosive, defiant battlefield shouts.
 
 BLAKER
-I speak with the voice of Puck
-Major Frank Gerald Blaker. Scottish accent, fierce, agonizingly strained, and shouting with dying defiance
+Major Frank Blaker - Puck. Accent: Gallant Upper-Middle Class British RP with subtle Indian station undertones. Timbre & Pitch: Clear, ringing, heroic tenor-baritone; bright and open. Cadence & Tempo: Rapid, inspiring, forward-surging rhythm. Mannerisms: Fearless vocal projection; uplifting, clarion calls; crisp, valiant battlefield leadership.
+
+DOCTOR
+British Battalion Doctor - Achird. Accent: Weary British Home Counties Received Pronunciation. Timbre & Pitch: Low, dry, exhausted baritone; hushed, clinical texture. Cadence & Tempo: Slow, quiet, continuous; soothing bedside murmuring. Mannerisms: Fatigue-laden exhalations; detached clinical calm masking immense emotional strain; gentle dental articulation.
+
+BRIGADE MAJOR
+British Brigade Major - Puck. Accent: Ultra-clipped British Staff Officer RP. Timbre & Pitch: Sharp, metallic, high-baritone; pinched and dry. Cadence & Tempo: Machine-gun briskness; taut, regimented metronome. Mannerisms: Barked shorthand commands; impeccably crisp plosives; urgent bureaucratic efficiency.
+
+BBC ANNOUNCER
+BBC Announcer - Charon. Accent: Vintage 1940s Classical British BBC Received Pronunciation. Timbre & Pitch: Deep, rounded, flawless baritone-bass; immaculate acoustic resonance. Cadence & Tempo: Stately, pristine, metered; formal newsreader cadence. Mannerisms: Immaculate rounded vowels; detached patriotic gravitas; zero conversational warmth; crystal-clear transmission projection.
+
+BRITISH LIAISON OFFICER
+British Liaison Officer - Achird. Accent: Diplomatic, smooth British Foreign Office / Military RP. Timbre & Pitch: Soft, polite, polished mid-baritone; warm velvet texture. Cadence & Tempo: Moderately paced, measured, smooth-flowing. Mannerisms: Tactful, de-escalating inflection; gentle phrasing; cautious, polished professional deference.
+
+BLACK FLIGHT
+Mustang Flight Leader - Puck. Accent: Mid-century Western / Texas American military aviator. Timbre & Pitch: Tight, nasal, radio-filtered mid-baritone; crisp, buzzing bite. Cadence & Tempo: Snappy, rhythmic, clipped cockpit shorthand. Mannerisms: Cockpit radio-click breathing; easy swagger in high-G dive; rapid, cool tactical callouts.
+
+RAF CONTROLLER
+RAF Controller - Achird. Accent: Crisp, unshakeable 1940s RAF Standard British English. Timbre & Pitch: Flat, calm, mid-register baritone; clean, sterile transmission quality. Cadence & Tempo: Metronomic, concise, strictly procedural. Mannerisms: Utterly unflappable radio neutrality; crystal-clear alphanumeric recitation; ice-cold composure amid tactical chaos.
+
+BATTERY COMMANDER
+British Battery Commander - Orus. Accent: Booming British Royal Artillery Military RP. Timbre & Pitch: Stentorian, thunderous, chest-splitting baritone; roaring open projection. Cadence & Tempo: Explosive, bellowing staccato; sharp rhythmic commands. Mannerisms: Barking vocal projection designed to cut through heavy artillery concussions; wide, percussive consonants.
+
+LIEUTENANT
+British Lieutenant - Puck. Accent: Youthful, eager British Public School RP. Timbre & Pitch: High-register, clear, ringing baritone; clean and unstrained. Cadence & Tempo: Rapid, urgent, nervous-energy tempo. Mannerisms: Gallant, high-strung enthusiasm; sharp intakes of air; earnest vocal projection under fire.
+
+ENGINEER CORPORAL
+British Engineer Corporal - Fenrir. Accent: Gritty Northern English (Yorkshire working-class sapper). Timbre & Pitch: Coarse, raspy, heavy mid-baritone; gravelly and thick. Cadence & Tempo: Blunt, choppy, utilitarian pacing. Mannerisms: Flat, sardonic Northern vowels; muttered curses between physical efforts; practical, dust-in-the-teeth delivery.
+
+SERGEANT OF THE QUEEN’S
+Sergeant of the Queen's - Fenrir. Accent: Hard-bitten South London / Surrey British NCO. Timbre & Pitch: Rasping, sandpaper-grated baritone; abrasive, smoky texture. Cadence & Tempo: Snapping, aggressive, driving pace. Mannerisms: Threatening, guttural undertone; clipped Cockney glottal stops; fierce, teeth-bared squad-level authority.
+
+SERGEANTS
+British Sergeants - Orus. Accent: Thunderous, seasoned British Regular Army Regional blend (Midlands / North). Timbre & Pitch: Massive, booming, brass-throated baritone; thick, weathered projection. Cadence & Tempo: Heavy, stomping, cadence-calling rhythm. Mannerisms: Roared drill-square projection; chest-rattling vocal mass; intimidating, immovable parade-ground roar.
+
+WIRELESS OPERATOR
+British Wireless Operator - Achird. Accent: Concentrated, rapid British Home Counties working-class mix. Timbre & Pitch: Pinched, nasal, mid-to-high baritone; tight and breath-starved. Cadence & Tempo: Rapid-fire Morse-rhythm delivery; urgent, tight syllables. Mannerisms: Speaks around a headset mic; rapid, clipped military phonetic spelling; voice strained by listening through static.
+
+RADIO OPERATOR
+American Radio Operator - Puck. Accent: Casual Mid-Century American GI (Midwestern / Ohio Valley). Timbre & Pitch: Nasal, youthful, clear mid-register; relaxed, crackling radio texture. Cadence & Tempo: Quick, syncopated radio-chatter cadence. Mannerisms: Casual GI drawl under fire; habitual procedural mic clicks; calm, utilitarian chatter.
+
+OPERATOR
+British Operator - Achird. Accent: Neutral, disciplined British military English. Timbre & Pitch: Compact, dry, even mid-baritone; devoid of flourish. Cadence & Tempo: Steady, rhythmic, procedural. Mannerisms: Mechanical, strictly regulated voice; unhurried transmission efficiency.
+
+VOICE ON FIELD TELEPHONE
+British Voice on Field Telephone - Achird. Accent: Distant, muffled British Military Officer RP. Timbre & Pitch: Thin, reedy, distorted high-mid baritone; tinny acoustic profile. Cadence & Tempo: Broken, fragmented, tense pacing interrupted by static. Mannerisms: Pinched telephone line resonance; frantic repetition of keywords; voice fighting through wire degradation.
+
+VOICE IN THE DITCH
+British Voice in the Ditch - Fenrir. Accent: Slurred, ragged British working-class (Lancashire/Cheshire). Timbre & Pitch: Shaky, hollow, breathy low baritone; gravelly and trembling. Cadence & Tempo: Halting, erratic, feverish; gasping between words. Mannerisms: Shallow, shuddering breaths; shell-shocked daze; trembling jaw audible in broken phonemes.
+
+GURKHA RIFLEMEN
+Gurkha Riflemen - Achird. Accent: Traditional Nepali / Gurkhali accented English and battle cries. Timbre & Pitch: High-density, tight, resonant baritone; guttural, metallic edge. Cadence & Tempo: Fast, disciplined, rhythmic staccato. Mannerisms: Deep chest laughter amid peril; sharp, fierce aspirated consonants; explosive battle shouts delivered with unified fury.
+
+JAPANESE INFANTRY
+Japanese Infantry - Fenrir. Accent: Native Japanese Imperial Army dialect / cadence. Timbre & Pitch: Guttural, harsh, strained baritone-tenor shout; abrasive vocal fry. Cadence & Tempo: Explosive, staccato, lung-tearing bursts. Mannerisms: Fierce, barking military discipline; guttural glottal snaps; intense, fanatic vocal defiance.
 
 
 
 
 NARRATOR
+Thursday
+
+The second Chindit expedition, 1944
+
 Chapter One
 The Blueprint at QUADRANT
 Quebec, August 1943

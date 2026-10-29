@@ -1,178 +1,140 @@
-Archery cast
+Operation Archery
+The Vågsøy raid, December 1941
+
+Cast
 
 NARRATOR
-I speak with the voice of Charon
-Narrator. British RP accent, deep, measured, authoritative, and cinematic with historical gravitas
+Narrator - Charon. Accent: Classic Mid-Century British RP (vintage BBC / Pathé newsreel documentary). Timbre & Pitch: Deep, commanding, resonant bass; authoritative, dark, and gravitas-laden. Cadence & Tempo: Measured, steady, dramatic, and expansive; perfectly spaced for cinematic impact. Mannerisms: Precise formal diction; sonorous gravitas; stoic wartime journalistic detachment.
 
 MOUNTBATTEN
-I speak with the voice of Orus
-Lord Louis Mountbatten. British RP accent, aristocratic, clipped, incisive, and commanding
-
-HAYDON
-I speak with the voice of Iapetus
-Brigadier J.C. Haydon. British RP accent, seasoned, methodical, calculating, and professional
-
-INTELLIGENCE OFFICER
-I speak with the voice of Achird
-Naval Intelligence Officer. British RP accent, crisp, analytical, precise, and objective
-
-DURNFORD-SLATER
-I speak with the voice of Fenrir
-Major John Durnford-Slater. British RP accent, sharp, aggressive artilleryman's cadence, cold and resolute under fire
+Lord Louis Mountbatten - Puck. Accent: High-Society British Received Pronunciation (Royal Navy Officer, Windsor court standard). Timbre & Pitch: Mid-to-high baritone; clear, crisp, perfectly resonant; zero vocal fry. Cadence & Tempo: Moderately brisk, fluid, effortless, and poised. Mannerisms: Impeccably clipped dental consonants (t, d); calm, hereditary confidence; never raises voice to command authority.
 
 JACK CHURCHILL
-I speak with the voice of Puck
-Major Jack Churchill. British RP accent with theatrical flourish, eccentric, buoyant, fearless, and romantic
-
-LINGE
-I speak with the voice of Iapetus
-Captain Martin Linge. Norwegian accent, refined, cultured actor's cadence, earnest, dignified, and vigilant
-
-VERNON
-I speak with the voice of Iapetus
-Lieutenant Vernon. British RP accent, technical, brisk, focused, and methodical Royal Engineer
-
-BURROUGH
-I speak with the voice of Orus
-Rear-Admiral Harold Burrough. British RP accent, calm, measured, senior naval authority with unshakeable composure
-
-PRIVATE
-I speak with the voice of Puck
-Private. British Cockney accent, weary, shivering, raspy, and grateful
-
-NAVIGATING OFFICER
-I speak with the voice of Fenrir
-Navigating Officer. British RP accent, quiet, disciplined, precise, and steady under navigational strain
-
-LOOKOUT
-I speak with the voice of Puck
-Naval Lookout. British West Country accent, sharp, tense, strained whisper cutting through sea spray
-
-DENNY
-I speak with the voice of Achird
-Captain Michael Denny. British RP accent, formal, incisive, steady, and authoritative Royal Navy captain
-
-HELMSMAN
-I speak with the voice of Puck
-Helmsman. British working-class accent, flat, obedient, and strictly routine
-
-BEACH MASTER
-I speak with the voice of Fenrir
-Naval Beach Master. British RP accent, booming, harsh, and projecting through a megaphone
-
-VOICE
-I speak with the voice of Iapetus
-Naval Rating. British regional accent, urgent, sharp, and shouting over deck machinery
-
-DECKHAND
-I speak with the voice of Iapetus
-Naval Deckhand. British regional accent, strained, shouting above engine wash and sea swell
-
-COXSWAIN
-I speak with the voice of Fenrir
-LCA Coxswain. British regional accent, gruff, steady, and focused over engine roar
-
-CLEMENT
-I speak with the voice of Orus
-Lieutenant R. Clement. British RP accent, brisk, tactical, and alert junior commando officer
-
-FISHERMAN
-I speak with the voice of Iapetus
-Norwegian Fisherman. Norwegian accent, rustic, bewildered, stammering with shock
-
-CORPORAL
-I speak with the voice of Puck
-Commando Corporal. British Scottish accent, sharp, interrogative, and probing
-
-RONALD
-I speak with the voice of Orus
-Captain A. S. Ronald. British Scottish accent, fierce, aggressive, and shouting over gunfire
-
-YOUNG
-I speak with the voice of Achird
-Captain Peter Young. British RP accent, decisive, sharp, aggressive frontline commando leader
-
-COMMANDO
-I speak with the voice of Puck
-British Commando. British Northern accent, visceral, sudden, and shouting in combat reflex
-
-COMMANDO CORPORAL
-I speak with the voice of Puck
-Commando Corporal. British working-class accent barking German commands, harsh and adrenaline-fueled
-
-SAPPER SERGEANT
-I speak with the voice of Fenrir
-Sapper Sergeant. British London Cockney accent, gritty, gravelly, practical, and soot-stained
-
-SAPPER
-I speak with the voice of Iapetus
-Royal Engineer Sapper. British regional accent, urgent, taut, shouting a demolition warning
-
-MCBEATH
-I speak with the voice of Achird
-Lieutenant Commander McBeath. British RP accent, crisp, seamanlike, and focused naval destroyer commander
-
-POORE
-I speak with the voice of Fenrir
-Lieutenant J.M. Poore. British RP accent, urgent, driving, and demanding immediate physical action
-
-GILES
-I speak with the voice of Orus
-Captain John Giles. British Gloucestershire accent, deep, heavy, resonant, tough former heavyweight boxer
-
-FORESTER
-I speak with the voice of Orus
-Captain Algy Forester. British RP accent, fierce, gritty, reckless, and roaring through smoke and wounds
-
-WHITE
-I speak with the voice of Puck
-Corporal Ernest "Knocker" White. British London Cockney accent, pugnacious, rough, growling, and relentless
-
-BRADLEY
-I speak with the voice of Achird
-Captain Bill Bradley. British RP accent, clipped, furious, intense, and calculating mortar specialist
-
-KOMROWER
-I speak with the voice of Iapetus
-Lieutenant Arthur Komrower. British RP accent, strained, hoarse, stoic through excruciating chemical burns
-
-OPERATOR
-I speak with the voice of Puck
-Wireless Operator. British regional accent, breathless, shouting through signals static and throat-mic compression
-
-HOOPER
-I speak with the voice of Orus
-Captain R.H. Hooper. British RP accent, eager, vigorous, and aggressively proactive
-
-WOMAN
-I speak with the voice of Kore
-Norwegian Civilian Mother. Norwegian accent, terrified, desperate, maternal, and shielding her child
-
-LANGMO
-I speak with the voice of Fenrir
-Corporal Ruben Langmo. Norwegian accent, firm, protective, authoritative, and disciplined Kompani Linge soldier
-
-OLD MAN
-I speak with the voice of Puck
-Elderly Norwegian Civilian. Norwegian accent, frail, tearful, trembling, and pleading
-
-ARMSTRONG
-I speak with the voice of Achird
-Captain H.T. Armstrong. British RP accent, crisp, aggressive, and incisive destroyer commander
-
-LANCE CORPORAL
-I speak with the voice of Iapetus
-Lance Corporal. British Yorkshire accent, quiet, hollow, dazed, and shell-shocked
+Major Jack Churchill ("Mad Jack") - Orus. Accent: High-register British Public School RP (English officer cadence). Timbre & Pitch: Bright, ringing, athletic baritone; punchy, clear-cut projection. Cadence & Tempo: Crisp, brisk, marching tempo; theatrical and bold. Mannerisms: Cheerful, upper-crust eccentric nonchalance; snappy military consonants; utterly fearless and slightly theatrical delivery.
 
 HITLER
-I speak with the voice of Fenrir
-Adolf Hitler. German accent, guttural, explosive, manic, paranoid, and violently intense
+Herr Adolf Hitler - Fenrir. Accent: Native Austrian-German (Upper Austrian, Innviertel dialect undertones). Timbre & Pitch: Strained, high-register shouting; harsh, raspy, throat-straining vocal fry. Cadence & Tempo: Rapid staccato bursts, theatrical crescendos ending in harsh, barking consonants.
+
+DURNFORD-SLATER
+Major John Durnford-Slater - Fenrir. Accent: Crisp, sharp British Military Officer RP with a hard, aggressive edge. Timbre & Pitch: Gritty, commanding, textured baritone; authoritative and intense. Cadence & Tempo: Brisk, incisive, punchy; rapid staccato operational commands. Mannerisms: Tightly wound, energetic drive; barking consonants under fire; razor-sharp decisiveness.
+
+YOUNG
+Captain Peter Young - Puck. Accent: Cultured British Public School RP (classic Oxford academic officer). Timbre & Pitch: Warm, buoyant mid-baritone; expressive, melodic clarity. Cadence & Tempo: Fluid, animated, confident; jaunty and slightly theatrical. Mannerisms: Audibly cheerful sangfroid under fire; elegant, rounded vowels; witty, relaxed articulation.
+
+BURROUGH
+Rear-Admiral Harold Martin Burrough - Iapetus. Accent: Senior Officer British Received Pronunciation (Edwardian Royal Navy flag officer). Timbre & Pitch: Deep, rumbling, mature bass; stately, calm, and heavy. Cadence & Tempo: Unhurried, deliberate, unflappable naval tempo; measured, low-stress cadence. Mannerisms: Imposing, quiet naval authority; elongated vowels; unflinching calm amidst combat reports.
+
+LINGE
+Captain Martin Linge - Orus. Accent: Cultured Norwegian-accented English (clear Scandinavian cadence with theatrical articulation). Timbre & Pitch: Rich, ringing baritone; vibrant, warm, heroic projection. Cadence & Tempo: Spirited, rhythmic, forward-leaning; energetic and uplifting. Mannerisms: Rolling, light alveolar "r"s; dramatic stage-trained resonance; fierce, passionate urgency.
+
+HAYDON
+Brigadier J.C. Haydon - Achird. Accent: Formal British Military Received Pronunciation (War Office / Staff standard). Timbre & Pitch: Steady, dry, controlled baritone; crisp and restrained. Cadence & Tempo: Methodical, even-paced, administrative precision. Mannerisms: Understated senior command style; precise dental consonants; calm, analytical assessments without raising his voice.
+
+INTELLIGENCE OFFICER
+Naval Intelligence Officer - Puck. Accent: Upper-Class British Received Pronunciation (Admiralty Intelligence Division). Timbre & Pitch: Crisp, mid-register, light baritone; cool and articulate. Cadence & Tempo: Swift, succinct, information-dense; perfectly metered. Mannerisms: Analytical, clipped delivery; conspiratorial confidentiality; sharp, clear consonants.
+
+DENNY
+Captain Michael Denny - Fenrir. Accent: Crisp Royal Navy Officer British RP (southern English officer cadence). Timbre & Pitch: Gritty, metallic, stern baritone; taut and vigilant. Cadence & Tempo: Brisk, terse, immediate bridge delivery. Mannerisms: Tight-lipped, razor-sharp naval commands; zero hesitation; gravelly edge when shouting orders over naval gunfire.
+
+ARMSTRONG
+Captain H.T. Armstrong - Orus. Accent: Formal British Naval RP with slight West Country seafaring undertones. Timbre & Pitch: Resonant, brassy, powerful baritone; commanding and penetrating. Cadence & Tempo: Steady, rhythmic, authoritative; decisive and punchy. Mannerisms: Booming projection built to carry through engine noise; emphatic, clipped syllables.
+
+HOOPER
+Captain R.H. Hooper - Achird. Accent: Southern British Military RP (Home Counties officer). Timbre & Pitch: Steady, clean, mid-register baritone; grounded and warm. Cadence & Tempo: Moderate, disciplined, calm under observation. Mannerisms: Professional military coolness; neat, unhurried articulation; composed floating-reserve readiness.
+
+GILES
+Captain John Giles - Iapetus. Accent: Robust West Country British English (Gloucestershire officer lilt). Timbre & Pitch: Deep, booming, heavyweight bass-baritone; gravelly and muscular. Cadence & Tempo: Heavy, driving, deliberate assault pace. Mannerisms: Resonant chest-voice bellow; hearty, full-throated encouragement to his men; fearlessly aggressive frontline roar.
+
+CLEMENT
+Captain Robert Clement - Fenrir. Accent: Lowland Scottish Military English (Ayrshire / Royal Scots Fusiliers cadence). Timbre & Pitch: Hard-edged, gravelly baritone; rasping, wiry texture. Cadence & Tempo: Fast, biting, economical; urgent tactical pacing. Mannerisms: Rolled Scottish "r"s; clipped, percussive consonants; gritty, no-nonsense combat commands.
+
+FORESTER
+Captain Algy Forester - Puck. Accent: Spirited, slightly theatrical London / Home Counties English (journalistic officer swagger). Timbre & Pitch: Bright, energetic, dynamic baritone; brassy and defiant. Cadence & Tempo: Rapid, breathless, swaggering; bursting with momentum. Mannerisms: Audaciously bold laughs between commands; shouting over the stutter of his Thompson submachine gun; daring, swaggering vitality.
+
+BRADLEY
+Captain Bill Bradley - Achird. Accent: Northern Irish Anglo-Irish Military English (Ulster / Inniskilling Fusiliers cadence). Timbre & Pitch: Dry, firm, steady baritone; calm, textured warmth. Cadence & Tempo: Measured, unflappable, deliberate; practical problem-solving rhythm. Mannerisms: Soft Northern Irish lilts on vowels; calm, resourceful matter-of-factness while improvising under mortar fire.
+
+KOMROWER
+Lieutenant Arthur Komrower - Orus. Accent: Northern British English (Lancashire / Manchester officer inflection). Timbre & Pitch: Gritty, determined baritone; strained but resolute. Cadence & Tempo: Pained, rhythmic, hobbling but persistent tempo. Mannerisms: Grunts of exertion suppressed beneath formal officer cadence; hard Northern vowels; stubborn, unyielding defiance.
+
+POORE
+Lieutenant J.M. Poore - Puck. Accent: Classic Southern British Public School RP. Timbre & Pitch: Clear, youthful, light baritone; athletic and crisp. Cadence & Tempo: Brisk, agile, eager tempo. Mannerisms: Sharp, textbook military diction; buoyant enthusiasm; alert, bright responsiveness.
+
+VERNON
+Lieutenant Vernon - Iapetus. Accent: Yorkshire British English (sturdy North of England accent). Timbre & Pitch: Deep, solid, resonant bass; earthy and dense. Cadence & Tempo: Slow, methodical, unflinching. Mannerisms: Broad Northern vowels; phlegmatic technical calm while rigging demolition charges under fire.
+
+WHITE
+Corporal Ernest “Knocker” White - Fenrir. Accent: Working-Class London Cockney. Timbre & Pitch: Raw, rasping, gravelly baritone; smoke-cured and weather-beaten. Cadence & Tempo: Punchy, urgent, direct street-fighter tempo. Mannerisms: Dropped "h"s and glottal stops; barking tactical orders like a veteran dockside brawler; unflinching frontline grit.
+
+RONALD
+Commando Ronald - Achird. Accent: West Midlands / Birmingham British English. Timbre & Pitch: Grounded, conversational, gritty mid-baritone; slightly nasal and warm. Cadence & Tempo: Steady, unhurried, workmanlike pacing. Mannerisms: Flat Midlands vowel shifts; practical, reliable soldierly cadence; calm under direct enemy fire.
+
+MCBEATH
+Naval Officer McBeath - Orus. Accent: Scottish-inflected Royal Navy English (Highland / Edinburgh naval cadence). Timbre & Pitch: Piercing, authoritative, steel-edged baritone; sharp projection. Cadence & Tempo: Crisp, rapid, metronomic naval commands. Mannerisms: Lightly tapped "r"s; biting consonants; razor-sharp watchfulness on deck.
+
+LANGMO
+Corporal Ruben Langmo - Puck. Accent: Young Norwegian English (Telemark / Eastern Norwegian dialect). Timbre & Pitch: Husky, youthful, earnest baritone; light breathiness. Cadence & Tempo: Quick, breathless, desperate agility; heightened emotional rhythm. Mannerisms: Soft Nordic vowel cadence, rising inflection on sentences; frantic, loyal desperation under heavy combat.
+
+NAVIGATING OFFICER
+British Navigating Officer - Achird. Accent: Precise Southern British RP (Royal Navy navigation specialist). Timbre & Pitch: Dry, calm, clinical baritone; completely level-headed. Cadence & Tempo: Rhythmic, measured, navigational plot-reading tempo. Mannerisms: Highly disciplined enunciation of bearings and distances; zero vocal panic; detached technical precision.
+
+HELMSMAN
+British Helmsman - Fenrir. Accent: Tyneside Geordie (Northeastern British working-class mariner). Timbre & Pitch: Low, gravelly, salt-crusted baritone; thick resonance. Cadence & Tempo: Monotone, obedient, steady wheel-handling cadence. Mannerisms: Repeating compass headings with deadpan naval discipline; heavy, rhythmic breath.
+
+LOOKOUT
+British Lookout - Puck. Accent: Sharp London Cockney / Thames Estuary naval rating. Timbre & Pitch: Piercing, high-register baritone; raw and brassy. Cadence & Tempo: Urgent, sudden, shouted staccato bursts. Mannerisms: Glottalized stops; straining against wind and spray; abrupt, alarmed calls.
+
+BEACH MASTER
+British Beach Master - Orus. Accent: Portsmouth / Hampshire Naval English (salty warrant officer RP). Timbre & Pitch: Deafening, bullhorn-like, chesty baritone; massive volume. Cadence & Tempo: Forceful, barking, rhythmic traffic control. Mannerisms: Projecting over engine roar and breaking waves; sharp, imperative consonants; domineering beachhead control.
+
+COXSWAIN
+British Coxswain - Iapetus. Accent: Clydeside Glaswegian Scottish. Timbre & Pitch: Deep, rumbling, growling bass; rough and weathered. Cadence & Tempo: Gruff, curt, surging with the swell. Mannerisms: Heavy Scottish brogue; guttural "ch" sounds; barking throttle and rudder instructions through ocean spray.
+
+DECKHAND
+British Deckhand - Achird. Accent: West Country British English (Devon / Cornwall seaman). Timbre & Pitch: Warm, reedy, naturalistic mid-baritone; easygoing texture. Cadence & Tempo: Fluid, relaxed, conversational under orders. Mannerisms: Soft rhotic "r"s; musical southwest cadence; brisk physical readiness.
+
+VOICE
+British Voice - Charon. Accent: Vintage BBC British RP (crackling over wireless / PA tannoy). Timbre & Pitch: Deep, resonant, hollow, mechanically filtered bass. Cadence & Tempo: Formal, metronomic, disembodied. Mannerisms: Clipped, static-laced radio brevity; impersonal military broadcasting tone.
+
+OPERATOR
+British Radio Operator - Puck. Accent: Fast-talking Essex / East London English. Timbre & Pitch: Reedy, nasal, high-register baritone; tight and focused. Cadence & Tempo: Rapid-fire, staccato wireless cadence; continuous stream. Mannerisms: Morse-like vocal cadence; repeating call signs and phonetic alphabet with rhythmic speed.
+
+SAPPER SERGEANT
+British Sapper Sergeant - Iapetus. Accent: Gruff West Yorkshire British English. Timbre & Pitch: Heavy, deep, gravelly bass; thick and stone-hard. Cadence & Tempo: Deliberate, blunt, immovable pace. Mannerisms: Flat Northern vowels; dry, cynical assessments of explosive fuse lengths; zero fuss under shelling.
+
+SAPPER
+British Sapper - Fenrir. Accent: Industrial Lancashire / Manchester English. Timbre & Pitch: Tense, gritty, wiry baritone; breathy strain. Cadence & Tempo: Quick, nervous, urgent demolition tempo. Mannerisms: Short, clipped phrases; sharp intakes of breath while handling detonators; working-class grit.
+
+COMMANDO
+British Commando - Orus. Accent: South London / Kentish working-class English. Timbre & Pitch: Heavy, aggressive, muscular baritone; punchy and harsh. Cadence & Tempo: Fast, combat-stressed, barking staccato. Mannerisms: Dropped consonants; sudden explosive shouts; raw physical intensity.
+
+COMMANDO CORPORAL
+British Commando Corporal - Achird. Accent: South Wales (Glamorgan / Cardiff) Anglo-Welsh cadence. Timbre & Pitch: Melodic, steady, resonant mid-baritone; warm and firm. Cadence & Tempo: Rolling, rhythmic, encouraging tactical pace. Mannerisms: Musical Welsh lilt grounding panicked men; clear, reassuring military directions.
+
+CORPORAL
+British Army Corporal - Puck. Accent: Brisk West Midlands / Black Country English. Timbre & Pitch: Husky, bright, agile baritone; wiry and active. Cadence & Tempo: Snappy, lively, direct non-commissioned officer cadence. Mannerisms: Characteristic Midlands intonation; energetic, pushing troops forward with relentless spirit.
+
+LANCE CORPORAL
+British Lance Corporal - Fenrir. Accent: Gritty Liverpool / Scouse English. Timbre & Pitch: Piercing, nasal, rasping baritone; raw-edged. Cadence & Tempo: Urgent, breathless, combative staccato. Mannerisms: Distinct Scouse inflections; rapid-fire combat callouts; sharp, cynical banter in the face of fire.
+
+PRIVATE
+British Private - Achird. Accent: Rural West Country (Somerset / Dorset) English. Timbre & Pitch: Soft, youthful, plaintive baritone; clean, slightly trembling tone. Cadence & Tempo: Hesitant, fast-paced when startled; earnest. Mannerisms: Softly burred "r"s; audible swallows of fear mastered by discipline; wide-eyed compliance.
+
+FISHERMAN
+Norwegian Fisherman - Fenrir. Accent: Western Norwegian English (Vestlandet / Nordfjord coastal dialect). Timbre & Pitch: Low, gravelly, weather-beaten baritone; salt-rough texture. Cadence & Tempo: Slow, halting, cautious; rolling Scandinavian cadence. Mannerisms: Distinct sing-song Nordic pitch contours; aspirated "p"s and "t"s; wary, conspiratorial hesitation before speaking to Allied soldiers.
+
+OLD MAN
+Old Norwegian Man - Iapetus. Accent: Aged Western Norwegian English (Fjordland elder). Timbre & Pitch: Deep, raspy, fragile bass; dry, paper-thin resonance with an old timber rumble underneath. Cadence & Tempo: Very slow, deliberate, quavering. Mannerisms: Heavy guttural Scandinavian phrasing; wheezing, emotional pauses; dignified, stoic warmth when greeting liberators.
+
+WOMAN
+Norwegian Woman - Leda. Accent: Western Norwegian English (Vestlandet dialect). Timbre & Pitch: Warm, gentle, empathetic alto; slight tremor of tension. Cadence & Tempo: Soft, hurried, protective pacing. Mannerisms: Melodic Norwegian intonation; breathy, hushed whispers of warning and relief; gentle, rounded Nordic vowels.
 
 
 
 
 NARRATOR
 Archery
+
 The Vågsøy raid, December 1941
 
 Chapter One

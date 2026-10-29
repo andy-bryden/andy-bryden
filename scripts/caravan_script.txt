@@ -1,147 +1,110 @@
-Caravan Cast
+Operation Caravan
+The Long Range Desert Group raid on Barce, 1942
 
-NARRATOR
-I speak with the voice of Charon
-Narrator. British RP accent, cinematic, resonant, measured, and evocative documentary narration
+Cast
 
-EASONSMITH
-I speak with the voice of Achird
-Easonsmith. British RP accent, level, controlled, quiet Guards officer authority devoid of drama
+NARRATOR 
+Narrator - Charon. Accent: Vintage British Received Pronunciation (1940s BBC wartime broadcast standard). Timbre & Pitch: Deep, resonant, dramatic bass; cinematic weight with an authoritative, velvet-edged rumble. Cadence & Tempo: Measured, stately, and deliberate; immaculate narrative pacing with suspenseful, calculated pauses. Mannerisms: Polished mid-century public broadcaster diction; clear dental articulation; completely objective, calm gravitas in the face of tension.
 
-WILDER
-I speak with the voice of Fenrir
-Wilder. New Zealand accent, rugged, laconic, practical sheep farmer with quiet resolve
+EASONSMITH 
+Major John Richard “Jake” Easonsmith - Orus. Accent: 1940s British Military Received Pronunciation (educated English gentleman-officer with subtle West Country roots). Timbre & Pitch: Commanding, powerful, dry baritone; clean, resonant projection without roughness. Cadence & Tempo: Measured, firm, unhurried; authoritative military cadence that exudes quiet leadership. Mannerisms: Speaks with concise, waste-free precision; steady, controlled breathing; calm, unwavering authority that commands instant respect without shouting.
 
-TIMPSON
-I speak with the voice of Puck
-Timpson. Scottish aristocratic accent, crisp, patrician, dry, and cool under desert heat
+WILDER 
+Captain Nicholas Wilder - Fenrir. Accent: Mid-Century Rural New Zealander (Hawke’s Bay sheep farmer turned soldier; clipped Kiwi vowels). Timbre & Pitch: Gritty, textured, intense mid-baritone; gravelly throat resonance with a weathered desert rasp. Cadence & Tempo: Driving, brisk, urgent; punchy, decisive delivery under fire. Mannerisms: Tight-jawed enunciation; guttural vocal fry when barking orders above roaring truck engines; natural, unpretentious battlefield pragmatism.
 
-PENIAKOFF
-I speak with the voice of Iapetus
-Peniakoff. Continental European accent with slight Russian cadence, cultured, urbane, wry, and unflinchingly calm
+LAWSON 
+Captain Dr. Richard Lawson - Achird. Accent: Educated Mid-Century British Received Pronunciation (RAMC medical officer standard). Timbre & Pitch: Warm, steady, clear mid-register baritone; smooth, reassuring, slightly softened tone. Cadence & Tempo: Even-keeled, rhythmic, moderately deliberate; unflappable bedside calm amid battlefield chaos. Mannerisms: Gentle, soothing inflection; clean, crisp consonant articulation; calm exhales before delivering clinical assessments under stress.
 
-WARBRICK
-I speak with the voice of Orus
-Warbrick. Māori New Zealand accent, deep, gravelly, sturdy, and mechanically unflappable
+DENNIS 
+Sergeant Jack Dennis - Fenrir. Accent: 1940s Northern English (Manchester / Lancashire working-class military inflection). Timbre & Pitch: Low-mid, raspy, gravel-edged baritone; blunt, muscular projection. Cadence & Tempo: Snappy, brisk, rhythmic; direct and nononsense. Mannerisms: Clipped, percussive consonants; flattened vowels; barking NCO bite that cuts cleanly through gunfire and mechanical noise.
 
-DENNIS
-I speak with the voice of Charon
-Dennis. London Cockney military accent, sharp, barking, parade-ground authority with stern discipline
+WARBRICK 
+Corporal David Poihipi Warbrick - Iapetus. Accent: 1940s New Zealand Māori English (deep, melodic Kiwi rhythm with soft, open Māori vowel inflections). Timbre & Pitch: Deep, rich, grounded bass-baritone; heavy chest resonance, round and reassuring. Cadence & Tempo: Steady, unhurried, rhythmic, flowing; unflustered even under heavy enemy pursuit. Mannerisms: Warm, calm cadence; soft vocal starts; unshakeable physical steadiness reflected in an easygoing, understated vocal composure.
 
-LAWSON
-I speak with the voice of Iapetus
-Lawson. British RP accent, calm, clinical, compassionate, and precise under extreme surgical crisis
+TIMPSON 
+Captain Alastair Timpson - Puck. Accent: High-Society British Received Pronunciation (Eton, Cambridge, and Scots Guards officer standard). Timbre & Pitch: Mid-to-high baritone; crystalline, crisp, resonant, and effortlessly bright. Cadence & Tempo: Fluid, moderately brisk, polished; natural aristocratic ease. Mannerisms: Impeccably clipped "t" and "d" dental stops; relaxed patrician confidence; polite understatement even when confronting desert hazards.
 
-DAVIS
-I speak with the voice of Achird
-Davis. New Zealand accent, focused, methodical, tight-lipped, and alert desert navigator
+JOPLING 
+Trooper Frank Jopling - Achird. Accent: Vernacular New Zealand (Waikato rural Kiwi, 1940s conversational). Timbre & Pitch: Dry, mellow mid-baritone; friendly, conversational, warm acoustic timbre. Cadence & Tempo: Casual, reflective, moderate; sounds like a soldier reading from a desert journal over a campfire. Mannerisms: Slight upward lilt at phrase ends; softened consonants; candid, relatable, unembellished delivery.
 
-HUNTER
-I speak with the voice of Orus
-Hunter. Scottish accent, gruff, weather-beaten, pragmatic desert trucker with dry humor
+PENIAKOFF 
+Major Vladimir Peniakoff ("Popski") - Achird. Accent: Cultured Continental English; subtle blend of Belgian-French and Russian phonology, softened by Cambridge education. Timbre & Pitch: Quiet, velvety, mid-register; gentle, warm texture. Cadence & Tempo: Lyrical, deliberate, beautifully modulated, never rushed. Mannerisms: Quiet irony; understated European sophistication; never loud, commanding through calm intimacy.
 
-WANN
-I speak with the voice of Orus
-Wann. Scottish working-class accent, quiet, loyal, stoic, and dazed under severe trauma
+PARKER 
+Trooper Derek “Snow” Parker - Puck. Accent: Vernacular 1940s New Zealand (rural Kiwi farm boy). Timbre & Pitch: Youthful, bright baritone; light texture, strained and breathy when wounded. Cadence & Tempo: Rapid, colloquial, slightly syncopated. Mannerisms: Tight throat when in pain; broad, open Kiwi vowels ("ay", "ee"); stoic, self-effacing humor under fire.
 
-FLIGHT LIEUTENANT
-I speak with the voice of Puck
-Flight Lieutenant. British RAF RP accent, urgent, brisk, shouting with clipped military precision over radial engines
+CRAW 
+Corporal Merlyn Craw - Puck. Accent: Down-to-Earth New Zealand (Manawatu Kiwi, practical and grounded). Timbre & Pitch: Engaging, energetic, flexible mid-baritone; vibrant, clear chest tone. Cadence & Tempo: Brisk, nimble, purposeful; focused and rapid during demolitions. Mannerisms: Upbeat, can-do vocal demeanor; slight nasal resonance; audible concentration with sharp, clipped sign-offs.
 
-GUNNER
-I speak with the voice of Fenrir
-Gunner. British working-class London accent, gritty, urgent, and strained under combat fatigue
+WANN 
+Guardsman Thomas Wann - Fenrir. Accent: Broad Scottish (Glaswegian / Lowland Scots Guardsman). Timbre & Pitch: Rough, textured, guttural baritone; raspy and strained when physically injured. Cadence & Tempo: Quick, rolling, staccato Scottish cadence; rhythmic and percussive. Mannerisms: Rolled alveolar "r"s; heavy glottal stops; grim stoicism masked by gritty Scottish grit.
 
-JOPLING
-I speak with the voice of Puck
-Jopling. New Zealand accent, determined, gravelly, parched, and stubbornly enduring
+OLIVEY 
+Captain John Olivey - Fenrir. Accent: 1940s Rhodesian English (distinct Southern African colonial cadence with flat, clipped vowels). Timbre & Pitch: Dry, sun-baked, gravelly mid-baritone; taut and textured. Cadence & Tempo: Terse, laconic, brisk; perfectly adapted to long desert sweeps. Mannerisms: Short, monosyllabic bursts; tight-lipped enunciation; completely devoid of dramatic inflection.
 
-SENTRY
-I speak with the voice of Achird
-Sentry. Italian accent, sharp, startled, and challenged with military suspicion
+FINDLAY 
+Guardsman Findlay - Achird. Accent: Lowland Scottish (Edinburgh Scots Guardsman; clean, melodic lilt). Timbre & Pitch: Steady, earthy, resonant mid-baritone; dry, weathered edge. Cadence & Tempo: Deliberate, unhurried, resolute; steady pacing of a man walking miles across open sands. Mannerisms: Lightly tapped "r"s; modest, quiet delivery; weary endurance showing through steady, controlled breathing.
 
-PARKER
-I speak with the voice of Puck
-Parker. New Zealand accent, youthful, lighthearted with dry nervous humor, fading to a strained, pained rasp
+DAVIS 
+Trooper Davis - Achird. Accent: Working-Class New Zealand (Auckland/urban Kiwi vernacular). Timbre & Pitch: Conversational, dry mid-baritone; gritty under tension. Cadence & Tempo: Moderate to fast; utilitarian, functional soldier's cadence. Mannerisms: Abrupt phrasing; flat declarative statements; audible physical exertion when working under fire.
 
-CRAW
-I speak with the voice of Charon
-Craw. New Zealand accent, deep, booming, grimly humorous, and fiercely defiant
+HUNTER 
+Captain Hunter - Iapetus. Accent: Strict Scottish-inflected Military British RP (senior officer precision with faint Scottish lilt). Timbre & Pitch: Low, dark, gravel-infused bass; authoritative, weighty timber. Cadence & Tempo: Slow, methodical, uncompromising; firm command weight. Mannerisms: Heavy, deliberate pauses before issuing navigation directives; steely vocal control.
 
-DENNIS
-I speak with the voice of Charon
-Dennis. London Cockney military accent, sharp, barking, parade-ground authority with stern discipline
+GUNNER 
+Gunner - Fenrir. Accent: Cockney / Working-Class East London. Timbre & Pitch: Harsh, gritty, high-mid baritone; throat-straining projection. Cadence & Tempo: Rapid-fire, staccato bursts, syncopated and sharp. Mannerisms: Dropped "h"s, glottal stops; energetic, combative barking over the rattle of heavy Vickers and Browning machine guns.
 
-SHEIKH
-I speak with the voice of Orus
-Sheikh. North African Arabic accent, elderly, dignified, resonant, and solemn
+BASE COMMANDER 
+Base Commander - Iapetus. Accent: High-Establishment British Received Pronunciation (Senior Sandhurst Staff Officer). Timbre & Pitch: Deep, formidable, resonant bass; boomy and formal. Cadence & Tempo: Measured, stately, ponderous, brook-no-argument delivery. Mannerisms: Grand, patrician authority; elongated vowels; resonant clearing of the throat before delivering strategic operational mandates.
 
-GUARDSMAN
-I speak with the voice of Fenrir
-Guardsman. London Cockney accent, exhausted, humble, and rasping through a parched throat
+TRIPP 
+Captain “Pip” Tripp - Puck. Accent: Clipped 1940s British Army Staff RP (Home Counties officer standard). Timbre & Pitch: Bright, crisp, agile mid-baritone; smooth and polished. Cadence & Tempo: Brisk, efficient, rhythmic; organizational clip. Mannerisms: Neat, military precision on final consonants; energetic, courteous, efficient staff officer professionalism.
 
-GUTTERIDGE
-I speak with the voice of Charon
-Gutteridge. London working-class accent, hoarse, rasping, and collapsing under agony and blistering heat
+SWEETING 
+Captain Sweeting - Orus. Accent: Classic English Public School RP (confident Guards officer standard). Timbre & Pitch: Resonant, full-bodied, commanding baritone; clean and clear projection. Cadence & Tempo: Fluid, relaxed, composed, unhurried. Mannerisms: Effortless patrician command; smooth transitions between orders; understated courage without theatricality.
 
-SANDERS
-I speak with the voice of Puck
-Sanders. New Zealand accent, supportive, hushed, fraternal, and steady
+TIPPETT 
+Trooper Keith Tippett - Fenrir. Accent: Rugged New Zealand (Canterbury plains Kiwi farmer-trooper). Timbre & Pitch: Gritty, tense, sandpaper-textured baritone; low-mid projection. Cadence & Tempo: Snappy, sparse, utilitarian; speaking only when necessary. Mannerisms: Tight, flat delivery; swallows final syllables slightly; steely, explosive brevity during combat action.
 
-TIPPETT
-I speak with the voice of Achird
-Tippett. New Zealand accent, wry, pain-hardened, stubborn, with dry battlefield humor
+SANDERS 
+Gunner Sanders - Achird. Accent: Rural English (West Country / Somerset working-class drawl). Timbre & Pitch: Hearty, rustic, rounded mid-baritone; warm, earthy resonance. Cadence & Tempo: Easygoing, rhythmic, slightly lilted; steady and reliable under fire. Mannerisms: Broadened rhotic vowels; relaxed conversational composure even while adjusting sights on the ordnance.
 
-RAIL
-I speak with the voice of Charon
-Rail. New Zealand accent, tense, vigilant, and sharp on gunner alert
+RAIL 
+Trooper Wally Rail - Orus. Accent: Tough Veteran New Zealander (Kiwi with hard, combative edge from fighting in Greece). Timbre & Pitch: Powerful, roaring, brassy baritone; loud, booming, and defiant. Cadence & Tempo: Rapid, aggressive, unrelenting marching cadence. Mannerisms: Speaks with aggressive bite; grunts punctuating weapon bursts; sheer ferocious satisfaction when engaging enemy positions.
 
-LLOYD OWEN
-I speak with the voice of Achird
-Lloyd Owen. British RP accent, patrician, poised, decisive, and impeccably professional
+LLOYD OWEN 
+Captain David Lloyd Owen - Puck. Accent: Patrician Southern English Received Pronunciation (Winchester College officer standard). Timbre & Pitch: Melodic, cultured, warm baritone; clear, vibrant, highly expressive timbre. Cadence & Tempo: Fluid, articulate, thoughtfully paced; natural storytelling elegance. Mannerisms: Rounded vowels; aristocratic vocal polish; perceptive, observant cadence with a calm, civilized composure in the deep desert.
 
-COLES
-I speak with the voice of Puck
-Coles. British RAF RP accent, booming, urgent, and commanding over roaring Pegasus engines
+GUTTERIDGE 
+Guardsman Ernie Gutteridge - Puck. Accent: Urban Working-Class British (London/Middlesex Guardsman). Timbre & Pitch: Engaging, lively, flexible mid-baritone; dry, buoyant edge. Cadence & Tempo: Quick-witted, agile, brisk; conversational. Mannerisms: Cheerful wartime gallows humor; dropped aspirates; upbeat resilience under hazardous desert conditions.
 
-OLIVEY
-I speak with the voice of Orus
-Olivey. Southern Rhodesian accent, hearty, sun-baked, practical colonial officer with astonished warmth
+GUARDSMAN 
+Guardsman - Orus. Accent: Northern English (Yorkshire / Leeds working-class Guards recruit). Timbre & Pitch: Heavy, solid, resonant baritone; hearty chest projection. Cadence & Tempo: Direct, blunt, steady, and unpretentious. Mannerisms: Broad northern vowels ("u" sounds); firm, unwavering delivery; steadfast discipline under fire.
 
-TRIPP
-I speak with the voice of Puck
-Tripp. Southern Rhodesian accent, clipped, direct, lean, and soldierly
+COLES 
+Wing Commander Bill Coles - Puck. Accent: Crisp RAF Officer Received Pronunciation (Cranwell pilot cadence). Timbre & Pitch: Brisk, bright, athletic baritone; punchy and clear-cut projection. Cadence & Tempo: Rapid, confident, decisive; brisk aeronautical clarity. Mannerisms: Snappy flyboy informality mixed with high command; clipped, energetic vocal punch; utter nonchalance while landing an unarmed transport deep behind enemy lines.
 
-BASE COMMANDER
-I speak with the voice of Iapetus
-Base Commander. British RP accent, somber, dignified, and weary with heavy operational burdens
+SENTRY 
+Colonial Tripolitanian Sentry - Fenrir. Accent: Libyan Arabic native phonology mixed with broken Italian military terms. Timbre & Pitch: Tense, raspy, high-register baritone; sharp, suspicious edge. Cadence & Tempo: Halting, erratic staccato; hesitant pauses followed by sharp challenges. Mannerisms: Guttural pharyngeal friction; harsh glottal stops; nervous, strained vocal projection into the pitch-black desert night.
 
-FINDLAY
-I speak with the voice of Puck
-Findlay. Scottish accent, stalwart, disciplined Scots Guardsman with deadpan, soldierly calm
+OMAR 
+Omar, an elderly Senussi farmer - Iapetus. Accent: Cyrenaican Bedouin Arabic-accented English (soft, deep desert Arabic phonology). Timbre & Pitch: Aged, raspy, deep bass; dry, dusty resonance, gravelled by desert wind. Cadence & Tempo: Very slow, solemn, liturgical, dignified. Mannerisms: Gentle, breathy exhalations; deep pauses between thoughts; patriarchal warmth and quiet hospitality.
 
-FARMER
-I speak with the voice of Iapetus
-Farmer. North African Arabic accent, weathered, warm, soft-spoken, and deeply reverent
+FARMER 
+Elderly Senussi farmer - Achird. Accent: Cyrenaican Libyan Arabic dialect inflections. Timbre & Pitch: Thin, reedy, weathered mid-baritone; soft and worn. Cadence & Tempo: Hesitant, gentle, measured; undulating vocal rise and fall. Mannerisms: Quiet, non-percussive consonants; respectful, deferential tone; hushed speech conveying conspiratorial care for hidden Allied soldiers.
 
-OMAR
-I speak with the voice of Iapetus
-Omar. North African Arabic accent, gentle, solemn, and reverently hospitable
+SHEIKH 
+Old Senussi sheikh - Charon. Accent: Classical Bedouin Libyan Arabic (stately, traditional tribal cadence). Timbre & Pitch: Deep, cavernous, resonant bass; ancient, rumbling chest vibration. Cadence & Tempo: Slow, solemn, poetic; ceremonial and measured. Mannerisms: Long, dignified pauses; deep, resonant vocal resonance; stately, patriarchal gravitas that radiates timeless desert authority.
 
-GUIGNOL AGENT
-I speak with the voice of Orus
-Guignol Agent. Arabic-accented English, hushed, clandestine, crisp, and shadowy
-
-SWEETING
-I speak with the voice of Fenrir
-Sweeting. British RP accent, warm, easygoing, astonished, and briskly welcoming
-
+GUIGNOL AGENT 
+Guignol Agent - Puck. Accent: Cultured Anglo-Levantine English (cosmopolitan Mediterranean blend with subtle French-Arabic vocal nuance). Timbre & Pitch: Velvety, smooth, mid-register baritone; hushed, conspiratorial warmth. Cadence & Tempo: Fluid, discreet, hushed; immaculate modulation suited for covert networks. Mannerisms: Sibilant, whispered precision; knowing, understated irony; poised and calm elegance while coordinating escape lines in the shadows of the Gebel.
 
 
 
 
 NARRATOR
 Caravan.
+
 The Long Range Desert Group raid on Barce, 1942.
 
 Chapter One. The Directives at Faiyum. 28 August - 1 September 1942.

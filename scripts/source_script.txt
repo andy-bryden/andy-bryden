@@ -1,190 +1,156 @@
-Source cast
+Operation Source
+The X-craft attack on Tirpitz, 1943
+
+Cast
 
 NARRATOR
-I speak with the voice of Charon
-Narrator. British RP accent, deep, resonant, cinematic, and authoritative
+Narrator - Charon. Accent: Vintage 1940s British Received Pronunciation (BBC wartime broadcast / Pathé documentary standard). Timbre & Pitch: Deep, cavernous, cinematic bass with warm, dark resonance. Cadence & Tempo: Measured, stately, deliberate pacing with immense narrative weight. Mannerisms: Impeccable classical articulation; somber dramatic pauses before climaxes; steady, evocative gravitas.
 
-CHURCHILL
-I speak with the voice of Iapetus
-Winston Churchill. British aristocratic RP accent, gravelly, heavy, resolute, and historic
-
-VARLEY
-I speak with the voice of Fenrir
-Commander Cromwell Varley. British RP accent, sharp, eccentric, irritable, and mechanically precise
-
-STAFF OFFICER
-I speak with the voice of Achird
-Inspecting Staff Officer. British RP accent, polite, formal, inquisitive, and bureaucratic
-
-HORTON
-I speak with the voice of Orus
-Admiral Sir Max Horton. British RP accent, cold, commanding, gravelly, and unyielding
-
-PHILLIPS
-I speak with the voice of Orus
-Captain George Phillips. British RP accent, flat, cynical, dry, and hardened by submarine command
+CHURCHILL 
+Sir Winston Churchill - Orus. Accent: Vintage Upper-Class British (1940s Aristocratic, Old Harrovian RP). Timbre & Pitch: Deep, heavy baritone; gravelly, wet resonance; slightly muffled. Cadence & Tempo: Very slow, deliberate, ponderous. Stately pauses between clauses. Mannerisms: Noticeable lateral lisp (slushy "s" and "z" sounds); audible breathing; sudden rhetorical punches on stressed vowels.
 
 PLACE
-I speak with the voice of Puck
-Lieutenant Godfrey Place. British Dartmouth RP accent, aristocratic, youthful, calm, and detached
-
-DOCTOR
-I speak with the voice of Achird
-Naval Surgeon. British RP accent, clinical, cold, unsparing, and matter-of-fact
+Lieutenant Basil Charles Godfrey Place - Orus. Accent: High-Society British Received Pronunciation (Dartmouth Royal Navy officer standard). Timbre & Pitch: Resonant, commanding, clear baritone; steely and completely unshakeable. Cadence & Tempo: Unflappable, measured, crisp pacing; never rushes even under depth-charge concussions. Mannerisms: Aristocratic economy of words; sharp dental consonants; projects calm, effortless authority through sheer composure.
 
 CAMERON
-I speak with the voice of Fenrir
-Lieutenant Donald Cameron. Scottish Highland North Argyll burr, deep, gravelly, resilient, and unshakeable
+Lieutenant Donald Cameron - Fenrir. Accent: Scottish (Lanarkshire / Lowland Scots with Royal Naval Reserve grit). Timbre & Pitch: Textured, gritty, earthy baritone; dry and iron-willed. Cadence & Tempo: Brisk, purposeful, rhythmically determined. Mannerisms: Rolled alveolar "r"s; tight jaw articulation; biting consonants on combat helm orders; no-nonsense merchant-service practicality.
 
 HUDSPETH
-I speak with the voice of Achird
-Lieutenant Kenneth Hudspeth. Australian Tasmanian accent, dry, calm, laconic, and technically precise
-
-FELL
-I speak with the voice of Orus
-Commander William "Tiny" Fell. British RP accent, booming, massive, pragmatic, and veteran
+Lieutenant Kenneth Hudspeth - Achird. Accent: Mid-Century Educated Australian (Tasmanian/Victorian cadence, polite Commonwealth naval officer). Timbre & Pitch: Calm, balanced, warm mid-register baritone; clean texture. Cadence & Tempo: Unhurried, conversational, steady and reassuring. Mannerisms: Slightly broadened Australian vowels; understated courage; pragmatic, level-headed delivery in high-stress tactical moments.
 
 AITKEN
-I speak with the voice of Iapetus
-Sub-Lieutenant Robert Aitken. Scottish Edinburgh accent, youthful, determined, disciplined, and strained under physical pressure
+Sub-Lieutenant Robert Aitken - Achird. Accent: Cultured Southern British English (slight East Anglian warmth). Timbre & Pitch: Soft-spoken, clean, youthful mid-baritone; gentle yet firm. Cadence & Tempo: Quiet, deliberate, fluid pacing. Mannerisms: Audible, controlled breathing into oxygen gear; quiet, uncomplaining British stoicism; delicate, precise consonant articulation.
 
-CLARK
-I speak with the voice of Achird
-Sub-Lieutenant Ernest Clark. Northern English Yorkshire accent, exhausted, raspy from soda-lime, and stoic
-
-PASSAGE OFFICER
-I speak with the voice of Puck
-Passage Watch Officer. British RP accent, weary, rhythmic, strained, and focused on trim
-
-JUPP
-I speak with the voice of Orus
-Lieutenant Michael Hugh Jupp. British RP accent, crisp, professional, stoic, and burdened by command
-
-OFFICER OF THE WATCH
-I speak with the voice of Achird
-Officer of the Watch. British RP accent, formal, prompt, and naval-routine
-
-LEADING SEAMAN
-I speak with the voice of Fenrir
-Leading Seaman. London Cockney accent, gritty, urgent, strained against wind and sea
-
-MARTIN
-I speak with the voice of Puck
-Sub-Lieutenant T.L. Martin. British RP accent, tense, anxious, youthful, and devastated
-
-PORT LOOKOUT
-I speak with the voice of Iapetus
-Port Lookout. Working-class British accent, sharp, carrying, and alerting
-
-ROBINSON
-I speak with the voice of Fenrir
-Stoker 1st Class Robinson. Northern English Yorkshire accent, strained, physical, and fighting the controls
-
-SMART
-I speak with the voice of Puck
-Sub-Lieutenant Jack Smart. British Southern English accent, exhausted, pragmatic, and level-headed under crisis
-
-MCFARLANE
-I speak with the voice of Orus
-Lieutenant Brian McFarlane. Australian naval accent, crisp, authoritative, decisive, and professional
-
-GODDARD
-I speak with the voice of Iapetus
-Engine Room Artificer Charles Goddard. English Midlands working-class accent, practical, quick-thinking, and reliable
-
-LORIMER
-I speak with the voice of Achird
-Sub-Lieutenant John Lorimer. British RP accent, steady, measured, analytical, and professional
-
-KENDALL
-I speak with the voice of Orus
-Sub-Lieutenant Richard Kendall. British RP accent, quiet, taut, disciplined, and focused
-
-TABB
-I speak with the voice of Fenrir
-Engine Room Artificer E. Tabb. Australian working-class accent, gritty, direct, and mechanically resourceful
-
-ENZER
-I speak with the voice of Puck
-Sub-Lieutenant Bruce Enzer. British RP accent, polite, strained, hoarse, and fatigued
-
-HARDING
-I speak with the voice of Orus
-Sub-Lieutenant Geoffrey Harding. British RP accent, youthful, methodical, quiet, and concentrated
-
-LOOKOUT
-I speak with the voice of Puck
-German Lookout. German accent, sudden, alarmed, and high-pitched in shock
+FELL
+Commander William Richmond “Tiny” Fell - Puck. Accent: Vintage 1940s New Zealand English (Colonial Kiwi vowel shifts overlaid with Royal Navy officer RP). Timbre & Pitch: Booming, warm, open-throated baritone; robust and hearty. Cadence & Tempo: Buoyant, lively, energetic tempo. Mannerisms: Audible smile; broad, expansive delivery; effortless command tempered by breezy colonial warmth.
 
 WHITTAM
-I speak with the voice of Achird
-Sub-Lieutenant William Whittam. Northern English Yorkshire accent, steady, quiet, and fading into hypothermic exhaustion
+Sub-Lieutenant William Whittam - Fenrir. Accent: Northern British English (Lancashire undertones refined by naval training). Timbre & Pitch: Taut, hushed, raspy mid-baritone with a dry edge. Cadence & Tempo: Fast, clipped, disciplined military delivery. Mannerisms: Short, clipped vowels; tight, rapid breaths; earnest, high-focus vocal energy under extreme danger.
 
-MORRISON
-I speak with the voice of Fenrir
-Engine Room Artificer William Morrison. Scottish Clydeside Glasgow accent, tough, practical, breathless, and raspy
+SMART
+Sub-Lieutenant Jack Smart - Puck. Accent: Crisp British Received Pronunciation (RNVR officer standard). Timbre & Pitch: Bright, agile, clear baritone; engaging and energetic. Cadence & Tempo: Snappy, brisk, marching cadence. Mannerisms: Upbeat vocal posture; sharp, energetic consonants; alert, proactive delivery.
 
-KORVETTENKAPITAN
-I speak with the voice of Iapetus
-Korvettenkapitän. German accent, cultured, formal, sharp, and disciplined in English
+PHILLIPS
+Captain George Phillips - Fenrir. Accent: Senior British Royal Navy RP. Timbre & Pitch: Sandpaper-textured, weathered, gravelly baritone; steely and flinty. Cadence & Tempo: Methodical, clipped, authoritative. Mannerisms: Downward vocal inflections; severe, unadorned phrasing; complete absence of emotional modulation.
 
-PETTY OFFICER
-I speak with the voice of Charon
-Tirpitz German Petty Officer. German accent, gruff, low, curt, and professional
-
-MEYER
-I speak with the voice of Orus
-Kapitän zur See Hans Meyer. German accent, commanding, aristocratic, severe, and under extreme pressure
-
-DAMAGE CONTROL
-I speak with the voice of Achird
-German Damage Control Officer. German accent, frantic, strained, and shouting over rushing water
-
-GERMAN OFFICER
-I speak with the voice of Puck
-German Deck Watch Officer. German accent, shaken, breathless, and rapid in broken English
-
-VOICE
-I speak with the voice of Achird
-Submerged Voice (Whittam). Northern English accent, muffled, desperate, and choked by water
-
-LEUTNANT ZUR SEE
-I speak with the voice of Charon
-Leutnant zur See. German accent, shrill, aggressive, and tense with adrenaline
-
-STARBOARD BATTERY OFFICER
-I speak with the voice of Fenrir
-Starboard Battery Officer. German accent, screaming, furious, and commanding over gunfire
-
-GERMAN PATROL SKIPPER
-I speak with the voice of Charon
-German Harbor Patrol Skipper. German North Sea accent, gruff, loud, and barking combat orders
-
-GERMAN SAILOR
-I speak with the voice of Puck
-German Harbor Sailor. German accent, excited, surprised, and calling out across water
-
-GERMAN PETTY OFFICER
-I speak with the voice of Charon
-Launch Petty Officer. German accent, urgent, demanding, harsh, and interrogative
+VARLEY
+Commander Cromwell Hanford Varley - Achird. Accent: Vintage Upper-Class British RP (Edwardian naval inventor). Timbre & Pitch: Dry, wiry, reedy mid-baritone; intellectual and vibrant. Cadence & Tempo: Rapid, erratic bursts of technical reasoning. Mannerisms: Sudden enthusiastic spikes on engineering terminology; breathless pauses; eccentric, professorial intensity.
 
 DUFF
-I speak with the voice of Orus
-Lieutenant Albert "Dicky" Duff. British RP accent, calm, mature, compassionate, and authoritative
+Lieutenant Albert “Dicky” Duff - Puck. Accent: High British Received Pronunciation (Royal Navy Submarine Service). Timbre & Pitch: Polished, smooth, resonant baritone; warm and articulate. Cadence & Tempo: Fluid, brisk, confident tempo. Mannerisms: Impeccable naval charm; clean, clipped dental stops; completely composed and cheerful while towing through heavy seas.
+
+JUPP
+Lieutenant Michael Hugh Jupp - Orus. Accent: Upper-Class British Public School RP (Cheltenham / West Country gentry). Timbre & Pitch: Deep, commanding, dark baritone; focused and serious. Cadence & Tempo: Slow, solemn, vigilant. Mannerisms: Heavy naval gravity; deep, chest-driven commands; brooding intensity over the safety of his tow.
+
+GODDARD
+Engine Room Artificer Charles Goddard - Iapetus. Accent: Working-Class London / Cockney English (long-service Royal Navy engine rating). Timbre & Pitch: Low, gravelly, rumbling bass; heavy with mechanical wear. Cadence & Tempo: Steady, unhurried, rhythmic and grounded. Mannerisms: Dropped "h"s and glottal stops; phlegmatic, calm fatalism; guttural warmth when nursing diesel engines.
+
+CLARK
+Sub-Lieutenant Ernest Clark - Achird. Accent: Neutral British Home Counties English. Timbre & Pitch: Clear, functional, earnest mid-baritone; plain and utilitarian. Cadence & Tempo: Moderate, disciplined, matter-of-fact. Mannerisms: Highly professional; clean military enunciation; steady and reliable without inflection.
+
+MORRISON
+Engine Room Artificer William Morrison - Iapetus. Accent: Scottish (West Coast Clydeside marine engineer). Timbre & Pitch: Cavernous, deep, dark bass; rich, unshakeable resonance. Cadence & Tempo: Slow, methodical, metronomic. Mannerisms: Heavy rolled "r"s; stoic, unyielding calm in confined machinery spaces; unflinching composure even in rising bilge water.
+
+MEYER
+Kapitän zur See Hans Meyer - Orus. Accent: North German (Kriegsmarine Kapitän, crisp High German with Prussian officer inflection). Timbre & Pitch: Deep, commanding, resonant baritone; steely, aristocratic bite. Cadence & Tempo: Severe, deliberate, controlled pacing, rising to sharp, barked staccato during general quarters. Mannerisms: Rigid German "r"s; biting, percussive consonants; haughty, aristocratic military authority.
+
+LORIMER
+Sub-Lieutenant John Lorimer - Achird. Accent: Youthful British Public School RP. Timbre & Pitch: Light, steady, clear baritone; boyish yet resolute. Cadence & Tempo: Quick, watchful, steadying into calm precision when reporting periscope bearings. Mannerisms: Polite, upper-class restraint; breathless wonder tempered by professional naval discipline.
+
+ENZER
+Sub-Lieutenant Bruce Enzer - Fenrir. Accent: Educated Southern British English (Surrey / Thames Valley). Timbre & Pitch: Taut, gritty, slightly dry mid-baritone; tight with focused stress. Cadence & Tempo: Rapid, clipped, urgent delivery. Mannerisms: Short, clipped responses; focused intensity; tight throat control in claustrophobic quarters.
+
+TABB
+Engine Room Artificer E. Tabb - Iapetus. Accent: West Country English (Devonport dockyard artisan). Timbre & Pitch: Heavy, earthy, resonant bass; warm and burly. Cadence & Tempo: Slow, deliberate, relaxed. Mannerisms: Rhotic, rolling vowels; muttered technical jargon; dependable, physical calmness around submarine manifolds.
 
 PHILIP
-I speak with the voice of Iapetus
-Sub-Lieutenant P.H. Philip. South African English accent, clipped, loyal, exhausted, and resolute
+Sub-Lieutenant P.H. Philip - Puck. Accent: 1940s South African English (Natal / Cape colonial British RP blend). Timbre & Pitch: Open, resonant, warm baritone; buoyant and clear. Cadence & Tempo: Lively, brisk, rhythmic. Mannerisms: Flatter Commonwealth vowels; crisp consonants; cheerful, unflinching morale.
+
+MCFARLANE
+Lieutenant Brian McFarlane - Orus. Accent: Mid-Century Australian Naval Officer (RAN officer trained in Royal Navy tradition). Timbre & Pitch: Strong, resonant, commanding baritone; dry, assertive timbre. Cadence & Tempo: Direct, decisive, unhurried. Mannerisms: Crisp, sharp consonants paired with flat Australian vowels; unflappable tactical clarity.
+
+HARDING
+Sub-Lieutenant Geoffrey Harding - Puck. Accent: British Public School Received Pronunciation. Timbre & Pitch: Warm, engaging, versatile baritone; bright and clear. Cadence & Tempo: Brisk, spirited, rhythmic. Mannerisms: Cheerful public school camaraderie; clear dental enunciation; youthful optimism in adversity.
+
+ROBINSON
+Stoker 1st Class Robinson - Fenrir. Accent: Northern English (Yorkshire / Lancashire working class). Timbre & Pitch: Rough-hewn, raspy, gritty baritone; smoky and raw. Cadence & Tempo: Blunt, fast-paced, unadorned. Mannerisms: Short, flat vowels; dry, cynical humor; working-class naval fatalism.
+
+KENDALL
+Sub-Lieutenant Richard Kendall - Puck. Accent: Cultured British Received Pronunciation (RNVR officer). Timbre & Pitch: Light, agile, expressive baritone; warm and clear. Cadence & Tempo: Agile, alert, smooth pacing. Mannerisms: Rapid navigational updates; crisp, bright diction; steadying demeanor under depth charges.
+
+OAKLEY
+Lieutenant J.P.H. Oakley - Iapetus. Accent: Traditional British Royal Navy RP. Timbre & Pitch: Deep, heavy, mature bass; dark, steady resonance. Cadence & Tempo: Slow, authoritative, watchful. Mannerisms: Low periscope whisper; measured breathing; calm captaincy during heavy Arctic swells.
+
+MARTIN
+Lieutenant Martin - Achird. Accent: Formal British RP (Royal Navy Submarine Service). Timbre & Pitch: Steady, clean, balanced baritone; analytical. Cadence & Tempo: Precise, metronomic, professional. Mannerisms: Clinical reporting of trim and bearings; calm and methodical.
+
+HORTON
+Admiral Sir Max Horton - Iapetus. Accent: Vintage Aristocratic British RP (High Admiralty standard). Timbre & Pitch: Deep, flinty, formidable bass; cold, icy resonance. Cadence & Tempo: Deliberate, slow, weighty; speaks with total, unbending command. Mannerisms: Minimal inflection; chilling economy of words; piercing vocal authority that demands absolute obedience.
+
+DOCTOR
+British Naval surgeon - Achird. Accent: Cultured Scottish (Edinburgh medical graduate). Timbre & Pitch: Soft-spoken, soothing, warm baritone; gentle gravel. Cadence & Tempo: Unhurried, comforting, clinical. Mannerisms: Gentle, reassuring cadence; professional detachment; quiet bedside empathy.
+
+STAFF OFFICER
+British staff officer - Puck. Accent: Clipped, high-society British Received Pronunciation (War Office / Admiralty). Timbre & Pitch: High, crisp, nasal baritone; precise and bright. Cadence & Tempo: Staccato, rapid, administrative. Mannerisms: Snappy delivery; emphasizes administrative protocol; impeccably polite and rigid.
+
+OFFICER OF THE WATCH
+British Officer of the Watch aboard Syrtis - Achird. Accent: Crisp Naval British RP. Timbre & Pitch: Clear, steady, functional baritone. Cadence & Tempo: Rapid, disciplined naval cadence. Mannerisms: Shouted lookout acknowledgments; brisk, taut military brevity.
+
+PASSAGE OFFICER
+British passage officer - Puck. Accent: Standard Southern British English. Timbre & Pitch: Versatile, bright, energetic mid-baritone. Cadence & Tempo: Quick, communicative, upbeat. Mannerisms: Cheerful handover chatter; functional naval clarity.
+
+LEADING SEAMAN
+Leading seaman aboard Syrtis - Fenrir. Accent: Cockney / East London working class. Timbre & Pitch: Gravelly, textured, weathered baritone. Cadence & Tempo: Fast, biting, rhythmic. Mannerisms: Dropped aspirates, rough vocal fry; salty deckhand directness.
+
+PORT LOOKOUT
+British port lookout - Fenrir. Accent: West Country English (Plymouth naval rating). Timbre & Pitch: Raspy, raw, urgent mid-baritone. Cadence & Tempo: Sudden, staccato shouts cutting through wind and sea. Mannerisms: Breathless urgency; harsh, strained vocal cords from salt spray.
+
+VOICE
+Trapped crewman in the flooding X7 - Fenrir. Accent: Muffled, desperate British English (hollow acoustics of a sunken hull). Timbre & Pitch: Strained, gasping, raspy baritone; throat tight with terror and rising water. Cadence & Tempo: Erratic, fragmented, frantic. Mannerisms: Choked gulps for air; hollow metallic reverb; desperate, breathless knocking and fading cries.
+
+LOOKOUT
+German lookout aboard the Tirpitz - Puck. Accent: Northern German (Kiel / Baltic coastal inflection). Timbre & Pitch: High, sharp, alarmed baritone. Cadence & Tempo: Rapid, panicked staccato; abrupt vocal spikes. Mannerisms: Piercing vocal alarm; barking vowels; abrupt intakes of breath.
+
+STARBOARD BATTERY OFFICER
+German starboard battery officer aboard the Tirpitz - Fenrir. Accent: Prussian Military German. Timbre & Pitch: Harsh, strained, aggressive baritone; intense vocal fry. Cadence & Tempo: Barked commands in explosive bursts; rapid military cadence. Mannerisms: Metallic sharpness; guttural shouting; clipped, violent delivery of gunnery orders.
+
+DAMAGE CONTROL
+German damage control party aboard the Tirpitz - Iapetus. Accent: Industrial German (Ruhr Valley / Rhineland). Timbre & Pitch: Heavy, booming, gravelly bass; thick chest resonance. Cadence & Tempo: Urgent, breathless, bellowing over roaring machinery and water. Mannerisms: Shouting over noise; hoarse, soot-strained delivery; blunt, percussive emergency reporting.
+
+GERMAN PATROL SKIPPER
+German patrol skipper - Iapetus. Accent: North German maritime (Low German / Hamburg port dialect). Timbre & Pitch: Weather-beaten, gruff, low bass; coarse salt-caked texture. Cadence & Tempo: Deliberate, skeptical, guttural. Mannerisms: Low, suspicious grunts; gruff naval skepticism; throaty German phonetics.
+
+LEUTNANT ZUR SEE
+German Leutnant zur See in the harbor picket boat - Achird. Accent: Standard High German (Bühnendeutsch / educated Berlin standard). Timbre & Pitch: Clean, brisk, disciplined mid-baritone. Cadence & Tempo: Alert, procedural, authoritative. Mannerisms: Sharp, correct military protocol; formal, crisp consonants; suspicious scrutiny.
+
+GERMAN OFFICER
+German officer - Puck. Accent: South German / Bavarian-inflected German. Timbre & Pitch: Smooth, theatrical, polished baritone with a tight edge. Cadence & Tempo: Moderate, measured, formal. Mannerisms: Controlled civility overlaying cold menace; cultured, punctilious enunciation.
+
+KORVETTENKAPITAN
+German Korvettenkapitän - Iapetus. Accent: High-ranking Prussian Kriegsmarine German. Timbre & Pitch: Deep, imposing, hollow bass; commanding resonance. Cadence & Tempo: Stately, stern, severe. Mannerisms: Measured interrogative cadence; unyielding discipline; icy, guttural downward pitch.
 
 ABWEHR OFFICER
-I speak with the voice of Charon
-Abwehr Interrogator. German accent, quiet, intellectual, menacing, and coldly bureaucratic
+German Abwehr intelligence officer - Achird. Accent: Cultured Urban German (Berlin intellectual / intelligence officer). Timbre & Pitch: Soft, dry, velvety mid-baritone; insidious quietness. Cadence & Tempo: Deliberate, predatory, conversational. Mannerisms: Whispered menace; psychological restraint; taps syllables cleanly; utterly devoid of shouting.
+
+PETTY OFFICER
+German petty officer aboard the Tirpitz - Fenrir. Accent: Saxon / Central German. Timbre & Pitch: Grating, raspy, mid-to-high baritone; drill-sergeant rasp. Cadence & Tempo: Loud, punchy, barking tempo. Mannerisms: Loud naval commands; aggressive consonant snaps; constant urgent tension.
+
+GERMAN SAILOR
+German sailor - Puck. Accent: North German (Hamburg dockyard working class). Timbre & Pitch: Youthful, vibrant, tense baritone. Cadence & Tempo: Quick, panicked, breathless. Mannerisms: Wide-eyed vocal delivery; rapid reporting of explosions and rising bilge water.
+
+GERMAN PETTY OFFICER
+German petty officer - Iapetus. Accent: Westphalian / Northern German. Timbre & Pitch: Thick, gritty, resonant bass; rough-hewn. Cadence & Tempo: Steady, forceful, disciplined. Mannerisms: Heavy breathing; gruff, unshakeable NCO bark; blunt execution of orders.
 
 
 
 
 NARRATOR
+Source
+
+The X-craft attack on Tirpitz, 1943
+
 Chapter One
+
 The Weight of the Beast
 Admiralty, Whitehall, London
 Spring 1942

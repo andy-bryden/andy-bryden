@@ -1,274 +1,169 @@
-Bowler cast
+Operation Bowler
+The Venice harbour raid, March 1945
+
+Cast
 
 NARRATOR
-I am the Narrator.
-I speak with the voice of Charon
-My British RP accented voice is deep, resonant, and dramatic, with a measured documentary gravitas
+Narrator - Charon. Accent: Mid-Century British Received Pronunciation (1940s BBC World Service documentary style). Timbre & Pitch: Deep, sonorous, cinematic bass; rich reverberant chest tone. Cadence & Tempo: Measured, authoritative, gravitas-laden pacing; dramatic narrative beats with crisp enunciation. Mannerisms: Stoic, journalistic detachment punctuated by subtle, resonant drops on key historical turning points.
 
 ALEXANDER
-I am General Sir Harold Alexander.
-I speak with the voice of Iapetus
-My British RP accented voice is clipped, cultured, soft-spoken, and devoid of theatrics
+General Sir Harold Alexander - Orus. Accent: Patrician British Received Pronunciation (Ulster-aristocratic, Irish Guards & Harrow). Timbre & Pitch: Resonant, warm, polished upper-register baritone; effortless vocal projection. Cadence & Tempo: Imperturbable, unhurried, graceful; musical lilt between strategic points. Mannerisms: Elegant nonchalance; never displays stress; speaks with supreme hereditary authority and serene command.
 
 DEWALD
-I am Major Ernest DeWald.
-I speak with the voice of Achird
-My educated American accented voice is steady, precise, and academic
+Major Ernest DeWald - Achird. Accent: Ivy League Mid-Atlantic American (Princeton academic, New Brunswick upbringing). Timbre & Pitch: Warm, cultivated, slightly dusty baritone with dry intellectual resonance. Cadence & Tempo: Professorial, deliberative, measured; savors descriptive terminology. Mannerisms: Gentle, anxious precision; pauses as though examining brushstrokes; visibly pained when discussing historical monuments under fire.
 
 CANNON
-I am Major General John K. Cannon.
-I speak with the voice of Orus
-My American accented voice is cold, commanding, and impatient, with a thin, dry edge
+Major General John K. Cannon - Fenrir. Accent: Western General American (Intermountain Salt Lake City origin). Timbre & Pitch: Rugged, gravelly, mid-range baritone; hardened by cockpit altitude and desert air. Cadence & Tempo: Direct, punchy, businesslike; minimal operational fluff. Mannerisms: Clipped, flat-vowelled pragmatism; curt and demanding; emphasizes logistical realities with blunt finality.
 
 KNAPP
-I am Brigadier General Robert D. Knapp.
-I speak with the voice of Fenrir
-My American accented voice is gritty, confident, and brisk, shouted over engine noise
+Brigadier General Robert D. Knapp - Iapetus. Accent: Gentle Southern American (Deep South, East Alabama cadence). Timbre & Pitch: Low, rumble-heavy, molasses-thick bass; warm and grandfatherly. Cadence & Tempo: Drawling, relaxed, deceptive in its military precision; comfortable, spacious pauses. Mannerisms: Melodic Southern vowel extensions; genial paternal phrasing masking an uncompromising aerial tactician.
 
 FOSTER
-I am Air Vice-Marshal Robert "Pussy" Foster.
-I speak with the voice of Fenrir
-My British RP accented voice is gravelly and low, tired but razor-sharp
+Air Vice-Marshal Robert "Pussy" Foster - Puck. Accent: Vintage Edwardian British RP (RFC veteran, gentleman flyer). Timbre & Pitch: Light, buoyant, warm baritone; clear and open-throated. Cadence & Tempo: Brisk, conversational, lightly theatrical; punctuated by jaunty dry wit. Mannerisms: Audible smile; effortless upper-class banter; uses casual self-deprecation to deliver razor-sharp operational warnings.
 
 WESTLAKE
-I am Wing Commander George Westlake.
-I speak with the voice of Puck
-My British RP accented voice is warm, engaging, and technical, with calm professional authority
+Wing Commander George Westlake - Orus. Accent: Crisp RAF Officer Received Pronunciation (1940s Southern English). Timbre & Pitch: Powerful, metallic, athletic baritone; brilliant clarity through cockpit static. Cadence & Tempo: Urgent, driving, staccato in action; crisp and steady in briefings. Mannerisms: Snappy military consonants; zero wasted breath; radiates sheer tactical confidence and intense visual focus.
 
 EATON
-I am Group Captain Brian Eaton, DSO and Bar, DFC.
-I speak with the voice of Orus
-My Victorian Australian accented voice is firm, laconic, and authoritative
+Group Captain Brian Eaton - Fenrir. Accent: Cultivated 1940s Australian English (Tasmanian/Victorian RAAF standard). Timbre & Pitch: Gritty, barrel-chested baritone; dry, sun-baked rasp. Cadence & Tempo: Forward-leaning, firm, laconic; brisk Australian vowels. Mannerisms: Unsentimental, straight-talking bluntness; understated bravura; commands total respect without raising volume.
 
 PINKSTON
-I am Colonel Gladwyn Pinkston.
-I speak with the voice of Achird
-My American accented voice is friendly, easy, and conversational, with a fighter pilot's casual drawl
+Colonel Gladwyn Pinkston - Puck. Accent: Mid-Century West Coast American (Californian aviator). Timbre & Pitch: Smooth, bright, resonant tenor-baritone; energetic and clean. Cadence & Tempo: Fluid, rapid, optimistic; youthful rhythmic delivery. Mannerisms: Relaxed American airmanship; casual verbal shorthand followed by sharp, razor-focused aerial directives.
 
 STROM
-I am Squadron Leader John Strom.
-I speak with the voice of Iapetus
-My Australian drawl is quiet, grounded, and unhurried
+Squadron Leader John Strom - Achird. Accent: Broad Rural Australian English (New South Wales country). Timbre & Pitch: Steady, earthy, flat mid-baritone; dry, gravelly undertone. Cadence & Tempo: Laid-back, conversational, deliberate; dry rhythmic cadence. Mannerisms: Classic bush enunciation; completely unfazed by danger; practical mechanical insight delivered with laconic calm.
 
 ODENDAAL
-I am Major D. D. Odendaal.
-I speak with the voice of Fenrir
-My South African accented voice is gruff, blunt, and businesslike
+Major D. D. Odendaal ("Tank") - Iapetus. Accent: Deep South African English (heavy Afrikaans phonology). Timbre & Pitch: Heavy, guttural, cavernous bass; rumbling chest vibration. Cadence & Tempo: Slow, solid, relentless; heavy rhythmic tread. Mannerisms: Hard-rolled "r"s; clipped, guttural glottal stops; phlegmatic, fearless presence.
 
 RICHARDS
-I am Flight Lieutenant Richards.
-I speak with the voice of Puck
-My Australian accented voice is sharp, steady, and crisp over the radio
+Flight Lieutenant Richards - Puck. Accent: General Australian English (Sydney urban). Timbre & Pitch: Vibrant, open, mid-register baritone; sharp acoustic cutting edge. Cadence & Tempo: Agile, snappy, high-tempo; alert to incoming radio calls. Mannerisms: Cheerful wartime defiance; rising vocal inflections; punchy combat callouts over radio chatter.
 
 ROGERS
-I am Captain Rogers.
-I speak with the voice of Achird
-My British accented voice is calm, clear, and matter-of-fact over the engine din
+Captain Rogers - Fenrir. Accent: Crisp Anglo-South African English blend. Timbre & Pitch: Taut, raspy baritone; sandpaper friction in the upper register. Cadence & Tempo: Fast, direct, sharp-cornered phrasing; minimal pleasantries. Mannerisms: Focused, utilitarian target reporting; tightly compressed breath control.
 
 WEINGARTZ
-I am Major Weingartz.
-I speak with the voice of Orus
-My American accented voice is firm, calm, and commanding through the earphones
+Major Felix Kruger Weingartz - Orus. Accent: Robust South African English (Pretoria/Transvaal military). Timbre & Pitch: Booming, commanding baritone; brassy chest resonance. Cadence & Tempo: Authoritative, marching pace; emphatic stresses on nautical coordinate bearings. Mannerisms: Booming officer presence; firm, deliberate delivery that instils instant order in formation.
 
 SENIOR
-I am Lieutenant Senior.
-I speak with the voice of Fenrir
-My American accented voice is tense, strained, and clipped, but controlled
+Lieutenant Senior - Achird. Accent: Young South African English (Natal/Durban inflected). Timbre & Pitch: Reedy, youthful, mid-range baritone; slightly breathy under g-force. Cadence & Tempo: Rapid, tense, taut cadence giving way to tight-lipped composure under duress. Mannerisms: Quick swallows; rapid reporting of aircraft instrumentation; courageous steadiness despite freezing water and shock.
 
 LIETZMANN
-I am Vizeadmiral Joachim Lietzmann.
-I speak with the voice of Iapetus
-My German accented voice is dry, aristocratic, and practical
+Vizeadmiral Joachim Lietzmann - Orus. Accent: High-Society Imperial North German (Prussian Kriegsmarine aristocracy). Timbre & Pitch: Cold, steely, resonant baritone; rigid, unyielding acoustic presence. Cadence & Tempo: Formal, metronomic, imperious; slow and icy. Mannerisms: Severe, clipped consonants; aristocratic disdain; precise naval decorum even in the face of inevitable disaster.
 
 TURCATO
-I am Giuseppe Turcato, known as "Marco".
-I speak with the voice of Achird
-My Venetian-Italian accented voice is low, intense, and conspiratorial
+Giuseppe Turcato ("Marco") - Fenrir. Accent: Native Venetian Italian (Lagoon working-class undertones). Timbre & Pitch: Smoky, urgent, weathered baritone; raspy vocal cords from cheap tobacco and clandestine life. Cadence & Tempo: Rapid, hushed, erratic bursts; nervous passionate cadence. Mannerisms: Elongated open Italian vowels; conspiratorial murmurs; dramatic, urgent hand-gesture rhythm audible in vocal stress.
 
 INTELLIGENCE OFFICER
-I am an Allied intelligence officer.
-I speak with the voice of Achird
-My American accented voice is crisp, factual, and briefing-room precise
+Allied Intelligence Officer - Puck. Accent: Transatlantic / East Coast American collegiate. Timbre & Pitch: Crisp, engaging mid-baritone; articulate and bright. Cadence & Tempo: Brisk, analytical, informative. Mannerisms: Pointer-on-map rhythmic delivery; factual and objective; leaning into target coordinates.
 
 SENIOR INTELLIGENCE OFFICER
-I am Foster's Senior Intelligence Officer.
-I speak with the voice of Iapetus
-My British accented voice is measured, deliberate, and unflappable
+Foster's Senior Intelligence Officer - Orus. Accent: Flawless Oxbridge British RP. Timbre & Pitch: Deep, dry, authoritative baritone; quiet acoustic weight. Cadence & Tempo: Stately, precise, clinical; methodical briefing cadence. Mannerisms: Subtle cynicism; clear academic enunciation; presents terrifying operational stakes with unflappable calm.
 
 INTELLIGENCE SERGEANT
-I am an intelligence sergeant.
-I speak with the voice of Puck
-My British accented voice is brisk and eager
+British Intelligence Sergeant - Fenrir. Accent: Northern English (Yorkshire West Riding). Timbre & Pitch: Rough, hearty baritone; coarse, grounded texture. Cadence & Tempo: Steady, unhurried, stubbornly efficient. Mannerisms: Flat, unyielding northern vowels; respectful but immovable military common sense.
 
 INTERPRETATION OFFICER
-I am a photographic interpretation officer.
-I speak with the voice of Achird
-My British accented voice is quiet, absorbed, and muttering
+British Photographic Interpretation Officer - Achird. Accent: Southern English RP (Home Counties intellectual). Timbre & Pitch: Soft, dry baritone; gentle, focused resonance. Cadence & Tempo: Careful, measured, slow; speaks while squinting through a stereoscope. Mannerisms: Quiet, scholarly fascination; precise measurements muttered with contemplative absorption.
 
 INTERPRETER
-I am the photo interpreter at the final assessment.
-I speak with the voice of Iapetus
-My British RP accented voice is measured and level, reading out damage assessments
+British Photo Interpreter - Iapetus. Accent: Academic British English (Midland/Southern blend). Timbre & Pitch: Deep, quiet, contemplative bass; resonant and hushed. Cadence & Tempo: Deliberate, contemplative, reflective. Mannerisms: Lingers over photographic details; methodical pauses as if verifying bomb blast radii.
 
 OPERATIONS OFFICER
-I am an operations officer.
-I speak with the voice of Puck
-My American accented voice is alert, efficient, and businesslike
+American Operations Officer - Orus. Accent: Standard Midwestern General American (Ohio/Illinois). Timbre & Pitch: Full, commanding baritone; clean, punchy projection. Cadence & Tempo: Rapid, efficient, crisp clockwork tempo. Mannerisms: Slate-board and grease-pencil briskness; authoritative, checklist-driven efficiency.
 
 AIR OPERATIONS OFFICER
-I am an air operations staff officer.
-I speak with the voice of Orus
-My British accented voice is formal and careful, with a staff officer's deference
+British Air Operations Staff Officer - Puck. Accent: Public School British RP (RAF staff officer). Timbre & Pitch: Melodic, poised baritone; polished and light. Cadence & Tempo: Swift, orderly, polite; clipped officer tempo. Mannerisms: Effortless administrative efficiency; crisp military phrasing with traditional staff reserve.
 
 ARMAMENT OFFICER
-I am the armament officer.
-I speak with the voice of Achird
-My British accented voice is lecturing, precise, and mathematical
+British Armament Officer - Iapetus. Accent: Lowland Scottish English (Edinburgh technical). Timbre & Pitch: Low, gravel-edged bass; solid, flinty timbre. Cadence & Tempo: Methodical, unhurried, exacting. Mannerisms: Rolled alveolar "r"s; meticulous care over ordnance fuses, delay tails, and bomb-rack tolerances.
 
 ARMORER SERGEANT
-I am the armorer sergeant.
-I speak with the voice of Iapetus
-My Cockney accented voice is gruff, practical, and no-nonsense
+British Armorer Sergeant - Fenrir. Accent: Broad London Cockney. Timbre & Pitch: Gritty, hoarse baritone; thick with machine oil and cold tarmac rasp. Cadence & Tempo: Fast, chattering, rhythmic street cadence. Mannerisms: Dropped "h"s; glottal stops; cheerful, sarcastic working-class pragmatism.
 
 ORDERLY
-I am an orderly.
-I speak with the voice of Iapetus
-My British accented voice is respectful and subdued
+British Orderly - Achird. Accent: West Country English (Somerset/Dorset). Timbre & Pitch: Gentle, reedy mid-baritone; warm and rustic. Cadence & Tempo: Easygoing, soft, slightly drawn out. Mannerisms: Soft rhotic vowels; deferential, obliging, quiet footsteps mirrored in gentle speech.
 
 FITTER
-I am an aircraft fitter.
-I speak with the voice of Fenrir
-My Northern English accented voice is rough, plain-spoken, and weary
+British Aircraft Fitter - Fenrir. Accent: Birmingham / West Midlands industrial. Timbre & Pitch: Heavy, coarse, metallic baritone; raspy vocal edge. Cadence & Tempo: Blunt, rhythmic, utilitarian. Mannerisms: Nasal vowel pull; matter-of-fact complaints about superchargers and engine glycol.
 
 PILOT
-I am a high-altitude reconnaissance pilot.
-I speak with the voice of Fenrir
-My American accented voice is relaxed, wry, and slightly breathless after the run
+American Reconnaissance Pilot - Achird. Accent: High Plains American (Kansas/Nebraska general). Timbre & Pitch: Clear, steady, low-energy baritone; calm under pressure. Cadence & Tempo: Cool, metronomic, relaxed flight-deck cadence. Mannerisms: Monotone high-altitude oxygen mask delivery; laconic, clinical reporting of flak patterns.
 
 PILOT OFFICER
-I am a young pilot officer.
-I speak with the voice of Achird
-My Australian accented voice is nervous, respectful, and earnest
+Australian Pilot Officer - Puck. Accent: Bright, youthful Australian English (Melbourne). Timbre & Pitch: High-spirited, warm tenor-baritone; bright acoustic presence. Cadence & Tempo: Quick, eager, bouncing rhythm. Mannerisms: Enthusiastic rising inflections; boundless youthful nerve; earnest desire to prove himself over the target.
 
 METEOROLOGICAL OFFICER
-I am the meteorological officer.
-I speak with the voice of Fenrir
-My British accented voice is dry, careful, and clinical
+British Meteorological Officer - Achird. Accent: Lowland Scottish / Borders English blend. Timbre & Pitch: Mild, dry, reedy baritone; thin, papery quality. Cadence & Tempo: Ponderous, hesitant, cautious. Mannerisms: Qualifies every forecast; speaks in tentative, scientific probabilities; soft, sibilant phrasing.
 
 DUTY OFFICER
-I am the duty officer.
-I speak with the voice of Iapetus
-My British accented voice is tired, flat, and routine
+British Duty Officer - Puck. Accent: Standard Southern English RP. Timbre & Pitch: Crisp, clear, mid-register baritone; clean room acoustic. Cadence & Tempo: Businesslike, alert, precise. Mannerisms: Snappy telephone etiquette; logbook-ready enunciation.
 
 NAVIGATOR
-I am a B-25 navigator.
-I speak with the voice of Orus
-My American accented voice is tense and crackling through the intercom
+American B-25 Navigator - Fenrir. Accent: New York Metro (Brooklyn / Queens street edge). Timbre & Pitch: Dry, nasal, sharp-edged baritone; cutting through engine drone. Cadence & Tempo: Rapid-fire, staccato, syncopated. Mannerisms: Tight jaw; quick numbers barked into the throat mic; fast mathematical calculations on the fly.
 
 BOMBARDIER
-I am a B-25 bombardier.
-I speak with the voice of Iapetus
-My American accented voice is low, muttering, and fully focused
+American B-25 Bombardier - Achird. Accent: Midwestern American (Iowa farm country). Timbre & Pitch: Calm, steady, flat mid-baritone; completely tranquil. Cadence & Tempo: Deliberate, rhythmic, synchronised to the bombsight drift. Mannerisms: Slow, rhythmic breathing; focused crosshair tunnel vision; cool countdowns.
 
 FOO
-I am a forward observation officer.
-I speak with the voice of Fenrir
-My British accented voice is level, dry, and understated under fire
+British Forward Observation Officer - Orus. Accent: Traditional British Military RP (Royal Artillery). Timbre & Pitch: Sharp, biting, brassy baritone; loud outdoor projection. Cadence & Tempo: Clipped, urgent, barked corrections. Mannerisms: Punchy grid-coordinate enunciation; explosive delivery over radio crackle.
 
 SIGNALLER
-I am a signaller.
-I speak with the voice of Puck
-My British accented voice is young and quick
+British Signaller - Puck. Accent: South Wales Valley English. Timbre & Pitch: Melodic, sing-song tenor-baritone; clear, piercing clarity. Cadence & Tempo: Rapid, lilting, musical transmission tempo. Mannerisms: Rising vowel pitch at sentence end; perfectly rhythmic Morse-like phonetic reading.
 
 INFANTRY OFFICER
-I am an infantry officer.
-I speak with the voice of Orus
-My British accented voice is clipped and weary
+British Infantry Officer - Iapetus. Accent: Estuary / North Kent English. Timbre & Pitch: Exhausted, hollow, deep bass-baritone; mud-and-trench gravel. Cadence & Tempo: Dragging, tired, yet resolute. Mannerisms: Low, gravelly sighs between sentences; hardened combat realism.
 
 BATTERY COMMAND POST
-I am the battery command post, heard over the radio.
-I speak with the voice of Achird
-My British accented voice is flat and compressed by static
+British Battery Command Post - Fenrir. Accent: London / Home Counties Service English (transmitted through AM radio distortion). Timbre & Pitch: Tinny, strained, metallic baritone; compressed radio static. Cadence & Tempo: Staccato, protocol-driven, rapid bursts. Mannerisms: Robotic radio procedure interspersed with visceral background gun thumps.
 
 ARMY OFFICER
-I am a German Army officer.
-I speak with the voice of Fenrir
-My German accented voice is stiff, curt, and formal
+German Army Officer - Iapetus. Accent: High German (Prussian officer standard, Heer). Timbre & Pitch: Heavy, guttural, rigid bass; formal acoustic presence. Cadence & Tempo: Stiff, imperious, marching cadence. Mannerisms: Sharp clicking dental stops; formal bureaucratic military syntax; suppressed panic beneath iron discipline.
 
 NAVAL TRANSPORT OFFICER
-I am the German naval transport officer for the Venice sector.
-I speak with the voice of Orus
-My German accented voice is brisk, confident, and professional
+German Naval Transport Officer - Achird. Accent: North German Coastal (Kiel / Hamburg merchant fleet). Timbre & Pitch: Dry, salt-hardened, reedy baritone; gravelly throat texture. Cadence & Tempo: Fast, harried, utilitarian. Mannerisms: Hard guttural stops; exasperation with supply logistics; constant muttered calculations of barge tonnage.
 
 ARMY LIEUTENANT
-I am a German Army lieutenant at the docks.
-I speak with the voice of Puck
-My German accented voice is cold, anxious, and muttering
+German Army Lieutenant - Puck. Accent: Austrian / Bavarian German (Southern German inflection). Timbre & Pitch: Tense, raspy, mid-range baritone; strained vocal cords. Cadence & Tempo: Frenetic, jerky, shouting over port noise. Mannerisms: Barking rapid commands; sharp intakes of breath; breathless tactical panic.
 
 RADAR OPERATOR
-I am a German radar operator.
-I speak with the voice of Puck
-My German accented voice is tight, clipped, and technical
+German Radar Operator - Achird. Accent: Urban Berlin German. Timbre & Pitch: Monotone, dry, sterile baritone; thin and mechanical. Cadence & Tempo: Metronomic, unbroken, hypnotic rhythm. Mannerisms: Ticking vocal tempo matching scope sweeps; clipped bearings reported without emotional color.
 
 BATTERY COMMANDER
-I am a German battery commander.
-I speak with the voice of Orus
-My German accented voice is harsh, commanding, and barking
+German Battery Commander - Fenrir. Accent: Severe Prussian-German military accent. Timbre & Pitch: Grating, abrasive, throat-straining baritone; harsh barking resonance. Cadence & Tempo: Furious staccato eruptions; explosive consonants. Mannerisms: Shouts through teeth; furious flak-range corrections delivered like physical blows.
 
 BATTERY SERGEANT
-I am a German battery sergeant.
-I speak with the voice of Fenrir
-My German accented voice is rough and gravelly
+German Battery Sergeant - Iapetus. Accent: Saxon / Central German working-class. Timbre & Pitch: Deep, raw, gravel-choked bass; thick smoke rasp. Cadence & Tempo: Heavy, guttural, rhythmic shouting. Mannerisms: Guttural shouts heard over detonation blasts; coarse bellowing to flak loaders.
 
 GUNNER
-I am a German flak gunner.
-I speak with the voice of Achird
-My German accented voice is bored, grumbling, and then panicked
+German Flak Gunner - Fenrir. Accent: Rhineland German (Cologne/Ruhr working class). Timbre & Pitch: High-strained, cracking baritone; hoarse from cordite fumes. Cadence & Tempo: Terrified, breathless staccato. Mannerisms: Frantic, panting vocal delivery; shouts cut short by explosions.
 
 WATCH OFFICER
-I am a German watch officer.
-I speak with the voice of Iapetus
-My German accented voice is flat, alarmed, and official
+German Watch Officer - Puck. Accent: North German Maritime (Bremen/Kiel). Timbre & Pitch: Crisp, ringing, alert baritone; nautical clarity. Cadence & Tempo: Sharp, rapid, vigilant. Mannerisms: Binocular scans mirrored in rapid sweeps of tone; sudden alarm crescendos.
 
 GERMAN SPOTTER
-I am a German spotter.
-I speak with the voice of Fenrir
-My German accented voice is sharp, urgent, and shouting
+German Spotter - Achird. Accent: Southern German / Swabian dialect undertones. Timbre & Pitch: High, tight, breathless tenor-baritone; thin and sharp. Cadence & Tempo: Rapid-fire, erratic, panicked. Mannerisms: Strained pitch spikes on sighting incoming dive-bombers; gasping for air between flight-path calls.
 
 RAILWAYMAN
-I am a Venetian railwayman and resistance informant.
-I speak with the voice of Puck
-My Italian accented voice is low and barely above a whisper
+Venetian Railwayman - Fenrir. Accent: Venetian Italian (harsh, dialectal Northern Italian phrasing). Timbre & Pitch: Low, gravelly, smoke-stained baritone; thick, raspy resonance. Cadence & Tempo: Hushed, intense, hurried street rhythm. Mannerisms: Whispered, conspiratorial urgency; sharp glances around corners reflected in abrupt verbal halts.
 
 RAILWAY WORKER
-I am a railway worker.
-I speak with the voice of Orus
-My Italian accented voice is hushed and tense
+Italian Railway Worker - Achird. Accent: Northern Italian (Veneto regional). Timbre & Pitch: Earthy, warm, reedy mid-baritone; dusty texture. Cadence & Tempo: Melodic, sing-song, nervous cadence. Mannerisms: Expressive, musical vowel elongation; quick sighs of resignation under German occupation.
 
 OLD DOCKER
-I am an old Venetian docker.
-I speak with the voice of Iapetus
-My Venetian-dialect accented voice is clipped, dry, and fatalistic
+Old Venetian Docker - Iapetus. Accent: Deep Lagoon Venetian (thick, traditional Venetian dialect inflection). Timbre & Pitch: Cracked, salt-crusted, rumbling bass; heavy chest vibrato. Cadence & Tempo: Slow, ancient, unhurried; undulating like canal water. Mannerisms: Deep wheezing breaths; cynical, timeless Venetian worldview; phlegmatic shrug audible in delivery.
 
 CAFE PROPRIETOR
-I am a Venetian café proprietor.
-I speak with the voice of Orus
-My Italian accented voice is casual and complacent
+Venetian Café Proprietor - Puck. Accent: Expressive Northern Italian (Cannaregio urban Venetian). Timbre & Pitch: Bright, dramatic, theatrical baritone; warm and emotive. Cadence & Tempo: Fluid, animated, rapid-fire with dramatic pauses. Mannerisms: Audible hand gestures; gossipy, wide-eyed alarm shifting to patriotic glee.
 
 ITALIAN CIVILIAN
-I am an Italian civilian.
-I speak with the voice of Puck
-My Italian accented voice is startled and rising in alarm
+Italian Civilian - Achird. Accent: Standard Northern Italian with Veneto cadence. Timbre & Pitch: Tremulous, dry, high-mid baritone; thin and vulnerable. Cadence & Tempo: Hesitant, cautious, nervous pacing. Mannerisms: Quiet prayers; sudden gasps; hushed awe at aerial destruction.
 
 FOREMAN
-I am a dock foreman.
-I speak with the voice of Fenrir
-My Italian accented voice is loud and gruff, shouting orders
+Italian Dock Foreman - Fenrir. Accent: Rough Venetian working-class Italian. Timbre & Pitch: Bellowing, strained, gravelly baritone; authoritative dockside rasp. Cadence & Tempo: Gruff, driving, syncopated. Mannerisms: Sharp, percussive Italian consonants; attempts to maintain work facade while watching Allied bomb trajectories.
 
 WOMAN
-I am a Venetian woman.
-I speak with the voice of Kore
-My Italian accented voice is quiet, hopeful, and guarded
+Venetian Woman - Leda. Accent: Melodic Venetian Italian English (warm, lilting Venetian accent). Timbre & Pitch: Warm, empathetic, rich alto; expressive, poignant chest resonance. Cadence & Tempo: Fluid, lyrical, emotionally resonant; gentle, undulating cadence. Mannerisms: Breathless religious awe; soft invocations to the Madonna; musical vowel extensions that rise with wonder as the ancient city is spared.
 
 
 
