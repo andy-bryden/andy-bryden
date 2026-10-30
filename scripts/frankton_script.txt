@@ -4,82 +4,82 @@ The Bordeaux raid, 1942
 Frankton cast
 
 NARRATOR
-Narrator - Charon. Accent: Vintage British Received Pronunciation (Cinematic mid-century BBC documentary standard). Timbre & Pitch: Very deep, resonant, commanding bass; rich acoustic reverberation; zero vocal fry. Cadence & Tempo: Measured, stately, dramatic pacing with evocative pauses that cultivate tension. Mannerisms: Classical broadcast gravitas; immaculate enunciation; detached yet profound emotional weight.
+Narrator - Charon. Accent - Vintage British Received Pronunciation (Cinematic mid-century BBC documentary standard). Timbre & Pitch - Very deep, resonant, commanding bass; rich acoustic reverberation; zero vocal fry. Cadence & Tempo - Measured, stately, dramatic pacing with evocative pauses that cultivate tension. Mannerisms - Classical broadcast gravitas; immaculate enunciation; detached yet profound emotional weight.
 
 HASLER
-Major Herbert “Blondie” Hasler - Orus. Accent: Cultured 1940s British Military RP (Educated Southern English Officer). Timbre & Pitch: Low-mid, commanding baritone; dry, steady, quiet resonance. Cadence & Tempo: Deliberate, unflappable, measured; exceptionally calm and rhythmic even under severe peril. Mannerisms: Understated authority; never shouts; speaks with intellectual composure, dry professional confidence, and an iron will.
+Major Herbert “Blondie” Hasler - Orus. Accent - Cultured 1940s British Military RP (Educated Southern English Officer). Timbre & Pitch - Low-mid, commanding baritone; dry, steady, quiet resonance. Cadence & Tempo - Deliberate, unflappable, measured; exceptionally calm and rhythmic even under severe peril. Mannerisms - Understated authority; never shouts; speaks with intellectual composure, dry professional confidence, and an iron will.
 
 LAVER
-Lieutenant John MacLaren “Jack” Laver - Fenrir. Accent: Educated Lowland Scottish (Mid-century Edinburgh/Glaswegian officer cadence). Timbre & Pitch: Husky, textured mid-baritone; gravelly chest undertones. Cadence & Tempo: Methodical, brisk, disciplined, forward-leaning military tempo. Mannerisms: Lightly rolled "r"s; sharp dental stops; resolute, quiet stoicism with a dry, fatalistic edge.
+Lieutenant John MacLaren “Jack” Laver - Fenrir. Accent - Educated Lowland Scottish (Mid-century Edinburgh/Glaswegian officer cadence). Timbre & Pitch - Husky, textured mid-baritone; gravelly chest undertones. Cadence & Tempo - Methodical, brisk, disciplined, forward-leaning military tempo. Mannerisms - Lightly rolled "r"s; sharp dental stops; resolute, quiet stoicism with a dry, fatalistic edge.
 
 SPARKS
-Marine William “Bill” Sparks - Puck. Accent: Authentic 1940s Working-Class London Cockney (Finsbury Park). Timbre & Pitch: Bright, warm, slightly reedy mid-baritone; open, youthful resonance. Cadence & Tempo: Brisk, bouncy, conversational; quick, agile rhythmic recovery. Mannerisms: Dropped "h"s and glottal stops; cheerful gallows humor audible through speech; spirited, resilient working-class camaraderie.
+Marine William “Bill” Sparks - Puck. Accent - Authentic 1940s Working-Class London Cockney (Finsbury Park). Timbre & Pitch - Bright, warm, slightly reedy mid-baritone; open, youthful resonance. Cadence & Tempo - Brisk, bouncy, conversational; quick, agile rhythmic recovery. Mannerisms - Dropped "h"s and glottal stops; cheerful gallows humor audible through speech; spirited, resilient working-class camaraderie.
 
 WALLACE
-Sergeant Samuel Wallace - Iapetus. Accent: Veteran Southern English (Carshalton, Surrey / South London borders). Timbre & Pitch: Deep, raspy, smoke-cured bass-baritone; heavy chest cavity vibration. Cadence & Tempo: Gruff, clipped, rhythmic; traditional British NCO cadence with heavy downbeats. Mannerisms: Punchy consonants; gravelly throat clearing; unwavering military firmness; sounds like an indomitable veteran sergeant.
+Sergeant Samuel Wallace - Iapetus. Accent - Veteran Southern English (Carshalton, Surrey / South London borders). Timbre & Pitch - Deep, raspy, smoke-cured bass-baritone; heavy chest cavity vibration. Cadence & Tempo - Gruff, clipped, rhythmic; traditional British NCO cadence with heavy downbeats. Mannerisms - Punchy consonants; gravelly throat clearing; unwavering military firmness; sounds like an indomitable veteran sergeant.
 
 MACKINNON
-Lieutenant Jack MacKinnon - Puck. Accent: Refined Scottish Highland / Argyll English. Timbre & Pitch: Clear, vibrant, athletic baritone; open, warm resonance. Cadence & Tempo: Lilting, agile, spirited tempo; steady and alert. Mannerisms: Soft Scottish lilt; bright vowel coloring; buoyant officer confidence despite physical exhaustion.
+Lieutenant Jack MacKinnon - Puck. Accent - Refined Scottish Highland / Argyll English. Timbre & Pitch - Clear, vibrant, athletic baritone; open, warm resonance. Cadence & Tempo - Lilting, agile, spirited tempo; steady and alert. Mannerisms - Soft Scottish lilt; bright vowel coloring; buoyant officer confidence despite physical exhaustion.
 
 SHEARD
-Corporal Albert Laver Sheard - Achird. Accent: West Country English (Devonport / Plymouth naval dockyard dialect). Timbre & Pitch: Warm, steady, mid-register baritone; earthy and unvarnished texture. Cadence & Tempo: Unhurried, rolling, rhythmic marine cadence; steady breathing. Mannerisms: Rhotic "r"s; softened fricatives; quiet, grounded Devonshire warmth and stalwart resolve.
+Corporal Albert Laver Sheard - Achird. Accent - West Country English (Devonport / Plymouth naval dockyard dialect). Timbre & Pitch - Warm, steady, mid-register baritone; earthy and unvarnished texture. Cadence & Tempo - Unhurried, rolling, rhythmic marine cadence; steady breathing. Mannerisms - Rhotic "r"s; softened fricatives; quiet, grounded Devonshire warmth and stalwart resolve.
 
 MILLS
-Corporal George “Bill” Mills - Fenrir. Accent: English East Midlands (Kettering / Northamptonshire working-class). Timbre & Pitch: Rough-edged, husky lower-mid baritone; coarse, sandpaper texture. Cadence & Tempo: Measured, flat, determinedly steady; deliberate pauses. Mannerisms: Broad provincial vowels; tight jaw; grounded, fatalistic working-class tenacity.
+Corporal George “Bill” Mills - Fenrir. Accent - English East Midlands (Kettering / Northamptonshire working-class). Timbre & Pitch - Rough-edged, husky lower-mid baritone; coarse, sandpaper texture. Cadence & Tempo - Measured, flat, determinedly steady; deliberate pauses. Mannerisms - Broad provincial vowels; tight jaw; grounded, fatalistic working-class tenacity.
 
 CONWAY
-Marine Robert Conway - Orus. Accent: Industrial North-West English (Lancashire / Stockport cadence). Timbre & Pitch: Powerful, brassy, low-register baritone; robust, ringing projection. Cadence & Tempo: Snappy, direct, no-frills tempo; punchy downbeats. Mannerisms: Short, hard vowels; dark "l"s; straightforward northern grit; resolute defiance under duress.
+Marine Robert Conway - Orus. Accent - Industrial North-West English (Lancashire / Stockport cadence). Timbre & Pitch - Powerful, brassy, low-register baritone; robust, ringing projection. Cadence & Tempo - Snappy, direct, no-frills tempo; punchy downbeats. Mannerisms - Short, hard vowels; dark "l"s; straightforward northern grit; resolute defiance under duress.
 
 ELLERY
-Marine Eric Fisher Ellery - Iapetus. Accent: South Wales Anglo-Welsh (Cardiff / Glamorgan industrial valley dialect). Timbre & Pitch: Deep, melodic, resonant bass; rich, dark vocal timbre. Cadence & Tempo: Melodic, sing-song cadence with steady, soldierly precision. Mannerisms: Upward vocal inflections on clauses; warm rolling consonants; stoic, songful Welsh gravity.
+Marine Eric Fisher Ellery - Iapetus. Accent - South Wales Anglo-Welsh (Cardiff / Glamorgan industrial valley dialect). Timbre & Pitch - Deep, melodic, resonant bass; rich, dark vocal timbre. Cadence & Tempo - Melodic, sing-song cadence with steady, soldierly precision. Mannerisms - Upward vocal inflections on clauses; warm rolling consonants; stoic, songful Welsh gravity.
 
 RAIKES
-Lieutenant Commander Richard Raikes - Achird. Accent: Patrician Royal Navy Received Pronunciation (Britannia Royal Naval College Dartmouth standard). Timbre & Pitch: Crisp, clear, well-modulated mid-baritone; ringing, polished resonance. Cadence & Tempo: Brisk, crisp, naval efficiency; calm and collected nautical pacing. Mannerisms: Impeccably clipped consonants; cool, understated composure of a submarine captain giving orders in close quarters.
+Lieutenant Commander Richard Raikes - Achird. Accent - Patrician Royal Navy Received Pronunciation (Britannia Royal Naval College Dartmouth standard). Timbre & Pitch - Crisp, clear, well-modulated mid-baritone; ringing, polished resonance. Cadence & Tempo - Brisk, crisp, naval efficiency; calm and collected nautical pacing. Mannerisms - Impeccably clipped consonants; cool, understated composure of a submarine captain giving orders in close quarters.
 
 CONTROL ROOM
-Control room aboard HMS Tuna - Fenrir. Accent: North-Eastern British (Tyneside / Geordie working-class naval rating). Timbre & Pitch: Tight, strained, metallic-tinged baritone; claustrophobic acoustic resonance. Cadence & Tempo: Rapid-fire, urgent, metronomic; reporting depths and bearings in short bursts. Mannerisms: Abrupt cut-offs; swallowed word-endings; tense, disciplined breathing beneath diesel hum.
+Control room aboard HMS Tuna - Fenrir. Accent - North-Eastern British (Tyneside / Geordie working-class naval rating). Timbre & Pitch - Tight, strained, metallic-tinged baritone; claustrophobic acoustic resonance. Cadence & Tempo - Rapid-fire, urgent, metronomic; reporting depths and bearings in short bursts. Mannerisms - Abrupt cut-offs; swallowed word-endings; tense, disciplined breathing beneath diesel hum.
 
 CALL PIPE
-Submarine’s tannoy - Charon. Accent: Formal Mid-Century British Naval Broadcast RP. Timbre & Pitch: Booming, tinny, electronically amplified bass; harsh high-pass filter distortion; megaphone resonance. Cadence & Tempo: Flat, formal, staccato; punctuated by sharp pauses and mechanical clicks. Mannerisms: Audible static crackle; booming loudspeaker projection; emotionless public-address delivery.
+Submarine’s tannoy - Charon. Accent - Formal Mid-Century British Naval Broadcast RP. Timbre & Pitch - Booming, tinny, electronically amplified bass; harsh high-pass filter distortion; megaphone resonance. Cadence & Tempo - Flat, formal, staccato; punctuated by sharp pauses and mechanical clicks. Mannerisms - Audible static crackle; booming loudspeaker projection; emotionless public-address delivery.
 
 DE BAISSAC
-Claude de Baissac - Puck. Accent: Cultured Anglo-French (Mauritian francophone blend with elite British RP). Timbre & Pitch: Velvety, smooth, debonair mid-baritone; warm, polished timbre. Cadence & Tempo: Fluid, rapid, elegant tempo; worldly and conversational. Mannerisms: Elongated French vowels; light uvular "r"; effortless aristocratic charm concealing dangerous undercover cunning.
+Claude de Baissac - Puck. Accent - Cultured Anglo-French (Mauritian francophone blend with elite British RP). Timbre & Pitch - Velvety, smooth, debonair mid-baritone; warm, polished timbre. Cadence & Tempo - Fluid, rapid, elegant tempo; worldly and conversational. Mannerisms - Elongated French vowels; light uvular "r"; effortless aristocratic charm concealing dangerous undercover cunning.
 
 LANDES
-Bordeaux dockyard official - Achird. Accent: South-Western French (Bordeaux / Gironde regional French). Timbre & Pitch: Low, cautious, dry baritone; reedy and hushed texture. Cadence & Tempo: Hurried, furtive, uneven cadence; nervous tempo. Mannerisms: Soft nasal vowels; rapid whispered asides; anxious glances audible through voice; conspiratorial caution.
+Bordeaux dockyard official - Achird. Accent - South-Western French (Bordeaux / Gironde regional French). Timbre & Pitch - Low, cautious, dry baritone; reedy and hushed texture. Cadence & Tempo - Hurried, furtive, uneven cadence; nervous tempo. Mannerisms - Soft nasal vowels; rapid whispered asides; anxious glances audible through voice; conspiratorial caution.
 
 YVONNE MANDINAUD
-Yvonne Mandinaud - Vega. Accent: Rural South-Western French (Charente / Ruffec regional accent). Timbre & Pitch: Bright, youthful, breathy soprano; clear, delicate texture. Cadence & Tempo: Quick, nervous, urgent tempo; fluttering rhythm. Mannerisms: Soft French dental consonants; quiet, fearful intakes of breath; deep, earnest warmth and courageous resolve.
+Yvonne Mandinaud - Vega. Accent - Rural South-Western French (Charente / Ruffec regional accent). Timbre & Pitch - Bright, youthful, breathy soprano; clear, delicate texture. Cadence & Tempo - Quick, nervous, urgent tempo; fluttering rhythm. Mannerisms - Soft French dental consonants; quiet, fearful intakes of breath; deep, earnest warmth and courageous resolve.
 
 MARY LINDELL
-Mary Lindell - Polaris. Accent: Imposing Aristocratic British RP with fluent, sharp French phonology. Timbre & Pitch: Deep, commanding, icy mezzo-soprano; flinty and resonant. Cadence & Tempo: Controlled, sharp, imperious pacing; uncompromising pauses. Mannerisms: Razor-sharp enunciation; aristocratic disdain for authority; supreme, iron-willed self-confidence; never flinches.
+Mary Lindell - Polaris. Accent - Imposing Aristocratic British RP with fluent, sharp French phonology. Timbre & Pitch - Deep, commanding, icy mezzo-soprano; flinty and resonant. Cadence & Tempo - Controlled, sharp, imperious pacing; uncompromising pauses. Mannerisms - Razor-sharp enunciation; aristocratic disdain for authority; supreme, iron-willed self-confidence; never flinches.
 
 DUBREUILLE
-Monsieur Dubreuille - Iapetus. Accent: Earthy Provincial French (Poitou-Charentes peasant French dialect). Timbre & Pitch: Deep, rumbling, soil-worn bass; coarse chest resonance. Cadence & Tempo: Slow, deliberate, heavy, cautious farmstead pacing. Mannerisms: Thick guttural "r"s; gruff, monosyllabic brevity; fatherly protective warmth cloaked in quiet paranoia.
+Monsieur Dubreuille - Iapetus. Accent - Earthy Provincial French (Poitou-Charentes peasant French dialect). Timbre & Pitch - Deep, rumbling, soil-worn bass; coarse chest resonance. Cadence & Tempo - Slow, deliberate, heavy, cautious farmstead pacing. Mannerisms - Thick guttural "r"s; gruff, monosyllabic brevity; fatherly protective warmth cloaked in quiet paranoia.
 
 SENIOR GENDARME
-Senior gendarme of the Vichy police - Fenrir. Accent: Formal Metropolitan French (Vichy civil administration standard). Timbre & Pitch: Nasal, grating, cold mid-baritone; tight throat compression. Cadence & Tempo: Sharp, rigid, bureaucratic cadence; clipped, pompous tempo. Mannerisms: Harsh dental "t"s and "d"s; officious self-importance; sneering, authoritarian suspicion.
+Senior gendarme of the Vichy police - Fenrir. Accent - Formal Metropolitan French (Vichy civil administration standard). Timbre & Pitch - Nasal, grating, cold mid-baritone; tight throat compression. Cadence & Tempo - Sharp, rigid, bureaucratic cadence; clipped, pompous tempo. Mannerisms - Harsh dental "t"s and "d"s; officious self-importance; sneering, authoritarian suspicion.
 
 LEAD SMUGGLER
-Lead Pyrenees smuggler - Fenrir. Accent: Franco-Spanish Basque Border French (Pyrenean mountain dialect). Timbre & Pitch: Raspy, weathered, low baritone; sandpaper dryness. Cadence & Tempo: Terse, sparse, hushed pacing; rapid whispered bursts. Mannerisms: Heavy rolled Spanish "r"s; muttered phrasing; watchful silence between few, essential words.
+Lead Pyrenees smuggler - Fenrir. Accent - Franco-Spanish Basque Border French (Pyrenean mountain dialect). Timbre & Pitch - Raspy, weathered, low baritone; sandpaper dryness. Cadence & Tempo - Terse, sparse, hushed pacing; rapid whispered bursts. Mannerisms - Heavy rolled Spanish "r"s; muttered phrasing; watchful silence between few, essential words.
 
 GERMAN OFFICER
-German interrogating officer - Iapetus. Accent: High German (Prussian aristocratic Wehrmacht officer standard). Timbre & Pitch: Deep, guttural, resonant bass; cold, iron-clad timbre. Cadence & Tempo: Slow, methodical, chillingly deliberate; menacing pauses. Mannerisms: Hard, clipped consonants; pristine grammatical English overlaid with guttural German vowels; ruthless formal politeness.
+German interrogating officer - Iapetus. Accent - High German (Prussian aristocratic Wehrmacht officer standard). Timbre & Pitch - Deep, guttural, resonant bass; cold, iron-clad timbre. Cadence & Tempo - Slow, methodical, chillingly deliberate; menacing pauses. Mannerisms - Hard, clipped consonants; pristine grammatical English overlaid with guttural German vowels; ruthless formal politeness.
 
 GERMAN NAVAL OFFICER
-German Naval Officer - Orus. Accent: North German Coastal (Kriegsmarine officer cadence, Kiel/Hamburg standard). Timbre & Pitch: Piercing, authoritative, metallic baritone; barked resonance. Cadence & Tempo: Fast, snappy, militaristic staccato delivery. Mannerisms: Tapped alveolar consonants; sharp, haughty inflection; loud maritime command voice.
+German Naval Officer - Orus. Accent - North German Coastal (Kriegsmarine officer cadence, Kiel/Hamburg standard). Timbre & Pitch - Piercing, authoritative, metallic baritone; barked resonance. Cadence & Tempo - Fast, snappy, militaristic staccato delivery. Mannerisms - Tapped alveolar consonants; sharp, haughty inflection; loud maritime command voice.
 
 SS OFFICER
-SS Officer - Fenrir. Accent: Harsh Standard German (Bavarian / Munich SS-Sturmbannführer dialect). Timbre & Pitch: Gritty, harsh, throat-straining baritone; heavy vocal fry. Cadence & Tempo: Sudden aggressive crescendos, barking staccato bursts. Mannerisms: Heavy guttural rasp; spitting plosive consonants (p, t, k); fanatic, sadistic intensity.
+SS Officer - Fenrir. Accent - Harsh Standard German (Bavarian / Munich SS-Sturmbannführer dialect). Timbre & Pitch - Gritty, harsh, throat-straining baritone; heavy vocal fry. Cadence & Tempo - Sudden aggressive crescendos, barking staccato bursts. Mannerisms - Heavy guttural rasp; spitting plosive consonants (p, t, k); fanatic, sadistic intensity.
 
 SD INTERROGATOR
-Sicherheitsdienst interrogator - Achird. Accent: Clinical Northern German (Berlin SD intelligence bureaucrat). Timbre & Pitch: Flat, sterile, whisper-quiet baritone; devoid of emotion or warmth. Cadence & Tempo: Metronomic, steady, unnervingly calm and unhurried. Mannerisms: Soft-spoken precision; exact dental stops; quiet, intellectual sadism; never raises voice above a murmur.
+Sicherheitsdienst interrogator - Achird. Accent - Clinical Northern German (Berlin SD intelligence bureaucrat). Timbre & Pitch - Flat, sterile, whisper-quiet baritone; devoid of emotion or warmth. Cadence & Tempo - Metronomic, steady, unnervingly calm and unhurried. Mannerisms - Soft-spoken precision; exact dental stops; quiet, intellectual sadism; never raises voice above a murmur.
 
 PAILLE
-Gestapo interrogator named Paille - Puck. Accent: Franco-German Border / Alsatian Collaborator (Harsh French-German hybrid). Timbre & Pitch: Oily, raspy, mid-register baritone; slimy vocal texture. Cadence & Tempo: Unsettling, erratic swings between mock-friendly intimacy and sudden snaps. Mannerisms: Lingering sibilants; wet, sneering chuckle; predatory familiarity designed to break an exhausted prisoner.
+Gestapo interrogator named Paille - Puck. Accent - Franco-German Border / Alsatian Collaborator (Harsh French-German hybrid). Timbre & Pitch - Oily, raspy, mid-register baritone; slimy vocal texture. Cadence & Tempo - Unsettling, erratic swings between mock-friendly intimacy and sudden snaps. Mannerisms - Lingering sibilants; wet, sneering chuckle; predatory familiarity designed to break an exhausted prisoner.
 
 GERMAN SAILOR
-German Sailor - Fenrir. Accent: Low German / Northern Working-Class German (Kriegsmarine seaman). Timbre & Pitch: Raw, coarse, brassy mid-baritone; strained shouting quality. Cadence & Tempo: Rapid, alarmed, staccato bursts. Mannerisms: Shouted guttural warnings; rough maritime slang inflection; sharp, breathless panic.
+German Sailor - Fenrir. Accent - Low German / Northern Working-Class German (Kriegsmarine seaman). Timbre & Pitch - Raw, coarse, brassy mid-baritone; strained shouting quality. Cadence & Tempo - Rapid, alarmed, staccato bursts. Mannerisms - Shouted guttural warnings; rough maritime slang inflection; sharp, breathless panic.
 
 
 
@@ -644,7 +644,7 @@ NARRATOR
 Moored alongside Forth lay HMS Tuna, a Group Two T-class patrol submarine commanded by Lieutenant Commander Richard "Dick" Raikes, RN.
 
 NARRATOR
-Thirteen members of the detachment were manifest for embarkation. Hasler had brought six two-man operational crews and one additional unassigned reserve to cover sickness or injury during the passage south:
+Thirteen members of the detachment were manifest for embarkation. Hasler had brought six two-man operational crews and one additional unassigned reserve to cover sickness or injury during the passage south - 
 
 NARRATOR
 Major Herbert Hasler and Marine Bill Sparks (Catfish)
@@ -689,7 +689,7 @@ NARRATOR
 Raikes met Hasler in the wardroom shortly before midday to confirm sailing orders from Flag Officer Submarines. The transit down the west coast of Ireland and across the Bay of Biscay was planned to take six days, running submerged during the hours of daylight to evade German aerial reconnaissance from western France, and surfacing at night to charge the main batteries.
 
 NARRATOR
-At 14:00, the last lines to HMS Forth were slipped.
+At 1400 hours, the last lines to HMS Forth were slipped.
 
 NARRATOR
 On the casing, the torpedo-loading hatch was swung down, the rubber gasket seated, and the heavy dogs driven home with a steel mallet. Inside the forward compartment, the grey daylight cut out, replaced by the yellow glow of low-wattage bulbs behind wire cages.
@@ -820,7 +820,7 @@ NARRATOR
 The operational plan had designated the night of 6 December for the launch.
 
 NARRATOR
-By 16:00, the forward torpedo compartment was in a state of quiet, focused preparation. The ten marines of the primary crews, along with Ellery and Fisher of the reserve, began dressing in their operational gear.
+By 1600 hours, the forward torpedo compartment was in a state of quiet, focused preparation. The ten marines of the primary crews, along with Ellery and Fisher of the reserve, began dressing in their operational gear.
 
 NARRATOR
 First came the heavy two-piece woollen underwear, followed by khaki flannel shirts, thick jersey pullovers, and dark, hooded camouflage smocks treated with proofing oil. On their feet they wore thick seaboot stockings and black rubber-soled canvas deck shoes, designed to grip wet timber and make no sound on steel deck plating.
@@ -835,7 +835,7 @@ NARRATOR
 The adrenaline had pushed back the nausea and the headache of the foul air. The men were coiled, silent, waiting for the clatter of the torpedo hatch dogs being knocked clear.
 
 NARRATOR
-At 18:30, the call came forward from the control room.
+At 1830 hours, the call came forward from the control room.
 
 CONTROL ROOM
 Major Hasler to the control room, please. Captain's compliments.
@@ -921,7 +921,7 @@ NARRATOR
 If they did not launch on the night of 7 December, the operation would have to be abandoned altogether. Tuna could not remain on the enemy coast indefinitely; her fuel and battery reserves would compel Raikes to turn back for Holy Loch.
 
 NARRATOR
-At 17:00 on the evening of 7 December, the call pipe finally whistled throughout the boat.
+At 1700 hours on the evening of 7 December, the call pipe finally whistled throughout the boat.
 
 CALL PIPE
 Hands to diving stations. Prepare to surface.
@@ -939,10 +939,10 @@ NARRATOR
 Chapter Nine
 The Torpedo Hatch
 HMS Tuna, Surfaced Off Montalivet
-19:45 - 20:45, 7 December 1942
+1945 - 2045 hours, 7 December 1942
 
 NARRATOR
-At 19:40 on 7 December, Tuna reached her designated launch position roughly ten miles off the coast of Montalivet, west of the Gironde estuary.
+At 1940 on 7 December, Tuna reached her designated launch position roughly ten miles off the coast of Montalivet, west of the Gironde estuary.
 
 NARRATOR
 The submarine's main ballast tanks were blown, and the boat surfaced into the darkness. When the conning tower hatch was opened, the Atlantic air swept down through the hull—freezing, damp, and carrying a steady west-north-westerly wind.
@@ -997,7 +997,7 @@ NARRATOR
 On the casing, working on the slippery, curved steel plating in near-total darkness, the marines assembled the craft. They unfolded the canvas sides, slid the wooden cross-stretchers into place, and tightened the brass wing-nuts until the hulls were rigid.
 
 NARRATOR
-The equipment was passed up through the hatch and lashed into the central cargo compartments:
+The equipment was passed up through the hatch and lashed into the central cargo compartments - 
 
 NARRATOR
 Canvas satchels containing the Type A limpet mines.
@@ -1044,7 +1044,7 @@ NARRATOR
 Chapter Ten
 Into the Breakers
 Approaches to the Gironde Estuary
-20:45 - 23:30, 7 December 1942
+2045 - 2330 hours, 7 December 1942
 
 NARRATOR
 Once the hull of HMS Tuna was gone, the five Cockles formed into single line ahead.
@@ -1075,7 +1075,7 @@ NARRATOR
 What posed an immediate threat was the sound.
 
 NARRATOR
-By 22:00, a low, continuous roar began to carry across the water. It was the sound of the Overfalls—the treacherous expanse of breaking standing waves where the outgoing river current collided with the Biscay swell over the shifting sandbars of the Banc des Olives.
+By 2200 hours, a low, continuous roar began to carry across the water. It was the sound of the Overfalls—the treacherous expanse of breaking standing waves where the outgoing river current collided with the Biscay swell over the shifting sandbars of the Banc des Olives.
 
 NARRATOR
 The long ocean swell abruptly collapsed into a confused, violent sea.
@@ -1103,7 +1103,7 @@ NARRATOR
 Maintaining a distance of twenty feet became impossible as the canoes were repeatedly pitched sideways or driven backward by the counter-current. The crews were blinded by driving salt spray that crusted on their eyebrows and sealed their lips with bitter brine.
 
 NARRATOR
-Near 23:00, the turbulence reached its maximum force as the flood tide began to force its way under the outgoing surface ebb.
+Near 2300 hours, the turbulence reached its maximum force as the flood tide began to force its way under the outgoing surface ebb.
 
 NARRATOR
 A heavy, steep breaker struck the column from an angle. Catfish broached slightly, her port gunwale dipping to the water's edge before Hasler righted her with a violent sweep of his paddle.
@@ -1136,7 +1136,7 @@ NARRATOR
 Chapter Eleven
 The Loss of Coalfish
 Estuary Mouth & Pointe de Grave
-23:30, 7 December - 07:00, 8 December 1942
+2330 hours, 7 December - 0700 hours, 8 December 1942
 
 NARRATOR
 In the calmer water past the first line of shoals, Hasler held Catfish into the wind with gentle backwater strokes.
@@ -1226,7 +1226,7 @@ NARRATOR
 Chapter Twelve
 The Severed Line
 Off Le Verdon, The Gironde Entrance
-00:15 - 01:45, 8 December 1942
+0030 - 0145 hours, 8 December 1942
 
 NARRATOR
 The estuary narrowed past the Pointe de Grave into the roadstead of Le Verdon.
@@ -1343,7 +1343,7 @@ NARRATOR
 Chapter Thirteen
 Swim for Shore
 Shallows off Pointe de Grave
-02:00 - 02:45, 8 December 1942
+0200 - 0245 hours, 8 December 1942
 
 NARRATOR
 The sound of breakers on sand carried through the darkness from the west.
@@ -1461,7 +1461,7 @@ NARRATOR
 Hasler looked ahead into the main channel. Miles ahead, somewhere in the dark, Corporal Laver and Marine Mills in Crayfish were either already dead or paddling alone toward the German fleet anchorage at Le Verdon.
 
 NARRATOR
-Hasler checked his watch. It was 02:45. The flood tide had less than three hours to run before the slack water turned against them.
+Hasler checked his watch. It was 0245 hours. The flood tide had less than three hours to run before the slack water turned against them.
 
 HASLER
 (to the back of Sparks's head)
@@ -1477,7 +1477,7 @@ NARRATOR
 Chapter Fourteen
 Running the Gauntlet
 Le Verdon Roadstead
-03:00 - 06:00, 8 December 1942
+0300 - 0600 hours, 8 December 1942
 
 NARRATOR
 Catfish moved south through the darkness, hugging the outer fringe of the main channel.
@@ -1577,7 +1577,7 @@ NARRATOR
 The light illuminated the water four hundred yards ahead of them, turning the grey chop into glittering shards of glass, but the low, matte-grey profile of the canvas craft escaped the beam.
 
 NARRATOR
-By 05:30, the sky in the east began to bleed from absolute black into a faint, sickly slate-grey.
+By 0530 hours, the sky in the east began to bleed from absolute black into a faint, sickly slate-grey.
 
 NARRATOR
 The physical landscape of the river was changing. The steep coastal dunes of the Pointe de Grave had fallen behind, replaced on the western bank by the desolate, muddy flats of the Médoc peninsula.
@@ -1605,7 +1605,7 @@ NARRATOR
 Chapter Fifteen
 The Mud of Saint-Vivien
 Mudflats of Saint-Vivien-de-Médoc
-06:30 - 17:30, 8 December 1942
+0630 - 1730 hours, 8 December 1942
 
 NARRATOR
 The water shoaled with treacherous speed.
@@ -1649,7 +1649,7 @@ NARRATOR
 They unlashed the coarse scrim camouflage nets from the cargo wells. Working swiftly with numbed, clumsy fingers, they draped the netting over the two hulls, pegging the corners into the mud with wire skewers. Laver and Mills gathered armfuls of dead marsh reeds and sea-grass, threading the stalks through the mesh until the rigid, angular geometry of the Cockles dissolved into the natural contour of the bank.
 
 NARRATOR
-By 07:15, the work was finished.
+By 0715 hours, the work was finished.
 
 NARRATOR
 The four commandos crawled beneath the netting, sliding into the narrow gaps between the canvas hulls and the muddy ground.
@@ -1673,7 +1673,7 @@ NARRATOR
 When their bladders filled, they urinated directly into their clothing, welcoming the brief, fleeting flush of warmth before the liquid cooled to the freezing temperature of the mud around them.
 
 NARRATOR
-At 11:00, the river came alive.
+At 1100 hours, the river came alive.
 
 NARRATOR
 From beneath the scrim, Sparks peered out through a gap in the dead grass. Two German armed trawlers—Vorpostenboote—steamed down the main channel, their diesel exhausts thudding heavily against the cold air. They were barely four hundred yards out.
@@ -1700,7 +1700,7 @@ NARRATOR
 Hasler checked his compass and tide tables by the dull glow of his pocket torch beneath his coat.
 
 NARRATOR
-The high-water slack would occur near 21:00. The flood tide would begin making inward shortly before that, giving them six hours of incoming current to carry them twenty miles deeper into the estuary, past the islands of the central reach.
+The high-water slack would occur near 2100 hours. The flood tide would begin making inward shortly before that, giving them six hours of incoming current to carry them twenty miles deeper into the estuary, past the islands of the central reach.
 
 LAVER
 (whispering across the grass, shifting slightly under the net, his joints cracking in the cold)
@@ -1742,7 +1742,7 @@ NARRATOR
 The interrogation was conducted by Kriegsmarine intelligence officers attached to the staff of Admiral Julius Bachmann.
 
 NARRATOR
-Wallace was marched into the office first. The Scottish regular sergeant stood at attention before the desk, his jaw set, his boots leaving dark, wet rings on the parquet floor. A German naval commander, flanked by an interpreter and two armed sailors of the Kriegsmarine, studied the inventory of equipment recovered from the two men:
+Wallace was marched into the office first. The Scottish regular sergeant stood at attention before the desk, his jaw set, his boots leaving dark, wet rings on the parquet floor. A German naval commander, flanked by an interpreter and two armed sailors of the Kriegsmarine, studied the inventory of equipment recovered from the two men - 
 
 NARRATOR
 Two vulcanite compasses.
@@ -1833,13 +1833,13 @@ NARRATOR
 Orders were dispatched to intensify patrols along the estuary banks, but the Kriegsmarine assumed that if a small boat had capsized in the Overfalls, any others would have met the same fate in the surf.
 
 NARRATOR
-At 18:00, the bureaucratic reality of the Third Reich descended on Bordeaux.
+At 1800 hours, the bureaucratic reality of the Third Reich descended on Bordeaux.
 
 NARRATOR
 A classified teleprint from Paris arrived at Admiral Bachmann's headquarters, referencing an order issued directly by Adolf Hitler on 18 October 1942 - the Kommandobefehl—the Commando Order.
 
 NARRATOR
-The directive was absolute:
+The directive was absolute - 
 
 NARRATOR
 "All terror and sabotage troops of the British and their accomplices who do not act like lawful soldiers, but rather like bandits, will be ruthlessly eliminated in battle or in flight by the German troops. Even if these individuals should appear to be in uniform... they are to be handed over to the SD immediately. In no circumstances may they be granted prisoner-of-war status."
@@ -1869,7 +1869,7 @@ NARRATOR
 Chapter Seventeen
 The Tidal Bore
 The Gironde Estuary
-21:00, 8 December - 06:00, 9 December 1942
+2100 hours, 8 December - 0600 hours, 9 December 1942
 
 NARRATOR
 The retreat from Saint-Vivien was an ordeal of brute friction.
@@ -1954,7 +1954,7 @@ SPARKS
 Aye, sir.
 
 NARRATOR
-By 05:00, the flood began to lose its force. The water flattened, the velocity dropping as the tide reached the high-water slack.
+By 0500 hours, the flood began to lose its force. The water flattened, the velocity dropping as the tide reached the high-water slack.
 
 NARRATOR
 In six hours of continuous, punishing paddling, the two canoes had covered twenty-two nautical miles, driving deep into the central reach of the estuary.
@@ -2125,7 +2125,7 @@ HASLER
 We attempt the final run tonight. If the flood carries us into the harbour before midnight, we mine the targets and use the ebb to reach the scuttling point before first light.
 
 NARRATOR
-At 21:00 on the night of 10 December, they launched from Île Cazeau into the black water.
+At 2100 hours on the night of 10 December, they launched from Île Cazeau into the black water.
 
 NARRATOR
 The river fought them from the first stroke.
@@ -2137,7 +2137,7 @@ NARRATOR
 For six hours, the four men drove their blades into the current, their shoulders screaming, their hearts hammering against their ribs. Sparks forced his bleeding hands around the ash loom, fighting the dizziness of extreme sleep deprivation.
 
 NARRATOR
-By 03:00 on the morning of 11 December, Hasler checked the shoreline landmarks through his monocular.
+By 0300 hours on the morning of 11 December, Hasler checked the shoreline landmarks through his monocular.
 
 NARRATOR
 They had made barely nine miles.
@@ -2202,7 +2202,7 @@ LAVER
 Understood, sir.
 
 NARRATOR
-At 21:00, the river began to rise.
+At 2100 hours, the river began to rise.
 
 NARRATOR
 The southward flow of the Garonne slackened, checked by the incoming ocean flood pushing up from the Gironde. The muddy ditch where the canoes lay began to fill with cold, grey water.
@@ -2240,10 +2240,10 @@ NARRATOR
 Chapter Twenty
 Blanquefort - The Midnight Volley
 Pine Woods North of Bordeaux
-23:00 - 23:45, 11 December 1942
+2300 - 2345 hours, 11 December 1942
 
 NARRATOR
-The iron bolt on the basement cell door in the German naval compound in Bordeaux was drawn back at 22:30.
+The iron bolt on the basement cell door in the German naval compound in Bordeaux was drawn back at 2230 hours.
 
 NARRATOR
 Sergeant Samuel Wallace stood up from the wooden plank bed. The light from a kerosene lantern held by a German petty officer spilled into the cell, glinting off the bayonets of two armed sailors of the Kriegsmarine.
@@ -2353,7 +2353,7 @@ NARRATOR
 Twelve miles to the north, across the frozen marshes of the Garonne, the echo of the volley was swallowed entirely by the winter mist.
 
 NARRATOR
-In a muddy hollow behind the dykes at Bec d'Ambès, Major Hasler checked the luminous dial of his compass. It was 23:45.
+In a muddy hollow behind the dykes at Bec d'Ambès, Major Hasler checked the luminous dial of his compass. It was 2345 hours.
 
 NARRATOR
 The flood tide was making. The time had come to launch.
@@ -2368,7 +2368,7 @@ Western Bank of the Garonne, near Blanquefort
 Dusk, 11 December 1942
 
 NARRATOR
-The winter twilight faded over the Garonne by 17:30, burying the river under a bank of cold, low-hanging river mist.
+The winter twilight faded over the Garonne by 1730 hours, burying the river under a bank of cold, low-hanging river mist.
 
 NARRATOR
 Beneath the frozen scrim netting on the mudbank, the four men began to stir. They had spent over eleven hours pressed flat into the cold clay, listening to the muffled, metallic sounds of the port drifting down from the south - the shunting of freight cars, the distant hiss of dockyard boilers, and the hollow chime of a navigation bell.
@@ -2415,7 +2415,7 @@ LAVER
 What time do we set the break, sir?
 
 HASLER
-As each mine is clamped to the plate. Not before. If a mine slips from the placer and sinks before the magnet takes hold, it must not explode on the riverbed until morning. We aim to place between 23:00 and 01:00. That gives detonation between 08:00 and 10:00 tomorrow morning.
+As each mine is clamped to the plate. Not before. If a mine slips from the placer and sinks before the magnet takes hold, it must not explode on the riverbed until morning. We aim to place between 2300 and 0100 hours. That gives detonation between 0800 and 1000 hours tomorrow morning.
 
 NARRATOR
 Hasler reviewed the division of sectors, scratching the layout of the river in the mud with a dried reed.
@@ -2450,7 +2450,7 @@ LAVER
 Understood, sir.
 
 NARRATOR
-At 21:00, the river began to rise.
+At 2100 hours, the river began to rise.
 
 NARRATOR
 The southward flow of the Garonne slackened, checked by the incoming ocean flood pushing up from the Gironde. The muddy ditch where the canoes lay began to fill with cold, grey water.
@@ -2488,10 +2488,10 @@ NARRATOR
 Chapter Twenty-Two
 The Empty Quays
 Bordeaux Eastern Shore to the Bassens Wharves
-22:45, 11 December - 01:15, 12 December 1942
+2245 hours, 11 December - 0115 hours, 12 December 1942
 
 NARRATOR
-At 22:45, where the Garonne began its wide sweep into the crescent of Bordeaux, the two canoes parted.
+At 2245 hours, where the Garonne began its wide sweep into the crescent of Bordeaux, the two canoes parted.
 
 NARRATOR
 Hasler signaled with a raised paddle blade. Catfish held to the western channel, slipping toward the dark silhouette of the cranes lining the Quai de Bacalan.
@@ -2545,7 +2545,7 @@ NARRATOR
 They paddled downriver with hard, deep strokes. The silence of the night was broken only by the faint hum of power stations and the rhythmic clatter of distant railway points.
 
 NARRATOR
-At 23:50, the industrial piers of Bassens loomed out of the mist on the eastern bank.
+At 2350, the industrial piers of Bassens loomed out of the mist on the eastern bank.
 
 NARRATOR
 Here, the water was deep. Concrete jetties extended into the channel, equipped with heavy portal cranes running on steel tracks. Moored against the commercial wharves were the large ocean freighters that had run the Atlantic blockade from Asia.
@@ -2609,7 +2609,7 @@ NARRATOR
 Working in the shadow of the ship's anchor chain, where the current formed a quiet eddy beneath the bow, Mills clamped their final three limpet mines against the hull plating, crushing the acid ampoules with steady, mechanical pressure.
 
 NARRATOR
-The last charge was set at 01:10.
+The last charge was set at 0110.
 
 NARRATOR
 All eight of Crayfish's limpet mines were expended. The cargo well between Mills's knees was bare.
@@ -2640,7 +2640,7 @@ NARRATOR
 Chapter Twenty-Three
 Under the Hull of Tannenfels
 Western Quays, Port of Bordeaux
-00:15 - 02:15, 12 December 1942
+0030 - 0215 hours, 12 December 1942
 
 NARRATOR
 Catfish glided into the crescent of the western docks under cover of the river mist.
@@ -2742,7 +2742,7 @@ NARRATOR
 Moored in line lay three more Axis merchantmen - the German cargo vessel Dresden, the Portland, and the French freighter Alabama, operating under German charter.
 
 NARRATOR
-The routine became purely mechanical, stripped of fear, driven by the urgency of the turning tide:
+The routine became purely mechanical, stripped of fear, driven by the urgency of the turning tide - 
 
 NARRATOR
 Two limpets were lowered six feet below the waterline and clamped to the engine room plating of Dresden.
@@ -2750,7 +2750,7 @@ Two limpets were placed beneath the cargo holds of Alabama.
 The final limpet was clamped against the starboard bilge of Portland.
 
 NARRATOR
-By 02:10, the eighth and final limpet was secure.
+By 0210, the eighth and final limpet was secure.
 
 NARRATOR
 Hasler uncoupled the jointed ash placing stick, unscrewed the brass joints, and stowed the three wooden sections beneath the central deck apron.
@@ -2781,7 +2781,7 @@ NARRATOR
 Chapter Twenty-Four
 The Mid-River Meeting
 The Garonne to Île Cazeau
-02:15 - 05:45, 12 December 1942
+0230 - 0545 hours, 12 December 1942
 
 NARRATOR
 The Garonne turned with the full weight of the winter ebb.
@@ -2793,7 +2793,7 @@ NARRATOR
 Hasler and Sparks did not ease their pace. Combined with the outward rush of the river, their strokes drove the canoe over the ground at nearly seven knots.
 
 NARRATOR
-Behind them, clamped to the bilge keels and engine plates of four ships across the western docks, eight chemical delay pencils were eating their copper retaining wires. Detonation was timed for roughly 08:30 to 09:30.
+Behind them, clamped to the bilge keels and engine plates of four ships across the western docks, eight chemical delay pencils were eating their copper retaining wires. Detonation was timed for roughly 0830 to 0930 hours.
 
 NARRATOR
 If they were still on the water when the hulls blew, sixty miles of the Gironde would be sealed by German coastal batteries, motor launches, and air patrols.
@@ -2813,16 +2813,16 @@ SPARKS
 Aye, sir.
 
 NARRATOR
-At 03:00, they swept past the Bassens wharves on the eastern bank. The commercial piers were dark, their portal cranes standing motionless against the grey cloud base. Catfish raced past in the deep-water channel, Hasler scanning the water for any sign of Crayfish. The river was empty.
+At 0300 hours, they swept past the Bassens wharves on the eastern bank. The commercial piers were dark, their portal cranes standing motionless against the grey cloud base. Catfish raced past in the deep-water channel, Hasler scanning the water for any sign of Crayfish. The river was empty.
 
 NARRATOR
-By 03:45, the river widened as they cleared the Bec d'Ambès, where the Dordogne and Garonne merged to reform the Gironde.
+By 0345 hours, the river widened as they cleared the Bec d'Ambès, where the Dordogne and Garonne merged to reform the Gironde.
 
 NARRATOR
 Here, the collision of the two river discharges generated a violent, churning cross-swell. Eddies caught the lightweight canoe, throwing her violently off trim. Sparks buried his blades deep into the foam, fighting the counter-currents to keep the bow from broaching.
 
 NARRATOR
-Half an hour later, near 04:15, Catfish entered the eastern channel opposite the long, dark landmass of Île Cazeau.
+Half an hour later, near 0415 hours, Catfish entered the eastern channel opposite the long, dark landmass of Île Cazeau.
 
 NARRATOR
 Through the fog forty yards ahead, a low, black shape detached itself from the shadow of the island's willow beds. It was moving north with the ebb, sitting barely six inches above the surface.
@@ -2872,7 +2872,7 @@ NARRATOR
 The physical punishment was unrelenting. The temperature hovered near minus two degrees Celsius, freezing the spray on their aprons and coating their woollen mittens in a brittle crust of ice. They paddled in absolute silence, running parallel to the eastern mudbanks, watching the dark limestone cliffs of Blaye slowly take shape against the northern horizon.
 
 NARRATOR
-By 05:45, the Citadel of Blaye loomed two miles ahead on the eastern shore.
+By 0545 hours, the Citadel of Blaye loomed two miles ahead on the eastern shore.
 
 NARRATOR
 The eastern sky was beginning to thin, the heavy black fading into the slate-grey of an approaching winter morning. The ebb tide was dying, smoothing out into the treacherous slack water that preceded the turn of the river.
@@ -2901,13 +2901,13 @@ NARRATOR
 Chapter Twenty-Five
 The Scuttling at Saint-Genès
 Eastern Shore of the Gironde, Saint-Genès-de-Blaye
-06:00 - 07:45, 12 December 1942
+0600 - 0745 hours, 12 December 1942
 
 NARRATOR
 The eastern bank of the Gironde emerged from the morning mist as a bleak expanse of grey tidal mud, backed by drainage dykes and tangled osier beds.
 
 NARRATOR
-At 06:00, four hundred yards south of Laver's landing position, Catfish's bow slid into the soft silt of a drainage creek near Saint-Genès-de-Blaye.
+At 0600 hours, four hundred yards south of Laver's landing position, Catfish's bow slid into the soft silt of a drainage creek near Saint-Genès-de-Blaye.
 
 NARRATOR
 Sparks cleared his spray apron and rolled over the gunwale into the freezing ooze. The mud took him to mid-calf. The vacuum gripped his shoes, but there was no time to register the pain in his raw, blistered feet. The eastern horizon was turning from charcoal to pale slate; in less than an hour, the low winter sun would expose the open mudflats.
@@ -3005,7 +3005,7 @@ NARRATOR
 Hasler watched them until their dark figures dissolved into the morning mist.
 
 NARRATOR
-It was 07:45.
+It was 0745 hours.
 
 NARRATOR
 Hasler turned to Sparks, checking his compass on a bearing of zero-four-five degrees.
@@ -3026,10 +3026,10 @@ NARRATOR
 Chapter Twenty-Six
 Thunder on the Garonne
 Bordeaux Harbour and the Bassens Wharves
-07:00 - 11:30, 12 December 1942
+0700 - 1130 hours, 12 December 1942
 
 NARRATOR
-The first detonation came from Bassens at 07:05, just as the winter dawn was lifting the river mist off the Gironde.
+The first detonation came from Bassens at 0705, just as the winter dawn was lifting the river mist off the Gironde.
 
 NARRATOR
 Aboard the commercial wharves five miles downriver from the city centre, French stevedores and German naval guards were stamping their feet on the frosted concrete of Berth 4, waiting for the morning cargo shifts to muster. Out in the deep-water berth, the requisitioned passenger-cargo liner rocked violently on her mooring lines.
@@ -3050,13 +3050,13 @@ NARRATOR
 Before the port guard could sound the general alarm, the second and third charges on the vessel detonated in rapid succession—one under the shaft tunnel, the other against the turn of the bilge. The ship groaned, her mooring cables straining against the bollards with high-pitched metallic shrieks as she listed sharply to starboard, taking on river water until her lower scuppers dipped beneath the grey flow.
 
 NARRATOR
-At 07:40, the strike shifted to the heavy blockade runners moored at the Bassens north piers.
+At 0740, the strike shifted to the heavy blockade runners moored at the Bassens north piers.
 
 NARRATOR
 Under the hull of the large cargo freighter Tacoma, the limpets clamped by Mills hours earlier broke through their retaining wires. Three distinct concussions shook the basin within ten minutes. Plating ruptured beneath the engine room flats; secondary steam lines fractured with deafening roars inside the machinery spaces, filling the lower decks with scalding steam. The ship began to settle slowly by the stern, driving her keel into the deep silt of the riverbed.
 
 NARRATOR
-At 08:15, the destruction reached the central western docks of Bordeaux.
+At 0815 hours, the destruction reached the central western docks of Bordeaux.
 
 NARRATOR
 Along the Quai de Bacalan and the Quai des Chartrons, the heart of the Axis blockade-running apparatus sat lined up in the shadow of the city. German naval personnel were already running along the cobblestones, alerted by telephone calls from Bassens, when the first charge detonated against the flank of SS Tannenfels.
@@ -3077,7 +3077,7 @@ NARRATOR
 On Dresden, a limpet placed directly adjacent to the propeller shaft blew an inward fracture that immediately drowned the shaft alley and flooded the lower engine spaces, immobilising the vessel indefinitely.
 
 NARRATOR
-By 09:00, six Axis ships across both shores of the Garonne were holed and listing in the mud, their bilges filling with freezing river water.
+By 0900 hours, six Axis ships across both shores of the Garonne were holed and listing in the mud, their bilges filling with freezing river water.
 
 NARRATOR
 The port descended into total administrative pandemonium.
@@ -3149,7 +3149,7 @@ NARRATOR
 Claude de Baissac was at his shaving mirror when the windowpanes rattled violently in their lead casings. The Mauritian-born SOE agent froze, the straight razor poised against his jaw. Seconds later, a second, deeper tremor resonated through the floor joists—a heavy hydraulic shudder that could only come from underwater high explosive detonating in the river.
 
 NARRATOR
-By 07:30, de Baissac was in the street.
+By 0730 hours, de Baissac was in the street.
 
 NARRATOR
 The winter air tasted of river damp and burning coal. Moving with the measured, anonymous posture he had drilled into his operatives, his felt hat pulled low against the freezing drizzle, he walked north toward the Quai des Chartrons.
@@ -3682,7 +3682,7 @@ NARRATOR
 At Avenue Foch, the interrogators were officers of Section IV E (Counter-Sabotage), operating under SS-Sturmbannführer Karl Kieffer.
 
 NARRATOR
-The SD officers knew the men were Royal Marines. The red-on-navy shoulder titles taken at Montlieu and La Réole were sitting in the case files on Kieffer's desk. But the SD was not interested in routine military order of battle; they were interrogating the four commandos to extract three specific pieces of intelligence:
+The SD officers knew the men were Royal Marines. The red-on-navy shoulder titles taken at Montlieu and La Réole were sitting in the case files on Kieffer's desk. But the SD was not interested in routine military order of battle; they were interrogating the four commandos to extract three specific pieces of intelligence - 
 
 NARRATOR
 The exact method of insertion (the identity and operating base of the submarine).
@@ -3706,7 +3706,7 @@ SD INTERROGATOR
 If you cooperate—if you detail the location of the base where you trained, the name of the naval vessel that brought you to the Gironde, and the names of the French nationals who gave you assistance—we will recommend your reclassification as an ordinary military prisoner.
 
 NARRATOR
-Laver stood squarely before the desk, his hands bound. His response did not deviate from the doctrine Hasler had drummed into them on the Solent:
+Laver stood squarely before the desk, his hands bound. His response did not deviate from the doctrine Hasler had drummed into them on the Solent - 
 
 LAVER
 Laver, Albert. Corporal. Royal Marines. Service number CH/X 2788.
@@ -3784,7 +3784,7 @@ NARRATOR
 Under the provisions of the 1929 Geneva Convention, condemned prisoners of war were entitled to spiritual counsel from a chaplain, the right to write a final letter to their next of kin, and formal notification to the International Red Cross.
 
 NARRATOR
-Under Adolf Hitler's Kommandobefehl, all legal status had been erased. The order was designed to leave no administrative footprint:
+Under Adolf Hitler's Kommandobefehl, all legal status had been erased. The order was designed to leave no administrative footprint - 
 
 NARRATOR
 "The commandos are to be ruthlessly eliminated... no notices of their capture or execution are to be issued, and no information is to be provided to the Red Cross."
@@ -3835,7 +3835,7 @@ NARRATOR
 The arithmetic of Operation Frankton was now complete.
 
 NARRATOR
-Of the twelve men who had reported to Holy Loch:
+Of the twelve men who had reported to Holy Loch - 
 
 NARRATOR
 Three had never left the submarine - Marines Ellery, Fisher, and Colley.
@@ -3906,7 +3906,7 @@ LEAD SMUGGLER
 Pas de bruit. The frontier police have dogs. You fall behind, we do not wait.
 
 NARRATOR
-The ascent began at 21:00 on 14 February.
+The ascent began at 2100 hours on 14 February.
 
 NARRATOR
 The trek was a brutal, vertical march through deep snow. To avoid the German mountain patrols (Gebirgsjäger) and French border guards who watched the valleys, the route crossed the crest of the Pyrenees at elevations exceeding six thousand feet.
@@ -3997,7 +3997,7 @@ NARRATOR
 Lord Louis Mountbatten had received Hasler with genuine admiration. To the Chief of Combined Operations, Frankton was the proof of concept he had sought - a handful of determined men, striking with minimal equipment across vast distances into an impenetrable Axis fortress, disrupting enemy shipping and showcasing British offensive audacity.
 
 NARRATOR
-Mountbatten formally entered his judgment into the detachment's permanent record:
+Mountbatten formally entered his judgment into the detachment's permanent record - 
 
 NARRATOR
 "Of the many brave and dashing raids carried out by the men of Combined Operations, none was more courageous or was more fruitful of results than Operation Frankton."
@@ -4012,7 +4012,7 @@ NARRATOR
 Yet as Hasler read through his own typescript, the real ledger of the mission remained stark and uncompromising.
 
 NARRATOR
-The strategic dividend had already been weighed by the Ministry of Economic Warfare:
+The strategic dividend had already been weighed by the Ministry of Economic Warfare - 
 
 NARRATOR
 Four Axis cargo ships—Tannenfels, Dresden, Alabama, and Portland—along with the naval escort tanker Tacoma, had sustained blast damage. Thousands of tons of crude rubber had been water-damaged, and the movement of strategic minerals had been halted for several weeks while the Kriegsmarine cleared the basins and surveyed the hulls.
