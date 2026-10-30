@@ -401,7 +401,13 @@
  </header>
 
 <div class="playlist">
- <audio controls preload="none" src="audio/gideon.mp3"></audio>
+ <audio controls preload="none" src="audio/gideon_01.mp3"></audio>
+ <select class="track-select" aria-label="Choose track">
+ <option value="audio/gideon_01.mp3">Part 1</option>
+ <option value="audio/gideon_02.mp3">Part 2</option>
+ <option value="audio/gideon_03.mp3">Part 3</option>
+ <option value="audio/gideon_04.mp3">Part 4</option>
+ </select>
 </div>
 
 <br id="toc"/>
@@ -2419,6 +2425,25 @@ PRIME MINISTER'S PERSONAL MINUTE TO WAR OFFICE AND COMMANDER-IN-CHIEF MIDDLE EAS
  </section>
 
 </div>
+<script>
+ document.querySelectorAll('.playlist').forEach(pl => {
+ const audio = pl.querySelector('audio');
+ const select = pl.querySelector('select');
+
+ select.addEventListener('change', () => {
+ audio.src = select.value;
+ audio.play();
+ });
+
+ audio.addEventListener('ended', () => {
+ if (select.selectedIndex < select.options.length - 1) {
+ select.selectedIndex++;
+ audio.src = select.value;
+ audio.play();
+ }
+ });
+ });
+</script>
 <script src="universal-header.js"></script>
 <script src="universal-footer.js"></script>
 </body>
