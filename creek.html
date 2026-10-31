@@ -391,9 +391,13 @@
  <img alt="Creek" src="images/creek.jpg" style="display:block; margin:0 auto 20px auto; max-width:100%; height:auto; border-radius: 4px;"/>
  </header>
 
-<div class="playlist" data-label="Part" hidden>
- <audio controls preload="none"></audio>
- <select class="track-select" aria-label="Choose track"></select>
+<div class="playlist">
+ <audio controls preload="none" src="audio/creek_01.mp3"></audio>
+ <select class="track-select" aria-label="Choose track">
+ <option value="audio/creek_01.mp3">Part 1</option>
+ <option value="audio/creek_02.mp3">Part 2</option>
+ <option value="audio/creek_03.mp3">Part 3</option>
+ </select>
 </div>
 
 <br id="toc"/>
@@ -2503,48 +2507,22 @@
 
 </div>
 <script>
- document.querySelectorAll('.playlist').forEach(async pl => {
+ document.querySelectorAll('.playlist').forEach(pl => {
  const audio = pl.querySelector('audio');
- const select = pl.querySelector('.track-select');
- const label = pl.dataset.label || 'Part';
- const book = pl.dataset.book || location.pathname.split('/').pop().replace(/\.html?$/i, '');
- const BATCH = 10;
- const tracks = [];
- let i = 0;
+ const select = pl.querySelector('select');
 
- const url = n => `audio/${book}/${book}_${String(n).padStart(2, '0')}.mp3`;
- const exists = async u => {
- try { return (await fetch(u, { method: 'HEAD' })).ok; }
- catch { return false; }
- };
-
- const load = (n, play) => {
- i = n;
- audio.src = tracks[i];
- select.value = i;
- if (play) audio.play();
- };
-
- select.addEventListener('change', () => load(+select.value, true));
- audio.addEventListener('ended', () => {
- if (i < tracks.length - 1) load(i + 1, true);
+ select.addEventListener('change', () => {
+ audio.src = select.value;
+ audio.play();
  });
 
- for (let start = 1; start <= 99; start += BATCH) {
- const nums = Array.from({ length: BATCH }, (_, k) => start + k).filter(n => n <= 99);
- const results = await Promise.all(nums.map(n => exists(url(n))));
- const gap = results.indexOf(false);
- const count = gap === -1 ? nums.length : gap;
-
- for (let k = 0; k < count; k++) {
- tracks.push(url(nums[k]));
- select.add(new Option(`${label} ${nums[k]}`, nums[k] - 1));
+ audio.addEventListener('ended', () => {
+ if (select.selectedIndex < select.options.length - 1) {
+ select.selectedIndex++;
+ audio.src = select.value;
+ audio.play();
  }
- if (tracks.length && pl.hidden) { load(0, false); pl.hidden = false; }
- if (gap !== -1) break;
- }
-
- if (tracks.length === 1) select.style.display = 'none';
+ });
  });
 </script>
 <script src="universal-header.js"></script>
