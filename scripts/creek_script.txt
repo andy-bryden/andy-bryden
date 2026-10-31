@@ -4,121 +4,121 @@ The raid on Mormugao Harbor, Goa, 1943
 Cast
 
 NARRATOR 
-Narrator - Charon. Accent: Vintage Mid-Century BBC British Received Pronunciation. Timbre & Pitch: Resonant, cinematic, low bass; rich chest resonance with an authoritative, dark warmth. Cadence & Tempo: Measured, stately, documentary-style pacing; crisp rhythmic control with dramatic pauses. Mannerisms: Detached, cinematic gravity; immaculate dental enunciation; draws the listener into high-stakes historical reality.
+Narrator - Charon. Accent - Vintage Mid-Century BBC British Received Pronunciation. Timbre & Pitch - Resonant, cinematic, low bass; rich chest resonance with an authoritative, dark warmth. Cadence & Tempo - Measured, stately, documentary-style pacing; crisp rhythmic control with dramatic pauses. Mannerisms - Detached, cinematic gravity; immaculate dental enunciation; draws the listener into high-stakes historical reality.
 
 ROSSING 
-Captain Robert Rössing of the motor vessel Ehrenfels - Orus. Accent: North German-accented English (Hamburg maritime standard). Timbre & Pitch: Deep, commanding, weathered baritone; smoky, rumbling chest resonance. Cadence & Tempo: Deliberate, unhurried, stern; steady and immovable tempo. Mannerisms: Heavy guttural "r"s; firm dental consonants; speaks with the unquestioned, worn authority of an old merchant commodore.
+Captain Robert Rössing of the motor vessel Ehrenfels - Orus. Accent - North German-accented English (Hamburg maritime standard). Timbre & Pitch - Deep, commanding, weathered baritone; smoky, rumbling chest resonance. Cadence & Tempo - Deliberate, unhurried, stern; steady and immovable tempo. Mannerisms - Heavy guttural "r"s; firm dental consonants; speaks with the unquestioned, worn authority of an old merchant commodore.
 
 RADAU 
-First Officer Walter Radau - Fenrir. Accent: Hard-edged Prussian German-accented English. Timbre & Pitch: Tense, abrasive, mid-to-low baritone; raspy, tight vocal cords with a sharp bite. Cadence & Tempo: Rapid, staccato, aggressive bursts; taut, urgent delivery. Mannerisms: Harsh, clipped consonants; barking inflection when shouting orders; tight, humorless jaw audible in every line.
+First Officer Walter Radau - Fenrir. Accent - Hard-edged Prussian German-accented English. Timbre & Pitch - Tense, abrasive, mid-to-low baritone; raspy, tight vocal cords with a sharp bite. Cadence & Tempo - Rapid, staccato, aggressive bursts; taut, urgent delivery. Mannerisms - Harsh, clipped consonants; barking inflection when shouting orders; tight, humorless jaw audible in every line.
 
 REDEL 
-Chief Engineer Wilhelm Redel - Iapetus. Accent: Western German / Rhineland-accented English. Timbre & Pitch: Heavy, subterranean bass; rumbling, gravelly, and soot-stained. Cadence & Tempo: Slow, methodical, heavy-footed; utilitarian and plainspoken rhythm. Mannerisms: Heavy sighs before speaking; phlegmatic, weary tone; thick, rolling vowels shaped by years around roaring diesel engines.
+Chief Engineer Wilhelm Redel - Iapetus. Accent - Western German / Rhineland-accented English. Timbre & Pitch - Heavy, subterranean bass; rumbling, gravelly, and soot-stained. Cadence & Tempo - Slow, methodical, heavy-footed; utilitarian and plainspoken rhythm. Mannerisms - Heavy sighs before speaking; phlegmatic, weary tone; thick, rolling vowels shaped by years around roaring diesel engines.
 
 HOFFMANN 
-Chief Wireless Officer Erich Hoffmann - Achird. Accent: Central German / Saxon-accented English. Timbre & Pitch: Quiet, dry, light baritone; hushed, concentrated near-whisper. Cadence & Tempo: Steady, metronomic, careful; low-volume precision. Mannerisms: Minimal dynamic range; speaks like an operator glued to headphones; precise, delicate articulation with suppressed nervous energy.
+Chief Wireless Officer Erich Hoffmann - Achird. Accent - Central German / Saxon-accented English. Timbre & Pitch - Quiet, dry, light baritone; hushed, concentrated near-whisper. Cadence & Tempo - Steady, metronomic, careful; low-volume precision. Mannerisms - Minimal dynamic range; speaks like an operator glued to headphones; precise, delicate articulation with suppressed nervous energy.
 
 LEMKE 
-Second Officer Peter Lemke - Puck. Accent: South German / Bavarian-accented English. Timbre & Pitch: Bright, alert, mid-register baritone; clear and open-throated. Cadence & Tempo: Brisk, reactive, fluid; spikes in tempo under stress. Mannerisms: Softer melodic vowels than Radau; sharp, questioning upward inflections; vigilant, watchful energy.
+Second Officer Peter Lemke - Puck. Accent - South German / Bavarian-accented English. Timbre & Pitch - Bright, alert, mid-register baritone; clear and open-throated. Cadence & Tempo - Brisk, reactive, fluid; spikes in tempo under stress. Mannerisms - Softer melodic vowels than Radau; sharp, questioning upward inflections; vigilant, watchful energy.
 
 THIRD OFFICER 
-Third Officer of the Ehrenfels - Achird. Accent: Austrian-inflected German English. Timbre & Pitch: Light, reedy, dry baritone; clean, slightly thin texture. Cadence & Tempo: Rapid, deferential, hurried reporting pace. Mannerisms: Formal naval etiquette; brisk, nervous clearing of the throat; subservient to senior officers.
+Third Officer of the Ehrenfels - Achird. Accent - Austrian-inflected German English. Timbre & Pitch - Light, reedy, dry baritone; clean, slightly thin texture. Cadence & Tempo - Rapid, deferential, hurried reporting pace. Mannerisms - Formal naval etiquette; brisk, nervous clearing of the throat; subservient to senior officers.
 
 QUARTERMASTER 
-German quartermaster at the wheel - Iapetus. Accent: Gruff Low German / Plattdeutsch dialect undertones. Timbre & Pitch: Low, gravelly, phlegmatic bass; worn by sea air. Cadence & Tempo: Monotone, sluggish, mechanical; unvarying cadence. Mannerisms: Mumbled confirmations; blunt, monosyllabic shipboard acknowledgments ("Jawohl, Herr Kapitän").
+German quartermaster at the wheel - Iapetus. Accent - Gruff Low German / Plattdeutsch dialect undertones. Timbre & Pitch - Low, gravelly, phlegmatic bass; worn by sea air. Cadence & Tempo - Monotone, sluggish, mechanical; unvarying cadence. Mannerisms - Mumbled confirmations; blunt, monosyllabic shipboard acknowledgments ("Jawohl, Herr Kapitän").
 
 WATCH OFFICER 
-Senior watch officer aboard the Ehrenfels - Orus. Accent: Northern German / Baltic maritime English. Timbre & Pitch: Dry, commanding, mid-baritone; firm, carrying projection. Cadence & Tempo: Crisp, rhythmic, scanning pace. Mannerisms: Short, clipped phrases; sharp, vigilant intakes of breath; punctilious lookout reporting.
+Senior watch officer aboard the Ehrenfels - Orus. Accent - Northern German / Baltic maritime English. Timbre & Pitch - Dry, commanding, mid-baritone; firm, carrying projection. Cadence & Tempo - Crisp, rhythmic, scanning pace. Mannerisms - Short, clipped phrases; sharp, vigilant intakes of breath; punctilious lookout reporting.
 
 DECKHAND MEYER 
-Deckhand Meyer - Fenrir. Accent: Northern German working-class English (Hamburg dockside). Timbre & Pitch: Raw, youthful, scratchy baritone; high-strung and reedy. Cadence & Tempo: Erratic, breathless, fast-paced under pressure. Mannerisms: Panicked vocal tremors; unvarnished, rough consonants; startled, hurried vocal responses.
+Deckhand Meyer - Fenrir. Accent - Northern German working-class English (Hamburg dockside). Timbre & Pitch - Raw, youthful, scratchy baritone; high-strung and reedy. Cadence & Tempo - Erratic, breathless, fast-paced under pressure. Mannerisms - Panicked vocal tremors; unvarnished, rough consonants; startled, hurried vocal responses.
 
 GERMAN CREW 
-German crew - Fenrir. Accent: Coarse, guttural North German maritime vernacular. Timbre & Pitch: Harsh, collective, gravelly baritones layered with strain. Cadence & Tempo: Sudden chaotic crescendos; urgent, barking staccato shouts. Mannerisms: Raw, visceral battle cries and panicked shouts echoed across steel bulkheads.
+German crew - Fenrir. Accent - Coarse, guttural North German maritime vernacular. Timbre & Pitch - Harsh, collective, gravelly baritones layered with strain. Cadence & Tempo - Sudden chaotic crescendos; urgent, barking staccato shouts. Mannerisms - Raw, visceral battle cries and panicked shouts echoed across steel bulkheads.
 
 SILVA 
-Lieutenant Fernando Silva - Puck. Accent: Continental European Portuguese-accented English (Goan colonial administration). Timbre & Pitch: Suave, warm, reedy mid-baritone; smooth, resonant throat tone. Cadence & Tempo: Lyrical, fluid, polite, slightly cautious tempo. Mannerisms: Soft sibilants; delicate, rounded vowels; exquisitely diplomatic caution, balancing neutral protocol with quiet unease.
+Lieutenant Fernando Silva - Puck. Accent - Continental European Portuguese-accented English (Goan colonial administration). Timbre & Pitch - Suave, warm, reedy mid-baritone; smooth, resonant throat tone. Cadence & Tempo - Lyrical, fluid, polite, slightly cautious tempo. Mannerisms - Soft sibilants; delicate, rounded vowels; exquisitely diplomatic caution, balancing neutral protocol with quiet unease.
 
 BREMNER 
-Lieutenant-Colonel Claude Bremner - Puck. Accent: Refined British Upper-Class RP with subtle Anglo-Indian cadence. Timbre & Pitch: Engaging, articulate, crisp baritone; dry, warm intelligence. Cadence & Tempo: Measured, conversational, moderately brisk. Mannerisms: Effortless patrician nonchalance; dry, understated humor; iron will wrapped in social charm.
+Lieutenant-Colonel Claude Bremner - Puck. Accent - Refined British Upper-Class RP with subtle Anglo-Indian cadence. Timbre & Pitch - Engaging, articulate, crisp baritone; dry, warm intelligence. Cadence & Tempo - Measured, conversational, moderately brisk. Mannerisms - Effortless patrician nonchalance; dry, understated humor; iron will wrapped in social charm.
 
 CAROE 
-Sir Olaf Caroe - Iapetus. Accent: Patrician Edwardian British RP (Indian Civil Service elite). Timbre & Pitch: Deep, velvet, cultured bass-baritone; rich, mahogany resonance. Cadence & Tempo: Stately, deliberate, eloquent; pauses weighted with imperial consequence. Mannerisms: Flawlessly rounded vowels; scholarly precision; authoritative bureaucratic restraint.
+Sir Olaf Caroe - Iapetus. Accent - Patrician Edwardian British RP (Indian Civil Service elite). Timbre & Pitch - Deep, velvet, cultured bass-baritone; rich, mahogany resonance. Cadence & Tempo - Stately, deliberate, eloquent; pauses weighted with imperial consequence. Mannerisms - Flawlessly rounded vowels; scholarly precision; authoritative bureaucratic restraint.
 
 CAWTHORN 
-General Cawthorn - Orus. Accent: Authoritative British Military Received Pronunciation (General Staff). Timbre & Pitch: Resonant, commanding, steely baritone; flinty and impenetrable. Cadence & Tempo: Direct, crisp, disciplined; brisk, decisive cadence. Mannerisms: Zero hesitation; sharp, declarative drops at sentence ends; speaks with total strategic finality.
+General Cawthorn - Orus. Accent - Authoritative British Military Received Pronunciation (General Staff). Timbre & Pitch - Resonant, commanding, steely baritone; flinty and impenetrable. Cadence & Tempo - Direct, crisp, disciplined; brisk, decisive cadence. Mannerisms - Zero hesitation; sharp, declarative drops at sentence ends; speaks with total strategic finality.
 
 MONTGOMERIE 
-Captain James Montgomerie - Fenrir. Accent: Tough, disciplined Royal Navy Officer RP. Timbre & Pitch: Gritty, curt, weathered mid-to-low baritone; flinty edge. Cadence & Tempo: Snappy, concise, no-nonsense; rapid-fire tactical updates. Mannerisms: Clipped vowels; jaw locked firm; speaks like a veteran officer who hates wasting words.
+Captain James Montgomerie - Fenrir. Accent - Tough, disciplined Royal Navy Officer RP. Timbre & Pitch - Gritty, curt, weathered mid-to-low baritone; flinty edge. Cadence & Tempo - Snappy, concise, no-nonsense; rapid-fire tactical updates. Mannerisms - Clipped vowels; jaw locked firm; speaks like a veteran officer who hates wasting words.
 
 SOMERVILLE 
-Admiral Sir James Somerville - Fenrir. Accent: Caustic, salty Royal Navy Flag Officer RP. Timbre & Pitch: Deep, gravelly, razor-sharp baritone with a caustic, biting rasp. Cadence & Tempo: Pungent, driving, brisk; rapid transitions from dry wit to thunderous command. Mannerisms: Cynical bark of a laugh; sharp, percussive consonants; exudes formidable sea-going grit and impatience with red tape.
+Admiral Sir James Somerville - Fenrir. Accent - Caustic, salty Royal Navy Flag Officer RP. Timbre & Pitch - Deep, gravelly, razor-sharp baritone with a caustic, biting rasp. Cadence & Tempo - Pungent, driving, brisk; rapid transitions from dry wit to thunderous command. Mannerisms - Cynical bark of a laugh; sharp, percussive consonants; exudes formidable sea-going grit and impatience with red tape.
 
 OPERATIONS OFFICER 
-Fleet Operations Officer - Puck. Accent: Polished Royal Navy Staff RP. Timbre & Pitch: Clear, mid-register, metallic baritone; pristine naval projection. Cadence & Tempo: Brisk, metronomic, efficient; seamless flow of coordinates and timings. Mannerisms: Highly disciplined, textbook RN delivery; perfectly level pitch; emotionless tactical briefings.
+Fleet Operations Officer - Puck. Accent - Polished Royal Navy Staff RP. Timbre & Pitch - Clear, mid-register, metallic baritone; pristine naval projection. Cadence & Tempo - Brisk, metronomic, efficient; seamless flow of coordinates and timings. Mannerisms - Highly disciplined, textbook RN delivery; perfectly level pitch; emotionless tactical briefings.
 
 MARR-JOHNSON 
-Colonel Peter Marr-Johnson - Achird. Accent: Dry, restrained British Upper-Class RP (Military Intelligence). Timbre & Pitch: Muted, low-register baritone; clean, slightly chalky texture. Cadence & Tempo: Methodical, understated, deliberate; quiet, steady pace. Mannerisms: Unemotional, analytical delivery; tight-lipped enunciation; speaks with the guarded discretion of a covert coordinator.
+Colonel Peter Marr-Johnson - Achird. Accent - Dry, restrained British Upper-Class RP (Military Intelligence). Timbre & Pitch - Muted, low-register baritone; clean, slightly chalky texture. Cadence & Tempo - Methodical, understated, deliberate; quiet, steady pace. Mannerisms - Unemotional, analytical delivery; tight-lipped enunciation; speaks with the guarded discretion of a covert coordinator.
 
 SIGNALS OFFICER 
-Royal Signals officer - Achird. Accent: Precise, clipped Home Counties British RP. Timbre & Pitch: Clean, steady, neutral baritone; bright, focused articulation. Cadence & Tempo: Rapid, exact, rhythmic; structured by technical jargon. Mannerisms: Crystal-clear enunciation of military callsigns; unwavering vocal composure under strain.
+Royal Signals officer - Achird. Accent - Precise, clipped Home Counties British RP. Timbre & Pitch - Clean, steady, neutral baritone; bright, focused articulation. Cadence & Tempo - Rapid, exact, rhythmic; structured by technical jargon. Mannerisms - Crystal-clear enunciation of military callsigns; unwavering vocal composure under strain.
 
 STAFF SERGEANT 
-Staff sergeant of the Royal Signals - Fenrir. Accent: Working-Class Cockney / London British. Timbre & Pitch: Coarse, raspy, punchy baritone; sandpapery and grounded. Cadence & Tempo: Snappy, practical, no-frills tempo. Mannerisms: Dropped "h"s; glottal stops; respectful yet utterly pragmatic non-commissioned officer delivery.
+Staff sergeant of the Royal Signals - Fenrir. Accent - Working-Class Cockney / London British. Timbre & Pitch - Coarse, raspy, punchy baritone; sandpapery and grounded. Cadence & Tempo - Snappy, practical, no-frills tempo. Mannerisms - Dropped "h"s; glottal stops; respectful yet utterly pragmatic non-commissioned officer delivery.
 
 MACKENZIE 
-Colin Mackenzie - Achird. Accent: Cultivated Anglo-Scottish RP (Edinburgh patrician). Timbre & Pitch: Even-tempered, polished, persuasive baritone; gentle warmth over steely resolve. Cadence & Tempo: Measured, fluid, diplomatic pacing. Mannerisms: Softly rolled "r"s; thoughtful pauses; radiates corporate authority and covert capability without raising his voice.
+Colin Mackenzie - Achird. Accent - Cultivated Anglo-Scottish RP (Edinburgh patrician). Timbre & Pitch - Even-tempered, polished, persuasive baritone; gentle warmth over steely resolve. Cadence & Tempo - Measured, fluid, diplomatic pacing. Mannerisms - Softly rolled "r"s; thoughtful pauses; radiates corporate authority and covert capability without raising his voice.
 
 PUGH 
-Lieutenant-Colonel Lewis Pugh - Orus. Accent: Sharp, aristocratic British Military RP (Royal Artillery). Timbre & Pitch: Authoritative, resonant, penetrating baritone; razor-sharp projection. Cadence & Tempo: Decisive, dynamic, commanding; crisp marching cadence. Mannerisms: Piercing enunciation; absolute operational certainty; forceful, energetic delivery that compels instant obedience.
+Lieutenant-Colonel Lewis Pugh - Orus. Accent - Sharp, aristocratic British Military RP (Royal Artillery). Timbre & Pitch - Authoritative, resonant, penetrating baritone; razor-sharp projection. Cadence & Tempo - Decisive, dynamic, commanding; crisp marching cadence. Mannerisms - Piercing enunciation; absolute operational certainty; forceful, energetic delivery that compels instant obedience.
 
 STEWART 
-Major Gavin Stewart - Iapetus. Accent: Mature, grounded Anglo-Indian British RP (Calcutta Light Horse). Timbre & Pitch: Deep, hearty, resonant bass; warm, steady, and unflappable. Cadence & Tempo: Unhurried, deliberate, conversational cadence. Mannerisms: Heavy chest resonance; easy-going camaraderie masking seasoned combat readiness; reassuring elder-brother delivery.
+Major Gavin Stewart - Iapetus. Accent - Mature, grounded Anglo-Indian British RP (Calcutta Light Horse). Timbre & Pitch - Deep, hearty, resonant bass; warm, steady, and unflappable. Cadence & Tempo - Unhurried, deliberate, conversational cadence. Mannerisms - Heavy chest resonance; easy-going camaraderie masking seasoned combat readiness; reassuring elder-brother delivery.
 
 GRICE 
-Lieutenant-Colonel Grice - Orus. Accent: Stately, senior British Colonial RP (CLH Commanding Officer). Timbre & Pitch: Heavy, resonant, dark baritone; formal and clubland-grounded. Cadence & Tempo: Measured, dignified, deliberate. Mannerisms: Pomp and gentlemanly dignity; rounded, theatrical vowels; speaks like an honorary colonel addressing his regiment at mess.
+Lieutenant-Colonel Grice - Orus. Accent - Stately, senior British Colonial RP (CLH Commanding Officer). Timbre & Pitch - Heavy, resonant, dark baritone; formal and clubland-grounded. Cadence & Tempo - Measured, dignified, deliberate. Mannerisms - Pomp and gentlemanly dignity; rounded, theatrical vowels; speaks like an honorary colonel addressing his regiment at mess.
 
 CROSSLEY 
-Major Terence “Yogi” Crossley - Fenrir. Accent: Rakish, rugged British Upper-Class RP with cavalry swagger (Skinner's Horse). Timbre & Pitch: Textured, raspy, athletic baritone; vibrant and slightly smoky. Cadence & Tempo: Jaunty, daring, syncopated; unpredictable, spirited bursts. Mannerisms: Audibly grinning while speaking; dismissive chuckle in the face of danger; infectious, devil-may-care bravado.
+Major Terence “Yogi” Crossley - Fenrir. Accent - Rakish, rugged British Upper-Class RP with cavalry swagger (Skinner's Horse). Timbre & Pitch - Textured, raspy, athletic baritone; vibrant and slightly smoky. Cadence & Tempo - Jaunty, daring, syncopated; unpredictable, spirited bursts. Mannerisms - Audibly grinning while speaking; dismissive chuckle in the face of danger; infectious, devil-may-care bravado.
 
 CARTWRIGHT 
-Jock Cartwright - Fenrir. Accent: Broad Lowland Scottish (Glasgow / Ayrshire soldier). Timbre & Pitch: Thick, gritty, guttural baritone; rough-hewn and powerful. Cadence & Tempo: Punchy, relentless, driving pace. Mannerisms: Heavy trilled "r"s; hard, biting consonants; pugnacious, combative energy with an iron jaw.
+Jock Cartwright - Fenrir. Accent - Broad Lowland Scottish (Glasgow / Ayrshire soldier). Timbre & Pitch - Thick, gritty, guttural baritone; rough-hewn and powerful. Cadence & Tempo - Punchy, relentless, driving pace. Mannerisms - Heavy trilled "r"s; hard, biting consonants; pugnacious, combative energy with an iron jaw.
 
 SANDYS-LUMSDAINE 
-Lieutenant Cren Sandys-Lumsdaine - Puck. Accent: Youthful, plummy British Public School RP. Timbre & Pitch: Bright, buoyant, athletic mid-baritone; ringing clarity. Cadence & Tempo: Crisp, spirited, enthusiastic tempo. Mannerisms: Snappy military consonants; boyish gusto; cool, upper-crust nonchalance under fire.
+Lieutenant Cren Sandys-Lumsdaine - Puck. Accent - Youthful, plummy British Public School RP. Timbre & Pitch - Bright, buoyant, athletic mid-baritone; ringing clarity. Cadence & Tempo - Crisp, spirited, enthusiastic tempo. Mannerisms - Snappy military consonants; boyish gusto; cool, upper-crust nonchalance under fire.
 
 DUGUID 
-Captain Robert Duguid - Puck. Accent: Educated East Coast Scottish (Edinburgh / Calcutta Scottish). Timbre & Pitch: Warm, robust, open-throated baritone; resonant and vigorous. Cadence & Tempo: Steady, buoyant, rhythmic; infectious forward momentum. Mannerisms: Softly rolled "r"s; clean, singing Scottish cadences; firm, inspiring officer’s composure.
+Captain Robert Duguid - Puck. Accent - Educated East Coast Scottish (Edinburgh / Calcutta Scottish). Timbre & Pitch - Warm, robust, open-throated baritone; resonant and vigorous. Cadence & Tempo - Steady, buoyant, rhythmic; infectious forward momentum. Mannerisms - Softly rolled "r"s; clean, singing Scottish cadences; firm, inspiring officer’s composure.
 
 WHITE 
-Captain Lawrence White - Achird. Accent: Methodical, analytical British Military RP (Royal Engineers). Timbre & Pitch: Dry, calm, mid-register baritone; cool and clinical. Cadence & Tempo: Unruffled, deliberate, surgical pacing. Mannerisms: Detached, matter-of-fact tone even when discussing high explosives; tight, precise enunciation.
+Captain Lawrence White - Achird. Accent - Methodical, analytical British Military RP (Royal Engineers). Timbre & Pitch - Dry, calm, mid-register baritone; cool and clinical. Cadence & Tempo - Unruffled, deliberate, surgical pacing. Mannerisms - Detached, matter-of-fact tone even when discussing high explosives; tight, precise enunciation.
 
 DAVIES 
-Commander Bernard Davies - Iapetus. Accent: Weather-beaten West Country / Welsh Maritime British. Timbre & Pitch: Rumbling, gravelly, salt-encrusted bass; thick chest resonance. Cadence & Tempo: Slow, ponderous, heavy as an anchor chain. Mannerisms: Raspy, rumbling growl; nautical colloquialisms delivered with weary, unshakable seamanship.
+Commander Bernard Davies - Iapetus. Accent - Weather-beaten West Country / Welsh Maritime British. Timbre & Pitch - Rumbling, gravelly, salt-encrusted bass; thick chest resonance. Cadence & Tempo - Slow, ponderous, heavy as an anchor chain. Mannerisms - Raspy, rumbling growl; nautical colloquialisms delivered with weary, unshakable seamanship.
 
 SLOAN 
-Robert Sloan - Achird. Accent: Dry, understated Scottish-inflected British English. Timbre & Pitch: Quiet, steady, gravel-tinged baritone; dry acoustic texture. Cadence & Tempo: Unhurried, laconic, deadpan. Mannerisms: Minimalist delivery; wry, sardonic undertone; unyielding calm under tension.
+Robert Sloan - Achird. Accent - Dry, understated Scottish-inflected British English. Timbre & Pitch - Quiet, steady, gravel-tinged baritone; dry acoustic texture. Cadence & Tempo - Unhurried, laconic, deadpan. Mannerisms - Minimalist delivery; wry, sardonic undertone; unyielding calm under tension.
 
 GOPAL 
-Gopal, mess steward at the Bengal Club - Achird. Accent: Formal Anglo-Bengali Indian English. Timbre & Pitch: Gentle, reedy, soft-spoken mid-baritone; warm, respectful resonance. Cadence & Tempo: Melodic, deferential, unhurried and lyrical. Mannerisms: Soft retroflex stops; quiet, polite cadence; immaculate, old-world domestic deference.
+Gopal, mess steward at the Bengal Club - Achird. Accent - Formal Anglo-Bengali Indian English. Timbre & Pitch - Gentle, reedy, soft-spoken mid-baritone; warm, respectful resonance. Cadence & Tempo - Melodic, deferential, unhurried and lyrical. Mannerisms - Soft retroflex stops; quiet, polite cadence; immaculate, old-world domestic deference.
 
 RIVER PILOT 
-Hooghly river pilot - Fenrir. Accent: Grizzled Anglo-Indian / Cockney Hooghly Riverman English. Timbre & Pitch: Hoarse, scratchy, tobacco-cured baritone; rough, raw timbre. Cadence & Tempo: Halting, cautious, scanning tempo matching shifting shoals. Mannerisms: Raspy coughs; cynical mutterings about currents and mudbanks; worldly, fatalistic tone.
+Hooghly river pilot - Fenrir. Accent - Grizzled Anglo-Indian / Cockney Hooghly Riverman English. Timbre & Pitch - Hoarse, scratchy, tobacco-cured baritone; rough, raw timbre. Cadence & Tempo - Halting, cautious, scanning tempo matching shifting shoals. Mannerisms - Raspy coughs; cynical mutterings about currents and mudbanks; worldly, fatalistic tone.
 
 LIEUTENANT 
-Royal Navy lieutenant - Puck. Accent: Snappy, textbook Royal Navy Junior Officer RP. Timbre & Pitch: Crisp, clear, ringing baritone; high-spirited and alert. Cadence & Tempo: Fast, disciplined, textbook military reporting pace. Mannerisms: Sharp, percussive consonants; brisk heel-clicking delivery; eager, by-the-book efficiency.
+Royal Navy lieutenant - Puck. Accent - Snappy, textbook Royal Navy Junior Officer RP. Timbre & Pitch - Crisp, clear, ringing baritone; high-spirited and alert. Cadence & Tempo - Fast, disciplined, textbook military reporting pace. Mannerisms - Sharp, percussive consonants; brisk heel-clicking delivery; eager, by-the-book efficiency.
 
 SERGEANT 
-British military police sergeant - Fenrir. Accent: Northern English (Yorkshire / Lancashire) British Army NCO. Timbre & Pitch: Harsh, abrasive, gravelly baritone; bullhorn projection. Cadence & Tempo: Barked, staccato, intimidating rhythm. Mannerisms: Chest-forward delivery; heavy, blunt vowel sounds; unyielding, disciplinary hostility.
+British military police sergeant - Fenrir. Accent - Northern English (Yorkshire / Lancashire) British Army NCO. Timbre & Pitch - Harsh, abrasive, gravelly baritone; bullhorn projection. Cadence & Tempo - Barked, staccato, intimidating rhythm. Mannerisms - Chest-forward delivery; heavy, blunt vowel sounds; unyielding, disciplinary hostility.
 
 IPI OFFICER 
-Officer of Indian Political Intelligence - Achird. Accent: Shadowy, upper-class British RP (Intelligence Bureau). Timbre & Pitch: Soft, low-register, velvety baritone; dry, discreet acoustic. Cadence & Tempo: Controlled, quiet, deliberate; speaks just above a whisper. Mannerisms: Intimate, conspiratorial delivery; eliminates any wasted movement or breath; clinical and secretive.
+Officer of Indian Political Intelligence - Achird. Accent - Shadowy, upper-class British RP (Intelligence Bureau). Timbre & Pitch - Soft, low-register, velvety baritone; dry, discreet acoustic. Cadence & Tempo - Controlled, quiet, deliberate; speaks just above a whisper. Mannerisms - Intimate, conspiratorial delivery; eliminates any wasted movement or breath; clinical and secretive.
 
 RADIO BROADCAST 
-BBC wireless broadcast from Downing Street (the prime minister’s declaration of war, 3 September 1939) - Iapetus. Accent: Vintage 1930s Edwardian British RP (Neville Chamberlain). Timbre & Pitch: Thinning, melancholy, elderly bass-baritone; hollow chest resonance with an antique wireless filter. Cadence & Tempo: Painfully slow, grave, trembling, weighed down by historical tragedy. Mannerisms: Audible, trembling breaths; tragic, descending cadence at phrase ends; weary, heartbroken Edwardian diction.
+BBC wireless broadcast from Downing Street (the prime minister’s declaration of war, 3 September 1939) - Iapetus. Accent - Vintage 1930s Edwardian British RP (Neville Chamberlain). Timbre & Pitch - Thinning, melancholy, elderly bass-baritone; hollow chest resonance with an antique wireless filter. Cadence & Tempo - Painfully slow, grave, trembling, weighed down by historical tragedy. Mannerisms - Audible, trembling breaths; tragic, descending cadence at phrase ends; weary, heartbroken Edwardian diction.
 
 RADIO TRANSMISSION 
-Plain-language radio transmission - Polaris. Accent: Polished, military-standard British Received Pronunciation (Naval Signal Service / WRNS). Timbre & Pitch: Firm, clear, clinical mezzo; crisp, compressed broadcast acoustic. Cadence & Tempo: Metronomic, sharp, unhurried radio delivery with sharp phonetic pauses. Mannerisms: Cold, impersonal broadcast clarity; flawless signal discipline; deadpan delivery over faint wireless static.
+Plain-language radio transmission - Polaris. Accent - Polished, military-standard British Received Pronunciation (Naval Signal Service / WRNS). Timbre & Pitch - Firm, clear, clinical mezzo; crisp, compressed broadcast acoustic. Cadence & Tempo - Metronomic, sharp, unhurried radio delivery with sharp phonetic pauses. Mannerisms - Cold, impersonal broadcast clarity; flawless signal discipline; deadpan delivery over faint wireless static.
 
 
 
@@ -132,12 +132,12 @@ Chapter One
 The Race for the Zuari
 1-3 September 1939
 
-At 08:00 on the morning of 1 September 1939, the motor vessel Ehrenfels was thirty-six hours out of Cochin, steering three-four-zero up the Malabar Coast of India.
+At 0800 hours on the morning of 1 September 1939, the motor vessel Ehrenfels was thirty-six hours out of Cochin, steering three-four-zero up the Malabar Coast of India.
 She was running under the tail end of the southwest monsoon. The sea was an expanse of leaden swells topped with dirty yellow foam, the horizon obscured by rain squalls that swept in from the open Arabian Sea and masked the palm-fringed shoreline of South Kanara ten miles to starboard. On the forward well deck, Indian Lascar deckhands were securing the canvas hatch tarpaulins over hold number two, their singlets soaked through with a mixture of warm rain and salt spray.
 Completed in 1936 by the Deutsche Schiff- und Maschinenbau AG "Weser" yard in Bremen, the 7,770-ton Ehrenfels was among the modern freighters of the Deutsche Dampfschifffahrts-Gesellschaft "Hansa." She was designed for the long-haul liner routes between northern Europe, India, and the Persian Gulf - clean-lined, twin-screwed, powered by two double-acting two-stroke MAN diesels capable of sixteen knots.
 Her holds were laden for European discharge - raw cotton from Karachi, copra, oilseeds, and four thousand tons of heavy, black manganese ore loaded at Mormugao and Bhavnagar for the blast furnaces of the Ruhr.
-In the wireless office abaft the chartroom, Chief Wireless Officer Erich Hoffmann sat with his headphones pressed to his left ear, a lead pencil poised over a ruled message pad. The brass bulkhead clock read 08:14 Indian Standard Time.
-Through the oceanic wash of static on sixteen megacycles, the high-frequency station at Norddeich, transmitting from the salt marshes behind the East Frisian Islands, began a continuous, high-speed broadcast:
+In the wireless office abaft the chartroom, Chief Wireless Officer Erich Hoffmann sat with his headphones pressed to his left ear, a lead pencil poised over a ruled message pad. The brass bulkhead clock read 0814 hours Indian Standard Time.
+Through the oceanic wash of static on sixteen megacycles, the high-frequency station at Norddeich, transmitting from the salt marshes behind the East Frisian Islands, began a continuous, high-speed broadcast - 
 QWA QWA QWA DE DAN DAN DAN
 Hoffmann did not need to consult the confidential commercial cipher. The three-letter group QWA was the prearranged emergency signal issued by the Reichsverkehrsministerium in Berlin. It informed all German merchant vessels at sea that diplomatic relations had ruptured, that armed conflict was imminent, and that masters were to abort commercial itineraries, avoid British and French sea lanes, and run for the nearest neutral or domestic port to evade capture.
 Hoffmann wrote the time, the callsign, and the signal on a telegraph slip, tore it from the pad, and slid the wooden door open.
@@ -219,14 +219,14 @@ Rössing took the bridge binoculars.
 The two vessels were steaming south-southeast along the five-fathom coastal shelf, their profiles clear against the white surf of the beaches - upright funnel casings, heavy goalpost derrick masts, and the black hulls and white superstructures of the DDG Hansa.
 They were sister company ships.
 The leading vessel was the Drachenfels, a 6,318-ton steam freighter built in 1921, carrying three thousand tons of general cargo from Calcutta and Madras. Behind her was the Braunfels, 7,844 tons, completed in 1927, bound north from Colombo in ballast. Both had intercepted the Norddeich broadcast; both had abandoned their commercial tracks to make for the neutral Goan coast under full draft.
-Rössing did not break wireless silence. He stepped onto the starboard bridge wing, swung the heavy brass Aldis lamp onto the bridge of the Drachenfels, and tapped the shutter:
+Rössing did not break wireless silence. He stepped onto the starboard bridge wing, swung the heavy brass Aldis lamp onto the bridge of the Drachenfels, and tapped the shutter - 
 FOLLOW ME IN. DRAFT TWENTY-FOUR FEET.
 The Drachenfels acknowledged with three rapid flashes from an electric hand lantern. The three German freighters formed a line ahead, the Ehrenfels in the lead, throwing a wide wake of brown foam as they approached the Zuari estuary.
-At 10:45 on the morning of Sunday, 3 September, the Ehrenfels rounded the red laterite headland of Cabo da Rama.
+At 1045 hours on the morning of Sunday, 3 September, the Ehrenfels rounded the red laterite headland of Cabo da Rama.
 Five miles ahead, rising out of the monsoon haze like a massive red table, stood Mormugao Head.
 Atop the cliff sat the seventeenth-century masonry of Fort Mormugao, its stone embrasures looking down over the roadstead. Below the fort, stretching into the bay, ran the half-mile granite breakwater constructed by British engineers in the 1880s to shelter the iron-ore wharves of the West of India Portuguese Railway.
-At 11:00, the Ehrenfels crossed the three-mile line, passing from the high seas into the sovereign territorial waters of Portugal.
-At that moment, Erich Hoffmann was sitting at the receiver in the wireless office, listening to the medium-wave relay from Bombay. Through his headphones came the broadcast from Downing Street:
+At 1100 hours, the Ehrenfels crossed the three-mile line, passing from the high seas into the sovereign territorial waters of Portugal.
+At that moment, Erich Hoffmann was sitting at the receiver in the wireless office, listening to the medium-wave relay from Bombay. Through his headphones came the broadcast from Downing Street - 
 
 RADIO BROADCAST
 This morning the British Ambassador in Berlin handed the German Government a final note stating that, unless we heard from them by eleven o'clock that they were prepared at once to withdraw their troops from Poland, a state of war would exist between us. I have to tell you now that no such undertaking has been received, and that consequently this country is at war with Germany.
@@ -257,7 +257,7 @@ On the forecastle, the carpenter drove his maul against the windlass brake.
 The starboard bower anchor plunged. Iron struck water with a heavy crash, followed by the deafening roar of stud-link chain tearing through the hawsepipe. Red rust dust billowed across the foredeck as five shackles—forty-five fathoms of forged chain—ran out into the silt of the Zuari before the brake band caught and brought the ship to a gentle, shuddering halt.
 Astern of her, the Drachenfels and the Braunfels dropped anchor in turn, swinging to the tide four hundred yards apart. The three ships lay in a neat column, their bows pointing westward toward the bay entrance.
 The British naval net had been missed by barely four hours.
-At 14:15, a small wooden motor launch pushed off from the stone jetty of the Alfândega—the Portuguese customs house.
+At 1415 hours, a small wooden motor launch pushed off from the stone jetty of the Alfândega—the Portuguese customs house.
 Flying the green-and-red national flag from its stern staff, the launch came alongside the Ehrenfels' port accommodation ladder. Four men climbed the teak steps to the deck.
 Captain Rössing received them at the rail in his blue service uniform, accompanied by Chief Engineer Redel and First Officer Walter Radau.
 The boarding officer was the Capitão dos Portos of Mormugao, Lieutenant Fernando Silva of the Portuguese Navy. He was thirty-eight, slight, with a dark, sharp-featured face, wearing white naval drill, flanked by an official from the Guarda Fiscal and two Goan colonial policemen armed with Mauser rifles.
@@ -335,7 +335,7 @@ By the spring of 1940, the Ehrenfels, Drachenfels, and Braunfels had settled int
 The crews scraped rust along the waterline, repainted the deckhouses in lead primer under the coastal sun, and watched the commercial traffic of neutral Portugal move past their accommodation ladders - local country dhows carrying copra and dried fish down from the Chapora River, and coastal passenger steamers running between Bombay and Mormugao.
 Beyond the three-mile territorial limit, the Royal Navy maintained a steady watch. Armed merchant cruisers and armed trawlers from the Royal Indian Navy base at Bombay carried out periodic sweeps off the Goan headland, ensuring that if any of the DDG Hansa freighters raised anchor and cleared the breakwater light, she would be intercepted and seized before reaching deep water.
 The balance of the anchorage shifted on the evening of 10 June 1940.
-At 18:00 European time, Benito Mussolini stepped onto the balcony of the Palazzo Venezia in Rome to announce that Italy had declared war on Great Britain and France. Within an hour, shortwave relays from Radio Roma carried the broadcast across the Indian Ocean.
+At 1800 hours European time, Benito Mussolini stepped onto the balcony of the Palazzo Venezia in Rome to announce that Italy had declared war on Great Britain and France. Within an hour, shortwave relays from Radio Roma carried the broadcast across the Indian Ocean.
 Two hundred miles off the Malabar Coast, steaming south toward Colombo with general cargo, was the Italian steam freighter SS Anfora.
 The Anfora was an eighteen-year-old single-screw freighter of 5,452 gross register tons, owned by the Società Anonima di Navigazione Lloyd Triestino. Built in 1922 at the San Rocco yard in Trieste, she was powered by a three-cylinder triple-expansion steam engine and manned by a crew of forty-six Italian officers and seamen under the command of Captain Leopoldo Lindemann. Her holds carried five thousand tons of freight loaded in Genoa and Naples - drums of olive oil, textiles, mechanical spares, and several thousand crates of bottled wine intended for European commercial communities in Singapore and Shanghai.
 Captain Lindemann received the Rome broadcast in his sea cabin.
@@ -343,7 +343,7 @@ Like Rössing nine months earlier, Lindemann understood the naval geography of t
 The British light cruiser HMS Leander and armed merchant cruisers were patrolling the central shipping lanes. If the Anfora continued on her commercial course toward Ceylon, she would be intercepted, declared a prize of war, and her crew removed to an internment camp in British India within days.
 Lindemann ordered the helm over to the north-northwest and called for maximum steam pressure.
 Steaming through the night without navigation lights, the Anfora ran along the edge of the continental shelf, pushing her reciprocating engines to ten knots.
-At 14:30 on the afternoon of 11 June, her lookout sighted the red table-top cliffs of Mormugao Head rising through the coastal haze.
+At 1430 hours on the afternoon of 11 June, her lookout sighted the red table-top cliffs of Mormugao Head rising through the coastal haze.
 As the Italian freighter approached the three-mile limit, Lindemann ran the green, white, and red tricolor of the Kingdom of Italy to his mainmast truck. He brought the ship past the outer shoals, navigated the narrow channel between the southern breakwater and the Zuari sandbar, and entered the shelter of the bay.
 On the bridge wing of the Ehrenfels, Captain Robert Rössing and First Officer Walter Radau watched the rusted black hull round the breakwater beacon.
 
@@ -446,7 +446,7 @@ Inside those slips were the departures from the Bombay docks - the Victoria, Pri
 They contained the sailing manifests of Allied merchantmen, the bunker capacities, the cargo tallies—crude oil from Abadan, crated aircraft, tank spares, Australian wheat—and, most fatally, the zigzag routing tracks and assembly points issued to masters by the Naval Control of Shipping in Bombay.
 Once delivered to the agency in Vasco, the slips were transferred to Koch's hands in Panjim.
 From Koch, the information was passed via Goan boatmen to the accommodation ladder of the Ehrenfels, disappearing behind the teak bulkheads of the ship.
-In late August 1942, Bremner addressed a formal dispatch to Sir Olaf Caroe, Secretary of the External Affairs Department in New Delhi:
+In late August 1942, Bremner addressed a formal dispatch to Sir Olaf Caroe, Secretary of the External Affairs Department in New Delhi - 
 
 BREMNER
 I have the honour to report that the presence of the interned enemy vessels in Mormugao Harbor, coupled with the unrestricted presence of the German national Robert Koch in Nova Goa, constitutes an intolerable menace to the security of Allied shipping in the Arabian Sea.
@@ -598,7 +598,7 @@ Flash intercept from the Jabalpur Y-Station, Colonel. Zero-two-one-six Indian St
 NARRATOR
 Marr-Johnson took the slip.
 The Adcock directional array at Jabalpur, built on the high, dry plateau of the Central Provinces, was the primary high-frequency listening post for the central subcontinent. Positioned far from the electrical noise of the coastal ports, its diamond-shaped aerials were tuned specifically to catch the skip-distance bounce of shortwave signals reflecting off the ionosphere's F-layer.
-The docket read:
+The docket read - 
 FREQUENCY - 8240 KC/S.
 TIME - 0216 IST.
 SIGNAL - CONTINUOUS WAVE MORSE. FIVE-LETTER ENCIPHERED GROUPS.
@@ -669,7 +669,7 @@ MARR-JOHNSON
 An agent hiding in a villa in Panjim cannot disguise a seventy-foot antenna and a diesel dynamo running at two in the morning. A seven-thousand-ton motor merchantman at anchor carries both as standard equipment. She has the fuel, she has the auxiliary diesels, and she has the masts.
 
 NARRATOR
-He closed the dossier and picked up his fountain pen, signing the master tracking docket:
+He closed the dossier and picked up his fountain pen, signing the master tracking docket - 
 ASSESSMENT - HIGH CONFIDENCE. CLANDESTINE HF TRANSMITTER OPERATING FROM AXIS ANCHORAGE, MORMUGAO HARBOR (PRESUMED MV EHRENFELS). TRANSMISSIONS DERIVED FROM COMPROMISED BOMBAY ROUTING DATA. RECIPIENTS - TYPE IXD2 U-BOAT PATROLS, MOZAMBIQUE SECTOR.
 Marr-Johnson slipped the documents into a leather dispatch box stamped with the royal cypher and turned the key.
 
@@ -849,7 +849,7 @@ In the classified registries of the Indian Political Intelligence bureau in New 
 For over thirty months, Koch had operated as the pivotal overland link of the Abwehr on the west coast of India. Working through paid Goan railway clerks and native dock runners on the West of India Portuguese Railway, Koch collected stolen sailing manifests, cargo lists, and naval routing tracks out of the Bombay docks. Once transited across the border at Castle Rock, the information was brought to his villa, reduced to numerical cipher, and delivered by local boatmen to Chief Wireless Officer Erich Hoffmann in the wireless shack of the Ehrenfels.
 To sever the pipeline without violating Portuguese sovereignty in daylight, General Headquarters in New Delhi authorized Operation Hotspur.
 Its remit was not an arrest. British law did not run in Portuguese India. Its remit was an extrajudicial snatch from sovereign foreign territory.
-At 22:45 on the night of 19 December, a fine, steady drizzle was blowing in from the Arabian Sea, coating the red laterite clay of Altinho in a slick, reddish grease.
+At 2245 hours on the night of 19 December, a fine, steady drizzle was blowing in from the Arabian Sea, coating the red laterite clay of Altinho in a slick, reddish grease.
 Parked on the grass verge three hundred yards below the Casa dos Coqueiros, tucked beneath the drooping canopy of a banyan tree, stood a dark Ford V8 estate car.
 The vehicle had been acquired through an Indian commercial cover in Bombay by the SOE India Mission, painted in matte black enamel, and fitted with forged registration plates issued under the authority of the Bombay Presidency Motor Vehicles Department. Beneath the rear floorboards lay coils of tarred wire, two heavy burlap sacks, strips of surgical adhesive tape, and two .45-calibre Colt automatic pistols fitted with steel Maxim suppressors.
 Major Gavin Stewart of the Special Operations Executive sat behind the wheel, staring through the rain-streaked glass. Stewart was thirty-two, an experienced field officer of Force 136 who had spent three weeks in November conducting covert reconnaissance of the Panjim roads under the guise of an Anglo-Indian machinery traveler.
@@ -910,7 +910,7 @@ Pugh slid behind the steering wheel. He released the handbrake, eased the clutch
 The distance from Nova Goa to the British frontier was forty-five miles. In daylight, the mountain road through the Western Ghats was a narrow, treacherous track; on a pitch-black December night in torrential rain, it was an ordeal of second gear and skidding tires.
 The Ford skirted the southern bank of the river, swept past the unlit houses of Ponda, and began the brutal, twisting climb into the mountain range.
 The track narrowed into a single-lane ledge blasted out of the raw laterite rock, snaking through hairpin turns banked by sheer drops into the bamboo canyons below. Inside the car, the only sounds were the whine of the gearbox, the rhythmic sweep of the single wiper blade, and the muffled, desperate weeping of Grete Koch beneath the blanket.
-At 02:45, the headlights—shielded with slotted blackout hoods—illuminated the wooden gate of the Portuguese frontier post at the base of the mountain pass.
+At 0245 hours, the headlights—shielded with slotted blackout hoods—illuminated the wooden gate of the Portuguese frontier post at the base of the mountain pass.
 The barrier was a simple, counterweighted wooden pole balanced across the road beside a small whitewashed customs hut.
 Pugh did not touch the brakes.
 He leaned on the horn, sounding the authoritative double-blast used by colonial government mail couriers, while keeping his foot down on the accelerator.
@@ -943,7 +943,7 @@ NARRATOR
 Stewart handed over the heavy mail sack.
 The IPI officer nodded to his men.
 The two prisoners were not escorted to a passenger train. They were not taken to an open internment camp in the interior, and they were never registered in the civilian internment ledgers of the Government of India.
-The legal and diplomatic reality of Operation Hotspur was absolute:
+The legal and diplomatic reality of Operation Hotspur was absolute - 
 Robert and Grete Koch had been violently abducted from the sovereign soil of a neutral nation with whom Great Britain maintained the delicate 1386 Treaty of Windsor.
 If Robert and Grete Koch remained alive in British military custody, their presence was an active diplomatic bomb. A single leaked interrogation, a letter to a neutral consulate, or an inquiry from the International Red Cross in Geneva would confirm to Lisbon that British armed forces had violated Portuguese territorial sovereignty.
 Under António de Oliveira Salazar, such confirmation would terminate the secret, critical negotiations for Allied airbases in the Azores.
@@ -1186,7 +1186,7 @@ GOPAL
 Colonel Sahib.
 
 NARRATOR
-Grice picked up the card from the tray. It was a standard civilian pasteboard, unadorned by rank or regimental crest:
+Grice picked up the card from the tray. It was a standard civilian pasteboard, unadorned by rank or regimental crest - 
 Lieutenant-Colonel Lewis Pugh
 Force 136
 Grice looked at the card, his eyebrows knitting together. He knew Pugh well. Before the war, Pugh had practiced as a barrister at the Calcutta High Court and had worn the uniform of the Calcutta Light Horse, drilling on the Maidan alongside Grice and Crossley before taking an active regular commission in the Royal Artillery and disappearing into the clandestine labyrinth of the SOE India Mission.
@@ -2041,7 +2041,7 @@ I know the Sten, Colonel. If they get dirty, they'll jam anyway. Tell the men to
 
 NARRATOR
 Beside the cricket bags lay eighteen standard leather civilian portmanteaus, Gladstone bags, and canvas bedrolls.
-Into each bag went the personal equipment of a modern pirate:
+Into each bag went the personal equipment of a modern pirate - 
 One heavy, lead-weighted leather cosh, eight inches long with a wrist strap of braided rawhide, meant for silent sentry elimination.
 One Fairbairn-Sykes fighting knife in a blackened leather sheath, strapped with elastic so it could be worn inverted inside a trouser leg.
 Two No. 36 Mills pattern high-explosive hand grenades, their split pins taped securely to the lever with friction tape to prevent snagging inside a pocket.
@@ -2153,12 +2153,12 @@ The train pulled out of Madras, turning westward across the arid scrub of the Ca
 By dawn on 5 March, the landscape transformed.
 The train snaked through the Palghat Gap—the great geological breach in the mountain barrier that separated the dry east from the lush coastal plain of the west.
 As the carriages descended toward the Arabian Sea, the dry dust of the interior vanished. The air turned heavy, humid, and sweet with the smell of green earth, swamp water, and coconut husks. Dense forests of bamboo and teak lined the tracks; emerald paddies stretched away toward the silver ribbons of tidal lagoons.
-At 08:30 on the morning of 5 March 1943, the Cochin Express hissed to a final halt at the terminus at Ernakulam.
+At 0830 hours on the morning of 5 March 1943, the Cochin Express hissed to a final halt at the terminus at Ernakulam.
 Grice stepped down onto the platform. The salt air of the Arabian Sea hit his face like a warm, wet towel.
 He gathered his leather bag and his cricket bag, stepping through the ticket barrier into the glare of the morning sun. Across the station square, the blue waters of the Cochin backwaters stretched west toward the barrier islands.
 All nine pairs had arrived. There were no arrests, no missed connections, and no lost baggage.
 Eighteen men, carrying enough automatic weapons to stage a small revolution, were standing on the threshold of the Malabar Coast.
-Now, Grice thought, looking out toward the shipping channel where the harbor launches waited, there was only one question that mattered:
+Now, Grice thought, looking out toward the shipping channel where the harbor launches waited, there was only one question that mattered - 
 Had Bernard Davies and that thirty-year-old river hopper survived the open ocean to meet them?
 
 
@@ -2281,7 +2281,7 @@ Get below the deckplates, gentlemen. Out of sight. From this moment until we cle
 
 NARRATOR
 The eighteen men picked up their assembled weapons, slung their magazine bandoliers over their shoulders, and descended into the dark, stifling iron belly of the ship.
-At 23:45, under a moonless Malabar sky, the WV Phoebe cast off her lines, backed slowly into the deep water of the Mattancherry channel, and swung her bow north into the open reaches of the Arabian Sea.
+At 2345 hours, under a moonless Malabar sky, the WV Phoebe cast off her lines, backed slowly into the deep water of the Mattancherry channel, and swung her bow north into the open reaches of the Arabian Sea.
 
 
 
@@ -2438,7 +2438,7 @@ LEMKE
 Herr Kapitän. From the harbor master's office. And from the town.
 
 NARRATOR
-Rössing took the paper. It was printed in Portuguese and poor German on cheap pink newsprint:
+Rössing took the paper. It was printed in Portuguese and poor German on cheap pink newsprint - 
 GRAND CARNIVAL GALA - VASCO DA GAMA
 Tuesday, 9 March 1943
 To the gallant officers and crews of the interned merchant marine - An evening of fraternal entertainment, complimentary beer, Portuguese wines, hot roast meats, and music at the Salão Municipal. Courtesy of the European Hospitality Committee.
@@ -2578,7 +2578,7 @@ Cartwright watched them from the portico. Lemke looked around the room, hesitate
 The bait was swallowed.
 Ashore in Vasco da Gama, three-quarters of the German and Italian crews were completely, irreversibly incapacitated.
 Cartwright checked his luminous pocket watch beneath his coat.
-21:15.
+2115 hours.
 He looked out past the town toward the pitch-black entrance of Mormugao Bay.
 Out there, beyond the reach of the lantern light, beyond the sweeping white beam of the Fort Aguada lighthouse, the Arabian Sea was an empty, black void.
 Cartwright reached into his trouser pocket, his fingers closing around the cold steel of an old .32 Colt automatic he had carried across the border in his boot.
@@ -2594,7 +2594,7 @@ Come on, Bill. The deck is clear. For goodness sake, come on.
 NARRATOR
 Chapter Twenty-Three
 The Shore Leave Bait
-9 March 1943 — 21:30 to 22:45
+9 March 1943 — 2130 to 2245 hours
 
 By half-past nine, the Ehrenfels had ceased to be a functioning community; she was an iron tomb with a pulse.
 In the cavernous crew quarters beneath the well deck, where eighty men had lived for three and a half years in sweltering proximity, the silence was unnatural. Empty canvas hammocks swung gently with the lazy roll of the harbor swell, brushing against bulkheads lined with abandoned kit lockers. On the wooden mess tables, the debris of a hurried departure remained - crusts of stale sourdough bread, tin mugs with rings of dried tea, and scattered packs of Portuguese tobacco.
@@ -2699,7 +2699,7 @@ Her twin compound engines were throttled back to DEAD SLOW, their revolutions ba
 On the open bridge, Commander Bernard Davies stood with his binoculars pressed to his eyes.
 To the northeast, sweeping across the dark horizon every ten seconds, was the long, white pencil beam of the Fort Aguada lighthouse, marking the northern jaw of Mormugao Bay.
 Davies lowered the glasses and checked his luminous watch.
-22:45.
+2245 hours.
 
 DAVIES
 (murmuring)
@@ -2742,7 +2742,7 @@ Stand by below. Give me full boiler pressure. We're going in.
 NARRATOR
 Chapter Twenty-Four
 Dead Slow in the Swell
-9 March 1943 — 22:45 to 23:45
+9 March 1943 — 2245 to 2345 hours
 
 At twenty-three-hundred, the WV Phoebe crossed the invisible line.
 There was no buoy, no sounding of a bell, no shift in the ocean current to mark the boundary. But on the brass chart table in the darkened wheelhouse, under the narrow, hooded cone of a red-filtered inspection lamp, Commander Bernard Davies laid his parallel rule across the five-fathom contour line three miles off the Goan headland.
@@ -2840,7 +2840,7 @@ Get your ladders up to the rail, lads. We're crossing the bar.
 NARRATOR
 Chapter Twenty-Five
 Crossing the Harbor Bar
-9-10 March 1943 — 23:45 to 00:20
+9-10 March 1943 — 2345 to 0020 hours
 
 The bar at the mouth of the Zuari River was a shallow ridge of shifting sand and dead coral that lay like a submerged tripwire across the entrance to Mormugao Harbor.
 At low water, it carried barely eight feet of clearance. Even now, with the spring tide flooding toward midnight high water, the sounding line in Davies' hand showed only fourteen feet. The WV Phoebe, laden with Welsh coal, ballast, and the deadweight of her dredge machinery, was drawing eleven.
@@ -2865,7 +2865,7 @@ There was no movement. The colonial artillery batteries—obsolete nineteenth-ce
 Cartwright's gold and Sloan's liquor had done their work. The garrison was asleep, drunk, or dancing in the plazas of Vasco da Gama.
 Davies brought the telegraph handle forward with a gentle, muffled motion, not allowing the brass pawl to click against the ratchet - HALF AHEAD BOTH.
 The Phoebe picked up speed, her twin screws biting into the sheltered, glassy water of the inner harbor.
-At 00:08, her blunt iron snout rounded the granite elbow of the breakwater.
+At 0008 hours, her blunt iron snout rounded the granite elbow of the breakwater.
 The inner basin opened before them.
 Davies lowered his glasses, his breath catching in his throat.
 There they were.
@@ -2915,7 +2915,7 @@ The Phoebe's twin compound engines screamed at full boiler pressure. Her screws 
 NARRATOR
 Chapter Twenty-Six
 The Iron Impact
-10 March 1943 — 00:20 to 00:26
+10 March 1943 — 0020 to 0026 hours
 
 The collision was not a gentle brush of hulls; it was an iron earthquake.
 Commander Bernard Davies held the Phoebe's wheel hard against the starboard stops, driving the blunt, armored snout of the hopper barge into the port flank of the Ehrenfels at an angle of twenty degrees, striking her twenty feet forward of the poop deck.
@@ -2987,7 +2987,7 @@ The Calcutta Light Horse was aboard.
 NARRATOR
 Chapter Twenty-Seven
 Assault on the Superstructure
-10 March 1943 — 00:26 to 00:34
+10 March 1943 — 0026 to 0034 hours
 
 The assault teams hit the wet teak planks of the Ehrenfels' port deck in rapid succession, their rubber plimsolls gripping the camber of the deck plates.
 Above them, the three-tiered central deckhouse rose twenty feet against the night sky, its white-painted bulkheads catching the ambient starlight. Deckhand Meyer's alarm whistle was still piercing the humid air from the forecastle head, competing with the frantic clanging of the ship's brass bell and the shrill, automated wailing of the electrical claxons vibrating through the lower ventilator cowls.
@@ -3037,7 +3037,7 @@ NARRATOR
 The operational priority was rapidly shifting.
 Pugh had briefed them in Calcutta that the primary objective was to capture the ship intact as a prize. But as the boarders spread across the midships housing, the sounds rising through the open deck gratings were not the sounds of a crew organizing a counter-attack.
 There were no shouts of armed resistance forming in the well deck. There was no rush of seamen charging the companionways to retake the bridge.
-Instead, from the deep, cavernous machinery spaces four decks below, came the distinct, frantic clang of heavy sledgehammers striking cast iron, followed by the muffled shouts of German commands echoing up the ventilation trunks:
+Instead, from the deep, cavernous machinery spaces four decks below, came the distinct, frantic clang of heavy sledgehammers striking cast iron, followed by the muffled shouts of German commands echoing up the ventilation trunks - 
 
 GERMAN CREW
 (shouting, muffled, echoing up the ventilation trunks)
@@ -3054,7 +3054,7 @@ From the deck beneath their plimsolls, a faint, rhythmic shudder began to vibrat
 NARRATOR
 Chapter Twenty-Eight
 The Scuttling Detonations
-10 March 1943 — 00:34 to 00:40
+10 March 1943 — 0034 to 0040 hours
 
 On the boat deck, the boarding party held the exterior of the midships housing, but the ship was slipping from their grasp from the inside out.
 Captain Robert Hutton Duguid and two of his Scottish territorials had pinned the captured German deckhand against the engine casing, binding his wrists behind him with friction tape. Along the port alleyway, Major Yogi Crossley and Lieutenant Cren Sandys-Lumsdaine stood guard over the iron companionways leading into the crew accommodations, their Stens leveled into the pitch-black corridors.
@@ -3103,7 +3103,7 @@ There would be no prize crew steaming north to Karachi. The German crew had exec
 NARRATOR
 Chapter Twenty-Nine
 The Flooding Bilges
-10 March 1943 — 00:40 to 00:46
+10 March 1943 — 0040 to 0046 hours
 
 The port deck of the Ehrenfels tilted beneath their boots, the angle steepening with every passing second.
 Through the shattered engine-room skylights and the open ventilation trunks, the sound of the deluge was deafening. It was not a steady trickle; it was the concussive, thundering roar of an ocean tearing through an open breach. Thousands of gallons of black estuary water were surging through the fractured bottom plates and sheared condenser flanges every minute, filling the shaft tunnel and drowning the lower flats.
@@ -3125,7 +3125,7 @@ The list increased from eight degrees to twelve.
 The danger was no longer tactical; it was mechanical and immediate.
 The Ehrenfels was not sinking on an even keel. She was rolling heavily to port—leaning directly out over the low, flat-bottomed iron hull of the WV Phoebe.
 Twenty feet below, pinned hard against the freighter's side by the slow revolution of her screws, the hopper barge was caught directly beneath an overhanging wall of descending steel plates. The Phoebe had barely thirty inches of freeboard. If the 7,770-ton freighter rolled past fifteen degrees before the two craft could be separated, her rolled bulwark and cargo derricks would crash down across the hopper's open waist deck, swamping her holds and dragging all twenty-four men to the bottom.
-From the darkness below, Commander Bernard Davies' voice boomed through a brass megaphone, carrying above the roar of escaping steam:
+From the darkness below, Commander Bernard Davies' voice boomed through a brass megaphone, carrying above the roar of escaping steam - 
 
 DAVIES
 (through brass megaphone, booming above the roar of escaping steam)
@@ -3151,7 +3151,7 @@ The ship was dead. And across the dark roadstead, alerted by the gunfire and the
 NARRATOR
 Chapter Thirty
 The Tactical Deception
-10 March 1943 — 00:44 to 00:52
+10 March 1943 — 0044 to 0052 hours
 
 Across the three hundred yards of water separating the Ehrenfels from the other three anchored freighters, the sensory indications of an attack had been accumulating for over twenty minutes.
 Aboard the Drachenfels, the 6,318-ton DDG Hansa steam freighter moored closest to the breakwater, the skeleton watch of nine men had been on deck since the initial impact. They had heard the heavy iron grinding of the collision, followed by the whistle blasts, the frantic beating of the Ehrenfels' ship's bell, and the distinct, rapid crackle of submachine-gun fire from the upper bridge decks.
@@ -3159,10 +3159,10 @@ Then had come the underwater shockwaves.
 The detonation of Rössing's picric acid charges in the propeller shaft alley of the Ehrenfels traveled through the shallow water of the roadstead with concussive velocity. The hydraulic hammer hit the riveted hull plates of the Drachenfels with a heavy, vibrating metallic blow, rattling the bunk frames in the crew quarters and causing the magnetic compass card in the wheelhouse binnacle to spin erratically in its gimbals.
 Through binoculars, the watch officer on the Drachenfels could see the Ehrenfels listing steeply to port. Yellow smoke was venting from her engine-room cowls, while a low, dark vessel with twin skinny funnels remained pressed hard against her quarter.
 To the German watchstanders, isolated for three and a half years in a neutral harbor, the situation conformed to what standing operational orders had anticipated since September 1939.
-The instructions from the Seekriegsleitung (Naval Warfare Command) in Berlin were unambiguous:
+The instructions from the Seekriegsleitung (Naval Warfare Command) in Berlin were unambiguous - 
 If British forces attempt to violate neutral waters to seize merchant hulls, every vessel must be rendered totally and permanently useless. Scuttling and destruction must be initiated without waiting for higher authorization if communications are severed.
-At 00:46, the decisive element of the operation was introduced from the outside.
-On maritime intermediate frequencies, an unencrypted plain-language radio transmission broke through the static of the coastal bands. Transmitted from a British naval or intelligence source monitoring the operation from outside Goan waters, the broadcast was framed as routine tactical traffic between British naval units:
+At 0046 hours, the decisive element of the operation was introduced from the outside.
+On maritime intermediate frequencies, an unencrypted plain-language radio transmission broke through the static of the coastal bands. Transmitted from a British naval or intelligence source monitoring the operation from outside Goan waters, the broadcast was framed as routine tactical traffic between British naval units - 
 
 RADIO TRANSMISSION
 ALL UNITS PROCEED INTO HARBOR ACCORDING TO PLAN. BOARD AND SECURE REMAINING MERCHANT VESSELS.
@@ -3172,7 +3172,7 @@ The transmission was intercepted by the wireless watch on the Drachenfels, which
 The message was carried immediately to the bridge.
 The text appeared to confirm what the gunfire and underwater explosions had already signaled. The watch officer did not possess the radar, searchlights, or reconnaissance to know that the vessel alongside the Ehrenfels was an unarmed river hopper carrying eighteen middle-aged businessmen. In the darkness, against the backdrop of an emergency plain-language signal ordering boarding parties onto the remaining ships, the assumption was absolute - a Royal Navy cutting-out expedition had entered Mormugao to seize all four Axis hulls before dawn.
 The master was ashore in Vasco da Gama, incapacitated by the festivities at the Salão Municipal. The senior officer aboard made the calculation required by his standing orders. If the ship was boarded while her sea cocks were closed, she would become an Allied prize, her three thousand tons of general cargo feeding the British war effort.
-The order was passed to the stokehold:
+The order was passed to the stokehold - 
 
 WATCH OFFICER
 Schiff versenken. Sofort.
@@ -3199,7 +3199,7 @@ Without the British assault team firing a shot beyond the decks of the Ehrenfels
 NARRATOR
 Chapter Thirty-One
 The Harbor of Fire
-10 March 1943 — 00:52 to 01:05
+10 March 1943 — 0052 to 0105 hours
 
 On the boat deck of the Ehrenfels, the physical geometry of the ship was collapsing.
 The list had reached fourteen degrees to port. Teak companionways, oil drums, and loose cargo battens broke free from their stays, sliding across the deckplates to crash against the port scupper combings. Seawater, thick with black bilge grease and fuel oil, was pouring green through the open washports along the main deck, washing across the hatch covers.
@@ -3257,7 +3257,7 @@ Grice followed immediately. As his plimsolls found the bamboo battens, an iron h
 Two Light Horsemen on the Phoebe leaned out over the bulwark, caught Grice by the leather belt of his shorts, and hauled him over the iron coaming onto the deckplates as the ladder plummeted into the water.
 All twenty-four men were back aboard the hopper.
 Above them, the steel cliff of the Ehrenfels leaned further into the night, blotting out the stars.
-And from the Phoebe's bridge, Davies' voice cracked through the voicepipe:
+And from the Phoebe's bridge, Davies' voice cracked through the voicepipe - 
 
 DAVIES
 (through the voicepipe)
@@ -3269,7 +3269,7 @@ Chop the hawsers! She's dragging our port rail under!
 NARRATOR
 Chapter Thirty-Two
 Chopping the Hawsers
-10 March 1943 — 01:05 to 01:20
+10 March 1943 — 0105 to 0120 hours
 
 The physical physics of displacement now threatened the WV Phoebe.
 The two-inch manila grappling lines, thrown over the rolled bulwarks of the Ehrenfels during the initial boarding, were wedged fast around the freighter's iron scupper stanchions. On the hopper, they were snubbed securely around the heavy cast-iron mooring bollards on the foredeck and aft counter.
@@ -3308,7 +3308,7 @@ Lines clear aft!
 
 NARRATOR
 Davies did not wait for the confirmation to echo.
-He threw both brass handles of the telegraph hard back to the rear stops:
+He threw both brass handles of the telegraph hard back to the rear stops - 
 FULL ASTERN BOTH.
 Deep within the hull, the two Royal Navy ratings and the Lascar stokers gave the triple-expansion compound engines the full reserve of steam pressure built up in the Scotch boilers.
 The twin bronze screws screamed in reverse, churning the black, oil-slicked water beneath the counter into a boiling froth of yellow-white foam.
@@ -3327,7 +3327,7 @@ On the waist deck of the Phoebe, the eighteen volunteers of the Calcutta Light H
 They did not cheer. They did not speak.
 They simply watched the water close over the ship they had come two thousand miles to break.
 From the bridge above them, Davies checked his watch.
-01:20.
+0120 hours.
 The tide had begun to fall, and three hundred yards ahead, the guns of Fort Mormugao were illuminated by the fires of the dying fleet.
 
 
@@ -3336,7 +3336,7 @@ The tide had begun to fall, and three hundred yards ahead, the guns of Fort Morm
 NARRATOR
 Chapter Thirty-Three
 Clearing Fort Mormugao
-10 March 1943 — 01:20 to 02:30
+10 March 1943 — 0120 to 0230 hours
 
 Astern of the WV Phoebe, the roadstead of Mormugao had become an uncontrolled furnace.
 The four Axis vessels were burning or sinking in a loose crescent across the anchorage. The Ehrenfels lay submerged to her boat deck, her fuel bunkers bleeding thousands of gallons of heavy fuel oil that ignited across the water in a sheet of wind-driven surface flame.
@@ -3390,7 +3390,7 @@ The engines hammered at full pressure. The screws bit into the water, dragging t
 With a sudden forward lurch, the Phoebe broke clear of the bar's outer ridge, dropping into the deep swells of the open roadstead.
 Ahead lay the unobstructed expanse of the Arabian Sea.
 Behind them, the column of black, oily smoke rising from the burning fleet reached nearly a thousand feet into the sky, its base glowing a deep, violent orange.
-At 02:25, Davies laid his brass parallel rule across the navigation chart under the hooded red lamp.
+At 0225 hours, Davies laid his brass parallel rule across the navigation chart under the hooded red lamp.
 The WV Phoebe crossed the three-mile limit, leaving Portuguese territorial waters behind and entering the open international highway of the ocean.
 Lewis Pugh stood up on the waist deck. He wiped a mixture of black grease, coal dust, and salt spray from his forehead, looking around at the men collapsed among the coal sacks.
 They were battered, bruised, cut by glass, and deafened by gunfire in confined spaces. But every man who had gone over the bulwarks of the Ehrenfels was accounted for.
@@ -3406,7 +3406,7 @@ Break out the set, Gavin. Inform Delhi the tap is turned off.
 NARRATOR
 Chapter Thirty-Four
 The "LONGSHANKS" Signal
-10 March 1943 — 02:45 to 06:00
+10 March 1943 — 0245 to 0600 hours
 
 Ten miles off the Goan headland, the ocean bottom shelves steeply from the continental shelf into the five-hundred-fathom trench of the Arabian Sea.
 Inside the Phoebe's small deckhouse chartroom, the port deadlights were screwed tight into their rubber gaskets. The only light came from the hooded green dial of an SOE Type B Mk II field transceiver clamped to the navigation table between two iron brackets.
@@ -3414,18 +3414,18 @@ Major Gavin Stewart sat on the settee, wearing Bakelite headphones pressed over 
 He did not transmit in plain language. From his breast pocket, he unfolded a three-inch square of printed silk—a single-use, one-time pad issued by the signals directorate at Meerut.
 The message required no tactical detail, no accounting of casualties, and no narrative of the scuttling. The entire four-month operation had been compressed into a single prearranged operational codeword.
 Stewart's right index finger settled onto the brass knob of the key.
-Working with the steady, machine-drilled cadence of an instructor, he keyed ten letters into the ether on eight megacycles:
+Working with the steady, machine-drilled cadence of an instructor, he keyed ten letters into the ether on eight megacycles - 
 Di-dah-di-di-dit... Dah-dah-dah... Dah-di-dit... Dah-dah-di-dit...
 L - O - N - G - S - H - A - N - K - S
 He tapped the string twice, switched the set to receive, and listened through the background hiss of the ionosphere.
 Thirty seconds passed. The only sound in the chartroom was the dull, heavy vibration of the compound engines turning sixty-five revolutions a minute beneath the deckplates.
-Then, faint and sharp through the static, came the acknowledgment from the receiving station at the Wireless Experimental Centre at Anand Parbat, outside New Delhi:
+Then, faint and sharp through the static, came the acknowledgment from the receiving station at the Wireless Experimental Centre at Anand Parbat, outside New Delhi - 
 Di-dit.
 Two tone-dots. Transmission received and logged.
 Stewart opened the knife switch, breaking the circuit. He took the scrap of printed silk, struck a match, and held the fabric until the flame consumed the fibers into a smudge of black ash in a tin saucer. He ground the residue to dust with the tip of his thumb.
 Seven hundred miles to the northeast, inside the sandstone basement of General Headquarters in New Delhi, the dawn had not yet broken.
 Major-General Walter Cawthorn stood alone in his office beneath an electric ceiling fan turning at quarter-speed against the morning chill.
-A staff captain from the intelligence duty desk knocked, entered without a word, and laid a single red-jacketed file on the blotting pad. Inside rested a two-inch strip of teleprinted paper from Anand Parbat bearing a single typed word:
+A staff captain from the intelligence duty desk knocked, entered without a word, and laid a single red-jacketed file on the blotting pad. Inside rested a two-inch strip of teleprinted paper from Anand Parbat bearing a single typed word - 
 LONGSHANKS.
 Cawthorn picked up the slip. He did not smile, and he did not summon his aides.
 He walked across the room to the small coal grate in the corner, struck a brass vesta against the masonry, and held the flame to the corner of the paper. He watched it burn down to his fingernails, dropped the blackened cinder into the grate, and crushed it into powder beneath the heel of his service shoe.
@@ -3451,7 +3451,7 @@ Major Yogi Crossley sat on a wooden locker beneath the bridge ladder, his swolle
 Beside him, Bill Grice fastened his civilian collar studs and pulled on a lightweight linen jacket. He looked once more like the managing director of Imperial Chemical Industries who had corporate business to inspect in the commercial houses of the south.
 Below decks, in a locked storage compartment forward of the engine room, the three German crewmen taken off the freighter's deck sat on flattened burlap sacks under the guard of an armed Royal Navy rating.
 Their cuts had been dressed with iodine from the ship's first-aid kit; they had been given sweet, milky tea in enamel mugs. They were quiet, shivering slightly in the damp heat, their status anomalous and unrecorded - three prisoners of war who legally did not exist, carried aboard a vessel that officially was dredging silt in the backwaters of Cochin.
-At 05:45, Commander Bernard Davies stepped onto the open bridge wing, his white Port Commissioners cap restored to his head, his blue serge jacket buttoned over his belly.
+At 0545 hours, Commander Bernard Davies stepped onto the open bridge wing, his white Port Commissioners cap restored to his head, his blue serge jacket buttoned over his belly.
 He adjusted the brass binnacle ring.
 
 DAVIES
@@ -3477,7 +3477,7 @@ Two days. And then back to Clive Street.
 NARRATOR
 Chapter Thirty-Five
 Ash Wednesday in Goa
-10 March 1943 — 06:00 to 12:00
+10 March 1943 — 0600 to 1200 hours
 
 Ash Wednesday broke over the red-tiled roofs of Vasco da Gama under a sky smeared with oily, yellow-brown smoke.
 In the public squares, the detritus of Shrove Tuesday lay scattered across the dust - trampled papier-mâché carnival masks, shredded ribbons, broken bottles, and pools of dried cashew liquor buzzing with black blowflies. From the white belfry of the Church of St. Andrew, the morning bells were tolling for early Mass, their measured strokes competing with the hollow, distant rumble of an exploding fuel tank across the roadstead.
@@ -3488,7 +3488,7 @@ The Ehrenfels had come to rest on an even keel in four fathoms of water, submerg
 Two hundred yards to the north, the Drachenfels lay flooded to her scuppers, her bow reared into the air, her internal cargo frames smoldering with dull red heat.
 The Braunfels was burning internally, venting dense, suffocating clouds of raw cotton smoke that drifted low across the railway yards of Vasco da Gama, while across the fairway, the Italian Anfora lay completely over on her starboard bilge, her red-lead bottom plates exposed like the belly of a stranded whale.
 Ashore, at the Salão Municipal, the awakening was abrupt and violent.
-At 06:15, a platoon of Goan colonial sepoys, led by Captain Silva of the Vasco municipal police, kicked open the heavy timber doors.
+At 0615 hours, a platoon of Goan colonial sepoys, led by Captain Silva of the Vasco municipal police, kicked open the heavy timber doors.
 Inside, beneath sagging paper garlands, the hall was a wasteland of overturned tables, gnawed pork bones, and sleeping women. Dozens of German mechanics and Italian deckhands lay sprawled across the floorboards in heavy, stuporous exhaustion, their senses paralyzed by two hundred gallons of raw cashew feni.
 When the police began dragging men to their feet with rifle butts, shouting that the ships were on the bottom and the harbor was burning, the drunken crews stumbled into the morning glare in total confusion.
 Second Officer Peter Lemke of the Ehrenfels broke through the police cordon, running down the railway embankment to the stone quay, his shore-going linen shirt torn, his face pasty with panic. He seized the iron harbor rail, staring in horror at the submerged masts of his ship.
@@ -3511,7 +3511,7 @@ Silva's face was drawn tight with fear. The two hundred British gold sovereigns 
 By order of Governor-General José Ferreira Bossa in Panjim, the Axis crews were stripped of their liberty chits, declared under protective military arrest, and herded onto open-bed railway lorries.
 Under armed guard, the convoy ground away from the water, heading north along the coast road toward the Mandovi River.
 Their destination was Fort Aguada—the massive seventeenth-century Portuguese coastal fortress whose damp, granite subterranean dungeons would serve as their military internment camp for the remaining twenty-six months of the war.
-At 09:30, in the harbor master's office overlooking the wharves, the Capitão dos Portos, Lieutenant Fernando Silva of the Portuguese Navy, formally convened an emergency naval court of inquiry.
+At 0930 hours, in the harbor master's office overlooking the wharves, the Capitão dos Portos, Lieutenant Fernando Silva of the Portuguese Navy, formally convened an emergency naval court of inquiry.
 Flanked by two colonial administrative magistrates dispatched by the Governor-General from Panjim, Silva sat before the official harbor register.
 Before them stood Peter Lemke and the surviving watch officers taken off the Drachenfels.
 Lemke was trembling, his hands clenched tightly on the edge of the inquiry table.
@@ -3598,7 +3598,7 @@ Take care of yourself, Dickie.
 NARRATOR
 Cartwright turned and limped across the red gravel toward the passenger coaches.
 He climbed the iron steps into a second-class compartment, slid his portmanteau onto the wooden rack above, and sat down on the cane-backed bench beside the open window.
-At 12:15, the locomotive gave a sharp, wheezing shriek. The couplings jerked, and the train pulled slowly out of the station, turning east toward the dense bamboo forests of the Western Ghats and the frontier of British India.
+At 1215 hours, the locomotive gave a sharp, wheezing shriek. The couplings jerked, and the train pulled slowly out of the station, turning east toward the dense bamboo forests of the Western Ghats and the frontier of British India.
 Cartwright leaned his head against the wooden partition, closed his eyes, and listened to the rhythmic, mechanical beat of the rails.
 Behind him, Mormugao was a smear of black smoke fading into the coastal heat, but ahead lay twelve hundred miles of broad-gauge track leading home to the quiet ledgers of Calcutta.
 
@@ -3654,10 +3654,10 @@ The Ledger of Operation Creek
 I. The Assault Force (Calcutta Light Horse & Calcutta Scottish)
 Commanding Officer - Lieutenant-Colonel William Herbert "Bill" Grice (Managing Director, Imperial Chemical Industries India)
 Second-in-Command - Major Terence "Yogi" Crossley (Senior Partner, Jute Brokering Agency)
-Assault Officers:
+Assault Officers - 
 Lieutenant Cren Sandys-Lumsdaine (Stockbroker, Calcutta Stock Exchange)
 Captain Robert Hutton Duguid (Senior Accountant, Clive Street Tea Agency / Calcutta Scottish)
-Ranks:
+Ranks - 
 12 Reservists, Calcutta Light Horse (AFI)
 3 Territorial Infantrymen, Calcutta Scottish (AFI)
 Casualties - Zero fatal. Two wounded by glass and shrapnel; multiple concussive injuries.
@@ -3667,7 +3667,7 @@ Mission Commander - Lieutenant-Colonel Lewis Pugh (Royal Artillery / Force 136)
 Maritime Operations Officer - Major Gavin Stewart (Force 136)
 Demolition Officer - Captain Lawrence White (Royal Engineers / Force 136)
 Master, WV Phoebe - Commander Bernard Davies (Royal Navy, Ret. / Calcutta Port Commissioners)
-Forward Reconnaissance & Shore Diversion:
+Forward Reconnaissance & Shore Diversion - 
 "Jock" Cartwright (Commercial Representative / Calcutta Light Horse)
 Robert "Dickie" Sloan (Force 136 Field Agent, Goa)
 
@@ -3679,13 +3679,13 @@ SS Anfora (5,452 GRT, Lloyd Triestino) — Scuttled and capsized by crew. Total 
 Total Tonnage Destroyed - 28,384 Gross Register Tons.
 
 IV. Axis & Civilian Casualties
-Killed in Action (Ehrenfels):
+Killed in Action (Ehrenfels) - 
 Captain Robert Rössing (Master) — Drowned/killed in flooded machinery space.
 Walter Radau (First Officer) — Killed by small-arms fire on bridge wing.
 Wilhelm Redel (Chief Engineer) — Killed during scuttling in engine room.
 Two German engine-room watchkeepers / stokers — Entombed in flooded double bottoms.
 Captured Aboard Ehrenfels - 3 German crewmen (transported to Bombay aboard Phoebe, interned).
 Interned at Fort Aguada - 129 German and Italian merchant seamen (held by Portuguese authorities until 1945).
-Operation Hotspur (Extrajudicial Executions):
+Operation Hotspur (Extrajudicial Executions) - 
 Robert Koch ("Trompeta," Abwehr controller, Panjim) — Abducted 19 Dec 1942; executed near Castle Rock.
 Grete Koch — Abducted 19 Dec 1942; executed near Castle Rock.

@@ -4,88 +4,88 @@ The Fernando Po raid, January 1942
 Cast
 
 NARRATOR
-Narrator - Charon. Accent: Cultured Mid-Century British Received Pronunciation (Cinematic BBC Documentary standard). Timbre & Pitch: Deep, sonorous, dramatic bass; resonant, warm, and reverberant. Cadence & Tempo: Measured, authoritative, unhurried; impeccable dramatic pacing with stately pauses. Mannerisms: Grave historical weight; crystalline dental consonants; cinematic gravitas devoid of vocal fry.
+Narrator - Charon. Accent - Cultured Mid-Century British Received Pronunciation (Cinematic BBC Documentary standard). Timbre & Pitch - Deep, sonorous, dramatic bass; resonant, warm, and reverberant. Cadence & Tempo - Measured, authoritative, unhurried; impeccable dramatic pacing with stately pauses. Mannerisms - Grave historical weight; crystalline dental consonants; cinematic gravitas devoid of vocal fry.
 
 GUBBINS
-Brigadier Colin McVean Gubbins - Orus. Accent: Upper-Class British Military RP with subtle Scottish aristocratic undertones. Timbre & Pitch: Commanding, steel-edged baritone; compact, incisive chest resonance. Cadence & Tempo: Rapid, energetic, incisive; driving martial urgency. Mannerisms: Decisive, snappy consonant articulation; slight Highland roll on emphasized "r"s; brisk, unhesitating executive authority.
+Brigadier Colin McVean Gubbins - Orus. Accent - Upper-Class British Military RP with subtle Scottish aristocratic undertones. Timbre & Pitch - Commanding, steel-edged baritone; compact, incisive chest resonance. Cadence & Tempo - Rapid, energetic, incisive; driving martial urgency. Mannerisms - Decisive, snappy consonant articulation; slight Highland roll on emphasized "r"s; brisk, unhesitating executive authority.
 
 MARCH-PHILLIPPS
-Captain Gustavus Henry March-Phillipps - Puck. Accent: Vintage Upper-Class British RP (Public School, cavalry officer cadence). Timbre & Pitch: Athletic, ringing, vibrant baritone; bright, open-throated, and buoyant. Cadence & Tempo: Spirited, brisk, adventurous; rhythmic swagger with dynamic tempo shifts. Mannerisms: Audible dashing grin behind words; aristocratic vowel elongation; fearless, charismatic bravado that never betrays doubt.
+Captain Gustavus Henry March-Phillipps - Puck. Accent - Vintage Upper-Class British RP (Public School, cavalry officer cadence). Timbre & Pitch - Athletic, ringing, vibrant baritone; bright, open-throated, and buoyant. Cadence & Tempo - Spirited, brisk, adventurous; rhythmic swagger with dynamic tempo shifts. Mannerisms - Audible dashing grin behind words; aristocratic vowel elongation; fearless, charismatic bravado that never betrays doubt.
 
 APPLEYARD
-Second Lieutenant John Geoffrey Appleyard - Achird. Accent: Educated Cambridge Received Pronunciation with subtle Yorkshire gentility. Timbre & Pitch: Warm, steady, clean mid-register baritone; exceptionally clear and soothing texture. Cadence & Tempo: Calm, deliberate, methodical; unruffled even under extreme operational pressure. Mannerisms: Analytical precision; quiet, gentlemanly pauses before speaking; articulate enunciation of navigational and technical detail.
+Second Lieutenant John Geoffrey Appleyard - Achird. Accent - Educated Cambridge Received Pronunciation with subtle Yorkshire gentility. Timbre & Pitch - Warm, steady, clean mid-register baritone; exceptionally clear and soothing texture. Cadence & Tempo - Calm, deliberate, methodical; unruffled even under extreme operational pressure. Mannerisms - Analytical precision; quiet, gentlemanly pauses before speaking; articulate enunciation of navigational and technical detail.
 
 HAYES
-Captain Graham Hayes - Fenrir. Accent: Broad Yorkshire / Northern English. Timbre & Pitch: Gritty, weathered mid-baritone; deep, sandpaper rumble rooted in the chest. Cadence & Tempo: Slow, sturdy, plainspoken; blunt, utilitarian meter. Mannerisms: Truncated Northern vowels; zero rhetorical polish; quiet, stubborn resolve delivered through steady, clenched jaw.
+Captain Graham Hayes - Fenrir. Accent - Broad Yorkshire / Northern English. Timbre & Pitch - Gritty, weathered mid-baritone; deep, sandpaper rumble rooted in the chest. Cadence & Tempo - Slow, sturdy, plainspoken; blunt, utilitarian meter. Mannerisms - Truncated Northern vowels; zero rhetorical polish; quiet, stubborn resolve delivered through steady, clenched jaw.
 
 LASSEN
-Anders Frederik Emil Victor Schau Lassen - Orus. Accent: Aristocratic Danish-accented English (Scandinavian open vowels, light Nordic glottal inflections). Timbre & Pitch: Powerful, husky, resonant baritone; intense, predatory vocal depth. Cadence & Tempo: Deliberate, simmering tempo punctuated by sudden, explosive combat commands. Mannerisms: Soft-spoken, chilling calm; sharp intakes of breath before action; dangerous, suppressed combat excitement.
+Anders Frederik Emil Victor Schau Lassen - Orus. Accent - Aristocratic Danish-accented English (Scandinavian open vowels, light Nordic glottal inflections). Timbre & Pitch - Powerful, husky, resonant baritone; intense, predatory vocal depth. Cadence & Tempo - Deliberate, simmering tempo punctuated by sudden, explosive combat commands. Mannerisms - Soft-spoken, chilling calm; sharp intakes of breath before action; dangerous, suppressed combat excitement.
 
 LIPPETT
-Captain Richard Albert John Lippett - Puck. Accent: Suave Mid-Century Cosmopolitan British RP (Diplomatic / commercial agent standard). Timbre & Pitch: Silky, genial, adaptable light baritone; polite, disarming warmth. Cadence & Tempo: Fluid, engaging, socially relaxed; smooth, persuasive conversational flow. Mannerisms: Charming, breezy cadence designed to deflect suspicion; carefully masked alertness behind a facade of casual commercial innocence.
+Captain Richard Albert John Lippett - Puck. Accent - Suave Mid-Century Cosmopolitan British RP (Diplomatic / commercial agent standard). Timbre & Pitch - Silky, genial, adaptable light baritone; polite, disarming warmth. Cadence & Tempo - Fluid, engaging, socially relaxed; smooth, persuasive conversational flow. Mannerisms - Charming, breezy cadence designed to deflect suspicion; carefully masked alertness behind a facade of casual commercial innocence.
 
 PERKINS
-Private Frank “Buzz” Perkins - Iapetus. Accent: Authentic Working-Class London Cockney / East End. Timbre & Pitch: Heavy, guttural, low bass-baritone; thick, muscular vocal weight. Cadence & Tempo: Punchy, bouncy, aggressive; rapid streetwise rhythmic delivery. Mannerisms: Dropped "h"s, strong glottal stops, and flattened diphthongs; throaty boxer's chuckle; raw, earthy physical confidence.
+Private Frank “Buzz” Perkins - Iapetus. Accent - Authentic Working-Class London Cockney / East End. Timbre & Pitch - Heavy, guttural, low bass-baritone; thick, muscular vocal weight. Cadence & Tempo - Punchy, bouncy, aggressive; rapid streetwise rhythmic delivery. Mannerisms - Dropped "h"s, strong glottal stops, and flattened diphthongs; throaty boxer's chuckle; raw, earthy physical confidence.
 
 WINTER
-Commando Tom Winter - Achird. Accent: Broad West Country / Southwestern English regional burr. Timbre & Pitch: Earthy, warm, mellow mid-baritone; grounded and gravelly. Cadence & Tempo: Unhurried, rolling, steady; natural conversational cadence. Mannerisms: Rhotic rolling "r"s; laconic, wry soldierly humor; calm, unflappable battlefield pragmatism.
+Commando Tom Winter - Achird. Accent - Broad West Country / Southwestern English regional burr. Timbre & Pitch - Earthy, warm, mellow mid-baritone; grounded and gravelly. Cadence & Tempo - Unhurried, rolling, steady; natural conversational cadence. Mannerisms - Rhotic rolling "r"s; laconic, wry soldierly humor; calm, unflappable battlefield pragmatism.
 
 MILLER
-Private Miller - Fenrir. Accent: Lowland Scottish / Glaswegian working-class. Timbre & Pitch: Raspy, tight, abrasive baritone; dry, gravelly edge. Cadence & Tempo: Fast, biting, staccato; sharp rhythmic bursts. Mannerisms: Glottalized stops; rolled alveolar "r"s; terse, disciplined soldierly brevity.
+Private Miller - Fenrir. Accent - Lowland Scottish / Glaswegian working-class. Timbre & Pitch - Raspy, tight, abrasive baritone; dry, gravelly edge. Cadence & Tempo - Fast, biting, staccato; sharp rhythmic bursts. Mannerisms - Glottalized stops; rolled alveolar "r"s; terse, disciplined soldierly brevity.
 
 DE MENTHON
-François de Menthon - Achird. Accent: Cultured Continental French-accented English (Upper-class Parisian / Savoyard cadence). Timbre & Pitch: Refined, melodious mid-register baritone; elegant, light nasal resonance. Cadence & Tempo: Graceful, measured, articulate; lyrical rise and fall. Mannerisms: Softened dental consonants ("th" softened toward "z"); diplomatic poise; quiet, unshakable European conviction.
+François de Menthon - Achird. Accent - Cultured Continental French-accented English (Upper-class Parisian / Savoyard cadence). Timbre & Pitch - Refined, melodious mid-register baritone; elegant, light nasal resonance. Cadence & Tempo - Graceful, measured, articulate; lyrical rise and fall. Mannerisms - Softened dental consonants ("th" softened toward "z"); diplomatic poise; quiet, unshakable European conviction.
 
 BOURDILLON
-Sir Bernard Henry Bourdillon - Iapetus. Accent: High Patrician British Received Pronunciation (Colonial Governor / Whitehall administrative elite). Timbre & Pitch: Deep, opulent, resonant bass; mature, dignified timbre. Cadence & Tempo: Stately, measured, paternal; slow and deliberate. Mannerisms: Broad, rounded vowels; unflappable imperial composure; quiet, formidable administrative authority.
+Sir Bernard Henry Bourdillon - Iapetus. Accent - High Patrician British Received Pronunciation (Colonial Governor / Whitehall administrative elite). Timbre & Pitch - Deep, opulent, resonant bass; mature, dignified timbre. Cadence & Tempo - Stately, measured, paternal; slow and deliberate. Mannerisms - Broad, rounded vowels; unflappable imperial composure; quiet, formidable administrative authority.
 
 GIFFARD
-General Sir George Giffard - Fenrir. Accent: Severe, clipped Sandhurst British Military RP. Timbre & Pitch: Dry, grating, tight mid-baritone; rigid, brittle vocal quality. Cadence & Tempo: Rigid, curt, staccato; metronomic military delivery. Mannerisms: Tight-lipped enunciation; biting, dismissive consonants; bureaucratic finality that brook no irregular deviation.
+General Sir George Giffard - Fenrir. Accent - Severe, clipped Sandhurst British Military RP. Timbre & Pitch - Dry, grating, tight mid-baritone; rigid, brittle vocal quality. Cadence & Tempo - Rigid, curt, staccato; metronomic military delivery. Mannerisms - Tight-lipped enunciation; biting, dismissive consonants; bureaucratic finality that brook no irregular deviation.
 
 BALFOUR
-Balfour - Orus. Accent: Formal British RP (Intelligence Bureaucracy / Foreign Office). Timbre & Pitch: Firm, low-register, commanding baritone; controlled, velvety resonance. Cadence & Tempo: Measured, strategic, polished; deliberate pauses for emphasis. Mannerisms: Analytical detachment; steel concealed beneath consummate diplomatic courtesy; precise, quiet authority.
+Balfour - Orus. Accent - Formal British RP (Intelligence Bureaucracy / Foreign Office). Timbre & Pitch - Firm, low-register, commanding baritone; controlled, velvety resonance. Cadence & Tempo - Measured, strategic, polished; deliberate pauses for emphasis. Mannerisms - Analytical detachment; steel concealed beneath consummate diplomatic courtesy; precise, quiet authority.
 
 NICHOLAS
-Lieutenant Commander Herbert Nicholas - Orus. Accent: Authoritative Royal Navy Officer RP (Dartmouth Naval College standard). Timbre & Pitch: Booming, clear, resonant baritone; powerful sea-deck projection. Cadence & Tempo: Crisp, brisk, nautical; decisive, driving tempo. Mannerisms: Sharp naval diction; clipped dental stops; efficient, brisk professionalism devoid of hesitation.
+Lieutenant Commander Herbert Nicholas - Orus. Accent - Authoritative Royal Navy Officer RP (Dartmouth Naval College standard). Timbre & Pitch - Booming, clear, resonant baritone; powerful sea-deck projection. Cadence & Tempo - Crisp, brisk, nautical; decisive, driving tempo. Mannerisms - Sharp naval diction; clipped dental stops; efficient, brisk professionalism devoid of hesitation.
 
 SPECHT
-Captain Giovanni Specht - Fenrir. Accent: Northern Italian-accented English (Ligurian / Triestine maritime cadence). Timbre & Pitch: Weathered, smoky baritone; gravelly with excitable, throaty undertones. Cadence & Tempo: Rapid, volatile, highly musical; abrupt surges in volume and tempo. Mannerisms: Strongly rolled "r"s; pronounced vocal gestures; indignant, prideful maritime bluster when challenged.
+Captain Giovanni Specht - Fenrir. Accent - Northern Italian-accented English (Ligurian / Triestine maritime cadence). Timbre & Pitch - Weathered, smoky baritone; gravelly with excitable, throaty undertones. Cadence & Tempo - Rapid, volatile, highly musical; abrupt surges in volume and tempo. Mannerisms - Strongly rolled "r"s; pronounced vocal gestures; indignant, prideful maritime bluster when challenged.
 
 CHIEF ENGINEER
-Chief Engineer - Iapetus. Accent: Heavy Southern Italian-accented English (Neapolitan merchant marine). Timbre & Pitch: Thick, rumbling, oily bass; raspy and cavernous. Cadence & Tempo: Plodding, guttural, deliberate; interspersed with sudden animated complaints. Mannerisms: Elongated terminal vowels; deep mechanical sighs; startled guttural exclamations ("Dio mio") when ambushed.
+Chief Engineer - Iapetus. Accent - Heavy Southern Italian-accented English (Neapolitan merchant marine). Timbre & Pitch - Thick, rumbling, oily bass; raspy and cavernous. Cadence & Tempo - Plodding, guttural, deliberate; interspersed with sudden animated complaints. Mannerisms - Elongated terminal vowels; deep mechanical sighs; startled guttural exclamations ("Dio mio") when ambushed.
 
 OFFICIAL
-Portuguese Harbour Official - Puck. Accent: Lusophone / Lisbon-accented English (European Portuguese). Timbre & Pitch: Melodic, breathy light baritone; easy, relaxed timbre. Cadence & Tempo: Leisurely, soft-spoken, fluid; rhythmic and non-confrontational. Mannerisms: Shushing sibilants (pronouncing "s" as "sh"); laid-back colonial indifference; bureaucratic lethargy.
+Portuguese Harbour Official - Puck. Accent - Lusophone / Lisbon-accented English (European Portuguese). Timbre & Pitch - Melodic, breathy light baritone; easy, relaxed timbre. Cadence & Tempo - Leisurely, soft-spoken, fluid; rhythmic and non-confrontational. Mannerisms - Shushing sibilants (pronouncing "s" as "sh"); laid-back colonial indifference; bureaucratic lethargy.
 
 OFFICER
-Spanish Ship’s Officer - Achird. Accent: Peninsular Castilian Spanish-accented English (Naval officer cadence). Timbre & Pitch: Dry, formal, crisp mid-baritone; sharp, narrow resonance. Cadence & Tempo: Stiff, rhythmic, punctilious; moderate marching tempo. Mannerisms: Crisp, unyielding dental articulation; haughty neutrality; sharp, indignant protests.
+Spanish Ship’s Officer - Achird. Accent - Peninsular Castilian Spanish-accented English (Naval officer cadence). Timbre & Pitch - Dry, formal, crisp mid-baritone; sharp, narrow resonance. Cadence & Tempo - Stiff, rhythmic, punctilious; moderate marching tempo. Mannerisms - Crisp, unyielding dental articulation; haughty neutrality; sharp, indignant protests.
 
 PILOT
-Pilot of the Maid Honor - Fenrir. Accent: Maritime Cornish / West Country Coastal English. Timbre & Pitch: Coarse, salty, low baritone; rasped by sea wind and pipe smoke. Cadence & Tempo: Rolling, rhythmic like sea swell; unbothered, steady pacing. Mannerisms: Broad coastal vowels; calm, taciturn delivery; unfazed confidence in treacherous waters.
+Pilot of the Maid Honor - Fenrir. Accent - Maritime Cornish / West Country Coastal English. Timbre & Pitch - Coarse, salty, low baritone; rasped by sea wind and pipe smoke. Cadence & Tempo - Rolling, rhythmic like sea swell; unbothered, steady pacing. Mannerisms - Broad coastal vowels; calm, taciturn delivery; unfazed confidence in treacherous waters.
 
 OPERATIVE
-Local Engineering Operative - Orus. Accent: Educated West African English (Nigerian coastal cadence). Timbre & Pitch: Rich, vibrant, resonant baritone; warm and full-bodied. Cadence & Tempo: Syllable-timed, rhythmic, energetic; lively cadence. Mannerisms: Crisp, percussive plosives; musical sentence inflections; eager, professional competence.
+Local Engineering Operative - Orus. Accent - Educated West African English (Nigerian coastal cadence). Timbre & Pitch - Rich, vibrant, resonant baritone; warm and full-bodied. Cadence & Tempo - Syllable-timed, rhythmic, energetic; lively cadence. Mannerisms - Crisp, percussive plosives; musical sentence inflections; eager, professional competence.
 
 MECHANIC
-Mechanic of the Maid Honor - Achird. Accent: Industrial Midlands / Birmingham English (Brummie). Timbre & Pitch: Nasal, flat, dry mid-baritone; gritty, mechanical texture. Cadence & Tempo: Conversational, steady, workmanlike drone. Mannerisms: Downward inflection at ends of phrases; muttered under-the-breath commentary; matter-of-fact industrial pragmatism.
+Mechanic of the Maid Honor - Achird. Accent - Industrial Midlands / Birmingham English (Brummie). Timbre & Pitch - Nasal, flat, dry mid-baritone; gritty, mechanical texture. Cadence & Tempo - Conversational, steady, workmanlike drone. Mannerisms - Downward inflection at ends of phrases; muttered under-the-breath commentary; matter-of-fact industrial pragmatism.
 
 LIEUTENANT
-Royal Navy Harbour Lieutenant - Puck. Accent: Crisp Mid-Century British Public School / Naval RP. Timbre & Pitch: Youthful, bright, clean baritone; sharp projection. Cadence & Tempo: Snappy, brisk, energetic; by-the-book military tempo. Mannerisms: Perfectly clipped syllables; eager deference to senior commanders; crisp textbook efficiency.
+Royal Navy Harbour Lieutenant - Puck. Accent - Crisp Mid-Century British Public School / Naval RP. Timbre & Pitch - Youthful, bright, clean baritone; sharp projection. Cadence & Tempo - Snappy, brisk, energetic; by-the-book military tempo. Mannerisms - Perfectly clipped syllables; eager deference to senior commanders; crisp textbook efficiency.
 
 INSPECTOR
-Spanish Police Inspector - Fenrir. Accent: Formal Castilian Spanish (Colonial Police authority). Timbre & Pitch: Dark, dry, sinister mid-baritone; narrow, gravelly resonance. Cadence & Tempo: Slow, calculating, predatory; lingering interrogative meter. Mannerisms: Heavy, deliberate sibilants; soft, menacing pauses before accusatory questions; dry, smoke-damaged rasp.
+Spanish Police Inspector - Fenrir. Accent - Formal Castilian Spanish (Colonial Police authority). Timbre & Pitch - Dark, dry, sinister mid-baritone; narrow, gravelly resonance. Cadence & Tempo - Slow, calculating, predatory; lingering interrogative meter. Mannerisms - Heavy, deliberate sibilants; soft, menacing pauses before accusatory questions; dry, smoke-damaged rasp.
 
 SPANISH SERGEANT
-Spanish Sergeant - Orus. Accent: Harsh, guttural Spanish-accented military command. Timbre & Pitch: Abrasive, barking, booming baritone; strained throat resonance. Cadence & Tempo: Staccato, furious, rapid-fire drill cadence. Mannerisms: Explosive, spitting consonants; short-fused colonial martinet hostility; sharp vocal punches.
+Spanish Sergeant - Orus. Accent - Harsh, guttural Spanish-accented military command. Timbre & Pitch - Abrasive, barking, booming baritone; strained throat resonance. Cadence & Tempo - Staccato, furious, rapid-fire drill cadence. Mannerisms - Explosive, spitting consonants; short-fused colonial martinet hostility; sharp vocal punches.
 
 MASTER OF THE LIKOMBA
-Master of the Likomba - Iapetus. Accent: North German / Hamburg maritime English. Timbre & Pitch: Cavernous, rumbling, gravelly bass; thick, heavy chest resonance. Cadence & Tempo: Plodding, guttural, blunt; stubborn, unyielding cadence. Mannerisms: Hard glottal onset on initial vowels; guttural uvular "r"s; surly, defiant sea-dog resistance.
+Master of the Likomba - Iapetus. Accent - North German / Hamburg maritime English. Timbre & Pitch - Cavernous, rumbling, gravelly bass; thick, heavy chest resonance. Cadence & Tempo - Plodding, guttural, blunt; stubborn, unyielding cadence. Mannerisms - Hard glottal onset on initial vowels; guttural uvular "r"s; surly, defiant sea-dog resistance.
 
 HEAD-STOKER
-Head-Stoker of the Tug Vulcan - Fenrir. Accent: Industrial Tyneside / Geordie working-class English. Timbre & Pitch: Hoarse, soot-strained, roaring baritone; raw, booming projection over boiler noise. Cadence & Tempo: Fast, driving, melodic Geordie rhythm; breathless urgency. Mannerisms: Dropped consonants; rising musical sentence endings; furious industrial energy and commanding dockside bellows.
+Head-Stoker of the Tug Vulcan - Fenrir. Accent - Industrial Tyneside / Geordie working-class English. Timbre & Pitch - Hoarse, soot-strained, roaring baritone; raw, booming projection over boiler noise. Cadence & Tempo - Fast, driving, melodic Geordie rhythm; breathless urgency. Mannerisms - Dropped consonants; rising musical sentence endings; furious industrial energy and commanding dockside bellows.
 
 WATCHMAN
-German Watchman - Puck. Accent: Low German / colloquial German-accented English. Timbre & Pitch: Tense, wiry, mid-register baritone; breathy and high-strung. Cadence & Tempo: Nervous, halting, staccato bursts. Mannerisms: Sharp "v" substitutions for "w"; sharp intakes of cold air; sudden panicked vocal cracking when startled on the dark deck.
+German Watchman - Puck. Accent - Low German / colloquial German-accented English. Timbre & Pitch - Tense, wiry, mid-register baritone; breathy and high-strung. Cadence & Tempo - Nervous, halting, staccato bursts. Mannerisms - Sharp "v" substitutions for "w"; sharp intakes of cold air; sudden panicked vocal cracking when startled on the dark deck.
 
 
 
@@ -1036,7 +1036,7 @@ That evening, behind the locked shutters of his rented bungalow in the upper tow
 He unrolled the scrap of copper wire. Using his boxwood rule, he measured the marked loop - exactly eleven inches in circumference, confirming the three-and-a-half-inch solid iron core.
 Beside the wire, he laid out his daily observation log—not written in military terms, but encoded within the commercial bookkeeping format of John Holt & Company.
 Mooring lines, sentry rotations, and lighting schedules were recorded as timber dimensions, warehouse stocks, and shipping tonnage.
-Over three weeks of continuous surveillance, Lippett had pieced together the operational rhythm of the harbor defenses with mechanical precision:
+Over three weeks of continuous surveillance, Lippett had pieced together the operational rhythm of the harbor defenses with mechanical precision - 
 The Ship's Watch - The Duchessa d'Aosta maintained a crew of approximately thirty Italian sailors and officers aboard. However, their discipline had been completely corroded by eighteen months of tropical internment. At night, only four men remained on deck - a quartermaster and an ordinary seaman on the bridge deck, and two men forward on the forecastle. They carried no firearms—under Spanish neutrality regulations, the ship's small arms had been officially impounded by the Governor-General, though Lippett suspected the officers retained concealed pistols in their cabins.
 The Mooring Configuration - In addition to the massive starboard bower anchor, the liner's stern was secured to a steel mooring buoy by four parts of heavy wire hawser and a ten-inch coir spring line. To move her, both the forward anchor chain and the stern wires would have to be severed simultaneously.
 The Shore Defenses - The Spanish coastal battery on the western headland was manned by a detachment of eighteen Guardia Colonial under a Spanish sergeant. The Krupp guns were fixed to cover the entrance of the bay, but their fields of fire could not depress enough to sweep the inner roadstead immediately beneath the basalt cliffs.
@@ -1177,7 +1177,7 @@ NARRATOR
 Stewards in frayed white mess jackets circulated with trays of sweet vermouth, Asti Spumante, and small plates of salted almonds. The Spanish officials congregated around the bar table, laughing loudly, while Specht held court with de Menthon, declaiming with bitter sarcasm on the quality of the beef supplied by the local Spanish contractors.
 Lippett took a glass of vermouth, smiled affably, and allowed himself to drift slowly toward the perimeter of the gathering.
 Every second he spent on this deck was being committed to an internal blueprint.
-He moved along the starboard promenade deck toward the forward companionway. His eyes tracked the physical layout with mechanical precision:
+He moved along the starboard promenade deck toward the forward companionway. His eyes tracked the physical layout with mechanical precision - 
 Freeboard - The drop from the promenade deck to the water was twenty-two feet. A boarding party coming from a tugboat or a low launch would need heavy grapnels and knotted scrambling nets; there was no jumping aboard.
 Bridge Access - The narrow companionways leading up to the navigating bridge and the chartroom were unprotected by timber gates, but they were steep and narrow, allowing only one man to pass at a time.
 The Wireless Cabin - Perched directly abaft the bridge on the boat deck, Lippett spotted the heavy mahogany door of the radio shack. The four copper lead-in cables ran from its roof insulators straight up to the foremast aerial array. That door would have to be secured within thirty seconds of boarding; if the Italian wireless operator reached the Telefunken key, a distress signal could be flashed across the Bight of Biafra before the ship was even unmoored.
@@ -1573,7 +1573,7 @@ If the raiders were caught inside the harbor, His Majesty's Government would iss
 The cipher from London arrived at the Lagos colonial secretariat in the early morning hours of 6 January 1942.
 March-Phillipps, Appleyard, and Graham Hayes were waiting in the small, fan-cooled cipher room behind the Governor's private office. The air was heavy with the smell of scorched carbon paper from the deciphering machine.
 The colonial signals officer handed the yellow decipher slip to March-Phillipps.
-It contained three typed lines from Baker Street, initialed by Colin Gubbins:
+It contained three typed lines from Baker Street, initialed by Colin Gubbins - 
 MOST SECRET. CHIEFS OF STAFF CONCUR WITH FOREIGN OFFICE CLEARANCE. OPERATION POSTMASTER AUTHORIZED TO PROCEED FOR NIGHT 14/15 JANUARY. CORVETTE VIOLET WILL BE AT RENDEZVOUS TO ACCEPT SALVAGE. GOVERNOR NIGERIA AUTHORIZED TO RELEASE VESSELS. ADMIRALTY INSISTS UTMOST CAUTION. DISAVOWAL REMAINS ABSOLUTE.
 March-Phillipps passed the paper to Appleyard.
 The Cambridge engineer read the text twice, his thumb tracing the date - 14/15 January.
@@ -1637,18 +1637,18 @@ HEAD-STOKER
 NARRATOR
 Seventeen men stepped forward to sign the clearance muster with their thumbprints.
 With the addition of the seventeen African mariners, the total complement of Operation Postmaster was finalized at thirty-two men.
-It was an extraordinarily compact striking force to assault an enemy liner and two merchant tugs in a fortified foreign harbor:
+It was an extraordinarily compact striking force to assault an enemy liner and two merchant tugs in a fortified foreign harbor - 
 The Command and Planning Cadre - Gus March-Phillipps, Geoffrey Appleyard, Graham Hayes, and Captain Peter Lake, the local SOE liaison officer who helped coordinate the logistics between Government House and the docks.
 The Commando Boarding Parties - Anders Lassen, Maître André Desgranges, Private Frank "Buzz" Perkins, and eight specialized commandos drawn from the original Maid Honor force and SOE holding units—men trained in silent killing, close-quarter combat with the Thompson gun, and industrial demolition.
 The Naval and Engineering Element - The seventeen African volunteers, divided into engine-room crews, stokers, and deckhands, reinforced by Leonard Guise to oversee mechanical contingencies.
 By the afternoon of 7 January, the thirty-two men were brought into the enclosed slipway shed at Apapa, and the heavy timber doors were chained shut from the inside.
 Appleyard took command of the technical reorganization. Working under the harsh glare of inspection lamps, he divided the force into two distinct tactical units, tailored to the specific capabilities of the two tugboats.
-The Vulcan Unit:
+The Vulcan Unit - 
 Assigned to the primary target, the Duchessa d'Aosta.
 Vessel Command - Gus March-Phillipps.
 Assault Force - Anders Lassen, six commandos, and a team of eight African stokers and greasers to man the Vulcan's twin boilers.
 The Mission - The Vulcan would approach the Duchessa's starboard side in complete silence. Lassen's party would board the forecastle, subdue the forward sentries, and secure the anchor windlass, while March-Phillipps led a secondary party onto the bridge deck to secure the wireless cabin before the Telefunken transmitter could be activated. Once the anchor chain was blown, the Vulcan would secure an eleven-inch towing hawser to the liner's bow and haul her out into the channel.
-The Nuneaton Unit:
+The Nuneaton Unit - 
 Assigned to the secondary targets, the German tugs Likomba and Bibundi.
 Vessel Command - Geoffrey Appleyard.
 Assault Force - Graham Hayes, five commandos, and nine African mariners to work the wheel, deck gear, and coal furnaces.
@@ -1830,7 +1830,7 @@ LASSEN
 "Quiet and bloodless. It is better that way. Dead men make too much noise in the newspapers."
 
 NARRATOR
-By mid-afternoon on 13 January, the Nuneaton signaled from astern with a small, hooded daylight lamp:
+By mid-afternoon on 13 January, the Nuneaton signaled from astern with a small, hooded daylight lamp - 
 BEARING ZERO-NINE-ZERO. ELEVATION.
 March-Phillipps raised his binoculars, steadying his elbows against the bridge rail.
 To the east, rising out of the heat haze sixty miles away, hung a vast, faint blue triangle, suspended between the ocean and the white cumulus cloud base.
@@ -1918,7 +1918,7 @@ He pulled a pair of dark cotton gloves over his hands, adjusted the strap of the
 The civilian pilot stood by the wheel, his dark face invisible in the gloom, his hands steady on the spokes.
 Below, in the stokehold, the furnace doors swung open. The head-stoker raised his shovel.
 March-Phillipps pulled the brass lever of the engine-room telegraph.
-The bell gave a single, muffled ping in the depths of the ship:
+The bell gave a single, muffled ping in the depths of the ship - 
 Slow Ahead.
 The Vulcan's twin screws turned over, their blades biting into the dark water with a soft, foaming hiss. Half a cable-length astern, the Nuneaton took up her station.
 Course - one hundred and forty degrees.
@@ -2435,7 +2435,7 @@ High above them on Punta Fernanda, the Spanish garrison's panic had dissolved in
 The anti-aircraft cannons had ceased firing, their barrels smoking into the night air. The sergeant in command, having scanned the empty clouds and found no falling bombs, finally ordered the searchlight brought to bear on the harbor.
 The hooded carbon-arc lamp struck to life with an electric sizzle, casting an intense, chalk-white beam down from the eighty-foot cliff.
 The light swept the caldera in erratic jerks. It crossed the abandoned stern buoy, the churned yellow water of the anchorage, and then struck the towering white deckhouses of the Duchessa.
-A frantic shout echoed down from the cliff edge:
+A frantic shout echoed down from the cliff edge - 
 "¡El barco se mueve! ¡Están robando el barco!"
 The beam snapped forward along the taut, vibrating line of the eleven-inch hawser, illuminating the dark blue funnel and frothing stern of the Vulcan.
 Yet the Spanish artillery crews were utterly helpless.
@@ -2517,9 +2517,9 @@ A thin, dark plume of oil-smoke rose three points off the starboard bow, ten mil
 Within twenty minutes, the sleek, grey silhouette of a warship materialized from the morning haze, driving south through the swell at sixteen knots with a bone in her teeth.
 It was the Flower-class corvette HMS Violet.
 Her single four-inch deck gun was trained forward, her radar lantern perched atop her tripod mast, the White Ensign snapping crisply at her main peak. Her commanding officer, Lieutenant Commander Herbert Nicholas, brought the warship carving through the water in a graceful, white-foamed turn, easing down her revolutions until she lay parallel to the Vulcan two cable-lengths off.
-The corvette's Aldis lamp clattered with sharp, staccato shutter-clicks:
+The corvette's Aldis lamp clattered with sharp, staccato shutter-clicks - 
 WHAT SHIP IS THAT?
-March-Phillipps took the signal lamp from the wheelhouse locker, keying the return shutter with steady fingers:
+March-Phillipps took the signal lamp from the wheelhouse locker, keying the return shutter with steady fingers - 
 NIGERIAN GOVERNMENT TUG VULCAN. ABANDONED AXIS LINER UNDER SALVAGE.
 The imperial lie was enacted with flawless naval protocol.
 Lieutenant Commander Nicholas leaned over the corvette's bridge wing with a brass megaphone, his voice carrying over the quiet slap of the swell.
@@ -2572,17 +2572,17 @@ The flags were standard Royal Navy visual signaling kits - two squares of stiff 
 Appleyard climbed the iron rungs of the Nuneaton's short tubular mast, swinging himself onto the narrow wooden crosstrees ten feet above the bridge roof.
 Standing fully upright on the timber spar, his feet locked into the wire shrouds, Appleyard framed himself against the bleached white disc of the equatorial sky.
 He gripped the flagstaffs, snapped his arms outward into the horizontal Attention position, and began to work the manual semaphore alphabet.
-His arms moved with rhythmic, mathematical precision:
+His arms moved with rhythmic, mathematical precision - 
 N-U-N-E-A-T-O-N D-I-S-A-B-L-E-D.
 He paused, holding the flags locked, watching the distant freighter through the shimmer of heat.
 H-A-V-E T-W-O P-R-I-Z-E-S U-N-D-E-R T-O-W.
 On the bridge wing of the SS Ilorin, three miles away, a lookout with a telescope finally caught the sharp, flashing arcs of red and yellow cloth fluttering above the low raft of ships.
 The collier's steam whistle gave one long, throaty bellow that rolled across the calm sea like a distant foghorn.
-A moment later, an Aldis lamp began to blink from the Ilorin's wheelhouse, its shutter clattering out a response:
+A moment later, an Aldis lamp began to blink from the Ilorin's wheelhouse, its shutter clattering out a response - 
 R-E-A-D-I-N-G Y-O-U. W-H-A-T A-S-S-I-S-T-A-N-C-E R-E-Q-U-I-R-E-D?
-Appleyard's flags cut the air again, spelling out the urgent cipher:
+Appleyard's flags cut the air again, spelling out the urgent cipher - 
 E-N-G-I-N-E-S D-E-A-D. R-A-D-I-O N-A-V-A-L O-F-F-I-C-E-R I-N C-H-A-R-G-E L-A-G-O-S I-M-M-E-D-I-A-T-E-L-Y. S-E-N-D T-U-G A-N-D E-S-C-O-R-T T-O P-O-S-I-T-I-O-N.
-The collier's lamp flickered once more:
+The collier's lamp flickered once more - 
 M-E-S-S-A-G-E U-N-D-E-R-S-T-O-O-D. T-R-A-N-S-M-I-T-T-I-N-G.
 The Ilorin did not stop to pass a towline; an 900-ton loaded coal carrier had neither the maneuverability nor the deck gear to secure three dead vessels in a swell without tearing her own fairleads loose. Instead, the freighter held her course, her Marconi wireless aerial immediately crackling with high-priority naval cipher traffic, beaming the geographic coordinates of the stranded raiders directly into the colonial operations room in Lagos.
 In the clandestine annex behind Government House on the Marina, the arrival of the Ilorin's dispatch detonated immediate action.
@@ -2644,7 +2644,7 @@ The conditions were wretched. The cell contained only a wooden bench soaked in u
 Within six hours, the temperature inside the stone box climbed past one hundred degrees. Lippett was stripped of his socks, belt, and shirt, sitting on the damp volcanic flags with his back pressed against the weeping rock.
 The interrogation began that evening and continued without reprieve for four days.
 Lippett was brought into a bare stone room illuminated by a single unshaded kerosene lantern. Across the table sat the Spanish military commandant, flanked by two intelligence officers who had arrived on an emergency flight from Spanish Morocco.
-The questions were hammered at him in a continuous, deafening cadence of Spanish and fractured English:
+The questions were hammered at him in a continuous, deafening cadence of Spanish and fractured English - 
 "Who gave you the orders?"
 "Where did the launches come from?"
 "Why were you sounding the caldera in a native skiff on the tenth of January?"
@@ -2761,7 +2761,7 @@ In Madrid, the diplomatic explosion was instant, violent, and futile.
 On 17 January 1942, Ramón Serrano Suñer, Spain's pro-Axis Foreign Minister, summoned Sir Samuel Hoare to the Palacio de Santa Cruz. Trembling with rage, Serrano Suñer slammed a typed dispatch from the Governor-General of Fernando Po onto his mahogany desk, accusing the British Government of an intolerable, unprovoked act of naked aggression in Spanish sovereign waters. The Falangist press screamed for immediate retaliation, demanding the expulsion of British diplomats and the mobilization of troops along the border of Gibraltar.
 The British Foreign Office met the storm with a wall of glacial, unbroken deceit.
 Under instructions from Anthony Eden, Sir Samuel Hoare expressed profound, pained astonishment. He informed the Spanish government that His Majesty's armed forces had conducted no operations whatsoever in the Gulf of Guinea.
-To complete the cover, the Admiralty issued a terse, formal communiqué to the international press:
+To complete the cover, the Admiralty issued a terse, formal communiqué to the international press - 
 On the morning of 16 January, light forces of the Royal Navy operating on the high seas in the South Atlantic sighted three unidentified merchant vessels drifting without lights or crews outside territorial waters. Under long-standing international maritime salvage conventions, an armed boarding party was placed aboard, and the craft were taken in tow as legitimate maritime prizes.
 The imperial lie held. Madrid possessed no photographs, no captured British equipment, and not a single soldier's identity disc. When Richard Lippett paddled onto the beach at Victoria six weeks later, the last physical thread connecting the raid to British planning vanished into the African bush.
 Deprived of forensic evidence, General Franco chose political preservation over ideological solidarity. He could not risk a total British naval blockade and the cutoff of Venezuelan oil for the sake of an Italian passenger ship and two German tugs. The Spanish protests dwindled into legalistic diplomatic notes, and the cork remained firmly in the bottle of Gibraltar.
