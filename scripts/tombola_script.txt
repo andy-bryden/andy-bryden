@@ -4,136 +4,136 @@ The Northern Apennines, 1944-45
 Cast
 
 NARRATOR
-Narrator - Charon. Accent: Vintage Mid-Century British Received Pronunciation (1940s BBC / War Office documentary standard). Timbre & Pitch: Deep, resonant, dramatic bass; rich low-end chest resonance, clean and authoritative. Cadence & Tempo: Measured, steady, stately narrative pace; dramatic pauses before crucial revelations. Mannerisms: Impartial journalistic gravity; crisp, rounded consonants; cinematic storytelling authority.
+Narrator - Charon. Accent - Vintage Mid-Century British Received Pronunciation (1940s BBC / War Office documentary standard). Timbre & Pitch - Deep, resonant, dramatic bass; rich low-end chest resonance, clean and authoritative. Cadence & Tempo - Measured, steady, stately narrative pace; dramatic pauses before crucial revelations. Mannerisms - Impartial journalistic gravity; crisp, rounded consonants; cinematic storytelling authority.
 
 FARRAN
-Major Roy Farran - Orus. Accent: Mid-Century British Officer RP with faint Anglo-Irish pedigree (Sandhurst cavalry officer). Timbre & Pitch: Crisp, commanding, metallic baritone; punchy mid-range resonance with effortless projection. Cadence & Tempo: Brisk, assertive, driving tempo; decisive military cadence without hesitation. Mannerisms: Clipped consonants, dry swagger; confident, maverick authority; speaks through a grim, defiant smile under fire.
+Major Roy Farran - Orus. Accent - Mid-Century British Officer RP with faint Anglo-Irish pedigree (Sandhurst cavalry officer). Timbre & Pitch - Crisp, commanding, metallic baritone; punchy mid-range resonance with effortless projection. Cadence & Tempo - Brisk, assertive, driving tempo; decisive military cadence without hesitation. Mannerisms - Clipped consonants, dry swagger; confident, maverick authority; speaks through a grim, defiant smile under fire.
 
 LEES
-Captain Michael Lees - Puck. Accent: Vintage British Public School RP (SOE liaison officer standard). Timbre & Pitch: Warm, bright, agile baritone; clear and open-throated with a slightly breathless upper register. Cadence & Tempo: Fast-paced, urgent, energetic; eager, articulate, and persuasive. Mannerisms: Rapid-fire articulation; breathless enthusiasm; tight-lipped grit when fighting through severe pain.
+Captain Michael Lees - Puck. Accent - Vintage British Public School RP (SOE liaison officer standard). Timbre & Pitch - Warm, bright, agile baritone; clear and open-throated with a slightly breathless upper register. Cadence & Tempo - Fast-paced, urgent, energetic; eager, articulate, and persuasive. Mannerisms - Rapid-fire articulation; breathless enthusiasm; tight-lipped grit when fighting through severe pain.
 
 BRIGADIER
-Brigadier - Iapetus. Accent: High-Command British Received Pronunciation (Senior Staff Officer standard). Timbre & Pitch: Deep, dry, authoritative bass; oaky, gravelly timbre with heavy chest resonance. Cadence & Tempo: Slow, deliberate, unhurried; icy and authoritative. Mannerisms: Plummy, dismissive vowels; speaks from an armchair posture of unquestioned rank; clipped, cold sign-offs.
+Brigadier - Iapetus. Accent - High-Command British Received Pronunciation (Senior Staff Officer standard). Timbre & Pitch - Deep, dry, authoritative bass; oaky, gravelly timbre with heavy chest resonance. Cadence & Tempo - Slow, deliberate, unhurried; icy and authoritative. Mannerisms - Plummy, dismissive vowels; speaks from an armchair posture of unquestioned rank; clipped, cold sign-offs.
 
 AMERICAN COLONEL
-American Colonel - Achird. Accent: Mid-Century General American (Patrician East Coast / Ivy League officer cadence). Timbre & Pitch: Resonant, steady, dry baritone; clean, even projection. Cadence & Tempo: Firm, direct, moderate tempo; businesslike and efficient. Mannerisms: Flat, nasal terminal vowels; frank, no-nonsense delivery; pragmatic appraisal in every statement.
+American Colonel - Achird. Accent - Mid-Century General American (Patrician East Coast / Ivy League officer cadence). Timbre & Pitch - Resonant, steady, dry baritone; clean, even projection. Cadence & Tempo - Firm, direct, moderate tempo; businesslike and efficient. Mannerisms - Flat, nasal terminal vowels; frank, no-nonsense delivery; pragmatic appraisal in every statement.
 
 DISPATCHER
-RAF Dispatcher - Fenrir. Accent: Working-Class British (London Estuary / Flight Crew Cockney). Timbre & Pitch: Gritty, raspy, mid-to-high baritone; sharp, cutting vocal edge over roaring aircraft engines. Cadence & Tempo: Rapid, staccato, mechanical rhythm; hurried jump counts. Mannerisms: Dropped initial "h"s and glottal stops; shouting through the slipstream; sharp, barked instructions.
+RAF Dispatcher - Fenrir. Accent - Working-Class British (London Estuary / Flight Crew Cockney). Timbre & Pitch - Gritty, raspy, mid-to-high baritone; sharp, cutting vocal edge over roaring aircraft engines. Cadence & Tempo - Rapid, staccato, mechanical rhythm; hurried jump counts. Mannerisms - Dropped initial "h"s and glottal stops; shouting through the slipstream; sharp, barked instructions.
 
 RICCOMINI
-Lieutenant James Riccomini - Achird. Accent: Cultured English RP with subtle East Midlands (Nottinghamshire) undertones. Timbre & Pitch: Warm, steady, rounded baritone; gentle, reassuring timbre with quiet resonance. Cadence & Tempo: Calm, disciplined, moderate pacing; deliberate and composed. Mannerisms: Softened dental stops; understated bravery; calm, protective officer delivery to his men before battle.
+Lieutenant James Riccomini - Achird. Accent - Cultured English RP with subtle East Midlands (Nottinghamshire) undertones. Timbre & Pitch - Warm, steady, rounded baritone; gentle, reassuring timbre with quiet resonance. Cadence & Tempo - Calm, disciplined, moderate pacing; deliberate and composed. Mannerisms - Softened dental stops; understated bravery; calm, protective officer delivery to his men before battle.
 
 BALERDI
-Sergeant Justo Balerdi ("Robert Bruce") - Iapetus. Accent: Heavy Basque-Spanish phonology speaking rugged soldier's English. Timbre & Pitch: Deep, low-register, gravelly bass; dark, smoky vocal timbre. Cadence & Tempo: Slow, weighty, laconic; speaks only when necessary. Mannerisms: Rolled Basque "r"s; clipped, non-aspirated consonants; quiet, fatalistic intensity.
+Sergeant Justo Balerdi ("Robert Bruce") - Iapetus. Accent - Heavy Basque-Spanish phonology speaking rugged soldier's English. Timbre & Pitch - Deep, low-register, gravelly bass; dark, smoky vocal timbre. Cadence & Tempo - Slow, weighty, laconic; speaks only when necessary. Mannerisms - Rolled Basque "r"s; clipped, non-aspirated consonants; quiet, fatalistic intensity.
 
 RAMOS
-Rafael Ramos - Fenrir. Accent: Fiery Catalan-Spanish accented English (Barcelona Republican soldier). Timbre & Pitch: Gritty, tense, muscular baritone; sharp, raspy texture with high emotional drive. Cadence & Tempo: Quick, aggressive, staccato; bursts of rapid words fueled by adrenaline. Mannerisms: Trilled alveolar consonants; sharp, aspirated breaths; fiercely loyal and explosive vocal manner.
+Rafael Ramos - Fenrir. Accent - Fiery Catalan-Spanish accented English (Barcelona Republican soldier). Timbre & Pitch - Gritty, tense, muscular baritone; sharp, raspy texture with high emotional drive. Cadence & Tempo - Quick, aggressive, staccato; bursts of rapid words fueled by adrenaline. Mannerisms - Trilled alveolar consonants; sharp, aspirated breaths; fiercely loyal and explosive vocal manner.
 
 WILLIAMS
-Frank Williams (Francisco Gerónimo) - Puck. Accent: Andalusian-Spanish phonology overlaid with British Army slang. Timbre & Pitch: Husky, versatile, warm baritone; weathered, sun-baked vocal color. Cadence & Tempo: Fluid, animated, conversational; punctuated by worldly humor. Mannerisms: Dropped word endings; lively melodic lilt; streetwise commando shrug audible in speech.
+Frank Williams (Francisco Gerónimo) - Puck. Accent - Andalusian-Spanish phonology overlaid with British Army slang. Timbre & Pitch - Husky, versatile, warm baritone; weathered, sun-baked vocal color. Cadence & Tempo - Fluid, animated, conversational; punctuated by worldly humor. Mannerisms - Dropped word endings; lively melodic lilt; streetwise commando shrug audible in speech.
 
 KIRKPATRICK
-Piper David Kirkpatrick - Fenrir. Accent: Broad West-Coast Scottish (Ayrshire / Girvan coal miner's dialect). Timbre & Pitch: Rough-hewn, gravelly, reedy baritone; coarse, earthy chest resonance. Cadence & Tempo: Rollicking, buoyant, rapid Scottish lilt; rhythmic, musical phrasing. Mannerisms: Heavy Scottish rolling "r"s; glottalized "t"s; dry, self-deprecating humor; defiant battle shout.
+Piper David Kirkpatrick - Fenrir. Accent - Broad West-Coast Scottish (Ayrshire / Girvan coal miner's dialect). Timbre & Pitch - Rough-hewn, gravelly, reedy baritone; coarse, earthy chest resonance. Cadence & Tempo - Rollicking, buoyant, rapid Scottish lilt; rhythmic, musical phrasing. Mannerisms - Heavy Scottish rolling "r"s; glottalized "t"s; dry, self-deprecating humor; defiant battle shout.
 
 HUGHES
-Corporal Jim Hughes - Achird. Accent: Northern English (Yorkshire working-class). Timbre & Pitch: Dry, level, mid-register baritone; steady, unpolished texture. Cadence & Tempo: Unflappable, even, measured; straightforward soldier cadence. Mannerisms: Broadened short vowels; no-frills, reliable delivery; calm battlefield focus.
+Corporal Jim Hughes - Achird. Accent - Northern English (Yorkshire working-class). Timbre & Pitch - Dry, level, mid-register baritone; steady, unpolished texture. Cadence & Tempo - Unflappable, even, measured; straightforward soldier cadence. Mannerisms - Broadened short vowels; no-frills, reliable delivery; calm battlefield focus.
 
 GURNEY
-Sergeant "Buster" Gurney - Orus. Accent: Urban British (Broad London / South London working-class sergeant). Timbre & Pitch: Booming, powerful, gravel-laced baritone; thick, barrel-chested projection. Cadence & Tempo: Punchy, rhythmic, marching cadence; sharp, commanding cadence. Mannerisms: Aggressive dropped vowels, glottal stops; sergeant-major barking authority; zero tolerance for panic.
+Sergeant "Buster" Gurney - Orus. Accent - Urban British (Broad London / South London working-class sergeant). Timbre & Pitch - Booming, powerful, gravel-laced baritone; thick, barrel-chested projection. Cadence & Tempo - Punchy, rhythmic, marching cadence; sharp, commanding cadence. Mannerisms - Aggressive dropped vowels, glottal stops; sergeant-major barking authority; zero tolerance for panic.
 
 GALLAGHER
-Gunner Paddy Gallagher - Puck. Accent: Hearty Irish Brogue (Ulster / Northern Irish working-class). Timbre & Pitch: Lively, rich, warm baritone; musical, open-chested resonance. Cadence & Tempo: Brisk, singing cadence; rolling, upbeat tempo. Mannerisms: Melodic vowel extensions; guttural "ch" sounds; boisterous cheerfulness under fire.
+Gunner Paddy Gallagher - Puck. Accent - Hearty Irish Brogue (Ulster / Northern Irish working-class). Timbre & Pitch - Lively, rich, warm baritone; musical, open-chested resonance. Cadence & Tempo - Brisk, singing cadence; rolling, upbeat tempo. Mannerisms - Melodic vowel extensions; guttural "ch" sounds; boisterous cheerfulness under fire.
 
 PIROGOV
-Captain Viktor Pirogov - Orus. Accent: Guttural Soviet Russian speaking broken, heavily accented English and Italian. Timbre & Pitch: Massive, booming, authoritative baritone; granite-hard resonance. Cadence & Tempo: Heavy, martial, stomping tempo; emphatic stress on final consonants. Mannerisms: Pronounced Slavic rolled "r"s; thick, palatalized consonants; rigid, unyielding Red Army commander delivery.
+Captain Viktor Pirogov - Orus. Accent - Guttural Soviet Russian speaking broken, heavily accented English and Italian. Timbre & Pitch - Massive, booming, authoritative baritone; granite-hard resonance. Cadence & Tempo - Heavy, martial, stomping tempo; emphatic stress on final consonants. Mannerisms - Pronounced Slavic rolled "r"s; thick, palatalized consonants; rigid, unyielding Red Army commander delivery.
 
 TARASOV
-Tarasov - Fenrir. Accent: Rough Russian soldier phonology. Timbre & Pitch: Raspy, strained, smoky mid-baritone; tight throat tension. Cadence & Tempo: Short, barked syllables; tense, fast, military staccato. Mannerisms: Harsh guttural fricatives; wary, alert inflections; speaks like a combat scout in hostile snow.
+Tarasov - Fenrir. Accent - Rough Russian soldier phonology. Timbre & Pitch - Raspy, strained, smoky mid-baritone; tight throat tension. Cadence & Tempo - Short, barked syllables; tense, fast, military staccato. Mannerisms - Harsh guttural fricatives; wary, alert inflections; speaks like a combat scout in hostile snow.
 
 SMERSH OFFICER
-Soviet SMERSH Officer - Iapetus. Accent: Cold, formal Great Russian standard. Timbre & Pitch: Low, icy, hollow bass; chillingly smooth resonance devoid of warmth. Cadence & Tempo: Slow, clinical, metronomic; deliberate, interrogative pauses. Mannerisms: Precise, sibilant consonants; quiet, predatory menace; never raises his voice to intimidate.
+Soviet SMERSH Officer - Iapetus. Accent - Cold, formal Great Russian standard. Timbre & Pitch - Low, icy, hollow bass; chillingly smooth resonance devoid of warmth. Cadence & Tempo - Slow, clinical, metronomic; deliberate, interrogative pauses. Mannerisms - Precise, sibilant consonants; quiet, predatory menace; never raises his voice to intimidate.
 
 GUARD
-Soviet Sentry - Achird. Accent: Raw rural Russian. Timbre & Pitch: Flat, reedy, dry baritone; gritty and vigilant. Cadence & Tempo: Abrupt, sharp, utilitarian. Mannerisms: Hard, barking challenges; suspicious, narrowed vocal tone; short, blunt commands.
+Soviet Sentry - Achird. Accent - Raw rural Russian. Timbre & Pitch - Flat, reedy, dry baritone; gritty and vigilant. Cadence & Tempo - Abrupt, sharp, utilitarian. Mannerisms - Hard, barking challenges; suspicious, narrowed vocal tone; short, blunt commands.
 
 SCHMIDT
-Hans Schmidt - Achird. Accent: Distinct Alsatian dialect (blend of French lilt and German guttural stops). Timbre & Pitch: Nervous, light, slightly breathy baritone; soft, vulnerable texture. Cadence & Tempo: Hesitant, uneven tempo; rushes nervously when explaining himself. Mannerisms: Softened German consonants; French-inflected rising intonation at sentence ends; earnest plea for trust.
+Hans Schmidt - Achird. Accent - Distinct Alsatian dialect (blend of French lilt and German guttural stops). Timbre & Pitch - Nervous, light, slightly breathy baritone; soft, vulnerable texture. Cadence & Tempo - Hesitant, uneven tempo; rushes nervously when explaining himself. Mannerisms - Softened German consonants; French-inflected rising intonation at sentence ends; earnest plea for trust.
 
 HAUCK
-General der Gebirgstruppe Friedrich-Wilhelm Hauck - Iapetus. Accent: Formal Prussian-German military aristocracy. Timbre & Pitch: Stately, gravelly, aristocratic bass; austere and domineering chest resonance. Cadence & Tempo: Rigid, methodical, slow; imperious and structured. Mannerisms: Glottalized vowel attacks; sharp, clicking dental stops; cold, aristocratic detachment.
+General der Gebirgstruppe Friedrich-Wilhelm Hauck - Iapetus. Accent - Formal Prussian-German military aristocracy. Timbre & Pitch - Stately, gravelly, aristocratic bass; austere and domineering chest resonance. Cadence & Tempo - Rigid, methodical, slow; imperious and structured. Mannerisms - Glottalized vowel attacks; sharp, clicking dental stops; cold, aristocratic detachment.
 
 SD OFFICER
-SD Officer - Fenrir. Accent: Hard-edged High German (Third Reich security apparatus standard). Timbre & Pitch: Tight, nasal, rasping baritone; cutting, venomous edge. Cadence & Tempo: Rapid, clipped, menacing staccato; sharp spikes in volume. Mannerisms: Hard alveolar stops; sneering, contemptuous cadence; interrogative, invasive tone.
+SD Officer - Fenrir. Accent - Hard-edged High German (Third Reich security apparatus standard). Timbre & Pitch - Tight, nasal, rasping baritone; cutting, venomous edge. Cadence & Tempo - Rapid, clipped, menacing staccato; sharp spikes in volume. Mannerisms - Hard alveolar stops; sneering, contemptuous cadence; interrogative, invasive tone.
 
 FELDGENDARME MAJOR
-Feldgendarme Major - Orus. Accent: Standard Wehrmacht German (Prussian bureaucratic military cadence). Timbre & Pitch: Harsh, commanding, iron-clad baritone; loud, barking projection. Cadence & Tempo: Stiff, rhythmic, punctilious; relentless march rhythm. Mannerisms: Dogged, by-the-book inflexibility; explosive emphasis on protocol and papers.
+Feldgendarme Major - Orus. Accent - Standard Wehrmacht German (Prussian bureaucratic military cadence). Timbre & Pitch - Harsh, commanding, iron-clad baritone; loud, barking projection. Cadence & Tempo - Stiff, rhythmic, punctilious; relentless march rhythm. Mannerisms - Dogged, by-the-book inflexibility; explosive emphasis on protocol and papers.
 
 GERMAN FELDGENDARM
-German Feldgendarm - Puck. Accent: Regional German (Bavarian or Swabian working-class inflection). Timbre & Pitch: Mid-register, coarse baritone; slightly brassy edge. Cadence & Tempo: Brisk, suspicious, abrupt. Mannerisms: Throat-clearing gutturals; harsh interrogative barks; rigid military obedience.
+German Feldgendarm - Puck. Accent - Regional German (Bavarian or Swabian working-class inflection). Timbre & Pitch - Mid-register, coarse baritone; slightly brassy edge. Cadence & Tempo - Brisk, suspicious, abrupt. Mannerisms - Throat-clearing gutturals; harsh interrogative barks; rigid military obedience.
 
 GERMAN SENTRY
-German Sentry - Achird. Accent: Young Northern German standard. Timbre & Pitch: Dry, taut, youthful baritone; nervous mid-register. Cadence & Tempo: Quick, jumpy, reactive cadence. Mannerisms: Sharp intakes of winter air; snappy challenge phrasing; defensive, tense consonants.
+German Sentry - Achird. Accent - Young Northern German standard. Timbre & Pitch - Dry, taut, youthful baritone; nervous mid-register. Cadence & Tempo - Quick, jumpy, reactive cadence. Mannerisms - Sharp intakes of winter air; snappy challenge phrasing; defensive, tense consonants.
 
 FASCIST COMMANDER
-Italian Fascist Republican Commander - Orus. Accent: Northern Italian (Emilian-Romagnol / Salò Republican cadre). Timbre & Pitch: Theatrical, brassy, strained baritone; operatic, pompous resonance. Cadence & Tempo: Fast, declamatory, punctuated by rhetorical flourishes. Mannerisms: Sweeping melodic crests; aggressive, rolling dental consonants; fanatical, desperate bravado.
+Italian Fascist Republican Commander - Orus. Accent - Northern Italian (Emilian-Romagnol / Salò Republican cadre). Timbre & Pitch - Theatrical, brassy, strained baritone; operatic, pompous resonance. Cadence & Tempo - Fast, declamatory, punctuated by rhetorical flourishes. Mannerisms - Sweeping melodic crests; aggressive, rolling dental consonants; fanatical, desperate bravado.
 
 CORRADO
-Corrado - Fenrir. Accent: Rural Northern Italian (Apennine mountain dialect). Timbre & Pitch: Rough, leathery, smoky baritone; weathered by cold and tobacco. Cadence & Tempo: Measured, gritty, deliberate pacing; unhurried mountain rhythm. Mannerisms: Deep chest rumbles; truncated regional endings; cynical, battle-hardened shrug in voice.
+Corrado - Fenrir. Accent - Rural Northern Italian (Apennine mountain dialect). Timbre & Pitch - Rough, leathery, smoky baritone; weathered by cold and tobacco. Cadence & Tempo - Measured, gritty, deliberate pacing; unhurried mountain rhythm. Mannerisms - Deep chest rumbles; truncated regional endings; cynical, battle-hardened shrug in voice.
 
 YOUNG PARTISAN
-Young Italian Partisan - Puck. Accent: Bright Northern Italian (Emilia-Romagna regional dialect). Timbre & Pitch: Light, buoyant, eager tenor-baritone; clear and open. Cadence & Tempo: Fast, breathless, excitable; speaks in rapid waves. Mannerisms: Expressive musical cadence; animated pitch leaps; youthful, partisan defiance.
+Young Italian Partisan - Puck. Accent - Bright Northern Italian (Emilia-Romagna regional dialect). Timbre & Pitch - Light, buoyant, eager tenor-baritone; clear and open. Cadence & Tempo - Fast, breathless, excitable; speaks in rapid waves. Mannerisms - Expressive musical cadence; animated pitch leaps; youthful, partisan defiance.
 
 PARTISAN
-Italian Partisan - Achird. Accent: Rugged Northern Italian peasant dialect. Timbre & Pitch: Muffled, earthy, warm baritone; grounded chest tone. Cadence & Tempo: Steady, cautious, plainspoken. Mannerisms: Heavy dental stops; quiet, conspiratorial murmurs; practical and watchful.
+Italian Partisan - Achird. Accent - Rugged Northern Italian peasant dialect. Timbre & Pitch - Muffled, earthy, warm baritone; grounded chest tone. Cadence & Tempo - Steady, cautious, plainspoken. Mannerisms - Heavy dental stops; quiet, conspiratorial murmurs; practical and watchful.
 
 YOUNG GARIBALDINO
-Young Garibaldino Partisan - Fenrir. Accent: Fierce Northern Italian working-class cadence. Timbre & Pitch: Raw, gravelly, youthful baritone; tense, raspy vocal fry. Cadence & Tempo: Impatient, sharp, aggressive; driving revolutionary tempo. Mannerisms: Passionate vocal breaks; emphatic hand-gesture rhythm behind words; fierce anti-fascist venom.
+Young Garibaldino Partisan - Fenrir. Accent - Fierce Northern Italian working-class cadence. Timbre & Pitch - Raw, gravelly, youthful baritone; tense, raspy vocal fry. Cadence & Tempo - Impatient, sharp, aggressive; driving revolutionary tempo. Mannerisms - Passionate vocal breaks; emphatic hand-gesture rhythm behind words; fierce anti-fascist venom.
 
 MILITIA BOY
-Italian Fascist Militia Boy - Puck. Accent: Northern Italian urban youth dialect. Timbre & Pitch: Thin, reedy, cracking tenor-baritone; tight throat constriction. Cadence & Tempo: Frantic, stammering, erratic; rapid changes in speed. Mannerisms: Audible gulps; high-pitched anxiety; fading bravado that crumbles into terrified panic.
+Italian Fascist Militia Boy - Puck. Accent - Northern Italian urban youth dialect. Timbre & Pitch - Thin, reedy, cracking tenor-baritone; tight throat constriction. Cadence & Tempo - Frantic, stammering, erratic; rapid changes in speed. Mannerisms - Audible gulps; high-pitched anxiety; fading bravado that crumbles into terrified panic.
 
 RADIO ANNOUNCER
-Radio Announcer - Orus. Accent: Refined Continental Italian broadcast cadence (Allied PWB radio from Caserta). Timbre & Pitch: Rich, sonorous, polished baritone; resonant radio-studio warmth. Cadence & Tempo: Fluid, metered, articulate; steady broadcasting tempo. Mannerisms: Clear, lilting Italian vowels; smooth radio-announcer transitions; crisp rhetorical pauses.
+Radio Announcer - Orus. Accent - Refined Continental Italian broadcast cadence (Allied PWB radio from Caserta). Timbre & Pitch - Rich, sonorous, polished baritone; resonant radio-studio warmth. Cadence & Tempo - Fluid, metered, articulate; steady broadcasting tempo. Mannerisms - Clear, lilting Italian vowels; smooth radio-announcer transitions; crisp rhetorical pauses.
 
 GUIDO
-Guido (Didimo Mantovani) - Fenrir. Accent: Northern Italian (Emilian working-class Communist cadence). Timbre & Pitch: Gritty, hoarse, passionate baritone; smoke-stained, textured resonance. Cadence & Tempo: Driving, rhythmic, relentless cadence; forceful and urgent. Mannerisms: Hammering emphasis on stressed syllables; intense ideological gravity; fierce, protective comrade tone.
+Guido (Didimo Mantovani) - Fenrir. Accent - Northern Italian (Emilian working-class Communist cadence). Timbre & Pitch - Gritty, hoarse, passionate baritone; smoke-stained, textured resonance. Cadence & Tempo - Driving, rhythmic, relentless cadence; forceful and urgent. Mannerisms - Hammering emphasis on stressed syllables; intense ideological gravity; fierce, protective comrade tone.
 
 DON CARLO
-Don Carlo (Don Carlo Cocchi) - Iapetus. Accent: Dignified Northern Italian with clerical, liturgical Latinate refinement. Timbre & Pitch: Deep, velvet, paternal bass; warm, reverberant chest resonance. Cadence & Tempo: Unhurried, contemplative, pastoral cadence; calm, soothing pauses. Mannerisms: Gentle, round vowels; quiet spiritual strength; never raises voice, radiates moral authority.
+Don Carlo (Don Carlo Cocchi) - Iapetus. Accent - Dignified Northern Italian with clerical, liturgical Latinate refinement. Timbre & Pitch - Deep, velvet, paternal bass; warm, reverberant chest resonance. Cadence & Tempo - Unhurried, contemplative, pastoral cadence; calm, soothing pauses. Mannerisms - Gentle, round vowels; quiet spiritual strength; never raises voice, radiates moral authority.
 
 MONDUCCI
-Glauco Monducci ("Gordon") - Puck. Accent: Sharp, educated Northern Italian (Reggio Emilia urban dialect). Timbre & Pitch: Engaging, agile, dynamic baritone; bright, steel-edged vibrancy. Cadence & Tempo: Fast, incisive, fluid; tactical and quick-thinking. Mannerisms: Iron-willed charisma; playful sardonic humor; sharp, razor-clean commands in battle.
+Glauco Monducci ("Gordon") - Puck. Accent - Sharp, educated Northern Italian (Reggio Emilia urban dialect). Timbre & Pitch - Engaging, agile, dynamic baritone; bright, steel-edged vibrancy. Cadence & Tempo - Fast, incisive, fluid; tactical and quick-thinking. Mannerisms - Iron-willed charisma; playful sardonic humor; sharp, razor-clean commands in battle.
 
 GORRIERI
-Ermanno Gorrieri ("Claudio") - Achird. Accent: Cultured, thoughtful Northern Italian (Modena / Christian Democrat leader). Timbre & Pitch: Steady, smooth, intellectual baritone; clean and warm texture. Cadence & Tempo: Analytical, moderate, diplomatic pacing; carefully measured. Mannerisms: Diplomatic restraint; softly spoken persuasion; balancing competing political factions with calm logic.
+Ermanno Gorrieri ("Claudio") - Achird. Accent - Cultured, thoughtful Northern Italian (Modena / Christian Democrat leader). Timbre & Pitch - Steady, smooth, intellectual baritone; clean and warm texture. Cadence & Tempo - Analytical, moderate, diplomatic pacing; carefully measured. Mannerisms - Diplomatic restraint; softly spoken persuasion; balancing competing political factions with calm logic.
 
 CARITA
-Dr. Roberto Carità - Achird. Accent: Educated Tuscan-Italian with refined medical cadence. Timbre & Pitch: Weary, soft, empathetic baritone; raspy and gentle from exhaustion. Cadence & Tempo: Slow, deliberate, soothing tempo; steady bedside manner. Mannerisms: Gentle sighs between sentences; precise, clinical terminology delivered with human tenderness.
+Dr. Roberto Carità - Achird. Accent - Educated Tuscan-Italian with refined medical cadence. Timbre & Pitch - Weary, soft, empathetic baritone; raspy and gentle from exhaustion. Cadence & Tempo - Slow, deliberate, soothing tempo; steady bedside manner. Mannerisms - Gentle sighs between sentences; precise, clinical terminology delivered with human tenderness.
 
 GIOVANNA
-Giovanna Quadreri ("Giorgio") - Vega. Accent: Melodic Northern Italian (Emilian mountain dialect). Timbre & Pitch: Bright, clear, youthful soprano; crystalline and resolute. Cadence & Tempo: Brisk, light-footed, urgent rhythm; purposeful and spirited. Mannerisms: Crisp, fearless delivery; rapid mountain-courier breath control; defiant, steely courage underlying a youthful voice.
+Giovanna Quadreri ("Giorgio") - Vega. Accent - Melodic Northern Italian (Emilian mountain dialect). Timbre & Pitch - Bright, clear, youthful soprano; crystalline and resolute. Cadence & Tempo - Brisk, light-footed, urgent rhythm; purposeful and spirited. Mannerisms - Crisp, fearless delivery; rapid mountain-courier breath control; defiant, steely courage underlying a youthful voice.
 
 AMGOT MAJOR
-AMGOT Major - Iapetus. Accent: Mid-Atlantic / Eastern Seaboard American bureaucracy standard. Timbre & Pitch: Plump, booming, self-important bass-baritone; resonant, comfortable projection. Cadence & Tempo: Ponderous, administrative, bureaucratic cadence; slow and self-satisfied. Mannerisms: Heavy sighs over red tape; patronizing drawl; sounds like a city councilman managing occupied territory.
+AMGOT Major - Iapetus. Accent - Mid-Atlantic / Eastern Seaboard American bureaucracy standard. Timbre & Pitch - Plump, booming, self-important bass-baritone; resonant, comfortable projection. Cadence & Tempo - Ponderous, administrative, bureaucratic cadence; slow and self-satisfied. Mannerisms - Heavy sighs over red tape; patronizing drawl; sounds like a city councilman managing occupied territory.
 
 MILLER
-Lieutenant Miller - Puck. Accent: Midwestern American (Ohio flat drawl). Timbre & Pitch: Bright, open-throated, energetic baritone; brassy, confident projection. Cadence & Tempo: Easygoing, upbeat, brisk American cadence; relaxed in the turret. Mannerisms: Casual rhotic "r"s; gum-chewing rhythm; jovial frontline informality when greeting Allied commandos.
+Lieutenant Miller - Puck. Accent - Midwestern American (Ohio flat drawl). Timbre & Pitch - Bright, open-throated, energetic baritone; brassy, confident projection. Cadence & Tempo - Easygoing, upbeat, brisk American cadence; relaxed in the turret. Mannerisms - Casual rhotic "r"s; gum-chewing rhythm; jovial frontline informality when greeting Allied commandos.
 
 AMERICAN SERGEANT
-American Sergeant - Fenrir. Accent: Urban Northeastern American (Brooklyn / New York GI). Timbre & Pitch: Gritty, nasal, rough-edged baritone; gravelly bark. Cadence & Tempo: Snappy, punchy, cynical tempo; motor-mouth delivery. Mannerisms: Dropped "r"s replaced with hard diphthongs; sarcastic quips; seasoned infantry combat fatigue.
+American Sergeant - Fenrir. Accent - Urban Northeastern American (Brooklyn / New York GI). Timbre & Pitch - Gritty, nasal, rough-edged baritone; gravelly bark. Cadence & Tempo - Snappy, punchy, cynical tempo; motor-mouth delivery. Mannerisms - Dropped "r"s replaced with hard diphthongs; sarcastic quips; seasoned infantry combat fatigue.
 
 AMERICAN GUNNER
-American Gunner - Achird. Accent: Rural American (Southern / Midwestern drawl). Timbre & Pitch: Dry, twangy, relaxed baritone; laid-back chest resonance. Cadence & Tempo: Slow, drawling, languid cadence; never flustered. Mannerisms: Elongated vowels; casual chewing cadence; calm, matter-of-fact responses over tank intercom.
+American Gunner - Achird. Accent - Rural American (Southern / Midwestern drawl). Timbre & Pitch - Dry, twangy, relaxed baritone; laid-back chest resonance. Cadence & Tempo - Slow, drawling, languid cadence; never flustered. Mannerisms - Elongated vowels; casual chewing cadence; calm, matter-of-fact responses over tank intercom.
 
 QUARTERMASTER
-British Quartermaster - Fenrir. Accent: Broad Cockney / East London working-class. Timbre & Pitch: Gravelly, raspy, world-weary baritone; sandpaper dryness. Cadence & Tempo: Fast, cynical, grumbling tempo; rhythmic sighing. Mannerisms: Glottal stops, swallowed consonants; perpetually aggrieved tone over missing stores and damaged kit.
+British Quartermaster - Fenrir. Accent - Broad Cockney / East London working-class. Timbre & Pitch - Gravelly, raspy, world-weary baritone; sandpaper dryness. Cadence & Tempo - Fast, cynical, grumbling tempo; rhythmic sighing. Mannerisms - Glottal stops, swallowed consonants; perpetually aggrieved tone over missing stores and damaged kit.
 
 BRITISH MP
-British MP - Iapetus. Accent: Stiff British Military Regional (Lancashire / Northern regular soldier). Timbre & Pitch: Deep, gruff, inflexible bass; heavy, unyielding resonance. Cadence & Tempo: Monotone, metronomic, rigid pacing; plodding. Mannerisms: Wooden, literal delivery; impenetrable military bureaucracy; by-the-manual inflexibility.
+British MP - Iapetus. Accent - Stiff British Military Regional (Lancashire / Northern regular soldier). Timbre & Pitch - Deep, gruff, inflexible bass; heavy, unyielding resonance. Cadence & Tempo - Monotone, metronomic, rigid pacing; plodding. Mannerisms - Wooden, literal delivery; impenetrable military bureaucracy; by-the-manual inflexibility.
 
 CLERK
-British Staff Clerk - Puck. Accent: Clipped British Home Counties RP. Timbre & Pitch: Dry, high-mid baritone; brisk, slightly nasal tone. Cadence & Tempo: Hurried, administrative, staccato; efficient typing-pool rhythm. Mannerisms: Fastidious enunciation; sharp clearing of throat; timid yet stubborn adherence to HQ standing orders.
+British Staff Clerk - Puck. Accent - Clipped British Home Counties RP. Timbre & Pitch - Dry, high-mid baritone; brisk, slightly nasal tone. Cadence & Tempo - Hurried, administrative, staccato; efficient typing-pool rhythm. Mannerisms - Fastidious enunciation; sharp clearing of throat; timid yet stubborn adherence to HQ standing orders.
 
 
 

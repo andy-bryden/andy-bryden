@@ -4,103 +4,103 @@ The heavy water sabotage, Norway, 1943
 Cast
 
 NARRATOR
-Narrator - Charon. Accent: Vintage Mid-Century British Received Pronunciation (1940s BBC / Documentary standard). Timbre & Pitch: Deep, commanding, resonant bass; rich chest resonance and immaculate clarity. Cadence & Tempo: Deliberate, measured, stately pacing; dramatic pauses that heighten tension and historical gravity. Mannerisms: Formal documentary detachment; crisp dental consonants; unflappable, somber weight.
+Narrator - Charon. Accent - Vintage Mid-Century British Received Pronunciation (1940s BBC / Documentary standard). Timbre & Pitch - Deep, commanding, resonant bass; rich chest resonance and immaculate clarity. Cadence & Tempo - Deliberate, measured, stately pacing; dramatic pauses that heighten tension and historical gravity. Mannerisms - Formal documentary detachment; crisp dental consonants; unflappable, somber weight.
 
 TRONSTAD
-Major Leif Tronstad - Archird. Accent: Cultured Norwegian-accented English (educated Oslo/Trondheim academic phonology). Timbre & Pitch: Steady, refined, warm baritone; clear, clean, and highly articulate. Cadence & Tempo: Methodical, controlled, moderate tempo; precise scientific explanations delivered with quiet urgency. Mannerisms: Subtle musical rise and fall on vowel endings; soft, lightly tapped "r"s; calm, intellectual composure concealing deep patriotic resolve.
+Major Leif Tronstad - Archird. Accent - Cultured Norwegian-accented English (educated Oslo/Trondheim academic phonology). Timbre & Pitch - Steady, refined, warm baritone; clear, clean, and highly articulate. Cadence & Tempo - Methodical, controlled, moderate tempo; precise scientific explanations delivered with quiet urgency. Mannerisms - Subtle musical rise and fall on vowel endings; soft, lightly tapped "r"s; calm, intellectual composure concealing deep patriotic resolve.
 
 SKINNARLAND
-Einar Skinnarland - Orus. Accent: Rural Eastern Norwegian (Telemark regional inflection). Timbre & Pitch: Robust, earthy, mid-baritone with a firm, solid core. Cadence & Tempo: Unhurried, deliberate, grounded; speaks with pragmatic directness. Mannerisms: Natural, understated delivery; slightly broadened vowels; unflinching, quiet confidence of a native woodsman and dam technician.
+Einar Skinnarland - Orus. Accent - Rural Eastern Norwegian (Telemark regional inflection). Timbre & Pitch - Robust, earthy, mid-baritone with a firm, solid core. Cadence & Tempo - Unhurried, deliberate, grounded; speaks with pragmatic directness. Mannerisms - Natural, understated delivery; slightly broadened vowels; unflinching, quiet confidence of a native woodsman and dam technician.
 
 WILSON
-Lieutenant Colonel J. S. Wilson - Orus. Accent: High-Level British Military Received Pronunciation (Senior Officer / SOE Scandinavian Section). Timbre & Pitch: Authoritative, resonant baritone; gravelly, dry, and commanding. Cadence & Tempo: Crisp, brisk, decisive; measured pauses of a senior commander assessing operational risk. Mannerisms: Clipped consonants; sharp, non-nonsense enunciation; patrician British military bearing.
+Lieutenant Colonel J. S. Wilson - Orus. Accent - High-Level British Military Received Pronunciation (Senior Officer / SOE Scandinavian Section). Timbre & Pitch - Authoritative, resonant baritone; gravelly, dry, and commanding. Cadence & Tempo - Crisp, brisk, decisive; measured pauses of a senior commander assessing operational risk. Mannerisms - Clipped consonants; sharp, non-nonsense enunciation; patrician British military bearing.
 
 PERRIN
-Dr. Michael Perrin - Puck. Accent: Refined British Academic Received Pronunciation (Oxford/Tube Alloys scientific liaison). Timbre & Pitch: Mid-to-high baritone; clear, crisp, and intellectual with zero vocal fry. Cadence & Tempo: Quick, fluid, alert; rapid delivery of technical intelligence and atomic implications. Mannerisms: Light, articulate dental work; analytical intensity; polite, high-society scholarly cadence.
+Dr. Michael Perrin - Puck. Accent - Refined British Academic Received Pronunciation (Oxford/Tube Alloys scientific liaison). Timbre & Pitch - Mid-to-high baritone; clear, crisp, and intellectual with zero vocal fry. Cadence & Tempo - Quick, fluid, alert; rapid delivery of technical intelligence and atomic implications. Mannerisms - Light, articulate dental work; analytical intensity; polite, high-society scholarly cadence.
 
 POULSSON
-Lieutenant Jens-Anton Poulsson - Iapetus. Accent: Formal Norwegian Military English (East Norwegian / Oslo officer cadence). Timbre & Pitch: Mature, deep, grounded bass-baritone; weathered, steady, and paternal. Cadence & Tempo: Slow, disciplined, rock-solid; unshakeable rhythm even under extreme privation. Mannerisms: Quietly authoritative; deep chest breathing; firm, understated stoicism reflecting months of survival on the frozen Hardanger plateau.
+Lieutenant Jens-Anton Poulsson - Iapetus. Accent - Formal Norwegian Military English (East Norwegian / Oslo officer cadence). Timbre & Pitch - Mature, deep, grounded bass-baritone; weathered, steady, and paternal. Cadence & Tempo - Slow, disciplined, rock-solid; unshakeable rhythm even under extreme privation. Mannerisms - Quietly authoritative; deep chest breathing; firm, understated stoicism reflecting months of survival on the frozen Hardanger plateau.
 
 HAUGLAND
-Sergeant Knut Haugland - Archird. Accent: Soft Western Norwegian (Stavanger/Rogaland dialect). Timbre & Pitch: Quiet, steady, reedy baritone; clean, intimate, and friendly. Cadence & Tempo: Metronomic, calm, unhurried; rhythmic phrasing reminiscent of a Morse code operator. Mannerisms: Speaks softly to conserve energy; precise, gentle enunciation; unflappable coolness under the threat of German direction-finding vans.
+Sergeant Knut Haugland - Archird. Accent - Soft Western Norwegian (Stavanger/Rogaland dialect). Timbre & Pitch - Quiet, steady, reedy baritone; clean, intimate, and friendly. Cadence & Tempo - Metronomic, calm, unhurried; rhythmic phrasing reminiscent of a Morse code operator. Mannerisms - Speaks softly to conserve energy; precise, gentle enunciation; unflappable coolness under the threat of German direction-finding vans.
 
 KJELSTRUP
-Sergeant Arne Kjelstrup - Fenrir. Accent: Tough Eastern Norwegian (Oslo / Akershus working cadence). Timbre & Pitch: Coarse, low-register baritone; dry, gritty, frost-bitten gravel. Cadence & Tempo: Blunt, economical, laconic; speaks in tight, practical fragments. Mannerisms: Utilitarian roughness; low, rasping intakes of breath; no wasted syllables or ornamentation.
+Sergeant Arne Kjelstrup - Fenrir. Accent - Tough Eastern Norwegian (Oslo / Akershus working cadence). Timbre & Pitch - Coarse, low-register baritone; dry, gritty, frost-bitten gravel. Cadence & Tempo - Blunt, economical, laconic; speaks in tight, practical fragments. Mannerisms - Utilitarian roughness; low, rasping intakes of breath; no wasted syllables or ornamentation.
 
 HELBERG
-Sergeant Claus Helberg - Puck. Accent: Energetic Telemark Norwegian (Rjukan native). Timbre & Pitch: Bright, athletic, versatile baritone; warm and buoyant with sharp clarity. Cadence & Tempo: Rapid, agile, kinetic; speaks with the quick reflexes of an elite mountain skier. Mannerisms: Confident, wry humor audible through dialogue; sharp, percussive consonants; breathless resilience during physical crisis.
+Sergeant Claus Helberg - Puck. Accent - Energetic Telemark Norwegian (Rjukan native). Timbre & Pitch - Bright, athletic, versatile baritone; warm and buoyant with sharp clarity. Cadence & Tempo - Rapid, agile, kinetic; speaks with the quick reflexes of an elite mountain skier. Mannerisms - Confident, wry humor audible through dialogue; sharp, percussive consonants; breathless resilience during physical crisis.
 
 RONNEBERG
-Lieutenant Joachim Rønneberg - Fenrir. Accent: Steely Western Norwegian (Sunnmøre / Ålesund coastal inflection). Timbre & Pitch: Gritty, taut, focused baritone; razor-sharp edge without being loud. Cadence & Tempo: Strict, clipped, controlled, and precise; surgical pacing with no room for hesitation. Mannerisms: Absolute, cold military discipline; crisp articulation; quiet, magnetic command that demands instant obedience.
+Lieutenant Joachim Rønneberg - Fenrir. Accent - Steely Western Norwegian (Sunnmøre / Ålesund coastal inflection). Timbre & Pitch - Gritty, taut, focused baritone; razor-sharp edge without being loud. Cadence & Tempo - Strict, clipped, controlled, and precise; surgical pacing with no room for hesitation. Mannerisms - Absolute, cold military discipline; crisp articulation; quiet, magnetic command that demands instant obedience.
 
 HAUKELID
-Captain Knut Haukelid - Orus. Accent: Rugged Norwegian with subtle American-influenced vowels (Brooklyn-born, Telemark-raised). Timbre & Pitch: Powerful, deep, resonant baritone; heavy chest resonance and commanding weight. Cadence & Tempo: Steady, forceful, driving tempo; direct and uncompromising. Mannerisms: Aggressive, confident leadership; hard, percussive consonants; raw, visceral determination.
+Captain Knut Haukelid - Orus. Accent - Rugged Norwegian with subtle American-influenced vowels (Brooklyn-born, Telemark-raised). Timbre & Pitch - Powerful, deep, resonant baritone; heavy chest resonance and commanding weight. Cadence & Tempo - Steady, forceful, driving tempo; direct and uncompromising. Mannerisms - Aggressive, confident leadership; hard, percussive consonants; raw, visceral determination.
 
 KAYSER
-Sergeant Fredrik Kayser - Puck. Accent: Vibrant Western Norwegian (Bergen regional dialect). Timbre & Pitch: Engaging, clear, mid-register baritone; nimble and alert. Cadence & Tempo: Brisk, lively, responsive; maintains a cool, steady tempo under gunfire. Mannerisms: Melodic Bergen pitch contours; quiet, cheerful nonchalance in extreme danger; crisp, light consonants.
+Sergeant Fredrik Kayser - Puck. Accent - Vibrant Western Norwegian (Bergen regional dialect). Timbre & Pitch - Engaging, clear, mid-register baritone; nimble and alert. Cadence & Tempo - Brisk, lively, responsive; maintains a cool, steady tempo under gunfire. Mannerisms - Melodic Bergen pitch contours; quiet, cheerful nonchalance in extreme danger; crisp, light consonants.
 
 STROEMSHEIM
-Sergeant Birger Strømsheim - Archird. Accent: Methodical Western Norwegian (Sunnmøre / Ålesund inflection). Timbre & Pitch: Steady, dry, warm baritone; compact and focused. Cadence & Tempo: Measured, patient, meticulous; speaks with the deliberate care of a demolition technician. Mannerisms: Soft-spoken clarity; tight-lipped concentration; calm, unruffled voice even while lighting safety fuses under pressure.
+Sergeant Birger Strømsheim - Archird. Accent - Methodical Western Norwegian (Sunnmøre / Ålesund inflection). Timbre & Pitch - Steady, dry, warm baritone; compact and focused. Cadence & Tempo - Measured, patient, meticulous; speaks with the deliberate care of a demolition technician. Mannerisms - Soft-spoken clarity; tight-lipped concentration; calm, unruffled voice even while lighting safety fuses under pressure.
 
 IDLAND
-Sergeant Kasper Idland - Puck. Accent: Southwestern Norwegian (Sandnes / Rogaland lilt). Timbre & Pitch: Clear, mid-baritone with a slight reedy edge; lean and vigilant. Cadence & Tempo: Brisk, watchful, responsive; speaks in concise scouting reports. Mannerisms: Tightly wound tension; observant, hushed delivery suited to a sniper and lookout on the railway terrace.
+Sergeant Kasper Idland - Puck. Accent - Southwestern Norwegian (Sandnes / Rogaland lilt). Timbre & Pitch - Clear, mid-baritone with a slight reedy edge; lean and vigilant. Cadence & Tempo - Brisk, watchful, responsive; speaks in concise scouting reports. Mannerisms - Tightly wound tension; observant, hushed delivery suited to a sniper and lookout on the railway terrace.
 
 STORHAUG
-Sergeant Hans Storhaug - Archird. Accent: Hardy Telemark Norwegian (Rjukan valley cadence). Timbre & Pitch: Robust, warm, steady baritone; grounded and earthy. Cadence & Tempo: Unhurried, dependable, straightforward. Mannerisms: Plainspoken mountain demeanor; steady vocal support; reliable soldierly poise.
+Sergeant Hans Storhaug - Archird. Accent - Hardy Telemark Norwegian (Rjukan valley cadence). Timbre & Pitch - Robust, warm, steady baritone; grounded and earthy. Cadence & Tempo - Unhurried, dependable, straightforward. Mannerisms - Plainspoken mountain demeanor; steady vocal support; reliable soldierly poise.
 
 SORLIE
-Rolf Sørlie - Archird. Accent: Broad Telemark Mountain Norwegian (local Rjukan resistance leader). Timbre & Pitch: Conversational, friendly, textured baritone; outdoorsman warmth. Cadence & Tempo: Easygoing, fluid, pragmatic; speaks with intimate local knowledge. Mannerisms: Natural rolling intonation; conspiratorial, low-volume warmth; relaxed confidence on home terrain.
+Rolf Sørlie - Archird. Accent - Broad Telemark Mountain Norwegian (local Rjukan resistance leader). Timbre & Pitch - Conversational, friendly, textured baritone; outdoorsman warmth. Cadence & Tempo - Easygoing, fluid, pragmatic; speaks with intimate local knowledge. Mannerisms - Natural rolling intonation; conspiratorial, low-volume warmth; relaxed confidence on home terrain.
 
 LIER-HANSEN
-Knut Lier-Hansen - Puck. Accent: Working-Class Telemark Norwegian (industrial Lake Tinn cadence). Timbre & Pitch: Supple, tense, youthful baritone; nervous energy and quick resonance. Cadence & Tempo: Rapid, hushed, conspiratorial; hurried pacing under the gaze of German sentries. Mannerisms: Quick glances translated into sharp, swallowed breaths; rapid, urgent whispered enunciation.
+Knut Lier-Hansen - Puck. Accent - Working-Class Telemark Norwegian (industrial Lake Tinn cadence). Timbre & Pitch - Supple, tense, youthful baritone; nervous energy and quick resonance. Cadence & Tempo - Rapid, hushed, conspiratorial; hurried pacing under the gaze of German sentries. Mannerisms - Quick glances translated into sharp, swallowed breaths; rapid, urgent whispered enunciation.
 
 LANDSVERK
-Landsverk - Iapetus. Accent: Deep Rural Telemark Norwegian (rustic, weathered carpenter/farmer). Timbre & Pitch: Low, gravelly, rumbling bass; heavy and dry. Cadence & Tempo: Extremely slow, ponderous, laconic; long pauses before answering. Mannerisms: Weather-beaten stoicism; gruff, monosyllabic directness; resonant chest hum.
+Landsverk - Iapetus. Accent - Deep Rural Telemark Norwegian (rustic, weathered carpenter/farmer). Timbre & Pitch - Low, gravelly, rumbling bass; heavy and dry. Cadence & Tempo - Extremely slow, ponderous, laconic; long pauses before answering. Mannerisms - Weather-beaten stoicism; gruff, monosyllabic directness; resonant chest hum.
 
 JOHANS LOGNVIK
-Johans Lognvik - Archird. Accent: Rural Telemark Norwegian (Hardangervidda edge farming dialect). Timbre & Pitch: Warm, steady, gentle baritone; honest and reassuring. Cadence & Tempo: Unrushed, melodic, pastoral cadence; calm cadence of the high valleys. Mannerisms: Soft, hospitable warmth; rounded Scandinavian vowels; quiet, stubborn defiance.
+Johans Lognvik - Archird. Accent - Rural Telemark Norwegian (Hardangervidda edge farming dialect). Timbre & Pitch - Warm, steady, gentle baritone; honest and reassuring. Cadence & Tempo - Unrushed, melodic, pastoral cadence; calm cadence of the high valleys. Mannerisms - Soft, hospitable warmth; rounded Scandinavian vowels; quiet, stubborn defiance.
 
 JOHANSEN
-Kristian Johansen - Iapetus. Accent: Aging Industrial Telemark Norwegian (Vemork factory night watchman). Timbre & Pitch: Tremulous, worn bass-baritone; thin, reedy, aged texture. Cadence & Tempo: Halting, hesitant, anxious; flustered and bewildered pacing. Mannerisms: Muffled, nervous mumbling; frequent apologetic pauses; frantic concern over missing spectacles; thoroughly submissive and cooperative.
+Kristian Johansen - Iapetus. Accent - Aging Industrial Telemark Norwegian (Vemork factory night watchman). Timbre & Pitch - Tremulous, worn bass-baritone; thin, reedy, aged texture. Cadence & Tempo - Halting, hesitant, anxious; flustered and bewildered pacing. Mannerisms - Muffled, nervous mumbling; frequent apologetic pauses; frantic concern over missing spectacles; thoroughly submissive and cooperative.
 
 FALKENHORST
-Generaloberst Nikolaus von Falkenhorst - Orus. Accent: Aristocratic Prussian-German (Wehrmacht High Command in Norway). Timbre & Pitch: Imperious, powerful, flinty baritone; biting, resonant projection. Cadence & Tempo: Staccato, martial, demanding; sudden incisive bursts of fury. Mannerisms: Crisp, guttural German consonants; clipped military efficiency; grudging, professional respect when analyzing Allied sabotage.
+Generaloberst Nikolaus von Falkenhorst - Orus. Accent - Aristocratic Prussian-German (Wehrmacht High Command in Norway). Timbre & Pitch - Imperious, powerful, flinty baritone; biting, resonant projection. Cadence & Tempo - Staccato, martial, demanding; sudden incisive bursts of fury. Mannerisms - Crisp, guttural German consonants; clipped military efficiency; grudging, professional respect when analyzing Allied sabotage.
 
 HEISENBERG
-Professor Werner Heisenberg - Achird. Accent: High-level German-accented English (academic Bavarian-Prussian blend). Timbre & Pitch: Light, dry baritone; clean, slightly chalky texture. Cadence & Tempo: Methodical, professorial, moderate pace; pauses as if formulating an equation. Mannerisms: Tapped alveolar "r"s; precise, hard dental stops (d pronounced almost like t); analytical and unemotional.
+Professor Werner Heisenberg - Achird. Accent - High-level German-accented English (academic Bavarian-Prussian blend). Timbre & Pitch - Light, dry baritone; clean, slightly chalky texture. Cadence & Tempo - Methodical, professorial, moderate pace; pauses as if formulating an equation. Mannerisms - Tapped alveolar "r"s; precise, hard dental stops (d pronounced almost like t); analytical and unemotional.
 
 WEIZSACKER
-Carl Friedrich von Weizsäcker - Puck. Accent: Cultured Patrician North German (scholarly Prussian-academic). Timbre & Pitch: Warm, refined, melodic baritone; elegant, open-throated resonance. Cadence & Tempo: Thoughtful, fluid, philosophical; smooth theoretical flow. Mannerisms: Sophisticated European polish; delicate articulation of scientific terms; contemplative, reflective pauses.
+Carl Friedrich von Weizsäcker - Puck. Accent - Cultured Patrician North German (scholarly Prussian-academic). Timbre & Pitch - Warm, refined, melodic baritone; elegant, open-throated resonance. Cadence & Tempo - Thoughtful, fluid, philosophical; smooth theoretical flow. Mannerisms - Sophisticated European polish; delicate articulation of scientific terms; contemplative, reflective pauses.
 
 RADIO ANNOUNCER
-BBC Home Service Announcer - Iapetus. Accent: Vintage 1940s BBC Received Pronunciation (Queen's English broadcast standard). Timbre & Pitch: Deep, velvet, impeccably resonant bass; rich acoustic balance. Cadence & Tempo: Unflappable, steady, metronomic cadence; formal cadence designed for wartime overseas broadcast. Mannerisms: Total emotional neutrality; pristine, rounded vowel sets; perfectly clipped consonants; authoritative reassurance.
+BBC Home Service Announcer - Iapetus. Accent - Vintage 1940s BBC Received Pronunciation (Queen's English broadcast standard). Timbre & Pitch - Deep, velvet, impeccably resonant bass; rich acoustic balance. Cadence & Tempo - Unflappable, steady, metronomic cadence; formal cadence designed for wartime overseas broadcast. Mannerisms - Total emotional neutrality; pristine, rounded vowel sets; perfectly clipped consonants; authoritative reassurance.
 
 MEDICAL OFFICER
-German Medical Officer - Archird. Accent: Formal Austrian/Bavarian-German (clinical Wehrmacht medical staff). Timbre & Pitch: Dry, cool, mid-register baritone; detached and professional. Cadence & Tempo: Measured, bureaucratic, efficient; clinical routine pacing. Mannerisms: Slightly clipped, polite skepticism; precise, surgical enunciation; matter-of-fact bed-side demeanor in a provincial clinic.
+German Medical Officer - Archird. Accent - Formal Austrian/Bavarian-German (clinical Wehrmacht medical staff). Timbre & Pitch - Dry, cool, mid-register baritone; detached and professional. Cadence & Tempo - Measured, bureaucratic, efficient; clinical routine pacing. Mannerisms - Slightly clipped, polite skepticism; precise, surgical enunciation; matter-of-fact bed-side demeanor in a provincial clinic.
 
 GERMAN SERGEANT
-German Sergeant - Fenrir. Accent: Harsh Lower Saxon / Northern German (Wehrmacht ski patrol NCO). Timbre & Pitch: Raspy, strained, aggressive baritone; raw, throat-tearing bark. Cadence & Tempo: Rapid, breathless, staccato shouts; ragged breathing from cross-country ski pursuit. Mannerisms: Guttural, spat-out commands; sharp military barking; venomous vocal aggression echoing across the snowfields.
+German Sergeant - Fenrir. Accent - Harsh Lower Saxon / Northern German (Wehrmacht ski patrol NCO). Timbre & Pitch - Raspy, strained, aggressive baritone; raw, throat-tearing bark. Cadence & Tempo - Rapid, breathless, staccato shouts; ragged breathing from cross-country ski pursuit. Mannerisms - Guttural, spat-out commands; sharp military barking; venomous vocal aggression echoing across the snowfields.
 
 SWEDISH CORPORAL
-Swedish Corporal - Archird. Accent: Formal Swedish (neutral Scandinavian border guard phonology). Timbre & Pitch: Light, balanced, friendly baritone; smooth, neutral texture. Cadence & Tempo: Singing, melodic Swedish intonation; unhurried, polite, procedural. Mannerisms: Rhythmic Scandinavian cadence; mild, non-threatening bureaucrat's tone; neutral, dispassionate courtesy at the frontier checkpoint.
+Swedish Corporal - Archird. Accent - Formal Swedish (neutral Scandinavian border guard phonology). Timbre & Pitch - Light, balanced, friendly baritone; smooth, neutral texture. Cadence & Tempo - Singing, melodic Swedish intonation; unhurried, polite, procedural. Mannerisms - Rhythmic Scandinavian cadence; mild, non-threatening bureaucrat's tone; neutral, dispassionate courtesy at the frontier checkpoint.
 
 DISPATCHER
-RAF Dispatcher - Fenrir. Accent: Working-Class British (Cockney / London Estuary NCO). Timbre & Pitch: Harsh, gravelly, punchy baritone; strained projection over Halifax bomber engines. Cadence & Tempo: Rapid-fire, urgent, percussive rhythm; barking cues against cabin noise. Mannerisms: Glottal stops; wide, flat vowels; shouting through cupped hands; taut operational adrenaline.
+RAF Dispatcher - Fenrir. Accent - Working-Class British (Cockney / London Estuary NCO). Timbre & Pitch - Harsh, gravelly, punchy baritone; strained projection over Halifax bomber engines. Cadence & Tempo - Rapid-fire, urgent, percussive rhythm; barking cues against cabin noise. Mannerisms - Glottal stops; wide, flat vowels; shouting through cupped hands; taut operational adrenaline.
 
 WATCHMAN
-Watchman at the Mæl slip - Iapetus. Accent: Weary Telemark Norwegian (Lake Tinn night-shift worker). Timbre & Pitch: Heavy, sleepy, gravelly bass; thick and drowsy. Cadence & Tempo: Sluggish, dragging, monotonous tempo; low-energy night-shift cadence. Mannerisms: Yawning, swallowed vowels; slow, uncoordinated responses; completely off-guard and unsuspecting.
+Watchman at the Mæl slip - Iapetus. Accent - Weary Telemark Norwegian (Lake Tinn night-shift worker). Timbre & Pitch - Heavy, sleepy, gravelly bass; thick and drowsy. Cadence & Tempo - Sluggish, dragging, monotonous tempo; low-energy night-shift cadence. Mannerisms - Yawning, swallowed vowels; slow, uncoordinated responses; completely off-guard and unsuspecting.
 
 PILOT
-RAF Flight Lieutenant - Puck. Accent: Classic Mid-Century British RAF Officer RP. Timbre & Pitch: Crisp, clear, ringing baritone; clean, buoyant resonance over the intercom. Cadence & Tempo: Brisk, cheerful, unflappable tempo; steady hand through turbulence and flak. Mannerisms: Breezy under-statement; neat, clipped military consonants; cheerful professional nonchalance.
+RAF Flight Lieutenant - Puck. Accent - Classic Mid-Century British RAF Officer RP. Timbre & Pitch - Crisp, clear, ringing baritone; clean, buoyant resonance over the intercom. Cadence & Tempo - Brisk, cheerful, unflappable tempo; steady hand through turbulence and flak. Mannerisms - Breezy under-statement; neat, clipped military consonants; cheerful professional nonchalance.
 
 BOMBARDIER
-B-17 Bombardier - Fenrir. Accent: Mid-Century General American (Midwestern / Rust Belt USAAF). Timbre & Pitch: Tense, metallic, nasal mid-baritone; strained against oxygen mask and intercom static. Cadence & Tempo: Urgent, technical, staccato readout of coordinates and bomb-run markers. Mannerisms: Compressed, flat American vowels; sharp, punchy call-outs; high-altitude adrenaline edge.
+B-17 Bombardier - Fenrir. Accent - Mid-Century General American (Midwestern / Rust Belt USAAF). Timbre & Pitch - Tense, metallic, nasal mid-baritone; strained against oxygen mask and intercom static. Cadence & Tempo - Urgent, technical, staccato readout of coordinates and bomb-run markers. Mannerisms - Compressed, flat American vowels; sharp, punchy call-outs; high-altitude adrenaline edge.
 
 STOKER
-Stoker of the S/F Hydro - Fenrir. Accent: Gruff Coastal Norwegian (working-class Telemark ferry hand). Timbre & Pitch: Deep, soot-caked, grating baritone; coarse and rumbling. Cadence & Tempo: Heavy, blunt, unhurried; tired voice of an engine-room laborer. Mannerisms: Grumbled, low-frequency delivery; phlegmy, worn chest resonance; utilitarian unconcern with topside passengers.
+Stoker of the S/F Hydro - Fenrir. Accent - Gruff Coastal Norwegian (working-class Telemark ferry hand). Timbre & Pitch - Deep, soot-caked, grating baritone; coarse and rumbling. Cadence & Tempo - Heavy, blunt, unhurried; tired voice of an engine-room laborer. Mannerisms - Grumbled, low-frequency delivery; phlegmy, worn chest resonance; utilitarian unconcern with topside passengers.
 
 MATE
-First Mate of the S/F Hydro - Archird. Accent: Maritime Southern Norwegian (coastal ferry officer). Timbre & Pitch: Sturdy, clear, practical baritone; weathered but polished. Cadence & Tempo: Steady, brisk, routine nautical cadence; crisp professional rhythm. Mannerisms: Familiar, genial maritime confidence; habitual authority over boarding passengers and departure schedules.
+First Mate of the S/F Hydro - Archird. Accent - Maritime Southern Norwegian (coastal ferry officer). Timbre & Pitch - Sturdy, clear, practical baritone; weathered but polished. Cadence & Tempo - Steady, brisk, routine nautical cadence; crisp professional rhythm. Mannerisms - Familiar, genial maritime confidence; habitual authority over boarding passengers and departure schedules.
 
 
 

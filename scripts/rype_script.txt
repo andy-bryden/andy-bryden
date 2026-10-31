@@ -4,127 +4,127 @@ The American sabotage campaign in Norway, 1945
 Cast
 
 NARRATOR 
-Narrator - Charon. Accent: Mid-Century General American (authoritative March of Time / newsreel documentary style). Timbre & Pitch: Deep, resonant, cinematic bass with commanding presence. Cadence & Tempo: Measured, driving, steady cadence; deliberate pauses for dramatic weight. Mannerisms: Immaculate radio-age enunciation; grave, historic weight; compelling storytelling rhythm.
+Narrator - Charon. Accent - Mid-Century General American (authoritative March of Time / newsreel documentary style). Timbre & Pitch - Deep, resonant, cinematic bass with commanding presence. Cadence & Tempo - Measured, driving, steady cadence; deliberate pauses for dramatic weight. Mannerisms - Immaculate radio-age enunciation; grave, historic weight; compelling storytelling rhythm.
 
 COLBY 
-Major William Colby - Achird. Accent: Neutral Mid-Century General American (Beltway-Washington bureaucracy). Timbre & Pitch: Flat, dry, low-register baritone; completely devoid of vocal warmth or color. Cadence & Tempo: Metronomic, steady, unruffled, low-energy. Mannerisms: Unflinching composure; tight-lipped legalistic enunciation; sounds like an intelligence director testifying before a congressional committee.
+Major William Colby - Achird. Accent - Neutral Mid-Century General American (Beltway-Washington bureaucracy). Timbre & Pitch - Flat, dry, low-register baritone; completely devoid of vocal warmth or color. Cadence & Tempo - Metronomic, steady, unruffled, low-energy. Mannerisms - Unflinching composure; tight-lipped legalistic enunciation; sounds like an intelligence director testifying before a congressional committee.
 
 CHURCHILL 
-Sir Winston Churchill - Orus. Accent: Vintage Upper-Class British (1940s Aristocratic, Old Harrovian RP). Timbre & Pitch: Deep, heavy baritone; gravelly, wet resonance; slightly muffled. Cadence & Tempo: Very slow, deliberate, ponderous. Stately pauses between clauses. Mannerisms: Noticeable lateral lisp (slushy "s" and "z" sounds); audible breathing; sudden rhetorical punches on stressed vowels.
+Sir Winston Churchill - Orus. Accent - Vintage Upper-Class British (1940s Aristocratic, Old Harrovian RP). Timbre & Pitch - Deep, heavy baritone; gravelly, wet resonance; slightly muffled. Cadence & Tempo - Very slow, deliberate, ponderous. Stately pauses between clauses. Mannerisms - Noticeable lateral lisp (slushy "s" and "z" sounds); audible breathing; sudden rhetorical punches on stressed vowels.
 
 KING HAAKON VII 
-King Haakon VII - Orus. Accent: Conservative Danish accent speaking Norwegian or Scandinavian-inflected English (soft Danish glottal stops and vowel shifts). Timbre & Pitch: Deep, warm, gravelly baritone; rich, paternal resonance. Cadence & Tempo: Slow, unhurried, reassuring, heavy with emotional gravity. Mannerisms: Heavy, worn chest resonance; grandfatherly steadiness; resolute wartime-broadcast delivery.
+King Haakon VII - Orus. Accent - Conservative Danish accent speaking Norwegian or Scandinavian-inflected English (soft Danish glottal stops and vowel shifts). Timbre & Pitch - Deep, warm, gravelly baritone; rich, paternal resonance. Cadence & Tempo - Slow, unhurried, reassuring, heavy with emotional gravity. Mannerisms - Heavy, worn chest resonance; grandfatherly steadiness; resolute wartime-broadcast delivery.
 
 HASKELL 
-Colonel Joseph F. Haskell - Iapetus. Accent: Mid-Century Patrician East Coast American (Hudson Valley / West Point military aristocracy). Timbre & Pitch: Mature, grounded, cavernous bass; calm and deeply resonant. Cadence & Tempo: Stately, unhurried, commanding. Mannerisms: Deliberate, quiet authority; rounded executive vowels; never strains or rushes when issuing directives.
+Colonel Joseph F. Haskell - Iapetus. Accent - Mid-Century Patrician East Coast American (Hudson Valley / West Point military aristocracy). Timbre & Pitch - Mature, grounded, cavernous bass; calm and deeply resonant. Cadence & Tempo - Stately, unhurried, commanding. Mannerisms - Deliberate, quiet authority; rounded executive vowels; never strains or rushes when issuing directives.
 
 SULLIVAN 
-Captain Robert Sullivan - Orus. Accent: Crisp Northeastern American (New England Ivy League officer cadence). Timbre & Pitch: Resonant, punchy baritone; clear, athletic projection. Cadence & Tempo: Brisk, decisive, tactical. Mannerisms: Snappy, precise consonants; sharp military brevity; practical operational urgency.
+Captain Robert Sullivan - Orus. Accent - Crisp Northeastern American (New England Ivy League officer cadence). Timbre & Pitch - Resonant, punchy baritone; clear, athletic projection. Cadence & Tempo - Brisk, decisive, tactical. Mannerisms - Snappy, precise consonants; sharp military brevity; practical operational urgency.
 
 JONES 
-First Lieutenant Blaine Jones - Fenrir. Accent: Rural Central Pennsylvania General American (Appalachian highland undertones). Timbre & Pitch: Gritty, textured, earnest mid-baritone; tight and direct. Cadence & Tempo: Steady, direct, plainspoken. Mannerisms: Blue-collar sincerity; grounded, resolute paratrooper focus; clipped sentence endings.
+First Lieutenant Blaine Jones - Fenrir. Accent - Rural Central Pennsylvania General American (Appalachian highland undertones). Timbre & Pitch - Gritty, textured, earnest mid-baritone; tight and direct. Cadence & Tempo - Steady, direct, plainspoken. Mannerisms - Blue-collar sincerity; grounded, resolute paratrooper focus; clipped sentence endings.
 
 MORK 
-Sergeant Glen Mork - Puck. Accent: Norwegian-American Upper Midwest (Minnesota Red River Valley cadence). Timbre & Pitch: Warm, buoyant, engaging baritone; open chest resonance. Cadence & Tempo: Fluid, easygoing, conversational. Mannerisms: Musical Scandinavian rising inflection on questions; unshakeable good humor even in freezing conditions; friendly camaraderie.
+Sergeant Glen Mork - Puck. Accent - Norwegian-American Upper Midwest (Minnesota Red River Valley cadence). Timbre & Pitch - Warm, buoyant, engaging baritone; open chest resonance. Cadence & Tempo - Fluid, easygoing, conversational. Mannerisms - Musical Scandinavian rising inflection on questions; unshakeable good humor even in freezing conditions; friendly camaraderie.
 
 OISTAD 
-Technical Sergeant Leif Oistad - Fenrir. Accent: Norwegian-American Pacific Northwest (Puget Sound / Ballard maritime inflection). Timbre & Pitch: Weathered, gravel-edged baritone; dry and raspy. Cadence & Tempo: Deliberate, curt, steady. Mannerisms: Hard-bitten frontier practicality; clipped vowels; speaks with the quiet caution of a seasoned mountain tracker.
+Technical Sergeant Leif Oistad - Fenrir. Accent - Norwegian-American Pacific Northwest (Puget Sound / Ballard maritime inflection). Timbre & Pitch - Weathered, gravel-edged baritone; dry and raspy. Cadence & Tempo - Deliberate, curt, steady. Mannerisms - Hard-bitten frontier practicality; clipped vowels; speaks with the quiet caution of a seasoned mountain tracker.
 
 FALCK 
-Corporal Knut Falck - Achird. Accent: Norwegian-American (Mid-Atlantic coastal immigrant community). Timbre & Pitch: Steady, clean, mid-register baritone; smooth and unruffled. Cadence & Tempo: Moderate, methodical, disciplined. Mannerisms: Soft-spoken professionalism; tight, disciplined consonants; speaks only when necessary to confirm mission orders.
+Corporal Knut Falck - Achird. Accent - Norwegian-American (Mid-Atlantic coastal immigrant community). Timbre & Pitch - Steady, clean, mid-register baritone; smooth and unruffled. Cadence & Tempo - Moderate, methodical, disciplined. Mannerisms - Soft-spoken professionalism; tight, disciplined consonants; speaks only when necessary to confirm mission orders.
 
 PAULSON 
-Technician Fourth Grade Alf Paulson - Puck. Accent: Prairie Norwegian-American (North Dakota rural drawl). Timbre & Pitch: Hearty, friendly, open-throated baritone. Cadence & Tempo: Unhurried, relaxed, rhythmic. Mannerisms: Broad, rounded vowels; folksy, reassuring demeanor; lighthearted banter that eases tensions in the field.
+Technician Fourth Grade Alf Paulson - Puck. Accent - Prairie Norwegian-American (North Dakota rural drawl). Timbre & Pitch - Hearty, friendly, open-throated baritone. Cadence & Tempo - Unhurried, relaxed, rhythmic. Mannerisms - Broad, rounded vowels; folksy, reassuring demeanor; lighthearted banter that eases tensions in the field.
 
 IVERSON 
-Technician Fifth Grade Bernard Iverson - Iapetus. Accent: Scandinavian-American Upper Midwest (Wisconsin farm country cadence). Timbre & Pitch: Low, rumble-heavy bass; gentle, earthy resonance. Cadence & Tempo: Slow, thoughtful, sparse. Mannerisms: Deep sighs before speaking; calm, stoic reserve; economical phrasing with quiet strength.
+Technician Fifth Grade Bernard Iverson - Iapetus. Accent - Scandinavian-American Upper Midwest (Wisconsin farm country cadence). Timbre & Pitch - Low, rumble-heavy bass; gentle, earthy resonance. Cadence & Tempo - Slow, thoughtful, sparse. Mannerisms - Deep sighs before speaking; calm, stoic reserve; economical phrasing with quiet strength.
 
 FARNSWORTH 
-Lieutenant Glen Farnsworth - Fenrir. Accent: Drawling Southern / Southwestern American (Texas-Oklahoma country edge). Timbre & Pitch: Dry, smoky, rasping baritone with sharp sandpaper edge. Cadence & Tempo: Laconic, dragged cadence during lulls that snaps into fast, razor-sharp focus during demolitions. Mannerisms: Sarcastic bite; audible dry chuckle behind cynical remarks; nonchalant technical swagger.
+Lieutenant Glen Farnsworth - Fenrir. Accent - Drawling Southern / Southwestern American (Texas-Oklahoma country edge). Timbre & Pitch - Dry, smoky, rasping baritone with sharp sandpaper edge. Cadence & Tempo - Laconic, dragged cadence during lulls that snaps into fast, razor-sharp focus during demolitions. Mannerisms - Sarcastic bite; audible dry chuckle behind cynical remarks; nonchalant technical swagger.
 
 SATHER 
-First Lieutenant Tom Sather - Iapetus. Accent: Heavy Norwegian Immigrant English (Nordic seaman phonology blended with rough Brooklyn slang). Timbre & Pitch: Deep, gravelly, booming bass; thick chest resonance. Cadence & Tempo: Plodding, forceful, stubborn. Mannerisms: Hard dental stops ("yah", substituting "d" for "th"); blunt, literal delivery; complete inability to grasp dry American irony.
+First Lieutenant Tom Sather - Iapetus. Accent - Heavy Norwegian Immigrant English (Nordic seaman phonology blended with rough Brooklyn slang). Timbre & Pitch - Deep, gravelly, booming bass; thick chest resonance. Cadence & Tempo - Plodding, forceful, stubborn. Mannerisms - Hard dental stops ("yah", substituting "d" for "th"); blunt, literal delivery; complete inability to grasp dry American irony.
 
 WINDH 
-Technician Fifth Grade Sivert Windh - Puck. Accent: Swedish-American (Native Skåne Swedish lilt overlaid with 1940s GI slang). Timbre & Pitch: Melodic, bright, warm baritone; agile and clear. Cadence & Tempo: Lively, brisk, bouncing Nordic tempo. Mannerisms: Rapid switches between Swedish and English; energetic hand-and-vocal gesturing; quick-witted, disarming conversational charm.
+Technician Fifth Grade Sivert Windh - Puck. Accent - Swedish-American (Native Skåne Swedish lilt overlaid with 1940s GI slang). Timbre & Pitch - Melodic, bright, warm baritone; agile and clear. Cadence & Tempo - Lively, brisk, bouncing Nordic tempo. Mannerisms - Rapid switches between Swedish and English; energetic hand-and-vocal gesturing; quick-witted, disarming conversational charm.
 
 ANDREASEN 
-Corporal Knut Andreasen - Achird. Accent: Norwegian-American (Dakota Norwegian farming community). Timbre & Pitch: Balanced, steady, unassuming mid-baritone. Cadence & Tempo: Even, dependable, unhurried. Mannerisms: Modest, respectful soldierly posture; clear enunciation; grounded and unflappable under fire.
+Corporal Knut Andreasen - Achird. Accent - Norwegian-American (Dakota Norwegian farming community). Timbre & Pitch - Balanced, steady, unassuming mid-baritone. Cadence & Tempo - Even, dependable, unhurried. Mannerisms - Modest, respectful soldierly posture; clear enunciation; grounded and unflappable under fire.
 
 LANGELAND 
-Technician Langeland - Fenrir. Accent: Norwegian-American (Pacific Northwest fishing fleet inflection). Timbre & Pitch: Reedy, taut, focused mid-baritone; slight static-like texture. Cadence & Tempo: Rapid, clipped, metronomic. Mannerisms: Speaks in short, urgent bursts attuned to Morse code rhythm; nervous, hyper-focused auditory intensity.
+Technician Langeland - Fenrir. Accent - Norwegian-American (Pacific Northwest fishing fleet inflection). Timbre & Pitch - Reedy, taut, focused mid-baritone; slight static-like texture. Cadence & Tempo - Rapid, clipped, metronomic. Mannerisms - Speaks in short, urgent bursts attuned to Morse code rhythm; nervous, hyper-focused auditory intensity.
 
 MYRLAND 
-Technician Myrland - Puck. Accent: Upper Midwest Norwegian-American (Northern Minnesota cadence). Timbre & Pitch: Engaging, bright, buoyant baritone; lively and vibrant. Cadence & Tempo: Bounding, energetic, forward-leaning. Mannerisms: Youthful enthusiasm; broad, open vowels; eager soldierly readiness.
+Technician Myrland - Puck. Accent - Upper Midwest Norwegian-American (Northern Minnesota cadence). Timbre & Pitch - Engaging, bright, buoyant baritone; lively and vibrant. Cadence & Tempo - Bounding, energetic, forward-leaning. Mannerisms - Youthful enthusiasm; broad, open vowels; eager soldierly readiness.
 
 HELGESEN 
-Herbert Helgesen - Orus. Accent: Native Norwegian (Trøndelag / Trondheim regional dialect inflecting fluent English). Timbre & Pitch: Hard, steel-edged, resonant baritone; dark and authoritative. Cadence & Tempo: Controlled, tense, watchful; clipped tactical pauses. Mannerisms: Razor-sharp clandestine intensity; vigilant eyes mirrored in tight-jawed enunciation; stern, unbending underground fighter.
+Herbert Helgesen - Orus. Accent - Native Norwegian (Trøndelag / Trondheim regional dialect inflecting fluent English). Timbre & Pitch - Hard, steel-edged, resonant baritone; dark and authoritative. Cadence & Tempo - Controlled, tense, watchful; clipped tactical pauses. Mannerisms - Razor-sharp clandestine intensity; vigilant eyes mirrored in tight-jawed enunciation; stern, unbending underground fighter.
 
 SØNSTEBY 
-Captain Gunnar Sønsteby ("Kjakan") - Achird. Accent: Educated East Norwegian (Oslo / Rjukan urban dialect with refined British SOE English). Timbre & Pitch: Quiet, soft-spoken, dry baritone; gentle yet chillingly composed. Cadence & Tempo: Calm, steady, deceptively mild pace. Mannerisms: Ghostly composure; zero bravado or posturing; commands absolute obedience through quiet, razor-sharp precision and watchful eyes.
+Captain Gunnar Sønsteby ("Kjakan") - Achird. Accent - Educated East Norwegian (Oslo / Rjukan urban dialect with refined British SOE English). Timbre & Pitch - Quiet, soft-spoken, dry baritone; gentle yet chillingly composed. Cadence & Tempo - Calm, steady, deceptively mild pace. Mannerisms - Ghostly composure; zero bravado or posturing; commands absolute obedience through quiet, razor-sharp precision and watchful eyes.
 
 ALLAN 
-Allan Trøite - Iapetus. Accent: Rural Norwegian (Inland Snåsa / Trøndersk mountain dialect). Timbre & Pitch: Heavy, weathered, stone-and-peat bass; cavernous chest resonance. Cadence & Tempo: Slow, rhythmic, ponderous as footsteps through deep snow. Mannerisms: Heavy pauses between thoughts; hospitable warmth masked by taciturn mountain reserve; soft, guttural inhalations of agreement ("ja").
+Allan Trøite - Iapetus. Accent - Rural Norwegian (Inland Snåsa / Trøndersk mountain dialect). Timbre & Pitch - Heavy, weathered, stone-and-peat bass; cavernous chest resonance. Cadence & Tempo - Slow, rhythmic, ponderous as footsteps through deep snow. Mannerisms - Heavy pauses between thoughts; hospitable warmth masked by taciturn mountain reserve; soft, guttural inhalations of agreement ("ja").
 
 ALFRED 
-Alfred - Puck. Accent: Regional Trøndelag Norwegian (Snåsa valley dialect). Timbre & Pitch: Warm, hushed, reedy baritone. Cadence & Tempo: Rapid, furtive, conspiratorial whispers. Mannerisms: Darting, watchful cadence; breathless delivery; constant nervous checking of surroundings.
+Alfred - Puck. Accent - Regional Trøndelag Norwegian (Snåsa valley dialect). Timbre & Pitch - Warm, hushed, reedy baritone. Cadence & Tempo - Rapid, furtive, conspiratorial whispers. Mannerisms - Darting, watchful cadence; breathless delivery; constant nervous checking of surroundings.
 
 LENA 
-Lena Trøite - Leda. Accent: Rural Norwegian (Trøndelag mountain farm dialect). Timbre & Pitch: Warm, rich, empathetic alto; gentle and grounded chest resonance. Cadence & Tempo: Patient, measured, soothing. Mannerisms: Quiet, resolute endurance; musical, comforting Scandinavian cadence; unshakable maternal strength amid danger.
+Lena Trøite - Leda. Accent - Rural Norwegian (Trøndelag mountain farm dialect). Timbre & Pitch - Warm, rich, empathetic alto; gentle and grounded chest resonance. Cadence & Tempo - Patient, measured, soothing. Mannerisms - Quiet, resolute endurance; musical, comforting Scandinavian cadence; unshakable maternal strength amid danger.
 
 COURIER 
-Milorg Courier - Puck. Accent: Local Trøndelag Norwegian (Snåsa district). Timbre & Pitch: Youthful, breathy, high-strung baritone. Cadence & Tempo: Erratic, breathless, tumbling tempo. Mannerisms: Speaking through exhaustion after skiing over frozen passes; gasping pauses; anxious urgency.
+Milorg Courier - Puck. Accent - Local Trøndelag Norwegian (Snåsa district). Timbre & Pitch - Youthful, breathy, high-strung baritone. Cadence & Tempo - Erratic, breathless, tumbling tempo. Mannerisms - Speaking through exhaustion after skiing over frozen passes; gasping pauses; anxious urgency.
 
 LIERMO 
-Liermo - Fenrir. Accent: Mountain Trøndelag Norwegian (harsh rural dialect). Timbre & Pitch: Gruff, raspy, wind-battered mid-baritone; gravelly throat resonance. Cadence & Tempo: Terse, sparse, monosyllabic. Mannerisms: Communicates through grunts and pointed gestures; speaks only when necessary to warn of crevasses or patrols.
+Liermo - Fenrir. Accent - Mountain Trøndelag Norwegian (harsh rural dialect). Timbre & Pitch - Gruff, raspy, wind-battered mid-baritone; gravelly throat resonance. Cadence & Tempo - Terse, sparse, monosyllabic. Mannerisms - Communicates through grunts and pointed gestures; speaks only when necessary to warn of crevasses or patrols.
 
 JONAR JAMA 
-Jonar Jåma - Iapetus. Accent: Southern Sami (Indigenous Saami phonology inflecting Norwegian). Timbre & Pitch: Deep, guttural, resonant bass; earthy, rolling resonance. Cadence & Tempo: Hypnotic, ancient, unhurried cadence. Mannerisms: Gentle glottal stops; singing, elongated vowel trails; stillness of a reindeer herder who lives by wind and silence.
+Jonar Jåma - Iapetus. Accent - Southern Sami (Indigenous Saami phonology inflecting Norwegian). Timbre & Pitch - Deep, guttural, resonant bass; earthy, rolling resonance. Cadence & Tempo - Hypnotic, ancient, unhurried cadence. Mannerisms - Gentle glottal stops; singing, elongated vowel trails; stillness of a reindeer herder who lives by wind and silence.
 
 SCOUT 
-Norwegian Scout - Puck. Accent: Central Norwegian (Trøndelag Milorg ski scout). Timbre & Pitch: Wiry, clear, suppressed baritone. Cadence & Tempo: Snappy, vigilant, tight. Mannerisms: Cupped-hand stage whisper; swift, directional head turns reflected in speech; hyper-alert breathing.
+Norwegian Scout - Puck. Accent - Central Norwegian (Trøndelag Milorg ski scout). Timbre & Pitch - Wiry, clear, suppressed baritone. Cadence & Tempo - Snappy, vigilant, tight. Mannerisms - Cupped-hand stage whisper; swift, directional head turns reflected in speech; hyper-alert breathing.
 
 DISTANT VOICE 
-Distant Voice - Fenrir. Accent: Native Norwegian shouted across open tundra. Timbre & Pitch: Hollow, wind-sheared, echoing baritone; strained projection. Cadence & Tempo: Elongated, spaced-out vocal calls. Mannerisms: Shouting into gale winds; elongated vowels designed to pierce blizzard conditions.
+Distant Voice - Fenrir. Accent - Native Norwegian shouted across open tundra. Timbre & Pitch - Hollow, wind-sheared, echoing baritone; strained projection. Cadence & Tempo - Elongated, spaced-out vocal calls. Mannerisms - Shouting into gale winds; elongated vowels designed to pierce blizzard conditions.
 
 BROMEE 
-Landsfiskal Assistant Herje Bromée - Achird. Accent: Rural Swedish (Jämtland regional dialect). Timbre & Pitch: Mild, steady, plainspoken baritone; warm and dry. Cadence & Tempo: Measured, patient, inquisitive. Mannerisms: Polite village constable authority; non-threatening, calm inquiries; relaxed, neighborly cadence.
+Landsfiskal Assistant Herje Bromée - Achird. Accent - Rural Swedish (Jämtland regional dialect). Timbre & Pitch - Mild, steady, plainspoken baritone; warm and dry. Cadence & Tempo - Measured, patient, inquisitive. Mannerisms - Polite village constable authority; non-threatening, calm inquiries; relaxed, neighborly cadence.
 
 SKUNCKE 
-Landsfiskal Herje Skuncke - Orus. Accent: Formal Swedish (Stockholm civil service / educated provincial standard). Timbre & Pitch: Polished, upright, resonant baritone; firm and distinct. Cadence & Tempo: Stately, legalistic, exacting. Mannerisms: Strict bureaucratic rectitude; crisp articulation of legal terms; neutral neutrality masking subtle sympathies.
+Landsfiskal Herje Skuncke - Orus. Accent - Formal Swedish (Stockholm civil service / educated provincial standard). Timbre & Pitch - Polished, upright, resonant baritone; firm and distinct. Cadence & Tempo - Stately, legalistic, exacting. Mannerisms - Strict bureaucratic rectitude; crisp articulation of legal terms; neutral neutrality masking subtle sympathies.
 
 SWEDISH SERGEANT 
-Swedish Sergeant - Fenrir. Accent: Standard Swedish Military (garrison drill standard). Timbre & Pitch: Barking, rigid, gravelly baritone. Cadence & Tempo: Staccato, brisk, drill-yard rhythm. Mannerisms: Strict military posture audible in sharp, clipped dental consonants; uncompromising adherence to neutral border regulations.
+Swedish Sergeant - Fenrir. Accent - Standard Swedish Military (garrison drill standard). Timbre & Pitch - Barking, rigid, gravelly baritone. Cadence & Tempo - Staccato, brisk, drill-yard rhythm. Mannerisms - Strict military posture audible in sharp, clipped dental consonants; uncompromising adherence to neutral border regulations.
 
 ATTACHE 
-American Attaché - Puck. Accent: Patrician Mid-Atlantic American (Ivy League Foreign Service standard). Timbre & Pitch: Smooth, velvety, polished baritone; cultured and relaxed. Cadence & Tempo: Fluid, discreet, conversational. Mannerisms: Subdued diplomatic volume; aristocratic ease; conspiratorial nonchalance suited to neutral capital backrooms.
+American Attaché - Puck. Accent - Patrician Mid-Atlantic American (Ivy League Foreign Service standard). Timbre & Pitch - Smooth, velvety, polished baritone; cultured and relaxed. Cadence & Tempo - Fluid, discreet, conversational. Mannerisms - Subdued diplomatic volume; aristocratic ease; conspiratorial nonchalance suited to neutral capital backrooms.
 
 BRIEFING OFFICER 
-Briefing Officer - Orus. Accent: Crisp Mid-Century General American (Pentagon / OSS Staff officer). Timbre & Pitch: Bright, projecting, commanding baritone; pristine clarity. Cadence & Tempo: Rapid, structured, bullet-point tempo. Mannerisms: Razor-sharp military delivery; pointer-against-chalkboard cadence; zero tolerance for ambiguity.
+Briefing Officer - Orus. Accent - Crisp Mid-Century General American (Pentagon / OSS Staff officer). Timbre & Pitch - Bright, projecting, commanding baritone; pristine clarity. Cadence & Tempo - Rapid, structured, bullet-point tempo. Mannerisms - Razor-sharp military delivery; pointer-against-chalkboard cadence; zero tolerance for ambiguity.
 
 HUDSON 
-First Lieutenant William F. Hudson - Fenrir. Accent: Midwestern American (Ohio / Great Lakes General American). Timbre & Pitch: Hard-bitten, gravel-edged baritone; taut and strained. Cadence & Tempo: Urgent, disciplined, driving against cockpit vibration. Mannerisms: Clipped flight-intercom cadence; tight-jawed focus while navigating heavy turbulence; unflinching professional grit.
+First Lieutenant William F. Hudson - Fenrir. Accent - Midwestern American (Ohio / Great Lakes General American). Timbre & Pitch - Hard-bitten, gravel-edged baritone; taut and strained. Cadence & Tempo - Urgent, disciplined, driving against cockpit vibration. Mannerisms - Clipped flight-intercom cadence; tight-jawed focus while navigating heavy turbulence; unflinching professional grit.
 
 SMEDLEY 
-Second Lieutenant James H. Smedley - Puck. Accent: Mid-Atlantic American (Mid-Century East Coast officer cadence). Timbre & Pitch: Crisp, youthful, clear baritone; agile and bright. Cadence & Tempo: Quick, responsive, snappy. Mannerisms: High-energy military discipline; rhythmic flight-check responses; sharp, alert composure.
+Second Lieutenant James H. Smedley - Puck. Accent - Mid-Atlantic American (Mid-Century East Coast officer cadence). Timbre & Pitch - Crisp, youthful, clear baritone; agile and bright. Cadence & Tempo - Quick, responsive, snappy. Mannerisms - High-energy military discipline; rhythmic flight-check responses; sharp, alert composure.
 
 NAVIGATOR 
-Flight Navigator - Achird. Accent: Flat Midwestern General American (Plains states flatness). Timbre & Pitch: Flat, dry, steady mid-baritone; completely level. Cadence & Tempo: Metronomic, calm, unhurried. Mannerisms: Mechanical reciting of compass headings and fuel burn; total lack of panic when flying blind in blizzards.
+Flight Navigator - Achird. Accent - Flat Midwestern General American (Plains states flatness). Timbre & Pitch - Flat, dry, steady mid-baritone; completely level. Cadence & Tempo - Metronomic, calm, unhurried. Mannerisms - Mechanical reciting of compass headings and fuel burn; total lack of panic when flying blind in blizzards.
 
 CREW CHIEF 
-Crew Chief - Iapetus. Accent: Working-Class Northeastern American (Brooklyn / New Jersey industrial cadence). Timbre & Pitch: Deep, rumbling, gravel-and-grease bass. Cadence & Tempo: Grunt-heavy, blunt, brisk. Mannerisms: Shouting over four Pratt & Whitney radial engines; raw, abrasive authority; matter-of-fact combat fatigue.
+Crew Chief - Iapetus. Accent - Working-Class Northeastern American (Brooklyn / New Jersey industrial cadence). Timbre & Pitch - Deep, rumbling, gravel-and-grease bass. Cadence & Tempo - Grunt-heavy, blunt, brisk. Mannerisms - Shouting over four Pratt & Whitney radial engines; raw, abrasive authority; matter-of-fact combat fatigue.
 
 POLANSKY 
-Polansky - Orus. Accent: Rust Belt American (Chicago / Great Lakes working-class drawl). Timbre & Pitch: Heavy, resonant, brassy baritone; solid and commanding. Cadence & Tempo: Steady, unshakeable, rhythmic. Mannerisms: Broad vowels; calm veteran swagger at the controls; unruffled heavy-bomber poise.
+Polansky - Orus. Accent - Rust Belt American (Chicago / Great Lakes working-class drawl). Timbre & Pitch - Heavy, resonant, brassy baritone; solid and commanding. Cadence & Tempo - Steady, unshakeable, rhythmic. Mannerisms - Broad vowels; calm veteran swagger at the controls; unruffled heavy-bomber poise.
 
 PULRANG 
-Pulrang - Puck. Accent: Urban New York American (Five Burroughs street cadence). Timbre & Pitch: Spry, gritty, youthful baritone; punchy and nasal. Cadence & Tempo: Snappy, restless, conversational. Mannerisms: Fast-talking city banter; wry, defensive quips while checking parachute static lines.
+Pulrang - Puck. Accent - Urban New York American (Five Burroughs street cadence). Timbre & Pitch - Spry, gritty, youthful baritone; punchy and nasal. Cadence & Tempo - Snappy, restless, conversational. Mannerisms - Fast-talking city banter; wry, defensive quips while checking parachute static lines.
 
 OBERGEFREITER 
-German Obergefreiter - Fenrir. Accent: Native Austrian / South German (Alpine Gebirgsjäger military dialect). Timbre & Pitch: Harsh, guttural, raspy baritone; strained and barking. Cadence & Tempo: Fast staccato bursts; sudden clipped bark. Mannerisms: Glottal attacks on initial vowels; aggressive, suspicious edge; habituated to shouting commands into mountain winds.
+German Obergefreiter - Fenrir. Accent - Native Austrian / South German (Alpine Gebirgsjäger military dialect). Timbre & Pitch - Harsh, guttural, raspy baritone; strained and barking. Cadence & Tempo - Fast staccato bursts; sudden clipped bark. Mannerisms - Glottal attacks on initial vowels; aggressive, suspicious edge; habituated to shouting commands into mountain winds.
 
 BBC ANNOUNCER 
-BBC Announcer - Puck. Accent: Vintage 1940s BBC Received Pronunciation (classic public school broadcast standard). Timbre & Pitch: Resonant, chime-like, warm baritone; immaculate acoustic balance. Cadence & Tempo: Rhythmic, measured, formal, comforting broadcast pace. Mannerisms: Pristine dental consonants; perfectly rounded vowels; legendary wartime composure designed to project calm across occupied Europe.
+BBC Announcer - Puck. Accent - Vintage 1940s BBC Received Pronunciation (classic public school broadcast standard). Timbre & Pitch - Resonant, chime-like, warm baritone; immaculate acoustic balance. Cadence & Tempo - Rhythmic, measured, formal, comforting broadcast pace. Mannerisms - Pristine dental consonants; perfectly rounded vowels; legendary wartime composure designed to project calm across occupied Europe.
 
 
 
