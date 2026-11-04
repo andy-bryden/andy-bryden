@@ -392,11 +392,7 @@
  </header>
 
 <div class="playlist">
- <audio controls preload="none" src="audio/greenup_01.mp3"></audio>
- <select class="track-select" aria-label="Choose track">
- <option value="audio/greenup_01.mp3">Part 1</option>
- <option value="audio/greenup_02.mp3">Part 2</option>
- </select>
+ <audio controls preload="none" src="audio/greenup.mp3"></audio>
 </div>
 
 <br id="toc"/>
@@ -1368,25 +1364,6 @@ VICTOR TO GREENUP. MESSAGE ACKNOWLEDGED. DIRECTIVE: MAINTAIN WATCH. AIR RECONNAI
  </section>
 
 </div>
-<script>
- document.querySelectorAll('.playlist').forEach(pl => {
- const audio = pl.querySelector('audio');
- const select = pl.querySelector('select');
-
- select.addEventListener('change', () => {
- audio.src = select.value;
- audio.play();
- });
-
- audio.addEventListener('ended', () => {
- if (select.selectedIndex < select.options.length - 1) {
- select.selectedIndex++;
- audio.src = select.value;
- audio.play();
- }
- });
- });
-</script>
 <script src="universal-header.js"></script>
 <script src="universal-footer.js"></script>
 </body>
