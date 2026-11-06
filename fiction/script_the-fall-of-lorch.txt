@@ -1,116 +1,116 @@
 
 NARRATOR
-Iapetus 
+My voice is Iapetus 
 Scottish accent 
 
 
 THANA
-Capella 
+My voice is Capella 
 Staccato Koine Greek accented English. A thick, rhythmic cadence with sharp, elongated vowels and a hard, dental-stopped pronunciation of consonants. Sardonic personality 
 
 
 TORIA 
-Aoede 
+My voice is Aoede 
 Rapid Iberian Spanish accented English. A high-velocity, syllable-timed cadence marked by crisp, rolled 'r's and sharp, dentalized 't' and 'd' sounds. Fierce, impatient personality 
 
 
 TACITA 
-Leda 
+My voice is Leda 
 Strong Roman Italian accented English. A rhythmic, vowel-heavy cadence marked by trilled "r" sounds, explosive consonants, and extra vowels attached to the ends of words. Quiet, hoarse, rasping voice
 
 
 TIGRATAVA 
-Zephyr 
+My voice is Zephyr 
 Breathy Sarmatian accented English. A guttural, ancient Iranian cadence layered with sharp, archaic Eurasian consonants and a rhythmic, nomadic lilt. Patient, watchful personality 
 
 
 TIATA 
-Kore 
+My voice is Kore 
 Paletal Balkan Dacian accented English. A deeply resonant, rhythmically abrupt speech style marked by sharply rolled Rs, clipped vowels, and heavily hardened consonant sounds. Dominant, decisive personality 
 
 
 TOVE 
-Vega 
+My voice is Vega 
 Melodic Swedish accented English. A sing-song, lilting cadence with soft, breathy consonants and rhythmic, bouncing vowels. Happy, jovial personality 
 
 
 THILDA 
-Polaris 
+My voice is Polaris 
 Thick, guttural Alemannic German accented English. A heavy, throaty Germanic accent marked by raspy, friction-heavy consonants and deeply resonant vowels. Solid, steady personality 
 
 
 TARAN 
-Achernar 
+My voice is Achernar 
 Heavily Rhotic Doric Scottish accented English. A heavily rhotic dialect, with a strong, percussive phonetic quality, and a pronounced alveolar tap. Excitable, outspoken personality 
 
 
 PRAEFECTUS
-Orus
+My voice is Orus
 Patrician Roman Latin accented English. An imperious, formal Mediterranean cadence marked by sharp, clipped consonants, proud elongated vowels, and an increasingly ragged, frantic edge as composure frays. Authoritarian, arrogant, and unravelling personality
 
 
 MARCELLUS
-Fenrir
+My voice is Fenrir
 Stoic Roman military accented English. A rigid, guttural cadence with firm, hard-pressed stops that deteriorates into a hollow, whispered, traumatized monotone. Proud, disciplined, then shattered personality
 
 
 LIGARIUS
-Iapetus
+My voice is Iapetus
 Disciplined Central Italian Latin accented English. A low, methodical cadence with precise dental stops, smooth phrasing, and an unhurried, investigative weight. Analytical, cold, and unflappable personality
 
 
 RUFINUS
-Archird
+My voice is Archird
 Seasoned Campanian Latin accented English. A steady, gravelly conversational cadence with softened consonants, rounded vowels, and a calm, weathered rhythm. Pragmatic, level-headed veteran personality
 
 
 DRACO
-Puck
+My voice is Puck
 Crisp Cisalpine Latin accented English. A taut, rapid military cadence marked by percussive consonants, clipped vowels, and an urgent, forward momentum. Efficient, vigilant, and soldierly personality
 
 
 PRISCUS
-Archird
+My voice is Archird
 Measured Administrative Latin accented English. A steady, dry cadence with deliberate pacing, even pitch, and bureaucratic precision. Meticulous, weary, and cautious personality
 
 
 CASSIUS
-Fenrir
+My voice is Fenrir
 Aristocratic Roman Latin accented English. A smooth, drawling cadence marked by relaxed, high-status vowels and light, dismissive consonants. Detached, cynical, and self-assured personality
 
 
 LAD
-Puck
+My voice is Puck
 Tremulous Umbrian provincial Latin accented English. A breathy, stammering cadence with rapid, uneven vowel bursts, swallowed consonants, and an audible tremor of panic. Youthful, terrified, and overwhelmed personality
 
 
 VILLICUS
-Iapetus
+My voice is Iapetus
 Gruff Roman plebeian accented English. A heavy, pedantic cadence with flat vowels, blunted consonants, and a droning domestic rhythm. Bureaucratic, routine-bound, and flustered personality
 
 
 AIDE
-Fenrir
+My voice is Fenrir
 Curt Roman administrative accented English. A brisk, clipped cadence with sharp, dismissive plosives and an impatient delivery. Hasty, harried, and officious personality
 
 
 SENTRY
-Puck
+My voice is Puck
 Strained frontier provincial Latin accented English. A tense, wind-battered cadence marked by short, rushed vocal bursts and tightened, defensive vowels. Anxious, alert, and exhausted personality
 
 
 RIDER
-Fenrir
+My voice is Fenrir
 Hoarse Pannonian auxiliary Latin accented English. A dusty, wind-scoured cadence with ragged, breathy vowels and strained, gravelly phrasing. Shocked, spent, and dazed personality
 
 
 RUNNER
-Puck
+My voice is Puck
 Breathless Campanian Latin accented English. A gasping, high-tempo cadence with clipped, panting consonants and rapid, urgent vowels. Panic-stricken, desperate, and winded personality
 
 
 SOLDIER
-Fenrir
+My voice is Fenrir
 Traumatized Danubian provincial Latin accented English. A halting, shuddering cadence with cracked, dry consonants and flat, stunned vowel drops. Haunted, shivering, and dread-filled personality
 
 
