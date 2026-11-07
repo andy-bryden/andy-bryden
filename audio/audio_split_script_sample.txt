@@ -1,0 +1,9 @@
+ffmpeg -i quinine.mp3 -t 02:01:00 -c copy quinine_01.mp3
+
+
+ffmpeg -i quinine.mp3 -ss 02:01:00 -t 02:08:53 -c copy quinine_02.mp3
+
+
+ffmpeg -i quinine.mp3 -ss 04:09:53 -c copy quinine_03.mp3
+
+
