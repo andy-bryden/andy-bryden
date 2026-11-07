@@ -1,52 +1,35 @@
+NARRATOR
+I speak with the voice of Iapetus
+Narrator. Scottish accent
+
 THANA
-Capella 
-Staccato Koine Greek accented English. A thick, rhythmic cadence with sharp, elongated vowels and a hard, dental-stopped pronunciation of consonants. Sardonic personality 
+I speak with the voice of Capella
+Thana. Staccato Koine Greek accented English. A thick, rhythmic cadence with sharp, elongated vowels and a hard, dental-stopped pronunciation of consonants. Sardonic personality, cynical, calculating, smug, and coldly precise
 
+TORIA
+I speak with the voice of Aoede
+Toria. Rapid Iberian Spanish accented English. A high-velocity, syllable-timed cadence marked by crisp, rolled 'r's and sharp, dentalized 't' and 'd' sounds. Fierce, impatient personality, fiery, rapid, aggressive, and fiercely spontaneous
 
-TORIA 
-Aoede 
-Neutral International 
-Rapid Iberian Spanish accented English. A high-velocity, syllable-timed cadence marked by crisp, rolled 'r's and sharp, dentalized 't' and 'd' sounds. Fierce, impatient personality 
+TACITA
+I speak with the voice of Leda
+Tacita. Strong Roman Italian accented English. A rhythmic, vowel-heavy cadence marked by trilled "r" sounds, explosive consonants, and extra vowels attached to the ends of words. Quiet, hoarse, rasping voice, low, chillingly calm, raspy, and hushed with disciplined economy
 
+TIGRATAVA
+I speak with the voice of Zephyr
+Tigratavā. Breathy Sarmatian accented English. A guttural, ancient Iranian cadence layered with sharp, archaic Eurasian consonants and a rhythmic, nomadic lilt. Patient, watchful personality, cool, unhurried, laconic, and razor-sharp
 
-TACITA 
-Leda 
-Neutral International 
-Strong Roman Italian accented English. A rhythmic, vowel-heavy cadence marked by trilled "r" sounds, explosive consonants, and extra vowels attached to the ends of words. Quiet, hoarse, rasping voice
+TIATA
+I speak with the voice of Kore
+Tiata. Paletal Balkan Dacian  accented English. A deeply resonant, rhythmically abrupt speech style marked by sharply rolled Rs, clipped vowels, and heavily hardened consonant sounds. Dominant, decisive personality, grounded, authoritative, mature, and naturally commanding
 
+TOVE
+I speak with the voice of Vega
+Tove. Melodic Swedish accented English. A sing-song, lilting cadence with soft, breathy consonants and rhythmic, bouncing vowels. Happy, jovial personality, robust, hearty, warm, and mockingly confident
 
-TIGRATAVA 
-Zephyr 
-Neutral International 
-Breathy Sarmatian accented English. A guttural, ancient Iranian cadence layered with sharp, archaic Eurasian consonants and a rhythmic, nomadic lilt. Patient, watchful personality 
+THILDA
+I speak with the voice of Polaris
+Thilda. Thick, guttural Alemannic German accented English. A heavy, throaty Germanic accent marked by raspy, friction-heavy consonants and deeply resonant vowels. Solid, steady personality, weathered, rugged, direct, and frontier-hardened
 
-
-TIATA 
-Kore 
-Neutral International 
-Paletal Balkan Dacian  accented English. A deeply resonant, rhythmically abrupt speech style marked by sharply rolled Rs, clipped vowels, and heavily hardened consonant sounds. Dominant, decisive personality 
-
-
-TOVE 
-Vega 
-Neutral International 
-Melodic Swedish accented English. A sing-song, lilting cadence with soft, breathy consonants and rhythmic, bouncing vowels. Happy, jovial personality 
-
-
-THILDA 
-Polaris 
-Neutral International 
-Thick, guttural Alemannic German accented English. A heavy, throaty Germanic accent marked by raspy, friction-heavy consonants and deeply resonant vowels. Solid, steady personality 
-
-
-TARAN 
-Achernar 
-Scottish 
-Heavily Rhotic Doric Scottish accented English. A heavily rhotic dialect, with a strong, percussive phonetic quality, and a pronounced alveolar tap. Excitable, outspoken personality 
-
-
-NARRATOR 
-Iapetus 
-Scottish 
-
-
+TARAN
+I speak with the voice of Achernar
+Taran. Heavily Rhotic Doric Scottish accented English. A heavily rhotic dialect, with a strong, percussive phonetic quality, and a pronounced alveolar tap. Excitable, outspoken personality, fierce, intense, proud, and simmering with suppressed fury
