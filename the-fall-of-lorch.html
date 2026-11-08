@@ -277,6 +277,15 @@
 <body>
 <div class="container">
 <img alt="The Fall of Lorch — When Rome was Hamstrung in 233 AD" src="images/the-fall-of-lorch.jpg" style="display:block; margin:0 auto 20px auto; max-width:100%; height:auto; border-radius: 4px;"/>
+
+<div class="playlist">
+ <audio controls preload="none" src="audio/the-fall-of-lorch_01.mp3"></audio>
+ <select class="track-select" aria-label="Choose track">
+ <option value="audio/the-fall-of-lorch_01.mp3">Part 1</option>
+ <option value="audio/the-fall-of-lorch_02.mp3">Part 2</option>
+ </select>
+</div>
+
 <br id="toc"/>
 <details class="toc">
 <summary>Table of Contents</summary>
@@ -1395,6 +1404,25 @@
 <img alt="The Band" src="images/the-band.jpeg" style="display:block; margin:20px auto; max-width:100%; height:auto; border: 2px solid var(--rust); border-radius: 12px;"/>
 </div>
 </div>
+<script>
+ document.querySelectorAll('.playlist').forEach(pl => {
+ const audio = pl.querySelector('audio');
+ const select = pl.querySelector('select');
+
+ select.addEventListener('change', () => {
+ audio.src = select.value;
+ audio.play();
+ });
+
+ audio.addEventListener('ended', () => {
+ if (select.selectedIndex < select.options.length - 1) {
+ select.selectedIndex++;
+ audio.src = select.value;
+ audio.play();
+ }
+ });
+ });
+</script>
 <script src="universal-header.js"></script>
 <script src="universal-footer.js"></script>
 </body>

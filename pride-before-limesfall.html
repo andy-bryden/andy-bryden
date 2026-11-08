@@ -277,6 +277,15 @@
 <body>
 <div class="container">
 <img alt="Pride before Limesfall — An empire undermined by hubris" src="images/pride-before-limesfall.jpg" style="display:block; margin:0 auto 20px auto; max-width:100%; height:auto; border-radius: 4px;"/>
+
+<div class="playlist">
+ <audio controls preload="none" src="audio/pride-before-limesfall_01.mp3"></audio>
+ <select class="track-select" aria-label="Choose track">
+ <option value="audio/pride-before-limesfall_01.mp3">Part 1</option>
+ <option value="audio/pride-before-limesfall_02.mp3">Part 2</option>
+ </select>
+</div>
+
 <br id="toc"/>
 <details class="toc">
 <summary>Table of Contents</summary>
@@ -1499,6 +1508,25 @@
 <p>Today, the Upper Germanic-Raetian frontier is preserved as part of the UNESCO World Heritage "Frontiers of the Roman Empire".</p>
 </div>
 </div>
+<script>
+ document.querySelectorAll('.playlist').forEach(pl => {
+ const audio = pl.querySelector('audio');
+ const select = pl.querySelector('select');
+
+ select.addEventListener('change', () => {
+ audio.src = select.value;
+ audio.play();
+ });
+
+ audio.addEventListener('ended', () => {
+ if (select.selectedIndex < select.options.length - 1) {
+ select.selectedIndex++;
+ audio.src = select.value;
+ audio.play();
+ }
+ });
+ });
+</script>
 <script src="universal-header.js"></script>
 <script src="universal-footer.js"></script>
 </body>

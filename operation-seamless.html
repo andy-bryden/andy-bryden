@@ -421,6 +421,15 @@
 <div class="book-container">
 
   <img alt="Operation Seamless — A Recovered Archive 1888-1901" src="images/operation-seamless.jpg" style="display:block; margin:0 auto 20px auto; max-width:100%; height:auto; border-radius: 4px;"/>
+
+<div class="playlist">
+ <audio controls preload="none" src="audio/operation-seamless_01.mp3"></audio>
+ <select class="track-select" aria-label="Choose track">
+ <option value="audio/operation-seamless_01.mp3">Part 1</option>
+ <option value="audio/operation-seamless_02.mp3">Part 2</option>
+ </select>
+</div>
+
   <br id="toc"/>
   <details class="toc">
 <summary>Table of Contents</summary>
@@ -1517,6 +1526,25 @@
 
 </section>
 </div>
+<script>
+ document.querySelectorAll('.playlist').forEach(pl => {
+ const audio = pl.querySelector('audio');
+ const select = pl.querySelector('select');
+
+ select.addEventListener('change', () => {
+ audio.src = select.value;
+ audio.play();
+ });
+
+ audio.addEventListener('ended', () => {
+ if (select.selectedIndex < select.options.length - 1) {
+ select.selectedIndex++;
+ audio.src = select.value;
+ audio.play();
+ }
+ });
+ });
+</script>
 <script src="universal-header.js"></script>
 <script src="universal-footer.js"></script>
 </body>
