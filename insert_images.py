@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Insert chXX.YY.webp images into pride-before-limesfall.html.
+Insert chXX.YY.webp images into limesgruppe.html.
 
 XX = chapter number, YY = Nth text paragraph after the chapter header.
 Only <p> lines count; <p class="scene-break"> lines and char-guide divs are skipped.
@@ -15,8 +15,8 @@ from collections import defaultdict
 from pathlib import Path
 
 ap = argparse.ArgumentParser()
-ap.add_argument("--html", default="pride-before-limesfall.html")
-ap.add_argument("--dir", default="images/pride-before-limesfall")
+ap.add_argument("--html", default="limesgruppe.html")
+ap.add_argument("--dir", default="images/limesgruppe")
 ap.add_argument("--write", action="store_true")
 a = ap.parse_args()
 
@@ -47,7 +47,7 @@ def figure(ch, f):
             pass
     src = f"{a.dir.rstrip('/')}/{f.name}"
     return (f'<figure class="scene-img"><img src="{src}" '
-            f'alt="Pride Before Limesfall, chapter {ch}" loading="lazy" decoding="async"{size}></figure>')
+            f'alt="Limesgruppe, chapter {ch}" loading="lazy" decoding="async"{size}></figure>')
 
 HDR = re.compile(r'<div class="section-header" id="([^"]+)">')
 PARA = re.compile(r'^\s*<p(?:\s[^>]*)?>')
